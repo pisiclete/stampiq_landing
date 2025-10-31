@@ -1121,14 +1121,20 @@
                     }
                 });
 
-                // Set initial language from localStorage or browser
+                // Set initial language: prioritize saved language, then browser language, then default to English
                 const savedLanguage = localStorage.getItem('language');
                 const browserLanguage = navigator.language.split('-')[0];
+                const supportedLanguages = ['en', 'de', 'nl', 'pl', 'fr', 'it'];
 
-                if (savedLanguage && ['en', 'de', 'nl', 'pl', 'fr', 'it'].includes(savedLanguage)) {
+                if (savedLanguage && supportedLanguages.includes(savedLanguage)) {
+                    // User has previously selected a language
                     currentLanguage = savedLanguage;
-                } else if (['en', 'de', 'nl', 'pl', 'fr', 'it'].includes(browserLanguage)) {
+                } else if (supportedLanguages.includes(browserLanguage)) {
+                    // First visit: use browser language if supported
                     currentLanguage = browserLanguage;
+                } else {
+                    // Fallback to English
+                    currentLanguage = 'en';
                 }
 
                 // Apply translations
