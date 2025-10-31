@@ -1,0 +1,1218 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title data-i18n="page.title">StampIQ – Your Digital Stamp Collecting Companion | Launching Early 2026</title>
+    <meta name="description" data-i18n-content="page.meta_description"
+        content="Discover, identify, and organize your stamps with ease. StampIQ helps collectors with instant identification, simple collection management, and stamp origins discovery.">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png"
+        href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;600;700;800;900&display=swap"
+        rel="stylesheet">
+
+    <!-- Lottie Player -->
+    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <!-- Floating Sigi Animation -->
+    <div id="sigiContainer" class="sigi-floating">
+        <lottie-player id="sigiAnimation" mode="normal" background="transparent" renderer="svg" autoplay style="width: 120px; height: 120px; transform: scaleX(-1);"></lottie-player>
+    </div>
+
+    <!-- Header -->
+    <header id="header">
+        <nav class="container">
+            <div class="logo-group">
+                <div class="logo">
+                <svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 705.14 174.29">
+                    <defs>
+                        <style>
+                            .cls-1 {
+                                fill: #66e204;
+                            }
+
+                            .cls-2 {
+                                fill: #222;
+                            }
+                        </style>
+                    </defs>
+                    <g id="Layer_1-2" data-name="Layer 1">
+                        <g>
+                            <g>
+                                <path class="cls-2"
+                                    d="M261.71,106.35c0-3.58-1.26-6.34-3.79-8.25-2.53-1.92-7.08-3.94-13.66-6.07-6.58-2.13-11.79-4.23-15.62-6.29-10.46-5.65-15.68-13.26-15.68-22.83,0-4.98,1.4-9.41,4.21-13.31,2.8-3.9,6.83-6.95,12.08-9.14,5.25-2.19,11.14-3.29,17.68-3.29s12.44,1.19,17.58,3.57c5.14,2.38,9.14,5.75,11.98,10.09,2.85,4.35,4.27,9.28,4.27,14.8h-18.97c0-4.21-1.33-7.49-3.99-9.84-2.65-2.34-6.39-3.51-11.19-3.51s-8.24.98-10.81,2.94c-2.57,1.96-3.86,4.55-3.86,7.75,0,2.99,1.51,5.5,4.52,7.53,3.01,2.02,7.45,3.92,13.31,5.69,10.79,3.25,18.66,7.27,23.59,12.08,4.93,4.81,7.4,10.79,7.4,17.96,0,7.97-3.01,14.22-9.04,18.75-6.03,4.53-14.15,6.8-24.35,6.8-7.08,0-13.53-1.3-19.35-3.89-5.82-2.59-10.26-6.15-13.31-10.66-3.06-4.51-4.58-9.74-4.58-15.68h19.04c0,10.16,6.07,15.24,18.21,15.24,4.51,0,8.03-.92,10.56-2.75,2.53-1.83,3.79-4.4,3.79-7.68Z" />
+                                <path class="cls-2"
+                                    d="M314.26,45.25v16.82h11.7v13.41h-11.7v34.15c0,2.53.49,4.34,1.46,5.44.97,1.1,2.82,1.64,5.57,1.64,2.02,0,3.81-.15,5.38-.44v13.85c-3.59,1.1-7.28,1.65-11.07,1.65-12.82,0-19.35-6.47-19.61-19.42v-36.87h-9.99v-13.41h9.99v-16.82h18.28Z" />
+                                <path class="cls-2"
+                                    d="M375.81,130.51c-.85-1.65-1.46-3.69-1.83-6.14-4.43,4.93-10.18,7.4-17.27,7.4-6.71,0-12.26-1.94-16.67-5.82-4.41-3.88-6.61-8.77-6.61-14.67,0-7.25,2.69-12.82,8.06-16.7,5.38-3.88,13.14-5.84,23.31-5.88h8.41v-3.92c0-3.16-.81-5.69-2.44-7.59-1.62-1.9-4.19-2.85-7.69-2.85-3.08,0-5.49.74-7.24,2.21-1.75,1.48-2.62,3.5-2.62,6.07h-18.28c0-3.96,1.22-7.63,3.67-11.01,2.44-3.37,5.9-6.02,10.37-7.94,4.47-1.92,9.49-2.88,15.05-2.88,8.43,0,15.13,2.12,20.08,6.35,4.95,4.24,7.43,10.19,7.43,17.87v29.66c.04,6.49.95,11.41,2.72,14.74v1.08h-18.47ZM360.69,117.8c2.7,0,5.19-.6,7.46-1.8,2.28-1.2,3.96-2.82,5.06-4.84v-11.76h-6.83c-9.15,0-14.02,3.16-14.61,9.49l-.06,1.08c0,2.28.8,4.15,2.4,5.63,1.6,1.48,3.79,2.21,6.58,2.21Z" />
+                                <path class="cls-2"
+                                    d="M422.74,62.07l.57,7.65c4.85-5.95,11.4-8.92,19.67-8.92,8.81,0,14.86,3.48,18.15,10.44,4.8-6.96,11.65-10.44,20.56-10.44,7.42,0,12.94,2.16,16.57,6.48,3.63,4.32,5.44,10.83,5.44,19.51v43.7h-18.34v-43.64c0-3.88-.76-6.72-2.27-8.51-1.52-1.79-4.2-2.69-8.03-2.69-5.48,0-9.27,2.61-11.38,7.84l.06,46.99h-18.28v-43.58c0-3.96-.78-6.83-2.34-8.6-1.56-1.77-4.21-2.65-7.97-2.65-5.19,0-8.94,2.15-11.26,6.45v48.39h-18.28V62.07h17.14Z" />
+                                <path class="cls-2"
+                                    d="M579.34,96.92c0,10.54-2.4,18.98-7.18,25.33-4.78,6.35-11.25,9.52-19.38,9.52-6.92,0-12.5-2.4-16.76-7.21v32.26h-18.28V62.07h16.95l.63,6.71c4.43-5.31,10.2-7.97,17.33-7.97,8.43,0,14.99,3.12,19.67,9.36,4.68,6.24,7.02,14.84,7.02,25.81v.95ZM561.06,95.6c0-6.37-1.13-11.28-3.39-14.74-2.25-3.46-5.53-5.18-9.83-5.18-5.74,0-9.68,2.19-11.83,6.58v28.02c2.24,4.51,6.22,6.77,11.95,6.77,8.73,0,13.09-7.15,13.09-21.44Z" />
+                                <path class="cls-1" d="M612.04,130.51h-18.98V38.42h18.98v92.09Z" />
+                                <path class="cls-1"
+                                    d="M705.14,86.55c0,8.6-1.39,16.08-4.17,22.42-2.79,6.35-6.64,11.44-11.58,15.28l15.31,12.02-12.08,10.69-19.6-15.75c-2.24.38-4.55.57-6.96.57-7.63,0-14.44-1.83-20.43-5.5-5.99-3.67-10.63-8.91-13.92-15.72-3.29-6.81-4.95-14.64-4.99-23.5v-4.55c0-9.07,1.63-17.05,4.9-23.94,3.27-6.89,7.88-12.18,13.85-15.87,5.97-3.69,12.79-5.53,20.46-5.53s14.49,1.85,20.47,5.53c5.97,3.69,10.58,8.98,13.85,15.87,3.26,6.89,4.9,14.85,4.9,23.88v4.11ZM685.91,82.38c0-9.65-1.73-16.99-5.19-22.01s-8.39-7.53-14.8-7.53-11.28,2.48-14.73,7.43c-3.46,4.95-5.21,12.22-5.25,21.79v4.49c0,9.4,1.73,16.7,5.19,21.88,3.45,5.18,8.43,7.78,14.92,7.78s11.26-2.5,14.67-7.49c3.42-5,5.15-12.28,5.19-21.85v-4.49Z" />
+                            </g>
+                            <g>
+                                <path class="cls-1"
+                                    d="M17.31,75.05V25.3c0-4.41,3.59-8,7.99-8h49.76V0H25.3C11.35,0,0,11.35,0,25.3v49.75h17.31Z" />
+                                <path class="cls-1"
+                                    d="M156.98,99.24v49.75c0,4.41-3.59,8-8,8h-49.75v17.31h49.75c13.95,0,25.3-11.35,25.3-25.3v-49.75h-17.31Z" />
+                                <path class="cls-1"
+                                    d="M75.05,156.99H25.3c-4.41,0-7.99-3.59-7.99-8v-49.75H0v49.75c0,13.95,11.35,25.3,25.3,25.3h49.76v-17.31Z" />
+                                <path class="cls-2"
+                                    d="M142.03,97.38v-10.23h-54.92v-54.89h-10.2c-.75,6.09-5.88,10.83-12.17,10.83s-11.43-4.74-12.17-10.83h-20.31v20.31c6.09.75,10.83,5.88,10.83,12.17s-4.74,11.43-10.83,12.17v20.46c6.09.74,10.83,5.88,10.83,12.17s-4.74,11.43-10.83,12.17v20.31h20.31c.74-6.09,5.88-10.83,12.17-10.83s11.43,4.74,12.17,10.83h20.46c.75-6.09,5.88-10.83,12.17-10.83s11.43,4.74,12.17,10.83h20.31v-20.31c-6.09-.74-10.83-5.88-10.83-12.17s4.74-11.43,10.83-12.17Z" />
+                                <rect class="cls-1" x="114.59" y="59.67" width="27.48" height="27.48" />
+                                <rect class="cls-1" x="87.12" y="32.19" width="27.48" height="27.48" />
+                                <rect class="cls-1" x="142.07" y="32.19" width="27.48" height="27.48" />
+                                <rect class="cls-1" x="114.59" y="4.71" width="27.48" height="27.48" />
+                            </g>
+                        </g>
+                    </g>
+                </svg>
+                </div>
+                <div class="swiss-badge">
+                    <svg viewBox="0 0 32 32" width="16" height="16" style="margin-right: 6px;">
+                        <rect width="32" height="32" fill="#FF0000"/>
+                        <rect x="13" y="6" width="6" height="20" fill="white"/>
+                        <rect x="6" y="13" width="20" height="6" fill="white"/>
+                    </svg>
+                    <span data-i18n="badge.swiss_made">Swiss Made</span>
+                </div>
+            </div>
+            <div class="header-badges">
+                <div class="hero-badge" data-i18n="badge.launching">Launching Early 2026</div>
+                <div class="language-selector">
+                    <button class="language-btn" id="languageBtn">
+                        <span class="flag">🇺🇸</span>
+                        <span class="lang-code">EN</span>
+                        <svg class="chevron" width="12" height="12" viewBox="0 0 12 12" fill="none">
+                            <path d="M3 4.5L6 7.5L9 4.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                        </svg>
+                    </button>
+                    <div class="language-dropdown" id="languageDropdown">
+                        <a href="#" class="language-option active" data-lang="en">
+                            <span class="flag">🇺🇸</span>
+                            <span class="lang-code">EN</span>
+                        </a>
+                        <a href="#" class="language-option" data-lang="de">
+                            <span class="flag">🇩🇪</span>
+                            <span class="lang-code">DE</span>
+                        </a>
+                        <a href="#" class="language-option" data-lang="nl">
+                            <span class="flag">🇳🇱</span>
+                            <span class="lang-code">NL</span>
+                        </a>
+                        <a href="#" class="language-option" data-lang="pl">
+                            <span class="flag">🇵🇱</span>
+                            <span class="lang-code">PL</span>
+                        </a>
+                        <a href="#" class="language-option" data-lang="fr">
+                            <span class="flag">🇫🇷</span>
+                            <span class="lang-code">FR</span>
+                        </a>
+                        <a href="#" class="language-option" data-lang="it">
+                            <span class="flag">🇮🇹</span>
+                            <span class="lang-code">IT</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <div class="hero-text">
+                    <h1 data-i18n="hero.heading">Your Digital Stamp Collecting Companion</h1>
+
+                    <!-- Green Hero Card -->
+                    <div class="hero-card">
+                        <p data-i18n="hero.description">Discover, identify, and organize your stamps with ease — all in one smart
+                        app designed for collectors like you.</p>
+                    </div>
+
+                    <!-- Waitlist Perks -->
+                    <div class="waitlist-perks">
+                        <h3 data-i18n="waitlist.heading">Join the waitlist and get:</h3>
+                        <ul class="perk-list">
+                            <li data-i18n="waitlist.perk_1">Early access — 2 weeks before public launch</li>
+                            <li data-i18n="waitlist.perk_2">Exclusive founding collector badge</li>
+                            <li data-i18n="waitlist.perk_3">1 month of Premium features, free for the first 100 users</li>
+                        </ul>
+
+                        <!-- Email Signup Form -->
+                        <form class="email-form" id="waitlistForm">
+                            <input type="email" class="email-input" placeholder="Enter your email" data-i18n-placeholder="waitlist.email_placeholder" required>
+                            <button type="submit" class="submit-btn">
+                                <span class="btn-text" data-i18n="waitlist.button">Get Early Access</span>
+                                <span class="loading"></span>
+                            </button>
+                        </form>
+                    </div>
+
+                    <div class="success-message" id="successMessage" data-i18n="waitlist.success">
+                        You're on the list! We'll notify you when StampIQ launches.
+                    </div>
+
+                    <!-- Email Benefits -->
+                    <div class="email-benefits" id="emailBenefits">
+                        <h3 data-i18n="email_benefits.heading">Check your inbox for:</h3>
+                        <ul class="benefit-list">
+                            <li data-i18n="email_benefits.benefit_1">Welcome email with exclusive updates</li>
+                            <li data-i18n="email_benefits.benefit_2">Behind-the-scenes development progress</li>
+                            <li data-i18n="email_benefits.benefit_3">Priority launch notification</li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Phone Mockup -->
+                <div class="phone-mockup">
+                    <div class="phone-frame">
+                        <div class="phone-screen">
+                            <!-- Empty phone screen - ready for screenshots -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Stats Section -->
+    <section class="stats">
+        <div class="container">
+            <div class="stats-grid">
+                <div class="stat-item">
+                    <div class="stat-number">5K+</div>
+                    <div class="stat-label" data-i18n="stats.stat_1_label">Early Collectors</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">150K+</div>
+                    <div class="stat-label" data-i18n="stats.stat_2_label">Stamps Catalogued</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">95%</div>
+                    <div class="stat-label" data-i18n="stats.stat_3_label">Recognition Accuracy</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number"><span id="recognition-time">10</span>s</div>
+                    <div class="stat-label" data-i18n="stats.stat_4_label">Instant Recognition</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- How It Works Section -->
+    <section class="how-it-works">
+        <div class="container">
+            <h2 class="section-title" data-i18n="how_it_works.section_title">How StampIQ Works</h2>
+            <p class="how-it-works-subtitle" data-i18n="how_it_works.section_subtitle">Everything you need to recognize, collect, and learn — all in one place.
+            </p>
+
+            <div class="steps-container">
+                <div class="feature-grid">
+                    <!-- Scan Card -->
+                    <div class="feature-card">
+                        <div class="feature-icon-circle">
+                            <svg viewBox="0 0 512 512" width="48" height="48">
+                                <path
+                                    d="M194.6 32H317.4C338.1 32 356.4 45.22 362.9 64.82L373.3 96H448C483.3 96 512 124.7 512 160V416C512 451.3 483.3 480 448 480H64C28.65 480 0 451.3 0 416V160C0 124.7 28.65 96 64 96H138.7L149.1 64.82C155.6 45.22 173.9 32 194.6 32H194.6zM256 384C309 384 352 341 352 288C352 234.1 309 192 256 192C202.1 192 160 234.1 160 288C160 341 202.1 384 256 384z"
+                                    fill="currentColor" />
+                            </svg>
+                        </div>
+                        <div class="feature-title" data-i18n="how_it_works.feature_1_title">Scan</div>
+                        <div class="feature-description" data-i18n="how_it_works.feature_1_description">
+                            Recognize your stamps instantly using smart image recognition — one tap, and Sigi does the rest.
+                        </div>
+                        <div class="feature-indicator"></div>
+                    </div>
+
+                    <!-- Collect Card -->
+                    <div class="feature-card">
+                        <div class="feature-icon-circle">
+                            <svg viewBox="0 0 448 512" width="48" height="48">
+                                <path
+                                    d="M50.73 58.53C58.86 42.27 75.48 32 93.67 32H208V160H0L50.73 58.53zM240 160V32H354.3C372.5 32 389.1 42.27 397.3 58.53L448 160H240zM448 416C448 451.3 419.3 480 384 480H64C28.65 480 0 451.3 0 416V192H448V416z"
+                                    fill="currentColor" />
+                            </svg>
+                        </div>
+                        <div class="feature-title" data-i18n="how_it_works.feature_2_title">Collect</div>
+                        <div class="feature-description" data-i18n="how_it_works.feature_2_description">
+                            Build your digital collection, track details, and keep everything neatly organized in one place.
+                        </div>
+                        <div class="feature-indicator"></div>
+                    </div>
+
+                    <!-- Explore Card -->
+                    <div class="feature-card">
+                        <div class="feature-icon-circle">
+                            <svg viewBox="0 0 512 512" width="48" height="48">
+                                <path
+                                    d="M352 256C352 278.2 350.8 299.6 348.7 320H163.3C161.2 299.6 159.1 278.2 159.1 256C159.1 233.8 161.2 212.4 163.3 192H348.7C350.8 212.4 352 233.8 352 256zM503.9 192C509.2 212.5 512 233.9 512 256C512 278.1 509.2 299.5 503.9 320H380.8C382.9 299.4 384 277.1 384 256C384 234 382.9 212.6 380.8 192H503.9zM493.4 160H376.7C366.7 96.14 346.9 42.62 321.4 8.442C399.8 29.09 463.4 85.94 493.4 160zM344.3 160H167.7C173.8 123.6 183.2 91.38 194.7 65.35C205.2 41.74 216.9 24.61 228.2 13.81C239.4 3.178 248.7 0 256 0C263.3 0 272.6 3.178 283.8 13.81C295.1 24.61 306.8 41.74 317.3 65.35C328.8 91.38 338.2 123.6 344.3 160H344.3zM18.61 160C48.59 85.94 112.2 29.09 190.6 8.442C165.1 42.62 145.3 96.14 135.3 160H18.61zM131.2 192C129.1 212.6 127.1 234 127.1 256C127.1 277.1 129.1 299.4 131.2 320H8.065C2.8 299.5 0 278.1 0 256C0 233.9 2.8 212.5 8.065 192H131.2zM194.7 446.6C183.2 420.6 173.8 388.4 167.7 352H344.3C338.2 388.4 328.8 420.6 317.3 446.6C306.8 470.3 295.1 487.4 283.8 498.2C272.6 508.8 263.3 512 255.1 512C248.7 512 239.4 508.8 228.2 498.2C216.9 487.4 205.2 470.3 194.7 446.6H194.7zM190.6 503.6C112.2 482.9 48.59 426.1 18.61 352H135.3C145.3 415.9 165.1 469.4 190.6 503.6V503.6zM321.4 503.6C346.9 469.4 366.7 415.9 376.7 352H493.4C463.4 426.1 399.8 482.9 321.4 503.6V503.6z"
+                                    fill="currentColor" />
+                            </svg>
+                        </div>
+                        <div class="feature-title" data-i18n="how_it_works.feature_3_title">Explore</div>
+                        <div class="feature-description" data-i18n="how_it_works.feature_3_description">
+                            See where your stamps come from on the interactive map and uncover their global connections.
+                        </div>
+                        <div class="feature-indicator"></div>
+                    </div>
+
+                    <!-- Learn Card -->
+                    <div class="feature-card">
+                        <div class="feature-icon-circle">
+                            <img src="svgs/icon_sigi2.svg"
+                                alt="Sigi" style="width: 52px; height: 52px; filter: brightness(0) saturate(100%) invert(73%) sepia(46%) saturate(3171%) hue-rotate(54deg) brightness(101%) contrast(101%);" />
+                        </div>
+                        <div class="feature-title" data-i18n="how_it_works.feature_4_title">Learn</div>
+                        <div class="feature-description" data-i18n="how_it_works.feature_4_description">
+                            Chat with Sigi to discover stories, history, and insights about your stamps and themes you love.
+                        </div>
+                        <div class="feature-indicator"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section class="features">
+        <div class="container">
+            <h2 class="section-title" data-i18n="built_for_collectors.section_title">Everything You Need to Keep Collecting Smarter</h2>
+            <p class="features-subtitle" data-i18n="built_for_collectors.section_subtitle">Explore the tools that make stamp collecting simple, organized, and enjoyable.</p>
+
+            <div class="features-carousel-container">
+                <button class="carousel-nav carousel-nav-left" id="carouselPrev">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M15 18l-6-6 6-6"/>
+                    </svg>
+                </button>
+
+                <div class="features-carousel">
+                    <div class="feature-carousel-card">
+                        <div class="feature-carousel-phone">
+                            <div class="phone-frame">
+                                <div class="phone-screen">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="feature-carousel-content">
+                            <h3 class="feature-carousel-title" data-i18n="built_for_collectors.carousel_1_title">Smart Stamp Scanner</h3>
+                            <p class="feature-carousel-description" data-i18n="built_for_collectors.carousel_1_description">Point your camera at any stamp and get instant identification. StampIQ recognizes stamps from selected countries — one country unlocked for free, with new ones added every month. See detailed catalog information, origin, and issue year in seconds.</p>
+                            <ul class="feature-carousel-list">
+                                <li data-i18n="built_for_collectors.carousel_1_item_1">Scan single stamps or entire pages in bulk</li>
+                                <li data-i18n="built_for_collectors.carousel_1_item_2">Works with stamps from supported countries</li>
+                                <li data-i18n="built_for_collectors.carousel_1_item_3">View catalog numbers and key details</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="feature-carousel-card">
+                        <div class="feature-carousel-phone">
+                            <div class="phone-frame">
+                                <div class="phone-screen">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="feature-carousel-content">
+                            <h3 class="feature-carousel-title" data-i18n="built_for_collectors.carousel_2_title">My Collection</h3>
+                            <p class="feature-carousel-description" data-i18n="built_for_collectors.carousel_2_description">Your complete digital collection in one place. Easily organize, track, and personalize your stamps — from condition and value to certificates and notes.</p>
+                            <ul class="feature-carousel-list">
+                                <li data-i18n="built_for_collectors.carousel_2_item_1">Organize by country, theme, or series</li>
+                                <li data-i18n="built_for_collectors.carousel_2_item_2">Track condition, purchase value, and authenticity certificates</li>
+                                <li data-i18n="built_for_collectors.carousel_2_item_3">Add personal photos and collecting notes</li>
+                                <li>Search and filter your collection by themes or sets</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="feature-carousel-card">
+                        <div class="feature-carousel-phone">
+                            <div class="phone-frame">
+                                <div class="phone-screen">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="feature-carousel-content">
+                            <h3 class="feature-carousel-title" data-i18n="built_for_collectors.carousel_3_title">Catalog</h3>
+                            <p class="feature-carousel-description" data-i18n="built_for_collectors.carousel_3_description">Explore a growing world of stamps — all in one place. Start with one catalog included in your plan and unlock more as new countries are added every month. Browse, search, and dive into detailed information for each issue — from technical specs to historical context.</p>
+                            <ul class="feature-carousel-list">
+                                <li data-i18n="built_for_collectors.carousel_3_item_1">Access<!--
+                                --><span class="stamp-count"></span><!--
+                                -->catalogued stamps</li>
+                                <li data-i18n="built_for_collectors.carousel_3_item_2">One catalog included, new ones added monthly</li>
+                                <li data-i18n="built_for_collectors.carousel_3_item_3">Filter by country, year, theme, or series</li>
+                                <li data-i18n="built_for_collectors.carousel_3_item_4">View detailed images, specifications, and background stories</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="feature-carousel-card">
+                        <div class="feature-carousel-phone">
+                            <div class="phone-frame">
+                                <div class="phone-screen">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="feature-carousel-content">
+                            <h3 class="feature-carousel-title" data-i18n="built_for_collectors.carousel_4_title">Missing Stamps</h3>
+                            <p class="feature-carousel-description" data-i18n="built_for_collectors.carousel_4_description">See which stamps you're missing from your country catalogs or collections. Track your progress, complete series, and easily add missing issues to your wishlist.</p>
+                            <ul class="feature-carousel-list">
+                                <li data-i18n="built_for_collectors.carousel_4_item_1">View missing stamps by country, theme, or series</li>
+                                <li data-i18n="built_for_collectors.carousel_4_item_2">Track collection progress and completion percentage</li>
+                                <li data-i18n="built_for_collectors.carousel_4_item_3">Add missing stamps directly to your wishlist</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="feature-carousel-card">
+                        <div class="feature-carousel-phone">
+                            <div class="phone-frame">
+                                <div class="phone-screen">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="feature-carousel-content">
+                            <h3 class="feature-carousel-title" data-i18n="built_for_collectors.carousel_5_title">My Wishlist</h3>
+                            <p class="feature-carousel-description" data-i18n="built_for_collectors.carousel_5_description">Stay on top of the stamps you're still looking for. Add stamps from your unlocked country catalogs to your wishlist to track what you need, avoid duplicates, and complete your collections faster.</p>
+                            <ul class="feature-carousel-list">
+                                <li data-i18n="built_for_collectors.carousel_5_item_1">Add stamps you don't yet own from unlocked catalogs</li>
+                                <li data-i18n="built_for_collectors.carousel_5_item_2">See if a stamp is already part of your collection</li>
+                                <li data-i18n="built_for_collectors.carousel_5_item_3">Keep your wishlist organized and doublet-free</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="feature-carousel-card">
+                        <div class="feature-carousel-phone">
+                            <div class="phone-frame">
+                                <div class="phone-screen">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="feature-carousel-content">
+                            <h3 class="feature-carousel-title" data-i18n="built_for_collectors.carousel_6_title">Statistics</h3>
+                            <p class="feature-carousel-description" data-i18n="built_for_collectors.carousel_6_description">Understand your collection like never before. See your progress by country or across all collections, track certified stamps, monitor series completion, and discover your most valuable pieces — with weekly insights from Sigi to keep you up to date.</p>
+                            <ul class="feature-carousel-list">
+                                <li data-i18n="built_for_collectors.carousel_6_item_1">View progress by country, series, or total collection</li>
+                                <li data-i18n="built_for_collectors.carousel_6_item_2">Track certified stamps and series completion</li>
+                                <li data-i18n="built_for_collectors.carousel_6_item_3">See your most valuable and rarest stamps</li>
+                                <li data-i18n="built_for_collectors.carousel_6_item_4">Get weekly insights and collecting trends from Sigi</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <button class="carousel-nav carousel-nav-right" id="carouselNext">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M9 18l6-6-6-6"/>
+                    </svg>
+                </button>
+            </div>
+
+            <div class="carousel-dots" id="carouselDots"></div>
+        </div>
+    </section>
+
+    <!-- Map Discovery Section -->
+    <section class="map-section">
+        <div class="container">
+            <h2 class="section-title" data-i18n="map.section_title">Discover Stamps Near You</h2>
+            <p class="features-subtitle" data-i18n="map.section_subtitle">Explore your city through stamps. Find historical locations, learn stories, and visit places depicted on stamps around you.</p>
+            <div class="map-screenshot-container">
+                <!-- Map screenshot will go here -->
+                <img src="images/map_feature.png" alt="StampIQ Map Feature" class="map-screenshot">
+            </div>
+        </div>
+    </section>
+
+    <!-- Collector Types Section -->
+    <section class="collector-types-section">
+        <div class="container">
+            <h2 class="section-title" data-i18n="peace_of_mind.section_title">Built for Collectors. Designed for Peace of Mind.</h2>
+            <p class="features-subtitle" data-i18n="peace_of_mind.section_subtitle">Whether you're discovering your first stamp or managing a lifetime collection, StampIQ adapts to every type of collector — giving you confidence, clarity, and control at every step.</p>
+
+            <div class="collector-types-grid">
+                <div class="collector-type-card">
+                    <h3 class="collector-type-title" data-i18n="collector_types.type_1_title">Casual Collector</h3>
+                    <p class="collector-type-subtitle" data-i18n="collector_types.type_1_subtitle">Collects stamps as a hobby without deep specialization.</p>
+                    <p class="collector-type-description" data-i18n="collector_types.type_1_description">Explore stamps, learn their stories, and grow your collection at your own pace.</p>
+                    <ul class="collector-type-features">
+                        <li data-i18n="collector_types.type_1_feature_1">Identify and organize stamps easily</li>
+                        <li data-i18n="collector_types.type_1_feature_2">Save favorite finds and discover related issues</li>
+                        <li data-i18n="collector_types.type_1_feature_3">Learn the basics of condition, themes, and origins</li>
+                    </ul>
+                </div>
+
+                <div class="collector-type-card">
+                    <h3 class="collector-type-title" data-i18n="collector_types.type_2_title">Enthusiast</h3>
+                    <p class="collector-type-subtitle" data-i18n="collector_types.type_2_subtitle">Actively collects with some specialization — by country, topic, or era.</p>
+                    <p class="collector-type-description" data-i18n="collector_types.type_2_description">Dive deeper into your catalog and collection insights.</p>
+                    <ul class="collector-type-features">
+                        <li data-i18n="collector_types.type_2_feature_1">Track value, rarity, and completion by series or theme</li>
+                        <li data-i18n="collector_types.type_2_feature_2">Access growing country catalogs and detailed references</li>
+                        <li data-i18n="collector_types.type_2_feature_3">Use tools for condition tracking and certificate storage</li>
+                    </ul>
+                </div>
+
+                <div class="collector-type-card">
+                    <h3 class="collector-type-title" data-i18n="collector_types.type_3_title">Professional Collector</h3>
+                    <p class="collector-type-subtitle" data-i18n="collector_types.type_3_subtitle">Advanced philatelist or dealer managing a professional collection.</p>
+                    <p class="collector-type-description"></p>
+                    <ul class="collector-type-features">
+                        <li data-i18n="collector_types.type_3_feature_1">Manage advanced data (catalog references, provenance, valuations)</li>
+                        <li data-i18n="collector_types.type_3_feature_2">Use bulk scanning and export options for efficiency</li>
+                        <li data-i18n="collector_types.type_3_feature_3">Access early feature releases and in-depth statistics</li>
+                    </ul>
+                </div>
+
+                <div class="collector-type-card">
+                    <h3 class="collector-type-title" data-i18n="collector_types.type_4_title">Inherited Collection</h3>
+                    <p class="collector-type-subtitle" data-i18n="collector_types.type_4_subtitle">Managing a family or inherited collection? StampIQ helps you uncover its value and stories.</p>
+                    <p class="collector-type-description"></p>
+                    <ul class="collector-type-features">
+                        <li data-i18n="collector_types.type_4_feature_1">Quickly identify and organize inherited stamps</li>
+                        <li data-i18n="collector_types.type_4_feature_2">Understand historical context and potential worth</li>
+                        <li data-i18n="collector_types.type_4_feature_3">Decide what to keep, sell, or donate confidently</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Founder Section -->
+    <section class="founder-section">
+        <div class="container">
+            <h2 class="section-title" data-i18n="built_by_collectors.section_title">Built by Collectors, for Collectors</h2>
+            <div class="founder-content">
+                <div class="founder-text">
+                    <p data-i18n="built_by_collectors.paragraph_1">StampIQ was born from a simple frustration: managing a stamp collection shouldn't require endless catalogs, manual searches, and guesswork. As a lifelong collector, I knew there had to be a better way.</p>
+                    <p data-i18n="built_by_collectors.paragraph_2">After years of combining my passion for philately with expertise in technology, StampIQ is the solution I wish I had when I started collecting. Every feature is designed with real collectors in mind - because I am one.</p>
+                    <p class="founder-signature" data-i18n="built_by_collectors.signature">— Marius Dygudaj, Founder</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Partnership Section -->
+    <section class="partnership-section">
+        <div class="container">
+            <h2 class="section-title" data-i18n="partnership.section_title">Partner With StampIQ</h2>
+            <p style="color: var(--light-text); font-size: 18px; text-align: center; max-width: 700px; margin: 0 auto 40px;" data-i18n="partnership.section_subtitle">We're building the future of stamp collecting and we'd love to collaborate with dealers, philatelic associations, catalog publishers, and the wider collecting community.</p>
+
+            <div class="partnership-grid">
+                <div class="partnership-card">
+                    <h3 data-i18n="partnership.card_1_title">For Stamp Dealers</h3>
+                    <p data-i18n="partnership.card_1_text">Partner with us to reach engaged collectors and integrate your inventory with our platform.</p>
+                </div>
+
+                <div class="partnership-card">
+                    <h3 data-i18n="partnership.card_2_title">For Philatelic Associations</h3>
+                    <p data-i18n="partnership.card_2_text">Collaborate to bring digital tools to your members and grow the collecting community.</p>
+                </div>
+
+                <div class="partnership-card">
+                    <h3 data-i18n="partnership.card_3_title">For Catalog Publishers</h3>
+                    <p data-i18n="partnership.card_3_text">Work with us to bring your catalogs to collectors in a modern, accessible format.</p>
+                </div>
+
+                <div class="partnership-card">
+                    <h3 data-i18n="partnership.card_4_title">For Press & Media</h3>
+                    <p data-i18n="partnership.card_4_text">Get in touch for press materials, interviews, and exclusive updates.</p>
+                </div>
+            </div>
+
+            <div style="text-align: center; margin-top: 40px;">
+                <a href="mailto:partnerships@stampiq.io" class="cta-button" data-i18n="partnership.button_text">Contact Us About Partnerships</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Platform Availability Section -->
+    <section class="platform-availability">
+        <div class="container">
+            <h2 class="section-title" data-i18n="launch.section_title">Launching Early 2026 on iOS & Android</h2>
+            <p style="color: var(--light-text); font-size: 18px; max-width: 600px; margin: 0 auto;" data-i18n="launch.section_text">Launching Early 2026 — keep collecting smarter across Switzerland, Germany, Austria, Liechtenstein, the Netherlands, and Poland</p>
+            <div class="platform-badges">
+                <!-- App Store Coming Soon Badge -->
+                <div class="badge-container">
+                    <img src="svgs/app_store.svg" alt="App Store" height="54">
+                    <div class="coming-soon-ribbon" data-i18n="launch.badge_text">Coming Soon</div>
+                </div>
+                <!-- Google Play Coming Soon Badge -->
+                <div class="badge-container">
+                    <img src="svgs/play_store.svg" alt="Google Play" height="54">
+                    <div class="coming-soon-ribbon" data-i18n="launch.badge_text">Coming Soon</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="faq-section">
+        <div class="container">
+            <h2 class="section-title" data-i18n="faq.section_title">Frequently Asked Questions</h2>
+            <div class="faq-grid">
+                <!-- Product & Features -->
+                <div class="faq-item">
+                    <h3 class="faq-question" data-i18n="faq.question_1">What stamps can StampIQ identify?</h3>
+                    <p class="faq-answer" data-i18n="faq.answer_1">StampIQ identifies stamps from your unlocked countries and will initially be available in Switzerland, Germany, Austria, Liechtenstein, the Netherlands, and Poland. Every user gets one free "home" catalog, with additional country catalogs available for purchase. We add new catalogs monthly, and when new stamps are released, they're added to the catalog automatically at no extra cost.</p>
+                </div>
+
+                <div class="faq-item">
+                    <h3 class="faq-question" data-i18n="faq.question_2">How accurate is the identification?</h3>
+                    <p class="faq-answer" data-i18n="faq.answer_2">StampIQ delivers 95% recognition accuracy across supported catalogs.</p>
+                </div>
+
+                <div class="faq-item">
+                    <h3 class="faq-question" data-i18n="faq.question_3">When will StampIQ launch?</h3>
+                    <p class="faq-answer" data-i18n="faq.answer_3">We're launching in early 2026. Join the waitlist to get early access before public release.</p>
+                </div>
+
+                <div class="faq-item">
+                    <h3 class="faq-question" data-i18n="faq.question_4">How often are new features added?</h3>
+                    <p class="faq-answer" data-i18n="faq.answer_4">We release monthly updates, adding new catalogs, tools, and improvements — and we even run polls to vote for the next features.</p>
+                </div>
+
+                <!-- Pricing & Plans -->
+                <div class="faq-item">
+                    <h3 class="faq-question" data-i18n="faq.question_5">Is StampIQ free?</h3>
+                    <p class="faq-answer" data-i18n="faq.answer_5">StampIQ has a free tier with 5 scans per month and access to your home catalog. Premium gives unlimited scans plus 1 bulk scan per month. Professional includes unlimited scans and unlimited bulk.</p>
+                </div>
+
+                <div class="faq-item">
+                    <h3 class="faq-question" data-i18n="faq.question_6">Can I switch between plans anytime?</h3>
+                    <p class="faq-answer" data-i18n="faq.answer_6">Yes, you can adjust your subscription anytime — your data always stays saved.</p>
+                </div>
+
+                <div class="faq-item">
+                    <h3 class="faq-question" data-i18n="faq.question_7">Can I export my collection data?</h3>
+                    <p class="faq-answer" data-i18n="faq.answer_7">Yes — for Professional users only.</p>
+                </div>
+
+                <!-- Technical & Requirements -->
+                <div class="faq-item">
+                    <h3 class="faq-question" data-i18n="faq.question_8">Which devices will StampIQ support?</h3>
+                    <p class="faq-answer" data-i18n="faq.answer_8">StampIQ will be available for iOS and Android smartphones and tablets at launch.</p>
+                </div>
+
+                <div class="faq-item">
+                    <h3 class="faq-question" data-i18n="faq.question_9">Which languages will the app support?</h3>
+                    <p class="faq-answer" data-i18n="faq.answer_9">The app will launch in English, Dutch, German, and Polish, with more languages planned later.</p>
+                </div>
+
+                <div class="faq-item">
+                    <h3 class="faq-question" data-i18n="faq.question_10">Do I need internet to use StampIQ?</h3>
+                    <p class="faq-answer" data-i18n="faq.answer_10">Yes. An internet connection is required for identification and catalog features at this time.</p>
+                </div>
+
+                <!-- Privacy & Account -->
+                <div class="faq-item">
+                    <h3 class="faq-question" data-i18n="faq.question_11">Can I use StampIQ without creating an account?</h3>
+                    <p class="faq-answer" data-i18n="faq.answer_11">No. You'll need to create an account to access your scans, collections, and personalized features.</p>
+                </div>
+
+                <div class="faq-item">
+                    <h3 class="faq-question" data-i18n="faq.question_12">Will my data be private?</h3>
+                    <p class="faq-answer" data-i18n="faq.answer_12">Yes. Your collection, scans, and notes are stored securely in the EU and are never shared with anyone.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <p style="color: rgba(255,255,255,0.7); font-size:14px; line-height:1.6;">
+                <span data-i18n="footer.copyright">© 2025 StampIQ. Keep Collecting Smarter.</span><br>
+                <span data-i18n="footer.tagline">Designed and built in Switzerland for collectors everywhere.</span><br><br>
+                <a href="privacy.html" style="color: rgba(255,255,255,0.6); text-decoration:none;" data-i18n="footer.privacy_policy">Privacy Policy</a> ·
+                <a href="terms.html" style="color: rgba(255,255,255,0.6); text-decoration:none;" data-i18n="footer.terms">Terms</a> ·
+                <a href="mailto:contact@stampiq.io" style="color: rgba(255,255,255,0.6); text-decoration:none;" data-i18n="footer.contact">Contact</a>
+                <br>
+                <span data-i18n="footer.operated_by">Operated by Marius Dygudaj • Zug, Switzerland</span>
+            </p>
+        </div>
+    </footer>
+
+    <script>
+        // Global Variables
+        const STAMP_COUNT = ' 10,000+ ';
+
+        // Update all stamp count elements
+        document.addEventListener('DOMContentLoaded', function() {
+            document.querySelectorAll('.stamp-count').forEach(el => {
+                el.textContent = STAMP_COUNT;
+            });
+        });
+
+        // Screen navigation
+        function showScreen(screenId) {
+            // Remove active class from all screens
+            document.querySelectorAll('.app-screen').forEach(screen => {
+                screen.classList.remove('active');
+            });
+
+            // Add active class to selected screen
+            document.getElementById(screenId).classList.add('active');
+
+            // Update dots
+            const dots = document.querySelectorAll('.dot');
+            dots.forEach(dot => dot.classList.remove('active'));
+
+            if (screenId === 'screen-home') dots[0].classList.add('active');
+            else if (screenId === 'screen-scan') dots[1].classList.add('active');
+            else if (screenId === 'screen-result') dots[2].classList.add('active');
+        }
+
+        // Language selector
+        const languageBtn = document.getElementById('languageBtn');
+        const languageDropdown = document.getElementById('languageDropdown');
+
+        if (languageBtn && languageDropdown) {
+            languageBtn.addEventListener('click', function(e) {
+                e.stopPropagation();
+                languageDropdown.classList.toggle('show');
+                languageBtn.classList.toggle('active');
+            });
+
+            // Close dropdown when clicking outside
+            document.addEventListener('click', function(e) {
+                if (!languageBtn.contains(e.target) && !languageDropdown.contains(e.target)) {
+                    languageDropdown.classList.remove('show');
+                    languageBtn.classList.remove('active');
+                }
+            });
+        }
+
+        // Header scroll effect
+        window.addEventListener('scroll', function () {
+            const header = document.getElementById('header');
+            if (window.scrollY > 50) {
+                header.style.padding = '10px 0';
+                header.style.boxShadow = '0 2px 20px rgba(0, 0, 0, 0.1)';
+            } else {
+                header.style.padding = '20px 0';
+                header.style.boxShadow = '0 2px 10px rgba(0, 0, 0, 0.05)';
+            }
+        });
+
+        // Form submission
+        document.getElementById('waitlistForm').addEventListener('submit', function (e) {
+            e.preventDefault();
+
+            const form = e.target;
+            const submitBtn = form.querySelector('.submit-btn');
+            const btnText = submitBtn.querySelector('.btn-text');
+            const loading = submitBtn.querySelector('.loading');
+            const successMsg = document.getElementById('successMessage');
+            const emailBenefits = document.getElementById('emailBenefits');
+            const emailInput = form.querySelector('.email-input');
+
+            // Show loading state
+            btnText.style.display = 'none';
+            loading.style.display = 'inline-block';
+            submitBtn.disabled = true;
+
+            // Simulate API call
+            setTimeout(() => {
+                // Hide loading
+                btnText.style.display = 'inline';
+                loading.style.display = 'none';
+                submitBtn.disabled = false;
+
+                // Show success message
+                successMsg.style.display = 'block';
+
+                // Show email benefits
+                emailBenefits.classList.add('show');
+
+                // Clear form
+                emailInput.value = '';
+
+                // Hide success message after 5 seconds (but keep email benefits visible)
+                setTimeout(() => {
+                    successMsg.style.display = 'none';
+                }, 5000);
+            }, 1500);
+        });
+
+        // Add stamp perforation effect
+        function createPerforations() {
+            const stampCard = document.querySelector('.stamp-perforations');
+            if (!stampCard) return; // Exit if element doesn't exist
+
+            const holeSize = 8;
+            const spacing = 16;
+
+            // Create perforation pattern
+            const svg = document.createElementNS('http://www.w3.org/2000/svg', 'svg');
+            svg.style.position = 'absolute';
+            svg.style.top = '0';
+            svg.style.left = '0';
+            svg.style.width = '100%';
+            svg.style.height = '100%';
+            svg.style.pointerEvents = 'none';
+
+            const rect = stampCard.getBoundingClientRect();
+            const cols = Math.floor(rect.width / spacing);
+            const rows = Math.floor(rect.height / spacing);
+
+            // Top and bottom edges
+            for (let i = 0; i < cols; i++) {
+                createHole(svg, i * spacing + spacing / 2, holeSize / 2, holeSize / 2);
+                createHole(svg, i * spacing + spacing / 2, rect.height - holeSize / 2, holeSize / 2);
+            }
+
+            // Left and right edges
+            for (let i = 1; i < rows - 1; i++) {
+                createHole(svg, holeSize / 2, i * spacing + spacing / 2, holeSize / 2);
+                createHole(svg, rect.width - holeSize / 2, i * spacing + spacing / 2, holeSize / 2);
+            }
+
+            stampCard.appendChild(svg);
+        }
+
+        function createHole(svg, x, y, r) {
+            const circle = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+            circle.setAttribute('cx', x);
+            circle.setAttribute('cy', y);
+            circle.setAttribute('r', r);
+            circle.setAttribute('fill', 'var(--background)');
+            svg.appendChild(circle);
+        }
+
+        // Initialize perforations when page loads
+        window.addEventListener('load', createPerforations);
+
+        // Animate stats on scroll
+        const observerOptions = {
+            threshold: 0.5,
+            rootMargin: '0px 0px -100px 0px'
+        };
+
+        const statsObserver = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    const statNumbers = entry.target.querySelectorAll('.stat-number');
+                    statNumbers.forEach(stat => {
+                        const target = stat.textContent;
+
+                        // Skip animation for time-based stats (3s)
+                        if (target.includes('s') && !target.includes('K')) {
+                            return;
+                        }
+
+                        const isPercentage = target.includes('%');
+                        const numericValue = parseInt(target.replace(/\D/g, ''));
+                        const suffix = target.replace(/[0-9]/g, '');
+
+                        let current = 0;
+                        const increment = numericValue / 50;
+
+                        const timer = setInterval(() => {
+                            current += increment;
+                            if (current >= numericValue) {
+                                current = numericValue;
+                                clearInterval(timer);
+                            }
+                            stat.textContent = Math.floor(current) + suffix;
+                        }, 30);
+                    });
+
+                    // Animate recognition time countdown (10s -> 3s)
+                    const recognitionTimeElement = entry.target.querySelector('#recognition-time');
+                    if (recognitionTimeElement) {
+                        let timeValue = 10;
+                        const timeCountdown = setInterval(() => {
+                            timeValue--;
+                            recognitionTimeElement.textContent = timeValue;
+                            if (timeValue <= 3) {
+                                clearInterval(timeCountdown);
+                            }
+                        }, 200);
+                    }
+
+                    statsObserver.unobserve(entry.target);
+                }
+            });
+        }, observerOptions);
+
+        const statsSection = document.querySelector('.stats');
+        if (statsSection) {
+            statsObserver.observe(statsSection);
+        }
+
+        // Animate "How It Works" section on scroll
+        const howItWorksObserver = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    console.log('How It Works section is visible!');
+                    const cards = entry.target.querySelectorAll('.feature-card');
+                    console.log('Animating', cards.length, 'cards');
+
+                    cards.forEach((card, index) => {
+                        setTimeout(() => {
+                            card.classList.add('animate-in');
+                        }, index * 200);
+                    });
+
+                    howItWorksObserver.unobserve(entry.target);
+                }
+            });
+        }, {
+            threshold: 0.2
+        });
+
+        const howItWorksSection = document.querySelector('.how-it-works');
+        if (howItWorksSection) {
+            howItWorksObserver.observe(howItWorksSection);
+        }
+
+        // Animate "Collector Types" section on scroll
+        const collectorTypesObserver = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    const cards = entry.target.querySelectorAll('.collector-type-card');
+                    cards.forEach((card, index) => {
+                        setTimeout(() => {
+                            card.classList.add('animate-in');
+                        }, index * 200);
+                    });
+                    collectorTypesObserver.unobserve(entry.target);
+                }
+            });
+        }, {
+            threshold: 0.2
+        });
+
+        const collectorTypesSection = document.querySelector('.collector-types-section');
+        if (collectorTypesSection) {
+            collectorTypesObserver.observe(collectorTypesSection);
+        }
+
+        // Animate "Partnership" section on scroll
+        const partnershipObserver = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    const cards = entry.target.querySelectorAll('.partnership-card');
+                    cards.forEach((card, index) => {
+                        setTimeout(() => {
+                            card.classList.add('animate-in');
+                        }, index * 200);
+                    });
+                    partnershipObserver.unobserve(entry.target);
+                }
+            });
+        }, {
+            threshold: 0.2
+        });
+
+        const partnershipSection = document.querySelector('.partnership-section');
+        if (partnershipSection) {
+            partnershipObserver.observe(partnershipSection);
+        }
+
+        // FAQ Accordion functionality
+        const faqItems = document.querySelectorAll('.faq-item');
+        faqItems.forEach(item => {
+            const question = item.querySelector('.faq-question');
+            const answer = item.querySelector('.faq-answer');
+
+            // Initially hide all answers
+            answer.style.maxHeight = '0';
+            answer.style.overflow = 'hidden';
+            answer.style.transition = 'max-height 0.3s ease, margin-top 0.3s ease';
+            answer.style.marginTop = '0';
+
+            // Add click handler
+            question.style.cursor = 'pointer';
+            question.style.userSelect = 'none';
+
+            // Add indicator
+            const indicator = document.createElement('span');
+            indicator.className = 'faq-indicator';
+            indicator.textContent = '+';
+            question.appendChild(indicator);
+
+            question.addEventListener('click', () => {
+                const isOpen = answer.style.maxHeight !== '0px';
+
+                if (isOpen) {
+                    answer.style.maxHeight = '0';
+                    answer.style.marginTop = '0';
+                    indicator.textContent = '+';
+                    item.classList.remove('active');
+                } else {
+                    answer.style.maxHeight = answer.scrollHeight + 'px';
+                    answer.style.marginTop = '12px';
+                    indicator.textContent = '−';
+                    item.classList.add('active');
+                }
+            });
+        });
+
+        // Features Carousel Controller
+        const carousel = document.querySelector('.features-carousel');
+        const carouselCards = document.querySelectorAll('.feature-carousel-card');
+        const prevBtn = document.getElementById('carouselPrev');
+        const nextBtn = document.getElementById('carouselNext');
+        const dotsContainer = document.getElementById('carouselDots');
+
+        let currentSlide = 0;
+        const totalSlides = carouselCards.length;
+
+        // Create dots
+        for (let i = 0; i < totalSlides; i++) {
+            const dot = document.createElement('div');
+            dot.classList.add('carousel-dot');
+            if (i === 0) dot.classList.add('active');
+            dot.addEventListener('click', () => goToSlide(i));
+            dotsContainer.appendChild(dot);
+        }
+
+        const dots = document.querySelectorAll('.carousel-dot');
+
+        function updateCarousel() {
+            const cardWidth = carouselCards[0].offsetWidth;
+            carousel.scrollTo({
+                left: currentSlide * (cardWidth + 30), // 30px is the gap
+                behavior: 'smooth'
+            });
+
+            // Update dots
+            dots.forEach((dot, index) => {
+                dot.classList.toggle('active', index === currentSlide);
+            });
+        }
+
+        function goToSlide(index) {
+            currentSlide = index;
+            updateCarousel();
+        }
+
+        function nextSlide() {
+            currentSlide = (currentSlide + 1) % totalSlides;
+            updateCarousel();
+        }
+
+        function prevSlide() {
+            currentSlide = (currentSlide - 1 + totalSlides) % totalSlides;
+            updateCarousel();
+        }
+
+        if (prevBtn) prevBtn.addEventListener('click', prevSlide);
+        if (nextBtn) nextBtn.addEventListener('click', nextSlide);
+
+        // Optional: Auto-advance carousel every 5 seconds
+        // setInterval(nextSlide, 5000);
+
+        // Sigi Animation Controller
+        const sigiPlayer = document.getElementById('sigiAnimation');
+        let hasPlayedEntrance = false;
+        let animationsCache = {};
+        let isPreloaded = false;
+
+        // Animation sequence with weighted probabilities (sigi_idle and sigi_blink appear more often)
+        const loopAnimations = [
+            'animations/sigi_idle.json',
+            'animations/sigi_idle.json',
+            'animations/sigi_idle.json',
+            'animations/sigi_blink.json',
+            'animations/sigi_blink.json',
+            'animations/sigi_blink.json',
+            'animations/sigi_thinking.json',
+            'animations/sigi_waving.json',
+            'animations/sigi_thumbs_up.json',
+            'animations/sigi_searching.json'
+        ];
+
+        // Preload all animations
+        async function preloadAnimations() {
+            const allAnimations = ['animations/sigi_entrance.json', ...new Set(loopAnimations)];
+
+            console.log('Preloading animations...');
+            const promises = allAnimations.map(async (url) => {
+                try {
+                    const response = await fetch(url);
+                    const data = await response.json();
+                    animationsCache[url] = data;
+                    console.log('Preloaded:', url);
+                } catch (error) {
+                    console.error('Failed to preload:', url, error);
+                }
+            });
+
+            await Promise.all(promises);
+            isPreloaded = true;
+            console.log('All animations preloaded!');
+        }
+
+        function playNextAnimation() {
+            if (!isPreloaded) {
+                console.log('Animations not ready yet');
+                return;
+            }
+
+            if (!hasPlayedEntrance) {
+                // Play entrance animation first
+                console.log('Playing entrance animation');
+                const entranceData = animationsCache['animations/sigi_entrance.json'];
+                sigiPlayer.load(entranceData);
+                hasPlayedEntrance = true;
+            } else {
+                // Play random animation from loop (weighted towards idle and blink)
+                const nextAnimation = loopAnimations[Math.floor(Math.random() * loopAnimations.length)];
+                console.log('Playing:', nextAnimation);
+                const animationData = animationsCache[nextAnimation];
+                sigiPlayer.load(animationData);
+            }
+        }
+
+        // Start animation when player is ready
+        if (sigiPlayer) {
+            sigiPlayer.addEventListener('complete', () => {
+                console.log('Animation completed');
+                playNextAnimation();
+            });
+
+            // Preload all animations then start
+            preloadAnimations().then(() => {
+                setTimeout(() => {
+                    playNextAnimation();
+                }, 300);
+            });
+        }
+
+        // Translation System
+        let translations = {};
+        let currentLanguage = 'en';
+
+        // Load translations from JSON file
+        async function loadTranslations() {
+            try {
+                const response = await fetch('translations.json');
+                const data = await response.json();
+
+                // Convert array format to object format for easier lookup
+                translations = {};
+                data.forEach(item => {
+                    if (item.key) {
+                        translations[item.key] = {
+                            en: item.en,
+                            de: item.de,
+                            nl: item.nl,
+                            pl: item.pl,
+                            fr: item.fr,
+                            it: item.it
+                        };
+                    }
+                });
+
+                // Set initial language from localStorage or browser
+                const savedLanguage = localStorage.getItem('language');
+                const browserLanguage = navigator.language.split('-')[0];
+
+                if (savedLanguage && ['en', 'de', 'nl', 'pl', 'fr', 'it'].includes(savedLanguage)) {
+                    currentLanguage = savedLanguage;
+                } else if (['en', 'de', 'nl', 'pl', 'fr', 'it'].includes(browserLanguage)) {
+                    currentLanguage = browserLanguage;
+                }
+
+                // Apply translations
+                applyTranslations(currentLanguage);
+                updateLanguageButton(currentLanguage);
+            } catch (error) {
+                console.error('Failed to load translations:', error);
+            }
+        }
+
+        // Apply translations to all elements with data-i18n
+        function applyTranslations(lang) {
+            document.querySelectorAll('[data-i18n]').forEach(element => {
+                const key = element.getAttribute('data-i18n');
+                if (translations[key] && translations[key][lang]) {
+                    element.textContent = translations[key][lang];
+                }
+            });
+            currentLanguage = lang;
+        }
+
+        // Update language button display
+        function updateLanguageButton(lang) {
+            const languageBtn = document.getElementById('languageBtn');
+            if (languageBtn) {
+                const langMap = {
+                    'en': { flag: '🇺🇸', code: 'EN' },
+                    'de': { flag: '🇩🇪', code: 'DE' },
+                    'nl': { flag: '🇳🇱', code: 'NL' },
+                    'pl': { flag: '🇵🇱', code: 'PL' },
+                    'fr': { flag: '🇫🇷', code: 'FR' },
+                    'it': { flag: '🇮🇹', code: 'IT' }
+                };
+
+                const langInfo = langMap[lang] || langMap['en'];
+
+                // Update flag and language code
+                const flagSpan = languageBtn.querySelector('.flag');
+                const langCodeSpan = languageBtn.querySelector('.lang-code');
+
+                if (flagSpan) flagSpan.textContent = langInfo.flag;
+                if (langCodeSpan) langCodeSpan.textContent = langInfo.code;
+            }
+        }
+
+        // Change language
+        function changeLanguage(lang) {
+            applyTranslations(lang);
+            updateLanguageButton(lang);
+            localStorage.setItem('language', lang);
+
+            // Update active state in dropdown
+            document.querySelectorAll('.language-option').forEach(option => {
+                option.classList.remove('active');
+                if (option.getAttribute('data-lang') === lang) {
+                    option.classList.add('active');
+                }
+            });
+
+            // Close dropdown
+            const languageDropdown = document.getElementById('languageDropdown');
+            const languageBtn = document.getElementById('languageBtn');
+            if (languageDropdown && languageBtn) {
+                languageDropdown.classList.remove('show');
+                languageBtn.classList.remove('active');
+            }
+        }
+
+        // Add click handlers to language options
+        document.addEventListener('DOMContentLoaded', function() {
+            // Load translations
+            loadTranslations();
+
+            // Add event listeners to language options
+            document.querySelectorAll('.language-option').forEach(option => {
+                option.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    const lang = this.getAttribute('data-lang');
+                    if (lang) {
+                        changeLanguage(lang);
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>
