@@ -1,0 +1,1411 @@
+[
+  {
+    "key": "page.title",
+    "section/location": "Page Title",
+    "en": "StampIQ – Your Digital Stamp Collecting Companion |  Launching Early 2026",
+    "de": "StampIQ – Dein digitaler Begleiter fürs Briefmarkensammeln | Start Anfang 2026",
+    "nl": "StampIQ – De slimme app voor jouw postzegelcollectie | Lancering begin 2026",
+    "pl": "StampIQ – Twój cyfrowy towarzysz w kolekcjonowaniu znaczków | Premiera na początku 2026 roku",
+    "fr": "StampIQ – L’appli intelligente pour votre collection de timbres | Lancement début 2026",
+    "it": "StampIQ – Il tuo compagno digitale per la collezione di francobolli | Lancio previsto all'inizio del 2026"
+  },
+  {
+    "key": "page.meta_description",
+    "section/location": "Meta Description",
+    "en": "Discover, identify, and organize your stamps with ease. StampIQ helps collectors with instant identification, simple collection management, and stamp origins discovery.",
+    "de": "Entdecke, identifiziere und organisiere deine Briefmarken ganz einfach. StampIQ unterstützt Sammlerinnen und Sammler mit sofortiger Erkennung, einfacher Sammlungsverwaltung und spannenden Einblicken in die Herkunft deiner Marken.",
+    "nl": "Ontdek, identificeer en organiseer je postzegels met gemak. StampIQ helpt verzamelaars met directe herkenning, eenvoudig collectiebeheer en inzicht in de herkomst van postzegels.",
+    "pl": "Odkrywaj, rozpoznawaj i porządkuj swoje znaczki z łatwością. StampIQ pomaga kolekcjonerom dzięki natychmiastowemu rozpoznawaniu, prostemu zarządzaniu kolekcją i odkrywaniu pochodzenia znaczków.",
+    "fr": "Découvrez, identifiez et organisez vos timbres facilement. StampIQ aide les collectionneurs grâce à une reconnaissance instantanée, une gestion simple de la collection et la découverte de l'origine des timbres.",
+    "it": "Scopri, identifica e organizza i tuoi francobolli con facilità. StampIQ aiuta i collezionisti con il riconoscimento istantaneo, la gestione semplice della collezione e la scoperta dell'origine dei francobolli."
+  },
+  {
+    "key": "badge.launching",
+    "section/location": "Badge 1",
+    "en": "Launching Early 2026",
+    "de": "Start Anfang 2026",
+    "nl": "Lancering begin 2026",
+    "pl": "Premiera na początku 2026",
+    "fr": "Lancement début 2026",
+    "it": "Lancio previsto all'inizio del 2026"
+  },
+  {
+    "key": "badge.swiss_made",
+    "section/location": "Badge 2",
+    "en": "Swiss Made",
+    "de": "Swiss Made",
+    "nl": "Swiss Made",
+    "pl": "Swiss Made",
+    "fr": "Swiss Made",
+    "it": "Swiss Made"
+  },
+  {
+    "key": "hero.heading",
+    "section/location": "Main Heading",
+    "en": "Your Digital Stamp Collecting Companion",
+    "de": "Dein digitaler Begleiter fürs\u00A0Briefmarkensammeln",
+    "nl": "De slimme app voor jouw postzegelcollectie",
+    "pl": "Twój cyfrowy towarzysz w kolekcjonowaniu znaczków",
+    "fr": "L’appli intelligente pour votre collection de timbres",
+    "it": "Il tuo compagno digitale per la collezione di francobolli"
+  },
+  {
+    "key": "hero.description",
+    "section/location": "Hero Card Text",
+    "en": "Discover, identify, and organize your stamps with ease — all in one smart app designed for collectors like you.",
+    "de": "Entdecke, identifiziere und organisiere deine Briefmarken – alles in einer intelligenten App, entwickelt für Sammlerinnen und Sammler wie dich.",
+    "nl": "Ontdek, herken en organiseer je postzegels – allemaal in één slimme app, speciaal ontworpen voor verzamelaars zoals jij.",
+    "pl": "Odkrywaj, rozpoznawaj i porządkuj swoje znaczki – wszystko w jednej inteligentnej aplikacji stworzonej dla kolekcjonerów takich jak Ty.",
+    "fr": "Découvrez, identifiez et organisez vos timbres – tout dans une application intelligente conçue pour les collectionneurs comme vous.",
+    "it": "Scopri, riconosci e organizza i tuoi francobolli – tutto in un'unica app intelligente pensata per collezionisti come te."
+  },
+  {
+    "key": "waitlist.heading",
+    "section/location": "Waitlist Heading",
+    "en": "Join the waitlist and get:",
+    "de": "Melde dich für die Warteliste an und erhalte:",
+    "nl": "Meld je aan voor de wachtlijst en ontvang:",
+    "pl": "Dołącz do listy oczekujących i otrzymaj:",
+    "fr": "Rejoignez la liste d'attente et obtenez :",
+    "it": "Iscriviti alla lista d'attesa e ottieni:"
+  },
+  {
+    "key": "waitlist.perk_1",
+    "section/location": "Perk 1",
+    "en": "Early access — 2 weeks before public launch",
+    "de": "Früher Zugang – 2 Wochen vor dem offiziellen Start",
+    "nl": "Vroege toegang – 2 weken vóór de officiële lancering",
+    "pl": "Wczesny dostęp – 2 tygodnie przed premierą publiczną",
+    "fr": "Accès anticipé – 2 semaines avant le lancement public",
+    "it": "Accesso anticipato – 2 settimane prima del lancio pubblico"
+  },
+  {
+    "key": "waitlist.perk_2",
+    "section/location": "Perk 2",
+    "en": "Exclusive founding collector badge",
+    "de": "Exklusives Abzeichen für Gründungssammler",
+    "nl": "Exclusieve badge voor Founding Collectors",
+    "pl": "Ekskluzywną odznakę założycielskiego kolekcjonera",
+    "fr": "Badge exclusif de collectionneur fondateur",
+    "it": "Badge esclusivo per i collezionisti fondatori"
+  },
+  {
+    "key": "waitlist.perk_3",
+    "section/location": "Perk 3",
+    "en": "1 month of Premium features, free for the first 100 users",
+    "de": "1 Monat Premium-Funktionen gratis für die ersten 100 Nutzerinnen und Nutzer",
+    "nl": "1 maand Premium-functies gratis voor de eerste 100 gebruikers",
+    "pl": "1 miesiąc funkcji Premium za darmo dla pierwszych 100 użytkowników",
+    "fr": "1 mois de fonctionnalités Premium gratuit pour les 100 premiers utilisateurs",
+    "it": "1 mese di funzionalità Premium gratuito per i primi 100 utenti"
+  },
+  {
+    "key": "waitlist.email_placeholder",
+    "section/location": "Email Placeholder",
+    "en": "Enter your email",
+    "de": "Gib deine E-Mail-Adresse ein",
+    "nl": "Voer je e-mailadres in",
+    "pl": "Wpisz swój adres e-mail",
+    "fr": "Entrez votre adresse e-mail",
+    "it": "Inserisci la tua e-mail"
+  },
+  {
+    "key": "waitlist.button",
+    "section/location": "Button Text",
+    "en": "Get Early Access",
+    "de": "Frühen Zugang sichern",
+    "nl": "Ontvang vroege toegang",
+    "pl": "Uzyskaj wczesny dostęp",
+    "fr": "Obtenir un accès anticipé",
+    "it": "Ottieni accesso anticipato"
+  },
+  {
+    "key": "waitlist.success",
+    "section/location": "Success Message",
+    "en": "You're on the list! We'll notify you when StampIQ launches.",
+    "de": "Du stehst auf der Liste! Wir benachrichtigen dich, sobald StampIQ startet.",
+    "nl": "Je staat op de lijst! We laten het je weten zodra StampIQ lanceert.",
+    "pl": "Jesteś na liście! Powiadomimy Cię, gdy StampIQ wystartuje.",
+    "fr": "Vous êtes sur la liste ! Nous vous informerons dès le lancement de StampIQ.",
+    "it": "Sei nella lista! Ti avviseremo quando StampIQ sarà disponibile."
+  },
+  {
+    "key": "email_benefits.heading",
+    "section/location": "Email Benefits Heading",
+    "en": "Check your inbox for:",
+    "de": "Schau in dein Postfach für:",
+    "nl": "Kijk in je inbox voor:",
+    "pl": "Sprawdź swoją skrzynkę odbiorczą i znajdź:",
+    "fr": "Vérifiez votre boîte de réception pour :",
+    "it": "Controlla la tua casella di posta per:"
+  },
+  {
+    "key": "email_benefits.benefit_1",
+    "section/location": "Benefit 1",
+    "en": "Welcome email with exclusive updates",
+    "de": "Willkommensmail mit exklusiven Updates",
+    "nl": "Welkomstmail met exclusieve updates",
+    "pl": "Powitalny e-mail z ekskluzywnymi aktualizacjami",
+    "fr": "Un e-mail de bienvenue avec des mises à jour exclusives",
+    "it": "E-mail di benvenuto con aggiornamenti esclusivi"
+  },
+  {
+    "key": "email_benefits.benefit_2",
+    "section/location": "Benefit 2",
+    "en": "Behind-the-scenes development progress",
+    "de": "Einblicke in die Entwicklung hinter den Kulissen",
+    "nl": "Inzichten achter de schermen van de ontwikkeling",
+    "pl": "Kulisy rozwoju aplikacji",
+    "fr": "Les coulisses du développement",
+    "it": "Dietro le quinte dello sviluppo dell'app"
+  },
+  {
+    "key": "email_benefits.benefit_3",
+    "section/location": "Benefit 3",
+    "en": "Priority launch notification",
+    "de": "Priorisierte Benachrichtigung zum Start",
+    "nl": "Prioriteitsmelding bij de lancering",
+    "pl": "Priorytetowe powiadomienie o starcie",
+    "fr": "Une notification prioritaire au lancement",
+    "it": "Notifica prioritaria del lancio"
+  },
+  {
+    "key": "stats.stat_1_label",
+    "section/location": "Stat 1 Label",
+    "en": "Early Collectors",
+    "de": "Frühe Sammler",
+    "nl": "Vroege verzamelaars",
+    "pl": "Wczesni kolekcjonerzy",
+    "fr": "Premiers collectionneurs",
+    "it": "Primi collezionisti"
+  },
+  {
+    "key": "stats.stat_2_label",
+    "section/location": "Stat 2 Label",
+    "en": "Stamps Catalogued",
+    "de": "Katalogisierte Marken",
+    "nl": "Gecatalogiseerde postzegels",
+    "pl": "Zindeksowane znaczki",
+    "fr": "Timbres catalogués",
+    "it": "Francobolli catalogati"
+  },
+  {
+    "key": "stats.stat_3_label",
+    "section/location": "Stat 3 Label",
+    "en": "Recognition Accuracy",
+    "de": "Erkennungsgenauigkeit",
+    "nl": "Herkenningsnauwkeurigheid",
+    "pl": "Dokładność rozpoznawania",
+    "fr": "Précision de reconnaissance",
+    "it": "Precisione di riconoscimento"
+  },
+  {
+    "key": "stats.stat_4_label",
+    "section/location": "Stat 4 Label",
+    "en": "Instant Recognition",
+    "de": "Soforterkennung",
+    "nl": "Directe herkenning",
+    "pl": "Natychmiastowe rozpoznawanie",
+    "fr": "Reconnaissance instantanée",
+    "it": "Riconoscimento istantaneo"
+  },
+  {
+    "key": "how_it_works.section_title",
+    "section/location": "Section Title",
+    "en": "How StampIQ Works",
+    "de": "So funktioniert StampIQ",
+    "nl": "Hoe StampIQ werkt",
+    "pl": "Jak działa StampIQ",
+    "fr": "Comment fonctionne StampIQ",
+    "it": "Come funziona StampIQ"
+  },
+  {
+    "key": "how_it_works.section_subtitle",
+    "section/location": "Section Subtitle",
+    "en": "Everything you need to recognize, collect, and learn — all in one place.",
+    "de": "Alles, was du brauchst, um Marken zu erkennen, zu sammeln und mehr über sie zu erfahren – alles an einem Ort.",
+    "nl": "Alles wat je nodig hebt om te herkennen, te verzamelen en te leren – allemaal op één plek.",
+    "pl": "Wszystko, czego potrzebujesz, by rozpoznawać, kolekcjonować i poznawać – w jednym miejscu.",
+    "fr": "Tout ce qu'il faut pour identifier, collectionner et apprendre – au même endroit.",
+    "it": "Tutto ciò di cui hai bisogno per riconoscere, collezionare e imparare – in un unico posto."
+  },
+  {
+    "key": "how_it_works.feature_1_title",
+    "section/location": "Feature 1 Title",
+    "en": "Scan",
+    "de": "Scannen",
+    "nl": "Scannen",
+    "pl": "Skanuj",
+    "fr": "Scanner",
+    "it": "Scansiona"
+  },
+  {
+    "key": "how_it_works.feature_1_description",
+    "section/location": "Feature 1 Description",
+    "en": "Recognize your stamps instantly using smart image recognition — one tap, and Sigi does the rest.",
+    "de": "Erkenne deine Marken sofort mit intelligenter Bilderkennung – ein Klick, und Sigi erledigt den Rest.",
+    "nl": "Herken je postzegels direct met slimme beeldherkenning – één tik, en Sigi doet de rest.",
+    "pl": "Rozpoznaj swoje znaczki natychmiast dzięki inteligentnemu rozpoznawaniu obrazu – jedno kliknięcie i Sigi zrobi resztę.",
+    "fr": "Identifiez vos timbres instantanément grâce à la reconnaissance d'image intelligente – un seul geste, et Sigi s'occupe du reste.",
+    "it": "Riconosci i tuoi francobolli istantaneamente con il riconoscimento intelligente delle immagini – un solo tocco e Sigi fa il resto."
+  },
+  {
+    "key": "how_it_works.feature_2_title",
+    "section/location": "Feature 2 Title",
+    "en": "Collect",
+    "de": "Sammeln",
+    "nl": "Verzamelen",
+    "pl": "Kolekcjonuj",
+    "fr": "Collectionner",
+    "it": "Colleziona"
+  },
+  {
+    "key": "how_it_works.feature_2_description",
+    "section/location": "Feature 2 Description",
+    "en": "Build your digital collection, track details, and keep everything neatly organized in one place.",
+    "de": "Erstelle deine digitale Sammlung, verfolge Details und behalte alles übersichtlich an einem Ort.",
+    "nl": "Bouw je digitale verzameling op, volg details en houd alles netjes georganiseerd op één plek.",
+    "pl": "Twórz swoją cyfrową kolekcję, śledź szczegóły i trzymaj wszystko uporządkowane w jednym miejscu.",
+    "fr": "Créez votre collection numérique, suivez les détails et gardez tout bien organisé au même endroit.",
+    "it": "Crea la tua collezione digitale, segui i dettagli e mantieni tutto perfettamente organizzato."
+  },
+  {
+    "key": "how_it_works.feature_3_title",
+    "section/location": "Feature 3 Title",
+    "en": "Explore",
+    "de": "Entdecken",
+    "nl": "Ontdekken",
+    "pl": "Odkrywaj",
+    "fr": "Explorer",
+    "it": "Esplora"
+  },
+  {
+    "key": "how_it_works.feature_3_description",
+    "section/location": "Feature 3 Description",
+    "en": "See where your stamps come from on the interactive map and uncover their global connections.",
+    "de": "Sieh auf der interaktiven Karte, woher deine Marken stammen, und entdecke ihre weltweiten Verbindungen.",
+    "nl": "Zie waar je postzegels vandaan komen op de interactieve kaart en ontdek hun wereldwijde connecties.",
+    "pl": "Zobacz, skąd pochodzą Twoje znaczki na interaktywnej mapie i odkryj ich globalne powiązania.",
+    "fr": "Découvrez sur la carte interactive l'origine de vos timbres et leurs connexions à travers le monde.",
+    "it": "Scopri l'origine dei tuoi francobolli sulla mappa interattiva e osserva le loro connessioni in tutto il mondo."
+  },
+  {
+    "key": "how_it_works.feature_4_title",
+    "section/location": "Feature 4 Title",
+    "en": "Learn",
+    "de": "Lernen",
+    "nl": "Leren",
+    "pl": "Ucz się",
+    "fr": "Apprendre",
+    "it": "Impara"
+  },
+  {
+    "key": "how_it_works.feature_4_description",
+    "section/location": "Feature 4 Description",
+    "en": "Chat with Sigi to discover stories, history, and insights about your stamps and themes you love.",
+    "de": "Chatte mit Sigi und entdecke Geschichten, Hintergründe und spannende Fakten über deine Marken und Lieblingsthemen.",
+    "nl": "Chat met Sigi om verhalen, geschiedenis en interessante weetjes te ontdekken over je postzegels en favoriete thema's.",
+    "pl": "Porozmawiaj z Sigi i poznaj historie, ciekawostki oraz tło znaczków i ulubionych tematów.",
+    "fr": "Discutez avec Sigi pour découvrir des histoires, des faits et des anecdotes sur vos timbres et thèmes préférés.",
+    "it": "Chatta con Sigi per scoprire storie, curiosità e approfondimenti sui tuoi francobolli e sui temi che ami."
+  },
+  {
+    "key": "built_for_collectors.section_title",
+    "section/location": "Section Title",
+    "en": "Everything You Need to Keep Collecting Smarter",
+    "de": "Alles, was du brauchst, um smarter zu sammeln",
+    "nl": "Alles wat je nodig hebt om slimmer te blijven verzamelen",
+    "pl": "Wszystko, czego potrzebujesz, by kolekcjonować mądrzej",
+    "fr": "Tout ce dont vous avez besoin pour collectionner plus intelligemment",
+    "it": "Tutto ciò di cui hai bisogno per collezionare in modo più intelligente"
+  },
+  {
+    "key": "built_for_collectors.section_subtitle",
+    "section/location": "Section Subtitle",
+    "en": "Explore the tools that make stamp collecting simple, organized, and enjoyable.",
+    "de": "Entdecke die Tools, die das Briefmarkensammeln einfach, organisiert und spannend machen.",
+    "nl": "Ontdek de tools die postzegelverzamelen eenvoudig, overzichtelijk en leuk maken.",
+    "pl": "Poznaj narzędzia, które sprawiają, że kolekcjonowanie znaczków jest proste, uporządkowane i przyjemne.",
+    "fr": "Découvrez les outils qui rendent la collection de timbres simple, structurée et agréable.",
+    "it": "Scopri gli strumenti che rendono la filatelia semplice, ordinata e piacevole."
+  },
+  {
+    "key": "built_for_collectors.carousel_1_title",
+    "section/location": "Carousel 1 Title",
+    "en": "Smart Stamp Scanner",
+    "de": "Intelligenter Markenscanner",
+    "nl": "Slimme Postzegelscanner",
+    "pl": "Inteligentny skaner znaczków",
+    "fr": "Scanner intelligent de timbres",
+    "it": "Scanner intelligente di francobolli"
+  },
+  {
+    "key": "built_for_collectors.carousel_1_description",
+    "section/location": "Carousel 1 Description",
+    "en": "Point your camera at any stamp and get instant identification. StampIQ recognizes stamps from selected countries — one country unlocked for free, with new ones added every month. See detailed catalog information, origin, and issue year in seconds.",
+    "de": "Richte deine Kamera auf eine Marke und erhalte sofort eine Identifikation. StampIQ erkennt Marken aus ausgewählten Ländern – ein Land ist kostenlos freigeschaltet, neue kommen jeden Monat hinzu. Sieh Kataloginformationen, Herkunft und Ausgabedatum in Sekunden.",
+    "nl": "Richt je camera op een postzegel en ontvang direct een identificatie. StampIQ herkent postzegels uit geselecteerde landen – één land is gratis ontgrendeld, en er komen elke maand nieuwe bij. Bekijk catalogusinformatie, herkomst en uitgiftejaar in enkele seconden.",
+    "pl": "Skieruj aparat na znaczek i uzyskaj natychmiastową identyfikację. StampIQ rozpoznaje znaczki z wybranych krajów – jeden kraj jest odblokowany za darmo, a co miesiąc dodawane są nowe. Zobacz informacje katalogowe, pochodzenie i rok wydania w kilka sekund.",
+    "fr": "Dirigez votre appareil photo vers un timbre et obtenez une identification instantanée. StampIQ reconnaît les timbres de pays sélectionnés – un pays est inclus gratuitement, et de nouveaux sont ajoutés chaque mois. Consultez les informations du catalogue, l'origine et l'année d'émission en quelques secondes.",
+    "it": "Punta la fotocamera su un francobollo e ottieni un'identificazione immediata. StampIQ riconosce francobolli di paesi selezionati – uno è sbloccato gratuitamente, e ogni mese se ne aggiungono di nuovi. Visualizza informazioni di catalogo, origine e anno di emissione in pochi secondi."
+  },
+  {
+    "key": "built_for_collectors.carousel_1_item_1",
+    "section/location": "Carousel 1 Item 1",
+    "en": "Scan single stamps or entire pages in bulk",
+    "de": "Scanne einzelne Marken oder ganze Seiten auf einmal",
+    "nl": "Scan losse postzegels of hele pagina's in één keer",
+    "pl": "Skanuj pojedyncze znaczki lub całe strony",
+    "fr": "Scannez des timbres uniques ou des pages entières",
+    "it": "Scansiona singoli francobolli o intere pagine"
+  },
+  {
+    "key": "built_for_collectors.carousel_1_item_2",
+    "section/location": "Carousel 1 Item 2",
+    "en": "Works with stamps from supported countries",
+    "de": "Funktioniert mit Marken aus unterstützten Ländern",
+    "nl": "Werkt met postzegels uit ondersteunde landen",
+    "pl": "Działa ze znaczkami z obsługiwanych krajów",
+    "fr": "Fonctionne avec les timbres des pays pris en charge",
+    "it": "Funziona con francobolli dei paesi supportati"
+  },
+  {
+    "key": "built_for_collectors.carousel_1_item_3",
+    "section/location": "Carousel 1 Item 3",
+    "en": "View catalog numbers and key details",
+    "de": "Sieh Katalognummern und wichtige Details",
+    "nl": "Bekijk catalogusnummers en belangrijke details",
+    "pl": "Zobacz numery katalogowe i kluczowe szczegóły",
+    "fr": "Affichez les numéros de catalogue et les détails clés",
+    "it": "Visualizza numeri di catalogo e dettagli principali"
+  },
+  {
+    "key": "built_for_collectors.carousel_2_title",
+    "section/location": "Carousel 2 Title",
+    "en": "My Collection",
+    "de": "Meine Sammlung",
+    "nl": "Mijn Verzameling",
+    "pl": "Moja kolekcja",
+    "fr": "Ma Collection",
+    "it": "La mia collezione"
+  },
+  {
+    "key": "built_for_collectors.carousel_2_description",
+    "section/location": "Carousel 2 Description",
+    "en": "Your complete digital collection in one place. Easily organize, track, and personalize your stamps — from condition and value to certificates and notes.",
+    "de": "Deine komplette digitale Sammlung an einem Ort. Organisiere, verfolge und personalisiere deine Marken – von Zustand und Wert bis zu Zertifikaten und Notizen.",
+    "nl": "Je volledige digitale verzameling op één plek. Organiseer, volg en personaliseer je postzegels – van conditie en waarde tot certificaten en notities.",
+    "pl": "Twoja pełna cyfrowa kolekcja w jednym miejscu. Łatwo organizuj, śledź i personalizuj swoje znaczki – od stanu i wartości po certyfikaty i notatki.",
+    "fr": "Toute votre collection numérique au même endroit. Organisez, suivez et personnalisez vos timbres – de leur état à leur valeur, en passant par les certificats et les notes.",
+    "it": "Tutta la tua collezione digitale in un unico posto. Organizza, segui e personalizza i tuoi francobolli – dal loro stato e valore ai certificati e alle note personali."
+  },
+  {
+    "key": "built_for_collectors.carousel_2_item_1",
+    "section/location": "Carousel 2 Item 1",
+    "en": "Organize by country, theme, or series",
+    "de": "Organisiere nach Land, Thema oder Serie",
+    "nl": "Organiseer per land, thema of serie",
+    "pl": "Organizuj według kraju, tematu lub serii",
+    "fr": "Classez par pays, thème ou série",
+    "it": "Organizza per paese, tema o serie"
+  },
+  {
+    "key": "built_for_collectors.carousel_2_item_2",
+    "section/location": "Carousel 2 Item 2",
+    "en": "Track condition, purchase value, and authenticity certificates",
+    "de": "Verfolge Zustand, Kaufwert und Echtheitszertifikate",
+    "nl": "Volg conditie, aankoopwaarde en echtheidscertificaten",
+    "pl": "Śledź stan, wartość zakupu i certyfikaty autentyczności",
+    "fr": "Suivez l'état, la valeur et les certificats d'authenticité",
+    "it": "Tieni traccia dello stato, del valore e dei certificati di autenticità"
+  },
+  {
+    "key": "built_for_collectors.carousel_2_item_3",
+    "section/location": "Carousel 2 Item 3",
+    "en": "Add personal photos and collecting notes",
+    "de": "Füge eigene Fotos und Sammlungsnotizen hinzu",
+    "nl": "Voeg persoonlijke foto's en verzamelnotities toe",
+    "pl": "Dodawaj własne zdjęcia i notatki",
+    "fr": "Ajoutez vos propres photos et notes",
+    "it": "Aggiungi foto e note personali"
+  },
+  {
+    "section/location": "Carousel 2 Item 4",
+    "en": "Search and filter your collection by themes or sets",
+    "de": "Suche und filtere nach Themen oder Sets",
+    "nl": "Zoek en filter je verzameling op thema of set",
+    "pl": "Szukaj i filtruj kolekcję według tematów lub zestawów",
+    "fr": "Recherchez et filtrez par thème ou ensemble",
+    "it": "Cerca e filtra per tema o insieme"
+  },
+  {
+    "key": "built_for_collectors.carousel_3_title",
+    "section/location": "Carousel 3 Title",
+    "en": "Catalog",
+    "de": "Katalog",
+    "nl": "Catalogus",
+    "pl": "Katalog",
+    "fr": "Catalogue",
+    "it": "Catalogo"
+  },
+  {
+    "key": "built_for_collectors.carousel_3_description",
+    "section/location": "Carousel 3 Description",
+    "en": "Explore a growing world of stamps — all in one place. Start with one catalog included in your plan and unlock more as new countries are added every month. Browse, search, and dive into detailed information for each issue — from technical specs to historical context.",
+    "de": "Entdecke eine stetig wachsende Welt der Briefmarken – alles an einem Ort. Beginne mit einem Katalog, der in deinem Plan enthalten ist, und schalte weitere frei, wenn neue Länder hinzukommen. Durchsuche, filtere und entdecke technische Daten und geschichtliche Hintergründe.",
+    "nl": "Ontdek een groeiende wereld van postzegels – allemaal op één plek. Begin met één catalogus die in je plan is inbegrepen en ontgrendel meer naarmate er maandelijks nieuwe landen worden toegevoegd. Doorzoek, filter en bekijk technische details en historische achtergronden.",
+    "pl": "Odkrywaj rosnący świat znaczków – wszystko w jednym miejscu. Zacznij z jednym katalogiem w planie i odblokowuj kolejne, gdy co miesiąc dodawane są nowe kraje. Przeglądaj, filtruj i zagłębiaj się w dane techniczne oraz tło historyczne.",
+    "fr": "Explorez un univers croissant de timbres – tout en un seul endroit. Commencez avec un catalogue inclus et débloquez-en d'autres à mesure que de nouveaux pays sont ajoutés chaque mois. Parcourez, filtrez et découvrez les détails techniques et le contexte historique.",
+    "it": "Esplora un mondo in crescita di francobolli – tutto in un unico posto. Inizia con un catalogo incluso nel piano e sblocca nuovi paesi ogni mese. Sfoglia, filtra e scopri dettagli tecnici e contesto storico."
+  },
+  {
+    "key": "built_for_collectors.carousel_3_item_1",
+    "section/location": "Carousel 3 Item 1",
+    "en": "Access catalogued stamps",
+    "de": "Zugriff auf katalogisierte Marken",
+    "nl": "Toegang tot gecatalogiseerde postzegels",
+    "pl": "Dostęp do zindeksowanych znaczków",
+    "fr": "Accédez aux timbres répertoriés",
+    "it": "Accedi ai francobolli catalogati"
+  },
+  {
+    "key": "built_for_collectors.carousel_3_item_2",
+    "section/location": "Carousel 3 Item 2",
+    "en": "One catalog included, new ones added monthly",
+    "de": "Ein Katalog inklusive, neue werden monatlich hinzugefügt",
+    "nl": "Eén catalogus inbegrepen, nieuwe worden maandelijks toegevoegd",
+    "pl": "Jeden katalog w zestawie, nowe dodawane co miesiąc",
+    "fr": "Un catalogue inclus, de nouveaux ajoutés chaque mois",
+    "it": "Un catalogo incluso, nuovi aggiunti ogni mese"
+  },
+  {
+    "key": "built_for_collectors.carousel_3_item_3",
+    "section/location": "Carousel 3 Item 3",
+    "en": "Filter by country, year, theme, or series",
+    "de": "Filter nach Land, Jahr, Thema oder Serie",
+    "nl": "Filter op land, jaar, thema of serie",
+    "pl": "Filtruj według kraju, roku, tematu lub serii",
+    "fr": "Filtrez par pays, année, thème ou série",
+    "it": "Filtra per paese, anno, tema o serie"
+  },
+  {
+    "key": "built_for_collectors.carousel_3_item_4",
+    "section/location": "Carousel 3 Item 4",
+    "en": "View detailed images, specifications, and background stories",
+    "de": "Sieh detaillierte Bilder, Spezifikationen und Hintergrundgeschichten",
+    "nl": "Bekijk gedetailleerde afbeeldingen, specificaties en achtergrondverhalen",
+    "pl": "Oglądaj szczegółowe zdjęcia, specyfikacje i historie",
+    "fr": "Consultez des images détaillées, des spécifications et des histoires",
+    "it": "Guarda immagini dettagliate, specifiche e storie"
+  },
+  {
+    "key": "built_for_collectors.carousel_4_title",
+    "section/location": "Carousel 4 Title",
+    "en": "Missing Stamps",
+    "de": "Fehlende Marken",
+    "nl": "Ontbrekende Postzegels",
+    "pl": "Brakujące znaczki",
+    "fr": "Timbres manquants",
+    "it": "Francobolli mancanti"
+  },
+  {
+    "key": "built_for_collectors.carousel_4_description",
+    "section/location": "Carousel 4 Description",
+    "en": "See which stamps you're missing from your country catalogs or collections. Track your progress, complete series, and easily add missing issues to your wishlist.",
+    "de": "Sieh, welche Marken dir in deinen Länder- oder Themensammlungen noch fehlen. Verfolge deinen Fortschritt, vervollständige Serien und füge fehlende Marken einfach deiner Wunschliste hinzu.",
+    "nl": "Zie welke postzegels je nog mist in je landencatalogi of collecties. Volg je voortgang, voltooi series en voeg ontbrekende uitgiften eenvoudig toe aan je verlanglijst.",
+    "pl": "Zobacz, których znaczków brakuje w Twoich katalogach lub kolekcjach. Śledź postępy, domykaj serie i dodawaj brakujące emisje do listy życzeń.",
+    "fr": "Découvrez quels timbres manquent à vos collections ou catalogues. Suivez vos progrès, complétez des séries et ajoutez facilement les timbres manquants à votre liste de souhaits.",
+    "it": "Scopri quali francobolli ti mancano nei tuoi cataloghi o collezioni. Tieni traccia dei tuoi progressi, completa le serie e aggiungi facilmente le emissioni mancanti alla tua lista dei desideri."
+  },
+  {
+    "key": "built_for_collectors.carousel_4_item_1",
+    "section/location": "Carousel 4 Item 1",
+    "en": "View missing stamps by country, theme, or series",
+    "de": "Fehlende Marken nach Land, Thema oder Serie anzeigen",
+    "nl": "Bekijk ontbrekende postzegels per land, thema of serie",
+    "pl": "Przeglądaj brakujące znaczki według kraju, tematu lub serii",
+    "fr": "Consultez les timbres manquants par pays, thème ou série",
+    "it": "Visualizza i francobolli mancanti per paese, tema o serie"
+  },
+  {
+    "key": "built_for_collectors.carousel_4_item_2",
+    "section/location": "Carousel 4 Item 2",
+    "en": "Track collection progress and completion percentage",
+    "de": "Sammlungsfortschritt und Vervollständigungsgrad verfolgen",
+    "nl": "Volg voortgang en voltooiingspercentage van je collectie",
+    "pl": "Śledź postęp i procent ukończenia kolekcji",
+    "fr": "Suivez la progression et le taux de complétion",
+    "it": "Segui i progressi e la percentuale di completamento"
+  },
+  {
+    "key": "built_for_collectors.carousel_4_item_3",
+    "section/location": "Carousel 4 Item 3",
+    "en": "Add missing stamps directly to your wishlist",
+    "de": "Fehlende Marken direkt zur Wunschliste hinzufügen",
+    "nl": "Voeg ontbrekende postzegels direct toe aan je verlanglijst",
+    "pl": "Dodawaj brakujące znaczki bezpośrednio do listy życzeń",
+    "fr": "Ajoutez les timbres manquants directement à votre liste de souhaits",
+    "it": "Aggiungi i francobolli mancanti direttamente alla lista dei desideri"
+  },
+  {
+    "key": "built_for_collectors.carousel_5_title",
+    "section/location": "Carousel 5 Title",
+    "en": "My Wishlist",
+    "de": "Meine Wunschliste",
+    "nl": "Mijn Verlanglijst",
+    "pl": "Moja lista życzeń",
+    "fr": "Ma Liste de Souhaits",
+    "it": "La mia lista dei desideri"
+  },
+  {
+    "key": "built_for_collectors.carousel_5_description",
+    "section/location": "Carousel 5 Description",
+    "en": "Stay on top of the stamps you're still looking for. Add stamps from your unlocked country catalogs to your wishlist to track what you need, avoid duplicates, and complete your collections faster.",
+    "de": "Behalte im Blick, welche Marken dir noch fehlen. Füge Marken aus freigeschalteten Länderkatalogen hinzu, um doppelte Käufe zu vermeiden und deine Sammlung schneller zu vervollständigen.",
+    "nl": "Houd bij welke postzegels je nog zoekt. Voeg postzegels toe uit je vrijgegeven landencatalogi om te zien wat je nog mist, dubbele aankopen te vermijden en je collectie sneller te vervolledigen.",
+    "pl": "Miej pod kontrolą znaczki, których jeszcze szukasz. Dodawaj znaczki z odblokowanych katalogów krajowych, by unikać duplikatów i szybciej domykać kolekcje.",
+    "fr": "Gardez une vue claire sur les timbres que vous recherchez encore. Ajoutez des timbres depuis vos catalogues débloqués pour suivre vos besoins, éviter les doublons et compléter vos séries plus rapidement.",
+    "it": "Tieni sotto controllo i francobolli che stai ancora cercando. Aggiungi francobolli dai cataloghi sbloccati per evitare doppioni e completare più velocemente le tue collezioni."
+  },
+  {
+    "key": "built_for_collectors.carousel_5_item_1",
+    "section/location": "Carousel 5 Item 1",
+    "en": "Add stamps you don't yet own from unlocked catalogs",
+    "de": "Füge Marken hinzu, die du noch nicht besitzt",
+    "nl": "Voeg postzegels toe die je nog niet bezit",
+    "pl": "Dodawaj znaczki, których jeszcze nie masz",
+    "fr": "Ajoutez les timbres que vous ne possédez pas encore",
+    "it": "Aggiungi francobolli che non possiedi ancora"
+  },
+  {
+    "key": "built_for_collectors.carousel_5_item_2",
+    "section/location": "Carousel 5 Item 2",
+    "en": "See if a stamp is already part of your collection",
+    "de": "Sieh, ob eine Marke bereits in deiner Sammlung ist",
+    "nl": "Controleer of een postzegel al in je collectie zit",
+    "pl": "Sprawdź, czy znaczek jest już w kolekcji",
+    "fr": "Vérifiez si un timbre fait déjà partie de votre collection",
+    "it": "Verifica se un francobollo è già nella tua collezione"
+  },
+  {
+    "key": "built_for_collectors.carousel_5_item_3",
+    "section/location": "Carousel 5 Item 3",
+    "en": "Keep your wishlist organized and doublet-free",
+    "de": "Halte deine Wunschliste organisiert und doppeltfrei",
+    "nl": "Houd je verlanglijst overzichtelijk en dubbelloos",
+    "pl": "Utrzymuj listę życzeń przejrzystą i bez duplikatów",
+    "fr": "Gardez votre liste de souhaits organisée et sans doublons",
+    "it": "Mantieni la lista dei desideri ordinata e senza duplicati"
+  },
+  {
+    "key": "built_for_collectors.carousel_6_title",
+    "section/location": "Carousel 6 Title",
+    "en": "Statistics",
+    "de": "Statistiken",
+    "nl": "Statistieken",
+    "pl": "Statystyki",
+    "fr": "Statistiques",
+    "it": "Statistiche"
+  },
+  {
+    "key": "built_for_collectors.carousel_6_description",
+    "section/location": "Carousel 6 Description",
+    "en": "Understand your collection like never before. See your progress by country or across all collections, track certified stamps, monitor series completion, and discover your most valuable pieces — with weekly insights from Sigi to keep you up to date.",
+    "de": "Verstehe deine Sammlung besser denn je. Sieh deinen Fortschritt nach Land oder Serie, verfolge zertifizierte Marken, erkenne deine wertvollsten Stücke – und erhalte wöchentliche Einblicke und Trends von Sigi.",
+    "nl": "Begrijp je verzameling beter dan ooit. Bekijk je voortgang per land of serie, volg gecertificeerde postzegels, zie je meest waardevolle stukken en ontvang wekelijks inzichten en trends van Sigi.",
+    "pl": "Zrozum swoją kolekcję jak nigdy dotąd. Zobacz postępy według kraju lub serii, śledź certyfikowane znaczki, obserwuj domykanie serii i odkrywaj najcenniejsze egzemplarze – z cotygodniowymi analizami i trendami od Sigi.",
+    "fr": "Comprenez votre collection comme jamais auparavant. Suivez votre progression par pays ou série, surveillez les timbres certifiés, découvrez vos pièces les plus rares – et recevez chaque semaine des analyses et tendances de Sigi.",
+    "it": "Comprendi la tua collezione come mai prima. Segui i tuoi progressi per paese o serie, monitora i francobolli certificati, scopri i pezzi più preziosi – e ricevi analisi e tendenze settimanali da Sigi."
+  },
+  {
+    "key": "built_for_collectors.carousel_6_item_1",
+    "section/location": "Carousel 6 Item 1",
+    "en": "View progress by country, series, or total collection",
+    "de": "Fortschritt nach Land, Serie oder Gesamtübersicht",
+    "nl": "Bekijk voortgang per land, serie of totale collectie",
+    "pl": "Zobacz postępy według kraju, serii lub całej kolekcji",
+    "fr": "Consultez vos progrès par pays, série ou collection complète",
+    "it": "Visualizza progressi per paese, serie o collezione totale"
+  },
+  {
+    "key": "built_for_collectors.carousel_6_item_2",
+    "section/location": "Carousel 6 Item 2",
+    "en": "Track certified stamps and series completion",
+    "de": "Zertifizierte Marken und Serienabschluss verfolgen",
+    "nl": "Volg gecertificeerde postzegels en serievoltooiing",
+    "pl": "Śledź certyfikowane znaczki i ukończone serie",
+    "fr": "Suivez les timbres certifiés et les séries complétées",
+    "it": "Tieni traccia dei francobolli certificati e delle serie completate"
+  },
+  {
+    "key": "built_for_collectors.carousel_6_item_3",
+    "section/location": "Carousel 6 Item 3",
+    "en": "See your most valuable and rarest stamps",
+    "de": "Deine wertvollsten und seltensten Marken anzeigen",
+    "nl": "Zie je meest waardevolle en zeldzame postzegels",
+    "pl": "Przeglądaj najcenniejsze i najrzadsze znaczki",
+    "fr": "Découvrez vos timbres les plus rares et précieux",
+    "it": "Scopri i tuoi francobolli più rari e preziosi"
+  },
+  {
+    "key": "built_for_collectors.carousel_6_item_4",
+    "section/location": "Carousel 6 Item 4",
+    "en": "Get weekly insights and collecting trends from Sigi",
+    "de": "Wöchentliche Einblicke und Trends von Sigi erhalten",
+    "nl": "Ontvang wekelijkse inzichten en verzameltrends van Sigi",
+    "pl": "Otrzymuj cotygodniowe analizy i trendy od Sigi",
+    "fr": "Recevez chaque semaine des analyses et tendances de Sigi",
+    "it": "Ricevi analisi e tendenze settimanali da Sigi"
+  },
+  {
+    "key": "map.section_title",
+    "section/location": "Section Title",
+    "en": "Discover Stamps Near You",
+    "de": "Entdecke Marken in deiner Nähe",
+    "nl": "Ontdek postzegels bij jou in de buurt",
+    "pl": "Odkrywaj znaczki w swojej okolicy",
+    "fr": "Découvrez les timbres près de chez vous",
+    "it": "Scopri i francobolli vicino a te"
+  },
+  {
+    "key": "map.section_subtitle",
+    "section/location": "Section Subtitle",
+    "en": "Explore your city through stamps. Find historical locations, learn stories, and visit places depicted on stamps around you.",
+    "de": "Erkunde deine Stadt durch Briefmarken. Finde historische Orte, erfahre ihre Geschichten und besuche Plätze, die auf Marken abgebildet sind.",
+    "nl": "Verken je stad via postzegels. Ontdek historische locaties, leer hun verhalen kennen en bezoek plekken die op postzegels in je omgeving staan afgebeeld.",
+    "pl": "Poznawaj swoje miasto przez znaczki. Odkrywaj historyczne miejsca, ich historie i odwiedzaj lokalizacje przedstawione na znaczkach.",
+    "fr": "Explorez votre ville à travers les timbres. Trouvez des lieux historiques, découvrez leurs histoires et visitez les sites représentés sur les timbres autour de vous.",
+    "it": "Esplora la tua città attraverso i francobolli. Scopri luoghi storici, conosci le loro storie e visita i posti raffigurati sui francobolli intorno a te."
+  },
+  {
+    "key": "peace_of_mind.section_title",
+    "section/location": "Section Title",
+    "en": "Built for Collectors. Designed for Peace of Mind.",
+    "de": "Entwickelt für Sammler. Gemacht für Ruhe und Übersicht.",
+    "nl": "Ontworpen voor verzamelaars. Gemaakt voor gemoedsrust.",
+    "pl": "Stworzone dla kolekcjonerów. Zaprojektowane dla spokoju.",
+    "fr": "Conçu pour les collectionneurs. Fait pour la tranquillité d'esprit.",
+    "it": "Creato per i collezionisti. Progettato per la tranquillità."
+  },
+  {
+    "key": "peace_of_mind.section_subtitle",
+    "section/location": "Section Subtitle",
+    "en": "Whether you're discovering your first stamp or managing a lifetime collection, StampIQ adapts to every type of collector — giving you confidence, clarity, and control at every step.",
+    "de": "Ob du deine erste Marke entdeckst oder eine Lebenssammlung verwaltest – StampIQ passt sich deinem Stil an und gibt dir Sicherheit, Klarheit und Kontrolle bei jedem Schritt.",
+    "nl": "Of je nu je eerste postzegel ontdekt of een levenslange collectie beheert – StampIQ past zich aan elk type verzamelaar aan en geeft je vertrouwen, duidelijkheid en controle bij elke stap.",
+    "pl": "Niezależnie od tego, czy odkrywasz pierwszy znaczek, czy zarządzasz kolekcją życia – StampIQ dopasowuje się do każdego typu kolekcjonera, dając pewność, przejrzystość i kontrolę na każdym etapie.",
+    "fr": "Que vous découvriez votre premier timbre ou gériez une collection de toute une vie, StampIQ s'adapte à chaque type de collectionneur – en vous offrant confiance, clarté et maîtrise à chaque étape.",
+    "it": "Che tu stia scoprendo il tuo primo francobollo o gestendo una collezione di una vita, StampIQ si adatta a ogni tipo di collezionista, offrendo sicurezza, chiarezza e controllo in ogni fase."
+  },
+  {
+    "key": "collector_types.type_1_title",
+    "section/location": "Type 1 Title",
+    "en": "Casual Collector",
+    "de": "Gelegenheits-Sammler",
+    "nl": "Gelegenheidsverzamelaar",
+    "pl": "Kolekcjoner amator",
+    "fr": "Collectionneur occasionnel",
+    "it": "Collezionista occasionale"
+  },
+  {
+    "key": "collector_types.type_1_subtitle",
+    "section/location": "Type 1 Subtitle",
+    "en": "Collects stamps as a hobby without deep specialization.",
+    "de": "Sammelt Marken als Hobby ohne tiefe Spezialisierung.",
+    "nl": "Verzamelt postzegels als hobby, zonder specialisatie.",
+    "pl": "Zbiera znaczki hobbystycznie, bez specjalizacji.",
+    "fr": "Collectionne pour le plaisir, sans spécialisation particulière.",
+    "it": "Colleziona francobolli come hobby, senza specializzazione."
+  },
+  {
+    "key": "collector_types.type_1_description",
+    "section/location": "Type 1 Description",
+    "en": "Explore stamps, learn their stories, and grow your collection at your own pace.",
+    "de": "Entdecke Marken, lerne ihre Geschichten kennen und erweitere deine Sammlung in deinem eigenen Tempo.",
+    "nl": "Ontdek postzegels, leer hun verhalen en breid je verzameling uit in je eigen tempo.",
+    "pl": "Odkrywaj znaczki, poznawaj ich historie i rozwijaj kolekcję we własnym tempie.",
+    "fr": "Explorez des timbres, découvrez leurs histoires et agrandissez votre collection à votre rythme.",
+    "it": "Scopri francobolli, impara le loro storie e amplia la tua collezione al tuo ritmo."
+  },
+  {
+    "key": "collector_types.type_1_feature_1",
+    "section/location": "Type 1 Feature 1",
+    "en": "Identify and organize stamps easily",
+    "de": "Marken einfach identifizieren und organisieren",
+    "nl": "Herken en organiseer postzegels eenvoudig",
+    "pl": "Łatwe rozpoznawanie i porządkowanie znaczków",
+    "fr": "Identifiez et organisez vos timbres facilement",
+    "it": "Riconosci e organizza facilmente i francobolli"
+  },
+  {
+    "key": "collector_types.type_1_feature_2",
+    "section/location": "Type 1 Feature 2",
+    "en": "Save favorite finds and discover related issues",
+    "de": "Lieblingsstücke speichern und verwandte Ausgaben entdecken",
+    "nl": "Sla favoriete vondsten op en ontdek verwante uitgiften",
+    "pl": "Zapisuj ulubione odkrycia i poznawaj powiązane emisje",
+    "fr": "Enregistrez vos trouvailles et découvrez des émissions liées",
+    "it": "Salva le scoperte preferite e trova emissioni correlate"
+  },
+  {
+    "key": "collector_types.type_1_feature_3",
+    "section/location": "Type 1 Feature 3",
+    "en": "Learn the basics of condition, themes, and origins",
+    "de": "Grundlagen zu Zustand, Themen und Herkunft lernen",
+    "nl": "Leer de basis over conditie, thema's en herkomst",
+    "pl": "Poznaj podstawy stanu, tematyki i pochodzenia",
+    "fr": "Apprenez les bases : état, thèmes et origine",
+    "it": "Impara le basi su stato, temi e provenienza"
+  },
+  {
+    "key": "collector_types.type_2_title",
+    "section/location": "Type 2 Title",
+    "en": "Enthusiast",
+    "de": "Enthusiast",
+    "nl": "Enthousiasteling",
+    "pl": "Entuzjasta",
+    "fr": "Passionné",
+    "it": "Appassionato"
+  },
+  {
+    "key": "collector_types.type_2_subtitle",
+    "section/location": "Type 2 Subtitle",
+    "en": "Actively collects with some specialization — by country, topic, or era.",
+    "de": "Sammelt aktiv mit Fokus auf bestimmte Länder, Themen oder Epochen.",
+    "nl": "Verzamelt actief met enige specialisatie – per land, thema of tijdperk.",
+    "pl": "Kolekcjonuje aktywnie z pewną specjalizacją – według kraju, tematu lub epoki.",
+    "fr": "Collectionne activement avec une spécialisation – par pays, thème ou période.",
+    "it": "Colleziona attivamente con una certa specializzazione – per paese, tema o periodo."
+  },
+  {
+    "key": "collector_types.type_2_description",
+    "section/location": "Type 2 Description",
+    "en": "Dive deeper into your catalog and collection insights.",
+    "de": "Tauche tiefer in deinen Katalog und deine Sammlungsdaten ein.",
+    "nl": "Duik dieper in je catalogus en verzamelinzichten.",
+    "pl": "Zgłębiaj katalog i wgląd w swoją kolekcję.",
+    "fr": "Approfondissez vos catalogues et vos analyses de collection.",
+    "it": "Approfondisci il tuo catalogo e le informazioni della tua collezione."
+  },
+  {
+    "key": "collector_types.type_2_feature_1",
+    "section/location": "Type 2 Feature 1",
+    "en": "Track value, rarity, and completion by series or theme",
+    "de": "Wert, Seltenheit und Serienfortschritt verfolgen",
+    "nl": "Volg waarde, zeldzaamheid en voortgang per serie of thema",
+    "pl": "Śledź wartość, rzadkość i ukończenie serii lub tematu",
+    "fr": "Suivez la valeur, la rareté et la complétion par série ou thème",
+    "it": "Segui valore, rarità e completamento per serie o tema"
+  },
+  {
+    "key": "collector_types.type_2_feature_2",
+    "section/location": "Type 2 Feature 2",
+    "en": "Access growing country catalogs and detailed references",
+    "de": "Zugriff auf wachsende Länder-Kataloge und Detailreferenzen",
+    "nl": "Toegang tot groeiende landencatalogi en detailreferenties",
+    "pl": "Dostęp do rosnących katalogów krajowych i szczegółowych referencji",
+    "fr": "Accédez à des catalogues de pays en expansion et à des références détaillées",
+    "it": "Accedi a cataloghi in espansione e riferimenti dettagliati"
+  },
+  {
+    "key": "collector_types.type_2_feature_3",
+    "section/location": "Type 2 Feature 3",
+    "en": "Use tools for condition tracking and certificate storage",
+    "de": "Tools für Zustandsbewertung und Zertifikatsverwaltung nutzen",
+    "nl": "Gebruik tools voor conditie en certificaatbeheer",
+    "pl": "Korzystaj z narzędzi do oceny stanu i zarządzania certyfikatami",
+    "fr": "Utilisez des outils de suivi d'état et de stockage de certificats",
+    "it": "Utilizza strumenti per valutare lo stato e gestire certificati"
+  },
+  {
+    "key": "collector_types.type_3_title",
+    "section/location": "Type 3 Title",
+    "en": "Professional Collector",
+    "de": "Professioneller Sammler",
+    "nl": "Professionele Verzamelaar",
+    "pl": "Kolekcjoner profesjonalny",
+    "fr": "Collectionneur professionnel",
+    "it": "Collezionista professionale"
+  },
+  {
+    "key": "collector_types.type_3_subtitle",
+    "section/location": "Type 3 Subtitle",
+    "en": "Advanced philatelist or dealer managing a professional collection.",
+    "de": "Fortgeschrittener Philatelist oder Händler mit professioneller Sammlung.",
+    "nl": "Ervaren filatelist of handelaar die een professionele collectie beheert.",
+    "pl": "Zaawansowany filatelista lub handlarz zarządzający profesjonalną kolekcją.",
+    "fr": "Philatéliste expérimenté ou marchand gérant une collection professionnelle.",
+    "it": "Filatelista esperto o commerciante che gestisce una collezione professionale."
+  },
+  {
+    "key": "collector_types.type_3_feature_1",
+    "section/location": "Type 3 Feature 1",
+    "en": "Manage advanced data (catalog references, provenance, valuations)",
+    "de": "Erweiterte Daten verwalten (Referenzen, Provenienz, Bewertungen)",
+    "nl": "Beheer geavanceerde gegevens (catalogusreferenties, herkomst, waarderingen)",
+    "pl": "Zarządzaj danymi (numery katalogowe, proweniencja, wyceny)",
+    "fr": "Gérez des données avancées (références, provenance, estimations)",
+    "it": "Gestisci dati avanzati (riferimenti, provenienza, valutazioni)"
+  },
+  {
+    "key": "collector_types.type_3_feature_2",
+    "section/location": "Type 3 Feature 2",
+    "en": "Use bulk scanning and export options for efficiency",
+    "de": "Bulk-Scans und Exporte für mehr Effizienz",
+    "nl": "Gebruik bulk-scans en exportopties voor efficiëntie",
+    "pl": "Używaj skanowania seryjnego i eksportów dla wydajności",
+    "fr": "Utilisez le scan en lot et les exports pour plus d'efficacité",
+    "it": "Usa la scansione in blocco e le esportazioni per maggiore efficienza"
+  },
+  {
+    "key": "collector_types.type_3_feature_3",
+    "section/location": "Type 3 Feature 3",
+    "en": "Access early feature releases and in-depth statistics",
+    "de": "Frühen Zugang zu neuen Funktionen und Statistiken erhalten",
+    "nl": "Ontvang vroege toegang tot functies en uitgebreide statistieken",
+    "pl": "Otrzymuj wcześniejszy dostęp do nowych funkcji i szczegółowych statystyk",
+    "fr": "Accédez en avant-première aux nouvelles fonctions et statistiques",
+    "it": "Accedi in anteprima a nuove funzionalità e statistiche dettagliate"
+  },
+  {
+    "key": "collector_types.type_4_title",
+    "section/location": "Type 4 Title",
+    "en": "Inherited Collection",
+    "de": "Geerbte Sammlung",
+    "nl": "Geërfde Collectie",
+    "pl": "Kolekcja odziedziczona",
+    "fr": "Collection héritée",
+    "it": "Collezione ereditata"
+  },
+  {
+    "key": "collector_types.type_4_subtitle",
+    "section/location": "Type 4 Subtitle",
+    "en": "Managing a family or inherited collection? StampIQ helps you uncover its value and stories.",
+    "de": "Du verwaltest eine geerbte Sammlung? StampIQ hilft dir, ihren Wert und ihre Geschichte zu entdecken.",
+    "nl": "Beheer je een familiecollectie? StampIQ helpt je om de waarde en verhalen te ontdekken.",
+    "pl": "Zarządzasz rodzinną, odziedziczoną kolekcją? StampIQ pomoże odkryć jej wartość i historie.",
+    "fr": "Vous gérez une collection familiale ou héritée ? StampIQ vous aide à en découvrir la valeur et l'histoire.",
+    "it": "Gestisci una collezione di famiglia o ereditata? StampIQ ti aiuta a scoprirne il valore e la storia."
+  },
+  {
+    "key": "collector_types.type_4_feature_1",
+    "section/location": "Type 4 Feature 1",
+    "en": "Quickly identify and organize inherited stamps",
+    "de": "Geerbte Marken schnell identifizieren und organisieren",
+    "nl": "Identificeer en organiseer geërfde postzegels snel",
+    "pl": "Szybko rozpoznaj i uporządkuj odziedziczone znaczki",
+    "fr": "Identifiez et organisez rapidement les timbres hérités",
+    "it": "Riconosci e organizza rapidamente i francobolli ereditati"
+  },
+  {
+    "key": "collector_types.type_4_feature_2",
+    "section/location": "Type 4 Feature 2",
+    "en": "Understand historical context and potential worth",
+    "de": "Historischen Kontext und möglichen Wert verstehen",
+    "nl": "Begrijp de historische context en mogelijke waarde",
+    "pl": "Poznaj kontekst historyczny i potencjalną wartość",
+    "fr": "Comprenez le contexte historique et la valeur potentielle",
+    "it": "Comprendi il contesto storico e il potenziale valore"
+  },
+  {
+    "key": "collector_types.type_4_feature_3",
+    "section/location": "Type 4 Feature 3",
+    "en": "Decide what to keep, sell, or donate confidently",
+    "de": "Sicher entscheiden, was behalten, verkaufen oder spenden",
+    "nl": "Beslis met vertrouwen wat je wilt behouden, verkopen of schenken",
+    "pl": "Zadecyduj pewnie, co zachować, sprzedać lub przekazać",
+    "fr": "Décidez en toute confiance ce qu'il faut conserver, vendre ou transmettre",
+    "it": "Decidi con sicurezza cosa conservare, vendere o donare"
+  },
+  {
+    "key": "built_by_collectors.section_title",
+    "section/location": "Section Title",
+    "en": "Built by Collectors, for Collectors",
+    "de": "Von Sammlern gebaut – für Sammler gemacht",
+    "nl": "Gemaakt door verzamelaars, voor verzamelaars",
+    "pl": "Stworzone przez kolekcjonerów, dla kolekcjonerów",
+    "fr": "Créé par des collectionneurs, pour des collectionneurs",
+    "it": "Creato da collezionisti, per collezionisti"
+  },
+  {
+    "key": "built_by_collectors.paragraph_1",
+    "section/location": "Paragraph 1",
+    "en": "StampIQ was born from a simple frustration: managing a stamp collection shouldn't require endless catalogs, manual searches, and guesswork. As a lifelong collector, I knew there had to be a better way.",
+    "de": "StampIQ entstand aus einer einfachen Frustration: Eine Briefmarkensammlung zu verwalten, sollte keine endlosen Kataloge, manuelle Suchen und Rätselraten erfordern. Als lebenslanger Sammler wusste ich, dass es einen besseren Weg geben musste.",
+    "nl": "StampIQ is ontstaan uit een simpele frustratie: een postzegelverzameling beheren zou geen eindeloze catalogi, handmatig zoeken en giswerk moeten vereisen. Als levenslange verzamelaar wist ik dat er een betere manier moest zijn.",
+    "pl": "StampIQ powstało z prostej frustracji: zarządzanie kolekcją znaczków nie powinno wymagać niekończących się katalogów, ręcznych wyszukiwań i domysłów. Jako wieloletni kolekcjoner wiedziałem, że musi istnieć lepszy sposób.",
+    "fr": "StampIQ est né d'une simple frustration : gérer une collection de timbres ne devrait pas nécessiter des catalogues sans fin, des recherches manuelles et des devinettes. En tant que collectionneur de longue date, je savais qu'il devait exister une meilleure solution.",
+    "it": "StampIQ nasce da una semplice frustrazione: gestire una collezione di francobolli non dovrebbe richiedere cataloghi infiniti, ricerche manuali e tentativi. Da collezionista di lunga data, sapevo che doveva esserci un modo migliore."
+  },
+  {
+    "key": "built_by_collectors.paragraph_2",
+    "section/location": "Paragraph 2",
+    "en": "After years of combining my passion for philately with expertise in technology, StampIQ is the solution I wish I had when I started collecting. Every feature is designed with real collectors in mind - because I am one.",
+    "de": "Nach Jahren, in denen ich meine Leidenschaft für Philatelie mit Technologie verbunden habe, ist StampIQ die Lösung, die ich mir am Anfang gewünscht hätte. Jede Funktion ist mit echten Sammlerinnen und Sammlern im Kopf entwickelt – weil ich selbst einer bin.",
+    "nl": "Na jaren waarin ik mijn passie voor filatelie combineerde met technologische expertise, is StampIQ de oplossing die ik zelf graag had gehad toen ik begon met verzamelen. Elke functie is ontworpen met echte verzamelaars in gedachten – omdat ik er zelf een ben.",
+    "pl": "Po latach łączenia pasji do filatelistyki z technologią StampIQ stało się rozwiązaniem, którego sam potrzebowałem na początku. Każda funkcja została zaprojektowana z myślą o prawdziwych kolekcjonerach – bo sam nim jestem.",
+    "fr": "Après des années à allier ma passion pour la philatélie et la technologie, StampIQ est devenu la solution que j'aurais voulu avoir lorsque j'ai commencé à collectionner. Chaque fonction est pensée pour les vrais collectionneurs – car j'en suis un.",
+    "it": "Dopo anni di unione tra la mia passione per la filatelia e la tecnologia, StampIQ è diventato la soluzione che avrei voluto avere quando ho iniziato a collezionare. Ogni funzione è pensata per veri collezionisti – perché lo sono anch'io."
+  },
+  {
+    "key": "built_by_collectors.signature",
+    "section/location": "Signature",
+    "en": "— Marius Dygudaj, Founder",
+    "de": "— Marius Dygudaj, Gründer",
+    "nl": "— Marius Dygudaj, Oprichter",
+    "pl": "— Marius Dygudaj, Założyciel",
+    "fr": "— Marius Dygudaj, Fondateur",
+    "it": "— Marius Dygudaj, Fondatore"
+  },
+  {
+    "key": "partnership.section_title",
+    "section/location": "Section Title",
+    "en": "Partner With StampIQ",
+    "de": "Partner werden",
+    "nl": "Werk samen met StampIQ",
+    "pl": "Współpracuj ze StampIQ",
+    "fr": "Devenez partenaire de StampIQ",
+    "it": "Collabora con StampIQ"
+  },
+  {
+    "key": "partnership.section_subtitle",
+    "section/location": "Section Subtitle",
+    "en": "We're building the future of stamp collecting and we'd love to collaborate with dealers, philatelic associations, catalog publishers, and the wider collecting community.",
+    "de": "Wir gestalten die Zukunft des Briefmarkensammelns – gemeinsam mit Händlern, Verbänden, Katalogverlagen und der Sammlergemeinschaft.",
+    "nl": "We bouwen aan de toekomst van postzegelverzamelen en werken graag samen met handelaren, filatelistische verenigingen, catalogusuitgevers en de bredere verzamelgemeenschap.",
+    "pl": "Budujemy przyszłość kolekcjonowania znaczków i chętnie współpracujemy z handlarzami, stowarzyszeniami filatelistycznymi, wydawcami katalogów i szeroką społecznością kolekcjonerską.",
+    "fr": "Nous construisons l'avenir de la philatélie et souhaitons collaborer avec les marchands, associations philatéliques, éditeurs de catalogues et la communauté des collectionneurs.",
+    "it": "Stiamo costruendo il futuro della filatelia e vogliamo collaborare con commercianti, associazioni filateliche, editori di cataloghi e l'intera comunità di collezionisti."
+  },
+  {
+    "key": "partnership.card_1_title",
+    "section/location": "Card 1 Title",
+    "en": "For Stamp Dealers",
+    "de": "Für Briefmarkenhändler",
+    "nl": "Voor Postzegelhandelaren",
+    "pl": "Dla handlarzy znaczkami",
+    "fr": "Pour les marchands de timbres",
+    "it": "Per i commercianti di francobolli"
+  },
+  {
+    "key": "partnership.card_1_text",
+    "section/location": "Card 1 Text",
+    "en": "Partner with us to reach engaged collectors and integrate your inventory with our platform.",
+    "de": "Arbeite mit uns zusammen, um Sammler zu erreichen und dein Inventar mit unserer Plattform zu verbinden.",
+    "nl": "Werk met ons samen om betrokken verzamelaars te bereiken en je voorraad te integreren op ons platform.",
+    "pl": "Współpracuj z nami, aby dotrzeć do zaangażowanych kolekcjonerów i zintegrować swoją ofertę z naszą platformą.",
+    "fr": "Collaborez avec nous pour atteindre des collectionneurs engagés et intégrer votre stock à notre plateforme.",
+    "it": "Collabora con noi per raggiungere collezionisti appassionati e integrare il tuo inventario nella nostra piattaforma."
+  },
+  {
+    "key": "partnership.card_2_title",
+    "section/location": "Card 2 Title",
+    "en": "For Philatelic Associations",
+    "de": "Für Philatelistische Vereine",
+    "nl": "Voor Filatelistische Verenigingen",
+    "pl": "Dla stowarzyszeń filatelistycznych",
+    "fr": "Pour les associations philatéliques",
+    "it": "Per le associazioni filateliche"
+  },
+  {
+    "key": "partnership.card_2_text",
+    "section/location": "Card 2 Text",
+    "en": "Collaborate to bring digital tools to your members and grow the collecting community.",
+    "de": "Bringe mit uns digitale Tools zu deinen Mitgliedern und stärke die Sammlergemeinschaft.",
+    "nl": "Breng digitale tools naar je leden en help de verzamelgemeenschap groeien.",
+    "pl": "Wspólnie wprowadzajmy narzędzia cyfrowe dla członków i rozwijajmy społeczność kolekcjonerską.",
+    "fr": "Apportez des outils numériques à vos membres et contribuez à développer la communauté.",
+    "it": "Porta strumenti digitali ai tuoi membri e aiuta a far crescere la comunità dei collezionisti."
+  },
+  {
+    "key": "partnership.card_3_title",
+    "section/location": "Card 3 Title",
+    "en": "For Catalog Publishers",
+    "de": "Für Katalogverlage",
+    "nl": "Voor Catalogusuitgevers",
+    "pl": "Dla wydawców katalogów",
+    "fr": "Pour les éditeurs de catalogues",
+    "it": "Per gli editori di cataloghi"
+  },
+  {
+    "key": "partnership.card_3_text",
+    "section/location": "Card 3 Text",
+    "en": "Work with us to bring your catalogs to collectors in a modern, accessible format.",
+    "de": "Arbeite mit uns zusammen, um deine Kataloge in einem modernen, digitalen Format verfügbar zu machen.",
+    "nl": "Werk met ons om je catalogi in een modern en toegankelijk digitaal formaat te brengen.",
+    "pl": "Udostępnij swoje katalogi kolekcjonerom w nowoczesnej, dostępnej formie cyfrowej.",
+    "fr": "Participez avec nous à rendre vos catalogues accessibles dans un format moderne et numérique.",
+    "it": "Lavora con noi per portare i tuoi cataloghi in formato moderno e digitale."
+  },
+  {
+    "key": "partnership.card_4_title",
+    "section/location": "Card 4 Title",
+    "en": "For Press & Media",
+    "de": "Für Medien & Presse",
+    "nl": "Voor Pers & Media",
+    "pl": "Dla mediów",
+    "fr": "Pour la presse et les médias",
+    "it": "Per la stampa e i media"
+  },
+  {
+    "key": "partnership.card_4_text",
+    "section/location": "Card 4 Text",
+    "en": "Get in touch for press materials, interviews, and exclusive updates.",
+    "de": "Kontaktiere uns für Pressematerialien, Interviews und exklusive Updates.",
+    "nl": "Neem contact op voor persmateriaal, interviews en exclusieve updates.",
+    "pl": "Skontaktuj się z nami w sprawie materiałów prasowych, wywiadów i ekskluzywnych aktualizacji.",
+    "fr": "Contactez-nous pour recevoir des dossiers de presse, des interviews et des mises à jour exclusives.",
+    "it": "Contattaci per materiali stampa, interviste e aggiornamenti esclusivi."
+  },
+  {
+    "key": "partnership.button_text",
+    "section/location": "Button Text",
+    "en": "Contact Us About Partnerships",
+    "de": "Kontakt aufnehmen",
+    "nl": "Neem contact op",
+    "pl": "Skontaktuj się z nami",
+    "fr": "Nous contacter",
+    "it": "Contattaci"
+  },
+  {
+    "key": "launch.section_title",
+    "section/location": "Section Title",
+    "en": "Launching Early 2026 on iOS & Android",
+    "de": "Start Anfang 2026 auf iOS & Android",
+    "nl": "Lancering begin 2026 op iOS & Android",
+    "pl": "Premiera na początku 2026 na iOS i Androidzie",
+    "fr": "Lancement début 2026 sur iOS & Android",
+    "it": "Lancio previsto all'inizio del 2026 su iOS e Android"
+  },
+  {
+    "key": "launch.section_text",
+    "section/location": "Section Text",
+    "en": "Launching Early 2026 — keep collecting smarter across Switzerland, Germany, Austria, Liechtenstein, the Netherlands, and Poland",
+    "de": "Start Anfang 2026 – sammle smarter in der Schweiz, Deutschland, Österreich, Liechtenstein, den Niederlanden und Polen",
+    "nl": "Lancering begin 2026 – verzamel slimmer in Zwitserland, Duitsland, Oostenrijk, Liechtenstein, Nederland en Polen",
+    "pl": "Premiera na początku 2026 – kolekcjonuj mądrzej w Szwajcarii, Niemczech, Austrii, Liechtensteinie, Niderlandach i Polsce",
+    "fr": "Lancement début 2026 – collectionnez plus intelligemment en Suisse, Allemagne, Autriche, Liechtenstein, Pays-Bas et Pologne",
+    "it": "Lancio previsto all'inizio del 2026 – colleziona in modo più intelligente in Svizzera, Germania, Austria, Liechtenstein, Paesi Bassi e Polonia"
+  },
+  {
+    "key": "launch.badge_text",
+    "section/location": "Badge Text",
+    "en": "Coming Soon",
+    "de": "Bald verfügbar",
+    "nl": "Binnenkort beschikbaar",
+    "pl": "Już wkrótce",
+    "fr": "Bientôt disponible",
+    "it": "Prossimamente"
+  },
+  {
+    "key": "faq.section_title",
+    "section/location": "Section Title",
+    "en": "Frequently Asked Questions",
+    "de": "Häufig gestellte Fragen",
+    "nl": "Veelgestelde vragen",
+    "pl": "Najczęściej zadawane pytania",
+    "fr": "Questions fréquentes",
+    "it": "Domande frequenti"
+  },
+  {
+    "key": "faq.question_1",
+    "section/location": "FAQ 1 Question",
+    "en": "What stamps can StampIQ identify?",
+    "de": "Welche Marken kann StampIQ erkennen?",
+    "nl": "Welke postzegels kan StampIQ herkennen?",
+    "pl": "Jakie znaczki potrafi rozpoznawać StampIQ?",
+    "fr": "Quels timbres StampIQ peut-il identifier ?",
+    "it": "Quali francobolli può riconoscere StampIQ?"
+  },
+  {
+    "key": "faq.answer_1",
+    "section/location": "FAQ 1 Answer",
+    "en": "StampIQ identifies stamps from your unlocked countries and will initially be available in Switzerland, Germany, Austria, Liechtenstein, the Netherlands, and Poland. Every user gets one free \"home\" catalog, with additional country catalogs available for purchase. We add new catalogs monthly, and when new stamps are released, they're added to the catalog automatically at no extra cost.",
+    "de": "StampIQ erkennt Marken aus freigeschalteten Ländern und wird zunächst in der Schweiz, Deutschland, Österreich, Liechtenstein, den Niederlanden und Polen verfügbar sein. Jede Nutzerin und jeder Nutzer erhält einen kostenlosen „Heimatkatalog“, weitere Länder können hinzugefügt werden. Neue Kataloge und Ausgaben werden monatlich ergänzt – ohne Zusatzkosten.",
+    "nl": "StampIQ herkent postzegels uit je vrijgegeven landen en is bij de lancering beschikbaar in Zwitserland, Duitsland, Oostenrijk, Liechtenstein, Nederland en Polen. Elke gebruiker krijgt één gratis ‘thuiscatalogus’; extra catalogi zijn beschikbaar voor aankoop. Nieuwe catalogi worden maandelijks toegevoegd, en nieuwe uitgiften worden automatisch bijgewerkt zonder extra kosten.",
+    "pl": "StampIQ rozpoznaje znaczki z odblokowanych krajów i początkowo będzie dostępne w Szwajcarii, Niemczech, Austrii, Liechtensteinie, Niderlandach i Polsce. Każdy użytkownik otrzymuje jeden darmowy „katalog domowy”, a kolejne katalogi krajowe są dostępne do dokupienia. Co miesiąc dodajemy nowe katalogi, a nowe emisje trafiają do katalogu automatycznie – bez dodatkowych opłat.",
+    "fr": "StampIQ identifie les timbres des pays que vous avez débloqués et sera d’abord disponible en Suisse, Allemagne, Autriche, Liechtenstein, Pays-Bas et Pologne. Chaque utilisateur obtient un « catalogue d’origine » gratuit ; d’autres catalogues peuvent être achetés. Nous ajoutons de nouveaux catalogues chaque mois, et les nouvelles émissions sont mises à jour automatiquement sans frais supplémentaires.",
+    "it": "StampIQ riconosce i francobolli dei paesi sbloccati e sarà inizialmente disponibile in Svizzera, Germania, Austria, Liechtenstein, Paesi Bassi e Polonia. Ogni utente riceve un \"catalogo di origine\" gratuito, con la possibilità di acquistare altri cataloghi. Aggiungiamo nuovi cataloghi ogni mese e le nuove emissioni vengono aggiornate automaticamente senza costi aggiuntivi."
+  },
+  {
+    "key": "faq.question_2",
+    "section/location": "FAQ 2 Question",
+    "en": "How accurate is the identification?",
+    "de": "Wie genau ist die Erkennung?",
+    "nl": "Hoe nauwkeurig is de herkenning?",
+    "pl": "Jak dokładne jest rozpoznawanie?",
+    "fr": "Quelle est la précision de la reconnaissance ?",
+    "it": "Quanto è preciso il riconoscimento?"
+  },
+  {
+    "key": "faq.answer_2",
+    "section/location": "FAQ 2 Answer",
+    "en": "StampIQ delivers 95% recognition accuracy across supported catalogs.",
+    "de": "StampIQ erreicht eine Erkennungsgenauigkeit von 95 % in unterstützten Katalogen.",
+    "nl": "StampIQ biedt 95% herkenningsnauwkeurigheid binnen de ondersteunde catalogi.",
+    "pl": "StampIQ osiąga dokładność rozpoznawania na poziomie 95% w obsługiwanych katalogach.",
+    "fr": "StampIQ atteint une précision de reconnaissance de 95 % sur les catalogues pris en charge.",
+    "it": "StampIQ raggiunge un'accuratezza del 95% nei cataloghi supportati."
+  },
+  {
+    "key": "faq.question_3",
+    "section/location": "FAQ 3 Question",
+    "en": "When will StampIQ launch?",
+    "de": "Wann startet StampIQ?",
+    "nl": "Wanneer lanceert StampIQ?",
+    "pl": "Kiedy odbędzie się premiera StampIQ?",
+    "fr": "Quand StampIQ sera-t-il lancé ?",
+    "it": "Quando sarà lanciato StampIQ?"
+  },
+  {
+    "key": "faq.answer_3",
+    "section/location": "FAQ 3 Answer",
+    "en": "We're launching in early 2026. Join the waitlist to get early access before public release.",
+    "de": "Wir starten Anfang 2026. Melde dich für die Warteliste an, um früheren Zugang zu erhalten.",
+    "nl": "We lanceren begin 2026. Meld je aan voor de wachtlijst om vroegtijdige toegang te krijgen vóór de officiële release.",
+    "pl": "Premiera planowana jest na początek 2026 roku. Dołącz do listy oczekujących, aby uzyskać wcześniejszy dostęp przed premierą publiczną.",
+    "fr": "Le lancement est prévu pour début 2026. Rejoignez la liste d'attente pour un accès anticipé avant la sortie publique.",
+    "it": "Il lancio è previsto per l'inizio del 2026. Iscriviti alla lista d'attesa per ottenere l'accesso anticipato prima del rilascio pubblico."
+  },
+  {
+    "key": "faq.question_4",
+    "section/location": "FAQ 4 Question",
+    "en": "How often are new features added?",
+    "de": "Wie oft werden neue Funktionen hinzugefügt?",
+    "nl": "Hoe vaak worden er nieuwe functies toegevoegd?",
+    "pl": "Jak często dodawane są nowe funkcje?",
+    "fr": "À quelle fréquence ajoutez-vous de nouvelles fonctions ?",
+    "it": "Con quale frequenza vengono aggiunte nuove funzioni?"
+  },
+  {
+    "key": "faq.answer_4",
+    "section/location": "FAQ 4 Answer",
+    "en": "We release monthly updates, adding new catalogs, tools, and improvements — and we even run polls to vote for the next features.",
+    "de": "Jeden Monat kommen neue Kataloge, Tools und Verbesserungen dazu – du kannst sogar über kommende Funktionen mit abstimmen.",
+    "nl": "We brengen maandelijks updates uit met nieuwe catalogi, tools en verbeteringen – en je kunt zelfs stemmen op toekomstige functies.",
+    "pl": "Publikujemy comiesięczne aktualizacje: nowe katalogi, narzędzia i ulepszenia – a nawet ankiety, w których możesz zagłosować na kolejne funkcje.",
+    "fr": "Nous publions des mises à jour mensuelles avec de nouveaux catalogues, outils et améliorations – et vous pouvez voter pour les prochaines fonctionnalités.",
+    "it": "Rilasciamo aggiornamenti mensili con nuovi cataloghi, strumenti e miglioramenti – e puoi anche votare le prossime funzionalità."
+  },
+  {
+    "key": "faq.question_5",
+    "section/location": "FAQ 5 Question",
+    "en": "Is StampIQ free?",
+    "de": "Ist StampIQ kostenlos?",
+    "nl": "Is StampIQ gratis?",
+    "pl": "Czy StampIQ jest darmowe?",
+    "fr": "StampIQ est-il gratuit ?",
+    "it": "StampIQ è gratuito?"
+  },
+  {
+    "key": "faq.answer_5",
+    "section/location": "FAQ 5 Answer",
+    "en": "StampIQ has a free tier with 5 scans per month and access to your home catalog. Premium gives unlimited scans plus 1 bulk scan per month. Professional includes unlimited scans and unlimited bulk.",
+    "de": "StampIQ bietet eine kostenlose Stufe mit 5 Scans pro Monat und Zugang zu deinem Heimatkatalog. Premium bietet unbegrenzte Scans plus 1 Bulk-Scan pro Monat. Professional enthält unbegrenzte Scans und Bulk.",
+    "nl": "StampIQ heeft een gratis versie met 5 scans per maand en toegang tot je thuiscatalogus. Premium biedt onbeperkte scans plus 1 bulk-scan per maand. Professional biedt onbeperkte scans en onbeperkte bulk.",
+    "pl": "StampIQ ma darmową wersję z 5 skanami miesięcznie i dostępem do katalogu domowego. Premium oferuje nielimitowane skany oraz 1 skan zbiorczy miesięcznie. Professional zapewnia nielimitowane skany i nielimitowane skanowanie zbiorcze.",
+    "fr": "StampIQ propose une version gratuite avec 5 scans par mois et l'accès à votre catalogue d'origine. Premium offre des scans illimités et 1 scan en lot par mois. Professional inclut des scans et scans en lot illimités.",
+    "it": "StampIQ offre una versione gratuita con 5 scansioni al mese e accesso al tuo catalogo principale. Il piano Premium offre scansioni illimitate e 1 scansione in blocco al mese. Professional include scansioni e scansioni in blocco illimitate."
+  },
+  {
+    "key": "faq.question_6",
+    "section/location": "FAQ 6 Question",
+    "en": "Can I switch between plans anytime?",
+    "de": "Kann ich mein Abo jederzeit ändern?",
+    "nl": "Kan ik op elk moment van plan wisselen?",
+    "pl": "Czy mogę zmienić plan w dowolnym momencie?",
+    "fr": "Puis-je changer d'abonnement à tout moment ?",
+    "it": "Posso cambiare piano in qualsiasi momento?"
+  },
+  {
+    "key": "faq.answer_6",
+    "section/location": "FAQ 6 Answer",
+    "en": "Yes, you can adjust your subscription anytime — your data always stays saved.",
+    "de": "Ja, du kannst dein Abo jederzeit anpassen – deine Daten bleiben immer gespeichert.",
+    "nl": "Ja, je kunt je abonnement op elk moment aanpassen – je gegevens blijven altijd bewaard.",
+    "pl": "Tak, możesz zmienić plan w każdej chwili – Twoje dane zawsze pozostają zapisane.",
+    "fr": "Oui, vous pouvez modifier votre abonnement à tout moment – vos données sont toujours conservées.",
+    "it": "Sì, puoi modificare il tuo abbonamento in qualsiasi momento – i tuoi dati rimangono sempre salvati."
+  },
+  {
+    "key": "faq.question_7",
+    "section/location": "FAQ 7 Question",
+    "en": "Can I export my collection data?",
+    "de": "Kann ich meine Sammlungsdaten exportieren?",
+    "nl": "Kan ik mijn verzameling exporteren?",
+    "pl": "Czy mogę eksportować dane mojej kolekcji?",
+    "fr": "Puis-je exporter mes données de collection ?",
+    "it": "Posso esportare i dati della mia collezione?"
+  },
+  {
+    "key": "faq.answer_7",
+    "section/location": "FAQ 7 Answer",
+    "en": "Yes — for Professional users only.",
+    "de": "Ja – nur für Professional-Nutzerinnen und -Nutzer.",
+    "nl": "Ja – alleen voor Professional-gebruikers.",
+    "pl": "Tak – dostępne wyłącznie dla użytkowników planu Professional.",
+    "fr": "Oui – pour les utilisateurs du plan Professional uniquement.",
+    "it": "Sì – solo per gli utenti del piano Professional."
+  },
+  {
+    "key": "faq.question_8",
+    "section/location": "FAQ 8 Question",
+    "en": "Which devices will StampIQ support?",
+    "de": "Welche Geräte werden unterstützt?",
+    "nl": "Welke apparaten worden ondersteund?",
+    "pl": "Na jakich urządzeniach działa StampIQ?",
+    "fr": "Quels appareils seront compatibles ?",
+    "it": "Quali dispositivi saranno compatibili?"
+  },
+  {
+    "key": "faq.answer_8",
+    "section/location": "FAQ 8 Answer",
+    "en": "StampIQ will be available for iOS and Android smartphones and tablets at launch.",
+    "de": "StampIQ wird zum Start auf iOS- und Android-Smartphones sowie Tablets verfügbar sein.",
+    "nl": "StampIQ is bij de lancering beschikbaar voor iOS- en Android-smartphones en tablets.",
+    "pl": "StampIQ będzie dostępne na smartfonach i tabletach z iOS i Androidem.",
+    "fr": "StampIQ sera disponible au lancement sur smartphones et tablettes iOS et Android.",
+    "it": "StampIQ sarà disponibile su smartphone e tablet iOS e Android."
+  },
+  {
+    "key": "faq.question_9",
+    "section/location": "FAQ 9 Question",
+    "en": "Which languages will the app support?",
+    "de": "In welchen Sprachen ist die App verfügbar?",
+    "nl": "In welke talen is de app beschikbaar?",
+    "pl": "W jakich językach dostępna będzie aplikacja?",
+    "fr": "Dans quelles langues l'application sera-t-elle disponible ?",
+    "it": "In quali lingue sarà disponibile l'app?"
+  },
+  {
+    "key": "faq.answer_9",
+    "section/location": "FAQ 9 Answer",
+    "en": "The app will launch in English, Dutch, German, and Polish, with more languages planned later.",
+    "de": "Zum Start in Englisch, Deutsch, Niederländisch und Polnisch – weitere Sprachen folgen.",
+    "nl": "De app lanceert in het Engels, Duits, Nederlands en Pools, met later meer talen.",
+    "pl": "Aplikacja wystartuje po polsku, angielsku, niemiecku i niderlandzku, a kolejne języki planujemy dodać później.",
+    "fr": "L'application sera lancée en anglais, allemand, néerlandais et polonais, avec d'autres langues à venir plus tard.",
+    "it": "L'app sarà lanciata in inglese, tedesco, olandese e polacco, con altre lingue previste in seguito."
+  },
+  {
+    "key": "faq.question_10",
+    "section/location": "FAQ 10 Question",
+    "en": "Do I need internet to use StampIQ?",
+    "de": "Brauche ich Internet, um StampIQ zu nutzen?",
+    "nl": "Heb ik internet nodig om StampIQ te gebruiken?",
+    "pl": "Czy do działania StampIQ potrzebny jest internet?",
+    "fr": "Faut-il une connexion internet pour utiliser StampIQ ?",
+    "it": "È necessaria una connessione internet per usare StampIQ?"
+  },
+  {
+    "key": "faq.answer_10",
+    "section/location": "FAQ 10 Answer",
+    "en": "Yes. An internet connection is required for identification and catalog features at this time.",
+    "de": "Ja. Für Erkennung und Katalogfunktionen ist derzeit eine Internetverbindung erforderlich.",
+    "nl": "Ja. Een internetverbinding is momenteel vereist voor herkenning en catalogusfuncties.",
+    "pl": "Tak. Połączenie z internetem jest obecnie wymagane do rozpoznawania i funkcji katalogowych.",
+    "fr": "Oui. Une connexion internet est nécessaire pour les fonctions de reconnaissance et de catalogue.",
+    "it": "Sì. È necessaria una connessione internet per il riconoscimento e le funzioni di catalogo."
+  },
+  {
+    "key": "faq.question_11",
+    "section/location": "FAQ 11 Question",
+    "en": "Can I use StampIQ without creating an account?",
+    "de": "Kann ich StampIQ ohne Konto nutzen?",
+    "nl": "Kan ik StampIQ gebruiken zonder account?",
+    "pl": "Czy mogę korzystać ze StampIQ bez zakładania konta?",
+    "fr": "Puis-je utiliser StampIQ sans créer de compte ?",
+    "it": "Posso usare StampIQ senza creare un account?"
+  },
+  {
+    "key": "faq.answer_11",
+    "section/location": "FAQ 11 Answer",
+    "en": "No. You'll need to create an account to access your scans, collections, and personalized features.",
+    "de": "Nein. Du brauchst ein Konto, um Scans, Sammlungen und personalisierte Funktionen zu speichern.",
+    "nl": "Nee. Je moet een account aanmaken om toegang te krijgen tot je scans, collecties en gepersonaliseerde functies.",
+    "pl": "Nie. Konto jest potrzebne, aby zapisywać skany, kolekcje i korzystać ze spersonalizowanych funkcji.",
+    "fr": "Non. Vous devez créer un compte pour accéder à vos scans, collections et fonctionnalités personnalisées.",
+    "it": "No. È necessario creare un account per accedere alle tue scansioni, collezioni e funzioni personalizzate."
+  },
+  {
+    "key": "faq.question_12",
+    "section/location": "FAQ 12 Question",
+    "en": "Will my data be private?",
+    "de": "Sind meine Daten sicher?",
+    "nl": "Zijn mijn gegevens veilig?",
+    "pl": "Czy moje dane są bezpieczne?",
+    "fr": "Mes données sont-elles sécurisées ?",
+    "it": "I miei dati sono sicuri?"
+  },
+  {
+    "key": "faq.answer_12",
+    "section/location": "FAQ 12 Answer",
+    "en": "Yes. Your collection, scans, and notes are stored securely in the EU and are never shared with anyone.",
+    "de": "Ja. Deine Sammlung, Scans und Notizen werden sicher in der EU gespeichert und niemals weitergegeben.",
+    "nl": "Ja. Je verzameling, scans en notities worden veilig opgeslagen binnen de EU en nooit gedeeld met derden.",
+    "pl": "Tak. Twoja kolekcja, skany i notatki są bezpiecznie przechowywane w UE i nigdy nie są udostępniane osobom trzecim.",
+    "fr": "Oui. Vos collections, scans et notes sont stockés en toute sécurité dans l'UE et ne sont jamais partagés avec des tiers.",
+    "it": "Sì. Le tue collezioni, scansioni e note sono archiviate in modo sicuro nell'UE e non vengono mai condivise con terze parti."
+  },
+  {
+    "key": "footer.copyright",
+    "section/location": "Line 1",
+    "en": "© 2025 StampIQ. Keep Collecting Smarter.",
+    "de": "© 2025 StampIQ. Sammle smarter.",
+    "nl": "© 2025 StampIQ. Verzamel slimmer.",
+    "pl": "© 2025 StampIQ. Kolekcjonuj mądrzej.",
+    "fr": "© 2025 StampIQ. Collectionnez plus intelligemment.",
+    "it": "© 2025 StampIQ. Colleziona in modo più intelligente."
+  },
+  {
+    "key": "footer.tagline",
+    "section/location": "Line 2",
+    "en": "Designed and built in Switzerland for collectors everywhere.",
+    "de": "Entwickelt und gebaut in der Schweiz – für Sammlerinnen und Sammler weltweit.",
+    "nl": "Ontworpen en gebouwd in Zwitserland – voor verzamelaars overal.",
+    "pl": "Zaprojektowane i stworzone w Szwajcarii – dla kolekcjonerów na całym świecie.",
+    "fr": "Conçu et développé en Suisse – pour les collectionneurs du monde entier.",
+    "it": "Progettato e sviluppato in Svizzera – per i collezionisti di tutto il mondo."
+  },
+  {
+    "key": "footer.privacy_policy",
+    "section/location": "Link 1",
+    "en": "Privacy Policy",
+    "de": "Datenschutz",
+    "nl": "Privacybeleid",
+    "pl": "Polityka prywatności",
+    "fr": "Politique de confidentialité",
+    "it": "Informativa sulla privacy"
+  },
+  {
+    "key": "footer.terms",
+    "section/location": "Link 2",
+    "en": "Terms",
+    "de": "Nutzungsbedingungen",
+    "nl": "Voorwaarden",
+    "pl": "Warunki",
+    "fr": "Conditions",
+    "it": "Termini"
+  },
+  {
+    "key": "footer.contact",
+    "section/location": "Link 3",
+    "en": "Contact",
+    "de": "Kontakt",
+    "nl": "Contact",
+    "pl": "Kontakt",
+    "fr": "Contact",
+    "it": "Contatto"
+  },
+  {
+    "key": "footer.operated_by",
+    "section/location": "Line 3",
+    "en": "Operated by Marius Dygudaj • Zug, Switzerland",
+    "de": "Betrieben von Marius Dygudaj • Zug, Schweiz",
+    "nl": "Beheerd door Marius Dygudaj • Zug, Zwitserland",
+    "pl": "Operator: Marius Dygudaj • Zug, Szwajcaria",
+    "fr": "Exploité par Marius Dygudaj • Zoug, Suisse",
+    "it": "Gestito da Marius Dygudaj • Zugo, Svizzera"
+  }
+]
