@@ -1017,7 +1017,7 @@
             .hero-text h1 {
                 order: 1;
                 margin: 0 0 16px 0;
-                font-size: 40px;
+                font-size: clamp(28px, 7vw, 36px);
                 line-height: 1.2;
             }
 
