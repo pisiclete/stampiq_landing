@@ -30,8 +30,7 @@
     <!-- Header -->
     <header id="header">
         <nav class="container">
-            <div class="logo-group">
-                <div class="logo">
+            <div class="logo">
                 <svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 705.14 174.29">
                     <defs>
                         <style>
@@ -78,52 +77,49 @@
                         </g>
                     </g>
                 </svg>
-                </div>
-                <div class="swiss-badge">
-                    <svg viewBox="0 0 32 32" width="16" height="16" style="margin-right: 6px;">
-                        <rect width="32" height="32" fill="#FF0000"/>
-                        <rect x="13" y="6" width="6" height="20" fill="white"/>
-                        <rect x="6" y="13" width="20" height="6" fill="white"/>
-                    </svg>
-                    <span data-i18n="badge.swiss_made">Swiss Made</span>
-                </div>
             </div>
-            <div class="header-badges">
-                <div class="hero-badge" data-i18n="badge.launching">Launching Early 2026</div>
-                <div class="language-selector">
-                    <button class="language-btn" id="languageBtn">
+            <div class="swiss-badge">
+                <svg viewBox="0 0 32 32" width="16" height="16" style="margin-right: 6px;">
+                    <rect width="32" height="32" fill="#FF0000"/>
+                    <rect x="13" y="6" width="6" height="20" fill="white"/>
+                    <rect x="6" y="13" width="20" height="6" fill="white"/>
+                </svg>
+                <span data-i18n="badge.swiss_made">Swiss Made</span>
+            </div>
+            <div class="hero-badge" data-i18n="badge.launching">Launching Early 2026</div>
+            <div class="language-selector">
+                <button class="language-btn" id="languageBtn">
+                    <span class="flag">🇺🇸</span>
+                    <span class="lang-code">EN</span>
+                    <svg class="chevron" width="12" height="12" viewBox="0 0 12 12" fill="none">
+                        <path d="M3 4.5L6 7.5L9 4.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                </button>
+                <div class="language-dropdown" id="languageDropdown">
+                    <a href="#" class="language-option active" data-lang="en">
                         <span class="flag">🇺🇸</span>
                         <span class="lang-code">EN</span>
-                        <svg class="chevron" width="12" height="12" viewBox="0 0 12 12" fill="none">
-                            <path d="M3 4.5L6 7.5L9 4.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-                        </svg>
-                    </button>
-                    <div class="language-dropdown" id="languageDropdown">
-                        <a href="#" class="language-option active" data-lang="en">
-                            <span class="flag">🇺🇸</span>
-                            <span class="lang-code">EN</span>
-                        </a>
-                        <a href="#" class="language-option" data-lang="de">
-                            <span class="flag">🇩🇪</span>
-                            <span class="lang-code">DE</span>
-                        </a>
-                        <a href="#" class="language-option" data-lang="nl">
-                            <span class="flag">🇳🇱</span>
-                            <span class="lang-code">NL</span>
-                        </a>
-                        <a href="#" class="language-option" data-lang="pl">
-                            <span class="flag">🇵🇱</span>
-                            <span class="lang-code">PL</span>
-                        </a>
-                        <a href="#" class="language-option" data-lang="fr">
-                            <span class="flag">🇫🇷</span>
-                            <span class="lang-code">FR</span>
-                        </a>
-                        <a href="#" class="language-option" data-lang="it">
-                            <span class="flag">🇮🇹</span>
-                            <span class="lang-code">IT</span>
-                        </a>
-                    </div>
+                    </a>
+                    <a href="#" class="language-option" data-lang="de">
+                        <span class="flag">🇩🇪</span>
+                        <span class="lang-code">DE</span>
+                    </a>
+                    <a href="#" class="language-option" data-lang="nl">
+                        <span class="flag">🇳🇱</span>
+                        <span class="lang-code">NL</span>
+                    </a>
+                    <a href="#" class="language-option" data-lang="pl">
+                        <span class="flag">🇵🇱</span>
+                        <span class="lang-code">PL</span>
+                    </a>
+                    <a href="#" class="language-option" data-lang="fr">
+                        <span class="flag">🇫🇷</span>
+                        <span class="lang-code">FR</span>
+                    </a>
+                    <a href="#" class="language-option" data-lang="it">
+                        <span class="flag">🇮🇹</span>
+                        <span class="lang-code">IT</span>
+                    </a>
                 </div>
             </div>
         </nav>
@@ -176,6 +172,19 @@
                     </div>
                 </div>
 
+                <!-- Mobile Badges (only visible on mobile) -->
+                <div class="mobile-hero-badges">
+                    <div class="swiss-badge">
+                        <svg viewBox="0 0 32 32" width="16" height="16" style="margin-right: 6px;">
+                            <rect width="32" height="32" fill="#FF0000"/>
+                            <rect x="13" y="6" width="6" height="20" fill="white"/>
+                            <rect x="6" y="13" width="20" height="6" fill="white"/>
+                        </svg>
+                        <span data-i18n="badge.swiss_made">Swiss Made</span>
+                    </div>
+                    <div class="hero-badge" data-i18n="badge.launching">Launching Early 2026</div>
+                </div>
+
                 <!-- Phone Mockup -->
                 <div class="phone-mockup">
                     <div class="phone-frame">
@@ -195,15 +204,15 @@
         <div class="container">
             <div class="stats-grid">
                 <div class="stat-item">
-                    <div class="stat-number">5K+</div>
+                    <div class="stat-number">100</div>
                     <div class="stat-label" data-i18n="stats.stat_1_label">Early Collectors</div>
                 </div>
                 <div class="stat-item">
-                    <div class="stat-number">150K+</div>
+                    <div class="stat-number">3K+</div>
                     <div class="stat-label" data-i18n="stats.stat_2_label">Stamps Catalogued</div>
                 </div>
                 <div class="stat-item">
-                    <div class="stat-number">95%</div>
+                    <div class="stat-number">96%</div>
                     <div class="stat-label" data-i18n="stats.stat_3_label">Recognition Accuracy</div>
                 </div>
                 <div class="stat-item">
@@ -872,7 +881,7 @@
                         const timeCountdown = setInterval(() => {
                             timeValue--;
                             recognitionTimeElement.textContent = timeValue;
-                            if (timeValue <= 3) {
+                            if (timeValue <= 4) {
                                 clearInterval(timeCountdown);
                             }
                         }, 200);

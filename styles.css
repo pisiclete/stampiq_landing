@@ -73,15 +73,9 @@
 
         nav {
             display: flex;
-            justify-content: space-between;
             align-items: center;
             padding: 20px 0;
             min-height: 60px;
-        }
-
-        .logo-group {
-            display: flex;
-            align-items: center;
             gap: 16px;
         }
 
@@ -95,10 +89,8 @@
             width: auto;
         }
 
-        .header-badges {
-            display: flex;
-            gap: 12px;
-            align-items: center;
+        .hero-badge {
+            margin-left: auto;
         }
 
         .swiss-badge {
@@ -252,7 +244,10 @@
             border-radius: var(--border-radius-large);
             font-size: 14px;
             font-weight: 600;
-            animation: pulse 2s infinite;
+        }
+
+        .mobile-hero-badges {
+            display: none;
         }
 
         nav .hero-badge {
@@ -670,8 +665,8 @@
             }
 
             .carousel-nav {
-                width: 40px;
-                height: 40px;
+                width: 32px;
+                height: 32px;
             }
 
             .feature-carousel-card {
@@ -958,6 +953,7 @@
         .stat-label {
             color: var(--light-text);
             font-size: 16px;
+            white-space: nowrap;
         }
 
         /* Footer */
@@ -995,27 +991,78 @@
 
         /* Mobile Responsive */
         @media (max-width: 768px) {
+            .hero {
+                padding: 24px 0 40px;
+            }
+
             .hero-content {
-                grid-template-columns: 1fr;
+                display: flex;
+                flex-direction: column;
                 text-align: center;
+                gap: 0;
             }
 
             .hero-text {
-                text-align: center;
+                order: 1;
+                display: contents;
+            }
+
+            .hero-text h1 {
+                order: 1;
+                margin: 0 0 16px 0;
+                font-size: 40px;
+                line-height: 1.2;
+            }
+
+            .hero-card {
+                order: 2;
+                margin: 0 0 16px 0;
+            }
+
+            .phone-mockup {
+                order: 3;
+                margin: 0 auto 16px;
+                transform: scale(0.85);
+            }
+
+            .mobile-hero-badges {
+                display: flex !important;
+                justify-content: center;
+                gap: 8px;
+                order: 4;
+                margin-bottom: 16px;
+            }
+
+            .mobile-hero-badges .swiss-badge {
+                padding: 5px 10px;
+                font-size: 11px;
+            }
+
+            .mobile-hero-badges .hero-badge {
+                padding: 5px 12px;
+                font-size: 11px;
+            }
+
+            .waitlist-perks {
+                order: 5;
+                margin-top: 16px;
+            }
+
+            .success-message {
+                order: 5;
+            }
+
+            .email-benefits {
+                order: 6;
+            }
+
+            .phone-frame {
+                transform: none !important;
             }
 
             .hero-subtitle {
                 margin-left: auto;
                 margin-right: auto;
-            }
-
-            .phone-mockup {
-                margin: 0 auto;
-                transform: scale(0.8);
-            }
-
-            .phone-frame {
-                transform: none !important;
             }
 
             .email-form {
@@ -1045,6 +1092,15 @@
 
             .hero {
                 padding: 120px 0 60px;
+            }
+
+            .stats-grid {
+                grid-template-columns: repeat(2, 1fr);
+                gap: 30px;
+            }
+
+            .stat-label {
+                white-space: normal;
             }
         }
 
@@ -1560,38 +1616,32 @@
 
         /* Mobile Responsive - Header Badges and Language Selector */
         @media (max-width: 768px) {
-            .header-badges {
-                gap: 6px;
-            }
-
-            .swiss-badge {
-                padding: 4px 10px;
-                font-size: 10px;
-            }
-
-            .swiss-badge .swiss-cross {
-                width: 16px;
-                height: 16px;
-                margin-right: 4px;
-            }
-
+            /* Hide badges in header on mobile */
+            nav .swiss-badge,
             nav .hero-badge {
-                padding: 4px 12px;
-                font-size: 11px;
+                display: none;
+            }
+
+            .language-selector {
+                margin-left: auto;
             }
 
             .language-btn {
-                padding: 4px 8px 4px 10px;
+                padding: 5px 10px;
                 font-size: 11px;
-                gap: 4px;
+                gap: 3px;
             }
 
             .language-btn .flag {
-                font-size: 14px;
+                font-size: 15px;
+            }
+
+            .language-btn .lang-code {
+                font-size: 11px;
             }
 
             .language-btn .chevron {
-                width: 10px;
-                height: 10px;
+                width: 9px;
+                height: 9px;
             }
         }
