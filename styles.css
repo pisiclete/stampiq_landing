@@ -26,6 +26,13 @@
             background: transparent !important;
         }
 
+        /* Hide Sigi animation on mobile */
+        @media (max-width: 768px) {
+            .sigi-floating {
+                display: none;
+            }
+        }
+
         :root {
             --primary-green: #66E204;
             --primary-green-dark: #4fa902;
