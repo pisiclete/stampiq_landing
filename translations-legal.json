@@ -1,0 +1,722 @@
+[
+  {
+    "key": "privacy.page_title",
+    "section/location": "Privacy - Page Title",
+    "en": "Privacy Policy – StampIQ",
+    "de": "Datenschutz – StampIQ",
+    "nl": "Privacybeleid – StampIQ",
+    "pl": "Polityka prywatności – StampIQ",
+    "fr": "Politique de confidentialité – StampIQ",
+    "it": "Informativa sulla privacy – StampIQ"
+  },
+  {
+    "key": "privacy.meta_description",
+    "section/location": "Privacy - Meta Description",
+    "en": "StampIQ Privacy Policy - How we handle your data on our website and waitlist.",
+    "de": "StampIQ Datenschutz - Wie wir Ihre Daten auf unserer Website und Warteliste verarbeiten.",
+    "nl": "StampIQ Privacybeleid - Hoe wij omgaan met uw gegevens op onze website en wachtlijst.",
+    "pl": "Polityka prywatności StampIQ - Jak przetwarzamy Twoje dane na naszej stronie i liście oczekujących.",
+    "fr": "Politique de confidentialité StampIQ - Comment nous traitons vos données sur notre site et liste d'attente.",
+    "it": "Informativa sulla privacy StampIQ - Come gestiamo i tuoi dati sul nostro sito e lista d'attesa."
+  },
+  {
+    "key": "privacy.back_link",
+    "section/location": "Privacy - Back Link",
+    "en": "← Back to Home",
+    "de": "← Zurück zur Startseite",
+    "nl": "← Terug naar Home",
+    "pl": "← Powrót do strony głównej",
+    "fr": "← Retour à l'accueil",
+    "it": "← Torna alla Home"
+  },
+  {
+    "key": "privacy.heading",
+    "section/location": "Privacy - Main Heading",
+    "en": "Privacy Policy",
+    "de": "Datenschutzerklärung",
+    "nl": "Privacybeleid",
+    "pl": "Polityka prywatności",
+    "fr": "Politique de confidentialité",
+    "it": "Informativa sulla privacy"
+  },
+  {
+    "key": "privacy.last_updated",
+    "section/location": "Privacy - Last Updated",
+    "en": "Last updated: November 24, 2025",
+    "de": "Zuletzt aktualisiert: 24. November 2025",
+    "nl": "Laatst bijgewerkt: 24 november 2025",
+    "pl": "Ostatnia aktualizacja: 24 listopada 2025",
+    "fr": "Dernière mise à jour : 24 novembre 2025",
+    "it": "Ultimo aggiornamento: 24 novembre 2025"
+  },
+  {
+    "key": "privacy.intro",
+    "section/location": "Privacy - Intro Paragraph",
+    "en": "This privacy policy explains how StampIQ (\"we\", \"us\", or \"our\") collects and uses information when you visit our website and sign up for our waitlist. This policy applies only to our pre-launch website - a separate privacy policy will be provided when our app launches.",
+    "de": "Diese Datenschutzerklärung erläutert, wie StampIQ (\"wir\", \"uns\" oder \"unser\") Informationen erfasst und verwendet, wenn Sie unsere Website besuchen und sich für unsere Warteliste anmelden. Diese Richtlinie gilt nur für unsere Pre-Launch-Website – eine separate Datenschutzerklärung wird bereitgestellt, wenn unsere App startet.",
+    "nl": "Dit privacybeleid legt uit hoe StampIQ (\"wij\", \"ons\" of \"onze\") informatie verzamelt en gebruikt wanneer u onze website bezoekt en zich aanmeldt voor onze wachtlijst. Dit beleid geldt alleen voor onze pre-launch website – een apart privacybeleid wordt verstrekt wanneer onze app wordt gelanceerd.",
+    "pl": "Niniejsza polityka prywatności wyjaśnia, w jaki sposób StampIQ (\"my\", \"nas\" lub \"nasz\") gromadzi i wykorzystuje informacje podczas odwiedzania naszej strony internetowej i zapisywania się na listę oczekujących. Ta polityka dotyczy wyłącznie naszej strony przed uruchomieniem – osobna polityka prywatności zostanie udostępniona po uruchomieniu aplikacji.",
+    "fr": "Cette politique de confidentialité explique comment StampIQ (« nous », « notre ») collecte et utilise les informations lorsque vous visitez notre site web et vous inscrivez sur notre liste d'attente. Cette politique s'applique uniquement à notre site de pré-lancement – une politique de confidentialité distincte sera fournie lors du lancement de notre application.",
+    "it": "Questa informativa sulla privacy spiega come StampIQ (\"noi\", \"ci\" o \"nostro\") raccoglie e utilizza le informazioni quando visiti il nostro sito web e ti iscrivi alla nostra lista d'attesa. Questa policy si applica solo al nostro sito pre-lancio – un'informativa sulla privacy separata sarà fornita al lancio della nostra app."
+  },
+  {
+    "key": "privacy.section1_title",
+    "section/location": "Privacy - Section 1 Title",
+    "en": "1. Information We Collect",
+    "de": "1. Welche Daten wir erfassen",
+    "nl": "1. Informatie die wij verzamelen",
+    "pl": "1. Informacje, które zbieramy",
+    "fr": "1. Informations que nous collectons",
+    "it": "1. Informazioni che raccogliamo"
+  },
+  {
+    "key": "privacy.section1_intro",
+    "section/location": "Privacy - Section 1 Intro",
+    "en": "When you join our waitlist, we collect:",
+    "de": "Wenn Sie sich für unsere Warteliste anmelden, erfassen wir:",
+    "nl": "Wanneer u zich aanmeldt voor onze wachtlijst, verzamelen wij:",
+    "pl": "Gdy zapiszesz się na naszą listę oczekujących, zbieramy:",
+    "fr": "Lorsque vous rejoignez notre liste d'attente, nous collectons :",
+    "it": "Quando ti iscrivi alla nostra lista d'attesa, raccogliamo:"
+  },
+  {
+    "key": "privacy.section1_item_1",
+    "section/location": "Privacy - Section 1 Item 1",
+    "en": "<strong>Email address</strong> - provided by you when signing up",
+    "de": "<strong>E-Mail-Adresse</strong> – von Ihnen bei der Anmeldung angegeben",
+    "nl": "<strong>E-mailadres</strong> – door u verstrekt bij aanmelding",
+    "pl": "<strong>Adres e-mail</strong> – podany przez Ciebie podczas rejestracji",
+    "fr": "<strong>Adresse e-mail</strong> – fournie par vous lors de l'inscription",
+    "it": "<strong>Indirizzo e-mail</strong> – fornito da te al momento dell'iscrizione"
+  },
+  {
+    "key": "privacy.section1_item_2",
+    "section/location": "Privacy - Section 1 Item 2",
+    "en": "<strong>Country</strong> - automatically detected from your IP address",
+    "de": "<strong>Land</strong> – automatisch anhand Ihrer IP-Adresse erkannt",
+    "nl": "<strong>Land</strong> – automatisch gedetecteerd via uw IP-adres",
+    "pl": "<strong>Kraj</strong> – automatycznie wykryty na podstawie Twojego adresu IP",
+    "fr": "<strong>Pays</strong> – détecté automatiquement à partir de votre adresse IP",
+    "it": "<strong>Paese</strong> – rilevato automaticamente dal tuo indirizzo IP"
+  },
+  {
+    "key": "privacy.section1_item_3",
+    "section/location": "Privacy - Section 1 Item 3",
+    "en": "<strong>IP address</strong> - collected when you submit the form",
+    "de": "<strong>IP-Adresse</strong> – erfasst beim Absenden des Formulars",
+    "nl": "<strong>IP-adres</strong> – verzameld bij het verzenden van het formulier",
+    "pl": "<strong>Adres IP</strong> – zebrany podczas przesyłania formularza",
+    "fr": "<strong>Adresse IP</strong> – collectée lors de l'envoi du formulaire",
+    "it": "<strong>Indirizzo IP</strong> – raccolto al momento dell'invio del modulo"
+  },
+  {
+    "key": "privacy.section1_item_4",
+    "section/location": "Privacy - Section 1 Item 4",
+    "en": "<strong>Timestamp</strong> - when you signed up",
+    "de": "<strong>Zeitstempel</strong> – wann Sie sich angemeldet haben",
+    "nl": "<strong>Tijdstempel</strong> – wanneer u zich heeft aangemeld",
+    "pl": "<strong>Znacznik czasu</strong> – kiedy się zarejestrowałeś",
+    "fr": "<strong>Horodatage</strong> – quand vous vous êtes inscrit",
+    "it": "<strong>Timestamp</strong> – quando ti sei iscritto"
+  },
+  {
+    "key": "privacy.section1_note",
+    "section/location": "Privacy - Section 1 Note",
+    "en": "We do not use cookies or tracking technologies on this website.",
+    "de": "Wir verwenden auf dieser Website keine Cookies oder Tracking-Technologien.",
+    "nl": "Wij gebruiken geen cookies of trackingtechnologieën op deze website.",
+    "pl": "Nie używamy plików cookie ani technologii śledzenia na tej stronie.",
+    "fr": "Nous n'utilisons pas de cookies ni de technologies de suivi sur ce site.",
+    "it": "Non utilizziamo cookie o tecnologie di tracciamento su questo sito."
+  },
+  {
+    "key": "privacy.section2_title",
+    "section/location": "Privacy - Section 2 Title",
+    "en": "2. How We Use Your Information",
+    "de": "2. Wie wir Ihre Daten verwenden",
+    "nl": "2. Hoe wij uw informatie gebruiken",
+    "pl": "2. Jak wykorzystujemy Twoje dane",
+    "fr": "2. Comment nous utilisons vos informations",
+    "it": "2. Come utilizziamo le tue informazioni"
+  },
+  {
+    "key": "privacy.section2_intro",
+    "section/location": "Privacy - Section 2 Intro",
+    "en": "We use your information solely to:",
+    "de": "Wir verwenden Ihre Daten ausschließlich, um:",
+    "nl": "Wij gebruiken uw informatie uitsluitend om:",
+    "pl": "Wykorzystujemy Twoje dane wyłącznie w celu:",
+    "fr": "Nous utilisons vos informations uniquement pour :",
+    "it": "Utilizziamo le tue informazioni esclusivamente per:"
+  },
+  {
+    "key": "privacy.section2_item_1",
+    "section/location": "Privacy - Section 2 Item 1",
+    "en": "Add you to our waitlist",
+    "de": "Sie zu unserer Warteliste hinzuzufügen",
+    "nl": "U toe te voegen aan onze wachtlijst",
+    "pl": "Dodać Cię do naszej listy oczekujących",
+    "fr": "Vous ajouter à notre liste d'attente",
+    "it": "Aggiungerti alla nostra lista d'attesa"
+  },
+  {
+    "key": "privacy.section2_item_2",
+    "section/location": "Privacy - Section 2 Item 2",
+    "en": "Send you updates about StampIQ's launch",
+    "de": "Ihnen Updates zum Start von StampIQ zu senden",
+    "nl": "U updates te sturen over de lancering van StampIQ",
+    "pl": "Wysyłać Ci informacje o uruchomieniu StampIQ",
+    "fr": "Vous envoyer des mises à jour sur le lancement de StampIQ",
+    "it": "Inviarti aggiornamenti sul lancio di StampIQ"
+  },
+  {
+    "key": "privacy.section2_item_3",
+    "section/location": "Privacy - Section 2 Item 3",
+    "en": "Notify you about early access opportunities",
+    "de": "Sie über Early-Access-Möglichkeiten zu informieren",
+    "nl": "U te informeren over mogelijkheden voor vroege toegang",
+    "pl": "Informować Cię o możliwościach wczesnego dostępu",
+    "fr": "Vous informer des opportunités d'accès anticipé",
+    "it": "Informarti sulle opportunità di accesso anticipato"
+  },
+  {
+    "key": "privacy.section2_item_4",
+    "section/location": "Privacy - Section 2 Item 4",
+    "en": "Understand where our potential users are located",
+    "de": "Zu verstehen, wo sich unsere potenziellen Nutzer befinden",
+    "nl": "Te begrijpen waar onze potentiële gebruikers zich bevinden",
+    "pl": "Zrozumieć, gdzie znajdują się nasi potencjalni użytkownicy",
+    "fr": "Comprendre où se trouvent nos utilisateurs potentiels",
+    "it": "Capire dove si trovano i nostri potenziali utenti"
+  },
+  {
+    "key": "privacy.section2_note",
+    "section/location": "Privacy - Section 2 Note",
+    "en": "We will not send you marketing emails unrelated to StampIQ, and we will not share your email with third parties for marketing purposes.",
+    "de": "Wir werden Ihnen keine Marketing-E-Mails senden, die nichts mit StampIQ zu tun haben, und wir werden Ihre E-Mail-Adresse nicht zu Marketingzwecken an Dritte weitergeben.",
+    "nl": "Wij sturen u geen marketing-e-mails die geen verband houden met StampIQ, en wij delen uw e-mailadres niet met derden voor marketingdoeleinden.",
+    "pl": "Nie będziemy wysyłać Ci e-maili marketingowych niezwiązanych ze StampIQ i nie będziemy udostępniać Twojego adresu e-mail stronom trzecim w celach marketingowych.",
+    "fr": "Nous ne vous enverrons pas d'e-mails marketing sans rapport avec StampIQ, et nous ne partagerons pas votre e-mail avec des tiers à des fins marketing.",
+    "it": "Non ti invieremo e-mail di marketing non correlate a StampIQ e non condivideremo la tua e-mail con terze parti per scopi di marketing."
+  },
+  {
+    "key": "privacy.section3_title",
+    "section/location": "Privacy - Section 3 Title",
+    "en": "3. Third-Party Services",
+    "de": "3. Dienste von Drittanbietern",
+    "nl": "3. Diensten van derden",
+    "pl": "3. Usługi stron trzecich",
+    "fr": "3. Services tiers",
+    "it": "3. Servizi di terze parti"
+  },
+  {
+    "key": "privacy.section3_intro",
+    "section/location": "Privacy - Section 3 Intro",
+    "en": "We use the following third-party services:",
+    "de": "Wir nutzen folgende Dienste von Drittanbietern:",
+    "nl": "Wij gebruiken de volgende diensten van derden:",
+    "pl": "Korzystamy z następujących usług stron trzecich:",
+    "fr": "Nous utilisons les services tiers suivants :",
+    "it": "Utilizziamo i seguenti servizi di terze parti:"
+  },
+  {
+    "key": "privacy.section3_item_1",
+    "section/location": "Privacy - Section 3 Item 1",
+    "en": "<strong>Google Sheets</strong> - to securely store waitlist data",
+    "de": "<strong>Google Sheets</strong> – zur sicheren Speicherung der Wartelistendaten",
+    "nl": "<strong>Google Sheets</strong> – om wachtlijstgegevens veilig op te slaan",
+    "pl": "<strong>Google Sheets</strong> – do bezpiecznego przechowywania danych z listy oczekujących",
+    "fr": "<strong>Google Sheets</strong> – pour stocker en toute sécurité les données de la liste d'attente",
+    "it": "<strong>Google Sheets</strong> – per archiviare in modo sicuro i dati della lista d'attesa"
+  },
+  {
+    "key": "privacy.section3_item_2",
+    "section/location": "Privacy - Section 3 Item 2",
+    "en": "<strong>ip-api.com</strong> - to determine your country from your IP address (your IP is sent to this service once during signup)",
+    "de": "<strong>ip-api.com</strong> – um Ihr Land anhand Ihrer IP-Adresse zu ermitteln (Ihre IP wird bei der Anmeldung einmalig an diesen Dienst gesendet)",
+    "nl": "<strong>ip-api.com</strong> – om uw land te bepalen aan de hand van uw IP-adres (uw IP wordt eenmalig naar deze dienst verzonden tijdens aanmelding)",
+    "pl": "<strong>ip-api.com</strong> – aby określić Twój kraj na podstawie adresu IP (Twój adres IP jest wysyłany do tej usługi jednorazowo podczas rejestracji)",
+    "fr": "<strong>ip-api.com</strong> – pour déterminer votre pays à partir de votre adresse IP (votre IP est envoyée une seule fois à ce service lors de l'inscription)",
+    "it": "<strong>ip-api.com</strong> – per determinare il tuo paese dal tuo indirizzo IP (il tuo IP viene inviato a questo servizio una sola volta durante l'iscrizione)"
+  },
+  {
+    "key": "privacy.section4_title",
+    "section/location": "Privacy - Section 4 Title",
+    "en": "4. Data Storage and Security",
+    "de": "4. Datenspeicherung und Sicherheit",
+    "nl": "4. Gegevensopslag en beveiliging",
+    "pl": "4. Przechowywanie danych i bezpieczeństwo",
+    "fr": "4. Stockage des données et sécurité",
+    "it": "4. Archiviazione dei dati e sicurezza"
+  },
+  {
+    "key": "privacy.section4_text",
+    "section/location": "Privacy - Section 4 Text",
+    "en": "Your data is stored securely using Google's infrastructure. We take reasonable measures to protect your information, but no method of transmission over the internet is 100% secure.",
+    "de": "Ihre Daten werden sicher auf der Infrastruktur von Google gespeichert. Wir ergreifen angemessene Maßnahmen zum Schutz Ihrer Daten, jedoch ist keine Übertragungsmethode über das Internet zu 100 % sicher.",
+    "nl": "Uw gegevens worden veilig opgeslagen met behulp van de infrastructuur van Google. Wij nemen redelijke maatregelen om uw informatie te beschermen, maar geen enkele methode van gegevensoverdracht via internet is 100% veilig.",
+    "pl": "Twoje dane są bezpiecznie przechowywane w infrastrukturze Google. Podejmujemy rozsądne środki w celu ochrony Twoich informacji, ale żadna metoda transmisji przez internet nie jest w 100% bezpieczna.",
+    "fr": "Vos données sont stockées en toute sécurité sur l'infrastructure de Google. Nous prenons des mesures raisonnables pour protéger vos informations, mais aucune méthode de transmission sur Internet n'est sécurisée à 100 %.",
+    "it": "I tuoi dati sono archiviati in modo sicuro utilizzando l'infrastruttura di Google. Adottiamo misure ragionevoli per proteggere le tue informazioni, ma nessun metodo di trasmissione su Internet è sicuro al 100%."
+  },
+  {
+    "key": "privacy.section5_title",
+    "section/location": "Privacy - Section 5 Title",
+    "en": "5. Your Rights",
+    "de": "5. Ihre Rechte",
+    "nl": "5. Uw rechten",
+    "pl": "5. Twoje prawa",
+    "fr": "5. Vos droits",
+    "it": "5. I tuoi diritti"
+  },
+  {
+    "key": "privacy.section5_intro",
+    "section/location": "Privacy - Section 5 Intro",
+    "en": "You have the right to:",
+    "de": "Sie haben das Recht auf:",
+    "nl": "U heeft het recht om:",
+    "pl": "Masz prawo do:",
+    "fr": "Vous avez le droit de :",
+    "it": "Hai il diritto di:"
+  },
+  {
+    "key": "privacy.section5_item_1",
+    "section/location": "Privacy - Section 5 Item 1",
+    "en": "<strong>Access</strong> - request a copy of the data we hold about you",
+    "de": "<strong>Auskunft</strong> – eine Kopie der über Sie gespeicherten Daten anfordern",
+    "nl": "<strong>Inzage</strong> – een kopie opvragen van de gegevens die wij over u hebben",
+    "pl": "<strong>Dostęp</strong> – żądanie kopii danych, które o Tobie przechowujemy",
+    "fr": "<strong>Accès</strong> – demander une copie des données que nous détenons sur vous",
+    "it": "<strong>Accesso</strong> – richiedere una copia dei dati che conserviamo su di te"
+  },
+  {
+    "key": "privacy.section5_item_2",
+    "section/location": "Privacy - Section 5 Item 2",
+    "en": "<strong>Correction</strong> - request correction of inaccurate data",
+    "de": "<strong>Berichtigung</strong> – die Korrektur unrichtiger Daten verlangen",
+    "nl": "<strong>Correctie</strong> – correctie van onjuiste gegevens verzoeken",
+    "pl": "<strong>Korekta</strong> – żądanie poprawienia nieprawidłowych danych",
+    "fr": "<strong>Rectification</strong> – demander la correction de données inexactes",
+    "it": "<strong>Rettifica</strong> – richiedere la correzione di dati inesatti"
+  },
+  {
+    "key": "privacy.section5_item_3",
+    "section/location": "Privacy - Section 5 Item 3",
+    "en": "<strong>Deletion</strong> - request removal from our waitlist at any time",
+    "de": "<strong>Löschung</strong> – jederzeit die Entfernung von unserer Warteliste verlangen",
+    "nl": "<strong>Verwijdering</strong> – op elk moment verzoeken om verwijdering van onze wachtlijst",
+    "pl": "<strong>Usunięcie</strong> – żądanie usunięcia z naszej listy oczekujących w dowolnym momencie",
+    "fr": "<strong>Suppression</strong> – demander à être retiré de notre liste d'attente à tout moment",
+    "it": "<strong>Cancellazione</strong> – richiedere la rimozione dalla nostra lista d'attesa in qualsiasi momento"
+  },
+  {
+    "key": "privacy.section5_note",
+    "section/location": "Privacy - Section 5 Note",
+    "en": "To exercise any of these rights, simply email us at <a href=\"mailto:contact@stampiq.io\">contact@stampiq.io</a>.",
+    "de": "Um eines dieser Rechte auszuüben, senden Sie uns einfach eine E-Mail an <a href=\"mailto:contact@stampiq.io\">contact@stampiq.io</a>.",
+    "nl": "Om een van deze rechten uit te oefenen, stuur ons simpelweg een e-mail naar <a href=\"mailto:contact@stampiq.io\">contact@stampiq.io</a>.",
+    "pl": "Aby skorzystać z któregokolwiek z tych praw, po prostu wyślij do nas e-mail na adres <a href=\"mailto:contact@stampiq.io\">contact@stampiq.io</a>.",
+    "fr": "Pour exercer l'un de ces droits, envoyez-nous simplement un e-mail à <a href=\"mailto:contact@stampiq.io\">contact@stampiq.io</a>.",
+    "it": "Per esercitare uno di questi diritti, inviaci semplicemente un'e-mail a <a href=\"mailto:contact@stampiq.io\">contact@stampiq.io</a>."
+  },
+  {
+    "key": "privacy.section6_title",
+    "section/location": "Privacy - Section 6 Title",
+    "en": "6. Data Retention",
+    "de": "6. Datenspeicherung",
+    "nl": "6. Gegevensbewaring",
+    "pl": "6. Przechowywanie danych",
+    "fr": "6. Conservation des données",
+    "it": "6. Conservazione dei dati"
+  },
+  {
+    "key": "privacy.section6_text",
+    "section/location": "Privacy - Section 6 Text",
+    "en": "We will retain your waitlist information until our app launches and you either create an account or request deletion. If you do not create an account within 6 months after launch, we will delete your waitlist data.",
+    "de": "Wir bewahren Ihre Wartelistendaten auf, bis unsere App startet und Sie entweder ein Konto erstellen oder die Löschung beantragen. Wenn Sie innerhalb von 6 Monaten nach dem Start kein Konto erstellen, werden wir Ihre Wartelistendaten löschen.",
+    "nl": "Wij bewaren uw wachtlijstgegevens totdat onze app wordt gelanceerd en u een account aanmaakt of om verwijdering verzoekt. Als u niet binnen 6 maanden na de lancering een account aanmaakt, zullen wij uw wachtlijstgegevens verwijderen.",
+    "pl": "Będziemy przechowywać Twoje dane z listy oczekujących do momentu uruchomienia naszej aplikacji, kiedy utworzysz konto lub poprosisz o usunięcie. Jeśli nie utworzysz konta w ciągu 6 miesięcy od uruchomienia, usuniemy Twoje dane z listy oczekujących.",
+    "fr": "Nous conserverons vos informations de liste d'attente jusqu'au lancement de notre application et jusqu'à ce que vous créiez un compte ou demandiez la suppression. Si vous ne créez pas de compte dans les 6 mois suivant le lancement, nous supprimerons vos données de liste d'attente.",
+    "it": "Conserveremo le tue informazioni della lista d'attesa fino al lancio della nostra app e fino a quando creerai un account o richiederai la cancellazione. Se non crei un account entro 6 mesi dal lancio, elimineremo i tuoi dati della lista d'attesa."
+  },
+  {
+    "key": "privacy.section7_title",
+    "section/location": "Privacy - Section 7 Title",
+    "en": "7. Changes to This Policy",
+    "de": "7. Änderungen dieser Richtlinie",
+    "nl": "7. Wijzigingen in dit beleid",
+    "pl": "7. Zmiany w niniejszej polityce",
+    "fr": "7. Modifications de cette politique",
+    "it": "7. Modifiche a questa policy"
+  },
+  {
+    "key": "privacy.section7_text",
+    "section/location": "Privacy - Section 7 Text",
+    "en": "We may update this privacy policy from time to time. If we make significant changes, we will notify waitlist subscribers via email.",
+    "de": "Wir können diese Datenschutzerklärung von Zeit zu Zeit aktualisieren. Bei wesentlichen Änderungen werden wir die Abonnenten der Warteliste per E-Mail benachrichtigen.",
+    "nl": "Wij kunnen dit privacybeleid van tijd tot tijd bijwerken. Als wij belangrijke wijzigingen aanbrengen, zullen wij de abonnees van de wachtlijst per e-mail op de hoogte stellen.",
+    "pl": "Możemy od czasu do czasu aktualizować niniejszą politykę prywatności. Jeśli wprowadzimy istotne zmiany, powiadomimy subskrybentów listy oczekujących drogą mailową.",
+    "fr": "Nous pouvons mettre à jour cette politique de confidentialité de temps en temps. Si nous apportons des modifications importantes, nous en informerons les abonnés de la liste d'attente par e-mail.",
+    "it": "Potremmo aggiornare questa informativa sulla privacy di tanto in tanto. In caso di modifiche significative, informeremo gli iscritti alla lista d'attesa via e-mail."
+  },
+  {
+    "key": "privacy.section8_title",
+    "section/location": "Privacy - Section 8 Title",
+    "en": "8. Contact Us",
+    "de": "8. Kontakt",
+    "nl": "8. Neem contact met ons op",
+    "pl": "8. Kontakt",
+    "fr": "8. Nous contacter",
+    "it": "8. Contattaci"
+  },
+  {
+    "key": "privacy.section8_intro",
+    "section/location": "Privacy - Section 8 Intro",
+    "en": "If you have any questions about this privacy policy or your data, please contact us:",
+    "de": "Wenn Sie Fragen zu dieser Datenschutzerklärung oder Ihren Daten haben, kontaktieren Sie uns bitte:",
+    "nl": "Als u vragen heeft over dit privacybeleid of uw gegevens, neem dan contact met ons op:",
+    "pl": "Jeśli masz pytania dotyczące niniejszej polityki prywatności lub swoich danych, skontaktuj się z nami:",
+    "fr": "Si vous avez des questions concernant cette politique de confidentialité ou vos données, veuillez nous contacter :",
+    "it": "Se hai domande su questa informativa sulla privacy o sui tuoi dati, contattaci:"
+  },
+  {
+    "key": "privacy.section8_contact",
+    "section/location": "Privacy - Section 8 Contact",
+    "en": "Email: <a href=\"mailto:contact@stampiq.io\">contact@stampiq.io</a><br>Marius Dygudaj<br>Zug, Switzerland",
+    "de": "E-Mail: <a href=\"mailto:contact@stampiq.io\">contact@stampiq.io</a><br>Marius Dygudaj<br>Zug, Schweiz",
+    "nl": "E-mail: <a href=\"mailto:contact@stampiq.io\">contact@stampiq.io</a><br>Marius Dygudaj<br>Zug, Zwitserland",
+    "pl": "E-mail: <a href=\"mailto:contact@stampiq.io\">contact@stampiq.io</a><br>Marius Dygudaj<br>Zug, Szwajcaria",
+    "fr": "E-mail : <a href=\"mailto:contact@stampiq.io\">contact@stampiq.io</a><br>Marius Dygudaj<br>Zoug, Suisse",
+    "it": "E-mail: <a href=\"mailto:contact@stampiq.io\">contact@stampiq.io</a><br>Marius Dygudaj<br>Zugo, Svizzera"
+  },
+  {
+    "key": "terms.page_title",
+    "section/location": "Terms - Page Title",
+    "en": "Terms of Service – StampIQ",
+    "de": "Nutzungsbedingungen – StampIQ",
+    "nl": "Gebruiksvoorwaarden – StampIQ",
+    "pl": "Warunki korzystania – StampIQ",
+    "fr": "Conditions d'utilisation – StampIQ",
+    "it": "Termini di servizio – StampIQ"
+  },
+  {
+    "key": "terms.meta_description",
+    "section/location": "Terms - Meta Description",
+    "en": "StampIQ Terms of Service - Terms for using our website and joining the waitlist.",
+    "de": "StampIQ Nutzungsbedingungen - Bedingungen für die Nutzung unserer Website und die Anmeldung zur Warteliste.",
+    "nl": "StampIQ Gebruiksvoorwaarden - Voorwaarden voor het gebruik van onze website en aanmelding voor de wachtlijst.",
+    "pl": "Warunki korzystania StampIQ - Warunki korzystania z naszej strony internetowej i zapisania się na listę oczekujących.",
+    "fr": "Conditions d'utilisation StampIQ - Conditions d'utilisation de notre site web et d'inscription à la liste d'attente.",
+    "it": "Termini di servizio StampIQ - Termini per l'utilizzo del nostro sito web e l'iscrizione alla lista d'attesa."
+  },
+  {
+    "key": "terms.back_link",
+    "section/location": "Terms - Back Link",
+    "en": "← Back to Home",
+    "de": "← Zurück zur Startseite",
+    "nl": "← Terug naar Home",
+    "pl": "← Powrót do strony głównej",
+    "fr": "← Retour à l'accueil",
+    "it": "← Torna alla Home"
+  },
+  {
+    "key": "terms.heading",
+    "section/location": "Terms - Main Heading",
+    "en": "Terms of Service",
+    "de": "Nutzungsbedingungen",
+    "nl": "Gebruiksvoorwaarden",
+    "pl": "Warunki korzystania",
+    "fr": "Conditions d'utilisation",
+    "it": "Termini di servizio"
+  },
+  {
+    "key": "terms.last_updated",
+    "section/location": "Terms - Last Updated",
+    "en": "Last updated: November 24, 2025",
+    "de": "Zuletzt aktualisiert: 24. November 2025",
+    "nl": "Laatst bijgewerkt: 24 november 2025",
+    "pl": "Ostatnia aktualizacja: 24 listopada 2025",
+    "fr": "Dernière mise à jour : 24 novembre 2025",
+    "it": "Ultimo aggiornamento: 24 novembre 2025"
+  },
+  {
+    "key": "terms.intro",
+    "section/location": "Terms - Intro Paragraph",
+    "en": "These terms govern your use of the StampIQ website and waitlist. By using our website or joining the waitlist, you agree to these terms. Separate terms of service will apply to the StampIQ app when it launches.",
+    "de": "Diese Nutzungsbedingungen regeln Ihre Nutzung der StampIQ-Website und der Warteliste. Durch die Nutzung unserer Website oder die Anmeldung zur Warteliste stimmen Sie diesen Bedingungen zu. Für die StampIQ-App gelten nach dem Start separate Nutzungsbedingungen.",
+    "nl": "Deze voorwaarden zijn van toepassing op uw gebruik van de StampIQ-website en wachtlijst. Door onze website te gebruiken of u aan te melden voor de wachtlijst, gaat u akkoord met deze voorwaarden. Voor de StampIQ-app gelden afzonderlijke gebruiksvoorwaarden na de lancering.",
+    "pl": "Niniejsze warunki regulują korzystanie ze strony internetowej StampIQ i listy oczekujących. Korzystając z naszej strony lub zapisując się na listę oczekujących, akceptujesz te warunki. Po uruchomieniu aplikacji StampIQ będą obowiązywać odrębne warunki korzystania.",
+    "fr": "Ces conditions régissent votre utilisation du site web StampIQ et de la liste d'attente. En utilisant notre site web ou en rejoignant la liste d'attente, vous acceptez ces conditions. Des conditions d'utilisation distinctes s'appliqueront à l'application StampIQ lors de son lancement.",
+    "it": "Questi termini regolano l'utilizzo del sito web StampIQ e della lista d'attesa. Utilizzando il nostro sito web o iscrivendoti alla lista d'attesa, accetti questi termini. Termini di servizio separati si applicheranno all'app StampIQ al momento del lancio."
+  },
+  {
+    "key": "terms.section1_title",
+    "section/location": "Terms - Section 1 Title",
+    "en": "1. What This Website Offers",
+    "de": "1. Was diese Website bietet",
+    "nl": "1. Wat deze website biedt",
+    "pl": "1. Co oferuje ta strona",
+    "fr": "1. Ce que ce site propose",
+    "it": "1. Cosa offre questo sito"
+  },
+  {
+    "key": "terms.section1_intro",
+    "section/location": "Terms - Section 1 Intro",
+    "en": "This website provides:",
+    "de": "Diese Website bietet:",
+    "nl": "Deze website biedt:",
+    "pl": "Ta strona oferuje:",
+    "fr": "Ce site propose :",
+    "it": "Questo sito offre:"
+  },
+  {
+    "key": "terms.section1_item_1",
+    "section/location": "Terms - Section 1 Item 1",
+    "en": "Information about the upcoming StampIQ app",
+    "de": "Informationen über die kommende StampIQ-App",
+    "nl": "Informatie over de aankomende StampIQ-app",
+    "pl": "Informacje o nadchodzącej aplikacji StampIQ",
+    "fr": "Des informations sur la prochaine application StampIQ",
+    "it": "Informazioni sulla prossima app StampIQ"
+  },
+  {
+    "key": "terms.section1_item_2",
+    "section/location": "Terms - Section 1 Item 2",
+    "en": "A waitlist signup to receive launch updates and early access",
+    "de": "Eine Wartelisten-Anmeldung, um Updates zum Start und frühen Zugang zu erhalten",
+    "nl": "Een wachtlijstregistratie om lanceringsupdates en vroege toegang te ontvangen",
+    "pl": "Rejestracja na listę oczekujących, aby otrzymywać informacje o uruchomieniu i wczesny dostęp",
+    "fr": "Une inscription à la liste d'attente pour recevoir les mises à jour de lancement et un accès anticipé",
+    "it": "Un'iscrizione alla lista d'attesa per ricevere aggiornamenti sul lancio e accesso anticipato"
+  },
+  {
+    "key": "terms.section1_note",
+    "section/location": "Terms - Section 1 Note",
+    "en": "The website does not currently provide access to the StampIQ app or any of its features.",
+    "de": "Die Website bietet derzeit keinen Zugang zur StampIQ-App oder zu deren Funktionen.",
+    "nl": "De website biedt momenteel geen toegang tot de StampIQ-app of een van de functies ervan.",
+    "pl": "Strona internetowa obecnie nie zapewnia dostępu do aplikacji StampIQ ani żadnych jej funkcji.",
+    "fr": "Le site web ne donne actuellement pas accès à l'application StampIQ ni à aucune de ses fonctionnalités.",
+    "it": "Il sito web attualmente non fornisce accesso all'app StampIQ o a nessuna delle sue funzionalità."
+  },
+  {
+    "key": "terms.section2_title",
+    "section/location": "Terms - Section 2 Title",
+    "en": "2. Waitlist Terms",
+    "de": "2. Wartelisten-Bedingungen",
+    "nl": "2. Wachtlijstvoorwaarden",
+    "pl": "2. Warunki listy oczekujących",
+    "fr": "2. Conditions de la liste d'attente",
+    "it": "2. Termini della lista d'attesa"
+  },
+  {
+    "key": "terms.section2_intro",
+    "section/location": "Terms - Section 2 Intro",
+    "en": "By joining our waitlist, you:",
+    "de": "Mit der Anmeldung zur Warteliste:",
+    "nl": "Door u aan te melden voor onze wachtlijst:",
+    "pl": "Zapisując się na naszą listę oczekujących:",
+    "fr": "En rejoignant notre liste d'attente, vous :",
+    "it": "Iscrivendoti alla nostra lista d'attesa:"
+  },
+  {
+    "key": "terms.section2_item_1",
+    "section/location": "Terms - Section 2 Item 1",
+    "en": "Agree to receive emails from us about StampIQ's development and launch",
+    "de": "Stimmen Sie dem Erhalt von E-Mails über die Entwicklung und den Start von StampIQ zu",
+    "nl": "Gaat u ermee akkoord e-mails van ons te ontvangen over de ontwikkeling en lancering van StampIQ",
+    "pl": "Zgadzasz się na otrzymywanie e-maili o rozwoju i uruchomieniu StampIQ",
+    "fr": "Acceptez de recevoir des e-mails de notre part concernant le développement et le lancement de StampIQ",
+    "it": "Accetti di ricevere e-mail da noi sullo sviluppo e il lancio di StampIQ"
+  },
+  {
+    "key": "terms.section2_item_2",
+    "section/location": "Terms - Section 2 Item 2",
+    "en": "Understand that waitlist perks (early access, founding badge, free premium month) are subject to availability and may change",
+    "de": "Verstehen Sie, dass Wartelisten-Vorteile (Early Access, Gründer-Badge, kostenloser Premium-Monat) von der Verfügbarkeit abhängen und sich ändern können",
+    "nl": "Begrijpt u dat wachtlijstvoordelen (vroege toegang, oprichtersbadge, gratis premium maand) afhankelijk zijn van beschikbaarheid en kunnen veranderen",
+    "pl": "Rozumiesz, że korzyści z listy oczekujących (wczesny dostęp, odznaka założyciela, darmowy miesiąc premium) podlegają dostępności i mogą ulec zmianie",
+    "fr": "Comprenez que les avantages de la liste d'attente (accès anticipé, badge fondateur, mois premium gratuit) sont soumis à disponibilité et peuvent changer",
+    "it": "Comprendi che i vantaggi della lista d'attesa (accesso anticipato, badge fondatore, mese premium gratuito) sono soggetti a disponibilità e potrebbero cambiare"
+  },
+  {
+    "key": "terms.section2_item_3",
+    "section/location": "Terms - Section 2 Item 3",
+    "en": "Can unsubscribe at any time by contacting us at <a href=\"mailto:contact@stampiq.io\">contact@stampiq.io</a>",
+    "de": "Können sich jederzeit abmelden, indem Sie uns unter <a href=\"mailto:contact@stampiq.io\">contact@stampiq.io</a> kontaktieren",
+    "nl": "Kunt u zich op elk moment afmelden door contact met ons op te nemen via <a href=\"mailto:contact@stampiq.io\">contact@stampiq.io</a>",
+    "pl": "Możesz zrezygnować w dowolnym momencie, kontaktując się z nami pod adresem <a href=\"mailto:contact@stampiq.io\">contact@stampiq.io</a>",
+    "fr": "Pouvez vous désinscrire à tout moment en nous contactant à <a href=\"mailto:contact@stampiq.io\">contact@stampiq.io</a>",
+    "it": "Puoi annullare l'iscrizione in qualsiasi momento contattandoci a <a href=\"mailto:contact@stampiq.io\">contact@stampiq.io</a>"
+  },
+  {
+    "key": "terms.section3_title",
+    "section/location": "Terms - Section 3 Title",
+    "en": "3. No Guarantees",
+    "de": "3. Keine Garantien",
+    "nl": "3. Geen garanties",
+    "pl": "3. Brak gwarancji",
+    "fr": "3. Aucune garantie",
+    "it": "3. Nessuna garanzia"
+  },
+  {
+    "key": "terms.section3_intro",
+    "section/location": "Terms - Section 3 Intro",
+    "en": "While we are working hard to launch StampIQ in early 2026, we cannot guarantee:",
+    "de": "Obwohl wir intensiv daran arbeiten, StampIQ Anfang 2026 zu starten, können wir nicht garantieren:",
+    "nl": "Hoewel we hard werken om StampIQ begin 2026 te lanceren, kunnen we niet garanderen:",
+    "pl": "Chociaż ciężko pracujemy nad uruchomieniem StampIQ na początku 2026 roku, nie możemy zagwarantować:",
+    "fr": "Bien que nous travaillions dur pour lancer StampIQ début 2026, nous ne pouvons pas garantir :",
+    "it": "Sebbene stiamo lavorando duramente per lanciare StampIQ all'inizio del 2026, non possiamo garantire:"
+  },
+  {
+    "key": "terms.section3_item_1",
+    "section/location": "Terms - Section 3 Item 1",
+    "en": "A specific launch date",
+    "de": "Ein bestimmtes Startdatum",
+    "nl": "Een specifieke lanceerdatum",
+    "pl": "Konkretną datę uruchomienia",
+    "fr": "Une date de lancement spécifique",
+    "it": "Una data di lancio specifica"
+  },
+  {
+    "key": "terms.section3_item_2",
+    "section/location": "Terms - Section 3 Item 2",
+    "en": "That all features mentioned on this website will be available at launch",
+    "de": "Dass alle auf dieser Website erwähnten Funktionen zum Start verfügbar sein werden",
+    "nl": "Dat alle functies die op deze website worden genoemd beschikbaar zullen zijn bij de lancering",
+    "pl": "Że wszystkie funkcje wymienione na tej stronie będą dostępne w momencie uruchomienia",
+    "fr": "Que toutes les fonctionnalités mentionnées sur ce site seront disponibles au lancement",
+    "it": "Che tutte le funzionalità menzionate su questo sito saranno disponibili al lancio"
+  },
+  {
+    "key": "terms.section3_item_3",
+    "section/location": "Terms - Section 3 Item 3",
+    "en": "Pricing or subscription plans (these may change before launch)",
+    "de": "Preise oder Abonnementpläne (diese können sich vor dem Start ändern)",
+    "nl": "Prijzen of abonnementsplannen (deze kunnen vóór de lancering wijzigen)",
+    "pl": "Ceny lub plany subskrypcyjne (mogą ulec zmianie przed uruchomieniem)",
+    "fr": "Les tarifs ou les formules d'abonnement (ceux-ci peuvent changer avant le lancement)",
+    "it": "Prezzi o piani di abbonamento (questi potrebbero cambiare prima del lancio)"
+  },
+  {
+    "key": "terms.section3_note",
+    "section/location": "Terms - Section 3 Note",
+    "en": "The information on this website represents our current plans and may change.",
+    "de": "Die Informationen auf dieser Website spiegeln unsere aktuellen Pläne wider und können sich ändern.",
+    "nl": "De informatie op deze website vertegenwoordigt onze huidige plannen en kan veranderen.",
+    "pl": "Informacje na tej stronie przedstawiają nasze aktualne plany i mogą ulec zmianie.",
+    "fr": "Les informations sur ce site représentent nos plans actuels et peuvent changer.",
+    "it": "Le informazioni su questo sito rappresentano i nostri piani attuali e potrebbero cambiare."
+  },
+  {
+    "key": "terms.section4_title",
+    "section/location": "Terms - Section 4 Title",
+    "en": "4. Intellectual Property",
+    "de": "4. Geistiges Eigentum",
+    "nl": "4. Intellectueel eigendom",
+    "pl": "4. Własność intelektualna",
+    "fr": "4. Propriété intellectuelle",
+    "it": "4. Proprietà intellettuale"
+  },
+  {
+    "key": "terms.section4_text",
+    "section/location": "Terms - Section 4 Text",
+    "en": "All content on this website, including text, images, logos, and design, is owned by StampIQ and protected by copyright. You may not copy, reproduce, or distribute our content without permission.",
+    "de": "Alle Inhalte auf dieser Website, einschließlich Texte, Bilder, Logos und Design, sind Eigentum von StampIQ und urheberrechtlich geschützt. Sie dürfen unsere Inhalte ohne Genehmigung nicht kopieren, vervielfältigen oder verbreiten.",
+    "nl": "Alle inhoud op deze website, inclusief tekst, afbeeldingen, logo's en ontwerp, is eigendom van StampIQ en auteursrechtelijk beschermd. U mag onze inhoud niet kopiëren, reproduceren of verspreiden zonder toestemming.",
+    "pl": "Wszystkie treści na tej stronie, w tym tekst, obrazy, logo i projekt, są własnością StampIQ i są chronione prawem autorskim. Nie wolno kopiować, reprodukować ani rozpowszechniać naszych treści bez pozwolenia.",
+    "fr": "Tout le contenu de ce site web, y compris le texte, les images, les logos et le design, appartient à StampIQ et est protégé par le droit d'auteur. Vous ne pouvez pas copier, reproduire ou distribuer notre contenu sans autorisation.",
+    "it": "Tutti i contenuti di questo sito web, inclusi testo, immagini, loghi e design, sono di proprietà di StampIQ e protetti da copyright. Non puoi copiare, riprodurre o distribuire i nostri contenuti senza autorizzazione."
+  },
+  {
+    "key": "terms.section5_title",
+    "section/location": "Terms - Section 5 Title",
+    "en": "5. Limitation of Liability",
+    "de": "5. Haftungsbeschränkung",
+    "nl": "5. Beperking van aansprakelijkheid",
+    "pl": "5. Ograniczenie odpowiedzialności",
+    "fr": "5. Limitation de responsabilité",
+    "it": "5. Limitazione di responsabilità"
+  },
+  {
+    "key": "terms.section5_text",
+    "section/location": "Terms - Section 5 Text",
+    "en": "This website and waitlist are provided \"as is\" without warranties of any kind. StampIQ is not liable for any damages arising from your use of this website or participation in the waitlist.",
+    "de": "Diese Website und die Warteliste werden ohne jegliche Gewährleistung bereitgestellt. StampIQ haftet nicht für Schäden, die aus der Nutzung dieser Website oder der Teilnahme an der Warteliste entstehen.",
+    "nl": "Deze website en wachtlijst worden aangeboden zonder enige garantie. StampIQ is niet aansprakelijk voor enige schade die voortvloeit uit uw gebruik van deze website of deelname aan de wachtlijst.",
+    "pl": "Ta strona internetowa i lista oczekujących są udostępniane bez jakichkolwiek gwarancji. StampIQ nie ponosi odpowiedzialności za jakiekolwiek szkody wynikające z korzystania z tej strony lub uczestnictwa w liście oczekujących.",
+    "fr": "Ce site web et la liste d'attente sont fournis tels quels, sans garantie d'aucune sorte. StampIQ n'est pas responsable des dommages résultant de votre utilisation de ce site web ou de votre participation à la liste d'attente.",
+    "it": "Questo sito web e la lista d'attesa sono forniti così come sono, senza garanzie di alcun tipo. StampIQ non è responsabile per eventuali danni derivanti dall'utilizzo di questo sito web o dalla partecipazione alla lista d'attesa."
+  },
+  {
+    "key": "terms.section6_title",
+    "section/location": "Terms - Section 6 Title",
+    "en": "6. Governing Law",
+    "de": "6. Anwendbares Recht",
+    "nl": "6. Toepasselijk recht",
+    "pl": "6. Prawo właściwe",
+    "fr": "6. Droit applicable",
+    "it": "6. Legge applicabile"
+  },
+  {
+    "key": "terms.section6_text",
+    "section/location": "Terms - Section 6 Text",
+    "en": "These terms are governed by the laws of Switzerland. Any disputes will be resolved in the courts of Zug, Switzerland.",
+    "de": "Diese Bedingungen unterliegen dem Schweizer Recht. Streitigkeiten werden vor den Gerichten in Zug, Schweiz, entschieden.",
+    "nl": "Deze voorwaarden worden beheerst door de wetten van Zwitserland. Geschillen worden beslecht door de rechtbanken van Zug, Zwitserland.",
+    "pl": "Niniejsze warunki podlegają prawu szwajcarskiemu. Wszelkie spory będą rozstrzygane przez sądy w Zug, Szwajcaria.",
+    "fr": "Ces conditions sont régies par les lois de la Suisse. Tout litige sera résolu devant les tribunaux de Zoug, Suisse.",
+    "it": "Questi termini sono regolati dalle leggi della Svizzera. Eventuali controversie saranno risolte nei tribunali di Zugo, Svizzera."
+  },
+  {
+    "key": "terms.section7_title",
+    "section/location": "Terms - Section 7 Title",
+    "en": "7. Changes to These Terms",
+    "de": "7. Änderungen dieser Bedingungen",
+    "nl": "7. Wijzigingen in deze voorwaarden",
+    "pl": "7. Zmiany niniejszych warunków",
+    "fr": "7. Modifications de ces conditions",
+    "it": "7. Modifiche a questi termini"
+  },
+  {
+    "key": "terms.section7_text",
+    "section/location": "Terms - Section 7 Text",
+    "en": "We may update these terms from time to time. If we make significant changes, we will notify waitlist subscribers via email. Continued use of the website after changes constitutes acceptance of the new terms.",
+    "de": "Wir können diese Bedingungen von Zeit zu Zeit aktualisieren. Bei wesentlichen Änderungen werden wir die Abonnenten der Warteliste per E-Mail benachrichtigen. Die weitere Nutzung der Website nach Änderungen gilt als Annahme der neuen Bedingungen.",
+    "nl": "Wij kunnen deze voorwaarden van tijd tot tijd bijwerken. Als wij belangrijke wijzigingen aanbrengen, zullen wij de abonnees van de wachtlijst per e-mail op de hoogte stellen. Voortgezet gebruik van de website na wijzigingen betekent acceptatie van de nieuwe voorwaarden.",
+    "pl": "Możemy od czasu do czasu aktualizować niniejsze warunki. Jeśli wprowadzimy istotne zmiany, powiadomimy subskrybentów listy oczekujących drogą mailową. Dalsze korzystanie ze strony po wprowadzeniu zmian oznacza akceptację nowych warunków.",
+    "fr": "Nous pouvons mettre à jour ces conditions de temps en temps. Si nous apportons des modifications importantes, nous en informerons les abonnés de la liste d'attente par e-mail. L'utilisation continue du site après les modifications constitue une acceptation des nouvelles conditions.",
+    "it": "Potremmo aggiornare questi termini di tanto in tanto. In caso di modifiche significative, informeremo gli iscritti alla lista d'attesa via e-mail. L'uso continuato del sito dopo le modifiche costituisce accettazione dei nuovi termini."
+  },
+  {
+    "key": "terms.section8_title",
+    "section/location": "Terms - Section 8 Title",
+    "en": "8. Contact Us",
+    "de": "8. Kontakt",
+    "nl": "8. Neem contact met ons op",
+    "pl": "8. Kontakt",
+    "fr": "8. Nous contacter",
+    "it": "8. Contattaci"
+  },
+  {
+    "key": "terms.section8_intro",
+    "section/location": "Terms - Section 8 Intro",
+    "en": "If you have any questions about these terms, please contact us:",
+    "de": "Wenn Sie Fragen zu diesen Bedingungen haben, kontaktieren Sie uns bitte:",
+    "nl": "Als u vragen heeft over deze voorwaarden, neem dan contact met ons op:",
+    "pl": "Jeśli masz pytania dotyczące niniejszych warunków, skontaktuj się z nami:",
+    "fr": "Si vous avez des questions concernant ces conditions, veuillez nous contacter :",
+    "it": "Se hai domande su questi termini, contattaci:"
+  },
+  {
+    "key": "terms.section8_contact",
+    "section/location": "Terms - Section 8 Contact",
+    "en": "Email: <a href=\"mailto:contact@stampiq.io\">contact@stampiq.io</a><br>Marius Dygudaj<br>Zug, Switzerland",
+    "de": "E-Mail: <a href=\"mailto:contact@stampiq.io\">contact@stampiq.io</a><br>Marius Dygudaj<br>Zug, Schweiz",
+    "nl": "E-mail: <a href=\"mailto:contact@stampiq.io\">contact@stampiq.io</a><br>Marius Dygudaj<br>Zug, Zwitserland",
+    "pl": "E-mail: <a href=\"mailto:contact@stampiq.io\">contact@stampiq.io</a><br>Marius Dygudaj<br>Zug, Szwajcaria",
+    "fr": "E-mail : <a href=\"mailto:contact@stampiq.io\">contact@stampiq.io</a><br>Marius Dygudaj<br>Zoug, Suisse",
+    "it": "E-mail: <a href=\"mailto:contact@stampiq.io\">contact@stampiq.io</a><br>Marius Dygudaj<br>Zugo, Svizzera"
+  }
+]

@@ -339,6 +339,15 @@
             position: relative;
         }
 
+        .phone-screen video {
+            width: 96%;
+            height: 96%;
+            margin: 2%;
+            object-fit: cover;
+            object-position: top center;
+            border-radius: 15px;
+        }
+
         /* Stamp Card */
         .stamp-card {
             background: var(--primary-green);
@@ -542,8 +551,15 @@
             border-radius: 18px;
             overflow: hidden;
             display: flex;
-            align-items: center;
+            align-items: flex-start;
             justify-content: center;
+        }
+
+        .feature-carousel-phone .phone-screen img {
+            width: 100% !important;
+            height: 100% !important;
+            object-fit: contain !important;
+            display: block;
         }
 
         .feature-placeholder {
@@ -793,6 +809,21 @@
             text-align: center;
         }
 
+        .founder-photos {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-bottom: 40px;
+        }
+
+        .founder-photos img {
+            width: 200px;
+            height: 200px;
+            object-fit: cover;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+        }
+
         .founder-text p {
             font-size: 18px;
             line-height: 1.8;
@@ -878,6 +909,15 @@
         @media (max-width: 768px) {
             .partnership-grid {
                 grid-template-columns: 1fr;
+            }
+
+            .founder-photos {
+                flex-wrap: wrap;
+            }
+
+            .founder-photos img {
+                width: 150px;
+                height: 150px;
             }
 
             .collector-types-grid {
