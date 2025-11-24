@@ -1557,3 +1557,41 @@
             font-size: 18px;
             flex-shrink: 0;
         }
+
+        /* Mobile Responsive - Header Badges and Language Selector */
+        @media (max-width: 768px) {
+            .header-badges {
+                gap: 6px;
+            }
+
+            .swiss-badge {
+                padding: 4px 10px;
+                font-size: 10px;
+            }
+
+            .swiss-badge .swiss-cross {
+                width: 16px;
+                height: 16px;
+                margin-right: 4px;
+            }
+
+            nav .hero-badge {
+                padding: 4px 12px;
+                font-size: 11px;
+            }
+
+            .language-btn {
+                padding: 4px 8px 4px 10px;
+                font-size: 11px;
+                gap: 4px;
+            }
+
+            .language-btn .flag {
+                font-size: 14px;
+            }
+
+            .language-btn .chevron {
+                width: 10px;
+                height: 10px;
+            }
+        }
