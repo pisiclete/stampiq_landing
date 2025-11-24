@@ -9,7 +9,7 @@ stampiq_landing/
 ├── animations/          # Lottie animation files for Sigi character
 ├── images/             # Static images
 ├── svgs/               # SVG assets (app store badges, icons)
-├── landing-coming-soon.html  # Main coming soon page
+├── index.html  # Main coming soon page
 ├── privacy.html        # Privacy policy page
 ├── terms.html          # Terms of service page
 ├── styles.css          # Stylesheet
@@ -26,7 +26,7 @@ stampiq_landing/
 
 ## Usage
 
-Simply open `landing-coming-soon.html` in a web browser to view the landing page.
+Simply open `index.html` in a web browser to view the landing page.
 
 ## Assets
 
