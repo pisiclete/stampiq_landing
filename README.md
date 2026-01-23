@@ -9,7 +9,8 @@ stampiq_landing/
 ├── animations/          # Lottie animation files for Sigi character
 ├── images/             # Static images
 ├── svgs/               # SVG assets (app store badges, icons)
-├── index.html  # Main coming soon page
+├── index.html          # Main coming soon page
+├── redirect.html       # QR code redirect page
 ├── privacy.html        # Privacy policy page
 ├── terms.html          # Terms of service page
 ├── styles.css          # Stylesheet
@@ -19,6 +20,7 @@ stampiq_landing/
 ## Features
 
 - Coming soon landing page with Sigi character animations
+- QR code redirect page (for app store links)
 - Privacy policy page
 - Terms of service page
 - Multi-language support (translations in translations.json)
