@@ -1142,12 +1142,12 @@
   {
     "key": "faq.answer_2",
     "section/location": "FAQ 2 Answer",
-    "en": "StampIQ delivers 95% recognition accuracy across supported catalogs.",
-    "de": "StampIQ erreicht eine Erkennungsgenauigkeit von 95 % in unterstützten Katalogen.",
-    "nl": "StampIQ biedt 95% herkenningsnauwkeurigheid binnen de ondersteunde catalogi.",
-    "pl": "StampIQ osiąga dokładność rozpoznawania na poziomie 95% w obsługiwanych katalogach.",
-    "fr": "StampIQ atteint une précision de reconnaissance de 95 % sur les catalogues pris en charge.",
-    "it": "StampIQ raggiunge un'accuratezza del 95% nei cataloghi supportati."
+    "en": "StampIQ delivers 98% recognition accuracy across supported catalogs.",
+    "de": "StampIQ erreicht eine Erkennungsgenauigkeit von 98 % in unterstützten Katalogen.",
+    "nl": "StampIQ biedt 98% herkenningsnauwkeurigheid binnen de ondersteunde catalogi.",
+    "pl": "StampIQ osiąga dokładność rozpoznawania na poziomie 98% w obsługiwanych katalogach.",
+    "fr": "StampIQ atteint une précision de reconnaissance de 98 % sur les catalogues pris en charge.",
+    "it": "StampIQ raggiunge un'accuratezza del 98% nei cataloghi supportati."
   },
   {
     "key": "faq.question_3",

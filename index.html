@@ -204,15 +204,11 @@
         <div class="container">
             <div class="stats-grid">
                 <div class="stat-item">
-                    <div class="stat-number">100</div>
-                    <div class="stat-label" data-i18n="stats.stat_1_label">Early Collectors</div>
-                </div>
-                <div class="stat-item">
-                    <div class="stat-number">3K+</div>
+                    <div class="stat-number">25K+</div>
                     <div class="stat-label" data-i18n="stats.stat_2_label">Stamps Catalogued</div>
                 </div>
                 <div class="stat-item">
-                    <div class="stat-number">96%</div>
+                    <div class="stat-number">98%</div>
                     <div class="stat-label" data-i18n="stats.stat_3_label">Recognition Accuracy</div>
                 </div>
                 <div class="stat-item">
@@ -874,17 +870,19 @@
                         }, 30);
                     });
 
-                    // Animate recognition time countdown (10s -> 3s)
+                    // Animate recognition time countdown (10s -> <1s)
                     const recognitionTimeElement = entry.target.querySelector('#recognition-time');
                     if (recognitionTimeElement) {
                         let timeValue = 10;
                         const timeCountdown = setInterval(() => {
                             timeValue--;
-                            recognitionTimeElement.textContent = timeValue;
-                            if (timeValue <= 4) {
+                            if (timeValue <= 0) {
+                                recognitionTimeElement.parentElement.innerHTML = '<1s';
                                 clearInterval(timeCountdown);
+                            } else {
+                                recognitionTimeElement.textContent = timeValue;
                             }
-                        }, 200);
+                        }, 150);
                     }
 
                     statsObserver.unobserve(entry.target);
