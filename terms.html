@@ -651,11 +651,15 @@
                     }
                 });
 
+                const urlParams = new URLSearchParams(window.location.search);
+                const urlLanguage = urlParams.get('lang');
                 const savedLanguage = localStorage.getItem('language');
                 const browserLanguage = navigator.language.split('-')[0];
                 const supportedLanguages = ['en', 'de', 'nl', 'pl', 'fr', 'it'];
 
-                if (savedLanguage && supportedLanguages.includes(savedLanguage)) {
+                if (urlLanguage && supportedLanguages.includes(urlLanguage)) {
+                    currentLanguage = urlLanguage;
+                } else if (savedLanguage && supportedLanguages.includes(savedLanguage)) {
                     currentLanguage = savedLanguage;
                 } else if (supportedLanguages.includes(browserLanguage)) {
                     currentLanguage = browserLanguage;
