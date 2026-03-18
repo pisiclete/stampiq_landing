@@ -506,7 +506,7 @@
   },
   {
     "key": "privacy.s3_6_li1",
-    "en": "Payment processing is handled entirely by Stripe, Inc.",
+    "en": "Payments are processed through the Apple App Store and Google Play Store, depending on your device",
     "de": "",
     "nl": "",
     "pl": "",
@@ -515,7 +515,7 @@
   },
   {
     "key": "privacy.s3_6_li2",
-    "en": "We do <strong>not</strong> receive, store, or process your payment card details",
+    "en": "We do <strong>not</strong> receive or store your payment card details",
     "de": "",
     "nl": "",
     "pl": "",
@@ -524,7 +524,7 @@
   },
   {
     "key": "privacy.s3_6_li3",
-    "en": "We receive from Stripe: subscription status, plan details, billing period, and transaction identifiers",
+    "en": "We receive from the app stores (via RevenueCat): subscription status, plan details, billing period, and transaction identifiers",
     "de": "",
     "nl": "",
     "pl": "",
@@ -533,7 +533,7 @@
   },
   {
     "key": "privacy.s3_6_li4",
-    "en": "Stripe\u2019s own privacy policy applies to the payment data they collect",
+    "en": "Apple\u2019s and Google\u2019s privacy policies apply to the payment data they collect",
     "de": "",
     "nl": "",
     "pl": "",
@@ -799,7 +799,7 @@
   },
   {
     "key": "privacy.s4_table",
-    "en": "<table><thead><tr><th>Purpose</th><th>Legal Basis (GDPR)</th></tr></thead><tbody><tr><td>Providing and maintaining the App, including account management</td><td>Performance of contract (Art. 6(1)(b))</td></tr><tr><td>Processing your stamp scans and returning identification results</td><td>Performance of contract (Art. 6(1)(b))</td></tr><tr><td>Providing AI assistant (Sigi) chat functionality</td><td>Performance of contract (Art. 6(1)(b))</td></tr><tr><td>Generating collection insights</td><td>Performance of contract (Art. 6(1)(b))</td></tr><tr><td>Processing subscription payments via Stripe</td><td>Performance of contract (Art. 6(1)(b))</td></tr><tr><td>Improving our stamp recognition AI model using your scan images</td><td>Legitimate interest (Art. 6(1)(f)) \u2014 see Section 4.1</td></tr><tr><td>Sending marketing communications (newsletter)</td><td>Consent (Art. 6(1)(a))</td></tr><tr><td>Displaying your location on the stamp map</td><td>Consent (Art. 6(1)(a))</td></tr><tr><td>Ensuring security and preventing fraud</td><td>Legitimate interest (Art. 6(1)(f))</td></tr><tr><td>Managing the waitlist and sending launch updates</td><td>Consent (Art. 6(1)(a))</td></tr><tr><td>Complying with legal obligations (e.g., financial record-keeping)</td><td>Legal obligation (Art. 6(1)(c))</td></tr></tbody></table>",
+    "en": "<table><thead><tr><th>Purpose</th><th>Legal Basis (GDPR)</th></tr></thead><tbody><tr><td>Providing and maintaining the App, including account management</td><td>Performance of contract (Art. 6(1)(b))</td></tr><tr><td>Processing your stamp scans and returning identification results</td><td>Performance of contract (Art. 6(1)(b))</td></tr><tr><td>Providing AI assistant (Sigi) chat functionality</td><td>Performance of contract (Art. 6(1)(b))</td></tr><tr><td>Generating collection insights</td><td>Performance of contract (Art. 6(1)(b))</td></tr><tr><td>Processing subscription payments via app stores (Apple/Google)</td><td>Performance of contract (Art. 6(1)(b))</td></tr><tr><td>Improving our stamp recognition AI model using your scan images</td><td>Legitimate interest (Art. 6(1)(f)) \u2014 see Section 4.1</td></tr><tr><td>Sending marketing communications (newsletter)</td><td>Consent (Art. 6(1)(a))</td></tr><tr><td>Displaying your location on the stamp map</td><td>Consent (Art. 6(1)(a))</td></tr><tr><td>Ensuring security and preventing fraud</td><td>Legitimate interest (Art. 6(1)(f))</td></tr><tr><td>Managing the waitlist and sending launch updates</td><td>Consent (Art. 6(1)(a))</td></tr><tr><td>Complying with legal obligations (e.g., financial record-keeping)</td><td>Legal obligation (Art. 6(1)(c))</td></tr></tbody></table>",
     "de": "",
     "nl": "",
     "pl": "",
@@ -865,7 +865,7 @@
   },
   {
     "key": "privacy.s5_1_table",
-    "en": "<table><thead><tr><th>Provider</th><th>Purpose</th><th>Data Shared</th><th>Location</th></tr></thead><tbody><tr><td>Amazon Web Services (AWS)</td><td>Cloud hosting, data storage, image storage (S3)</td><td>All App data</td><td>EU (Frankfurt, eu-central-1)</td></tr><tr><td>OpenAI, Inc.</td><td>AI chat assistant (Sigi) and collection insights</td><td>Chat messages, collection summary data</td><td>United States (see Section 7)</td></tr><tr><td>Stripe, Inc.</td><td>Payment processing</td><td>Payment and subscription data (no card details from us)</td><td>EU and United States (see Section 7)</td></tr><tr><td>Google LLC</td><td>Map visualization (Google Maps)</td><td>Map tile requests, device IP address</td><td>EU and potentially worldwide (see Section 7)</td></tr><tr><td>OpenStreetMap Foundation</td><td>Reverse geocoding</td><td>Geographic coordinates (when location is enabled)</td><td>EU</td></tr><tr><td>Google LLC (Google Sheets)</td><td>Waitlist data storage (website only)</td><td>Email, country, IP address, signup date</td><td>EU (see Section 7)</td></tr><tr><td>ip-api.com</td><td>IP geolocation (website only)</td><td>IP address</td><td>EU</td></tr></tbody></table>",
+    "en": "<table><thead><tr><th>Provider</th><th>Purpose</th><th>Data Shared</th><th>Location</th></tr></thead><tbody><tr><td>Amazon Web Services (AWS)</td><td>Cloud hosting, data storage, image storage (S3)</td><td>All App data</td><td>EU (Frankfurt, eu-central-1)</td></tr><tr><td>OpenAI, Inc.</td><td>AI chat assistant (Sigi) and collection insights</td><td>Chat messages, collection summary data</td><td>United States (see Section 7)</td></tr><tr><td>Apple Inc.</td><td>In-app purchase processing</td><td>Subscription/purchase status, transaction IDs</td><td>United States (see Section 7)</td></tr><tr><td>Google LLC (Google Play)</td><td>In-app purchase processing</td><td>Subscription/purchase status, transaction IDs</td><td>United States (see Section 7)</td></tr><tr><td>RevenueCat, Inc.</td><td>Purchase receipt validation and subscription management</td><td>Transaction data, subscription status, app user ID</td><td>United States (see Section 7)</td></tr><tr><td>Google LLC</td><td>Map visualization (Google Maps)</td><td>Map tile requests, device IP address</td><td>EU and potentially worldwide (see Section 7)</td></tr><tr><td>OpenStreetMap Foundation</td><td>Reverse geocoding</td><td>Geographic coordinates (when location is enabled)</td><td>EU</td></tr><tr><td>Google LLC (Google Sheets)</td><td>Waitlist data storage (website only)</td><td>Email, country, IP address, signup date</td><td>EU (see Section 7)</td></tr><tr><td>ip-api.com</td><td>IP geolocation (website only)</td><td>IP address</td><td>EU</td></tr></tbody></table>",
     "de": "",
     "nl": "",
     "pl": "",
@@ -1061,7 +1061,7 @@
 
   {
     "key": "privacy.s7_2_title",
-    "en": "7.2 Stripe (United States)",
+    "en": "7.2 App Store Platforms and RevenueCat (United States)",
     "de": "",
     "nl": "",
     "pl": "",
@@ -1070,7 +1070,7 @@
   },
   {
     "key": "privacy.s7_2_p1",
-    "en": "Stripe may process certain payment data in the United States. This transfer is protected by:",
+    "en": "Apple and Google process in-app purchase data in the United States. RevenueCat, Inc. validates purchase receipts and manages subscription state in the United States. These transfers are protected by:",
     "de": "",
     "nl": "",
     "pl": "",
@@ -1079,7 +1079,7 @@
   },
   {
     "key": "privacy.s7_2_li1",
-    "en": "Stripe\u2019s Data Processing Agreement",
+    "en": "Respective Data Processing Agreements with Apple, Google, and RevenueCat",
     "de": "",
     "nl": "",
     "pl": "",
@@ -1097,7 +1097,7 @@
   },
   {
     "key": "privacy.s7_2_li3",
-    "en": "Stripe\u2019s compliance with EU data protection requirements",
+    "en": "Each platform\u2019s compliance with EU data protection requirements",
     "de": "",
     "nl": "",
     "pl": "",
@@ -2253,7 +2253,7 @@
   },
   {
     "key": "terms.s5_3_p1",
-    "en": "All payments are processed by <strong>Stripe, Inc.</strong> We do not directly handle or store your payment card information. By subscribing, you also agree to Stripe\u2019s terms of service.",
+    "en": "All payments are processed through the <strong>Apple App Store</strong> or <strong>Google Play Store</strong>, depending on your device. We do not directly handle or store your payment card information. By purchasing, you also agree to Apple\u2019s or Google\u2019s terms of service for in-app purchases.",
     "de": "",
     "nl": "",
     "pl": "",
@@ -3057,7 +3057,16 @@
   },
   {
     "key": "terms.s10_li2",
-    "en": "<strong>Stripe:</strong> Payment processing",
+    "en": "<strong>Apple App Store / Google Play Store:</strong> In-app purchase processing",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "terms.s10_li2b",
+    "en": "<strong>RevenueCat:</strong> Purchase validation and subscription management",
     "de": "",
     "nl": "",
     "pl": "",
