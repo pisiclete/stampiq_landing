@@ -46,12 +46,12 @@
   },
   {
     "key": "privacy.effective_date",
-    "en": "Effective date: [INSERT LAUNCH DATE]",
-    "de": "Datum des Inkrafttretens: [DATUM DER EINFÜHRUNG EINFÜGEN]",
-    "nl": "Ingangsdatum: [LANCERINGSDATUM INVOEGEN]",
-    "pl": "Data wejścia w życie: [WSTAW DATĘ URUCHOMIENIA]",
-    "fr": "Date d'entrée en vigueur : [INSÉRER LA DATE DE LANCEMENT].",
-    "it": "Data di entrata in vigore: [INSERIRE DATA DI LANCIO]"
+    "en": "Effective date: April 1, 2026",
+    "de": "Datum des Inkrafttretens: 1. April 2026",
+    "nl": "Ingangsdatum: 1 april 2026",
+    "pl": "Data wejścia w życie: 1 kwietnia 2026",
+    "fr": "Date d'entrée en vigueur : 1er avril 2026",
+    "it": "Data di entrata in vigore: 1 aprile 2026"
   },
   {
     "key": "privacy.s1_title",
@@ -1756,12 +1756,12 @@
   },
   {
     "key": "terms.effective_date",
-    "en": "Effective date: [INSERT LAUNCH DATE]",
-    "de": "Datum des Inkrafttretens: [DATUM DER EINFÜHRUNG EINFÜGEN]",
-    "nl": "Ingangsdatum: [LANCERINGSDATUM INVOEGEN]",
-    "pl": "Data wejścia w życie: [WSTAW DATĘ URUCHOMIENIA]",
-    "fr": "Date d'entrée en vigueur : [INSÉRER LA DATE DE LANCEMENT].",
-    "it": "Data di entrata in vigore: [INSERIRE DATA DI LANCIO]"
+    "en": "Effective date: April 1, 2026",
+    "de": "Datum des Inkrafttretens: 1. April 2026",
+    "nl": "Ingangsdatum: 1 april 2026",
+    "pl": "Data wejścia w życie: 1 kwietnia 2026",
+    "fr": "Date d'entrée en vigueur : 1er avril 2026",
+    "it": "Data di entrata in vigore: 1 aprile 2026"
   },
   {
     "key": "terms.s1_title",
