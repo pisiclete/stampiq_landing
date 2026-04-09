@@ -1296,13 +1296,13 @@
     "it": "9.3 Diritto alla cancellazione (art. 17 GDPR)"
   },
   {
-    "key": "privacy.s9_3_p1",
-    "en": "You can request deletion of your personal data. You can also delete your account directly in the App.",
-    "de": "Sie können die Löschung Ihrer personenbezogenen Daten beantragen. Sie können Ihr Konto auch direkt in der App löschen.",
-    "nl": "U kunt verzoeken om verwijdering van uw persoonlijke gegevens. U kunt uw account ook direct in de App verwijderen.",
-    "pl": "Użytkownik może zażądać usunięcia swoich danych osobowych. Konto można również usunąć bezpośrednio w aplikacji.",
-    "fr": "Vous pouvez demander la suppression de vos données personnelles. Vous pouvez également supprimer votre compte directement dans l'application.",
-    "it": "Potete richiedere la cancellazione dei vostri dati personali. Potete anche cancellare il vostro account direttamente nell'App."
+  "key": "privacy.s9_3_p1",
+  "en": "You can request deletion of your personal data. You can also delete your account directly in the App or via our <a href=\"delete-account.html\">web-based account deletion page</a>.",
+  "de": "Sie können die Löschung Ihrer personenbezogenen Daten beantragen. Sie können Ihr Konto auch direkt in der App oder über unsere <a href=\"delete-account.html\">webbasierte Seite zur Kontolöschung</a> löschen.",
+  "nl": "U kunt verzoeken om verwijdering van uw persoonlijke gegevens. U kunt uw account ook direct in de app verwijderen of via onze <a href=\"delete-account.html\">webpagina voor accountverwijdering</a>.",
+  "pl": "Możesz zażądać usunięcia swoich danych osobowych. Możesz również usunąć swoje konto bezpośrednio w aplikacji lub za pośrednictwem naszej <a href=\"delete-account.html\">strony internetowej do usuwania konta</a>.",
+  "fr": "Vous pouvez demander la suppression de vos données personnelles. Vous pouvez également supprimer votre compte directement dans l’application ou via notre <a href=\"delete-account.html\">page web de suppression de compte</a>.",
+  "it": "Puoi richiedere la cancellazione dei tuoi dati personali. Puoi anche eliminare il tuo account direttamente nell’app o tramite la nostra <a href=\"delete-account.html\">pagina web per la cancellazione dell’account</a>."
   },
   {
     "key": "privacy.s9_4_title",
@@ -3330,6 +3330,15 @@
     "it": "Eliminazione dell'account tramite le impostazioni dell'app"
   },
   {
+  "key": "terms.s13_1_li3",
+  "en": "Using our <a href=\"delete-account.html\">web-based account deletion page</a>",
+  "de": "Über unsere <a href=\"delete-account.html\">webbasierte Seite zur Kontolöschung</a>",
+  "nl": "Via onze <a href=\"delete-account.html\">webpagina voor accountverwijdering</a>",
+  "pl": "Za pośrednictwem naszej <a href=\"delete-account.html\">strony internetowej do usuwania konta</a>",
+  "fr": "Via notre <a href=\"delete-account.html\">page web de suppression de compte</a>",
+  "it": "Tramite la nostra <a href=\"delete-account.html\">pagina web per la cancellazione dell’account</a>"
+  },
+  {
     "key": "terms.s13_1_li2",
     "en": "Contacting us at <a href=\"mailto:support@stampiq.io\">support@stampiq.io</a>",
     "de": "Kontaktieren Sie uns unter <a href=\"mailto:support@stampiq.io\">support@stampiq.io</a>",
@@ -3715,5 +3724,176 @@
     "pl": "Niniejsze Warunki świadczenia usług podlegają prawu Szwajcarii. Tam, gdzie ma to zastosowanie, zachowane są unijne prawa ochrony konsumentów.",
     "fr": "Les présentes conditions d'utilisation sont régies par le droit suisse. Les droits de protection des consommateurs de l'UE sont préservés le cas échéant.",
     "it": "I presenti Termini di servizio sono disciplinati dalle leggi della Svizzera. I diritti di protezione dei consumatori dell'UE sono preservati ove applicabili."
+  },
+  {
+    "key": "delete.page_title",
+    "en": "Delete Account – StampIQ",
+    "de": "Konto löschen – StampIQ",
+    "nl": "Account verwijderen – StampIQ",
+    "pl": "Usuń konto – StampIQ",
+    "fr": "Supprimer le compte – StampIQ",
+    "it": "Elimina account – StampIQ"
+  },
+  {
+    "key": "delete.meta_description",
+    "en": "Request deletion of your StampIQ account and all associated data.",
+    "de": "Beantragen Sie die Löschung Ihres StampIQ-Kontos und aller zugehörigen Daten.",
+    "nl": "Vraag de verwijdering aan van uw StampIQ-account en alle bijbehorende gegevens.",
+    "pl": "Złóż wniosek o usunięcie swojego konta StampIQ oraz wszystkich powiązanych danych.",
+    "fr": "Demandez la suppression de votre compte StampIQ et de toutes les données associées.",
+    "it": "Richiedi la cancellazione del tuo account StampIQ e di tutti i dati associati."
+  },
+  {
+    "key": "delete.heading",
+    "en": "Delete Your Account",
+    "de": "Konto löschen",
+    "nl": "Account verwijderen",
+    "pl": "Usuń konto",
+    "fr": "Supprimer votre compte",
+    "it": "Elimina il tuo account"
+  },
+  {
+    "key": "delete.intro",
+    "en": "If you would like to delete your StampIQ account, please enter the email address associated with your account below. We will send you a verification email to confirm your request.",
+    "de": "Wenn Sie Ihr StampIQ-Konto löschen möchten, geben Sie bitte unten die mit Ihrem Konto verknüpfte E-Mail-Adresse ein. Wir senden Ihnen eine Bestätigungs-E-Mail, um Ihre Anfrage zu verifizieren.",
+    "nl": "Als u uw StampIQ-account wilt verwijderen, vul dan hieronder het e-mailadres in dat aan uw account is gekoppeld. We sturen u een verificatie-e-mail om uw verzoek te bevestigen.",
+    "pl": "Jeśli chcesz usunąć swoje konto StampIQ, wprowadź poniżej adres e-mail powiązany z Twoim kontem. Wyślemy wiadomość weryfikacyjną, aby potwierdzić Twoją prośbę.",
+    "fr": "Si vous souhaitez supprimer votre compte StampIQ, veuillez saisir ci-dessous l’adresse e-mail associée à votre compte. Nous vous enverrons un e-mail de vérification pour confirmer votre demande.",
+    "it": "Se desideri eliminare il tuo account StampIQ, inserisci qui sotto l’indirizzo email associato al tuo account. Ti invieremo un’email di verifica per confermare la tua richiesta."
+  },
+  {
+    "key": "delete.what_happens_title",
+    "en": "What happens when you delete your account",
+    "de": "Was passiert bei der Löschung Ihres Kontos",
+    "nl": "Wat gebeurt er wanneer u uw account verwijdert",
+    "pl": "Co się stanie po usunięciu konta",
+    "fr": "Que se passe-t-il lorsque vous supprimez votre compte",
+    "it": "Cosa succede quando elimini il tuo account"
+  },
+  {
+    "key": "delete.what_happens_intro",
+    "en": "When your account deletion is confirmed, the following actions are taken:",
+    "de": "Sobald die Löschung Ihres Kontos bestätigt ist, werden folgende Maßnahmen durchgeführt:",
+    "nl": "Zodra de verwijdering van uw account is bevestigd, worden de volgende acties uitgevoerd:",
+    "pl": "Po potwierdzeniu usunięcia konta zostaną podjęte następujące działania:",
+    "fr": "Une fois la suppression de votre compte confirmée, les actions suivantes sont effectuées :",
+    "it": "Una volta confermata l’eliminazione del tuo account, verranno eseguite le seguenti azioni:"
+  },
+  {
+    "key": "delete.what_happens_li1",
+    "en": "Your data is marked for deletion and becomes inaccessible immediately",
+    "de": "Ihre Daten werden zur Löschung vorgemerkt und sind sofort nicht mehr zugänglich",
+    "nl": "Uw gegevens worden gemarkeerd voor verwijdering en zijn onmiddellijk niet meer toegankelijk",
+    "pl": "Twoje dane zostaną oznaczone do usunięcia i natychmiast staną się niedostępne",
+    "fr": "Vos données sont marquées pour suppression et deviennent immédiatement inaccessibles",
+    "it": "I tuoi dati vengono contrassegnati per l’eliminazione e diventano immediatamente inaccessibili"
+  },
+  {
+    "key": "delete.what_happens_li2",
+    "en": "Your stamp collection, wishlist, uploaded images, AI conversation history, and scan records are permanently deleted within 30 days",
+    "de": "Ihre Briefmarkensammlung, Wunschliste, hochgeladenen Bilder, KI-Konversationsverlauf und Scan-Daten werden innerhalb von 30 Tagen dauerhaft gelöscht",
+    "nl": "Uw postzegelverzameling, verlanglijst, geüploade afbeeldingen, AI-gespreksgeschiedenis en scanrecords worden binnen 30 dagen permanent verwijderd",
+    "pl": "Twoja kolekcja znaczków, lista życzeń, przesłane obrazy, historia rozmów AI oraz dane skanów zostaną trwale usunięte w ciągu 30 dni",
+    "fr": "Votre collection de timbres, liste de souhaits, images téléchargées, historique des conversations IA et données de scan sont définitivement supprimés dans un délai de 30 jours",
+    "it": "La tua collezione di francobolli, lista dei desideri, immagini caricate, cronologia delle conversazioni AI e dati di scansione vengono eliminati definitivamente entro 30 giorni"
+  },
+  {
+    "key": "delete.what_happens_li3",
+    "en": "If you have an active subscription, paid features continue until the end of your current billing period, after which the subscription is terminated",
+    "de": "Wenn Sie ein aktives Abonnement haben, bleiben kostenpflichtige Funktionen bis zum Ende Ihres aktuellen Abrechnungszeitraums verfügbar, danach wird das Abonnement beendet",
+    "nl": "Als u een actief abonnement heeft, blijven betaalde functies beschikbaar tot het einde van uw huidige factureringsperiode, waarna het abonnement wordt beëindigd",
+    "pl": "Jeśli masz aktywną subskrypcję, płatne funkcje pozostaną dostępne do końca bieżącego okresu rozliczeniowego, po czym subskrypcja zostanie zakończona",
+    "fr": "Si vous disposez d’un abonnement actif, les fonctionnalités payantes restent disponibles jusqu’à la fin de votre période de facturation en cours, après quoi l’abonnement est résilié",
+    "it": "Se hai un abbonamento attivo, le funzionalità a pagamento restano disponibili fino alla fine del periodo di fatturazione corrente, dopodiché l’abbonamento viene terminato"
+  },
+  {
+    "key": "delete.what_happens_li4",
+    "en": "Your right to access the App ceases immediately",
+    "de": "Ihr Recht auf Zugriff auf die App endet sofort",
+    "nl": "Uw recht op toegang tot de app vervalt onmiddellijk",
+    "pl": "Twoje prawo dostępu do aplikacji wygasa natychmiast",
+    "fr": "Votre droit d’accès à l’application cesse immédiatement",
+    "it": "Il tuo diritto di accesso all’app termina immediatamente"
+  },
+  {
+    "key": "delete.data_retained_title",
+    "en": "Data we may retain",
+    "de": "Daten, die wir aufbewahren können",
+    "nl": "Gegevens die wij kunnen bewaren",
+    "pl": "Dane, które możemy przechowywać",
+    "fr": "Données que nous pouvons conserver",
+    "it": "Dati che potremmo conservare"
+  },
+  {
+    "key": "delete.data_retained_intro",
+    "en": "In accordance with our <a href=\"terms.html\">Terms of Service</a> and <a href=\"privacy.html\">Privacy Policy</a>, the following data may be retained after account deletion:",
+    "de": "Gemäß unseren <a href=\"terms.html\">Nutzungsbedingungen</a> und unserer <a href=\"privacy.html\">Datenschutzerklärung</a> können nach der Kontolöschung folgende Daten aufbewahrt werden:",
+    "nl": "In overeenstemming met onze <a href=\"terms.html\">Gebruiksvoorwaarden</a> en <a href=\"privacy.html\">Privacyverklaring</a> kunnen de volgende gegevens na het verwijderen van het account worden bewaard:",
+    "pl": "Zgodnie z naszym <a href=\"terms.html\">Regulaminem</a> oraz <a href=\"privacy.html\">Polityką prywatności</a> następujące dane mogą być przechowywane po usunięciu konta:",
+    "fr": "Conformément à nos <a href=\"terms.html\">Conditions d’utilisation</a> et à notre <a href=\"privacy.html\">Politique de confidentialité</a>, les données suivantes peuvent être conservées après la suppression du compte :",
+    "it": "In conformità ai nostri <a href=\"terms.html\">Termini di servizio</a> e alla nostra <a href=\"privacy.html\">Informativa sulla privacy</a>, i seguenti dati possono essere conservati dopo l’eliminazione dell’account:"
+  },
+  {
+    "key": "delete.data_retained_li1",
+    "en": "Stamp images submitted through the scanning feature may be retained under a perpetual license for the purpose of improving and training our stamp recognition AI model (SigiVision), as described in Section 7.3 of our Terms of Service",
+    "de": "Über die Scan-Funktion eingereichte Briefmarkenbilder können im Rahmen einer unbefristeten Lizenz zur Verbesserung und zum Training unseres Briefmarkenerkennungsmodells (SigiVision) gemäß Abschnitt 7.3 unserer Nutzungsbedingungen aufbewahrt werden",
+    "nl": "Afbeeldingen van postzegels die via de scanfunctie zijn ingediend, kunnen onder een permanente licentie worden bewaard om ons herkenningsmodel (SigiVision) te verbeteren en te trainen, zoals beschreven in sectie 7.3 van onze gebruiksvoorwaarden",
+    "pl": "Obrazy znaczków przesłane za pomocą funkcji skanowania mogą być przechowywane na podstawie bezterminowej licencji w celu ulepszania i trenowania naszego modelu rozpoznawania znaczków (SigiVision), zgodnie z sekcją 7.3 naszego regulaminu",
+    "fr": "Les images de timbres soumises via la fonction de scan peuvent être conservées sous licence perpétuelle afin d’améliorer et d’entraîner notre modèle de reconnaissance (SigiVision), comme décrit dans la section 7.3 de nos conditions d’utilisation",
+    "it": "Le immagini dei francobolli inviate tramite la funzione di scansione possono essere conservate con una licenza perpetua al fine di migliorare e addestrare il nostro modello di riconoscimento (SigiVision), come descritto nella sezione 7.3 dei nostri Termini di servizio"
+  },
+  {
+    "key": "delete.data_retained_li2",
+    "en": "Financial and transaction records are retained for 10 years as required by Swiss law, anonymized where possible",
+    "de": "Finanz- und Transaktionsdaten werden gemäß Schweizer Recht 10 Jahre aufbewahrt und soweit möglich anonymisiert",
+    "nl": "Financiële en transactierecords worden 10 jaar bewaard zoals vereist door de Zwitserse wet, waar mogelijk geanonimiseerd",
+    "pl": "Dane finansowe i transakcyjne są przechowywane przez 10 lat zgodnie z prawem szwajcarskim, w miarę możliwości anonimizowane",
+    "fr": "Les données financières et de transaction sont conservées pendant 10 ans conformément au droit suisse et anonymisées lorsque cela est possible",
+    "it": "I dati finanziari e delle transazioni sono conservati per 10 anni come richiesto dalla legge svizzera e anonimizzati ove possibile"
+  },
+  {
+    "key": "delete.email_label",
+    "en": "Email address",
+    "de": "E-Mail-Adresse",
+    "nl": "E-mailadres",
+    "pl": "Adres e-mail",
+    "fr": "Adresse e-mail",
+    "it": "Indirizzo email"
+  },
+  {
+    "key": "delete.submit_button",
+    "en": "Request Account Deletion",
+    "de": "Kontolöschung beantragen",
+    "nl": "Accountverwijdering aanvragen",
+    "pl": "Złóż wniosek o usunięcie konta",
+    "fr": "Demander la suppression du compte",
+    "it": "Richiedi eliminazione account"
+  },
+  {
+    "key": "delete.success_message",
+    "en": "We have sent a verification email to your address. Please check your inbox and follow the instructions to confirm the deletion of your account.",
+    "de": "Wir haben eine Bestätigungs-E-Mail an Ihre Adresse gesendet. Bitte überprüfen Sie Ihren Posteingang und folgen Sie den Anweisungen, um die Löschung Ihres Kontos zu bestätigen.",
+    "nl": "We hebben een verificatie-e-mail naar uw adres gestuurd. Controleer uw inbox en volg de instructies om de verwijdering van uw account te bevestigen.",
+    "pl": "Wysłaliśmy wiadomość weryfikacyjną na Twój adres e-mail. Sprawdź swoją skrzynkę i postępuj zgodnie z instrukcjami, aby potwierdzić usunięcie konta.",
+    "fr": "Nous avons envoyé un e-mail de vérification à votre adresse. Veuillez vérifier votre boîte de réception et suivre les instructions pour confirmer la suppression de votre compte.",
+    "it": "Abbiamo inviato un’email di verifica al tuo indirizzo. Controlla la tua casella di posta e segui le istruzioni per confermare l’eliminazione del tuo account."
+  },
+  {
+    "key": "delete.error_message",
+    "en": "Something went wrong. Please try again later or contact us at <a href=\"mailto:support@stampiq.io\">support@stampiq.io</a>.",
+    "de": "Etwas ist schiefgelaufen. Bitte versuchen Sie es später erneut oder kontaktieren Sie uns unter <a href=\"mailto:support@stampiq.io\">support@stampiq.io</a>.",
+    "nl": "Er is iets misgegaan. Probeer het later opnieuw of neem contact met ons op via <a href=\"mailto:support@stampiq.io\">support@stampiq.io</a>.",
+    "pl": "Coś poszło nie tak. Spróbuj ponownie później lub skontaktuj się z nami pod adresem <a href=\"mailto:support@stampiq.io\">support@stampiq.io</a>.",
+    "fr": "Une erreur s’est produite. Veuillez réessayer plus tard ou nous contacter à <a href=\"mailto:support@stampiq.io\">support@stampiq.io</a>.",
+    "it": "Si è verificato un errore. Riprova più tardi oppure contattaci all’indirizzo <a href=\"mailto:support@stampiq.io\">support@stampiq.io</a>."
+  },
+  {
+    "key": "delete.contact_note",
+    "en": "If you have any questions about account deletion, please contact us at <a href=\"mailto:support@stampiq.io\">support@stampiq.io</a>.",
+    "de": "Wenn Sie Fragen zur Kontolöschung haben, kontaktieren Sie uns bitte unter <a href=\"mailto:support@stampiq.io\">support@stampiq.io</a>.",
+    "nl": "Als u vragen heeft over het verwijderen van uw account, neem dan contact met ons op via <a href=\"mailto:support@stampiq.io\">support@stampiq.io</a>.",
+    "pl": "Jeśli masz pytania dotyczące usunięcia konta, skontaktuj się z nami pod adresem <a href=\"mailto:support@stampiq.io\">support@stampiq.io</a>.",
+    "fr": "Si vous avez des questions concernant la suppression de votre compte, veuillez nous contacter à <a href=\"mailto:support@stampiq.io\">support@stampiq.io</a>.",
+    "it": "Se hai domande sull’eliminazione del tuo account, contattaci all’indirizzo <a href=\"mailto:support@stampiq.io\">support@stampiq.io</a>."
   }
 ]
