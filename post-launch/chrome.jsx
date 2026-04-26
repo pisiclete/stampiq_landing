@@ -91,12 +91,12 @@ const Header = () => {
   React.useEffect(() => { setCountry(window.detectCountry()); }, []);
   const c = STAMPIQ_PRICING[country];
   const links = [
-    { href: '#features', label: 'Features' },
-    { href: '#sigivision', label: 'SigiVision' },
-    { href: '#pricing', label: 'Pricing' },
-    { href: '#press', label: 'Press' },
-    { href: '#partner', label: 'Partners' },
-    { href: '#faq', label: 'FAQ' },
+    { href: '#features',   label: 'Features',   i18nKey: 'nav.features' },
+    { href: '#sigivision', label: 'SigiVision', i18nKey: 'nav.sigivision' },
+    { href: '#pricing',    label: 'Pricing',    i18nKey: 'nav.pricing' },
+    { href: '#press',      label: 'Press',      i18nKey: 'nav.press' },
+    { href: '#partner',    label: 'Partners',   i18nKey: 'nav.partners' },
+    { href: '#faq',        label: 'FAQ',        i18nKey: 'nav.faq' },
   ];
   return (
     <header style={{
@@ -108,14 +108,14 @@ const Header = () => {
         <a href="#top" style={{ display: 'block' }}><Logo height={30}/></a>
         <div className="siq-nav-links" style={{ display: 'flex', gap: 28, marginLeft: 32 }}>
           {links.map(l => (
-            <a key={l.href} href={l.href} style={{ color: SIQ.fg, textDecoration: 'none', fontSize: 14, fontWeight: 500 }}>{l.label}</a>
+            <a key={l.href} href={l.href} data-i18n={l.i18nKey} style={{ color: SIQ.fg, textDecoration: 'none', fontSize: 14, fontWeight: 500 }}>{l.label}</a>
           ))}
         </div>
         <div className="siq-nav-pills" style={{ marginLeft: 'auto', display: 'flex', gap: 12, alignItems: 'center' }}>
-          <Pill variant="neutral" style={{}} className="siq-nav-pill"><Icons.SwissFlag/>Swiss Made</Pill>
+          <Pill variant="neutral" style={{}} className="siq-nav-pill"><Icons.SwissFlag/><span data-i18n="pill.swiss_made">Swiss Made</span></Pill>
           <Pill variant="available" className="siq-nav-pill"/>
           <LanguageSelector/>
-          <a href="#download" style={{
+          <a href="#download" data-i18n="nav.download" style={{
             display: 'inline-flex', alignItems: 'center',
             background: SIQ.green, color: 'white', padding: '6px 20px', borderRadius: 25,
             textDecoration: 'none', fontSize: 13, fontWeight: 600, lineHeight: 1.4,
@@ -154,24 +154,36 @@ const Footer = () => (
       <div className="siq-footer-grid" style={{ display: 'grid', gridTemplateColumns: '1.4fr 1fr 1fr 1fr', gap: 40, marginBottom: 40 }}>
         <div className="siq-footer-brand">
           <Logo height={28} mono/>
-          <p style={{ fontSize: 14, lineHeight: 1.6, margin: '18px 0 18px', color: 'rgba(255,255,255,0.65)', maxWidth: 280 }}>
+          <p data-i18n="footer.tagline" style={{ fontSize: 14, lineHeight: 1.6, margin: '18px 0 18px', color: 'rgba(255,255,255,0.65)', maxWidth: 280 }}>
             Your digital stamp collecting companion. Built in Switzerland for collectors everywhere.
           </p>
           <Pill variant="neutral" style={{ background: 'rgba(255,255,255,0.10)', color: 'white', border: 'none' }}>
-            <Icons.SwissFlag/>Swiss Made
+            <Icons.SwissFlag/><span data-i18n="pill.swiss_made">Swiss Made</span>
           </Pill>
         </div>
         {[
-          { title: 'Product', items: [['Features', '#features'], ['SigiVision', '#sigivision'], ['Pricing', '#pricing'], ['FAQ', '#faq']] },
-          { title: 'Company', items: [['Press', '#press'], ['About', '#'], ['Contact', 'mailto:support@stampiq.io']] },
-          { title: 'Legal', items: [['Privacy', '../privacy.html'], ['Terms', '../terms.html']] },
+          { title: 'Product', i18nKey: 'footer.col.product', items: [
+            { label: 'Features',    href: '#features',    i18nKey: 'footer.product.features' },
+            { label: 'SigiVision',  href: '#sigivision',  i18nKey: 'footer.product.sigivision' },
+            { label: 'Pricing',     href: '#pricing',     i18nKey: 'footer.product.pricing' },
+            { label: 'FAQ',         href: '#faq',         i18nKey: 'footer.product.faq' },
+          ]},
+          { title: 'Company', i18nKey: 'footer.col.company', items: [
+            { label: 'Press',       href: '#press',                          i18nKey: 'footer.company.press' },
+            { label: 'About',       href: '#',                               i18nKey: 'footer.company.about' },
+            { label: 'Contact',     href: 'mailto:support@stampiq.io',       i18nKey: 'footer.company.contact' },
+          ]},
+          { title: 'Legal', i18nKey: 'footer.col.legal', items: [
+            { label: 'Privacy',     href: '../privacy.html',                 i18nKey: 'footer.legal.privacy' },
+            { label: 'Terms',       href: '../terms.html',                   i18nKey: 'footer.legal.terms' },
+          ]},
         ].map(col => (
           <div key={col.title}>
-            <div style={{ fontSize: 13, fontWeight: 700, letterSpacing: '0.14em', textTransform: 'uppercase', color: 'white', marginBottom: 16 }}>{col.title}</div>
+            <div data-i18n={col.i18nKey} style={{ fontSize: 13, fontWeight: 700, letterSpacing: '0.14em', textTransform: 'uppercase', color: 'white', marginBottom: 16 }}>{col.title}</div>
             <ul style={{ listStyle: 'none', padding: 0, margin: 0 }}>
-              {col.items.map(([label, href]) => (
-                <li key={label} style={{ marginBottom: 10 }}>
-                  <a href={href} style={{ color: 'rgba(255,255,255,0.65)', textDecoration: 'none', fontSize: 14 }}>{label}</a>
+              {col.items.map(item => (
+                <li key={item.label} style={{ marginBottom: 10 }}>
+                  <a href={item.href} data-i18n={item.i18nKey} style={{ color: 'rgba(255,255,255,0.65)', textDecoration: 'none', fontSize: 14 }}>{item.label}</a>
                 </li>
               ))}
             </ul>
@@ -182,10 +194,10 @@ const Footer = () => (
         paddingTop: 24, borderTop: '1px solid rgba(255,255,255,0.10)',
         display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: 16,
       }}>
-        <div style={{ fontSize: 13, color: 'rgba(255,255,255,0.55)' }}>
+        <div data-i18n="footer.copyright" style={{ fontSize: 13, color: 'rgba(255,255,255,0.55)' }}>
           © 2026 StampIQ · Designed and built in Switzerland · support@stampiq.io
         </div>
-        <div style={{ fontSize: 13, color: 'rgba(255,255,255,0.45)' }}>
+        <div data-i18n="footer.supporting" style={{ fontSize: 13, color: 'rgba(255,255,255,0.45)' }}>
           Supporting CH · DE · AT · LI · NL · PL
         </div>
       </div>

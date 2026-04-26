@@ -2,7 +2,7 @@
 // Matches in-app pricing screens exactly: green-bordered cards, grey circular
 // icon badges, green-flooded header on the Most Popular Premium card.
 
-const PriceFeatureRow = ({ icon, title, desc, accent }) => (
+const PriceFeatureRow = ({ icon, title, desc, titleKey, descKey }) => (
   <div style={{ display: 'flex', gap: 14, padding: '12px 0', alignItems: 'flex-start' }}>
     <div style={{
       flexShrink: 0, width: 40, height: 40, borderRadius: '50%',
@@ -10,8 +10,8 @@ const PriceFeatureRow = ({ icon, title, desc, accent }) => (
       display: 'flex', alignItems: 'center', justifyContent: 'center',
     }}>{icon}</div>
     <div style={{ flex: 1 }}>
-      <div style={{ fontSize: 15, fontWeight: 700, color: SIQ.fg, marginBottom: 3 }}>{title}</div>
-      <div style={{ fontSize: 14, color: SIQ.fgSubtle, lineHeight: 1.5 }}>{desc}</div>
+      <div data-i18n={titleKey} style={{ fontSize: 15, fontWeight: 700, color: SIQ.fg, marginBottom: 3 }}>{title}</div>
+      <div data-i18n={descKey} style={{ fontSize: 14, color: SIQ.fgSubtle, lineHeight: 1.5 }}>{desc}</div>
     </div>
   </div>
 );
@@ -26,6 +26,7 @@ const Pricing = () => {
   const p = prices[billing];
   const tiers = [
     {
+      key: 'free',
       name: 'Free Plan',
       headerKind: 'free',
       priceLabel: 'Free',
@@ -43,6 +44,7 @@ const Pricing = () => {
       ],
     },
     {
+      key: 'premium',
       name: 'Premium Plan',
       headerKind: 'green',
       popular: true,
@@ -63,6 +65,7 @@ const Pricing = () => {
       ],
     },
     {
+      key: 'pro',
       name: 'Professional Plan',
       headerKind: 'free',
       priceMain: p.pro,
@@ -102,9 +105,9 @@ const Pricing = () => {
           position: 'relative',
         }}>
           <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', gap: 8 }}>
-            <div style={{ fontSize: 16, fontWeight: 700, whiteSpace: 'nowrap' }}>{t.name}</div>
+            <div data-i18n={`pricing.tier.${t.key}.name`} style={{ fontSize: 16, fontWeight: 700, whiteSpace: 'nowrap' }}>{t.name}</div>
             {t.popular && (
-              <div style={{
+              <div data-i18n="pricing.most_popular" style={{
                 background: 'white', color: SIQ.greenDarker,
                 padding: '4px 12px', borderRadius: 20, fontSize: 11, fontWeight: 700,
                 whiteSpace: 'nowrap',
@@ -113,7 +116,7 @@ const Pricing = () => {
           </div>
           <div style={{ marginTop: 10, display: 'flex', alignItems: 'baseline', gap: 4 }}>
             {t.priceLabel ? (
-              <span style={{ fontSize: 44, fontWeight: 800, lineHeight: 1, letterSpacing: '-0.01em' }}>{t.priceLabel}</span>
+              <span data-i18n={`pricing.tier.${t.key}.price_label`} style={{ fontSize: 44, fontWeight: 800, lineHeight: 1, letterSpacing: '-0.01em' }}>{t.priceLabel}</span>
             ) : (
               <>
                 <span style={{ fontSize: 38, fontWeight: 800, lineHeight: 1, letterSpacing: '-0.01em' }}>{t.priceMain}</span>
@@ -122,7 +125,7 @@ const Pricing = () => {
             )}
           </div>
           {t.sub && (
-            <div style={{ marginTop: 10, fontSize: 13.5, color: isGreen ? 'rgba(255,255,255,0.92)' : SIQ.fgSubtle, lineHeight: 1.5 }}>
+            <div data-i18n={`pricing.tier.${t.key}.sub`} style={{ marginTop: 10, fontSize: 13.5, color: isGreen ? 'rgba(255,255,255,0.92)' : SIQ.fgSubtle, lineHeight: 1.5 }}>
               {t.sub}
             </div>
           )}
@@ -141,15 +144,19 @@ const Pricing = () => {
                 width: 20, height: 20, borderRadius: '50%', background: SIQ.green, color: 'white',
                 display: 'inline-flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0,
               }}><Icons.Check size={12}/></span>
-              {t.includesEverything}
+              <span data-i18n={`pricing.tier.${t.key}.includes_everything`}>{t.includesEverything}</span>
             </div>
           )}
           <div style={{ flex: 1 }}>
             {t.features.map((f, i) => (
-              <PriceFeatureRow key={i} icon={f.icon} title={f.title} desc={f.desc}/>
+              <PriceFeatureRow key={i}
+                icon={f.icon} title={f.title} desc={f.desc}
+                titleKey={`pricing.tier.${t.key}.feature.${i + 1}.title`}
+                descKey={`pricing.tier.${t.key}.feature.${i + 1}.desc`}
+              />
             ))}
           </div>
-          <a href="#download" style={{
+          <a href="#download" data-i18n={`pricing.tier.${t.key}.cta`} style={{
             marginTop: 20, display: 'block', textAlign: 'center',
             padding: '14px 22px', borderRadius: 12,
             fontSize: 15, fontWeight: 700, textDecoration: 'none',
@@ -167,9 +174,9 @@ const Pricing = () => {
     <section id="pricing" className="siq-section" style={{ padding: '110px 0', background: '#FFFFFF' }}>
       <div className="siq-container" style={{ maxWidth: 1320, margin: '0 auto', padding: '0 24px' }}>
         <div style={{ textAlign: 'center', marginBottom: 56 }}>
-          <SectionEyebrow>Pricing</SectionEyebrow>
-          <GradientHeadline className="siq-headline" style={{ marginBottom: 16 }}>Choose your plan.</GradientHeadline>
-          <p style={{ fontSize: 18, color: SIQ.fgSubtle, maxWidth: 600, margin: '0 auto 32px', lineHeight: 1.6 }}>
+          <SectionEyebrow><span data-i18n="pricing.eyebrow">Pricing</span></SectionEyebrow>
+          <GradientHeadline className="siq-headline" style={{ marginBottom: 16 }}><span data-i18n="pricing.headline">Choose your plan.</span></GradientHeadline>
+          <p data-i18n="pricing.sub" style={{ fontSize: 18, color: SIQ.fgSubtle, maxWidth: 600, margin: '0 auto 32px', lineHeight: 1.6 }}>
             Try the basics free. Unlock the catalogs when you're ready.
           </p>
           {/* Billing toggle */}
@@ -178,8 +185,8 @@ const Pricing = () => {
             border: `1.5px solid ${SIQ.border}`, boxShadow: '0 2px 8px rgba(0,0,0,0.04)',
           }}>
             {[
-              { key: 'monthly', label: 'Monthly' },
-              { key: 'yearly', label: 'Yearly', save: 'Save 17%' },
+              { key: 'monthly', label: 'Monthly', i18nKey: 'pricing.toggle.monthly' },
+              { key: 'yearly',  label: 'Yearly',  save: 'Save 17%', i18nKey: 'pricing.toggle.yearly', saveKey: 'pricing.toggle.save' },
             ].map(opt => {
               const active = billing === opt.key;
               return (
@@ -191,8 +198,8 @@ const Pricing = () => {
                   transition: 'all 0.2s',
                   display: 'inline-flex', alignItems: 'center', gap: 8,
                 }}>
-                  {opt.label}
-                  {opt.save && <span style={{
+                  <span data-i18n={opt.i18nKey}>{opt.label}</span>
+                  {opt.save && <span data-i18n={opt.saveKey} style={{
                     color: active ? 'white' : SIQ.greenDarker, fontWeight: 700, fontSize: 14,
                   }}>{opt.save}</span>}
                 </button>

@@ -92,7 +92,7 @@ const Icons = {
 const Pill = ({ variant = 'green', children, style, className }) => {
   const base = { display: 'inline-flex', alignItems: 'center', borderRadius: 25, fontSize: 13, fontWeight: 600, padding: '6px 16px', whiteSpace: 'nowrap', ...style };
   if (variant === 'green') return <span className={className} style={{ ...base, background: SIQ.green, color: 'white', padding: '6px 20px' }}>{children}</span>;
-  if (variant === 'available') return <span className={className} style={{ ...base, background: SIQ.greenTint, color: SIQ.greenDarker, padding: '6px 16px' }}><span style={{ width: 8, height: 8, borderRadius: '50%', background: SIQ.green, marginRight: 8, boxShadow: `0 0 0 4px ${SIQ.greenTint}` }}/>Now Available</span>;
+  if (variant === 'available') return <span className={className} style={{ ...base, background: SIQ.greenTint, color: SIQ.greenDarker, padding: '6px 16px' }}><span style={{ width: 8, height: 8, borderRadius: '50%', background: SIQ.green, marginRight: 8, boxShadow: `0 0 0 4px ${SIQ.greenTint}` }}/><span data-i18n="pill.available">Now Available</span></span>;
   return <span className={className} style={{ ...base, background: 'white', color: SIQ.fg, border: `1px solid ${SIQ.border}` }}>{children}</span>;
 };
 

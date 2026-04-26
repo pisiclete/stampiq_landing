@@ -11,14 +11,14 @@ const Hero = () => (
         <div className="siq-hero-pill-row">
           <Pill variant="available" style={{ marginBottom: 24 }}/>
         </div>
-        <h1 className="siq-h1" style={{
+        <h1 data-i18n="hero.headline" className="siq-h1" style={{
           fontSize: 'clamp(40px, 6vw, 68px)', fontWeight: 800, lineHeight: 1.05, margin: '0 0 22px',
           letterSpacing: '-0.02em',
           background: `linear-gradient(135deg, ${SIQ.fg} 0%, ${SIQ.green} 100%)`,
           WebkitBackgroundClip: 'text', backgroundClip: 'text', WebkitTextFillColor: 'transparent',
           textWrap: 'balance',
         }}>Keep Collecting Smarter.</h1>
-        <p style={{ fontSize: 20, color: SIQ.fgSubtle, lineHeight: 1.55, margin: '0 0 32px', maxWidth: 540 }}>
+        <p data-i18n="hero.body" style={{ fontSize: 20, color: SIQ.fgSubtle, lineHeight: 1.55, margin: '0 0 32px', maxWidth: 540 }}>
           Discover, identify, and organize your stamps with ease. Your digital companion, built by collectors, for collectors.
         </p>
         <div className="siq-hero-badges" style={{ display: 'flex', gap: 14, flexWrap: 'wrap', alignItems: 'center', marginBottom: 36 }}>
@@ -26,18 +26,18 @@ const Hero = () => (
         </div>
         <div className="siq-hero-stats" style={{ display: 'flex', gap: 28, flexWrap: 'wrap' }}>
           {[
-            { v: '<1s', l: 'Recognition speed' },
-            { v: '98%', l: 'Accuracy' },
-            { v: '25K+', l: 'Stamps catalogued' },
-            { v: '6', l: 'Countries' },
+            { v: '<1s',  l: 'Recognition speed', vKey: 'hero.stat.speed.value',    lKey: 'hero.stat.speed.label' },
+            { v: '98%',  l: 'Accuracy',          vKey: 'hero.stat.accuracy.value', lKey: 'hero.stat.accuracy.label' },
+            { v: '25K+', l: 'Stamps catalogued', vKey: 'hero.stat.catalog.value',  lKey: 'hero.stat.catalog.label' },
+            { v: '6',    l: 'Countries',         vKey: 'hero.stat.countries.value',lKey: 'hero.stat.countries.label' },
           ].map(s => (
             <div key={s.l} style={{ minWidth: 110, whiteSpace: 'nowrap' }}>
-              <div className="siq-hero-stat-v" style={{
+              <div data-i18n={s.vKey} className="siq-hero-stat-v" style={{
                 fontSize: 32, fontWeight: 800, lineHeight: 1, marginBottom: 4,
                 background: 'linear-gradient(135deg, #2D5016 0%, #66E204 50%, #A8E063 100%)',
                 WebkitBackgroundClip: 'text', backgroundClip: 'text', WebkitTextFillColor: 'transparent',
               }}>{s.v}</div>
-              <div className="siq-hero-stat-l" style={{ color: SIQ.fgMuted, fontSize: 13 }}>{s.l}</div>
+              <div data-i18n={s.lKey} className="siq-hero-stat-l" style={{ color: SIQ.fgMuted, fontSize: 13 }}>{s.l}</div>
             </div>
           ))}
         </div>

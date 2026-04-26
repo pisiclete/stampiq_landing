@@ -4,9 +4,9 @@ const Press = () => (
   <section id="press" className="siq-section" style={{ padding: '110px 0', background: '#F9F9F9' }}>
     <div className="siq-container" style={{ maxWidth: 1100, margin: '0 auto', padding: '0 24px' }}>
       <div style={{ textAlign: 'center', marginBottom: 50 }}>
-        <SectionEyebrow>Press</SectionEyebrow>
-        <GradientHeadline className="siq-headline" style={{ marginBottom: 14 }}>Featured in print.</GradientHeadline>
-        <p style={{ fontSize: 17, color: SIQ.fgSubtle, maxWidth: 580, margin: '0 auto', lineHeight: 1.6 }}>
+        <SectionEyebrow><span data-i18n="press.eyebrow">Press</span></SectionEyebrow>
+        <GradientHeadline className="siq-headline" style={{ marginBottom: 14 }}><span data-i18n="press.headline">Featured in print.</span></GradientHeadline>
+        <p data-i18n="press.body" style={{ fontSize: 17, color: SIQ.fgSubtle, maxWidth: 580, margin: '0 auto', lineHeight: 1.6 }}>
           Recognized by leading philately publications.
         </p>
       </div>
@@ -32,20 +32,20 @@ const Press = () => (
             width: '100%', height: '100%', objectFit: 'cover', objectPosition: 'top', display: 'block',
           }}/>
           {/* Issue tag */}
-          <div style={{
+          <div data-i18n="press.issue.sbz_2026_03.tag" style={{
             position: 'absolute', top: 14, left: 14,
             padding: '6px 12px', background: 'rgba(0,0,0,0.75)', color: 'white',
             borderRadius: 6, fontSize: 11, fontWeight: 700, letterSpacing: '0.08em',
           }}>SBZ · 03/2026</div>
         </a>
         <div>
-          <div style={{ fontSize: 13, fontWeight: 700, letterSpacing: '0.14em', textTransform: 'uppercase', color: SIQ.greenDarker, marginBottom: 12 }}>
+          <div data-i18n="press.issue.sbz_2026_03.publication" style={{ fontSize: 13, fontWeight: 700, letterSpacing: '0.14em', textTransform: 'uppercase', color: SIQ.greenDarker, marginBottom: 12 }}>
             Schweizer Briefmarken Zeitung · 03/2026
           </div>
-          <h3 style={{ fontSize: 28, fontWeight: 800, lineHeight: 1.2, color: SIQ.fg, margin: '0 0 18px' }}>
+          <h3 data-i18n="press.issue.sbz_2026_03.title" style={{ fontSize: 28, fontWeight: 800, lineHeight: 1.2, color: SIQ.fg, margin: '0 0 18px' }}>
             "StampIQ: der digitale Begleiter."
           </h3>
-          <p style={{ fontSize: 16, lineHeight: 1.65, color: SIQ.fgSubtle, marginBottom: 28 }}>
+          <p data-i18n="press.issue.sbz_2026_03.body" style={{ fontSize: 16, lineHeight: 1.65, color: SIQ.fgSubtle, marginBottom: 28 }}>
             SBZ — Schweizer Briefmarken Zeitung, Switzerland's leading philately magazine — featured StampIQ in their March 2026 issue. A two-page profile of the new collector's companion from Zug, the technology behind SigiVision, and the philosophy of an app built by collectors for collectors.
           </p>
           <div style={{ display: 'flex', gap: 12, flexWrap: 'wrap' }}>
@@ -54,7 +54,7 @@ const Press = () => (
               background: SIQ.green, color: 'white', borderRadius: 25,
               textDecoration: 'none', fontSize: 14, fontWeight: 600,
               boxShadow: '0 6px 16px rgba(102,226,4,0.35)',
-            }}>Read the article<Icons.Arrow size={16}/></a>
+            }}><span data-i18n="press.cta">Read the article</span><Icons.Arrow size={16}/></a>
           </div>
         </div>
       </div>
@@ -65,8 +65,8 @@ const Press = () => (
 const Founder = () => (
   <section className="siq-section" style={{ padding: '110px 0', background: '#F9F9F9' }}>
     <div className="siq-container" style={{ maxWidth: 900, margin: '0 auto', padding: '0 24px', textAlign: 'center' }}>
-      <SectionEyebrow>One frustrated collector. One better way.</SectionEyebrow>
-      <GradientHeadline className="siq-headline" style={{ marginBottom: 30 }}>Built by collectors, for collectors.</GradientHeadline>
+      <SectionEyebrow><span data-i18n="founder.eyebrow">One frustrated collector. One better way.</span></SectionEyebrow>
+      <GradientHeadline className="siq-headline" style={{ marginBottom: 30 }}><span data-i18n="founder.headline">Built by collectors, for collectors.</span></GradientHeadline>
       <div style={{ display: 'flex', justifyContent: 'center', gap: 14, marginBottom: 36, flexWrap: 'wrap' }}>
         {[1, 2, 3].map(i => (
           <img key={i} src={`assets/founder/portrait-${i}.webp`} alt="" style={{
@@ -75,13 +75,13 @@ const Founder = () => (
           }}/>
         ))}
       </div>
-      <p style={{ fontSize: 18, lineHeight: 1.7, color: SIQ.fgSubtle, marginBottom: 18 }}>
+      <p data-i18n="founder.p1" style={{ fontSize: 18, lineHeight: 1.7, color: SIQ.fgSubtle, marginBottom: 18 }}>
         StampIQ was born from a simple frustration: managing a stamp collection shouldn't require endless catalogs, manual searches, and guesswork. As a lifelong collector, I knew there had to be a better way.
       </p>
-      <p style={{ fontSize: 18, lineHeight: 1.7, color: SIQ.fgSubtle, marginBottom: 28 }}>
+      <p data-i18n="founder.p2" style={{ fontSize: 18, lineHeight: 1.7, color: SIQ.fgSubtle, marginBottom: 28 }}>
         After combining my passion for philately with years of work in technology, StampIQ is the tool I wish I'd had when I started collecting.
       </p>
-      <p style={{ fontSize: 18, fontWeight: 700, color: SIQ.fg, fontStyle: 'italic' }}>
+      <p data-i18n="founder.byline" style={{ fontSize: 18, fontWeight: 700, color: SIQ.fg, fontStyle: 'italic' }}>
         — Marius Dygudaj, Founder
       </p>
     </div>

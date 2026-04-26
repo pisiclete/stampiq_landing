@@ -1,0 +1,1812 @@
+[
+  {
+    "key": "pill.swiss_made",
+    "section/location": "Pill — Swiss Made (header + footer)",
+    "en": "Swiss Made",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pill.available",
+    "section/location": "Pill — Now Available status",
+    "en": "Now Available",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "nav.features",
+    "section/location": "Header nav",
+    "en": "Features",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "nav.sigivision",
+    "section/location": "Header nav",
+    "en": "SigiVision",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "nav.pricing",
+    "section/location": "Header nav",
+    "en": "Pricing",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "nav.press",
+    "section/location": "Header nav",
+    "en": "Press",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "nav.partners",
+    "section/location": "Header nav",
+    "en": "Partners",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "nav.faq",
+    "section/location": "Header nav",
+    "en": "FAQ",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "nav.download",
+    "section/location": "Header CTA button",
+    "en": "Download",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "hero.headline",
+    "section/location": "Hero — main heading",
+    "en": "Keep Collecting Smarter.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "hero.body",
+    "section/location": "Hero — body paragraph",
+    "en": "Discover, identify, and organize your stamps with ease. Your digital companion, built by collectors, for collectors.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "hero.stat.speed.value",
+    "section/location": "Hero stat — recognition speed",
+    "en": "<1s",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "hero.stat.speed.label",
+    "section/location": "Hero stat — recognition speed label",
+    "en": "Recognition speed",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "hero.stat.accuracy.value",
+    "section/location": "Hero stat — accuracy",
+    "en": "98%",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "hero.stat.accuracy.label",
+    "section/location": "Hero stat — accuracy label",
+    "en": "Accuracy",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "hero.stat.catalog.value",
+    "section/location": "Hero stat — stamps catalogued",
+    "en": "25K+",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "hero.stat.catalog.label",
+    "section/location": "Hero stat — stamps catalogued label",
+    "en": "Stamps catalogued",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "hero.stat.countries.value",
+    "section/location": "Hero stat — countries",
+    "en": "6",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "hero.stat.countries.label",
+    "section/location": "Hero stat — countries label",
+    "en": "Countries",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "features.catalogs_label",
+    "section/location": "ThreeActs — country catalogs caption (act 1)",
+    "en": "Currently available catalogs · more to come",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "act1.eyebrow",
+    "section/location": "Act 1 — Scan & Identify",
+    "en": "Scan & Identify",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "act1.title",
+    "section/location": "Act 1 — title",
+    "en": "Point your camera. Get an instant answer.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "act1.body",
+    "section/location": "Act 1 — body",
+    "en": "SigiVision™ recognition technology identifies stamps from supported catalogs in under one second. No more thumbing through paper catalogs for an unknown issue.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "act1.bullet.1",
+    "section/location": "Act 1 — bullet 1",
+    "en": "Single-tap recognition for one stamp at a time",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "act1.bullet.2",
+    "section/location": "Act 1 — bullet 2",
+    "en": "Catalog numbers, country, year of issue",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "act1.bullet.3",
+    "section/location": "Act 1 — bullet 3",
+    "en": "The story behind the stamp",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "act1.bullet.4",
+    "section/location": "Act 1 — bullet 4",
+    "en": "Related stamps and stamps from the series",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "act2.eyebrow",
+    "section/location": "Act 2 — Collect & Organize",
+    "en": "Collect & Organize",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "act2.title",
+    "section/location": "Act 2 — title",
+    "en": "Your complete collection, always with you.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "act2.body",
+    "section/location": "Act 2 — body",
+    "en": "Managing a collection shouldn't require endless lists and scattered notebooks. Organize by country, theme, or series. Track condition, value, and certificates. Add personal photos and notes.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "act2.bullet.1",
+    "section/location": "Act 2 — bullet 1",
+    "en": "Organize by country, theme, or series",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "act2.bullet.2",
+    "section/location": "Act 2 — bullet 2",
+    "en": "Track condition, purchase value, certificates",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "act2.bullet.3",
+    "section/location": "Act 2 — bullet 3",
+    "en": "See what's missing — avoid duplicates",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "act2.bullet.4",
+    "section/location": "Act 2 — bullet 4",
+    "en": "Access your collection on any device",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "act3.eyebrow",
+    "section/location": "Act 3 — Bulk Scan",
+    "en": "Bulk Scan & Digitalize",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "act3.title",
+    "section/location": "Act 3 — title",
+    "en": "Identify 40+ stamps in a single photo.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "act3.body",
+    "section/location": "Act 3 — body",
+    "en": "Snap one photo of an album page and SigiVision™ detects every stamp at once — automatically cropping and matching against the catalog. The fastest way to digitalize a lifetime of philately.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "act3.bullet.1",
+    "section/location": "Act 3 — bullet 1",
+    "en": "Detect dozens of stamps from one image",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "act3.bullet.2",
+    "section/location": "Act 3 — bullet 2",
+    "en": "Automatic cropping and catalog matching",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "act3.bullet.3",
+    "section/location": "Act 3 — bullet 3",
+    "en": "See total detected, in collection, on the wishlist",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "act3.bullet.4",
+    "section/location": "Act 3 — bullet 4",
+    "en": "Review each match before saving",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "act4.eyebrow",
+    "section/location": "Act 4 — Explore (dark)",
+    "en": "Explore & Discover",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "act4.title",
+    "section/location": "Act 4 — title",
+    "en": "Philately beyond the desk.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "act4.body",
+    "section/location": "Act 4 — body",
+    "en": "See stamps as windows into the real world. Discover places near you depicted on stamps in your collection — buildings, monuments, landscapes. Turn a Sunday walk into a stamp adventure.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "act4.bullet.1",
+    "section/location": "Act 4 — bullet 1",
+    "en": "Discover stamp locations on an interactive map",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "act4.bullet.2",
+    "section/location": "Act 4 — bullet 2",
+    "en": "Connect stamps to real-world places",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "act4.bullet.3",
+    "section/location": "Act 4 — bullet 3",
+    "en": "Filter by what interests you",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "act4.bullet.4",
+    "section/location": "Act 4 — bullet 4",
+    "en": "Ask Sigi about history and context",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "sigivision.eyebrow",
+    "section/location": "SigiVision — eyebrow",
+    "en": "The Technology",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "sigivision.headline",
+    "section/location": "SigiVision — headline",
+    "en": "SigiVision™ — recognition trained on real philately.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "sigivision.body",
+    "section/location": "SigiVision — body",
+    "en": "Our recognition engine is built specifically for stamps — not generic image classification. Every model is tuned per country catalog and validated against certified references.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "sigivision.stat.speed.value",
+    "section/location": "SigiVision stat — speed",
+    "en": "<1s",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "sigivision.stat.speed.label",
+    "section/location": "SigiVision stat — speed label",
+    "en": "Average recognition time",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "sigivision.stat.speed.sub",
+    "section/location": "SigiVision stat — speed sub",
+    "en": "Before the catalog leaves the shelf.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "sigivision.stat.accuracy.value",
+    "section/location": "SigiVision stat — accuracy",
+    "en": "98%",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "sigivision.stat.accuracy.label",
+    "section/location": "SigiVision stat — accuracy label",
+    "en": "Recognition accuracy",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "sigivision.stat.accuracy.sub",
+    "section/location": "SigiVision stat — accuracy sub",
+    "en": "Validated against certified reference sets.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "sigivision.stat.catalog.value",
+    "section/location": "SigiVision stat — catalog",
+    "en": "25K+",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "sigivision.stat.catalog.label",
+    "section/location": "SigiVision stat — catalog label",
+    "en": "Stamps in active catalogs",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "sigivision.stat.catalog.sub",
+    "section/location": "SigiVision stat — catalog sub",
+    "en": "New issues every month.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "sigivision.stat.countries.value",
+    "section/location": "SigiVision stat — countries",
+    "en": "6",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "sigivision.stat.countries.label",
+    "section/location": "SigiVision stat — countries label",
+    "en": "Countries supported",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "sigivision.stat.countries.sub",
+    "section/location": "SigiVision stat — countries sub",
+    "en": "More to come.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "meet_sigi.eyebrow",
+    "section/location": "MeetSigi — eyebrow",
+    "en": "Your Companion",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "meet_sigi.headline",
+    "section/location": "MeetSigi — headline",
+    "en": "Meet Sigi.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "meet_sigi.p1",
+    "section/location": "MeetSigi — paragraph 1",
+    "en": "Sigi is your AI-powered stamp companion. Ask about a stamp's history, the story it tells, or where to start with a country you've never collected.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "meet_sigi.p2",
+    "section/location": "MeetSigi — paragraph 2",
+    "en": "He's friendly, patient, and ready whenever curiosity strikes.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "meet_sigi.feature.1",
+    "section/location": "MeetSigi — feature 1",
+    "en": "Historical context for any issue",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "meet_sigi.feature.2",
+    "section/location": "MeetSigi — feature 2",
+    "en": "Conversational answers to your questions",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "meet_sigi.feature.3",
+    "section/location": "MeetSigi — feature 3",
+    "en": "Identify themes and series",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "meet_sigi.feature.4",
+    "section/location": "MeetSigi — feature 4",
+    "en": "Tips for organizing and preserving",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pricing.eyebrow",
+    "section/location": "Pricing — eyebrow",
+    "en": "Pricing",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pricing.headline",
+    "section/location": "Pricing — headline",
+    "en": "Choose your plan.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pricing.sub",
+    "section/location": "Pricing — sub",
+    "en": "Try the basics free. Unlock the catalogs when you're ready.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pricing.toggle.monthly",
+    "section/location": "Pricing — billing toggle",
+    "en": "Monthly",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pricing.toggle.yearly",
+    "section/location": "Pricing — billing toggle",
+    "en": "Yearly",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pricing.toggle.save",
+    "section/location": "Pricing — yearly save callout",
+    "en": "Save 17%",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pricing.most_popular",
+    "section/location": "Pricing — popular badge",
+    "en": "Most Popular",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pricing.tier.free.name",
+    "section/location": "Pricing — Free tier name",
+    "en": "Free Plan",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pricing.tier.free.price_label",
+    "section/location": "Pricing — Free price label",
+    "en": "Free",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pricing.tier.free.sub",
+    "section/location": "Pricing — Free sub",
+    "en": "Perfect for new collectors who want to explore StampIQ",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pricing.tier.free.cta",
+    "section/location": "Pricing — Free CTA",
+    "en": "Go Free",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pricing.tier.free.feature.1.title",
+    "section/location": "Pricing — Free feature 1 title",
+    "en": "SigiVision<sup style=\"font-size:9px\">™</sup> Recognition",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pricing.tier.free.feature.1.desc",
+    "section/location": "Pricing — Free feature 1 desc",
+    "en": "Identify your stamps with 95% accuracy. Results delivered in a few seconds.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pricing.tier.free.feature.2.title",
+    "section/location": "Pricing — Free feature 2 title",
+    "en": "5 Scans per Month",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pricing.tier.free.feature.2.desc",
+    "section/location": "Pricing — Free feature 2 desc",
+    "en": "Enjoy 5 free single scans and 2 bulk scans each month to explore your collection.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pricing.tier.free.feature.3.title",
+    "section/location": "Pricing — Free feature 3 title",
+    "en": "Scanned Stamp Details",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pricing.tier.free.feature.3.desc",
+    "section/location": "Pricing — Free feature 3 desc",
+    "en": "View catalog matches and key information for the stamps you've scanned.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pricing.tier.free.feature.4.title",
+    "section/location": "Pricing — Free feature 4 title",
+    "en": "No Direct Support",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pricing.tier.free.feature.4.desc",
+    "section/location": "Pricing — Free feature 4 desc",
+    "en": "Personal support is not included. FAQs and help articles are always available.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pricing.tier.premium.name",
+    "section/location": "Pricing — Premium tier name",
+    "en": "Premium Plan",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pricing.tier.premium.cta",
+    "section/location": "Pricing — Premium CTA",
+    "en": "Go Premium",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pricing.tier.premium.feature.1.title",
+    "section/location": "Pricing — Premium feature 1 title",
+    "en": "SigiVision<sup style=\"font-size:9px\">™</sup> Instant Recognition",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pricing.tier.premium.feature.1.desc",
+    "section/location": "Pricing — Premium feature 1 desc",
+    "en": "Identify your stamps with 95% accuracy in under 1 second — no waiting around.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pricing.tier.premium.feature.2.title",
+    "section/location": "Pricing — Premium feature 2 title",
+    "en": "Unlimited Single Scans",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pricing.tier.premium.feature.2.desc",
+    "section/location": "Pricing — Premium feature 2 desc",
+    "en": "Scan as many stamps as you like, one at a time — no daily or monthly limits.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pricing.tier.premium.feature.3.title",
+    "section/location": "Pricing — Premium feature 3 title",
+    "en": "Limited Bulk Scanning",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pricing.tier.premium.feature.3.desc",
+    "section/location": "Pricing — Premium feature 3 desc",
+    "en": "Scan multi-stamp pages with automatic cropping and catalog matching, up to 5 pages per month.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pricing.tier.premium.feature.4.title",
+    "section/location": "Pricing — Premium feature 4 title",
+    "en": "Personal Collection History",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pricing.tier.premium.feature.4.desc",
+    "section/location": "Pricing — Premium feature 4 desc",
+    "en": "All your scans are saved automatically, making it easy to revisit, organize, or re-check details anytime.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pricing.tier.premium.feature.5.title",
+    "section/location": "Pricing — Premium feature 5 title",
+    "en": "Early Access to New Features",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pricing.tier.premium.feature.5.desc",
+    "section/location": "Pricing — Premium feature 5 desc",
+    "en": "Be among the first to try upcoming collector tools as they roll out.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pricing.tier.pro.name",
+    "section/location": "Pricing — Pro tier name",
+    "en": "Professional Plan",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pricing.tier.pro.includes_everything",
+    "section/location": "Pricing — Pro 'includes everything' callout",
+    "en": "Includes everything in Premium, plus:",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pricing.tier.pro.cta",
+    "section/location": "Pricing — Pro CTA",
+    "en": "Go Professional",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pricing.tier.pro.feature.1.title",
+    "section/location": "Pricing — Pro feature 1 title",
+    "en": "SigiVision<sup style=\"font-size:9px\">™</sup> Pro Recognition",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pricing.tier.pro.feature.1.desc",
+    "section/location": "Pricing — Pro feature 1 desc",
+    "en": "Our most powerful recognition engine — 98% accuracy in under 1 second for the best possible matches.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pricing.tier.pro.feature.2.title",
+    "section/location": "Pricing — Pro feature 2 title",
+    "en": "Unlimited Bulk Scanning",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pricing.tier.pro.feature.2.desc",
+    "section/location": "Pricing — Pro feature 2 desc",
+    "en": "Detect multiple stamps on a single page with automatic cropping and catalog matching. No limits.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pricing.tier.pro.feature.3.title",
+    "section/location": "Pricing — Pro feature 3 title",
+    "en": "Premium Support",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "pricing.tier.pro.feature.3.desc",
+    "section/location": "Pricing — Pro feature 3 desc",
+    "en": "Priority email help from our philately team.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "press.eyebrow",
+    "section/location": "Press — eyebrow",
+    "en": "Press",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "press.headline",
+    "section/location": "Press — headline",
+    "en": "Featured in print.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "press.body",
+    "section/location": "Press — body",
+    "en": "Recognized by leading philately publications.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "press.cta",
+    "section/location": "Press — read article CTA",
+    "en": "Read the article",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "press.issue.sbz_2026_03.tag",
+    "section/location": "Press SBZ 03/2026 — corner tag",
+    "en": "SBZ · 03/2026",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "press.issue.sbz_2026_03.publication",
+    "section/location": "Press SBZ 03/2026 — publication line",
+    "en": "Schweizer Briefmarken Zeitung · 03/2026",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "press.issue.sbz_2026_03.title",
+    "section/location": "Press SBZ 03/2026 — quoted title",
+    "en": "\"StampIQ: der digitale Begleiter.\"",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "press.issue.sbz_2026_03.body",
+    "section/location": "Press SBZ 03/2026 — description",
+    "en": "SBZ — Schweizer Briefmarken Zeitung, Switzerland's leading philately magazine — featured StampIQ in their March 2026 issue. A two-page profile of the new collector's companion from Zug, the technology behind SigiVision, and the philosophy of an app built by collectors for collectors.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "founder.eyebrow",
+    "section/location": "Founder — eyebrow",
+    "en": "One frustrated collector. One better way.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "founder.headline",
+    "section/location": "Founder — headline",
+    "en": "Built by collectors, for collectors.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "founder.p1",
+    "section/location": "Founder — paragraph 1",
+    "en": "StampIQ was born from a simple frustration: managing a stamp collection shouldn't require endless catalogs, manual searches, and guesswork. As a lifelong collector, I knew there had to be a better way.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "founder.p2",
+    "section/location": "Founder — paragraph 2",
+    "en": "After combining my passion for philately with years of work in technology, StampIQ is the tool I wish I'd had when I started collecting.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "founder.byline",
+    "section/location": "Founder — byline",
+    "en": "— Marius Dygudaj, Founder",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "partner.eyebrow",
+    "section/location": "Partner — eyebrow",
+    "en": "Partnerships",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "partner.headline",
+    "section/location": "Partner — headline",
+    "en": "Partner with StampIQ.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "partner.body",
+    "section/location": "Partner — body",
+    "en": "We're building the future of stamp collecting and we'd love to collaborate with dealers, philatelic associations, catalog publishers, and the wider collecting community.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "partner.card.dealers.title",
+    "section/location": "Partner — Dealers card title",
+    "en": "For Stamp Dealers",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "partner.card.dealers.desc",
+    "section/location": "Partner — Dealers card desc",
+    "en": "Partner with us to reach engaged collectors and integrate your inventory with our platform.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "partner.card.associations.title",
+    "section/location": "Partner — Associations card title",
+    "en": "For Philatelic Associations",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "partner.card.associations.desc",
+    "section/location": "Partner — Associations card desc",
+    "en": "Collaborate to bring digital tools to your members and grow the collecting community.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "partner.card.publishers.title",
+    "section/location": "Partner — Publishers card title",
+    "en": "For Catalog Publishers",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "partner.card.publishers.desc",
+    "section/location": "Partner — Publishers card desc",
+    "en": "Work with us to bring your catalogs to collectors in a modern, accessible format.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "partner.card.press.title",
+    "section/location": "Partner — Press card title",
+    "en": "For Press & Media",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "partner.card.press.desc",
+    "section/location": "Partner — Press card desc",
+    "en": "Get in touch for press materials, interviews, and exclusive updates.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "partner.cta",
+    "section/location": "Partner — CTA button",
+    "en": "Contact us about partnerships",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "faq.eyebrow",
+    "section/location": "FAQ — eyebrow",
+    "en": "FAQ",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "faq.headline",
+    "section/location": "FAQ — headline",
+    "en": "Questions, answered.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "faq.q.countries",
+    "section/location": "FAQ — Q: countries",
+    "en": "Which countries' stamps can StampIQ identify?",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "faq.a.countries",
+    "section/location": "FAQ — A: countries",
+    "en": "At launch we support stamps from Switzerland, Germany, Austria, Liechtenstein, the Netherlands, and Poland. More countries to come.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "faq.q.accuracy",
+    "section/location": "FAQ — Q: accuracy",
+    "en": "How accurate is the recognition?",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "faq.a.accuracy",
+    "section/location": "FAQ — A: accuracy",
+    "en": "SigiVision™ delivers 98% recognition accuracy across supported catalogs, with most identifications completing in under one second.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "faq.q.free_version",
+    "section/location": "FAQ — Q: free version",
+    "en": "Is there a free version?",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "faq.a.free_version",
+    "section/location": "FAQ — A: free version",
+    "en": "Yes. The free tier lets you try the basics — 5 single scans and 1 bulk scan per month. You see catalog details for the stamps you scan, but not the full catalog. Premium includes one full country catalog (with unlimited single scans inside it), and Professional includes all country catalogs.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "faq.q.bulk_scan",
+    "section/location": "FAQ — Q: bulk scan",
+    "en": "Can I scan an entire album page?",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "faq.a.bulk_scan",
+    "section/location": "FAQ — A: bulk scan",
+    "en": "Yes — Bulk Scan recognizes multiple stamps at once. Free accounts get 1 bulk scan per month, Premium gets 5, and Professional includes unlimited bulk scanning.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "faq.q.switch_plans",
+    "section/location": "FAQ — Q: switch plans",
+    "en": "Can I switch between plans anytime?",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "faq.a.switch_plans",
+    "section/location": "FAQ — A: switch plans",
+    "en": "Yes. You can upgrade, downgrade, or cancel anytime — your collection, scans, and notes always stay saved.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "faq.q.devices",
+    "section/location": "FAQ — Q: devices",
+    "en": "Which devices does StampIQ support?",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "faq.a.devices",
+    "section/location": "FAQ — A: devices",
+    "en": "StampIQ is available for iOS and Android — both smartphones and tablets.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "faq.q.internet",
+    "section/location": "FAQ — Q: internet",
+    "en": "Do I need internet to use StampIQ?",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "faq.a.internet",
+    "section/location": "FAQ — A: internet",
+    "en": "Yes. An internet connection is required for stamp recognition and catalog access.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "faq.q.languages",
+    "section/location": "FAQ — Q: languages",
+    "en": "Which languages does the app support?",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "faq.a.languages",
+    "section/location": "FAQ — A: languages",
+    "en": "The app is available in English, German, French, Italian, Polish, and Dutch.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "faq.q.storage",
+    "section/location": "FAQ — Q: storage",
+    "en": "Where is my collection stored?",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "faq.a.storage",
+    "section/location": "FAQ — A: storage",
+    "en": "Your collection, scans, and notes are stored securely in the EU and synced to your account. Your data is never sold or shared.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "faq.q.privacy",
+    "section/location": "FAQ — Q: privacy",
+    "en": "Will my data be private?",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "faq.a.privacy",
+    "section/location": "FAQ — A: privacy (HTML allowed)",
+    "en": "Your collection, scans, and notes are stored securely in the EU and never sold. To make StampIQ work, some data is shared with trusted service providers — for example, AWS for hosting, and OpenAI for Sigi's AI chat (chat messages and a collection summary). Full details, including what is shared and where, are in our <a href=\"../privacy.html\" target=\"_blank\" rel=\"noopener\" style=\"color:#4FA902;font-weight:600\">Privacy Policy</a>.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "faq.q.export",
+    "section/location": "FAQ — Q: export",
+    "en": "Can I export my collection?",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "faq.a.export",
+    "section/location": "FAQ — A: export",
+    "en": "Professional users can export collections as CSV or PDF. We're working on additional formats based on collector requests.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "faq.q.updates",
+    "section/location": "FAQ — Q: updates",
+    "en": "How often are new features added?",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "faq.a.updates",
+    "section/location": "FAQ — A: updates",
+    "en": "We add features regularly, guided by feedback from real collectors. Tell us what would make StampIQ better — your input directly shapes the roadmap.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "faq.q.support",
+    "section/location": "FAQ — Q: support",
+    "en": "How do I get support?",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "faq.a.support",
+    "section/location": "FAQ — A: support (HTML allowed)",
+    "en": "Reach us anytime at <a href=\"mailto:support@stampiq.io\" style=\"color:#4FA902;font-weight:600\">support@stampiq.io</a>. We typically reply within one business day.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "final_cta.headline",
+    "section/location": "Final CTA — headline",
+    "en": "Keep collecting smarter.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "final_cta.body",
+    "section/location": "Final CTA — body",
+    "en": "Free download. No card required. Your collection on every device.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "footer.tagline",
+    "section/location": "Footer — brand tagline",
+    "en": "Your digital stamp collecting companion. Built in Switzerland for collectors everywhere.",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "footer.col.product",
+    "section/location": "Footer — Product column title",
+    "en": "Product",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "footer.col.company",
+    "section/location": "Footer — Company column title",
+    "en": "Company",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "footer.col.legal",
+    "section/location": "Footer — Legal column title",
+    "en": "Legal",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "footer.product.features",
+    "section/location": "Footer — Product link",
+    "en": "Features",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "footer.product.sigivision",
+    "section/location": "Footer — Product link",
+    "en": "SigiVision",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "footer.product.pricing",
+    "section/location": "Footer — Product link",
+    "en": "Pricing",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "footer.product.faq",
+    "section/location": "Footer — Product link",
+    "en": "FAQ",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "footer.company.press",
+    "section/location": "Footer — Company link",
+    "en": "Press",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "footer.company.about",
+    "section/location": "Footer — Company link",
+    "en": "About",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "footer.company.contact",
+    "section/location": "Footer — Company link",
+    "en": "Contact",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "footer.legal.privacy",
+    "section/location": "Footer — Legal link",
+    "en": "Privacy",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "footer.legal.terms",
+    "section/location": "Footer — Legal link",
+    "en": "Terms",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "footer.copyright",
+    "section/location": "Footer — copyright line",
+    "en": "© 2026 StampIQ · Designed and built in Switzerland · support@stampiq.io",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  },
+  {
+    "key": "footer.supporting",
+    "section/location": "Footer — supporting countries",
+    "en": "Supporting CH · DE · AT · LI · NL · PL",
+    "de": "",
+    "nl": "",
+    "pl": "",
+    "fr": "",
+    "it": ""
+  }
+]

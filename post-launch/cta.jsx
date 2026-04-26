@@ -1,6 +1,6 @@
 // StampIQ post-launch landing — FAQ, FinalCTA
 
-const FAQItem = ({ q, a, defaultOpen }) => {
+const FAQItem = ({ k, q, a, defaultOpen }) => {
   const [open, setOpen] = React.useState(!!defaultOpen);
   return (
     <div style={{
@@ -14,13 +14,13 @@ const FAQItem = ({ q, a, defaultOpen }) => {
         fontSize: 17, fontWeight: 600, color: open ? SIQ.greenDarker : SIQ.fg,
         textAlign: 'left', fontFamily: 'inherit',
       }}>
-        <span style={{ flex: 1 }}>{q}</span>
+        <span data-i18n={`faq.q.${k}`} style={{ flex: 1 }}>{q}</span>
         <span style={{
           flexShrink: 0, marginLeft: 16, fontSize: 22, color: SIQ.green, fontWeight: 300,
           transform: open ? 'rotate(45deg)' : 'none', transition: 'transform 0.25s',
         }}>+</span>
       </button>
-      {open && <p className="siq-faq-a" style={{ color: SIQ.fgSubtle, fontSize: 15, lineHeight: 1.65, margin: '14px 0 0' }}>{a}</p>}
+      {open && <p data-i18n={`faq.a.${k}`} className="siq-faq-a" style={{ color: SIQ.fgSubtle, fontSize: 15, lineHeight: 1.65, margin: '14px 0 0' }}>{a}</p>}
     </div>
   );
 };
@@ -35,35 +35,35 @@ const FAQ = () => (
   }}>
     <div className="siq-container" style={{ maxWidth: 880, margin: '0 auto', padding: '0 24px' }}>
       <div style={{ textAlign: 'center', marginBottom: 50 }}>
-        <SectionEyebrow>FAQ</SectionEyebrow>
-        <GradientHeadline className="siq-headline">Questions, answered.</GradientHeadline>
+        <SectionEyebrow><span data-i18n="faq.eyebrow">FAQ</span></SectionEyebrow>
+        <GradientHeadline className="siq-headline"><span data-i18n="faq.headline">Questions, answered.</span></GradientHeadline>
       </div>
       <div style={{ display: 'grid', gap: 14 }}>
-        <FAQItem defaultOpen q="Which countries' stamps can StampIQ identify?"
+        <FAQItem k="countries" defaultOpen q="Which countries' stamps can StampIQ identify?"
           a="At launch we support stamps from Switzerland, Germany, Austria, Liechtenstein, the Netherlands, and Poland. More countries to come."/>
-        <FAQItem q="How accurate is the recognition?"
+        <FAQItem k="accuracy" q="How accurate is the recognition?"
           a="SigiVision™ delivers 98% recognition accuracy across supported catalogs, with most identifications completing in under one second."/>
-        <FAQItem q="Is there a free version?"
+        <FAQItem k="free_version" q="Is there a free version?"
           a="Yes. The free tier lets you try the basics — 5 single scans and 1 bulk scan per month. You see catalog details for the stamps you scan, but not the full catalog. Premium includes one full country catalog (with unlimited single scans inside it), and Professional includes all country catalogs."/>
-        <FAQItem q="Can I scan an entire album page?"
+        <FAQItem k="bulk_scan" q="Can I scan an entire album page?"
           a="Yes — Bulk Scan recognizes multiple stamps at once. Free accounts get 1 bulk scan per month, Premium gets 5, and Professional includes unlimited bulk scanning."/>
-        <FAQItem q="Can I switch between plans anytime?"
+        <FAQItem k="switch_plans" q="Can I switch between plans anytime?"
           a="Yes. You can upgrade, downgrade, or cancel anytime — your collection, scans, and notes always stay saved."/>
-        <FAQItem q="Which devices does StampIQ support?"
+        <FAQItem k="devices" q="Which devices does StampIQ support?"
           a="StampIQ is available for iOS and Android — both smartphones and tablets."/>
-        <FAQItem q="Do I need internet to use StampIQ?"
+        <FAQItem k="internet" q="Do I need internet to use StampIQ?"
           a="Yes. An internet connection is required for stamp recognition and catalog access."/>
-        <FAQItem q="Which languages does the app support?"
+        <FAQItem k="languages" q="Which languages does the app support?"
           a="The app is available in English, German, French, Italian, Polish, and Dutch."/>
-        <FAQItem q="Where is my collection stored?"
+        <FAQItem k="storage" q="Where is my collection stored?"
           a="Your collection, scans, and notes are stored securely in the EU and synced to your account. Your data is never sold or shared."/>
-        <FAQItem q="Will my data be private?"
+        <FAQItem k="privacy" q="Will my data be private?"
           a={<>Your collection, scans, and notes are stored securely in the EU and never sold. To make StampIQ work, some data is shared with trusted service providers — for example, AWS for hosting, and OpenAI for Sigi's AI chat (chat messages and a collection summary). Full details, including what is shared and where, are in our <a href="../privacy.html" target="_blank" rel="noopener" style={{ color: SIQ.greenDarker, fontWeight: 600 }}>Privacy Policy</a>.</>}/>
-        <FAQItem q="Can I export my collection?"
+        <FAQItem k="export" q="Can I export my collection?"
           a="Professional users can export collections as CSV or PDF. We're working on additional formats based on collector requests."/>
-        <FAQItem q="How often are new features added?"
+        <FAQItem k="updates" q="How often are new features added?"
           a="We add features regularly, guided by feedback from real collectors. Tell us what would make StampIQ better — your input directly shapes the roadmap."/>
-        <FAQItem q="How do I get support?"
+        <FAQItem k="support" q="How do I get support?"
           a={<>Reach us anytime at <a href="mailto:support@stampiq.io" style={{ color: SIQ.greenDarker, fontWeight: 600 }}>support@stampiq.io</a>. We typically reply within one business day.</>}/>
       </div>
     </div>
@@ -135,10 +135,10 @@ const FinalCTA = () => (
     }}/>
 
     <div className="siq-container siq-final-cta-content" style={{ maxWidth: 900, margin: '0 auto', padding: '0 24px', position: 'relative', zIndex: 1, textAlign: 'center' }}>
-      <h2 className="siq-final-cta-h1" style={{ fontSize: 'clamp(36px, 5vw, 56px)', fontWeight: 800, lineHeight: 1.1, color: 'white', margin: '0 0 20px', textWrap: 'balance' }}>
+      <h2 data-i18n="final_cta.headline" className="siq-final-cta-h1" style={{ fontSize: 'clamp(36px, 5vw, 56px)', fontWeight: 800, lineHeight: 1.1, color: 'white', margin: '0 0 20px', textWrap: 'balance' }}>
         Keep collecting smarter.
       </h2>
-      <p style={{ fontSize: 19, color: 'rgba(255,255,255,0.92)', lineHeight: 1.55, margin: '0 auto 36px', maxWidth: 540 }}>
+      <p data-i18n="final_cta.body" style={{ fontSize: 19, color: 'rgba(255,255,255,0.92)', lineHeight: 1.55, margin: '0 auto 36px', maxWidth: 540 }}>
         Free download. No card required. Your collection on every device.
       </p>
       <div style={{ display: 'flex', justifyContent: 'center' }}>

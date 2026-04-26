@@ -1,6 +1,6 @@
 // StampIQ post-launch landing — ThreeActs, SigiVision, MeetSigi
 
-const Act = ({ idx, eyebrow, title, body, bullets, screen, dark, pose, accent, right, silhouette, bgSilhouette, countries }) => {
+const Act = ({ idx, eyebrow, title, body, bullets, screen, dark, pose, accent, right, silhouette, bgSilhouette, countries, i18nBase }) => {
   const isDark = dark;
   const flip = right;
   return (
@@ -54,15 +54,15 @@ const Act = ({ idx, eyebrow, title, body, bullets, screen, dark, pose, accent, r
       }}>
         <div style={{ order: flip ? 2 : 1 }}>
           <SectionEyebrow color={isDark ? 'rgba(255,255,255,0.85)' : SIQ.green}>
-            <span style={{ marginRight: 10, opacity: 0.6 }}>0{idx}</span>{eyebrow}
+            <span style={{ marginRight: 10, opacity: 0.6 }}>0{idx}</span><span data-i18n={`${i18nBase}.eyebrow`}>{eyebrow}</span>
           </SectionEyebrow>
-          <SectionTitle light={isDark} className="siq-section-title" style={{ marginBottom: 20 }}>{title}</SectionTitle>
-          <p style={{
+          <SectionTitle light={isDark} className="siq-section-title" style={{ marginBottom: 20 }}><span data-i18n={`${i18nBase}.title`}>{title}</span></SectionTitle>
+          <p data-i18n={`${i18nBase}.body`} style={{
             fontSize: 18, lineHeight: 1.65, marginBottom: 24,
             color: isDark ? 'rgba(255,255,255,0.92)' : SIQ.fgSubtle, maxWidth: 520,
           }}>{body}</p>
           <ul className="siq-bullets" style={{ listStyle: 'none', padding: 0, margin: 0 }}>
-            {bullets.map(b => (
+            {bullets.map((b, bi) => (
               <li key={b} style={{ display: 'flex', gap: 14, padding: '10px 0', alignItems: 'flex-start' }}>
                 <span style={{
                   flexShrink: 0, width: 24, height: 24, borderRadius: '50%',
@@ -70,7 +70,7 @@ const Act = ({ idx, eyebrow, title, body, bullets, screen, dark, pose, accent, r
                   color: isDark ? SIQ.greenDarker : 'white',
                   display: 'flex', alignItems: 'center', justifyContent: 'center', marginTop: 2,
                 }}><Icons.Check size={14}/></span>
-                <span style={{ color: isDark ? 'white' : SIQ.fg, fontSize: 16, lineHeight: 1.55 }}>{b}</span>
+                <span data-i18n={`${i18nBase}.bullet.${bi + 1}`} style={{ color: isDark ? 'white' : SIQ.fg, fontSize: 16, lineHeight: 1.55 }}>{b}</span>
               </li>
             ))}
           </ul>
@@ -84,7 +84,7 @@ const Act = ({ idx, eyebrow, title, body, bullets, screen, dark, pose, accent, r
           )}
           {countries && countries.length > 0 && (
             <div style={{ marginTop: 32 }}>
-              <div style={{
+              <div data-i18n="features.catalogs_label" style={{
                 fontSize: 12, fontWeight: 700, letterSpacing: '0.14em',
                 color: isDark ? 'rgba(255,255,255,0.7)' : SIQ.fgMuted,
                 textTransform: 'uppercase', marginBottom: 12,
@@ -128,6 +128,7 @@ const ThreeActs = () => (
   <section id="features">
     <Act
       idx={1}
+      i18nBase="act1"
       eyebrow="Scan & Identify"
       title="Point your camera. Get an instant answer."
       body="SigiVision™ recognition technology identifies stamps from supported catalogs in under one second. No more thumbing through paper catalogs for an unknown issue."
@@ -146,6 +147,7 @@ const ThreeActs = () => (
     />
     <Act
       idx={2}
+      i18nBase="act2"
       eyebrow="Collect & Organize"
       title="Your complete collection, always with you."
       body="Managing a collection shouldn't require endless lists and scattered notebooks. Organize by country, theme, or series. Track condition, value, and certificates. Add personal photos and notes."
@@ -161,6 +163,7 @@ const ThreeActs = () => (
     />
     <Act
       idx={3}
+      i18nBase="act3"
       eyebrow="Bulk Scan & Digitalize"
       title="Identify 40+ stamps in a single photo."
       body="Snap one photo of an album page and SigiVision™ detects every stamp at once — automatically cropping and matching against the catalog. The fastest way to digitalize a lifetime of philately."
@@ -175,6 +178,7 @@ const ThreeActs = () => (
     />
     <Act
       idx={4}
+      i18nBase="act4"
       dark
       eyebrow="Explore & Discover"
       title="Philately beyond the desk."
@@ -197,32 +201,32 @@ const SigiVision = () => (
   <section id="sigivision" className="siq-section" style={{ padding: '110px 0', background: '#FFFFFF', position: 'relative', overflow: 'hidden' }}>
 
     <div className="siq-container" style={{ maxWidth: 1100, margin: '0 auto', padding: '0 24px', textAlign: 'center', position: 'relative', zIndex: 1 }}>
-      <SectionEyebrow>The Technology</SectionEyebrow>
+      <SectionEyebrow><span data-i18n="sigivision.eyebrow">The Technology</span></SectionEyebrow>
       <GradientHeadline className="siq-headline" style={{ marginBottom: 18, maxWidth: 880, margin: '0 auto 18px' }}>
-        SigiVision™ — recognition trained on real philately.
+        <span data-i18n="sigivision.headline">SigiVision™ — recognition trained on real philately.</span>
       </GradientHeadline>
-      <p style={{ fontSize: 19, color: SIQ.fgSubtle, lineHeight: 1.6, maxWidth: 720, margin: '0 auto 60px' }}>
+      <p data-i18n="sigivision.body" style={{ fontSize: 19, color: SIQ.fgSubtle, lineHeight: 1.6, maxWidth: 720, margin: '0 auto 60px' }}>
         Our recognition engine is built specifically for stamps — not generic image classification. Every model is tuned per country catalog and validated against certified references.
       </p>
 
       <div className="siq-grid-4" style={{ display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: 24, marginBottom: 60 }}>
         {[
-          { v: '<1s', l: 'Average recognition time', sub: 'Before the catalog leaves the shelf.' },
-          { v: '98%', l: 'Recognition accuracy', sub: 'Validated against certified reference sets.' },
-          { v: '25K+', l: 'Stamps in active catalogs', sub: 'New issues every month.' },
-          { v: '6', l: 'Countries supported', sub: 'More to come.' },
+          { v: '<1s',  l: 'Average recognition time',     sub: 'Before the catalog leaves the shelf.',         base: 'sigivision.stat.speed' },
+          { v: '98%',  l: 'Recognition accuracy',         sub: 'Validated against certified reference sets.',  base: 'sigivision.stat.accuracy' },
+          { v: '25K+', l: 'Stamps in active catalogs',    sub: 'New issues every month.',                      base: 'sigivision.stat.catalog' },
+          { v: '6',    l: 'Countries supported',          sub: 'More to come.',                                base: 'sigivision.stat.countries' },
         ].map(s => (
           <div key={s.l} style={{
             padding: 32, background: SIQ.bg, borderRadius: 16, borderLeft: `4px solid ${SIQ.green}`,
             textAlign: 'left',
           }}>
-            <div style={{
+            <div data-i18n={`${s.base}.value`} style={{
               fontSize: 56, fontWeight: 800, lineHeight: 1, marginBottom: 10,
               background: 'linear-gradient(135deg, #2D5016 0%, #66E204 50%, #A8E063 100%)',
               WebkitBackgroundClip: 'text', backgroundClip: 'text', WebkitTextFillColor: 'transparent',
             }}>{s.v}</div>
-            <div style={{ fontSize: 16, fontWeight: 700, color: SIQ.fg, marginBottom: 6 }}>{s.l}</div>
-            <div style={{ fontSize: 14, color: SIQ.fgMuted, lineHeight: 1.5 }}>{s.sub}</div>
+            <div data-i18n={`${s.base}.label`} style={{ fontSize: 16, fontWeight: 700, color: SIQ.fg, marginBottom: 6 }}>{s.l}</div>
+            <div data-i18n={`${s.base}.sub`} style={{ fontSize: 14, color: SIQ.fgMuted, lineHeight: 1.5 }}>{s.sub}</div>
           </div>
         ))}
       </div>
@@ -243,28 +247,28 @@ const MeetSigi = () => (
         }}/>
       </div>
       <div>
-        <SectionEyebrow>Your Companion</SectionEyebrow>
-        <GradientHeadline className="siq-headline" style={{ marginBottom: 22 }}>Meet Sigi.</GradientHeadline>
-        <p style={{ fontSize: 19, lineHeight: 1.6, color: SIQ.fgSubtle, marginBottom: 22, maxWidth: 540 }}>
+        <SectionEyebrow><span data-i18n="meet_sigi.eyebrow">Your Companion</span></SectionEyebrow>
+        <GradientHeadline className="siq-headline" style={{ marginBottom: 22 }}><span data-i18n="meet_sigi.headline">Meet Sigi.</span></GradientHeadline>
+        <p data-i18n="meet_sigi.p1" style={{ fontSize: 19, lineHeight: 1.6, color: SIQ.fgSubtle, marginBottom: 22, maxWidth: 540 }}>
           Sigi is your AI-powered stamp companion. Ask about a stamp's history, the story it tells, or where to start with a country you've never collected.
         </p>
-        <p style={{ fontSize: 17, lineHeight: 1.6, color: SIQ.fgSubtle, marginBottom: 32, maxWidth: 540 }}>
+        <p data-i18n="meet_sigi.p2" style={{ fontSize: 17, lineHeight: 1.6, color: SIQ.fgSubtle, marginBottom: 32, maxWidth: 540 }}>
           He's friendly, patient, and ready whenever curiosity strikes.
         </p>
         <div className="siq-grid-2" style={{ display: 'grid', gridTemplateColumns: 'repeat(2, 1fr)', gap: 16, maxWidth: 520 }}>
           {[
-            'Historical context for any issue',
-            'Conversational answers to your questions',
-            'Identify themes and series',
-            'Tips for organizing and preserving',
+            { text: 'Historical context for any issue',          key: 'meet_sigi.feature.1' },
+            { text: 'Conversational answers to your questions',  key: 'meet_sigi.feature.2' },
+            { text: 'Identify themes and series',                key: 'meet_sigi.feature.3' },
+            { text: 'Tips for organizing and preserving',        key: 'meet_sigi.feature.4' },
           ].map(s => (
-            <div key={s} style={{ display: 'flex', gap: 12, alignItems: 'flex-start' }}>
+            <div key={s.text} style={{ display: 'flex', gap: 12, alignItems: 'flex-start' }}>
               <span style={{
                 flexShrink: 0, width: 22, height: 22, borderRadius: '50%',
                 background: SIQ.green, color: 'white',
                 display: 'inline-flex', alignItems: 'center', justifyContent: 'center', marginTop: 1,
               }}><Icons.Check size={14}/></span>
-              <span style={{ fontSize: 15, color: SIQ.fg, lineHeight: 1.55 }}>{s}</span>
+              <span data-i18n={s.key} style={{ fontSize: 15, color: SIQ.fg, lineHeight: 1.55 }}>{s.text}</span>
             </div>
           ))}
         </div>
