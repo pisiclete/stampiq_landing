@@ -36,7 +36,7 @@ const FAQ = () => (
     <div className="siq-container" style={{ maxWidth: 880, margin: '0 auto', padding: '0 24px' }}>
       <div style={{ textAlign: 'center', marginBottom: 50 }}>
         <SectionEyebrow><span data-i18n="faq.eyebrow">FAQ</span></SectionEyebrow>
-        <GradientHeadline className="siq-headline"><span data-i18n="faq.headline">Questions, answered.</span></GradientHeadline>
+        <GradientHeadline className="siq-headline"><span data-i18n="faq.headline">Questions, answered</span></GradientHeadline>
       </div>
       <div style={{ display: 'grid', gap: 14 }}>
         <FAQItem k="countries" defaultOpen q="Which countries' stamps can StampIQ identify?"
@@ -136,7 +136,7 @@ const FinalCTA = () => (
 
     <div className="siq-container siq-final-cta-content" style={{ maxWidth: 900, margin: '0 auto', padding: '0 24px', position: 'relative', zIndex: 1, textAlign: 'center' }}>
       <h2 data-i18n="final_cta.headline" className="siq-final-cta-h1" style={{ fontSize: 'clamp(36px, 5vw, 56px)', fontWeight: 800, lineHeight: 1.1, color: 'white', margin: '0 0 20px', textWrap: 'balance' }}>
-        Keep collecting smarter.
+        Keep collecting smarter
       </h2>
       <p data-i18n="final_cta.body" style={{ fontSize: 19, color: 'rgba(255,255,255,0.92)', lineHeight: 1.55, margin: '0 auto 36px', maxWidth: 540 }}>
         Free download. No card required. Your collection on every device.

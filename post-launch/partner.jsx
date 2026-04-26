@@ -12,7 +12,7 @@ const Partner = () => {
       <div className="siq-container" style={{ maxWidth: 1100, margin: '0 auto', padding: '0 24px' }}>
         <div style={{ textAlign: 'center', marginBottom: 50 }}>
           <SectionEyebrow><span data-i18n="partner.eyebrow">Partnerships</span></SectionEyebrow>
-          <GradientHeadline className="siq-headline" style={{ marginBottom: 16 }}><span data-i18n="partner.headline">Partner with StampIQ.</span></GradientHeadline>
+          <GradientHeadline className="siq-headline" style={{ marginBottom: 16 }}><span data-i18n="partner.headline">Partner with StampIQ</span></GradientHeadline>
           <p data-i18n="partner.body" style={{ fontSize: 18, color: SIQ.fgSubtle, maxWidth: 640, margin: '0 auto', lineHeight: 1.6 }}>
             We're building the future of stamp collecting and we'd love to collaborate with dealers, philatelic associations, catalog publishers, and the wider collecting community.
           </p>

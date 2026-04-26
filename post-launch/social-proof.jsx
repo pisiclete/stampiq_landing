@@ -5,7 +5,7 @@ const Press = () => (
     <div className="siq-container" style={{ maxWidth: 1100, margin: '0 auto', padding: '0 24px' }}>
       <div style={{ textAlign: 'center', marginBottom: 50 }}>
         <SectionEyebrow><span data-i18n="press.eyebrow">Press</span></SectionEyebrow>
-        <GradientHeadline className="siq-headline" style={{ marginBottom: 14 }}><span data-i18n="press.headline">Featured in print.</span></GradientHeadline>
+        <GradientHeadline className="siq-headline" style={{ marginBottom: 14 }}><span data-i18n="press.headline">Featured in print</span></GradientHeadline>
         <p data-i18n="press.body" style={{ fontSize: 17, color: SIQ.fgSubtle, maxWidth: 580, margin: '0 auto', lineHeight: 1.6 }}>
           Recognized by leading philately publications.
         </p>
@@ -65,8 +65,8 @@ const Press = () => (
 const Founder = () => (
   <section className="siq-section" style={{ padding: '110px 0', background: '#F9F9F9' }}>
     <div className="siq-container" style={{ maxWidth: 900, margin: '0 auto', padding: '0 24px', textAlign: 'center' }}>
-      <SectionEyebrow><span data-i18n="founder.eyebrow">One frustrated collector. One better way.</span></SectionEyebrow>
-      <GradientHeadline className="siq-headline" style={{ marginBottom: 30 }}><span data-i18n="founder.headline">Built by collectors, for collectors.</span></GradientHeadline>
+      <SectionEyebrow><span data-i18n="founder.eyebrow">One frustrated collector. One better way</span></SectionEyebrow>
+      <GradientHeadline className="siq-headline" style={{ marginBottom: 30 }}><span data-i18n="founder.headline">Built by collectors, for collectors</span></GradientHeadline>
       <div style={{ display: 'flex', justifyContent: 'center', gap: 14, marginBottom: 36, flexWrap: 'wrap' }}>
         {[1, 2, 3].map(i => (
           <img key={i} src={`assets/founder/portrait-${i}.webp`} alt="" style={{

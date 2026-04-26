@@ -130,7 +130,7 @@ const ThreeActs = () => (
       idx={1}
       i18nBase="act1"
       eyebrow="Scan & Identify"
-      title="Point your camera. Get an instant answer."
+      title="Point your camera. Get an instant answer"
       body="SigiVision™ recognition technology identifies stamps from supported catalogs in under one second. No more thumbing through paper catalogs for an unknown issue."
       bullets={[
         'Single-tap recognition for one stamp at a time',
@@ -149,7 +149,7 @@ const ThreeActs = () => (
       idx={2}
       i18nBase="act2"
       eyebrow="Collect & Organize"
-      title="Your complete collection, always with you."
+      title="Your complete collection, always with you"
       body="Managing a collection shouldn't require endless lists and scattered notebooks. Organize by country, theme, or series. Track condition, value, and certificates. Add personal photos and notes."
       bullets={[
         'Organize by country, theme, or series',
@@ -164,8 +164,8 @@ const ThreeActs = () => (
     <Act
       idx={3}
       i18nBase="act3"
-      eyebrow="Bulk Scan & Digitalize"
-      title="Identify 40+ stamps in a single photo."
+      eyebrow="Scan Bulk & Digitalize"
+      title="Identify 40+ stamps in a single photo"
       body="Snap one photo of an album page and SigiVision™ detects every stamp at once — automatically cropping and matching against the catalog. The fastest way to digitalize a lifetime of philately."
       bullets={[
         'Detect dozens of stamps from one image',
@@ -181,7 +181,7 @@ const ThreeActs = () => (
       i18nBase="act4"
       dark
       eyebrow="Explore & Discover"
-      title="Philately beyond the desk."
+      title="Philately beyond the desk"
       body="See stamps as windows into the real world. Discover places near you depicted on stamps in your collection — buildings, monuments, landscapes. Turn a Sunday walk into a stamp adventure."
       bullets={[
         'Discover stamp locations on an interactive map',
@@ -203,7 +203,7 @@ const SigiVision = () => (
     <div className="siq-container" style={{ maxWidth: 1100, margin: '0 auto', padding: '0 24px', textAlign: 'center', position: 'relative', zIndex: 1 }}>
       <SectionEyebrow><span data-i18n="sigivision.eyebrow">The Technology</span></SectionEyebrow>
       <GradientHeadline className="siq-headline" style={{ marginBottom: 18, maxWidth: 880, margin: '0 auto 18px' }}>
-        <span data-i18n="sigivision.headline">SigiVision™ — recognition trained on real philately.</span>
+        <span data-i18n="sigivision.headline">SigiVision™ — recognition trained on real stamps and catalogs</span>
       </GradientHeadline>
       <p data-i18n="sigivision.body" style={{ fontSize: 19, color: SIQ.fgSubtle, lineHeight: 1.6, maxWidth: 720, margin: '0 auto 60px' }}>
         Our recognition engine is built specifically for stamps — not generic image classification. Every model is tuned per country catalog and validated against certified references.
@@ -248,7 +248,7 @@ const MeetSigi = () => (
       </div>
       <div>
         <SectionEyebrow><span data-i18n="meet_sigi.eyebrow">Your Companion</span></SectionEyebrow>
-        <GradientHeadline className="siq-headline" style={{ marginBottom: 22 }}><span data-i18n="meet_sigi.headline">Meet Sigi.</span></GradientHeadline>
+        <GradientHeadline className="siq-headline" style={{ marginBottom: 22 }}><span data-i18n="meet_sigi.headline">Meet Sigi</span></GradientHeadline>
         <p data-i18n="meet_sigi.p1" style={{ fontSize: 19, lineHeight: 1.6, color: SIQ.fgSubtle, marginBottom: 22, maxWidth: 540 }}>
           Sigi is your AI-powered stamp companion. Ask about a stamp's history, the story it tells, or where to start with a country you've never collected.
         </p>

@@ -17,7 +17,7 @@ const Hero = () => (
           background: `linear-gradient(135deg, ${SIQ.fg} 0%, ${SIQ.green} 100%)`,
           WebkitBackgroundClip: 'text', backgroundClip: 'text', WebkitTextFillColor: 'transparent',
           textWrap: 'balance',
-        }}>Keep Collecting Smarter.</h1>
+        }}>Keep Collecting Smarter</h1>
         <p data-i18n="hero.body" style={{ fontSize: 20, color: SIQ.fgSubtle, lineHeight: 1.55, margin: '0 0 32px', maxWidth: 540 }}>
           Discover, identify, and organize your stamps with ease. Your digital companion, built by collectors, for collectors.
         </p>

@@ -175,7 +175,7 @@ const Pricing = () => {
       <div className="siq-container" style={{ maxWidth: 1320, margin: '0 auto', padding: '0 24px' }}>
         <div style={{ textAlign: 'center', marginBottom: 56 }}>
           <SectionEyebrow><span data-i18n="pricing.eyebrow">Pricing</span></SectionEyebrow>
-          <GradientHeadline className="siq-headline" style={{ marginBottom: 16 }}><span data-i18n="pricing.headline">Choose your plan.</span></GradientHeadline>
+          <GradientHeadline className="siq-headline" style={{ marginBottom: 16 }}><span data-i18n="pricing.headline">Choose your plan</span></GradientHeadline>
           <p data-i18n="pricing.sub" style={{ fontSize: 18, color: SIQ.fgSubtle, maxWidth: 600, margin: '0 auto 32px', lineHeight: 1.6 }}>
             Try the basics free. Unlock the catalogs when you're ready.
           </p>
