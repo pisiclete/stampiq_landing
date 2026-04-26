@@ -63,7 +63,7 @@ const Press = () => (
 );
 
 const Founder = () => (
-  <section className="siq-section" style={{ padding: '110px 0', background: '#F9F9F9' }}>
+  <section id="about" className="siq-section" style={{ padding: '110px 0', background: '#F9F9F9' }}>
     <div className="siq-container" style={{ maxWidth: 900, margin: '0 auto', padding: '0 24px', textAlign: 'center' }}>
       <SectionEyebrow><span data-i18n="founder.eyebrow">One frustrated collector. One better way</span></SectionEyebrow>
       <GradientHeadline className="siq-headline" style={{ marginBottom: 30 }}><span data-i18n="founder.headline">Built by collectors, for collectors</span></GradientHeadline>

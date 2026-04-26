@@ -43,7 +43,7 @@
     "key": "hero.heading",
     "section/location": "Main Heading",
     "en": "Your Digital Stamp Collecting Companion",
-    "de": "Dein digitaler Begleiter fürs\u00A0Briefmarkensammeln",
+    "de": "Dein digitaler Begleiter fürs Briefmarkensammeln",
     "nl": "De slimme app voor jouw postzegelcollectie",
     "pl": "Twój cyfrowy towarzysz w kolekcjonowaniu znaczków",
     "fr": "L’appli intelligente pour votre collection de timbres",
@@ -1351,23 +1351,23 @@
   },
   {
     "key": "footer.copyright",
-    "section/location": "Line 1",
-    "en": "© 2025 StampIQ. Keep Collecting Smarter.",
-    "de": "© 2025 StampIQ. Sammle smarter.",
-    "nl": "© 2025 StampIQ. Verzamel slimmer.",
-    "pl": "© 2025 StampIQ. Kolekcjonuj mądrzej.",
-    "fr": "© 2025 StampIQ. Collectionnez plus intelligemment.",
-    "it": "© 2025 StampIQ. Colleziona in modo più intelligente."
+    "section/location": "Footer — copyright line",
+    "en": "© 2026 StampIQ · Designed and built in Switzerland · support@stampiq.io",
+    "de": "© 2026 StampIQ · Designed und entwickelt in der Schweiz · support@stampiq.io",
+    "nl": "© 2026 StampIQ · Ontworpen en ontwikkeld in Zwitserland · support@stampiq.io",
+    "pl": "© 2026 StampIQ · Zaprojektowane i zbudowane w Szwajcarii · support@stampiq.io",
+    "fr": "© 2026 StampIQ · Conçu et développé en Suisse · support@stampiq.io",
+    "it": "© 2026 StampIQ · Progettato e realizzato in Svizzera · support@stampiq.io"
   },
   {
     "key": "footer.tagline",
-    "section/location": "Line 2",
-    "en": "Designed and built in Switzerland for collectors everywhere.",
-    "de": "Entwickelt und gebaut in der Schweiz – für Sammlerinnen und Sammler weltweit.",
-    "nl": "Ontworpen en gebouwd in Zwitserland – voor verzamelaars overal.",
-    "pl": "Zaprojektowane i stworzone w Szwajcarii – dla kolekcjonerów na całym świecie.",
-    "fr": "Conçu et développé en Suisse – pour les collectionneurs du monde entier.",
-    "it": "Progettato e sviluppato in Svizzera – per i collezionisti di tutto il mondo."
+    "section/location": "Footer — brand tagline",
+    "en": "Your digital stamp collecting companion. Built in Switzerland for collectors everywhere.",
+    "de": "Dein digitaler Begleiter beim Briefmarkensammeln. In der Schweiz entwickelt — für Sammler weltweit.",
+    "nl": "Je digitale maatje voor het verzamelen van postzegels. Gemaakt in Zwitserland, voor verzamelaars wereldwijd.",
+    "pl": "Twój cyfrowy towarzysz w kolekcjonowaniu znaczków. Stworzony w Szwajcarii dla kolekcjonerów na całym świecie.",
+    "fr": "Ton compagnon numérique de collection de timbres. Conçu en Suisse pour les collectionneurs du monde entier.",
+    "it": "Il tuo compagno digitale per il collezionismo di francobolli. Creato in Svizzera per i collezionisti di tutto il mondo."
   },
   {
     "key": "footer.privacy_policy",
@@ -1408,5 +1408,225 @@
     "pl": "Operator: Marius Dygudaj • Zug, Szwajcaria",
     "fr": "Exploité par Marius Dygudaj • Zoug, Suisse",
     "it": "Gestito da Marius Dygudaj • Zugo, Svizzera"
+  },
+  {
+    "key": "footer.company.press",
+    "section/location": "Footer — Company link",
+    "en": "Press",
+    "de": "Presse",
+    "nl": "Pers",
+    "pl": "Prasa",
+    "fr": "Presse",
+    "it": "Stampa"
+  },
+  {
+    "key": "footer.product.sigivision",
+    "section/location": "Footer — Product link",
+    "en": "SigiVision",
+    "de": "SigiVision",
+    "nl": "SigiVision",
+    "pl": "SigiVision",
+    "fr": "SigiVision",
+    "it": "SigiVision"
+  },
+  {
+    "key": "footer.legal.terms",
+    "section/location": "Footer — Legal link",
+    "en": "Terms",
+    "de": "Nutzungsbedingungen",
+    "nl": "Voorwaarden",
+    "pl": "Warunki",
+    "fr": "Conditions",
+    "it": "Termini"
+  },
+  {
+    "key": "footer.product.features",
+    "section/location": "Footer — Product link",
+    "en": "Features",
+    "de": "Funktionen",
+    "nl": "Functies",
+    "pl": "Funkcje",
+    "fr": "Fonctionnalités",
+    "it": "Funzionalità"
+  },
+  {
+    "key": "footer.product.pricing",
+    "section/location": "Footer — Product link",
+    "en": "Pricing",
+    "de": "Preise",
+    "nl": "Prijzen",
+    "pl": "Cennik",
+    "fr": "Tarifs",
+    "it": "Prezzi"
+  },
+  {
+    "key": "footer.company.contact",
+    "section/location": "Footer — Company link",
+    "en": "Contact",
+    "de": "Kontakt",
+    "nl": "Contact",
+    "pl": "Kontakt",
+    "fr": "Contact",
+    "it": "Contatto"
+  },
+  {
+    "key": "footer.company.about",
+    "section/location": "Footer — Company link",
+    "en": "About",
+    "de": "Über uns",
+    "nl": "Over",
+    "pl": "O nas",
+    "fr": "À propos",
+    "it": "Chi siamo"
+  },
+  {
+    "key": "footer.col.product",
+    "section/location": "Footer — Product column title",
+    "en": "Product",
+    "de": "Produkt",
+    "nl": "Product",
+    "pl": "Produkt",
+    "fr": "Produit",
+    "it": "Prodotto"
+  },
+  {
+    "key": "footer.supporting",
+    "section/location": "Footer — supporting countries",
+    "en": "Supporting CH · DE · AT · LI · NL · PL",
+    "de": "Mit Katalogen für CH · DE · AT · LI · NL · PL",
+    "nl": "Ondersteunt CH · DE · AT · LI · NL · PL",
+    "pl": "Obsługujemy CH · DE · AT · LI · NL · PL",
+    "fr": "Catalogues : CH · DE · AT · LI · NL · PL",
+    "it": "Disponibile per CH · DE · AT · LI · NL · PL"
+  },
+  {
+    "key": "footer.legal.privacy",
+    "section/location": "Footer — Legal link",
+    "en": "Privacy",
+    "de": "Datenschutz",
+    "nl": "Privacy",
+    "pl": "Prywatność",
+    "fr": "Confidentialité",
+    "it": "Privacy"
+  },
+  {
+    "key": "footer.product.faq",
+    "section/location": "Footer — Product link",
+    "en": "FAQ",
+    "de": "FAQ",
+    "nl": "FAQ",
+    "pl": "FAQ",
+    "fr": "FAQ",
+    "it": "FAQ"
+  },
+  {
+    "key": "footer.col.company",
+    "section/location": "Footer — Company column title",
+    "en": "Company",
+    "de": "Unternehmen",
+    "nl": "Bedrijf",
+    "pl": "Firma",
+    "fr": "Entreprise",
+    "it": "Azienda"
+  },
+  {
+    "key": "footer.col.legal",
+    "section/location": "Footer — Legal column title",
+    "en": "Legal",
+    "de": "Rechtliches",
+    "nl": "Juridisch",
+    "pl": "Informacje prawne",
+    "fr": "Mentions légales",
+    "it": "Note legali"
+  },
+  {
+    "key": "nav.features",
+    "section/location": "Header nav",
+    "en": "Features",
+    "de": "Funktionen",
+    "nl": "Functies",
+    "pl": "Funkcje",
+    "fr": "Fonctionnalités",
+    "it": "Funzionalità"
+  },
+  {
+    "key": "pill.available",
+    "section/location": "Pill — Now Available status",
+    "en": "Now Available",
+    "de": "Jetzt verfügbar",
+    "nl": "Nu beschikbaar",
+    "pl": "Już dostępna",
+    "fr": "Maintenant disponible",
+    "it": "Ora disponibile"
+  },
+  {
+    "key": "nav.sigivision",
+    "section/location": "Header nav",
+    "en": "SigiVision",
+    "de": "SigiVision",
+    "nl": "SigiVision",
+    "pl": "SigiVision",
+    "fr": "SigiVision",
+    "it": "SigiVision"
+  },
+  {
+    "key": "pill.swiss_made",
+    "section/location": "Pill — Swiss Made (header + footer)",
+    "en": "Swiss Made",
+    "de": "Swiss Made",
+    "nl": "Swiss Made",
+    "pl": "Swiss Made",
+    "fr": "Swiss Made",
+    "it": "Swiss Made"
+  },
+  {
+    "key": "nav.faq",
+    "section/location": "Header nav",
+    "en": "FAQ",
+    "de": "FAQ",
+    "nl": "FAQ",
+    "pl": "FAQ",
+    "fr": "FAQ",
+    "it": "FAQ"
+  },
+  {
+    "key": "nav.press",
+    "section/location": "Header nav",
+    "en": "Press",
+    "de": "Presse",
+    "nl": "Pers",
+    "pl": "Prasa",
+    "fr": "Presse",
+    "it": "Stampa"
+  },
+  {
+    "key": "nav.download",
+    "section/location": "Header CTA button",
+    "en": "Download",
+    "de": "Download",
+    "nl": "Download",
+    "pl": "Pobierz",
+    "fr": "Télécharger",
+    "it": "Scarica"
+  },
+  {
+    "key": "nav.partners",
+    "section/location": "Header nav",
+    "en": "Partners",
+    "de": "Partner",
+    "nl": "Partners",
+    "pl": "Partnerzy",
+    "fr": "Partenaires",
+    "it": "Partner"
+  },
+  {
+    "key": "nav.pricing",
+    "section/location": "Header nav",
+    "en": "Pricing",
+    "de": "Preise",
+    "nl": "Prijzen",
+    "pl": "Cennik",
+    "fr": "Tarifs",
+    "it": "Prezzi"
   }
 ]

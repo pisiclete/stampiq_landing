@@ -170,7 +170,7 @@ const Footer = () => (
           ]},
           { title: 'Company', i18nKey: 'footer.col.company', items: [
             { label: 'Press',       href: '#press',                          i18nKey: 'footer.company.press' },
-            { label: 'About',       href: '#',                               i18nKey: 'footer.company.about' },
+            { label: 'About',       href: '#about',                          i18nKey: 'footer.company.about' },
             { label: 'Contact',     href: 'mailto:support@stampiq.io',       i18nKey: 'footer.company.contact' },
           ]},
           { title: 'Legal', i18nKey: 'footer.col.legal', items: [
