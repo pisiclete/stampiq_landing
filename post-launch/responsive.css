@@ -1,0 +1,344 @@
+/* ==========================================================================
+   StampIQ post-launch — RESPONSIVE
+   Breakpoints: ≤1100 (small desktop), ≤900 (tablet), ≤640 (phone), ≤420 (small phone)
+   Mobile is treated as a first-class design surface — content reflows AND
+   visual rhythm changes (Sigi poses repositioned not hidden, padding revised,
+   alignment shifts to centered).
+   ========================================================================== */
+
+html, body { overflow-x: hidden; }
+
+/* ============================================================
+   SECTION PADDING — tighter rhythm on mobile
+   ============================================================ */
+@media (max-width: 900px) {
+  .siq-section     { padding: 72px 0 !important; }
+  .siq-section-cta { padding: 96px 0 80px !important; }
+}
+@media (max-width: 640px) {
+  .siq-section     { padding: 56px 0 !important; }
+  .siq-section-cta { padding: 72px 0 64px !important; }
+}
+
+/* ============================================================
+   CONTAINER PADDING
+   ============================================================ */
+@media (max-width: 640px) {
+  .siq-container { padding-left: 20px !important; padding-right: 20px !important; }
+}
+@media (max-width: 420px) {
+  .siq-container { padding-left: 16px !important; padding-right: 16px !important; }
+}
+
+/* ============================================================
+   GRIDS — collapse with thoughtful gaps
+   ============================================================ */
+/* Generic 2-col → 1-col on phone */
+@media (max-width: 640px) {
+  .siq-grid-2 { grid-template-columns: 1fr !important; gap: 14px !important; }
+}
+
+/* 3-col Pricing tiers */
+@media (max-width: 900px) {
+  .siq-grid-3 {
+    grid-template-columns: 1fr !important;
+    gap: 18px !important;
+    max-width: 460px;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+  /* Disable the "popular" card lift on mobile — stacked vertically it just creates an uneven gap below Premium */
+  .siq-grid-3 > div { transform: none !important; }
+}
+
+/* 4-col stat grid (SigiVision) */
+@media (max-width: 900px) {
+  .siq-grid-4 { grid-template-columns: repeat(2, 1fr) !important; gap: 16px !important; }
+}
+@media (max-width: 480px) {
+  .siq-grid-4 { grid-template-columns: 1fr !important; }
+}
+
+/* Side-by-side splits (Hero, Acts, MeetSigi) — STACK with phone ABOVE text */
+@media (max-width: 900px) {
+  .siq-split {
+    grid-template-columns: 1fr !important;
+    gap: 36px !important;
+    text-align: center !important;
+  }
+  .siq-split > * { order: unset !important; }
+  /* Phone-wrap goes FIRST (visual hook leads) */
+  .siq-split .siq-phone-wrap { order: -1 !important; min-height: 0 !important; }
+  /* Body text inside the split stays max-width-540 but centers */
+  .siq-split p { max-width: 540px !important; margin-left: auto !important; margin-right: auto !important; }
+  .siq-split .siq-bullets { max-width: 480px; margin-left: auto !important; margin-right: auto !important; }
+  /* Bullet list should remain left-aligned, but centered as a block */
+  .siq-split ul { display: inline-block; text-align: left; margin-left: auto !important; margin-right: auto !important; }
+  /* Inline accent pill centers */
+  .siq-split .siq-accent { margin-left: auto !important; margin-right: auto !important; display: inline-flex !important; }
+  /* Country pill row centers */
+  .siq-split .siq-countries { justify-content: center !important; }
+}
+
+/* Press card */
+@media (max-width: 900px) {
+  .siq-press {
+    grid-template-columns: 1fr !important;
+    gap: 28px !important;
+    padding: 28px !important;
+    text-align: center;
+  }
+  .siq-press > div > p { text-align: left !important; }
+  .siq-press a[href$=".pdf"] { max-width: 280px; margin: 0 auto; }
+}
+@media (max-width: 640px) {
+  .siq-press { padding: 24px !important; border-radius: 16px !important; }
+}
+
+/* Footer columns — REDESIGNED for mobile */
+@media (max-width: 900px) {
+  .siq-footer-grid {
+    grid-template-columns: 1fr 1fr 1fr !important;
+    gap: 36px 24px !important;
+    text-align: left !important;
+  }
+  /* Brand col spans full width on tablet/phone, centered */
+  .siq-footer-brand {
+    grid-column: 1 / -1 !important;
+    text-align: center !important;
+    max-width: 360px;
+    margin: 0 auto !important;
+  }
+  .siq-footer-brand p { margin-left: auto !important; margin-right: auto !important; }
+  .siq-footer-brand > svg { margin-left: auto !important; margin-right: auto !important; }
+  /* Center each link col on mobile */
+  .siq-footer-grid > div:not(.siq-footer-brand) { text-align: center !important; }
+}
+@media (max-width: 640px) {
+  .siq-footer-grid {
+    grid-template-columns: 1fr 1fr 1fr !important;
+    gap: 28px 16px !important;
+    max-width: 480px;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+  /* Tighter type at phone scale */
+  .siq-footer-grid > div:not(.siq-footer-brand) > div:first-child {
+    font-size: 12px !important;
+    margin-bottom: 12px !important;
+  }
+  .siq-footer-grid > div:not(.siq-footer-brand) a {
+    font-size: 13px !important;
+  }
+  .siq-footer-grid > div:not(.siq-footer-brand) li {
+    margin-bottom: 8px !important;
+  }
+}
+@media (max-width: 380px) {
+  /* Very narrow — collapse to 1 col + center */
+  .siq-footer-grid { grid-template-columns: 1fr !important; gap: 24px !important; }
+}
+
+/* Footer copyright row — stack and center on mobile */
+@media (max-width: 640px) {
+  .siq-footer-copyright {
+    flex-direction: column !important;
+    justify-content: center !important;
+    text-align: center !important;
+    gap: 10px !important;
+    padding-top: 28px !important;
+  }
+  .siq-footer-copyright > div { text-align: center !important; }
+}
+
+/* ============================================================
+   HEADER — tighter, hide nav links on small
+   ============================================================ */
+@media (max-width: 900px) {
+  .siq-nav { padding: 12px 20px !important; gap: 12px !important; }
+  .siq-nav-links { display: none !important; }
+  .siq-nav-pills { gap: 8px !important; }
+  .siq-nav-pill { display: none !important; }
+}
+
+/* ============================================================
+   TYPE SCALE — mobile hierarchy
+   ============================================================ */
+@media (max-width: 900px) {
+  .siq-h1            { font-size: 48px !important; line-height: 1.05 !important; letter-spacing: -0.02em !important; }
+  .siq-section-title { font-size: 36px !important; line-height: 1.1 !important; }
+  .siq-headline      { font-size: 38px !important; line-height: 1.1 !important; }
+  .siq-final-cta-h1  { font-size: 40px !important; line-height: 1.08 !important; }
+}
+@media (max-width: 640px) {
+  .siq-h1            { font-size: 36px !important; }
+  .siq-section-title { font-size: 28px !important; }
+  .siq-headline      { font-size: 30px !important; }
+  .siq-final-cta-h1  { font-size: 32px !important; }
+}
+@media (max-width: 420px) {
+  .siq-h1            { font-size: 32px !important; }
+}
+
+/* ============================================================
+   HERO — mobile composition
+   - Phone+Sigi block centered ABOVE the text
+   - Stats become 2x2 centered grid
+   ============================================================ */
+@media (max-width: 900px) {
+  .siq-hero-stats {
+    display: grid !important;
+    grid-template-columns: repeat(4, auto) !important;
+    justify-content: center !important;
+    gap: 24px !important;
+  }
+  .siq-hero-stat-v { font-size: 28px !important; }
+  .siq-hero-stat-l { font-size: 12px !important; }
+  /* Hero badges (App Store / Google Play) — center on mobile */
+  .siq-hero-badges { justify-content: center !important; }
+  /* Available pill above headline — centered */
+  .siq-hero-pill-row { display: flex !important; justify-content: center !important; }
+}
+@media (max-width: 640px) {
+  .siq-hero-stats {
+    grid-template-columns: repeat(2, auto) !important;
+    gap: 22px 32px !important;
+  }
+}
+
+/* ============================================================
+   PHONE MOCKUP — keep visible, modestly smaller on phone
+   ============================================================ */
+@media (max-width: 640px) {
+  .siq-phone-wrap { min-height: 0 !important; }
+}
+
+/* ============================================================
+   SIGI POSES — reposition smaller, KEEP visible
+   On mobile, Sigis tuck CLOSER to / behind the phone instead of
+   floating in the gutter.
+   ============================================================ */
+@media (max-width: 900px) {
+  /* Background "stamp silhouette" decorations in hero — shrink and reposition tighter */
+  .siq-phone-wrap > img[src*="stamp-silhouette"] {
+    width: 110px !important;
+    opacity: 0.7 !important;
+  }
+  /* Hero stamps — pull tighter to phone (override translateX) */
+  .siq-phone-wrap > img[src*="stamp-silhouette"]:nth-of-type(1) {
+    transform: translateX(-90%) rotate(-18deg) !important;
+    top: 4% !important;
+  }
+  .siq-phone-wrap > img[src*="stamp-silhouette"]:nth-of-type(2) {
+    transform: translateX(0%) rotate(15deg) !important;
+    top: 14% !important;
+  }
+  .siq-phone-wrap > img[src*="stamp-silhouette"]:nth-of-type(3) {
+    transform: translateX(-110%) rotate(22deg) !important;
+    bottom: 8% !important;
+  }
+  /* The 4th one off-page right edge — hide on mobile, it's just clipped */
+  .siq-phone-wrap > img[src*="stamp-silhouette"]:nth-of-type(4) {
+    display: none !important;
+  }
+  /* Hero waving Sigi — pull in closer */
+  .siq-hero-sigi {
+    width: 150px !important;
+    right: -10px !important;
+    bottom: -10px !important;
+  }
+  /* Act-section Sigi — tuck behind/beside phone instead of floating in gutter */
+  .siq-act-sigi {
+    width: 130px !important;
+    left: auto !important;
+    right: -10px !important;
+    bottom: 20px !important;
+  }
+  /* Meet Sigi pose — pull in */
+  .siq-meet-sigi-pose {
+    width: 140px !important;
+    right: -10px !important;
+    top: -20px !important;
+  }
+}
+@media (max-width: 640px) {
+  .siq-phone-wrap > img[src*="stamp-silhouette"] {
+    width: 80px !important;
+  }
+  .siq-hero-sigi {
+    width: 120px !important;
+    right: 0 !important;
+    bottom: 0 !important;
+  }
+  .siq-act-sigi {
+    width: 110px !important;
+    right: 0 !important;
+    bottom: 30px !important;
+  }
+  .siq-meet-sigi-pose {
+    width: 120px !important;
+    right: 0 !important;
+    top: -10px !important;
+  }
+}
+
+/* The huge background SigiSilhouette behind Acts — keep but shrink */
+@media (max-width: 900px) {
+  .siq-bg-silhouette {
+    width: 360px !important; height: 460px !important;
+    opacity: 0.7 !important;
+  }
+}
+@media (max-width: 640px) {
+  .siq-bg-silhouette {
+    width: 240px !important; height: 320px !important;
+  }
+}
+
+/* Final CTA Sigi — HIDE on mobile (covers headline) */
+@media (max-width: 900px) {
+  .siq-final-cta-sigi { display: none !important; }
+}
+
+/* Stamp pattern in Final CTA — reduce density / opacity on mobile */
+@media (max-width: 900px) {
+  .siq-stamp-shapes img:nth-child(odd) { display: none !important; }
+}
+@media (max-width: 640px) {
+  .siq-stamp-shapes img:nth-child(3n) { display: none !important; }
+  .siq-stamp-dots { opacity: 0.1 !important; }
+}
+
+/* ============================================================
+   SECTION INTROS / CENTERED HEADERS
+   ============================================================ */
+@media (max-width: 900px) {
+  .siq-section-intro { text-align: center !important; }
+  .siq-section-intro p { max-width: 540px !important; margin-left: auto !important; margin-right: auto !important; }
+}
+
+/* ============================================================
+   FAQ — body text scale + clip-path softer
+   ============================================================ */
+@media (max-width: 640px) {
+  .siq-faq-q { font-size: 15px !important; }
+  .siq-faq-a { font-size: 14px !important; }
+}
+@media (max-width: 900px) {
+  /* Diagonal cut on FAQ bottom — flatten on mobile, looks weird */
+  .siq-faq-section { clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%) !important; padding-bottom: 88px !important; }
+}
+
+/* ============================================================
+   FINAL CTA — content centered, badges sized down
+   ============================================================ */
+@media (max-width: 640px) {
+  .siq-final-cta-content p { font-size: 17px !important; }
+}
+
+/* ============================================================
+   STORE BADGES — center on mobile
+   ============================================================ */
+@media (max-width: 900px) {
+  .siq-store-badges { justify-content: center !important; }
+}

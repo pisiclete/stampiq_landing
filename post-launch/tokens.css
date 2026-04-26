@@ -1,0 +1,278 @@
+/* StampIQ Design System — Colors & Type Tokens
+   Source: stampiq.io landing (pisiclete/stampiq_landing) */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;600;700;800;900&display=swap');
+
+:root {
+  /* === BRAND COLORS === */
+  --siq-green:           #66E204;   /* primary brand green — Sigi green */
+  --siq-green-dark:      #52C003;   /* gradient stop, hover */
+  --siq-green-darker:    #4FA902;   /* button hover, deep accent */
+  --siq-green-deep:      #2D5016;   /* gradient stat headline accent */
+  --siq-green-light:     #A8E063;   /* gradient highlight */
+  --siq-green-tint:      #F0FCE5;   /* active language option bg */
+  --siq-green-wash-08:   rgba(102, 226, 4, 0.08);
+  --siq-green-wash-10:   rgba(102, 226, 4, 0.10);
+  --siq-green-wash-20:   rgba(102, 226, 4, 0.20);
+  --siq-green-wash-30:   rgba(102, 226, 4, 0.30);
+
+  /* === NEUTRALS === */
+  --siq-bg:              #F9F9F9;   /* page background */
+  --siq-surface:         #FFFFFF;   /* cards, header */
+  --siq-surface-alt:     #F8F9FA;   /* email-benefits panel */
+  --siq-fg:              #222222;   /* dark text */
+  --siq-fg-muted:        #888888;   /* light/secondary text */
+  --siq-border:          #E0E0E0;   /* default border */
+  --siq-border-soft:     #E9ECEF;   /* card outline */
+  --siq-divider:         #D0D0D0;   /* carousel dot inactive */
+  --siq-footer-bg:       #2D2F2A;   /* dark olive footer */
+
+  /* === SEMANTIC === */
+  --siq-flag-red:        #FF0000;   /* swiss flag */
+
+  /* === TYPOGRAPHY === */
+  --siq-font-sans:       'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+
+  --siq-fw-light:        300;
+  --siq-fw-regular:      400;
+  --siq-fw-medium:       500;
+  --siq-fw-semibold:     600;
+  --siq-fw-bold:         700;
+  --siq-fw-extrabold:    800;
+  --siq-fw-black:        900;
+
+  /* Type scale (px) — derived from landing usage */
+  --siq-fs-xs:           11px;
+  --siq-fs-sm:           13px;
+  --siq-fs-base:         15px;
+  --siq-fs-md:           16px;
+  --siq-fs-lg:           18px;
+  --siq-fs-xl:           20px;
+  --siq-fs-2xl:          24px;
+  --siq-fs-3xl:          32px;
+  --siq-fs-4xl:          40px;
+  --siq-fs-5xl:          48px;
+  --siq-fs-display:      56px;
+
+  /* Line heights */
+  --siq-lh-tight:        1.2;
+  --siq-lh-snug:         1.4;
+  --siq-lh-normal:       1.6;
+  --siq-lh-relaxed:      1.8;
+
+  /* === SPACING === */
+  --siq-space-1:         4px;
+  --siq-space-2:         8px;
+  --siq-space-3:         12px;
+  --siq-space-4:         16px;
+  --siq-space-5:         20px;
+  --siq-space-6:         24px;
+  --siq-space-8:         30px;
+  --siq-space-10:        40px;
+  --siq-space-12:        48px;
+  --siq-space-16:        60px;
+  --siq-space-20:        80px;
+  --siq-space-24:        120px;
+
+  /* === RADIUS === */
+  --siq-radius-sm:       8px;
+  --siq-radius-md:       12px;
+  --siq-radius-lg:       25px;     /* pill / capsule */
+  --siq-radius-phone:    35px;     /* phone bezel */
+  --siq-radius-full:     9999px;
+
+  /* === SHADOWS === */
+  --siq-shadow-card:     0 2px 8px rgba(0, 0, 0, 0.10);
+  --siq-shadow-soft:     0 4px 20px rgba(0, 0, 0, 0.08);
+  --siq-shadow-pop:      0 8px 30px rgba(0, 0, 0, 0.12);
+  --siq-shadow-deep:     0 10px 40px rgba(0, 0, 0, 0.15);
+  --siq-shadow-input:    0 2px 12px rgba(0, 0, 0, 0.15);
+  --siq-shadow-cta:      0 4px 15px rgba(102, 226, 4, 0.30);
+  --siq-shadow-cta-hover:0 6px 25px rgba(102, 226, 4, 0.40);
+  --siq-shadow-stamp:    0 10px 30px rgba(102, 226, 4, 0.30);
+  --siq-shadow-phone:    0 20px 40px rgba(0, 0, 0, 0.30);
+  --siq-shadow-header:   0 2px 10px rgba(0, 0, 0, 0.05);
+  --siq-shadow-dropdown: 0 4px 20px rgba(0, 0, 0, 0.15);
+
+  /* === GRADIENTS === */
+  --siq-grad-green:      linear-gradient(135deg, #66E204 0%, #52C003 100%);
+  --siq-grad-headline:   linear-gradient(135deg, #222222 0%, #66E204 100%);
+  --siq-grad-stats:      linear-gradient(135deg, #2D5016 0%, #66E204 50%, #A8E063 100%);
+  --siq-grad-usecase:    linear-gradient(135deg, #f5f5f5 0%, #e8f5e8 100%);
+
+  /* === MOTION === */
+  --siq-ease:            ease;
+  --siq-dur-quick:       0.2s;
+  --siq-dur-base:        0.3s;
+  --siq-dur-slow:        0.8s;
+
+  /* === BASE / SEMANTIC TYPE === */
+  --fg1: var(--siq-fg);
+  --fg2: var(--siq-fg-muted);
+  --bg1: var(--siq-bg);
+  --bg2: var(--siq-surface);
+  --accent: var(--siq-green);
+}
+
+/* === BASE TYPE === */
+html, body {
+  font-family: var(--siq-font-sans);
+  background: var(--siq-bg);
+  color: var(--siq-fg);
+  line-height: var(--siq-lh-normal);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* === SEMANTIC TYPE STYLES === */
+.siq-h1 {
+  font-size: clamp(32px, 5vw, 56px);
+  font-weight: var(--siq-fw-extrabold);
+  line-height: var(--siq-lh-tight);
+  background: var(--siq-grad-headline);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin: 0 0 24px;
+}
+
+.siq-h2 {
+  font-size: clamp(32px, 4vw, 48px);
+  font-weight: var(--siq-fw-bold);
+  line-height: var(--siq-lh-tight);
+  background: var(--siq-grad-headline);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin: 0 0 20px;
+  text-align: center;
+}
+
+.siq-h3 {
+  font-size: var(--siq-fs-2xl);
+  font-weight: var(--siq-fw-bold);
+  color: var(--siq-fg);
+  line-height: var(--siq-lh-tight);
+  margin: 0 0 16px;
+}
+
+.siq-h4 {
+  font-size: var(--siq-fs-xl);
+  font-weight: var(--siq-fw-semibold);
+  color: var(--siq-fg);
+  margin: 0 0 12px;
+}
+
+.siq-subtitle {
+  font-size: clamp(18px, 3vw, 24px);
+  color: var(--siq-fg-muted);
+  line-height: var(--siq-lh-normal);
+}
+
+.siq-lead {
+  font-size: var(--siq-fs-lg);
+  color: var(--siq-fg-muted);
+  line-height: var(--siq-lh-normal);
+}
+
+.siq-body {
+  font-size: var(--siq-fs-md);
+  color: var(--siq-fg);
+  line-height: var(--siq-lh-normal);
+}
+
+.siq-meta {
+  font-size: var(--siq-fs-base);
+  color: var(--siq-fg-muted);
+  line-height: var(--siq-lh-normal);
+}
+
+.siq-eyebrow {
+  font-size: var(--siq-fs-sm);
+  font-weight: var(--siq-fw-semibold);
+  letter-spacing: 0.02em;
+  color: var(--siq-fg);
+  text-transform: none;
+}
+
+.siq-stat-number {
+  font-size: var(--siq-fs-5xl);
+  font-weight: var(--siq-fw-extrabold);
+  background: var(--siq-grad-stats);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  line-height: 1;
+}
+
+.siq-signature {
+  font-size: var(--siq-fs-xl);
+  font-weight: var(--siq-fw-semibold);
+  font-style: italic;
+  color: var(--siq-fg);
+}
+
+/* === COMMON ELEMENT STYLES === */
+.siq-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--siq-green);
+  color: white;
+  padding: 6px 20px;
+  border-radius: var(--siq-radius-lg);
+  font-size: var(--siq-fs-sm);
+  font-weight: var(--siq-fw-semibold);
+}
+
+.siq-pill--neutral {
+  background: white;
+  color: var(--siq-fg);
+  border: 1px solid var(--siq-border);
+  padding: 6px 16px;
+}
+
+.siq-cta {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--siq-grad-green);
+  color: white;
+  padding: 16px 40px;
+  border-radius: var(--siq-radius-md);
+  font-size: var(--siq-fs-lg);
+  font-weight: var(--siq-fw-semibold);
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+  box-shadow: var(--siq-shadow-cta);
+  transition: transform var(--siq-dur-base) var(--siq-ease),
+              box-shadow var(--siq-dur-base) var(--siq-ease);
+}
+.siq-cta:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--siq-shadow-cta-hover);
+}
+
+.siq-card {
+  background: var(--siq-surface);
+  border-radius: var(--siq-radius-md);
+  border-left: 4px solid var(--siq-green);
+  box-shadow: var(--siq-shadow-soft);
+  padding: 40px;
+}
+
+.siq-input {
+  padding: 16px 20px;
+  border: 2px solid transparent;
+  border-radius: var(--siq-radius-md);
+  background: white;
+  font-size: var(--siq-fs-md);
+  box-shadow: var(--siq-shadow-input);
+  outline: none;
+  transition: border-color var(--siq-dur-base) var(--siq-ease),
+              box-shadow var(--siq-dur-base) var(--siq-ease);
+}
+.siq-input:focus {
+  border-color: var(--siq-green);
+  box-shadow: 0 4px 20px rgba(102, 226, 4, 0.20);
+}
