@@ -124,7 +124,9 @@ const Act = ({ idx, eyebrow, title, body, bullets, screen, dark, pose, accent, r
   );
 };
 
-const ThreeActs = () => (
+const ThreeActs = () => {
+  const lang = useLanguage();
+  return (
   <section id="features">
     <Act
       idx={1}
@@ -138,7 +140,7 @@ const ThreeActs = () => (
         'The story behind the stamp',
         'Related stamps and stamps from the series',
       ]}
-      screen="assets/screens/scan.webp"
+      screen={screenSrc('scan', lang)}
       pose={{ kind: 'magnifying', side: 'right', bottom: 0, size: 200 }}
       countries={[
         { f: '🇨🇭', c: 'CH' }, { f: '🇩🇪', c: 'DE' }, { f: '🇦🇹', c: 'AT' },
@@ -157,7 +159,7 @@ const ThreeActs = () => (
         'See what\'s missing — avoid duplicates',
         'Access your collection on any device',
       ]}
-      screen="assets/screens/catalog.webp"
+      screen={screenSrc('catalog', lang)}
       right
       pose={{ kind: 'thumbsup', side: 'left', bottom: 0, size: 190, flip: true }}
     />
@@ -173,7 +175,7 @@ const ThreeActs = () => (
         'See total detected, in collection, on the wishlist',
         'Review each match before saving',
       ]}
-      screen="assets/screens/bulk-results.webp"
+      screen={screenSrc('bulk-results', lang)}
       pose={{ kind: 'thumbsup', side: 'right', bottom: 0, size: 195 }}
     />
     <Act
@@ -189,13 +191,14 @@ const ThreeActs = () => (
         'Filter by what interests you',
         'Ask Sigi about history and context',
       ]}
-      screen="assets/screens/map.webp"
+      screen={screenSrc('map', lang)}
       right
       pose={{ kind: 'celebrating', side: 'left', bottom: 0, size: 210, flip: true }}
       silhouette
     />
   </section>
-);
+  );
+};
 
 const SigiVision = () => (
   <section id="sigivision" className="siq-section" style={{ padding: '110px 0', background: '#FFFFFF', position: 'relative', overflow: 'hidden' }}>
@@ -234,14 +237,16 @@ const SigiVision = () => (
   </section>
 );
 
-const MeetSigi = () => (
+const MeetSigi = () => {
+  const lang = useLanguage();
+  return (
   <section className="siq-section" style={{ padding: '110px 0', background: '#F9F9F9', position: 'relative', overflow: 'hidden' }}>
     <div className="siq-container siq-split" style={{
       maxWidth: 1280, margin: '0 auto', padding: '0 24px',
       display: 'grid', gridTemplateColumns: '0.9fr 1.1fr', gap: 80, alignItems: 'center',
     }}>
       <div className="siq-phone-wrap" style={{ display: 'flex', justifyContent: 'center', position: 'relative' }}>
-        <PhoneMockup src="assets/screens/chat.webp" w={280} h={580}/>
+        <PhoneMockup src={screenSrc('chat', lang)} w={280} h={580}/>
         <SigiPose pose="thinking" size={210} className="siq-meet-sigi-pose" style={{
           position: 'absolute', top: -40, right: -70, zIndex: 2,
         }}/>
@@ -275,6 +280,7 @@ const MeetSigi = () => (
       </div>
     </div>
   </section>
-);
+  );
+};
 
 Object.assign(window, { ThreeActs, SigiVision, MeetSigi });

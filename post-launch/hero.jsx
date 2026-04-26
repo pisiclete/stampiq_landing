@@ -1,6 +1,8 @@
 // StampIQ post-launch landing — Hero
 
-const Hero = () => (
+const Hero = () => {
+  const lang = useLanguage();
+  return (
   <section id="top" style={{
     position: 'relative', overflow: 'hidden',
     background: SIQ.bg,
@@ -66,7 +68,7 @@ const Hero = () => (
           width: 220, opacity: 1, transform: 'rotate(-8deg)',
           zIndex: 0, pointerEvents: 'none',
         }}/>
-        <PhoneMockup src="assets/screens/home.webp" w={300} h={620}/>
+        <PhoneMockup src={screenSrc('home', lang)} w={300} h={620}/>
         {/* Sigi waving — peeks from bottom-right */}
         <SigiPose pose="waving" size={220} className="siq-hero-sigi" style={{
           position: 'absolute', bottom: -30, right: -40, zIndex: 2,
@@ -74,6 +76,7 @@ const Hero = () => (
       </div>
     </div>
   </section>
-);
+  );
+};
 
 window.Hero = Hero;

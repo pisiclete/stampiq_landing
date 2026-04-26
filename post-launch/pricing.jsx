@@ -16,12 +16,36 @@ const PriceFeatureRow = ({ icon, title, desc, titleKey, descKey }) => (
   </div>
 );
 
+// "Save X%" is computed at runtime from the price ratio; templated per language
+// because the figure changes if pricing changes and varies slightly per country.
+const SAVE_TMPL = {
+  en: (n) => `Save ${n}%`,
+  de: (n) => `Spare ${n} %`,
+  fr: (n) => `Économise ${n} %`,
+  it: (n) => `Risparmia il ${n}%`,
+  nl: (n) => `Bespaar ${n}%`,
+  pl: (n) => `Zaoszczędź ${n}%`,
+};
+
 const Pricing = () => {
   const [billing, setBilling] = React.useState('monthly');
-  // Swiss pricing — yearly saves 17% (rounded to .90 cents)
+  const [country, setCountry] = React.useState(window.STAMPIQ_DEFAULT_COUNTRY || 'CH');
+  const lang = useLanguage();
+  React.useEffect(() => {
+    if (window.detectCountry) setCountry(window.detectCountry());
+  }, []);
+  // Per-country pricing from pricing-data.js (window.STAMPIQ_PRICING)
+  const cdata = STAMPIQ_PRICING[country] || STAMPIQ_PRICING['CH'];
+  const SYMBOL = { CHF: 'Fr.', EUR: '€', PLN: 'zł' };
+  const sym = SYMBOL[cdata.currency] || cdata.currency;
+  const num = (s) => parseFloat(String(s).replace(',', '.'));
+  const fmt = (amount) => cdata.currencyPos === 'before' ? `${sym}${amount}` : `${amount} ${sym}`;
+  // Yearly savings vs 12× monthly (using Premium as the reference plan)
+  const savePct = Math.round((1 - num(cdata.premium_yearly) / (12 * num(cdata.premium_monthly))) * 100);
+  const saveLabel = (SAVE_TMPL[lang] || SAVE_TMPL.en)(savePct);
   const prices = {
-    monthly: { premium: 'Fr.10.90', pro: 'Fr.32.90', unit: '/month' },
-    yearly:  { premium: 'Fr.108.90', pro: 'Fr.328.90', unit: '/year' },
+    monthly: { premium: fmt(cdata.premium_monthly), pro: fmt(cdata.pro_monthly), unit: '/month' },
+    yearly:  { premium: fmt(cdata.premium_yearly),  pro: fmt(cdata.pro_yearly),  unit: '/year' },
   };
   const p = prices[billing];
   const tiers = [
@@ -186,7 +210,7 @@ const Pricing = () => {
           }}>
             {[
               { key: 'monthly', label: 'Monthly', i18nKey: 'pricing.toggle.monthly' },
-              { key: 'yearly',  label: 'Yearly',  save: 'Save 17%', i18nKey: 'pricing.toggle.yearly', saveKey: 'pricing.toggle.save' },
+              { key: 'yearly',  label: 'Yearly',  save: saveLabel, i18nKey: 'pricing.toggle.yearly' },
             ].map(opt => {
               const active = billing === opt.key;
               return (
@@ -199,7 +223,7 @@ const Pricing = () => {
                   display: 'inline-flex', alignItems: 'center', gap: 8,
                 }}>
                   <span data-i18n={opt.i18nKey}>{opt.label}</span>
-                  {opt.save && <span data-i18n={opt.saveKey} style={{
+                  {opt.save && <span style={{
                     color: active ? 'white' : SIQ.greenDarker, fontWeight: 700, fontSize: 14,
                   }}>{opt.save}</span>}
                 </button>

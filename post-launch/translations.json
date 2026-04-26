@@ -734,9 +734,9 @@
     "section/location": "Pricing — sub",
     "en": "Try the basics free. Unlock the catalogs when you're ready.",
     "de": "Probiere die Grundfunktionen kostenlos. Schalte die Kataloge frei, wenn du bereit bist.",
-    "nl": "Probeer de basis gratis. Ontgrendel de catalogi wanneer je er klaar voor bent.",
-    "pl": "Wypróbuj podstawy za darmo. Odblokuj katalogi, gdy będziesz gotów.",
-    "fr": "Essaie les bases gratuitement. Débloque les catalogues quand tu es prêt.",
+    "nl": "Probeer de basisfuncties gratis. Ontgrendel de catalogi wanneer je er klaar voor bent.",
+    "pl": "Zacznij za darmo. Odblokuj pełne katalogi, kiedy zechcesz.",
+    "fr": "Essaie les fonctions de base gratuitement. Débloque les catalogues quand tu es prêt.",
     "it": "Prova le funzioni base gratuitamente. Sblocca i cataloghi quando sei pronto."
   },
   {
@@ -745,7 +745,7 @@
     "en": "Monthly",
     "de": "Monatlich",
     "nl": "Maandelijks",
-    "pl": "Miesięczna",
+    "pl": "Miesięcznie",
     "fr": "Mensuel",
     "it": "Mensile"
   },
@@ -755,19 +755,9 @@
     "en": "Yearly",
     "de": "Jährlich",
     "nl": "Jaarlijks",
-    "pl": "Roczna",
+    "pl": "Rocznie",
     "fr": "Annuel",
     "it": "Annuale"
-  },
-  {
-    "key": "pricing.toggle.save",
-    "section/location": "Pricing — yearly save callout",
-    "en": "Save 17%",
-    "de": "Spare 17 %",
-    "nl": "Bespaar 17%",
-    "pl": "Oszczędź 17%",
-    "fr": "Économise 17 %",
-    "it": "Risparmia il 17%"
   },
   {
     "key": "pricing.most_popular",

@@ -208,3 +208,27 @@ Object.assign(window, {
   SIQ, Logo, Icons, Pill, PhoneMockup, SectionEyebrow, SectionTitle, GradientHeadline,
   StoreBadges, SigiVisionMark, SigiPose, SigiSilhouette, SIGI_POSES,
 });
+
+// ---- Language hook + per-language screen src ----
+// Mirrors i18n.js's pickLanguage cascade so JSX can branch on language even
+// before the i18n loader resolves. Re-renders on the LanguageSelector's
+// `languagechange` event.
+const SUPPORTED_LANGS_FOR_SCREENS = ['en', 'de', 'nl', 'pl', 'fr', 'it'];
+const useLanguage = () => {
+  const [lang, setLang] = React.useState(() => {
+    const saved = localStorage.getItem('language');
+    const browser = (navigator.language || 'en').split('-')[0];
+    if (saved && SUPPORTED_LANGS_FOR_SCREENS.includes(saved)) return saved;
+    if (SUPPORTED_LANGS_FOR_SCREENS.includes(browser)) return browser;
+    return 'en';
+  });
+  React.useEffect(() => {
+    const onLang = (e) => { if (e.detail && e.detail.lang) setLang(e.detail.lang); };
+    window.addEventListener('languagechange', onLang);
+    return () => window.removeEventListener('languagechange', onLang);
+  }, []);
+  return lang;
+};
+const screenSrc = (name, lang) => `assets/screens/${lang}/${name}.webp`;
+window.useLanguage = useLanguage;
+window.screenSrc = screenSrc;
