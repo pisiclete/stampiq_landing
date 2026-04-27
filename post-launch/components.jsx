@@ -141,10 +141,10 @@ const StoreBadges = ({ light = false, size = 'normal' }) => {
   const h = size === 'large' ? 60 : 54;
   return (
     <div className="siq-store-badges" style={{ display: 'flex', gap: 14, flexWrap: 'wrap', alignItems: 'center' }}>
-      <a href="#" style={{ display: 'block', borderRadius: 8, overflow: 'hidden' }}>
+      <a href="https://apps.apple.com/app/id6760778035" style={{ display: 'block', borderRadius: 8, overflow: 'hidden' }}>
         <img src="assets/badges/app-store.svg" alt="App Store" style={{ height: h, display: 'block' }}/>
       </a>
-      <a href="#" style={{ display: 'block', borderRadius: 8, overflow: 'hidden' }}>
+      <a href="https://play.google.com/store/apps/details?id=io.stampiq.app" style={{ display: 'block', borderRadius: 8, overflow: 'hidden' }}>
         <img src="assets/badges/play-store.svg?v=2" alt="Google Play" style={{ height: h, display: 'block' }}/>
       </a>
     </div>
