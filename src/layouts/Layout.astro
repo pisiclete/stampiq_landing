@@ -109,7 +109,14 @@ const hrefForLang = (l: string) => l === 'en'
 
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet" />
+    <!-- Load the Google Fonts stylesheet asynchronously: the `media="print"`
+         hack means the browser doesn't block rendering on it; the onload
+         handler then promotes it to all media so the font actually applies.
+         Falls back to the system font during the brief load window. -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;600;700;800;900&display=swap" media="print" onload="this.media='all'" />
+    <noscript>
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;600;700;800;900&display=swap" />
+    </noscript>
 
     <style is:global>
       * { box-sizing: border-box; margin: 0; padding: 0; }
