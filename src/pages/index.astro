@@ -1,0 +1,12 @@
+---
+import Layout from '../layouts/Layout.astro';
+import App from '../components/App.jsx';
+import { META } from '../i18n/meta.js';
+
+const lang = 'en';
+const meta = META[lang];
+const canonical = 'https://stampiq.io/';
+---
+<Layout lang={lang} title={meta.title} description={meta.description} canonical={canonical}>
+  <App lang={lang} client:load />
+</Layout>

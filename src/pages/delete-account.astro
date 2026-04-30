@@ -1,0 +1,13 @@
+---
+import Layout from '../layouts/Layout.astro';
+import DeleteAccountPage from '../components/legal/DeleteAccountPage.jsx';
+import { tFor } from '../i18n/lookup.js';
+
+const lang = 'en';
+const title = tFor(lang, 'delete.page_title');
+const description = tFor(lang, 'delete.meta_description');
+const canonical = 'https://stampiq.io/delete-account.html';
+---
+<Layout {lang} {title} {description} {canonical}>
+  <DeleteAccountPage lang={lang} client:load />
+</Layout>

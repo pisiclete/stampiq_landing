@@ -7,15 +7,19 @@
 (not yet described)
 
 ## Current status
-Post-launch-style header and footer shipped to privacy, terms, and delete-account pages today. Repo was reorganised into pre-launch/ and post-launch/ directories on 2026-04-26.
+Migrated to Astro on 2026-04-30. The whole site (marketing + legal) is now SSG: 24 static HTML pages (6 marketing + 6×3 legal) with per-language URLs and proper hreflang for SEO. Build with `npm run build`, deploy via `.github/workflows/deploy.yml` on push to main.
 
 ## Recent activity
-- 2026-04-27: Added post-launch-style header + footer to privacy/terms/delete-account pages (commit d3cbb3d)
-- 2026-04-26: Refactored repo structure into pre-launch/ and post-launch/ directories
+- 2026-04-30: Migrated legal pages (privacy, terms, delete-account) into Astro routes. Removed legacy `post-launch/` and `pre-launch/` directories. URLs preserved as `.html` so app and store deep-links keep working.
+- 2026-04-29: Initial Astro migration of the marketing site (i18n via React Context, per-language routes, sitemap, GitHub Actions deploy).
 
 ## Open issues
-(none)
+- Bundle size ~390 KB unminified for chrome (~127 KB gzipped) — could be reduced by code-splitting legal vs marketing translations.
+- `public/assets/og-default.png` does not exist — social cards lack an image. 1200×630 PNG to be added.
 
 ## Handoff notes
-stampiq_landing repo is reorganised into pre-launch/ and post-launch/ directories. Legal pages (privacy, terms, delete-account) now carry the post-launch header and footer. Full post-launch website build is tracked as an open todo under stampiq_app.
+- Build format: `preserve` (in `astro.config.mjs`) — keeps `/privacy.html`, `/de/privacy.html` URLs canonical.
+- Translations live in `src/i18n/translations.json` (marketing) and `src/i18n/translations-legal.json` (legal). Both merged into the same dict at build via `I18nContext.jsx`. For Astro frontmatter use `tFor(lang, key)` from `src/i18n/lookup.js`.
+- New translation keys are tagged via `t('key.path')` in JSX (rendered with `dangerouslySetInnerHTML` to support inline HTML in translations). Add the key to the right JSON file with all 6 languages.
+- Per-language assets: `public/assets/screens/<lang>/<screen>.webp` — phones rotate based on the visitor's URL language.
 <!-- sigi-end -->

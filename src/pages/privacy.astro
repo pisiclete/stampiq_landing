@@ -1,0 +1,13 @@
+---
+import Layout from '../layouts/Layout.astro';
+import PrivacyPage from '../components/legal/PrivacyPage.jsx';
+import { tFor } from '../i18n/lookup.js';
+
+const lang = 'en';
+const title = tFor(lang, 'privacy.page_title');
+const description = tFor(lang, 'privacy.meta_description');
+const canonical = 'https://stampiq.io/privacy.html';
+---
+<Layout {lang} {title} {description} {canonical}>
+  <PrivacyPage lang={lang} client:load />
+</Layout>

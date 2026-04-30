@@ -1,0 +1,20 @@
+export const SIQ = {
+  green: '#66E204',
+  greenDark: '#52C003',
+  greenDarker: '#4FA902',
+  greenTint: 'rgba(102,226,4,0.10)',
+  greenTintLight: 'rgba(102,226,4,0.04)',
+  fg: '#222222',
+  fgMuted: '#888888',
+  fgSubtle: '#555555',
+  bg: '#F9F9F9',
+  border: '#E0E0E0',
+  footer: '#2D2F2A',
+  shadow: {
+    card: '0 4px 20px rgba(0,0,0,0.08)',
+    soft: '0 2px 8px rgba(0,0,0,0.10)',
+    pop: '0 4px 15px rgba(0,0,0,0.10)',
+    deep: '0 20px 40px rgba(0,0,0,0.30)',
+    cta: '0 8px 25px rgba(102,226,4,0.40)',
+  },
+};

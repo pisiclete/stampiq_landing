@@ -1,0 +1,23 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import DeleteAccountPage from '../../components/legal/DeleteAccountPage.jsx';
+import { tFor } from '../../i18n/lookup.js';
+
+export function getStaticPaths() {
+  return [
+    { params: { lang: 'de' } },
+    { params: { lang: 'fr' } },
+    { params: { lang: 'it' } },
+    { params: { lang: 'nl' } },
+    { params: { lang: 'pl' } },
+  ];
+}
+
+const { lang } = Astro.params;
+const title = tFor(lang, 'delete.page_title');
+const description = tFor(lang, 'delete.meta_description');
+const canonical = `https://stampiq.io/${lang}/delete-account.html`;
+---
+<Layout {lang} {title} {description} {canonical}>
+  <DeleteAccountPage {lang} client:load />
+</Layout>

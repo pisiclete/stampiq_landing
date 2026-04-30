@@ -1,0 +1,125 @@
+---
+import '../styles/tokens.css';
+import '../styles/responsive.css';
+
+interface Props {
+  lang: string;
+  title: string;
+  description: string;
+  canonical: string;
+  ogImage?: string;
+}
+
+const { lang, title, description, canonical, ogImage = '/assets/og-default.png' } = Astro.props;
+
+const SUPPORTED = ['en', 'de', 'nl', 'pl', 'fr', 'it'];
+// Derive each language's URL for the *current* page from the canonical, so
+// /de/privacy.html points its fr-hreflang at /fr/privacy.html (not /fr/).
+const ORIGIN = 'https://stampiq.io';
+const path = canonical.replace(ORIGIN, '');
+const suffix = path.replace(/^\/(de|fr|it|nl|pl)/, '') || '/';
+const hrefForLang = (l: string) => l === 'en'
+  ? `${ORIGIN}${suffix}`
+  : `${ORIGIN}/${l}${suffix === '/' ? '/' : suffix}`;
+---
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script is:inline>
+      // Backward compat: pre-Astro URLs used ?lang=X to switch language.
+      // The new site uses per-language URL prefixes instead. If ?lang=
+      // is present, redirect to the equivalent URL in that language so
+      // shared old links keep landing the visitor on the right content.
+      (function () {
+        try {
+          var u = new URL(location.href);
+          var q = u.searchParams.get('lang');
+          var supported = ['en','de','fr','it','nl','pl'];
+          if (!q || supported.indexOf(q) < 0) return;
+          var current = document.documentElement.lang || 'en';
+          u.searchParams.delete('lang');
+          if (q === current) {
+            history.replaceState(null, '', u.pathname + (u.search ? u.search : '') + u.hash);
+            return;
+          }
+          var stripped = u.pathname.replace(/^\/(de|fr|it|nl|pl)(?=\/|$)/, '') || '/';
+          var target = q === 'en' ? stripped : '/' + q + (stripped === '/' ? '/' : stripped);
+          location.replace(target + (u.search ? u.search : '') + u.hash);
+        } catch (_) {}
+      })();
+
+      // Language routing on URLs without a language prefix (/, /privacy.html, etc.):
+      //   - If the visitor has a saved preference (from a previous visit or the
+      //     LanguageSelector), redirect to that language.
+      //   - Else, detect from navigator.language. Save and redirect if supported.
+      //   - Else, save 'en' and stay on the English page.
+      // Explicit /<lang>/... URLs are never touched — they always win.
+      (function () {
+        try {
+          if (/^\/(de|fr|it|nl|pl)(\/|$)/.test(location.pathname)) return;
+          var supported = ['de','fr','it','nl','pl'];
+          var saved = localStorage.getItem('language');
+          var target;
+          if (saved === 'en') return;
+          if (saved && supported.indexOf(saved) >= 0) {
+            target = saved;
+          } else if (!saved) {
+            var browser = (navigator.language || 'en').split('-')[0].toLowerCase();
+            if (supported.indexOf(browser) < 0) {
+              localStorage.setItem('language', 'en');
+              return;
+            }
+            localStorage.setItem('language', browser);
+            target = browser;
+          } else {
+            return; // unknown value in localStorage, leave it alone
+          }
+          var path = location.pathname === '/'
+            ? '/' + target + '/'
+            : '/' + target + location.pathname;
+          location.replace(path + location.search + location.hash);
+        } catch (_) {}
+      })();
+    </script>
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+
+    {SUPPORTED.map(l => (
+      <link rel="alternate" hreflang={l} href={hrefForLang(l)} />
+    ))}
+    <link rel="alternate" hreflang="x-default" href={hrefForLang('en')} />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="StampIQ" />
+    <meta property="og:locale" content={lang} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={`https://stampiq.io${ogImage}`} />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={`https://stampiq.io${ogImage}`} />
+
+    <link rel="icon" type="image/png" href="/favicon.png?v=2" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet" />
+
+    <style is:global>
+      * { box-sizing: border-box; margin: 0; padding: 0; }
+      html, body { font-family: 'Roboto', -apple-system, sans-serif; background: #fff; color: #222; scroll-behavior: smooth; }
+      a { color: inherit; }
+      img { max-width: 100%; }
+      section { scroll-margin-top: 80px; }
+    </style>
+  </head>
+  <body>
+    <slot />
+  </body>
+</html>

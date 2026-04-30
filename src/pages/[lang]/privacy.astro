@@ -1,0 +1,23 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import PrivacyPage from '../../components/legal/PrivacyPage.jsx';
+import { tFor } from '../../i18n/lookup.js';
+
+export function getStaticPaths() {
+  return [
+    { params: { lang: 'de' } },
+    { params: { lang: 'fr' } },
+    { params: { lang: 'it' } },
+    { params: { lang: 'nl' } },
+    { params: { lang: 'pl' } },
+  ];
+}
+
+const { lang } = Astro.params;
+const title = tFor(lang, 'privacy.page_title');
+const description = tFor(lang, 'privacy.meta_description');
+const canonical = `https://stampiq.io/${lang}/privacy.html`;
+---
+<Layout {lang} {title} {description} {canonical}>
+  <PrivacyPage {lang} client:load />
+</Layout>

@@ -1,102 +1,94 @@
 # StampIQ Landing
 
-Static site for [stampiq.io](https://stampiq.io). Hosts both the pre-launch "coming soon" page and the post-launch product page, plus shared legal pages.
+Static site for [stampiq.io](https://stampiq.io) — marketing pages plus legal (privacy, terms, account deletion). Built with Astro + React, deployed to GitHub Pages.
 
 ## Structure
 
 ```
 stampiq_landing/
-├── index.html                  # Root redirect (currently → pre-launch/, flip to post-launch/ at launch)
-├── privacy.html                # Shared — linked from both sites
-├── terms.html                  # Shared
-├── delete-account.html         # Google Play compliance — linked from terms.html
-├── redirect.html               # QR code landing
-├── styles.css                  # Used by legal pages + pre-launch
-├── translations.json           # i18n strings (legal pages + pre-launch)
-├── translations-legal.json     # i18n strings (legal pages only)
-├── CNAME, _config.yml          # GitHub Pages config
-├── .well-known/                # iOS Universal Links + Android App Links
+├── astro.config.mjs            # Astro config (build.format='preserve' keeps .html on legal pages)
+├── package.json
+├── tsconfig.json
+├── public/                     # Copied verbatim into dist/
+│   ├── CNAME                   # stampiq.io
+│   ├── robots.txt
+│   ├── .well-known/            # iOS Universal Links + Android App Links
+│   └── assets/
+│       ├── sigi/               # 6 mascot SVGs (poses)
+│       ├── badges/             # App Store + Play Store SVGs
+│       ├── decor/              # Stamp silhouette decorations
+│       ├── screens/<lang>/     # In-app screens, one folder per language
+│       ├── press/              # SBZ 2026/03 PDF + cover WebP
+│       └── founder/            # Portrait WebPs
 │
-├── pre-launch/                 # "Coming soon" site (vanilla HTML + Lottie)
-│   ├── index.html
-│   ├── animations/             # Sigi Lottie files (idle, blink, waving, etc.)
-│   ├── images/                 # Feature screenshots + demo video
-│   └── svgs/                   # Store badges + Sigi icon
+├── src/
+│   ├── pages/                  # Each .astro file generates one route
+│   │   ├── index.astro                # /
+│   │   ├── privacy.astro              # /privacy.html
+│   │   ├── terms.astro                # /terms.html
+│   │   ├── delete-account.astro       # /delete-account.html
+│   │   └── [lang]/                    # de, fr, it, nl, pl
+│   │       ├── index.astro            # /de/
+│   │       ├── privacy.astro          # /de/privacy.html
+│   │       ├── terms.astro            # /de/terms.html
+│   │       └── delete-account.astro   # /de/delete-account.html
+│   ├── layouts/Layout.astro    # HTML head, meta, OG, hreflang, sitemap
+│   ├── components/
+│   │   ├── App.jsx                    # Marketing page composition
+│   │   ├── chrome.jsx                 # Header + Footer + LanguageSelector
+│   │   ├── components.jsx             # SIQ tokens, Logo, Icons, Pill, PhoneMockup, SigiPose
+│   │   ├── hero.jsx, features.jsx, pricing.jsx, social-proof.jsx, partner.jsx, cta.jsx
+│   │   └── legal/
+│   │       ├── LegalPage.jsx          # Wrapper: Header + content + Footer
+│   │       ├── PrivacyPage.jsx, TermsPage.jsx, DeleteAccountPage.jsx
+│   │       ├── Privacy.jsx, Terms.jsx, DeleteAccount.jsx  # Section data + render
+│   │       └── renderSections.jsx     # Shared <h2>/<p>/<ul>/<table> renderer
+│   ├── i18n/
+│   │   ├── translations.json          # Marketing strings (181 keys × 6 langs)
+│   │   ├── translations-legal.json    # Legal strings (433 keys × 6 langs)
+│   │   ├── meta.js                    # Per-language SEO title/description for marketing pages
+│   │   ├── lookup.js                  # Build-time t() for Astro frontmatter
+│   │   └── I18nContext.jsx            # React Context: t(), useLang()
+│   ├── lib/
+│   │   ├── tokens.js                  # SIQ design tokens
+│   │   └── pricing.js                 # STAMPIQ_PRICING + detectCountry()
+│   └── styles/
+│       ├── tokens.css, responsive.css # Marketing
+│       └── legal.css                  # Legal pages
 │
-└── post-launch/                # Product site (React via Babel-in-browser, no build)
-    ├── index.html
-    ├── tokens.css              # Design tokens (colors, type)
-    ├── responsive.css          # Mobile/tablet rules
-    ├── pricing-data.js         # Per-country pricing + detectCountry() cascade
-    ├── i18n.js                 # Translation loader (data-i18n + MutationObserver)
-    ├── translations.json       # 180 keys × 6 languages (en/de/nl/pl/fr/it)
-    ├── components.jsx          # Shared lib (SIQ tokens, Logo, Icons, SigiPose, useLanguage hook)
-    ├── app.jsx                 # Root component, composes sections
-    ├── chrome.jsx              # Header + Footer + LanguageSelector
-    ├── hero.jsx                # Hero
-    ├── features.jsx            # ThreeActs + SigiVision + MeetSigi
-    ├── pricing.jsx             # Pricing tiers (reads pricing-data.js, computes Save %)
-    ├── social-proof.jsx        # Press + Founder
-    ├── partner.jsx             # Partnerships
-    ├── cta.jsx                 # FAQ + FinalCTA
-    └── assets/
-        ├── sigi/               # 6 mascot SVGs (poses)
-        ├── badges/             # App Store + Play Store SVGs
-        ├── decor/              # Stamp silhouette decorations
-        ├── screens/<lang>/     # In-app screens, one folder per language
-        │                       #   en/, de/, fr/, it/, nl/, pl/ × 6 screens each
-        ├── press/              # SBZ 2026/03 PDF + cover WebP
-        └── founder/            # 3 portrait WebPs
+├── scripts/
+│   └── codemod-i18n.mjs        # data-i18n → t() AST transform (one-shot, kept for reference)
+│
+└── .github/workflows/deploy.yml  # Build Astro → publish dist/ to Pages
 ```
 
-## Auto-detection cascades
+## How it works
 
-Both run on every visit, independently:
+- **Per-language URLs**: `/`, `/de/`, `/fr/`, `/it/`, `/nl/`, `/pl/` for marketing; `/privacy.html`, `/de/privacy.html`, etc. for legal. Each is a fully pre-rendered static HTML file with the right language baked in. Crawlers see real content (not an empty `<div id="root">`), and Google indexes each language separately via `hreflang`.
+- **Translations** live as build-time JSON imports. `useT()` returns the right string for the current language. Inline HTML in translations (e.g. `<a href="../privacy.html">`) gets rewritten by `withLang()` so it points at the right per-language URL.
+- **Legal pages** reuse the same `<Header>`/`<Footer>` as the marketing site. The Header's anchor nav (`#features`, `#pricing`, etc.) prepends the language root so clicking "Pricing" from `/de/privacy.html` lands on `/de/#pricing`.
+- **Pricing detection** stays client-side: `detectCountry()` cascades through `localStorage.siq_country` → `navigator.languages` region tag → timezone → fallback `DE`. The component re-renders with the right currency on mount.
+- **Legacy `?lang=` redirect** — App Store and Play Store store listings registered URLs with `?lang=de` etc. before the migration. A small inline script in `Layout.astro` runs synchronously on every page: if `?lang=X` is in the URL, it redirects to the matching `/<lang>/...` canonical and strips the query. This keeps every store-registered link working without ever needing to update them.
 
-| | Where | Cascade |
-|---|---|---|
-| **Country** (pricing & currency) | `pricing-data.js` → `window.detectCountry()` | `localStorage.siq_country` → browser locale region (`de-CH` → `CH`) → timezone (`Europe/Zurich` → `CH`) → `STAMPIQ_DEFAULT_COUNTRY` (DE) |
-| **Language** (UI text & screens) | `i18n.js` + `useLanguage()` hook | URL `?lang=` → `localStorage.language` → `navigator.language` → `en` |
-
-The `useLanguage()` hook re-renders any subscribing component when the user picks a new language via the LanguageSelector. Screens and the dynamic Save % both update live without a page reload.
-
-## i18n
-
-- **Add a new translatable string**: add an entry to `post-launch/translations.json` with `{ key, "section/location", en, de, nl, pl, fr, it }`, then drop a `data-i18n="<key>"` attribute on the JSX element. The loader walks `[data-i18n]` after React mounts and on every re-render via MutationObserver.
-- **HTML allowed in values** (used in FAQ answers for `<a>` links).
-- **Empty target-language values fall back to English** — safe to leave new keys partially translated.
-
-## Pricing
-
-Edit `pricing-data.js` to change prices for any of the 6 markets. The Pricing component reads from `window.STAMPIQ_PRICING[country]` based on the detected country and formats with the appropriate currency symbol (`Fr.` / `€` / `zł`). The "Save X%" badge is computed dynamically from the premium yearly/monthly ratio.
-
-## Local preview
-
-Babel-in-browser and `fetch()` calls require a real HTTP server (won't work via `file://`):
+## Develop
 
 ```bash
-cd /Users/sigi/dev/stampiq_landing
-python3 -m http.server 8000
+npm install
+npm run dev      # Local dev with HMR
+npm run build    # Generates dist/ (24 HTML pages + sitemap)
+npm run preview  # Serves dist/ on http://127.0.0.1:4321
 ```
 
-Then visit:
-- http://localhost:8000/ — root (redirects to pre-launch)
-- http://localhost:8000/post-launch/
-- http://localhost:8000/post-launch/?lang=pl — force a specific language
-- http://localhost:8000/pre-launch/
-- http://localhost:8000/privacy.html
+## Deploy
+
+`.github/workflows/deploy.yml` builds Astro and publishes `dist/` to GitHub Pages on every push to `main`. The CNAME (`stampiq.io`) and `.well-known/` files for app deep-linking are passed through from `public/`.
 
 ## Conventions
 
 - **kebab-case** for filenames and asset paths
-- **WebP** for raster images (screens, photos), **SVG** for logos / icons / decorations
-- Post-launch JSX files each export their components on `window.*` since there's no module bundler
-- Informal address (du / tu / jij / ty / tu) consistently across all 5 target languages
-- Standard German (ß), not Swiss German (ss), for `de`
-
-## Going live with post-launch
-
-Edit root `index.html` and change the two `pre-launch/` references to `post-launch/`.
+- **WebP** for raster images, **SVG** for logos / icons / decorations
+- Informal address (du / tu / jij / ty / tu) across all 5 non-English languages
+- Standard German (ß), not Swiss German (ss)
 
 ## License
 

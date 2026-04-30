@@ -1,0 +1,13 @@
+---
+import Layout from '../layouts/Layout.astro';
+import TermsPage from '../components/legal/TermsPage.jsx';
+import { tFor } from '../i18n/lookup.js';
+
+const lang = 'en';
+const title = tFor(lang, 'terms.page_title');
+const description = tFor(lang, 'terms.meta_description');
+const canonical = 'https://stampiq.io/terms.html';
+---
+<Layout {lang} {title} {description} {canonical}>
+  <TermsPage lang={lang} client:load />
+</Layout>

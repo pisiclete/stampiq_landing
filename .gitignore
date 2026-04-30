@@ -26,3 +26,11 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Astro
+dist/
+.astro/
+
+# Node
+node_modules/
+npm-debug.log*

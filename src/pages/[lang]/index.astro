@@ -1,0 +1,22 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import App from '../../components/App.jsx';
+import { META } from '../../i18n/meta.js';
+
+export function getStaticPaths() {
+  return [
+    { params: { lang: 'de' } },
+    { params: { lang: 'fr' } },
+    { params: { lang: 'it' } },
+    { params: { lang: 'nl' } },
+    { params: { lang: 'pl' } },
+  ];
+}
+
+const { lang } = Astro.params;
+const meta = META[lang];
+const canonical = `https://stampiq.io/${lang}/`;
+---
+<Layout lang={lang} title={meta.title} description={meta.description} canonical={canonical}>
+  <App lang={lang} client:load />
+</Layout>
