@@ -36,7 +36,7 @@ const SECTIONS = [
   { type: 'ul', items: ['privacy.s3_6_li1','privacy.s3_6_li2','privacy.s3_6_li3','privacy.s3_6_li4'] },
   { type: 'h3', key: 'privacy.s3_7_title' },
   { type: 'p',  key: 'privacy.s3_7_p1' },
-  { type: 'ul', items: ['privacy.s3_7_li1','privacy.s3_7_li2','privacy.s3_7_li3','privacy.s3_7_li4','privacy.s3_7_li5'] },
+  { type: 'ul', items: ['privacy.s3_7_li1','privacy.s3_7_li2','privacy.s3_7_li3','privacy.s3_7_li4','privacy.s3_7_li5','privacy.s3_7_li6'] },
   { type: 'h3', key: 'privacy.s3_8_title' },
   { type: 'p',  key: 'privacy.s3_8_p1' },
   { type: 'ul', items: ['privacy.s3_8_li1','privacy.s3_8_li2','privacy.s3_8_li3','privacy.s3_8_li4'] },

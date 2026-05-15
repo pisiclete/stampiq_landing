@@ -7,19 +7,17 @@
 (not yet described)
 
 ## Current status
-Migrated to Astro on 2026-04-30. The whole site (marketing + legal) is now SSG: 24 static HTML pages (6 marketing + 6×3 legal) with per-language URLs and proper hreflang for SEO. Build with `npm run build`, deploy via `.github/workflows/deploy.yml` on push to main.
+iOS Smart App Banner meta tag added today; site is Astro-based with multi-language URLs and smart QR-code app store redirect.
 
 ## Recent activity
-- 2026-04-30: Migrated legal pages (privacy, terms, delete-account) into Astro routes. Removed legacy `post-launch/` and `pre-launch/` directories. URLs preserved as `.html` so app and store deep-links keep working.
-- 2026-04-29: Initial Astro migration of the marketing site (i18n via React Context, per-language routes, sitemap, GitHub Actions deploy).
+- 2026-05-10: Added iOS Smart App Banner meta tag (commit 1b12799); Smart App Banner stampiq_app todo marked done via Telegram
+- 2026-04-30: Migrated site to Astro (SEO + multi-language URLs), added async Google Fonts, smart QR-code store redirect, and email-signature logo asset (commits 8656bda, 65e0efe, 36f3d9a, 763463f)
+- 2026-04-27: Added post-launch-style header + footer to privacy/terms/delete-account pages (commit d3cbb3d)
+- 2026-04-26: Refactored repo structure into pre-launch/ and post-launch/ directories
 
 ## Open issues
-- Bundle size ~390 KB unminified for chrome (~127 KB gzipped) — could be reduced by code-splitting legal vs marketing translations.
-- `public/assets/og-default.png` does not exist — social cards lack an image. 1200×630 PNG to be added.
+(none)
 
 ## Handoff notes
-- Build format: `preserve` (in `astro.config.mjs`) — keeps `/privacy.html`, `/de/privacy.html` URLs canonical.
-- Translations live in `src/i18n/translations.json` (marketing) and `src/i18n/translations-legal.json` (legal). Both merged into the same dict at build via `I18nContext.jsx`. For Astro frontmatter use `tFor(lang, key)` from `src/i18n/lookup.js`.
-- New translation keys are tagged via `t('key.path')` in JSX (rendered with `dangerouslySetInnerHTML` to support inline HTML in translations). Add the key to the right JSON file with all 6 languages.
-- Per-language assets: `public/assets/screens/<lang>/<screen>.webp` — phones rotate based on the visitor's URL language.
+stampiq_landing repo is Astro-based. The iOS Smart App Banner is now live. No other open issues tracked for this project.
 <!-- sigi-end -->
