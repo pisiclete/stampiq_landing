@@ -7,9 +7,10 @@
 (not yet described)
 
 ## Current status
-GIF assets for launch-update email added today. Privacy policy already discloses Sentry. Site otherwise stable.
+Site is stable. Today's commit adds variants.gif for use in the launch-update email campaign.
 
 ## Recent activity
+- 2026-05-20: Added variants.gif for launch-update email (commit 25ebc77)
 - 2026-05-16: Added launch-update email GIF assets (commit 5359ba2); updated CLAUDE.md for Sentry privacy disclosure (commit 6e3d12b)
 - 2026-05-15: Disclosed Sentry crash reporting in privacy policy (commit 1b5eeec)
 - 2026-05-10: Added iOS Smart App Banner meta tag (commit 1b12799); Smart App Banner stampiq_app todo marked done via Telegram
@@ -21,5 +22,5 @@ GIF assets for launch-update email added today. Privacy policy already discloses
 (none)
 
 ## Handoff notes
-stampiq_landing is Astro-based with iOS Smart App Banner live and Sentry disclosed in the privacy policy. Today's commits add GIF assets for the launch-update email campaign. No open issues.
+stampiq_landing is Astro-based with iOS Smart App Banner live and Sentry disclosed in the privacy policy. Today's commit (25ebc77) adds the variants GIF asset consumed by stampiq_mailing's launch-update campaign. No open issues.
 <!-- sigi-end -->
