@@ -2052,6 +2052,33 @@
     "it": "La disponibilità delle funzioni dipende dal livello di abbonamento."
   },
   {
+    "key": "terms.s4_historical_title",
+    "en": "Historical and Sensitive Content",
+    "de": "Historische und sensible Inhalte",
+    "nl": "Historische en gevoelige inhoud",
+    "pl": "Treści historyczne i wrażliwe",
+    "fr": "Contenus historiques et sensibles",
+    "it": "Contenuti storici e sensibili"
+  },
+  {
+    "key": "terms.s4_historical_p1",
+    "en": "StampIQ's catalogs document stamps from across the full span of postal history, including issues from periods of war, occupation, colonial rule, and authoritarian or totalitarian regimes. Some of these stamps carry imagery, names, or symbols associated with such regimes.",
+    "de": "Die Kataloge von StampIQ dokumentieren Briefmarken aus der gesamten Postgeschichte, einschließlich Ausgaben aus Zeiten von Krieg, Besatzung, Kolonialherrschaft sowie autoritären oder totalitären Regimen. Einige dieser Briefmarken tragen Abbildungen, Namen oder Symbole, die mit solchen Regimen in Verbindung stehen.",
+    "nl": "De catalogi van StampIQ documenteren postzegels uit de volledige reikwijdte van de postgeschiedenis, waaronder uitgiften uit periodes van oorlog, bezetting, koloniaal bestuur en autoritaire of totalitaire regimes. Sommige van deze postzegels bevatten afbeeldingen, namen of symbolen die met dergelijke regimes worden geassocieerd.",
+    "pl": "Katalogi StampIQ dokumentują znaczki z całego zakresu historii poczty, w tym emisje z okresów wojny, okupacji, rządów kolonialnych oraz reżimów autorytarnych lub totalitarnych. Niektóre z tych znaczków zawierają wizerunki, nazwy lub symbole związane z takimi reżimami.",
+    "fr": "Les catalogues de StampIQ documentent des timbres couvrant toute l'étendue de l'histoire postale, y compris des émissions issues de périodes de guerre, d'occupation, de domination coloniale et de régimes autoritaires ou totalitaires. Certains de ces timbres comportent des images, des noms ou des symboles associés à de tels régimes.",
+    "it": "I cataloghi di StampIQ documentano francobolli che abbracciano l'intero arco della storia postale, comprese le emissioni di periodi di guerra, occupazione, dominio coloniale e regimi autoritari o totalitari. Alcuni di questi francobolli recano immagini, nomi o simboli associati a tali regimi."
+  },
+  {
+    "key": "terms.s4_historical_p2",
+    "en": "This content is presented solely for educational, philatelic, and historical documentation. Its inclusion does not constitute endorsement, approval, or glorification of any regime, ideology, government, or the events of any historical period. Where the App identifies a stamp as originating from a sensitive historical period, it may display a contextual note and, on first access to the relevant catalog, ask you to acknowledge the nature of the content before continuing.",
+    "de": "Diese Inhalte werden ausschließlich zu Bildungszwecken sowie zur philatelistischen und historischen Dokumentation bereitgestellt. Ihre Aufnahme stellt keine Befürwortung, Billigung oder Verherrlichung eines Regimes, einer Ideologie, einer Regierung oder der Ereignisse einer historischen Epoche dar. Wenn die App eine Briefmarke als aus einer sensiblen historischen Periode stammend erkennt, kann sie einen kontextbezogenen Hinweis anzeigen und Sie beim ersten Zugriff auf den betreffenden Katalog bitten, die Art des Inhalts zur Kenntnis zu nehmen, bevor Sie fortfahren.",
+    "nl": "Deze inhoud wordt uitsluitend gepresenteerd voor educatieve, filatelistische en historische documentatie. De opname ervan vormt geen goedkeuring, instemming met of verheerlijking van enig regime, ideologie, regering of de gebeurtenissen van enige historische periode. Wanneer de app een postzegel herkent als afkomstig uit een gevoelige historische periode, kan deze een contextuele opmerking tonen en u bij de eerste toegang tot de betreffende catalogus vragen de aard van de inhoud te erkennen voordat u verdergaat.",
+    "pl": "Treści te są udostępniane wyłącznie do celów edukacyjnych oraz dokumentacji filatelistycznej i historycznej. Ich umieszczenie nie stanowi poparcia, aprobaty ani gloryfikacji jakiegokolwiek reżimu, ideologii, rządu ani wydarzeń z jakiegokolwiek okresu historycznego. Gdy aplikacja rozpozna, że znaczek pochodzi z wrażliwego okresu historycznego, może wyświetlić notatkę kontekstową, a przy pierwszym otwarciu danego katalogu poprosić o potwierdzenie zapoznania się z charakterem treści przed kontynuowaniem.",
+    "fr": "Ces contenus sont présentés uniquement à des fins éducatives ainsi que de documentation philatélique et historique. Leur inclusion ne constitue ni une approbation, ni une caution, ni une glorification d'un quelconque régime, idéologie, gouvernement ou des événements d'une quelconque période historique. Lorsque l'application identifie un timbre comme provenant d'une période historique sensible, elle peut afficher une note contextuelle et, lors du premier accès au catalogue concerné, vous demander de prendre acte de la nature du contenu avant de poursuivre.",
+    "it": "Questi contenuti sono presentati esclusivamente a fini educativi e di documentazione filatelica e storica. La loro inclusione non costituisce approvazione, avallo o glorificazione di alcun regime, ideologia, governo o degli eventi di qualsiasi periodo storico. Quando l'app identifica un francobollo come proveniente da un periodo storico sensibile, può mostrare una nota contestuale e, al primo accesso al catalogo pertinente, chiederti di prendere atto della natura del contenuto prima di continuare."
+  },
+  {
     "key": "terms.s5_title",
     "en": "5. Subscription Plans and Payments",
     "de": "5. Abonnement-Pläne und Zahlungen",

@@ -27,6 +27,9 @@ const SECTIONS = [
   { type: 'p',  key: 'terms.s4_p1' },
   { type: 'ul', items: ['terms.s4_li1','terms.s4_li2','terms.s4_li3','terms.s4_li4','terms.s4_li5','terms.s4_li6','terms.s4_li7','terms.s4_li8'] },
   { type: 'p',  key: 'terms.s4_p2' },
+  { type: 'h3', key: 'terms.s4_historical_title' },
+  { type: 'p',  key: 'terms.s4_historical_p1' },
+  { type: 'p',  key: 'terms.s4_historical_p2' },
 
   { type: 'h2', key: 'terms.s5_title' },
   { type: 'h3', key: 'terms.s5_1_title' },
