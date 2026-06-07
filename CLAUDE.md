@@ -7,9 +7,10 @@
 (not yet described)
 
 ## Current status
-Terms of Service updated with Historical and Sensitive Content clause (41ef88f). Site is otherwise stable; Sentry is disclosed in the privacy policy and iOS Smart App Banner is live.
+CLAUDE.md updated to reflect the Historical and Sensitive Content clause added to ToS yesterday (8eda70b). Site is otherwise stable.
 
 ## Recent activity
+- 2026-06-07: Updated CLAUDE.md to document the ToS Historical and Sensitive Content clause (8eda70b)
 - 2026-06-06: Added Historical and Sensitive Content clause to Terms of Service (41ef88f)
 - 2026-05-20: Added variants.gif for launch-update email (commit 25ebc77)
 - 2026-05-16: Added launch-update email GIF assets (commit 5359ba2); updated CLAUDE.md for Sentry privacy disclosure (commit 6e3d12b)
@@ -23,5 +24,5 @@ Terms of Service updated with Historical and Sensitive Content clause (41ef88f).
 (none)
 
 ## Handoff notes
-stampiq_landing is Astro-based. Today's commit (41ef88f) adds a Historical and Sensitive Content clause to the ToS — review with Marius if any further legal copy is needed. Sentry is already disclosed in the privacy policy (1b5eeec). No open issues.
+stampiq_landing is Astro-based. The Historical and Sensitive Content clause was added to the ToS on 2026-06-06 (41ef88f); today's commit (8eda70b) updates CLAUDE.md to reflect it. Sentry is disclosed in the privacy policy (1b5eeec). No open issues.
 <!-- sigi-end -->
