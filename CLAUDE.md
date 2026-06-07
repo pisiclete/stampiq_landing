@@ -7,9 +7,10 @@
 (not yet described)
 
 ## Current status
-Site is stable. Today's commit adds variants.gif for use in the launch-update email campaign.
+Terms of Service updated with Historical and Sensitive Content clause (41ef88f). Site is otherwise stable; Sentry is disclosed in the privacy policy and iOS Smart App Banner is live.
 
 ## Recent activity
+- 2026-06-06: Added Historical and Sensitive Content clause to Terms of Service (41ef88f)
 - 2026-05-20: Added variants.gif for launch-update email (commit 25ebc77)
 - 2026-05-16: Added launch-update email GIF assets (commit 5359ba2); updated CLAUDE.md for Sentry privacy disclosure (commit 6e3d12b)
 - 2026-05-15: Disclosed Sentry crash reporting in privacy policy (commit 1b5eeec)
@@ -22,5 +23,5 @@ Site is stable. Today's commit adds variants.gif for use in the launch-update em
 (none)
 
 ## Handoff notes
-stampiq_landing is Astro-based with iOS Smart App Banner live and Sentry disclosed in the privacy policy. Today's commit (25ebc77) adds the variants GIF asset consumed by stampiq_mailing's launch-update campaign. No open issues.
+stampiq_landing is Astro-based. Today's commit (41ef88f) adds a Historical and Sensitive Content clause to the ToS — review with Marius if any further legal copy is needed. Sentry is already disclosed in the privacy policy (1b5eeec). No open issues.
 <!-- sigi-end -->
