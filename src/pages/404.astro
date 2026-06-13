@@ -1,0 +1,66 @@
+---
+// 404 page, doubling as the scan-promo QR fallback.
+//
+// A promo QR encodes https://stampiq.io/r/<CODE>. When the app is installed the
+// OS opens it directly (universal/app link) and the web is never hit. When it
+// is NOT installed, the visitor lands here (no static page for /r/<code>), so we
+// send them to the right app store to install — they rescan after signing up.
+// Any other unknown path falls through to the homepage.
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>StampIQ</title>
+    <style>
+      body {
+        font-family: 'Roboto', -apple-system, BlinkMacSystemFont, sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        margin: 0;
+        background-color: #f9f9f9;
+        color: #222222;
+      }
+      .redirect-message {
+        text-align: center;
+        padding: 20px;
+      }
+      a {
+        color: #66e204;
+        text-decoration: none;
+        font-weight: 600;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="redirect-message">
+      <p>Opening StampIQ…</p>
+      <p><a href="/">Continue to the website</a></p>
+    </div>
+
+    <script is:inline>
+      (function () {
+        var ua = navigator.userAgent || '';
+        var path = location.pathname || '';
+        var APP_STORE = 'https://apps.apple.com/app/id6760778035';
+        var PLAY_STORE =
+          'https://play.google.com/store/apps/details?id=io.stampiq.app';
+
+        var isPromo = /^\/r\//.test(path);
+        var target;
+        if (isPromo && /iPad|iPhone|iPod/.test(ua)) {
+          target = APP_STORE;
+        } else if (isPromo && /android/i.test(ua)) {
+          target = PLAY_STORE;
+        } else {
+          target = '/';
+        }
+        location.replace(target);
+      })();
+    </script>
+  </body>
+</html>

@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "4AL363TA7J.io.stampiq.app",
-        "paths": ["/activate"]
+        "paths": ["/activate", "/r/*"]
       }
     ]
   }
