@@ -7,9 +7,10 @@
 (not yet described)
 
 ## Current status
-CLAUDE.md updated to reflect the Historical and Sensitive Content clause added to ToS yesterday (8eda70b). Site is otherwise stable.
+Apple App Site Association updated to include the /r promo path, with a 404 store-redirect fallback for unrecognised deep links.
 
 ## Recent activity
+- 2026-06-13: Added /r promo path to AASA and 404 store-redirect fallback (8a7e0c0)
 - 2026-06-07: Updated CLAUDE.md to document the ToS Historical and Sensitive Content clause (8eda70b)
 - 2026-06-06: Added Historical and Sensitive Content clause to Terms of Service (41ef88f)
 - 2026-05-20: Added variants.gif for launch-update email (commit 25ebc77)
@@ -24,5 +25,5 @@ CLAUDE.md updated to reflect the Historical and Sensitive Content clause added t
 (none)
 
 ## Handoff notes
-stampiq_landing is Astro-based. The Historical and Sensitive Content clause was added to the ToS on 2026-06-06 (41ef88f); today's commit (8eda70b) updates CLAUDE.md to reflect it. Sentry is disclosed in the privacy policy (1b5eeec). No open issues.
+stampiq_landing is Astro-based. Today's commit (8a7e0c0) enables Universal Links for the QR promo redemption flow — /r/<CODE> deep links open the app directly. The 404 fallback redirects unrecognised paths to the appropriate store. No open issues.
 <!-- sigi-end -->
