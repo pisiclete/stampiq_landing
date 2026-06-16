@@ -1,16 +1,38 @@
 ---
-// 404 page, doubling as the scan-promo QR fallback.
+// 404 page, doubling as the scan-promo QR landing.
 //
-// A promo QR encodes https://stampiq.io/r/<CODE>. On a phone with the app
-// installed the OS opens the app via the universal/app link and redeems on the
-// first scan — so this page only matters when the app is NOT installed: it
-// points the visitor to the right store to install (they rescan after signing
-// up). It deliberately does nothing automatic: an auto store redirect races the
-// app launch and bounces an already-opened app to the store, and re-triggering
-// the app (e.g. via a custom scheme) re-runs redemption and stacks dialogs.
-// Installed users may briefly see this page if iOS leaves Safari on it after the
-// QR routes through the browser; the app has already opened, so they just switch
-// back. Any other unknown path falls through to the homepage.
+// A promo QR encodes https://stampiq.io/r/<CODE>. This is a plain content page
+// with NO JavaScript redirect on /r/ paths: an interstitial JS redirect breaks
+// universal-link resolution and is what made the app open and then bounce back
+// to Safari / the store. With that gone, iOS resolves the universal link cleanly
+// — the app opens and redeems on the first scan. Apple's Smart App Banner (the
+// apple-itunes-app meta tag) is the recommended affordance: installed → "Open"
+// launcher, not installed → install. Android gets a Play Store link.
+//
+// Localisation: this page is served for an unprefixed URL (/r/<CODE>), so it
+// can't use the [lang] routing, and redirecting to a localised URL would
+// reintroduce the JS navigation that breaks the link. Instead we ship every
+// language's strings (from translations.json) and swap the TEXT only on load,
+// based on the saved preference or navigator.language — no navigation. Strings
+// fall back to English until the DE/FR/IT/NL/PL values are filled in
+// translations.json. The only redirect is for genuine 404s and never runs on /r/.
+import { tFor } from '../i18n/lookup.js';
+
+const LANGS = ['en', 'de', 'fr', 'it', 'nl', 'pl'];
+const KEYS = [
+  'promo.title',
+  'promo.subtitle',
+  'promo.appstore',
+  'promo.playstore',
+  'promo.website',
+];
+
+const strings = {};
+for (const l of LANGS) {
+  strings[l] = {};
+  for (const k of KEYS) strings[l][k] = tFor(l, k);
+}
+const en = strings.en;
 ---
 
 <!doctype html>
@@ -18,6 +40,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="apple-itunes-app" content="app-id=6760778035" />
     <title>StampIQ</title>
     <style>
       body {
@@ -37,9 +60,15 @@
         width: 100%;
       }
       .title {
-        font-size: 1.1rem;
+        font-size: 1.2rem;
         font-weight: 600;
+        margin: 0 0 8px;
+      }
+      .subtitle {
+        font-size: 0.95rem;
+        color: #555555;
         margin: 0 0 24px;
+        line-height: 1.4;
       }
       .btn {
         display: block;
@@ -66,24 +95,47 @@
   </head>
   <body>
     <div class="card">
-      <p class="title">Get StampIQ to claim your bonus scans</p>
-      <a id="getApp" class="btn" href="https://apps.apple.com/app/id6760778035"
-        >Get the app</a
+      <p class="title" id="title">{en['promo.title']}</p>
+      <p class="subtitle" id="subtitle">{en['promo.subtitle']}</p>
+      <a class="btn" id="appstore" href="https://apps.apple.com/app/id6760778035"
+        >{en['promo.appstore']}</a
       >
-      <p class="muted"><a href="/">Continue to the website</a></p>
+      <a
+        class="btn"
+        id="playstore"
+        href="https://play.google.com/store/apps/details?id=io.stampiq.app"
+        >{en['promo.playstore']}</a
+      >
+      <p class="muted"><a id="website" href="/">{en['promo.website']}</a></p>
     </div>
 
-    <script is:inline>
+    <script is:inline define:vars={{ strings }}>
       (function () {
-        var path = location.pathname || '';
-        if (!/^\/r\//.test(path)) {
+        if (!/^\/r\//.test(location.pathname || '')) {
           location.replace('/');
           return;
         }
-        if (/android/i.test(navigator.userAgent || '')) {
-          document.getElementById('getApp').href =
-            'https://play.google.com/store/apps/details?id=io.stampiq.app';
+        var supported = ['en', 'de', 'fr', 'it', 'nl', 'pl'];
+        var lang = 'en';
+        var saved = null;
+        try {
+          saved = localStorage.getItem('language');
+        } catch (e) {}
+        if (saved && supported.indexOf(saved) >= 0) {
+          lang = saved;
+        } else {
+          var b = (navigator.language || 'en').split('-')[0].toLowerCase();
+          if (supported.indexOf(b) >= 0) lang = b;
         }
+        if (lang === 'en') return;
+        var s = strings[lang];
+        if (!s) return;
+        document.documentElement.lang = lang;
+        document.getElementById('title').textContent = s['promo.title'];
+        document.getElementById('subtitle').textContent = s['promo.subtitle'];
+        document.getElementById('appstore').textContent = s['promo.appstore'];
+        document.getElementById('playstore').textContent = s['promo.playstore'];
+        document.getElementById('website').textContent = s['promo.website'];
       })();
     </script>
   </body>

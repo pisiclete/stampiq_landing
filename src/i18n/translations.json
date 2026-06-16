@@ -1798,5 +1798,55 @@
     "pl": "Obsługujemy CH · DE · AT · LI · NL · PL",
     "fr": "Catalogues : CH · DE · AT · LI · NL · PL",
     "it": "Disponibile per CH · DE · AT · LI · NL · PL"
+  },
+  {
+    "key": "promo.title",
+    "section/location": "Scan-promo QR landing (/r)",
+    "en": "Claiming your bonus scans",
+    "de": "Deine Bonus-Scans werden eingelöst",
+    "fr": "Récupération de vos scans bonus",
+    "it": "Riscatto delle scansioni bonus",
+    "nl": "Je bonusscans worden ingewisseld",
+    "pl": "Odbieranie dodatkowych skanów"
+  },
+  {
+    "key": "promo.subtitle",
+    "section/location": "Scan-promo QR landing (/r)",
+    "en": "StampIQ is opening to add your free scans. Don't have the app yet? Install it, then scan the code again.",
+    "de": "StampIQ wird geöffnet, um deine Gratis-Scans hinzuzufügen. Du hast die App noch nicht? Installiere sie und scanne den Code erneut.",
+    "fr": "StampIQ s'ouvre pour ajouter vos scans gratuits. Vous n'avez pas encore l'application ? Installez-la, puis scannez à nouveau le code.",
+    "it": "StampIQ si sta aprendo per aggiungere le tue scansioni gratuite. Non hai ancora l'app? Installala, poi scansiona di nuovo il codice.",
+    "nl": "StampIQ wordt geopend om je gratis scans toe te voegen. Heb je de app nog niet? Installeer hem en scan de code opnieuw.",
+    "pl": "StampIQ otwiera się, aby dodać Twoje darmowe skany. Nie masz jeszcze aplikacji? Zainstaluj ją i zeskanuj kod ponownie."
+  },
+  {
+    "key": "promo.appstore",
+    "section/location": "Scan-promo QR landing (/r) — Apple official badge wording",
+    "en": "Download on the App Store",
+    "de": "Laden im App Store",
+    "fr": "Télécharger dans l'App Store",
+    "it": "Scarica su App Store",
+    "nl": "Download in de App Store",
+    "pl": "Pobierz w App Store"
+  },
+  {
+    "key": "promo.playstore",
+    "section/location": "Scan-promo QR landing (/r) — Google official badge wording",
+    "en": "Get it on Google Play",
+    "de": "Jetzt bei Google Play",
+    "fr": "Disponible sur Google Play",
+    "it": "Disponibile su Google Play",
+    "nl": "Ontdek het op Google Play",
+    "pl": "Pobierz z Google Play"
+  },
+  {
+    "key": "promo.website",
+    "section/location": "Scan-promo QR landing (/r)",
+    "en": "Continue to the website",
+    "de": "Weiter zur Website",
+    "fr": "Continuer vers le site web",
+    "it": "Continua sul sito web",
+    "nl": "Doorgaan naar de website",
+    "pl": "Przejdź do strony internetowej"
   }
 ]
