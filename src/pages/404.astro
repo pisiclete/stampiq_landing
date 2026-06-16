@@ -1,14 +1,15 @@
 ---
 // 404 page, doubling as the scan-promo QR fallback.
 //
-// A promo QR encodes https://stampiq.io/r/<CODE>. When the app is installed the
-// OS opens it via the universal/app link — but Safari still loads this page in
-// parallel, so a redirect can race the app launch and bounce the user to the
-// store after the app already opened. We delay the store redirect briefly and
-// cancel it if the page is backgrounded (which happens when the app takes over).
-// When the app is NOT installed the page stays visible, the timer fires, and we
-// send the visitor to the right store to install — they rescan after signing up.
-// Any other unknown path falls through to the homepage immediately.
+// A promo QR encodes https://stampiq.io/r/<CODE>. When the OS intercepts that as
+// a universal/app link it opens the app and this page never loads. But scanning
+// a QR often loads the URL in the browser instead, and iOS won't honour a
+// same-domain universal link from a loaded page — so from here we hand off via
+// the app's custom scheme (stampiq://r/<CODE>), which opens the installed app
+// from any page. If nothing handles the scheme the page stays visible and the
+// timer sends the visitor to the right store to install (they rescan after
+// signing up); if the app opens, the page is backgrounded and we cancel the
+// store redirect. Any other unknown path falls through to the homepage.
 ---
 
 <!doctype html>
@@ -63,17 +64,24 @@
         }
 
         var store = isIOS ? APP_STORE : PLAY_STORE;
+
+        // Send installed apps straight in via the custom scheme — unlike a
+        // same-domain universal link, it works even though this page has loaded.
+        // If nothing handles it the page stays visible and we fall back to the
+        // store; if the app opens the page is backgrounded and we cancel.
         var timer = setTimeout(function () {
           location.replace(store);
         }, 1500);
 
         function cancel() {
-          if (document.hidden) clearTimeout(timer);
-        }
-        document.addEventListener('visibilitychange', cancel);
-        window.addEventListener('pagehide', function () {
           clearTimeout(timer);
+        }
+        document.addEventListener('visibilitychange', function () {
+          if (document.hidden) cancel();
         });
+        window.addEventListener('pagehide', cancel);
+
+        location.href = 'stampiq:/' + path;
       })();
     </script>
   </body>
