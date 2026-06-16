@@ -2,10 +2,13 @@
 // 404 page, doubling as the scan-promo QR fallback.
 //
 // A promo QR encodes https://stampiq.io/r/<CODE>. When the app is installed the
-// OS opens it directly (universal/app link) and the web is never hit. When it
-// is NOT installed, the visitor lands here (no static page for /r/<code>), so we
-// send them to the right app store to install — they rescan after signing up.
-// Any other unknown path falls through to the homepage.
+// OS opens it via the universal/app link — but Safari still loads this page in
+// parallel, so a redirect can race the app launch and bounce the user to the
+// store after the app already opened. We delay the store redirect briefly and
+// cancel it if the page is backgrounded (which happens when the app takes over).
+// When the app is NOT installed the page stays visible, the timer fires, and we
+// send the visitor to the right store to install — they rescan after signing up.
+// Any other unknown path falls through to the homepage immediately.
 ---
 
 <!doctype html>
@@ -51,15 +54,26 @@
           'https://play.google.com/store/apps/details?id=io.stampiq.app';
 
         var isPromo = /^\/r\//.test(path);
-        var target;
-        if (isPromo && /iPad|iPhone|iPod/.test(ua)) {
-          target = APP_STORE;
-        } else if (isPromo && /android/i.test(ua)) {
-          target = PLAY_STORE;
-        } else {
-          target = '/';
+        var isIOS = /iPad|iPhone|iPod/.test(ua);
+        var isAndroid = /android/i.test(ua);
+
+        if (!isPromo || (!isIOS && !isAndroid)) {
+          location.replace('/');
+          return;
         }
-        location.replace(target);
+
+        var store = isIOS ? APP_STORE : PLAY_STORE;
+        var timer = setTimeout(function () {
+          location.replace(store);
+        }, 1500);
+
+        function cancel() {
+          if (document.hidden) clearTimeout(timer);
+        }
+        document.addEventListener('visibilitychange', cancel);
+        window.addEventListener('pagehide', function () {
+          clearTimeout(timer);
+        });
       })();
     </script>
   </body>
