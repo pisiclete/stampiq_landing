@@ -7,9 +7,10 @@
 (not yet described)
 
 ## Current status
-Apple App Site Association updated to include the /r promo path, with a 404 store-redirect fallback for unrecognised deep links.
+The /r promo page now handles all three cases: app already installed (custom scheme handoff), app not installed (manual store buttons), and cancelled auto-redirect. No open issues.
 
 ## Recent activity
+- 2026-06-16: Fixed /r promo page: custom-scheme handoff, cancel store redirect on app open, and manual open/install fallback buttons (3 commits)
 - 2026-06-13: Added /r promo path to AASA and 404 store-redirect fallback (8a7e0c0)
 - 2026-06-07: Updated CLAUDE.md to document the ToS Historical and Sensitive Content clause (8eda70b)
 - 2026-06-06: Added Historical and Sensitive Content clause to Terms of Service (41ef88f)
@@ -25,5 +26,5 @@ Apple App Site Association updated to include the /r promo path, with a 404 stor
 (none)
 
 ## Handoff notes
-stampiq_landing is Astro-based. Today's commit (8a7e0c0) enables Universal Links for the QR promo redemption flow — /r/<CODE> deep links open the app directly. The 404 fallback redirects unrecognised paths to the appropriate store. No open issues.
+stampiq_landing /r/<CODE> deep link flow is fully wired. 6adeb8d drops the auto-redirect in favour of manual open/install buttons to avoid race conditions; b9dece5 adds the stampiq:// custom-scheme handoff for installed-app opens; 58e38bf cancels the store redirect when the app has already opened. Universal Links (AASA, shipped 2026-06-13) remain in place for iOS. No open issues.
 <!-- sigi-end -->
