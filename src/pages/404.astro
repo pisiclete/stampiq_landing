@@ -2,16 +2,15 @@
 // 404 page, doubling as the scan-promo QR fallback.
 //
 // A promo QR encodes https://stampiq.io/r/<CODE>. On a phone with the app
-// installed the OS opens the app via the universal/app link — on iOS the QR
-// usually routes through Safari, which (14.2+) auto-bounces into the app. When
-// that happens this tab is backgrounded, so we detect it and show a "you're all
-// set" state rather than action buttons (the redemption already ran in-app).
-// When the app never opens (not installed, or the link didn't fire) the tab
-// stays visible and we reveal a manual "Open in app" button (the stampiq://
-// custom scheme, which works from a loaded page where a same-domain universal
-// link will not) plus a store button to install. No auto-redirect — an
-// automatic store redirect races the app launch and bounces the user to the
-// store after the app has already opened. Other unknown paths fall through home.
+// installed the OS opens the app via the universal/app link and redeems on the
+// first scan — so this page only matters when the app is NOT installed: it
+// points the visitor to the right store to install (they rescan after signing
+// up). It deliberately does nothing automatic: an auto store redirect races the
+// app launch and bounces an already-opened app to the store, and re-triggering
+// the app (e.g. via a custom scheme) re-runs redemption and stacks dialogs.
+// Installed users may briefly see this page if iOS leaves Safari on it after the
+// QR routes through the browser; the app has already opened, so they just switch
+// back. Any other unknown path falls through to the homepage.
 ---
 
 <!doctype html>
@@ -51,15 +50,8 @@
         border-radius: 12px;
         font-weight: 600;
         text-decoration: none;
-      }
-      .btn.primary {
         background-color: #66e204;
         color: #ffffff;
-      }
-      .btn.secondary {
-        background-color: #ffffff;
-        color: #222222;
-        border: 1px solid #e0e0e0;
       }
       .muted {
         margin-top: 24px;
@@ -74,57 +66,24 @@
   </head>
   <body>
     <div class="card">
-      <p class="title" id="title">Opening StampIQ…</p>
-      <div id="actions" style="display: none">
-        <a id="openApp" class="btn primary" href="#">Open in StampIQ</a>
-        <a id="getApp" class="btn secondary" href="#">Get the app</a>
-      </div>
+      <p class="title">Get StampIQ to claim your bonus scans</p>
+      <a id="getApp" class="btn" href="https://apps.apple.com/app/id6760778035"
+        >Get the app</a
+      >
       <p class="muted"><a href="/">Continue to the website</a></p>
     </div>
 
     <script is:inline>
       (function () {
-        var ua = navigator.userAgent || '';
         var path = location.pathname || '';
-        var APP_STORE = 'https://apps.apple.com/app/id6760778035';
-        var PLAY_STORE =
-          'https://play.google.com/store/apps/details?id=io.stampiq.app';
-
-        var isPromo = /^\/r\//.test(path);
-        if (!isPromo) {
+        if (!/^\/r\//.test(path)) {
           location.replace('/');
           return;
         }
-
-        var isAndroid = /android/i.test(ua);
-        var title = document.getElementById('title');
-        var actions = document.getElementById('actions');
-        document.getElementById('openApp').href = 'stampiq:/' + path;
-        document.getElementById('getApp').href = isAndroid
-          ? PLAY_STORE
-          : APP_STORE;
-
-        // If the tab is (or becomes) hidden, the OS opened the app — the
-        // redemption already ran in-app, so confirm rather than prompt.
-        var appOpened = document.hidden;
-        function settled() {
-          appOpened = true;
-          actions.style.display = 'none';
-          title.textContent = "You're all set — switch back to StampIQ.";
+        if (/android/i.test(navigator.userAgent || '')) {
+          document.getElementById('getApp').href =
+            'https://play.google.com/store/apps/details?id=io.stampiq.app';
         }
-        if (appOpened) settled();
-        document.addEventListener('visibilitychange', function () {
-          if (document.hidden) settled();
-        });
-
-        // If the app never took over, it isn't installed (or the link didn't
-        // fire): show the manual open / install buttons.
-        setTimeout(function () {
-          if (!appOpened && !document.hidden) {
-            title.textContent = 'Open StampIQ to claim your bonus scans';
-            actions.style.display = 'block';
-          }
-        }, 1500);
       })();
     </script>
   </body>
