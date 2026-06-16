@@ -1,15 +1,15 @@
 ---
 // 404 page, doubling as the scan-promo QR fallback.
 //
-// A promo QR encodes https://stampiq.io/r/<CODE>. When the OS intercepts that as
-// a universal/app link it opens the app and this page never loads. But scanning
-// a QR often loads the URL in the browser instead, and iOS won't honour a
-// same-domain universal link from a loaded page — so from here we hand off via
-// the app's custom scheme (stampiq://r/<CODE>), which opens the installed app
-// from any page. If nothing handles the scheme the page stays visible and the
-// timer sends the visitor to the right store to install (they rescan after
-// signing up); if the app opens, the page is backgrounded and we cancel the
-// store redirect. Any other unknown path falls through to the homepage.
+// A promo QR encodes https://stampiq.io/r/<CODE>. On a phone with the app
+// installed, iOS/Android open the app via the universal/app link and this page
+// never shows (on iOS 14.2+ even a QR that lands in Safari is auto-bounced into
+// the app). This page is the fallback for when that doesn't happen: it offers a
+// manual "Open in app" button (the stampiq:// custom scheme, which works from a
+// loaded page where a same-domain universal link will not) and a store button to
+// install. No auto-redirect — an automatic store redirect races the app launch
+// and bounces the user to the store after the app has already opened.
+// Any other unknown path falls through to the homepage.
 ---
 
 <!doctype html>
@@ -29,21 +29,53 @@
         background-color: #f9f9f9;
         color: #222222;
       }
-      .redirect-message {
+      .card {
         text-align: center;
-        padding: 20px;
+        padding: 24px;
+        max-width: 320px;
+        width: 100%;
       }
-      a {
-        color: #66e204;
-        text-decoration: none;
+      .title {
+        font-size: 1.1rem;
         font-weight: 600;
+        margin: 0 0 24px;
+      }
+      .btn {
+        display: block;
+        width: 100%;
+        box-sizing: border-box;
+        padding: 14px 16px;
+        margin: 12px 0;
+        border-radius: 12px;
+        font-weight: 600;
+        text-decoration: none;
+      }
+      .btn.primary {
+        background-color: #66e204;
+        color: #ffffff;
+      }
+      .btn.secondary {
+        background-color: #ffffff;
+        color: #222222;
+        border: 1px solid #e0e0e0;
+      }
+      .muted {
+        margin-top: 24px;
+      }
+      .muted a {
+        color: #888888;
+        font-size: 0.9rem;
+        text-decoration: none;
+        font-weight: 500;
       }
     </style>
   </head>
   <body>
-    <div class="redirect-message">
-      <p>Opening StampIQ…</p>
-      <p><a href="/">Continue to the website</a></p>
+    <div class="card">
+      <p class="title">Open StampIQ to claim your bonus scans</p>
+      <a id="openApp" class="btn primary" href="#">Open in StampIQ</a>
+      <a id="getApp" class="btn secondary" href="#">Get the app</a>
+      <p class="muted"><a href="/">Continue to the website</a></p>
     </div>
 
     <script is:inline>
@@ -55,33 +87,16 @@
           'https://play.google.com/store/apps/details?id=io.stampiq.app';
 
         var isPromo = /^\/r\//.test(path);
-        var isIOS = /iPad|iPhone|iPod/.test(ua);
-        var isAndroid = /android/i.test(ua);
-
-        if (!isPromo || (!isIOS && !isAndroid)) {
+        if (!isPromo) {
           location.replace('/');
           return;
         }
 
-        var store = isIOS ? APP_STORE : PLAY_STORE;
-
-        // Send installed apps straight in via the custom scheme — unlike a
-        // same-domain universal link, it works even though this page has loaded.
-        // If nothing handles it the page stays visible and we fall back to the
-        // store; if the app opens the page is backgrounded and we cancel.
-        var timer = setTimeout(function () {
-          location.replace(store);
-        }, 1500);
-
-        function cancel() {
-          clearTimeout(timer);
-        }
-        document.addEventListener('visibilitychange', function () {
-          if (document.hidden) cancel();
-        });
-        window.addEventListener('pagehide', cancel);
-
-        location.href = 'stampiq:/' + path;
+        var isAndroid = /android/i.test(ua);
+        document.getElementById('openApp').href = 'stampiq:/' + path;
+        document.getElementById('getApp').href = isAndroid
+          ? PLAY_STORE
+          : APP_STORE;
       })();
     </script>
   </body>
