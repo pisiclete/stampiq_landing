@@ -7,9 +7,10 @@
 (not yet described)
 
 ## Current status
-The /r promo page now handles all three cases: app already installed (custom scheme handoff), app not installed (manual store buttons), and cancelled auto-redirect. No open issues.
+Subscription-promo QR landing page at /p/<CODE> is live with universal-link support. No open issues.
 
 ## Recent activity
+- 2026-06-18: Added /p subscription-promo QR landing page and universal-link path (909ccd0)
 - 2026-06-16: Fixed /r promo page: custom-scheme handoff, cancel store redirect on app open, and manual open/install fallback buttons (3 commits)
 - 2026-06-13: Added /r promo path to AASA and 404 store-redirect fallback (8a7e0c0)
 - 2026-06-07: Updated CLAUDE.md to document the ToS Historical and Sensitive Content clause (8eda70b)
@@ -26,5 +27,5 @@ The /r promo page now handles all three cases: app already installed (custom sch
 (none)
 
 ## Handoff notes
-stampiq_landing /r/<CODE> deep link flow is fully wired. 6adeb8d drops the auto-redirect in favour of manual open/install buttons to avoid race conditions; b9dece5 adds the stampiq:// custom-scheme handoff for installed-app opens; 58e38bf cancels the store redirect when the app has already opened. Universal Links (AASA, shipped 2026-06-13) remain in place for iOS. No open issues.
+stampiq_landing now serves two deep-link paths: /r/<CODE> for existing promo redemption (wired since 2026-06-16) and /p/<CODE> for subscription-promo QR codes (909ccd0, today). Universal Links (AASA) cover both paths on iOS. No open issues.
 <!-- sigi-end -->
