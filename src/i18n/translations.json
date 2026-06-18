@@ -1848,5 +1848,35 @@
     "it": "Continua sul sito web",
     "nl": "Doorgaan naar de website",
     "pl": "Przejdź do strony internetowej"
+  },
+  {
+    "key": "promoSub.title",
+    "section/location": "Subscription-promo QR landing (/p)",
+    "en": "Claiming your free upgrade",
+    "de": "Dein Gratis-Upgrade wird eingelöst",
+    "fr": "Récupération de votre mise à niveau gratuite",
+    "it": "Riscatto del tuo upgrade gratuito",
+    "nl": "Je gratis upgrade wordt ingewisseld",
+    "pl": "Aktywacja darmowego dostępu"
+  },
+  {
+    "key": "promoSub.subtitle",
+    "section/location": "Subscription-promo QR landing (/p)",
+    "en": "StampIQ is opening to apply your code. Don't have the app yet? Install it, then enter your code when you sign up.",
+    "de": "StampIQ wird geöffnet, um deinen Code einzulösen. Du hast die App noch nicht? Installiere sie und gib deinen Code bei der Anmeldung ein.",
+    "fr": "StampIQ s'ouvre pour appliquer votre code. Vous n'avez pas encore l'application ? Installez-la, puis saisissez votre code lors de l'inscription.",
+    "it": "StampIQ si sta aprendo per applicare il tuo codice. Non hai ancora l'app? Installala, poi inserisci il tuo codice durante la registrazione.",
+    "nl": "StampIQ wordt geopend om je code toe te passen. Heb je de app nog niet? Installeer hem en voer je code in bij het aanmelden.",
+    "pl": "StampIQ otworzy się, aby aktywować Twój kod. Nie masz jeszcze aplikacji? Zainstaluj ją i wpisz kod podczas rejestracji."
+  },
+  {
+    "key": "promoSub.codeLabel",
+    "section/location": "Subscription-promo QR landing (/p) — label above the code",
+    "en": "Your code",
+    "de": "Dein Code",
+    "fr": "Votre code",
+    "it": "Il tuo codice",
+    "nl": "Je code",
+    "pl": "Twój kod"
   }
 ]

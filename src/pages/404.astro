@@ -1,21 +1,27 @@
 ---
-// 404 page, doubling as the scan-promo QR landing.
+// 404 page, doubling as the promo QR landing for both scan codes (/r/<CODE>)
+// and subscription codes (/p/<CODE>).
 //
-// A promo QR encodes https://stampiq.io/r/<CODE>. This is a plain content page
-// with NO JavaScript redirect on /r/ paths: an interstitial JS redirect breaks
-// universal-link resolution and is what made the app open and then bounce back
-// to Safari / the store. With that gone, iOS resolves the universal link cleanly
-// — the app opens and redeems on the first scan. Apple's Smart App Banner (the
-// apple-itunes-app meta tag) is the recommended affordance: installed → "Open"
-// launcher, not installed → install. Android gets a Play Store link.
+// A promo QR encodes https://stampiq.io/r/<CODE> or https://stampiq.io/p/<CODE>.
+// This is a plain content page with NO JavaScript redirect on those paths: an
+// interstitial JS redirect breaks universal-link resolution and is what made the
+// app open and then bounce back to Safari / the store. With that gone, iOS
+// resolves the universal link cleanly — the app opens and redeems on the first
+// scan. Apple's Smart App Banner (the apple-itunes-app meta tag) is the
+// recommended affordance: installed → "Open" launcher, not installed → install.
+// Android gets a Play Store link.
 //
-// Localisation: this page is served for an unprefixed URL (/r/<CODE>), so it
-// can't use the [lang] routing, and redirecting to a localised URL would
-// reintroduce the JS navigation that breaks the link. Instead we ship every
-// language's strings (from translations.json) and swap the TEXT only on load,
-// based on the saved preference or navigator.language — no navigation. Strings
-// fall back to English until the DE/FR/IT/NL/PL values are filled in
-// translations.json. The only redirect is for genuine 404s and never runs on /r/.
+// /r vs /p differ only in copy: /r grants bonus scans (auto-redeemed on a second
+// scan), /p grants a subscription tier (also enterable by hand at signup, so the
+// code is shown). The path prefix is read on load to pick the strings.
+//
+// Localisation: this page is served for an unprefixed URL, so it can't use the
+// [lang] routing, and redirecting to a localised URL would reintroduce the JS
+// navigation that breaks the link. Instead we ship every language's strings
+// (from translations.json) and swap the TEXT only on load, based on the saved
+// preference or navigator.language — no navigation. Strings fall back to English
+// until the DE/FR/IT/NL/PL values are filled. The only redirect is for genuine
+// 404s and never runs on /r/ or /p/.
 import { tFor } from '../i18n/lookup.js';
 
 const LANGS = ['en', 'de', 'fr', 'it', 'nl', 'pl'];
@@ -25,6 +31,9 @@ const KEYS = [
   'promo.appstore',
   'promo.playstore',
   'promo.website',
+  'promoSub.title',
+  'promoSub.subtitle',
+  'promoSub.codeLabel',
 ];
 
 const strings = {};
@@ -91,12 +100,38 @@ const en = strings.en;
         text-decoration: none;
         font-weight: 500;
       }
+      .code-box {
+        display: none;
+        margin: 0 0 24px;
+      }
+      .code-label {
+        font-size: 0.8rem;
+        color: #888888;
+        margin: 0 0 6px;
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
+      }
+      .code-value {
+        font-family: 'SFMono-Regular', Menlo, Consolas, monospace;
+        font-size: 1.1rem;
+        font-weight: 600;
+        letter-spacing: 0.06em;
+        padding: 12px 16px;
+        border: 1px dashed #cccccc;
+        border-radius: 12px;
+        background-color: #ffffff;
+        word-break: break-all;
+      }
     </style>
   </head>
   <body>
     <div class="card">
       <p class="title" id="title">{en['promo.title']}</p>
       <p class="subtitle" id="subtitle">{en['promo.subtitle']}</p>
+      <div class="code-box" id="codeBox">
+        <p class="code-label" id="codeLabel">{en['promoSub.codeLabel']}</p>
+        <div class="code-value" id="codeValue"></div>
+      </div>
       <a class="btn" id="appstore" href="https://apps.apple.com/app/id6760778035"
         >{en['promo.appstore']}</a
       >
@@ -111,7 +146,10 @@ const en = strings.en;
 
     <script is:inline define:vars={{ strings }}>
       (function () {
-        if (!/^\/r\//.test(location.pathname || '')) {
+        var path = location.pathname || '';
+        var isSub = /^\/p\//.test(path);
+        var isScan = /^\/r\//.test(path);
+        if (!isSub && !isScan) {
           location.replace('/');
           return;
         }
@@ -127,15 +165,26 @@ const en = strings.en;
           var b = (navigator.language || 'en').split('-')[0].toLowerCase();
           if (supported.indexOf(b) >= 0) lang = b;
         }
-        if (lang === 'en') return;
-        var s = strings[lang];
-        if (!s) return;
+        var s = strings[lang] || strings.en;
         document.documentElement.lang = lang;
-        document.getElementById('title').textContent = s['promo.title'];
-        document.getElementById('subtitle').textContent = s['promo.subtitle'];
+        document.getElementById('title').textContent =
+          s[isSub ? 'promoSub.title' : 'promo.title'];
+        document.getElementById('subtitle').textContent =
+          s[isSub ? 'promoSub.subtitle' : 'promo.subtitle'];
         document.getElementById('appstore').textContent = s['promo.appstore'];
         document.getElementById('playstore').textContent = s['promo.playstore'];
         document.getElementById('website').textContent = s['promo.website'];
+        if (isSub) {
+          var code = decodeURIComponent(
+            path.replace(/^\/p\//, '').split('/')[0] || ''
+          ).trim();
+          if (code) {
+            document.getElementById('codeValue').textContent = code;
+            document.getElementById('codeLabel').textContent =
+              s['promoSub.codeLabel'];
+            document.getElementById('codeBox').style.display = 'block';
+          }
+        }
       })();
     </script>
   </body>
