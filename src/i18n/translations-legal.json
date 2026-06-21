@@ -10,12 +10,12 @@
   },
   {
     "key": "legal.last_updated",
-    "en": "Last updated: May 15, 2026",
-    "de": "Zuletzt aktualisiert: 15. Mai 2026",
-    "nl": "Laatst bijgewerkt: 15 mei 2026",
-    "pl": "Ostatnia aktualizacja: 15 maja 2026 r.",
-    "fr": "Dernière mise à jour : 15 mai 2026",
-    "it": "Ultimo aggiornamento: 15 maggio 2026"
+    "en": "Last updated: June 22, 2026",
+    "de": "Zuletzt aktualisiert: 22. Juni 2026",
+    "nl": "Laatst bijgewerkt: 22 juni 2026",
+    "pl": "Ostatnia aktualizacja: 22 czerwca 2026 r.",
+    "fr": "Dernière mise à jour : 22 juin 2026",
+    "it": "Ultimo aggiornamento: 22 giugno 2026"
   },
   {
     "key": "privacy.page_title",
@@ -46,12 +46,12 @@
   },
   {
     "key": "privacy.effective_date",
-    "en": "Effective date: May 15, 2026",
-    "de": "Datum des Inkrafttretens: 15. Mai 2026",
-    "nl": "Ingangsdatum: 15 mei 2026",
-    "pl": "Data wejścia w życie: 15 maja 2026",
-    "fr": "Date d'entrée en vigueur : 15 mai 2026",
-    "it": "Data di entrata in vigore: 15 maggio 2026"
+    "en": "Effective date: June 22, 2026",
+    "de": "Datum des Inkrafttretens: 22. Juni 2026",
+    "nl": "Ingangsdatum: 22 juni 2026",
+    "pl": "Data wejścia w życie: 22 czerwca 2026",
+    "fr": "Date d'entrée en vigueur : 22 juin 2026",
+    "it": "Data di entrata in vigore: 22 giugno 2026"
   },
   {
     "key": "privacy.s1_title",
@@ -757,12 +757,12 @@
   },
   {
     "key": "privacy.s3_10_li3",
-    "en": "We do <strong>not</strong> collect data from children under 16 (see Section 10)",
-    "de": "Wir erheben <strong>keine</strong> Daten von Kindern unter 16 Jahren (siehe Abschnitt 10)",
-    "nl": "Wij verzamelen <strong>geen</strong> gegevens van kinderen jonger dan 16 (zie Sectie 10)",
-    "pl": "<strong>Nie</strong> zbieramy danych od dzieci poniżej 16 roku życia (patrz sekcja 10).",
-    "fr": "Nous ne collectons pas de données sur les enfants de moins de 16 ans (voir section 10).",
-    "it": "Non raccogliamo dati da bambini di età inferiore ai 16 anni (vedi sezione 10)."
+    "en": "We do <strong>not</strong> collect data from children under 13 (see Section 10)",
+    "de": "Wir erheben <strong>keine</strong> Daten von Kindern unter 13 Jahren (siehe Abschnitt 10)",
+    "nl": "Wij verzamelen <strong>geen</strong> gegevens van kinderen jonger dan 13 (zie Sectie 10)",
+    "pl": "<strong>Nie</strong> zbieramy danych od dzieci poniżej 13 roku życia (patrz sekcja 10).",
+    "fr": "Nous ne collectons pas de données sur les enfants de moins de 13 ans (voir section 10).",
+    "it": "Non raccogliamo dati da bambini di età inferiore ai 13 anni (vedi sezione 10)."
   },
   {
     "key": "privacy.s3_10_li4",
@@ -1477,30 +1477,30 @@
   },
   {
     "key": "privacy.s10_p1",
-    "en": "StampIQ is not intended for use by anyone under the age of <strong>16</strong>. We do not knowingly collect personal data from children under 16.",
-    "de": "StampIQ ist nicht für die Nutzung durch Personen unter <strong>16</strong> Jahren bestimmt. Wir erheben nicht wissentlich personenbezogene Daten von Kindern unter 16 Jahren.",
-    "nl": "StampIQ is niet bedoeld voor gebruik door personen jonger dan <strong>16</strong>. Wij verzamelen niet bewust persoonlijke gegevens van kinderen jonger dan 16 jaar.",
-    "pl": "StampIQ nie jest przeznaczony do użytku przez osoby poniżej <strong>16 roku życia</strong>. Nie gromadzimy świadomie danych osobowych dzieci poniżej 16 roku życia.",
-    "fr": "StampIQ n'est pas destiné à être utilisé par des personnes de moins de <strong>16</strong>. Nous ne collectons pas sciemment de données personnelles auprès d'enfants de moins de 16 ans.",
-    "it": "StampIQ non è destinato all'uso da parte di persone di età inferiore a <strong>16</strong>. Non raccogliamo consapevolmente dati personali di minori di 16 anni."
+    "en": "StampIQ is not intended for use by anyone under the age of <strong>13</strong>. We do not knowingly collect personal data from children under 13.",
+    "de": "StampIQ ist nicht für die Nutzung durch Personen unter <strong>13</strong> Jahren bestimmt. Wir erheben nicht wissentlich personenbezogene Daten von Kindern unter 13 Jahren.",
+    "nl": "StampIQ is niet bedoeld voor gebruik door personen jonger dan <strong>13</strong>. Wij verzamelen niet bewust persoonlijke gegevens van kinderen jonger dan 13 jaar.",
+    "pl": "StampIQ nie jest przeznaczony do użytku przez osoby poniżej <strong>13 roku życia</strong>. Nie gromadzimy świadomie danych osobowych dzieci poniżej 13 roku życia.",
+    "fr": "StampIQ n'est pas destiné à être utilisé par des personnes de moins de <strong>13</strong>. Nous ne collectons pas sciemment de données personnelles auprès d'enfants de moins de 13 ans.",
+    "it": "StampIQ non è destinato all'uso da parte di persone di età inferiore a <strong>13</strong>. Non raccogliamo consapevolmente dati personali di minori di 13 anni."
   },
   {
     "key": "privacy.s10_p2",
-    "en": "If you are under 16, you may not create an account or use the App. If we become aware that we have collected personal data from a child under 16, we will promptly delete that data.",
-    "de": "Wenn Sie unter 16 Jahre alt sind, dürfen Sie kein Konto erstellen und die App nicht nutzen. Wenn wir feststellen, dass wir personenbezogene Daten von einem Kind unter 16 Jahren erfasst haben, werden wir diese Daten unverzüglich löschen.",
-    "nl": "Als u jonger dan 16 bent, mag u geen account aanmaken of de App gebruiken. Als wij ontdekken dat wij persoonlijke gegevens van een kind jonger dan 16 jaar hebben verzameld, zullen wij deze gegevens onmiddellijk verwijderen.",
-    "pl": "Użytkownik, który nie ukończył 16 lat, nie może utworzyć konta ani korzystać z Aplikacji. Jeśli dowiemy się, że zebraliśmy dane osobowe od dziecka poniżej 16 roku życia, niezwłocznie usuniemy te dane.",
-    "fr": "Si vous avez moins de 16 ans, vous ne pouvez pas créer un compte ou utiliser l'application. Si nous apprenons que nous avons recueilli des données personnelles d'un enfant de moins de 16 ans, nous supprimerons rapidement ces données.",
-    "it": "Se l'utente ha meno di 16 anni, non può creare un account o utilizzare l'App. Se ci rendiamo conto di aver raccolto dati personali di un minore di 16 anni, li cancelleremo prontamente."
+    "en": "If you are under 13, you may not create an account or use the App. If we become aware that we have collected personal data from a child under 13, we will promptly delete that data.",
+    "de": "Wenn Sie unter 13 Jahre alt sind, dürfen Sie kein Konto erstellen und die App nicht nutzen. Wenn wir feststellen, dass wir personenbezogene Daten von einem Kind unter 13 Jahren erfasst haben, werden wir diese Daten unverzüglich löschen.",
+    "nl": "Als u jonger dan 13 bent, mag u geen account aanmaken of de App gebruiken. Als wij ontdekken dat wij persoonlijke gegevens van een kind jonger dan 13 jaar hebben verzameld, zullen wij deze gegevens onmiddellijk verwijderen.",
+    "pl": "Użytkownik, który nie ukończył 13 lat, nie może utworzyć konta ani korzystać z Aplikacji. Jeśli dowiemy się, że zebraliśmy dane osobowe od dziecka poniżej 13 roku życia, niezwłocznie usuniemy te dane.",
+    "fr": "Si vous avez moins de 13 ans, vous ne pouvez pas créer un compte ou utiliser l'application. Si nous apprenons que nous avons recueilli des données personnelles d'un enfant de moins de 13 ans, nous supprimerons rapidement ces données.",
+    "it": "Se l'utente ha meno di 13 anni, non può creare un account o utilizzare l'App. Se ci rendiamo conto di aver raccolto dati personali di un minore di 13 anni, li cancelleremo prontamente."
   },
   {
     "key": "privacy.s10_p3",
-    "en": "If you believe a child under 16 has provided us with personal data, please contact us at <a href=\"mailto:marius@stampiq.io\">marius@stampiq.io</a>.",
-    "de": "Wenn Sie glauben, dass ein Kind unter 16 Jahren uns personenbezogene Daten zur Verfügung gestellt hat, kontaktieren Sie uns bitte unter <a href=\"mailto:marius@stampiq.io\">marius@stampiq.io</a>.",
-    "nl": "Als u denkt dat een kind jonger dan 16 jaar ons persoonsgegevens heeft verstrekt, neem dan contact met ons op via <a href=\"mailto:marius@stampiq.io\">marius@stampiq.io</a>.",
-    "pl": "Jeśli istnieje podejrzenie, że dziecko poniżej 16 roku życia przekazało nam dane osobowe, prosimy o kontakt pod adresem <a href=\"mailto:marius@stampiq.io\">marius@stampiq.io</a>.",
-    "fr": "Si vous pensez qu'un enfant de moins de 16 ans nous a fourni des données à caractère personnel, veuillez nous contacter à l'adresse suivante : <a href=\"mailto:marius@stampiq.io\">marius@stampiq.io</a>.",
-    "it": "Se ritenete che un minore di 16 anni ci abbia fornito dati personali, contattateci all'indirizzo <a href=\"mailto:marius@stampiq.io\">marius@stampiq.io</a>."
+    "en": "If you believe a child under 13 has provided us with personal data, please contact us at <a href=\"mailto:marius@stampiq.io\">marius@stampiq.io</a>.",
+    "de": "Wenn Sie glauben, dass ein Kind unter 13 Jahren uns personenbezogene Daten zur Verfügung gestellt hat, kontaktieren Sie uns bitte unter <a href=\"mailto:marius@stampiq.io\">marius@stampiq.io</a>.",
+    "nl": "Als u denkt dat een kind jonger dan 13 jaar ons persoonsgegevens heeft verstrekt, neem dan contact met ons op via <a href=\"mailto:marius@stampiq.io\">marius@stampiq.io</a>.",
+    "pl": "Jeśli istnieje podejrzenie, że dziecko poniżej 13 roku życia przekazało nam dane osobowe, prosimy o kontakt pod adresem <a href=\"mailto:marius@stampiq.io\">marius@stampiq.io</a>.",
+    "fr": "Si vous pensez qu'un enfant de moins de 13 ans nous a fourni des données à caractère personnel, veuillez nous contacter à l'adresse suivante : <a href=\"mailto:marius@stampiq.io\">marius@stampiq.io</a>.",
+    "it": "Se ritenete che un minore di 13 anni ci abbia fornito dati personali, contattateci all'indirizzo <a href=\"mailto:marius@stampiq.io\">marius@stampiq.io</a>."
   },
   {
     "key": "privacy.s11_title",
@@ -1765,12 +1765,12 @@
   },
   {
     "key": "terms.effective_date",
-    "en": "Effective date: April 1, 2026",
-    "de": "Datum des Inkrafttretens: 1. April 2026",
-    "nl": "Ingangsdatum: 1 april 2026",
-    "pl": "Data wejścia w życie: 1 kwietnia 2026",
-    "fr": "Date d'entrée en vigueur : 1er avril 2026",
-    "it": "Data di entrata in vigore: 1 aprile 2026"
+    "en": "Effective date: June 22, 2026",
+    "de": "Datum des Inkrafttretens: 22. Juni 2026",
+    "nl": "Ingangsdatum: 22 juni 2026",
+    "pl": "Data wejścia w życie: 22 czerwca 2026",
+    "fr": "Date d'entrée en vigueur : 22 juin 2026",
+    "it": "Data di entrata in vigore: 22 giugno 2026"
   },
   {
     "key": "terms.s1_title",
@@ -1819,12 +1819,12 @@
   },
   {
     "key": "terms.s2_li1",
-    "en": "Be at least <strong>16 years of age</strong>",
-    "de": "Mindestens <strong>16 Jahre alt</strong> sein",
-    "nl": "Ten minste <strong>16 jaar oud</strong> zijn",
-    "pl": "mieć co najmniej <strong>16 lat</strong>",
-    "fr": "Être âgé d'au moins <strong>16 ans</strong>.",
-    "it": "Avere almeno <strong>16 anni di età</strong>"
+    "en": "Be at least <strong>13 years of age</strong>",
+    "de": "Mindestens <strong>13 Jahre alt</strong> sein",
+    "nl": "Ten minste <strong>13 jaar oud</strong> zijn",
+    "pl": "mieć co najmniej <strong>13 lat</strong>",
+    "fr": "Être âgé d'au moins <strong>13 ans</strong>.",
+    "it": "Avere almeno <strong>13 anni di età</strong>"
   },
   {
     "key": "terms.s2_li2",
