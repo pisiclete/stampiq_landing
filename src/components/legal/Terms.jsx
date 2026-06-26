@@ -105,7 +105,7 @@ const SECTIONS = [
 
   { type: 'h2', key: 'terms.s10_title' },
   { type: 'p',  key: 'terms.s10_p1' },
-  { type: 'ul', items: ['terms.s10_li1','terms.s10_li2','terms.s10_li2b','terms.s10_li3','terms.s10_li4'] },
+  { type: 'ul', items: ['terms.s10_li1','terms.s10_li2','terms.s10_li2b','terms.s10_li2c','terms.s10_li3','terms.s10_li4'] },
   { type: 'p',  key: 'terms.s10_p2' },
 
   { type: 'h2', key: 'terms.s11_title' },
