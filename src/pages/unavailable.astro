@@ -1,0 +1,13 @@
+---
+import Layout from '../layouts/Layout.astro';
+import UnavailablePage from '../components/UnavailablePage.jsx';
+import { tFor } from '../i18n/lookup.js';
+
+const lang = 'en';
+const title = tFor(lang, 'unavailable.page_title');
+const description = tFor(lang, 'unavailable.meta_description');
+const canonical = 'https://stampiq.io/unavailable.html';
+---
+<Layout {lang} {title} {description} {canonical}>
+  <UnavailablePage lang={lang} client:load />
+</Layout>

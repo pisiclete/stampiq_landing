@@ -100,6 +100,46 @@
     "it": "Accedi"
   },
   {
+    "key": "unavailable.page_title",
+    "section/location": "Country-blocked page — browser tab title",
+    "en": "Not available · StampIQ",
+    "de": "Nicht verfügbar · StampIQ",
+    "nl": "Niet beschikbaar · StampIQ",
+    "pl": "Niedostępny · StampIQ",
+    "fr": "Non disponible · StampIQ",
+    "it": "Non disponibile · StampIQ"
+  },
+  {
+    "key": "unavailable.meta_description",
+    "section/location": "Country-blocked page — meta description",
+    "en": "StampIQ is not yet available in your country.",
+    "de": "StampIQ ist in deinem Land noch nicht verfügbar.",
+    "nl": "StampIQ is nog niet beschikbaar in jouw land.",
+    "pl": "StampIQ nie jest jeszcze dostępny w Twoim kraju.",
+    "fr": "StampIQ n'est pas encore disponible dans votre pays.",
+    "it": "StampIQ non è ancora disponibile nel tuo paese."
+  },
+  {
+    "key": "unavailable.title",
+    "section/location": "Country-blocked page — heading",
+    "en": "StampIQ isn't available in your country yet",
+    "de": "StampIQ ist in deinem Land noch nicht verfügbar",
+    "nl": "StampIQ is nog niet beschikbaar in jouw land",
+    "pl": "StampIQ nie jest jeszcze dostępny w Twoim kraju",
+    "fr": "StampIQ n'est pas encore disponible dans votre pays",
+    "it": "StampIQ non è ancora disponibile nel tuo paese"
+  },
+  {
+    "key": "unavailable.body",
+    "section/location": "Country-blocked page — explanation",
+    "en": "StampIQ is currently available in Germany, Switzerland, Austria, Liechtenstein, the Netherlands and Poland. We're working on bringing it to more countries, so please check back soon.",
+    "de": "StampIQ ist derzeit in Deutschland, der Schweiz, Österreich, Liechtenstein, den Niederlanden und Polen verfügbar. Wir arbeiten daran, weitere Länder hinzuzufügen. Schau bald wieder vorbei.",
+    "nl": "StampIQ is momenteel beschikbaar in Duitsland, Zwitserland, Oostenrijk, Liechtenstein, Nederland en Polen. We werken eraan om meer landen toe te voegen. Kom snel terug.",
+    "pl": "StampIQ jest obecnie dostępny w Niemczech, Szwajcarii, Austrii, Liechtensteinie, Holandii i Polsce. Pracujemy nad udostępnieniem go w kolejnych krajach. Zajrzyj wkrótce ponownie.",
+    "fr": "StampIQ est actuellement disponible en Allemagne, en Suisse, en Autriche, au Liechtenstein, aux Pays-Bas et en Pologne. Nous travaillons à l'étendre à d'autres pays. Revenez bientôt.",
+    "it": "StampIQ è attualmente disponibile in Germania, Svizzera, Austria, Liechtenstein, Paesi Bassi e Polonia. Stiamo lavorando per portarlo in altri paesi. Torna presto a trovarci."
+  },
+  {
     "key": "hero.headline",
     "section/location": "Hero — main heading",
     "en": "Keep Collecting Smarter",
