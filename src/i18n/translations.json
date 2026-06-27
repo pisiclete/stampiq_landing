@@ -90,6 +90,16 @@
     "it": "Scarica"
   },
   {
+    "key": "nav.signin",
+    "section/location": "Header — sign in to the web app",
+    "en": "Sign In",
+    "de": "Anmelden",
+    "nl": "Inloggen",
+    "pl": "Zaloguj się",
+    "fr": "Se connecter",
+    "it": "Accedi"
+  },
+  {
     "key": "hero.headline",
     "section/location": "Hero — main heading",
     "en": "Keep Collecting Smarter",

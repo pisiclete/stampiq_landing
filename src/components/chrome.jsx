@@ -17,6 +17,12 @@ const SUPPORTED_LANGS = [
 // statically-rendered HTML page — no client-side state, no hydration cost.
 const langHref = (code) => (code === 'en' ? '/' : `/${code}/`);
 
+// Web app sign-in. Pass the page language through so the app opens in the same
+// language (it reads ?lang=) — important for a new account, whose language and
+// localized emails are set from this at signup.
+const APP_URL = import.meta.env.PUBLIC_APP_URL || 'https://app.stampiq.io';
+const signInHref = (lang) => `${APP_URL}/?lang=${lang}`;
+
 const LanguageSelector = () => {
   const lang = useLang();
   const [open, setOpen] = useState(false);
@@ -109,6 +115,10 @@ export const Header = () => {
           <Pill variant="neutral" className="siq-nav-pill"><Icons.SwissFlag/><span dangerouslySetInnerHTML={{ __html: t('pill.swiss_made') }}/></Pill>
           <Pill variant="available" className="siq-nav-pill"/>
           <LanguageSelector/>
+          <a href={signInHref(lang)} style={{
+            color: SIQ.fg, textDecoration: 'none', fontSize: 13, fontWeight: 600,
+            whiteSpace: 'nowrap', padding: '6px 8px',
+          }} dangerouslySetInnerHTML={{ __html: t('nav.signin') }}/>
           <a href={`${home}#download`} style={{
             display: 'inline-flex', alignItems: 'center',
             background: SIQ.green, color: 'white', padding: '6px 20px', borderRadius: 25,
