@@ -113,11 +113,13 @@ export const Header = () => {
         </div>
         <div className="siq-nav-pills" style={{ marginLeft: 'auto', display: 'flex', gap: 12, alignItems: 'center' }}>
           <Pill variant="neutral" className="siq-nav-pill"><Icons.SwissFlag/><span dangerouslySetInnerHTML={{ __html: t('pill.swiss_made') }}/></Pill>
-          <Pill variant="available" className="siq-nav-pill"/>
           <LanguageSelector/>
           <a href={signInHref(lang)} style={{
-            color: SIQ.fg, textDecoration: 'none', fontSize: 13, fontWeight: 600,
-            whiteSpace: 'nowrap', padding: '6px 8px',
+            display: 'inline-flex', alignItems: 'center',
+            border: `1px solid ${SIQ.green}`, color: SIQ.greenDarker,
+            background: 'white', padding: '6px 18px', borderRadius: 25,
+            textDecoration: 'none', fontSize: 13, fontWeight: 600, lineHeight: 1.4,
+            whiteSpace: 'nowrap',
           }} dangerouslySetInnerHTML={{ __html: t('nav.signin') }}/>
           <a href={`${home}#download`} style={{
             display: 'inline-flex', alignItems: 'center',
