@@ -7,9 +7,10 @@
 (not yet described)
 
 ## Current status
-Web payments and web app scope added to legal pages (ce52346). No open issues.
+Three commits today: country-unavailable page for web geo-block, localised Sign In link for the web app, and nav decluttered (redundant pill dropped, Sign In styled as button). No open issues.
 
 ## Recent activity
+- 2026-06-27: Shipped 3 commits: country-unavailable geo-block page, localised Sign In link, nav declutter
 - 2026-06-26: Shipped 1 commit: disclosed web payments and broadened legal scope to cover web app
 - 2026-06-18: Added /p subscription-promo QR landing page and universal-link path (909ccd0)
 - 2026-06-16: Fixed /r promo page: custom-scheme handoff, cancel store redirect on app open, and manual open/install fallback buttons (3 commits)
@@ -28,5 +29,5 @@ Web payments and web app scope added to legal pages (ce52346). No open issues.
 (none)
 
 ## Handoff notes
-stampiq_landing legal pages now cover both mobile and web app, including web payment disclosure (ce52346). No open issues or blockers.
+stampiq_landing now supports the web app launch with a country-unavailable page (for geo-blocked visitors) and a localised Sign In link. Legal pages already cover web payments and the web app scope (ce52346 from yesterday). No open issues.
 <!-- sigi-end -->
