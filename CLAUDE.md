@@ -4,10 +4,10 @@
 # stampiq_landing
 
 ## Summary
-(not yet described)
+StampIQ Landing is the static marketing and legal site for stampiq.io, built with Astro and React and deployed to GitHub Pages. It serves six language variants (English, German, French, Italian, Dutch, Polish) across separate per-language routes, with each page pre-rendered to HTML at build time so search engines see real content and can index each language separately via hreflang tags. The site includes marketing pages, privacy policy, terms of service, and account deletion flow, plus a legacy redirect layer that catches old `?lang=` query parameters from app store listings and normalizes them to the current canonical URL structure.
 
 ## Current status
-Three commits today: country-unavailable page for web geo-block, localised Sign In link for the web app, and nav decluttered (redundant pill dropped, Sign In styled as button). No open issues.
+The landing site is current with no open issues. The most recent work added a geo-block page, localised sign-in links, nav simplification, and expanded legal coverage for web payments.
 
 ## Recent activity
 - 2026-06-27: Shipped 3 commits: country-unavailable geo-block page, localised Sign In link, nav declutter
@@ -29,5 +29,5 @@ Three commits today: country-unavailable page for web geo-block, localised Sign 
 (none)
 
 ## Handoff notes
-stampiq_landing now supports the web app launch with a country-unavailable page (for geo-blocked visitors) and a localised Sign In link. Legal pages already cover web payments and the web app scope (ce52346 from yesterday). No open issues.
+No work is currently in flight and there are no tracked open issues. The /r and /p promo and QR-landing paths were added and fixed in mid-June, so those are the newest structural additions worth reviewing if anything related to app deep-linking comes up. CLAUDE.md is up to date and documents key decisions including the ToS sensitive-content clause and Sentry privacy disclosure.
 <!-- sigi-end -->
