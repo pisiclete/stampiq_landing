@@ -7,9 +7,10 @@
 StampIQ Landing is the static marketing and legal site for stampiq.io, built with Astro and React and deployed to GitHub Pages. It serves six language variants (English, German, French, Italian, Dutch, Polish) across separate per-language routes, with each page pre-rendered to HTML at build time so search engines see real content and can index each language separately via hreflang tags. The site includes marketing pages, privacy policy, terms of service, and account deletion flow, plus a legacy redirect layer that catches old `?lang=` query parameters from app store listings and normalizes them to the current canonical URL structure.
 
 ## Current status
-The landing site is current with no open issues. The most recent work added a geo-block page, localised sign-in links, nav simplification, and expanded legal coverage for web payments.
+The site is stable with no open issues. The most recent work added a geo-block page, localised nav elements, web payments disclosure, and two promo/universal-link paths for app store and QR flows.
 
 ## Recent activity
+- 2026-07-04: sync CLAUDE.md (209bc58)
 - 2026-06-27: Shipped 3 commits: country-unavailable geo-block page, localised Sign In link, nav declutter
 - 2026-06-26: Shipped 1 commit: disclosed web payments and broadened legal scope to cover web app
 - 2026-06-18: Added /p subscription-promo QR landing page and universal-link path (909ccd0)
@@ -29,5 +30,5 @@ The landing site is current with no open issues. The most recent work added a ge
 (none)
 
 ## Handoff notes
-No work is currently in flight and there are no tracked open issues. The /r and /p promo and QR-landing paths were added and fixed in mid-June, so those are the newest structural additions worth reviewing if anything related to app deep-linking comes up. CLAUDE.md is up to date and documents key decisions including the ToS sensitive-content clause and Sentry privacy disclosure.
+No active work is in flight and there are no tracked issues. The last substantive changes were legal and nav updates in late June 2026, plus the /r and /p promo paths added in mid-June. CLAUDE.md was synced on 2026-07-04, likely reflecting documentation housekeeping rather than feature work.
 <!-- sigi-end -->
