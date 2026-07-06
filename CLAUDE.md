@@ -7,9 +7,10 @@
 StampIQ Landing is the static marketing and legal site for stampiq.io, built with Astro and React and deployed to GitHub Pages. It serves six language variants (English, German, French, Italian, Dutch, Polish) across separate per-language routes, with each page pre-rendered to HTML at build time so search engines see real content and can index each language separately via hreflang tags. The site includes marketing pages, privacy policy, terms of service, and account deletion flow, plus a legacy redirect layer that catches old `?lang=` query parameters from app store listings and normalizes them to the current canonical URL structure.
 
 ## Current status
-The site is stable with no open issues. The most recent work added a geo-block page, localised nav elements, web payments disclosure, and two promo/universal-link paths for app store and QR flows.
+The site is stable with no open issues. Recent work has been documentation syncs, with the last substantive feature being the geo-block page and nav updates shipped on 2026-06-27.
 
 ## Recent activity
+- 2026-07-05: Synced CLAUDE.md (6eee41a)
 - 2026-07-04: sync CLAUDE.md (209bc58)
 - 2026-06-27: Shipped 3 commits: country-unavailable geo-block page, localised Sign In link, nav declutter
 - 2026-06-26: Shipped 1 commit: disclosed web payments and broadened legal scope to cover web app
@@ -30,5 +31,5 @@ The site is stable with no open issues. The most recent work added a geo-block p
 (none)
 
 ## Handoff notes
-No active work is in flight and there are no tracked issues. The last substantive changes were legal and nav updates in late June 2026, plus the /r and /p promo paths added in mid-June. CLAUDE.md was synced on 2026-07-04, likely reflecting documentation housekeeping rather than feature work.
+No active work is in flight. The most recent functional additions are the country-unavailable geo-block page, the /p subscription-promo QR landing, and the /r promo path with custom-scheme app handoff. The last two commits are CLAUDE.md syncs with no code changes.
 <!-- sigi-end -->
