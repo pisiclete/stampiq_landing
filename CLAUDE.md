@@ -7,9 +7,10 @@
 StampIQ Landing is the static marketing and legal site for stampiq.io, built with Astro and React and deployed to GitHub Pages. It serves six language variants (English, German, French, Italian, Dutch, Polish) across separate per-language routes, with each page pre-rendered to HTML at build time so search engines see real content and can index each language separately via hreflang tags. The site includes marketing pages, privacy policy, terms of service, and account deletion flow, plus a legacy redirect layer that catches old `?lang=` query parameters from app store listings and normalizes them to the current canonical URL structure.
 
 ## Current status
-The site is stable with no open issues. The last substantive work was in late June, covering a geo-block page, localised sign-in links, and legal updates for web payments. Since July 4, all commits have been CLAUDE.md syncs with no code changes.
+No open issues. The last two weeks of commits are exclusively CLAUDE.md syncs with no functional changes. The most recent substantive work, from late June, added a geo-block page, localised nav links, and broadened legal coverage for the web app.
 
 ## Recent activity
+- 2026-07-11: Synced CLAUDE.md (3f3d42b)
 - 2026-07-10: Synced CLAUDE.md (74dca1f)
 - 2026-07-09: Sync CLAUDE.md (c686630)
 - 2026-07-08: sync CLAUDE.md (5c6daba)
@@ -36,5 +37,5 @@ The site is stable with no open issues. The last substantive work was in late Ju
 (none)
 
 ## Handoff notes
-Nothing is actively in flight. The recent CLAUDE.md churn is likely automated or tooling-driven rather than development work. The /r and /p promo paths, geo-block page, and web-app legal scope were the last meaningful additions. To resume development, check whether any product-side changes to the app or backend require corresponding landing page or legal updates.
+The site is stable with no tracked work in flight. The CLAUDE.md sync cadence suggests automated or tooling-driven commits rather than active development. If new work is needed, the last functional touchpoints were the /p and /r promo and universal-link paths added in mid-June, and the geo-block page shipped on 2026-06-27.
 <!-- sigi-end -->
