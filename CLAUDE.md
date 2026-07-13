@@ -7,9 +7,10 @@
 StampIQ Landing is the static marketing and legal site for stampiq.io, built with Astro and React and deployed to GitHub Pages. It serves six language variants (English, German, French, Italian, Dutch, Polish) across separate per-language routes, with each page pre-rendered to HTML at build time so search engines see real content and can index each language separately via hreflang tags. The site includes marketing pages, privacy policy, terms of service, and account deletion flow, plus a legacy redirect layer that catches old `?lang=` query parameters from app store listings and normalizes them to the current canonical URL structure.
 
 ## Current status
-No open issues. The last two weeks of commits are exclusively CLAUDE.md syncs with no functional changes. The most recent substantive work, from late June, added a geo-block page, localised nav links, and broadened legal coverage for the web app.
+No open issues. The last two weeks of activity are exclusively CLAUDE.md syncs with no functional changes. The most recent substantive work was the geo-block page, localised sign-in link, and nav changes shipped on 2026-06-27.
 
 ## Recent activity
+- 2026-07-12: Synced CLAUDE.md (f651a50)
 - 2026-07-11: Synced CLAUDE.md (3f3d42b)
 - 2026-07-10: Synced CLAUDE.md (74dca1f)
 - 2026-07-09: Sync CLAUDE.md (c686630)
@@ -37,5 +38,5 @@ No open issues. The last two weeks of commits are exclusively CLAUDE.md syncs wi
 (none)
 
 ## Handoff notes
-The site is stable with no tracked work in flight. The CLAUDE.md sync cadence suggests automated or tooling-driven commits rather than active development. If new work is needed, the last functional touchpoints were the /p and /r promo and universal-link paths added in mid-June, and the geo-block page shipped on 2026-06-27.
+The site is stable and feature-complete relative to the current backlog. The recent CLAUDE.md sync cadence suggests automated or routine syncing rather than active development. If picking this up, the geo-block page and /p and /r promo paths are the newest additions and would be the first place to look for anything that may need follow-up.
 <!-- sigi-end -->
