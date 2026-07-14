@@ -7,9 +7,10 @@
 StampIQ Landing is the static marketing and legal site for stampiq.io, built with Astro and React and deployed to GitHub Pages. It serves six language variants (English, German, French, Italian, Dutch, Polish) across separate per-language routes, with each page pre-rendered to HTML at build time so search engines see real content and can index each language separately via hreflang tags. The site includes marketing pages, privacy policy, terms of service, and account deletion flow, plus a legacy redirect layer that catches old `?lang=` query parameters from app store listings and normalizes them to the current canonical URL structure.
 
 ## Current status
-No open issues. The last two weeks of activity are exclusively CLAUDE.md syncs with no functional changes. The most recent substantive work was the geo-block page, localised sign-in link, and nav changes shipped on 2026-06-27.
+The site has no open issues. The last substantive work was in late June, adding a geo-block page, localised nav, and broadened legal scope. Since then, the only commits are daily CLAUDE.md syncs.
 
 ## Recent activity
+- 2026-07-13: Synced CLAUDE.md (7260173)
 - 2026-07-12: Synced CLAUDE.md (f651a50)
 - 2026-07-11: Synced CLAUDE.md (3f3d42b)
 - 2026-07-10: Synced CLAUDE.md (74dca1f)
@@ -38,5 +39,5 @@ No open issues. The last two weeks of activity are exclusively CLAUDE.md syncs w
 (none)
 
 ## Handoff notes
-The site is stable and feature-complete relative to the current backlog. The recent CLAUDE.md sync cadence suggests automated or routine syncing rather than active development. If picking this up, the geo-block page and /p and /r promo paths are the newest additions and would be the first place to look for anything that may need follow-up.
+All known tasks are closed. The repo is in a holding pattern with no active development. If picking this up, check whether the CLAUDE.md sync automation is intentional or a side effect of another workflow, as it has produced the sole commit activity for the past two-plus weeks.
 <!-- sigi-end -->
