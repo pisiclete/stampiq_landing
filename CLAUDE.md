@@ -7,9 +7,10 @@
 StampIQ Landing is the static marketing and legal site for stampiq.io, built with Astro and React and deployed to GitHub Pages. It serves six language variants (English, German, French, Italian, Dutch, Polish) across separate per-language routes, with each page pre-rendered to HTML at build time so search engines see real content and can index each language separately via hreflang tags. The site includes marketing pages, privacy policy, terms of service, and account deletion flow, plus a legacy redirect layer that catches old `?lang=` query parameters from app store listings and normalizes them to the current canonical URL structure.
 
 ## Current status
-The site has no open issues. The last substantive work was in late June, adding a geo-block page, localised nav, and broadened legal scope. Since then, the only commits are daily CLAUDE.md syncs.
+No open issues and no functional changes for the past two weeks. The only recent commits are daily CLAUDE.md syncs, suggesting the site is in a stable, maintenance-free state after the geo-block page and legal updates shipped in late June.
 
 ## Recent activity
+- 2026-07-14: Synced CLAUDE.md (0e43a33)
 - 2026-07-13: Synced CLAUDE.md (7260173)
 - 2026-07-12: Synced CLAUDE.md (f651a50)
 - 2026-07-11: Synced CLAUDE.md (3f3d42b)
@@ -39,5 +40,5 @@ The site has no open issues. The last substantive work was in late June, adding 
 (none)
 
 ## Handoff notes
-All known tasks are closed. The repo is in a holding pattern with no active development. If picking this up, check whether the CLAUDE.md sync automation is intentional or a side effect of another workflow, as it has produced the sole commit activity for the past two-plus weeks.
+The last substantive work, shipped 2026-06-27, added a country-unavailable geo-block page, localised sign-in links, and nav cleanup. Prior to that, the /r and /p promo and universal-link paths were built out in mid-June. There is nothing in flight and no open issues. The daily CLAUDE.md syncs appear automated and carry no functional content.
 <!-- sigi-end -->
