@@ -7,7 +7,7 @@
 StampIQ Landing is the static marketing and legal site for stampiq.io, built with Astro and React and deployed to GitHub Pages. It serves six language variants (English, German, French, Italian, Dutch, Polish) across separate per-language routes, with each page pre-rendered to HTML at build time so search engines see real content and can index each language separately via hreflang tags. The site includes marketing pages, privacy policy, terms of service, and account deletion flow, plus a legacy redirect layer that catches old `?lang=` query parameters from app store listings and normalizes them to the current canonical URL structure.
 
 ## Current status
-No open issues and no functional changes for the past two weeks. The only recent commits are daily CLAUDE.md syncs, suggesting the site is in a stable, maintenance-free state after the geo-block page and legal updates shipped in late June.
+No open issues. The last substantive work was in late June, adding a geo-block page, localising the Sign In link, and decluttering the nav. The past two weeks show only daily CLAUDE.md syncs with no code changes.
 
 ## Recent activity
 - 2026-07-14: Synced CLAUDE.md (0e43a33)
@@ -40,5 +40,5 @@ No open issues and no functional changes for the past two weeks. The only recent
 (none)
 
 ## Handoff notes
-The last substantive work, shipped 2026-06-27, added a country-unavailable geo-block page, localised sign-in links, and nav cleanup. Prior to that, the /r and /p promo and universal-link paths were built out in mid-June. There is nothing in flight and no open issues. The daily CLAUDE.md syncs appear automated and carry no functional content.
+The site is stable with no outstanding issues. The most recent feature work covered the /r and /p promo and universal-link paths, the geo-block page, and legal updates for web payments and sensitive content. Daily CLAUDE.md commits appear automated and carry no functional changes, so the working state matches the June 27 nav refactor.
 <!-- sigi-end -->
