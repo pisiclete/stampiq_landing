@@ -10,12 +10,12 @@
   },
   {
     "key": "legal.last_updated",
-    "en": "Last updated: June 26, 2026",
-    "de": "Zuletzt aktualisiert: 26. Juni 2026",
-    "nl": "Laatst bijgewerkt: 26 juni 2026",
-    "pl": "Ostatnia aktualizacja: 26 czerwca 2026 r.",
-    "fr": "Dernière mise à jour : 26 juin 2026",
-    "it": "Ultimo aggiornamento: 26 giugno 2026"
+    "en": "Last updated: August 2, 2026",
+    "de": "Zuletzt aktualisiert: 2. August 2026",
+    "nl": "Laatst bijgewerkt: 2 augustus 2026",
+    "pl": "Ostatnia aktualizacja: 2 sierpnia 2026 r.",
+    "fr": "Dernière mise à jour : 2 août 2026",
+    "it": "Ultimo aggiornamento: 2 agosto 2026"
   },
   {
     "key": "privacy.page_title",
@@ -757,12 +757,12 @@
   },
   {
     "key": "privacy.s3_10_li3",
-    "en": "We do <strong>not</strong> collect data from children under 13 (see Section 10)",
-    "de": "Wir erheben <strong>keine</strong> Daten von Kindern unter 13 Jahren (siehe Abschnitt 10)",
-    "nl": "Wij verzamelen <strong>geen</strong> gegevens van kinderen jonger dan 13 (zie Sectie 10)",
-    "pl": "<strong>Nie</strong> zbieramy danych od dzieci poniżej 13 roku życia (patrz sekcja 10).",
-    "fr": "Nous ne collectons pas de données sur les enfants de moins de 13 ans (voir section 10).",
-    "it": "Non raccogliamo dati da bambini di età inferiore ai 13 anni (vedi sezione 10)."
+    "en": "We collect data from children under 13 only with a parent or guardian's consent (see Section 10)",
+    "de": "Daten von Kindern unter 13 Jahren erheben wir nur mit Einwilligung eines Elternteils oder gesetzlichen Vertreters (siehe Abschnitt 10)",
+    "nl": "Wij verzamelen alleen gegevens van kinderen jonger dan 13 met toestemming van een ouder of wettelijke vertegenwoordiger (zie Sectie 10)",
+    "pl": "Dane dzieci poniżej 13 roku życia zbieramy wyłącznie za zgodą rodzica lub opiekuna prawnego (patrz sekcja 10)",
+    "fr": "Nous ne collectons des données sur les enfants de moins de 13 ans qu'avec le consentement d'un parent ou représentant légal (voir section 10)",
+    "it": "Raccogliamo dati da minori di 13 anni solo con il consenso di un genitore o tutore legale (vedi sezione 10)"
   },
   {
     "key": "privacy.s3_10_li4",
@@ -1305,13 +1305,13 @@
     "it": "9.3 Diritto alla cancellazione (art. 17 GDPR)"
   },
   {
-  "key": "privacy.s9_3_p1",
-  "en": "You can request deletion of your personal data. You can also delete your account directly in the App or via our <a href=\"delete-account.html\">web-based account deletion page</a>.",
-  "de": "Sie können die Löschung Ihrer personenbezogenen Daten beantragen. Sie können Ihr Konto auch direkt in der App oder über unsere <a href=\"delete-account.html\">webbasierte Seite zur Kontolöschung</a> löschen.",
-  "nl": "U kunt verzoeken om verwijdering van uw persoonlijke gegevens. U kunt uw account ook direct in de app verwijderen of via onze <a href=\"delete-account.html\">webpagina voor accountverwijdering</a>.",
-  "pl": "Możesz zażądać usunięcia swoich danych osobowych. Możesz również usunąć swoje konto bezpośrednio w aplikacji lub za pośrednictwem naszej <a href=\"delete-account.html\">strony internetowej do usuwania konta</a>.",
-  "fr": "Vous pouvez demander la suppression de vos données personnelles. Vous pouvez également supprimer votre compte directement dans l’application ou via notre <a href=\"delete-account.html\">page web de suppression de compte</a>.",
-  "it": "Puoi richiedere la cancellazione dei tuoi dati personali. Puoi anche eliminare il tuo account direttamente nell’app o tramite la nostra <a href=\"delete-account.html\">pagina web per la cancellazione dell’account</a>."
+    "key": "privacy.s9_3_p1",
+    "en": "You can request deletion of your personal data. You can also delete your account directly in the App or via our <a href=\"delete-account.html\">web-based account deletion page</a>.",
+    "de": "Sie können die Löschung Ihrer personenbezogenen Daten beantragen. Sie können Ihr Konto auch direkt in der App oder über unsere <a href=\"delete-account.html\">webbasierte Seite zur Kontolöschung</a> löschen.",
+    "nl": "U kunt verzoeken om verwijdering van uw persoonlijke gegevens. U kunt uw account ook direct in de app verwijderen of via onze <a href=\"delete-account.html\">webpagina voor accountverwijdering</a>.",
+    "pl": "Możesz zażądać usunięcia swoich danych osobowych. Możesz również usunąć swoje konto bezpośrednio w aplikacji lub za pośrednictwem naszej <a href=\"delete-account.html\">strony internetowej do usuwania konta</a>.",
+    "fr": "Vous pouvez demander la suppression de vos données personnelles. Vous pouvez également supprimer votre compte directement dans l’application ou via notre <a href=\"delete-account.html\">page web de suppression de compte</a>.",
+    "it": "Puoi richiedere la cancellazione dei tuoi dati personali. Puoi anche eliminare il tuo account direttamente nell’app o tramite la nostra <a href=\"delete-account.html\">pagina web per la cancellazione dell’account</a>."
   },
   {
     "key": "privacy.s9_4_title",
@@ -1477,30 +1477,57 @@
   },
   {
     "key": "privacy.s10_p1",
-    "en": "StampIQ is not intended for use by anyone under the age of <strong>13</strong>. We do not knowingly collect personal data from children under 13.",
-    "de": "StampIQ ist nicht für die Nutzung durch Personen unter <strong>13</strong> Jahren bestimmt. Wir erheben nicht wissentlich personenbezogene Daten von Kindern unter 13 Jahren.",
-    "nl": "StampIQ is niet bedoeld voor gebruik door personen jonger dan <strong>13</strong>. Wij verzamelen niet bewust persoonlijke gegevens van kinderen jonger dan 13 jaar.",
-    "pl": "StampIQ nie jest przeznaczony do użytku przez osoby poniżej <strong>13 roku życia</strong>. Nie gromadzimy świadomie danych osobowych dzieci poniżej 13 roku życia.",
-    "fr": "StampIQ n'est pas destiné à être utilisé par des personnes de moins de <strong>13</strong>. Nous ne collectons pas sciemment de données personnelles auprès d'enfants de moins de 13 ans.",
-    "it": "StampIQ non è destinato all'uso da parte di persone di età inferiore a <strong>13</strong>. Non raccogliamo consapevolmente dati personali di minori di 13 anni."
+    "en": "StampIQ may be used by children under <strong>13</strong> only with the consent of a parent or legal guardian. When someone indicates during registration that they are under 13, we ask for a parent or guardian's email address and hold the account inactive until that person consents.",
+    "de": "StampIQ darf von Kindern unter <strong>13</strong> Jahren nur mit Einwilligung eines Elternteils oder gesetzlichen Vertreters genutzt werden. Gibt jemand bei der Registrierung an, unter 13 zu sein, fragen wir die E-Mail-Adresse eines Elternteils oder gesetzlichen Vertreters ab und halten das Konto inaktiv, bis diese Person einwilligt.",
+    "nl": "StampIQ mag door kinderen jonger dan <strong>13</strong> jaar alleen worden gebruikt met toestemming van een ouder of wettelijke vertegenwoordiger. Wanneer iemand bij de registratie aangeeft jonger dan 13 te zijn, vragen wij het e-mailadres van een ouder of wettelijke vertegenwoordiger en houden wij het account inactief totdat die persoon toestemming geeft.",
+    "pl": "Z StampIQ mogą korzystać dzieci poniżej <strong>13 roku życia</strong> wyłącznie za zgodą rodzica lub opiekuna prawnego. Gdy ktoś wskaże podczas rejestracji, że ma mniej niż 13 lat, prosimy o adres e-mail rodzica lub opiekuna prawnego i utrzymujemy konto jako nieaktywne, dopóki ta osoba nie wyrazi zgody.",
+    "fr": "StampIQ ne peut être utilisé par des enfants de moins de <strong>13</strong> ans qu'avec le consentement d'un parent ou représentant légal. Lorsqu'une personne indique lors de l'inscription qu'elle a moins de 13 ans, nous demandons l'adresse e-mail d'un parent ou représentant légal et maintenons le compte inactif jusqu'à ce que cette personne donne son consentement.",
+    "it": "StampIQ può essere utilizzato da minori di <strong>13</strong> anni solo con il consenso di un genitore o tutore legale. Quando qualcuno indica in fase di registrazione di avere meno di 13 anni, chiediamo l'indirizzo e-mail di un genitore o tutore legale e manteniamo l'account inattivo finché tale persona non presta il consenso."
   },
   {
     "key": "privacy.s10_p2",
-    "en": "If you are under 13, you may not create an account or use the App. If we become aware that we have collected personal data from a child under 13, we will promptly delete that data.",
-    "de": "Wenn Sie unter 13 Jahre alt sind, dürfen Sie kein Konto erstellen und die App nicht nutzen. Wenn wir feststellen, dass wir personenbezogene Daten von einem Kind unter 13 Jahren erfasst haben, werden wir diese Daten unverzüglich löschen.",
-    "nl": "Als u jonger dan 13 bent, mag u geen account aanmaken of de App gebruiken. Als wij ontdekken dat wij persoonlijke gegevens van een kind jonger dan 13 jaar hebben verzameld, zullen wij deze gegevens onmiddellijk verwijderen.",
-    "pl": "Użytkownik, który nie ukończył 13 lat, nie może utworzyć konta ani korzystać z Aplikacji. Jeśli dowiemy się, że zebraliśmy dane osobowe od dziecka poniżej 13 roku życia, niezwłocznie usuniemy te dane.",
-    "fr": "Si vous avez moins de 13 ans, vous ne pouvez pas créer un compte ou utiliser l'application. Si nous apprenons que nous avons recueilli des données personnelles d'un enfant de moins de 13 ans, nous supprimerons rapidement ces données.",
-    "it": "Se l'utente ha meno di 13 anni, non può creare un account o utilizzare l'App. Se ci rendiamo conto di aver raccolto dati personali di un minore di 13 anni, li cancelleremo prontamente."
+    "en": "We collect the same account data from a child as from any other user: email address, name, display name, country, language and time zone. We additionally collect the parent or guardian's email address for the sole purpose of requesting and recording consent. We do not use it for marketing.",
+    "de": "Wir erheben von einem Kind dieselben Kontodaten wie von jedem anderen Nutzer: E-Mail-Adresse, Name, Anzeigename, Land, Sprache und Zeitzone. Zusätzlich erheben wir die E-Mail-Adresse des Elternteils oder gesetzlichen Vertreters ausschliesslich zum Zweck der Einholung und Dokumentation der Einwilligung. Wir nutzen sie nicht für Marketing.",
+    "nl": "Wij verzamelen van een kind dezelfde accountgegevens als van iedere andere gebruiker: e-mailadres, naam, weergavenaam, land, taal en tijdzone. Daarnaast verzamelen wij het e-mailadres van de ouder of wettelijke vertegenwoordiger, uitsluitend om toestemming te vragen en vast te leggen. Wij gebruiken het niet voor marketing.",
+    "pl": "Od dziecka zbieramy te same dane konta co od każdego innego użytkownika: adres e-mail, imię i nazwisko, nazwę wyświetlaną, kraj, język i strefę czasową. Dodatkowo zbieramy adres e-mail rodzica lub opiekuna prawnego wyłącznie w celu uzyskania i udokumentowania zgody. Nie wykorzystujemy go do celów marketingowych.",
+    "fr": "Nous collectons auprès d'un enfant les mêmes données de compte que pour tout autre utilisateur : adresse e-mail, nom, nom d'affichage, pays, langue et fuseau horaire. Nous collectons en outre l'adresse e-mail du parent ou représentant légal dans le seul but de demander et de consigner le consentement. Nous ne l'utilisons pas à des fins de marketing.",
+    "it": "Raccogliamo da un minore gli stessi dati dell'account di qualsiasi altro utente: indirizzo e-mail, nome, nome visualizzato, paese, lingua e fuso orario. Raccogliamo inoltre l'indirizzo e-mail del genitore o tutore legale al solo scopo di richiedere e documentare il consenso. Non lo utilizziamo per finalità di marketing."
   },
   {
     "key": "privacy.s10_p3",
-    "en": "If you believe a child under 13 has provided us with personal data, please contact us at <a href=\"mailto:marius@stampiq.io\">marius@stampiq.io</a>.",
-    "de": "Wenn Sie glauben, dass ein Kind unter 13 Jahren uns personenbezogene Daten zur Verfügung gestellt hat, kontaktieren Sie uns bitte unter <a href=\"mailto:marius@stampiq.io\">marius@stampiq.io</a>.",
-    "nl": "Als u denkt dat een kind jonger dan 13 jaar ons persoonsgegevens heeft verstrekt, neem dan contact met ons op via <a href=\"mailto:marius@stampiq.io\">marius@stampiq.io</a>.",
-    "pl": "Jeśli istnieje podejrzenie, że dziecko poniżej 13 roku życia przekazało nam dane osobowe, prosimy o kontakt pod adresem <a href=\"mailto:marius@stampiq.io\">marius@stampiq.io</a>.",
-    "fr": "Si vous pensez qu'un enfant de moins de 13 ans nous a fourni des données à caractère personnel, veuillez nous contacter à l'adresse suivante : <a href=\"mailto:marius@stampiq.io\">marius@stampiq.io</a>.",
-    "it": "Se ritenete che un minore di 13 anni ci abbia fornito dati personali, contattateci all'indirizzo <a href=\"mailto:marius@stampiq.io\">marius@stampiq.io</a>."
+    "en": "Analytics, location data and marketing email are switched off for under-13 accounts and cannot be enabled. Under-13 accounts are limited to the free plan and cannot make purchases.",
+    "de": "Analyse, Standortdaten und Marketing-E-Mails sind bei Konten von unter 13-Jährigen deaktiviert und können nicht aktiviert werden. Konten von unter 13-Jährigen sind auf den kostenlosen Tarif beschränkt und können keine Käufe tätigen.",
+    "nl": "Analyses, locatiegegevens en marketingmail zijn uitgeschakeld voor accounts van kinderen onder de 13 en kunnen niet worden ingeschakeld. Deze accounts zijn beperkt tot het gratis abonnement en kunnen geen aankopen doen.",
+    "pl": "W kontach osób poniżej 13 roku życia analityka, dane o lokalizacji i wiadomości marketingowe są wyłączone i nie można ich włączyć. Konta te są ograniczone do planu bezpłatnego i nie mogą dokonywać zakupów.",
+    "fr": "Les analyses, les données de localisation et les e-mails marketing sont désactivés pour les comptes de moins de 13 ans et ne peuvent pas être activés. Ces comptes sont limités à la formule gratuite et ne peuvent effectuer aucun achat.",
+    "it": "Analisi, dati di posizione ed e-mail di marketing sono disattivati per gli account di minori di 13 anni e non possono essere attivati. Tali account sono limitati al piano gratuito e non possono effettuare acquisti."
+  },
+  {
+    "key": "privacy.s10_p4",
+    "en": "We send the parent or guardian a consent request containing a single-use link valid for 24 hours. If they consent, we record the consent together with the date, IP address and browser identification as proof, and the child's account becomes usable. If they do nothing, the account and everything in it are deleted automatically after 48 hours. That consent is what allows us to activate the account (Art. 6(1)(a) in conjunction with Art. 8 GDPR). The service itself — managing the collection and processing stamp photographs to identify stamps and to maintain and improve our recognition — rests on our contract with the user (Art. 6(1)(b) GDPR), as it does for every other account. Retention of those photographs is described in Section 8.",
+    "de": "Wir senden dem Elternteil oder gesetzlichen Vertreter eine Einwilligungsanfrage mit einem einmalig verwendbaren Link, der 24 Stunden gültig ist. Bei Einwilligung dokumentieren wir diese zusammen mit Datum, IP-Adresse und Browserkennung als Nachweis, und das Konto des Kindes wird nutzbar. Erfolgt keine Reaktion, werden das Konto und alle darin enthaltenen Daten nach 48 Stunden automatisch gelöscht. Diese Einwilligung erlaubt uns die Aktivierung des Kontos (Art. 6 Abs. 1 lit. a i. V. m. Art. 8 DSGVO). Der Dienst selbst — die Verwaltung der Sammlung sowie die Verarbeitung von Briefmarkenfotos zur Erkennung von Briefmarken und zur Aufrechterhaltung und Verbesserung unserer Erkennung — beruht auf unserem Vertrag mit dem Nutzer (Art. 6 Abs. 1 lit. b DSGVO), wie bei jedem anderen Konto. Die Aufbewahrung dieser Fotos ist in Abschnitt 8 beschrieben.",
+    "fr": "Nous envoyons au parent ou représentant légal une demande de consentement contenant un lien à usage unique valable 24 heures. En cas de consentement, nous le consignons avec la date, l'adresse IP et l'identification du navigateur à titre de preuve, et le compte de l'enfant devient utilisable. En l'absence de réaction, le compte et tout son contenu sont supprimés automatiquement au bout de 48 heures. C'est ce consentement qui nous permet d'activer le compte (art. 6, § 1, a, combiné à l'art. 8 du RGPD). Le service lui-même — la gestion de la collection et le traitement des photographies de timbres pour identifier les timbres et pour maintenir et améliorer notre reconnaissance — repose sur notre contrat avec l'utilisateur (art. 6, § 1, b du RGPD), comme pour tout autre compte. La conservation de ces photographies est décrite à la section 8.",
+    "it": "Inviamo al genitore o tutore legale una richiesta di consenso contenente un link monouso valido 24 ore. In caso di consenso, lo registriamo insieme a data, indirizzo IP e identificazione del browser come prova, e l'account del minore diventa utilizzabile. In assenza di riscontro, l'account e tutto il suo contenuto vengono eliminati automaticamente dopo 48 ore. È tale consenso che ci consente di attivare l'account (art. 6, par. 1, lett. a in combinato disposto con l'art. 8 GDPR). Il servizio in sé — la gestione della collezione e il trattamento delle fotografie di francobolli per identificarli e per mantenere e migliorare il nostro riconoscimento — si fonda sul contratto con l'utente (art. 6, par. 1, lett. b GDPR), come per ogni altro account. La conservazione di tali fotografie è descritta nella sezione 8.",
+    "nl": "Wij sturen de ouder of wettelijke vertegenwoordiger een toestemmingsverzoek met een eenmalig te gebruiken link die 24 uur geldig is. Bij toestemming leggen wij deze vast met datum, IP-adres en browseridentificatie als bewijs, en wordt het account van het kind bruikbaar. Blijft een reactie uit, dan worden het account en alle gegevens daarin na 48 uur automatisch verwijderd. Die toestemming stelt ons in staat het account te activeren (art. 6, lid 1, onder a, juncto art. 8 AVG). De dienst zelf — het beheren van de verzameling en het verwerken van postzegelfoto's om postzegels te herkennen en om onze herkenning in stand te houden en te verbeteren — berust op onze overeenkomst met de gebruiker (art. 6, lid 1, onder b AVG), net als bij elk ander account. De bewaring van die foto's is beschreven in Sectie 8.",
+    "pl": "Wysyłamy rodzicowi lub opiekunowi prawnemu prośbę o zgodę zawierającą jednorazowy link ważny 24 godziny. W przypadku wyrażenia zgody rejestrujemy ją wraz z datą, adresem IP i identyfikacją przeglądarki jako dowód, a konto dziecka staje się aktywne. W razie braku reakcji konto i wszystkie zawarte w nim dane są automatycznie usuwane po 48 godzinach. To właśnie ta zgoda pozwala nam aktywować konto (art. 6 ust. 1 lit. a w zw. z art. 8 RODO). Sama usługa — prowadzenie kolekcji oraz przetwarzanie zdjęć znaczków w celu ich rozpoznawania oraz utrzymania i doskonalenia naszego rozpoznawania — opiera się na umowie z użytkownikiem (art. 6 ust. 1 lit. b RODO), tak jak w przypadku każdego innego konta. Przechowywanie tych zdjęć opisano w sekcji 8."
+  },
+  {
+    "key": "privacy.s10_p5",
+    "en": "A parent or guardian may withdraw consent at any time by deleting the child's account, in the App under Settings or at <a href=\"delete-account.html\">our account deletion page</a>. Closing the account ends the service and we delete the account and its content, subject to the retention periods in Section 8. To ask what data we hold about a child, or to exercise any other right in Section 9 on the child's behalf, contact us at <a href=\"mailto:marius@stampiq.io\">marius@stampiq.io</a>.",
+    "de": "Ein Elternteil oder gesetzlicher Vertreter kann die Einwilligung jederzeit widerrufen, indem das Konto des Kindes gelöscht wird — in der App unter Einstellungen oder über <a href=\"delete-account.html\">unsere Seite zur Kontolöschung</a>. Mit der Schliessung des Kontos endet der Dienst; wir löschen das Konto und seine Inhalte, vorbehaltlich der Aufbewahrungsfristen in Abschnitt 8. Für Auskunft über die zu einem Kind gespeicherten Daten oder zur Ausübung anderer Rechte aus Abschnitt 9 im Namen des Kindes wenden Sie sich an <a href=\"mailto:marius@stampiq.io\">marius@stampiq.io</a>.",
+    "fr": "Un parent ou représentant légal peut retirer son consentement à tout moment en supprimant le compte de l'enfant, dans l'application sous Paramètres ou via <a href=\"delete-account.html\">notre page de suppression de compte</a>. La fermeture du compte met fin au service et nous supprimons le compte et son contenu, sous réserve des durées de conservation indiquées à la section 8. Pour savoir quelles données nous détenons sur un enfant, ou pour exercer en son nom tout autre droit prévu à la section 9, écrivez-nous à <a href=\"mailto:marius@stampiq.io\">marius@stampiq.io</a>.",
+    "it": "Un genitore o tutore legale può revocare il consenso in qualsiasi momento eliminando l'account del minore, nell'app in Impostazioni oppure tramite <a href=\"delete-account.html\">la nostra pagina di eliminazione dell'account</a>. La chiusura dell'account pone fine al servizio e procediamo alla cancellazione dell'account e dei suoi contenuti, fatti salvi i periodi di conservazione indicati nella sezione 8. Per sapere quali dati conserviamo su un minore, o per esercitare in suo nome qualsiasi altro diritto previsto dalla sezione 9, scriva a <a href=\"mailto:marius@stampiq.io\">marius@stampiq.io</a>.",
+    "nl": "Een ouder of wettelijke vertegenwoordiger kan de toestemming op elk moment intrekken door het account van het kind te verwijderen, in de App onder Instellingen of via <a href=\"delete-account.html\">onze pagina voor accountverwijdering</a>. Het sluiten van het account beëindigt de dienst en wij verwijderen het account en de inhoud daarvan, behoudens de bewaartermijnen in Sectie 8. Voor inzage in de gegevens die wij over een kind bewaren, of om namens het kind een ander recht uit Sectie 9 uit te oefenen, kunt u contact opnemen via <a href=\"mailto:marius@stampiq.io\">marius@stampiq.io</a>.",
+    "pl": "Rodzic lub opiekun prawny może w każdej chwili wycofać zgodę, usuwając konto dziecka — w aplikacji w Ustawieniach lub na <a href=\"delete-account.html\">naszej stronie usuwania konta</a>. Zamknięcie konta kończy świadczenie usługi; usuwamy konto i jego zawartość, z zastrzeżeniem okresów przechowywania wskazanych w sekcji 8. Aby dowiedzieć się, jakie dane przechowujemy o dziecku, lub skorzystać w jego imieniu z innych praw wskazanych w sekcji 9, prosimy o kontakt: <a href=\"mailto:marius@stampiq.io\">marius@stampiq.io</a>."
+  },
+  {
+    "key": "privacy.s10_p6",
+    "en": "If you believe a child has provided us with personal data without the consent of a parent or guardian, contact us at <a href=\"mailto:marius@stampiq.io\">marius@stampiq.io</a> and we will delete it.",
+    "de": "Wenn Sie vermuten, dass ein Kind uns ohne Einwilligung eines Elternteils oder gesetzlichen Vertreters personenbezogene Daten übermittelt hat, wenden Sie sich an <a href=\"mailto:marius@stampiq.io\">marius@stampiq.io</a>; wir löschen die Daten.",
+    "fr": "Si vous pensez qu'un enfant nous a communiqué des données personnelles sans le consentement d'un parent ou représentant légal, écrivez-nous à <a href=\"mailto:marius@stampiq.io\">marius@stampiq.io</a> et nous les supprimerons.",
+    "it": "Se ritiene che un minore ci abbia fornito dati personali senza il consenso di un genitore o tutore legale, scriva a <a href=\"mailto:marius@stampiq.io\">marius@stampiq.io</a> e provvederemo a cancellarli.",
+    "nl": "Als u vermoedt dat een kind ons persoonsgegevens heeft verstrekt zonder toestemming van een ouder of wettelijke vertegenwoordiger, neem dan contact op via <a href=\"mailto:marius@stampiq.io\">marius@stampiq.io</a>; wij verwijderen de gegevens.",
+    "pl": "Jeśli podejrzewają Państwo, że dziecko przekazało nam dane osobowe bez zgody rodzica lub opiekuna prawnego, prosimy o kontakt: <a href=\"mailto:marius@stampiq.io\">marius@stampiq.io</a> — usuniemy te dane."
   },
   {
     "key": "privacy.s11_title",
@@ -1819,12 +1846,12 @@
   },
   {
     "key": "terms.s2_li1",
-    "en": "Be at least <strong>13 years of age</strong>",
-    "de": "Mindestens <strong>13 Jahre alt</strong> sein",
-    "nl": "Ten minste <strong>13 jaar oud</strong> zijn",
-    "pl": "mieć co najmniej <strong>13 lat</strong>",
-    "fr": "Être âgé d'au moins <strong>13 ans</strong>.",
-    "it": "Avere almeno <strong>13 anni di età</strong>"
+    "en": "Be at least <strong>13 years of age</strong>, or have the consent of a parent or legal guardian if you are under 13",
+    "de": "Mindestens <strong>13 Jahre alt</strong> sein oder, wenn Sie unter 13 sind, die Einwilligung eines Elternteils oder gesetzlichen Vertreters haben",
+    "nl": "Ten minste <strong>13 jaar oud</strong> zijn, of toestemming hebben van een ouder of wettelijke vertegenwoordiger als u jonger bent dan 13",
+    "pl": "mieć co najmniej <strong>13 lat</strong> albo — jeśli nie ukończyłeś 13 lat — posiadać zgodę rodzica lub opiekuna prawnego",
+    "fr": "Être âgé d'au moins <strong>13 ans</strong>, ou disposer du consentement d'un parent ou représentant légal si vous avez moins de 13 ans",
+    "it": "Avere almeno <strong>13 anni di età</strong> oppure, se si hanno meno di 13 anni, il consenso di un genitore o tutore legale"
   },
   {
     "key": "terms.s2_li2",
@@ -3375,13 +3402,13 @@
     "it": "Eliminazione dell'account tramite le impostazioni dell'app"
   },
   {
-  "key": "terms.s13_1_li3",
-  "en": "Using our <a href=\"delete-account.html\">web-based account deletion page</a>",
-  "de": "Über unsere <a href=\"delete-account.html\">webbasierte Seite zur Kontolöschung</a>",
-  "nl": "Via onze <a href=\"delete-account.html\">webpagina voor accountverwijdering</a>",
-  "pl": "Za pośrednictwem naszej <a href=\"delete-account.html\">strony internetowej do usuwania konta</a>",
-  "fr": "Via notre <a href=\"delete-account.html\">page web de suppression de compte</a>",
-  "it": "Tramite la nostra <a href=\"delete-account.html\">pagina web per la cancellazione dell’account</a>"
+    "key": "terms.s13_1_li3",
+    "en": "Using our <a href=\"delete-account.html\">web-based account deletion page</a>",
+    "de": "Über unsere <a href=\"delete-account.html\">webbasierte Seite zur Kontolöschung</a>",
+    "nl": "Via onze <a href=\"delete-account.html\">webpagina voor accountverwijdering</a>",
+    "pl": "Za pośrednictwem naszej <a href=\"delete-account.html\">strony internetowej do usuwania konta</a>",
+    "fr": "Via notre <a href=\"delete-account.html\">page web de suppression de compte</a>",
+    "it": "Tramite la nostra <a href=\"delete-account.html\">pagina web per la cancellazione dell’account</a>"
   },
   {
     "key": "terms.s13_1_li2",

@@ -119,6 +119,9 @@ const SECTIONS = [
   { type: 'p',  key: 'privacy.s10_p1' },
   { type: 'p',  key: 'privacy.s10_p2' },
   { type: 'p',  key: 'privacy.s10_p3' },
+  { type: 'p',  key: 'privacy.s10_p4' },
+  { type: 'p',  key: 'privacy.s10_p5' },
+  { type: 'p',  key: 'privacy.s10_p6' },
 
   { type: 'h2', key: 'privacy.s11_title' },
   { type: 'p',  key: 'privacy.s11_p1' },
