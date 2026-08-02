@@ -10,6 +10,7 @@ StampIQ Landing is the static marketing and legal site for stampiq.io, built wit
 No open issues. The last substantive work was in late June, adding a geo-block page, localising the Sign In link, and decluttering the nav. The past two weeks show only daily CLAUDE.md syncs with no code changes.
 
 ## Recent activity
+- 2026-08-02: Under-13 flow disclosed in privacy policy and terms; email images hosted externally (3 commits)
 - 2026-07-14: Synced CLAUDE.md (0e43a33)
 - 2026-07-13: Synced CLAUDE.md (7260173)
 - 2026-07-12: Synced CLAUDE.md (f651a50)
