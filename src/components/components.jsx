@@ -1,7 +1,7 @@
 // StampIQ — shared atoms (Logo, Icons, Pill, PhoneMockup, headings, store badges, Sigi poses)
 import React from 'react';
 import { SIQ } from '../lib/tokens';
-import { useT } from '../i18n/I18nContext';
+import { useT, useLang } from '../i18n/I18nContext';
 
 // ---- Logo (colored — green icon, dark wordmark) ----
 export const Logo = ({ height = 32, mono = false }) => {
@@ -62,6 +62,8 @@ export const Icons = {
   Users: ({ size = 22 }) => <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>,
   Book: ({ size = 22 }) => <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>,
   Megaphone: ({ size = 22 }) => <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><path d="M3 11v3a1 1 0 0 0 1 1h3l3.6 5.4a1 1 0 0 0 1.8-.6V4.2a1 1 0 0 0-1.8-.6L7 9H4a1 1 0 0 0-1 1z"/><path d="M18 8a5 5 0 0 1 0 8"/></svg>,
+  Pin: ({ size = 22 }) => <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0z"/><circle cx="12" cy="10" r="3"/></svg>,
+  Booth: ({ size = 22 }) => <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><path d="M3 8h18l-1.2-3.4A1 1 0 0 0 18.85 4H5.15a1 1 0 0 0-.95.6z"/><path d="M4 8v11a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V8"/><path d="M9 20v-6h6v6"/></svg>,
   SwissFlag: ({ size = 14 }) => <svg viewBox="0 0 32 32" width={size} height={size} style={{ marginRight: 6, borderRadius: 2 }}><rect width="32" height="32" fill="#FF0000"/><rect x="13" y="6" width="6" height="20" fill="white"/><rect x="6" y="13" width="20" height="6" fill="white"/></svg>,
 };
 
@@ -69,7 +71,7 @@ export const Pill = ({ variant = 'green', children, style, className }) => {
   const t = useT();
   const base = { display: 'inline-flex', alignItems: 'center', borderRadius: 25, fontSize: 13, fontWeight: 600, padding: '6px 16px', whiteSpace: 'nowrap', ...style };
   if (variant === 'green') return <span className={className} style={{ ...base, background: SIQ.green, color: 'white', padding: '6px 20px' }}>{children}</span>;
-  if (variant === 'available') return <span className={className} style={{ ...base, background: SIQ.greenTint, color: SIQ.greenDarker, padding: '6px 16px' }}><span style={{ width: 8, height: 8, borderRadius: '50%', background: SIQ.green, marginRight: 8, boxShadow: `0 0 0 4px ${SIQ.greenTint}` }}/><span dangerouslySetInnerHTML={{ __html: t('pill.available') }}/></span>;
+  if (variant === 'available') return <span className={className} style={{ ...base, background: SIQ.greenTint, color: SIQ.greenDarker, padding: '6px 16px' }}><span dangerouslySetInnerHTML={{ __html: t('pill.available') }}/></span>;
   return <span className={className} style={{ ...base, background: 'white', color: SIQ.fg, border: `1px solid ${SIQ.border}` }}>{children}</span>;
 };
 
@@ -111,7 +113,29 @@ export const GradientHeadline = ({ children, style, className }) => (
   }}>{children}</h2>
 );
 
-export const StoreBadges = ({ light = false, size = 'normal' }) => {
+const STORE_APP_URL = import.meta.env.PUBLIC_APP_URL || 'https://app.stampiq.io';
+
+// Matches the height and corner radius of the Apple and Google badges without
+// copying their layout or marks, which their brand terms forbid.
+const WebBadge = ({ h, lang, t }) => (
+  <a href={`${STORE_APP_URL}/?lang=${lang}`} style={{
+    display: 'inline-flex', alignItems: 'center', gap: h * 0.17,
+    height: h, padding: `0 ${h * 0.3}px`, boxSizing: 'border-box',
+    background: '#000000', color: 'white',
+    border: '1px solid rgba(255,255,255,0.30)', borderRadius: 8,
+    textDecoration: 'none', fontFamily: "'Roboto', -apple-system, sans-serif",
+  }}>
+    <Icons.Globe size={h * 0.46}/>
+    <span style={{ display: 'flex', flexDirection: 'column', lineHeight: 1.15, textAlign: 'left' }}>
+      <span style={{ fontSize: h * 0.185, fontWeight: 400 }} dangerouslySetInnerHTML={{ __html: t('badge.web.top') }}/>
+      <span style={{ fontSize: h * 0.3, fontWeight: 600, letterSpacing: '-0.01em' }} dangerouslySetInnerHTML={{ __html: t('badge.web.bottom') }}/>
+    </span>
+  </a>
+);
+
+export const StoreBadges = ({ light = false, size = 'normal', web = true }) => {
+  const t = useT();
+  const lang = useLang();
   const h = size === 'large' ? 60 : 54;
   return (
     <div className="siq-store-badges" style={{ display: 'flex', gap: 14, flexWrap: 'wrap', alignItems: 'center' }}>
@@ -121,6 +145,7 @@ export const StoreBadges = ({ light = false, size = 'normal' }) => {
       <a href="https://play.google.com/store/apps/details?id=io.stampiq.app" style={{ display: 'block', borderRadius: 8, overflow: 'hidden' }}>
         <img src="/assets/badges/play-store.svg?v=2" alt="Google Play" style={{ height: h, display: 'block' }}/>
       </a>
+      {web && <WebBadge h={h} lang={lang} t={t}/>}
     </div>
   );
 };

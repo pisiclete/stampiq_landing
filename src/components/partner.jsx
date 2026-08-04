@@ -26,7 +26,6 @@ export const Partner = () => {
             <div key={k} style={{
               background: 'white',
               border: `1px solid ${SIQ.border}`,
-              borderLeft: `4px solid ${SIQ.green}`,
               borderRadius: 12, padding: '28px 32px',
               boxShadow: '0 1px 3px rgba(0,0,0,0.04)',
             }}>

@@ -3,12 +3,14 @@
 import React from 'react';
 import { I18nProvider } from '../../i18n/I18nContext';
 import { Header, Footer } from '../chrome';
+import { AnnouncementBar } from '../events';
 import '../../styles/legal.css';
 
 export default function LegalPage({ lang = 'en', children }) {
   return (
     <I18nProvider lang={lang}>
       <div style={{ background: 'white', color: '#222222', fontFamily: "'Roboto', -apple-system, sans-serif", lineHeight: 1.6 }}>
+        <AnnouncementBar/>
         <Header/>
         <section className="legal-content">
           {children}

@@ -151,6 +151,7 @@ export const Footer = () => {
     ]},
     { titleKey: 'footer.col.company', items: [
       { href: `${home}#press`,                key: 'footer.company.press' },
+      { href: `${home}#events`,               key: 'footer.company.events', className: 'siq-ibb' },
       { href: `${home}#about`,                key: 'footer.company.about' },
       { href: 'mailto:support@stampiq.io',    key: 'footer.company.contact' },
     ]},
@@ -193,7 +194,7 @@ export const Footer = () => {
               <div style={{ fontSize: 13, fontWeight: 700, letterSpacing: '0.14em', textTransform: 'uppercase', color: 'white', marginBottom: 16 }} dangerouslySetInnerHTML={{ __html: t(col.titleKey) }}/>
               <ul style={{ listStyle: 'none', padding: 0, margin: 0 }}>
                 {col.items.map(item => (
-                  <li key={item.key} style={{ marginBottom: 10 }}>
+                  <li key={item.key} className={item.className} style={{ marginBottom: 10 }}>
                     <a href={item.href} style={{ color: 'rgba(255,255,255,0.65)', textDecoration: 'none', fontSize: 14 }} dangerouslySetInnerHTML={{ __html: t(item.key) }}/>
                   </li>
                 ))}

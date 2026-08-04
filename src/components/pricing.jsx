@@ -164,7 +164,7 @@ export const Pricing = () => {
   };
 
   return (
-    <section id="pricing" className="siq-section" style={{ padding: '110px 0', background: '#FFFFFF' }}>
+    <section id="pricing" className="siq-section" style={{ padding: '110px 0', background: '#F9F9F9' }}>
       <div className="siq-container" style={{ maxWidth: 1320, margin: '0 auto', padding: '0 24px' }}>
         <div style={{ textAlign: 'center', marginBottom: 56 }}>
           <SectionEyebrow><span dangerouslySetInnerHTML={{ __html: t('pricing.eyebrow') }}/></SectionEyebrow>

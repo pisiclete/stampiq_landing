@@ -83,6 +83,19 @@ const hrefForLang = (l: string) => l === 'en'
           location.replace(path + location.search + location.hash);
         } catch (_) {}
       })();
+
+      // The autumn fair campaign is dated. Hiding it here rather than at build
+      // time means it disappears on the visitor's own clock once the last fair
+      // is over, even if the site hasn't been rebuilt since.
+      (function () {
+        var over = Date.now() > Date.UTC(2026, 10, 22);
+        var dismissed = false;
+        try { dismissed = localStorage.getItem('siq-ibb-dismissed') === '1'; } catch (_) {}
+        if (!over && !dismissed) return;
+        var s = document.createElement('style');
+        s.textContent = over ? '.siq-ibb{display:none!important}' : '#siq-ibb-bar{display:none!important}';
+        document.head.appendChild(s);
+      })();
     </script>
     <title>{title}</title>
     <meta name="description" content={description} />

@@ -202,12 +202,12 @@
   {
     "key": "hero.stat.catalog.value",
     "section/location": "Hero stat — stamps catalogued",
-    "en": "25K+",
-    "de": "25K+",
-    "nl": "25K+",
-    "pl": "25K+",
-    "fr": "25K+",
-    "it": "25K+"
+    "en": "30K+",
+    "de": "30K+",
+    "nl": "30K+",
+    "pl": "30K+",
+    "fr": "30K+",
+    "it": "30K+"
   },
   {
     "key": "hero.stat.catalog.label",
@@ -242,12 +242,12 @@
   {
     "key": "features.catalogs_label",
     "section/location": "ThreeActs — country catalogs caption (act 1)",
-    "en": "Currently available catalogs · more to come",
-    "de": "Aktuell verfügbare Kataloge · weitere folgen",
-    "nl": "Momenteel beschikbare catalogi · meer volgen",
-    "pl": "Aktualnie dostępne katalogi · kolejne wkrótce",
-    "fr": "Catalogues actuellement disponibles · d'autres à venir",
-    "it": "Cataloghi attualmente disponibili · altri in arrivo"
+    "en": "Available catalogs",
+    "de": "Verfügbare Kataloge",
+    "nl": "Beschikbare catalogi",
+    "pl": "Dostępne katalogi",
+    "fr": "Catalogues disponibles",
+    "it": "Cataloghi disponibili"
   },
   {
     "key": "act1.eyebrow",
@@ -622,12 +622,12 @@
   {
     "key": "sigivision.stat.catalog.value",
     "section/location": "SigiVision stat — catalog",
-    "en": "25K+",
-    "de": "25K+",
-    "nl": "25K+",
-    "pl": "25K+",
-    "fr": "25K+",
-    "it": "25K+"
+    "en": "30K+",
+    "de": "30K+",
+    "nl": "30K+",
+    "pl": "30K+",
+    "fr": "30K+",
+    "it": "30K+"
   },
   {
     "key": "sigivision.stat.catalog.label",
@@ -1432,12 +1432,12 @@
   {
     "key": "faq.a.countries",
     "section/location": "FAQ — A: countries",
-    "en": "At launch we support stamps from Switzerland, Germany, Austria, Liechtenstein, the Netherlands, and Poland. More countries to come.",
-    "de": "Zum Start unterstützen wir Briefmarken aus der Schweiz, Deutschland, Österreich, Liechtenstein, den Niederlanden und Polen. Weitere Länder folgen.",
-    "nl": "Bij de lancering ondersteunen we postzegels uit Zwitserland, Duitsland, Oostenrijk, Liechtenstein, Nederland en Polen. Meer landen volgen.",
-    "pl": "Na starcie obsługujemy znaczki ze Szwajcarii, Niemiec, Austrii, Liechtensteinu, Holandii i Polski. Kolejne kraje wkrótce.",
-    "fr": "Au lancement, nous prenons en charge les timbres de Suisse, d'Allemagne, d'Autriche, du Liechtenstein, des Pays-Bas et de Pologne. D'autres pays à venir.",
-    "it": "Al lancio supportiamo i francobolli di Svizzera, Germania, Austria, Liechtenstein, Paesi Bassi e Polonia. Altri paesi in arrivo."
+    "en": "Switzerland, Germany, Austria, Liechtenstein, the Netherlands and Poland. Czechia, France, Slovakia, Romania, Belgium, Italy, Vatican and Hungary are in progress. We announce each new catalog when it is ready.",
+    "de": "Schweiz, Deutschland, Österreich, Liechtenstein, Niederlande und Polen. In Arbeit sind Tschechien, Frankreich, Slowakei, Rumänien, Belgien, Italien, Vatikan und Ungarn. Jeden neuen Katalog geben wir bekannt, sobald er fertig ist.",
+    "nl": "Zwitserland, Duitsland, Oostenrijk, Liechtenstein, Nederland en Polen. Tsjechië, Frankrijk, Slowakije, Roemenië, België, Italië, Vaticaanstad en Hongarije zijn in ontwikkeling. Elke nieuwe catalogus kondigen we aan zodra die klaar is.",
+    "pl": "Szwajcaria, Niemcy, Austria, Liechtenstein, Holandia i Polska. W przygotowaniu są Czechy, Francja, Słowacja, Rumunia, Belgia, Włochy, Watykan i Węgry. O każdym nowym katalogu informujemy, gdy będzie gotowy.",
+    "fr": "Suisse, Allemagne, Autriche, Liechtenstein, Pays-Bas et Pologne. La Tchéquie, la France, la Slovaquie, la Roumanie, la Belgique, l'Italie, le Vatican et la Hongrie sont en cours. Nous annonçons chaque nouveau catalogue dès qu'il est prêt.",
+    "it": "Svizzera, Germania, Austria, Liechtenstein, Paesi Bassi e Polonia. Cechia, Francia, Slovacchia, Romania, Belgio, Italia, Vaticano e Ungheria sono in lavorazione. Annunciamo ogni nuovo catalogo quando è pronto."
   },
   {
     "key": "faq.q.accuracy",
@@ -1532,12 +1532,12 @@
   {
     "key": "faq.a.devices",
     "section/location": "FAQ — A: devices",
-    "en": "StampIQ is available for iOS and Android — both smartphones and tablets.",
-    "de": "StampIQ ist für iOS und Android verfügbar — sowohl auf Smartphones als auch auf Tablets.",
-    "nl": "StampIQ is beschikbaar voor iOS en Android — zowel smartphones als tablets.",
-    "pl": "StampIQ jest dostępny na iOS i Androida — zarówno na smartfonach, jak i tabletach.",
-    "fr": "StampIQ est disponible sur iOS et Android — smartphones et tablettes.",
-    "it": "StampIQ è disponibile per iOS e Android — sia su smartphone che su tablet."
+    "en": "StampIQ runs on iOS and Android, on phones and tablets, and in any modern browser at <a href=\"https://app.stampiq.io\" style=\"color:#4FA902;font-weight:600\">app.stampiq.io</a>. Your collection stays in sync across all of them.",
+    "de": "StampIQ läuft auf iOS und Android, auf Smartphones wie auf Tablets, und in jedem modernen Browser unter <a href=\"https://app.stampiq.io\" style=\"color:#4FA902;font-weight:600\">app.stampiq.io</a>. Deine Sammlung bleibt überall synchron.",
+    "nl": "StampIQ werkt op iOS en Android, op smartphones en tablets, en in elke moderne browser via <a href=\"https://app.stampiq.io\" style=\"color:#4FA902;font-weight:600\">app.stampiq.io</a>. Je verzameling blijft op al je apparaten synchroon.",
+    "pl": "StampIQ działa na iOS i Androidzie, na smartfonach i tabletach, a także w każdej nowoczesnej przeglądarce pod adresem <a href=\"https://app.stampiq.io\" style=\"color:#4FA902;font-weight:600\">app.stampiq.io</a>. Twoja kolekcja jest zsynchronizowana na wszystkich urządzeniach.",
+    "fr": "StampIQ fonctionne sur iOS et Android, sur smartphones comme sur tablettes, et dans tout navigateur moderne sur <a href=\"https://app.stampiq.io\" style=\"color:#4FA902;font-weight:600\">app.stampiq.io</a>. Ta collection reste synchronisée sur tous tes appareils.",
+    "it": "StampIQ funziona su iOS e Android, su smartphone e tablet, e in qualsiasi browser moderno su <a href=\"https://app.stampiq.io\" style=\"color:#4FA902;font-weight:600\">app.stampiq.io</a>. La tua collezione resta sincronizzata su tutti i dispositivi."
   },
   {
     "key": "faq.q.internet",
@@ -1928,5 +1928,415 @@
     "it": "Il tuo codice",
     "nl": "Je code",
     "pl": "Twój kod"
+  },
+  {
+    "key": "press.advertorial",
+    "section/location": "Press — paid-feature marker on the card",
+    "en": "Advertorial",
+    "de": "Anzeige",
+    "nl": "Advertorial",
+    "pl": "Artykuł reklamowy",
+    "fr": "Publireportage",
+    "it": "Pubbliredazionale"
+  },
+  {
+    "key": "press.issue.filatelista_2026_08.tag",
+    "section/location": "Press Filatelista 8/2026 — corner tag",
+    "en": "Filatelista · 8/2026",
+    "de": "Filatelista · 8/2026",
+    "nl": "Filatelista · 8/2026",
+    "pl": "Filatelista · 8/2026",
+    "fr": "Filatelista · 8/2026",
+    "it": "Filatelista · 8/2026"
+  },
+  {
+    "key": "press.issue.filatelista_2026_08.publication",
+    "section/location": "Press Filatelista 8/2026 — publication line",
+    "en": "Filatelista (Poland) · 8/2026",
+    "de": "Filatelista (Polen) · 8/2026",
+    "nl": "Filatelista (Polen) · 8/2026",
+    "pl": "Filatelista · 8/2026",
+    "fr": "Filatelista (Pologne) · 8/2026",
+    "it": "Filatelista (Polonia) · 8/2026"
+  },
+  {
+    "key": "press.issue.filatelista_2026_08.title",
+    "section/location": "Press Filatelista 8/2026 — quoted title",
+    "en": "\"StampIQ — the collector's digital companion.\"",
+    "de": "„StampIQ — der digitale Begleiter des Sammlers.\"",
+    "nl": "\"StampIQ — de digitale metgezel van de verzamelaar.\"",
+    "pl": "„StampIQ – cyfrowy towarzysz kolekcjonera.\"",
+    "fr": "« StampIQ — le compagnon numérique du collectionneur. »",
+    "it": "\"StampIQ — il compagno digitale del collezionista.\""
+  },
+  {
+    "key": "press.issue.filatelista_2026_08.body",
+    "section/location": "Press Filatelista 8/2026 — description",
+    "en": "Filatelista, the magazine of the Polish Philatelic Association, ran a four-page feature on StampIQ in its August 2026 issue. A Polish-language walkthrough of recognition, bulk scanning, the catalog and the interactive map — written for collectors weighing up whether a phone can really replace a paper inventory.",
+    "de": "Filatelista, die Zeitschrift des polnischen Philatelistenverbands, hat StampIQ in ihrer Ausgabe vom August 2026 vier Seiten gewidmet. Ein polnischsprachiger Rundgang durch Erkennung, Sammelscan, Katalog und interaktive Karte — geschrieben für Sammler, die abwägen, ob ein Telefon wirklich das Papierverzeichnis ersetzen kann.",
+    "nl": "Filatelista, het tijdschrift van de Poolse filatelistenbond, wijdde in het augustusnummer van 2026 vier pagina's aan StampIQ. Een Poolstalige rondleiding langs herkenning, bulkscannen, de catalogus en de interactieve kaart — geschreven voor verzamelaars die zich afvragen of een telefoon een papieren inventaris echt kan vervangen.",
+    "pl": "Filatelista, czasopismo Polskiego Związku Filatelistów, poświęcił StampIQ cztery strony w numerze 8/2026. Przewodnik po rozpoznawaniu znaczków, skanowaniu grupowym, katalogu i interaktywnej mapie — napisany dla kolekcjonerów zastanawiających się, czy telefon naprawdę zastąpi papierowy spis.",
+    "fr": "Filatelista, la revue de l'association philatélique polonaise, a consacré quatre pages à StampIQ dans son numéro d'août 2026. Une visite guidée en polonais de la reconnaissance, du scan groupé, du catalogue et de la carte interactive — écrite pour les collectionneurs qui se demandent si un téléphone peut vraiment remplacer un inventaire papier.",
+    "it": "Filatelista, la rivista dell'associazione filatelica polacca, ha dedicato quattro pagine a StampIQ nel numero di agosto 2026. Un percorso in lingua polacca tra riconoscimento, scansione multipla, catalogo e mappa interattiva — scritto per i collezionisti che si chiedono se un telefono possa davvero sostituire un inventario cartaceo."
+  },
+  {
+    "key": "events.eyebrow",
+    "section/location": "Events — eyebrow",
+    "en": "Events",
+    "de": "Veranstaltungen",
+    "nl": "Evenementen",
+    "pl": "Wydarzenia",
+    "fr": "Événements",
+    "it": "Eventi"
+  },
+  {
+    "key": "events.headline",
+    "section/location": "Events — headline",
+    "en": "Meet us in person",
+    "de": "Triff uns persönlich",
+    "nl": "Ontmoet ons persoonlijk",
+    "pl": "Spotkajmy się osobiście",
+    "fr": "Rencontre-nous en personne",
+    "it": "Incontraci di persona"
+  },
+  {
+    "key": "events.body",
+    "section/location": "Events — body",
+    "en": "Bring your stamps — we'll scan them together.",
+    "de": "Bring deine Marken mit — wir scannen sie gemeinsam.",
+    "nl": "Neem je zegels mee — we scannen ze samen.",
+    "pl": "Weź swoje znaczki — zeskanujemy je razem.",
+    "fr": "Apporte tes timbres — on les scanne ensemble.",
+    "it": "Porta i tuoi francobolli — li scansioniamo insieme."
+  },
+  {
+    "key": "ibb.name",
+    "section/location": "IBB Ulm — event name",
+    "en": "Internationale Briefmarken-Börse",
+    "de": "Internationale Briefmarken-Börse",
+    "nl": "Internationale Briefmarken-Börse",
+    "pl": "Internationale Briefmarken-Börse",
+    "fr": "Internationale Briefmarken-Börse",
+    "it": "Internationale Briefmarken-Börse"
+  },
+  {
+    "key": "ibb.dates",
+    "section/location": "IBB Ulm — dates",
+    "en": "22–24 October 2026",
+    "de": "22.–24. Oktober 2026",
+    "nl": "22–24 oktober 2026",
+    "pl": "22–24 października 2026",
+    "fr": "22–24 octobre 2026",
+    "it": "22–24 ottobre 2026"
+  },
+  {
+    "key": "ibb.venue",
+    "section/location": "IBB Ulm — venue",
+    "en": "Messe Ulm, Germany",
+    "de": "Messe Ulm, Deutschland",
+    "nl": "Messe Ulm, Duitsland",
+    "pl": "Messe Ulm, Niemcy",
+    "fr": "Messe Ulm, Allemagne",
+    "it": "Messe Ulm, Germania"
+  },
+  {
+    "key": "ibb.stand",
+    "section/location": "IBB Ulm — hall and stand number",
+    "en": "Hall 1 · Stand 33",
+    "de": "Halle 1 · Stand 33",
+    "nl": "Hal 1 · Stand 33",
+    "pl": "Hala 1 · Stoisko 33",
+    "fr": "Hall 1 · Stand 33",
+    "it": "Padiglione 1 · Stand 33"
+  },
+  {
+    "key": "ibb.body",
+    "section/location": "IBB Ulm — short card description",
+    "en": "One of Europe's largest stamp fairs. Come by the stand and see SigiVision recognize your own stamps.",
+    "de": "Eine der größten Briefmarkenmessen Europas. Komm am Stand vorbei und lass SigiVision deine eigenen Marken erkennen.",
+    "nl": "Een van de grootste postzegelbeurzen van Europa. Kom langs bij de stand en laat SigiVision je eigen zegels herkennen.",
+    "pl": "Jedna z największych giełd filatelistycznych w Europie. Wpadnij na stoisko i sprawdź, jak SigiVision rozpoznaje Twoje znaczki.",
+    "fr": "L'un des plus grands salons philatéliques d'Europe. Passe au stand voir SigiVision reconnaître tes propres timbres.",
+    "it": "Una delle più grandi fiere filateliche d'Europa. Passa allo stand e guarda SigiVision riconoscere i tuoi francobolli."
+  },
+  {
+    "key": "ibb.cta",
+    "section/location": "IBB Ulm — link to the fair website",
+    "en": "Fair website",
+    "de": "Zur Messe-Website",
+    "nl": "Website van de beurs",
+    "pl": "Strona giełdy",
+    "fr": "Site du salon",
+    "it": "Sito della fiera"
+  },
+  {
+    "key": "ibb.bar.text",
+    "section/location": "Announcement bar — autumn fair line",
+    "en": "Meet us this autumn: Ulm · St. Pölten · Brig",
+    "de": "Triff uns diesen Herbst: Ulm · St. Pölten · Brig",
+    "nl": "Ontmoet ons dit najaar: Ulm · St. Pölten · Brig",
+    "pl": "Spotkajmy się tej jesieni: Ulm · St. Pölten · Brig",
+    "fr": "Rencontre-nous cet automne : Ulm · St. Pölten · Brigue",
+    "it": "Incontraci quest'autunno: Ulma · St. Pölten · Briga"
+  },
+  {
+    "key": "ibb.bar.short",
+    "section/location": "Announcement bar — shortened line for narrow screens",
+    "en": "Meet us this autumn",
+    "de": "Triff uns diesen Herbst",
+    "nl": "Ontmoet ons dit najaar",
+    "pl": "Spotkajmy się tej jesieni",
+    "fr": "Rencontre-nous cet automne",
+    "it": "Incontraci quest'autunno"
+  },
+  {
+    "key": "ibb.bar.cta",
+    "section/location": "Announcement bar — link to the Events section",
+    "en": "Details",
+    "de": "Details",
+    "nl": "Details",
+    "pl": "Szczegóły",
+    "fr": "Détails",
+    "it": "Dettagli"
+  },
+  {
+    "key": "ibb.bar.dismiss",
+    "section/location": "Announcement bar — close button label (accessibility)",
+    "en": "Dismiss",
+    "de": "Schließen",
+    "nl": "Sluiten",
+    "pl": "Zamknij",
+    "fr": "Fermer",
+    "it": "Chiudi"
+  },
+  {
+    "key": "footer.company.events",
+    "section/location": "Footer — Company column, Events link",
+    "en": "Events",
+    "de": "Veranstaltungen",
+    "nl": "Evenementen",
+    "pl": "Wydarzenia",
+    "fr": "Événements",
+    "it": "Eventi"
+  },
+  {
+    "key": "press.prev",
+    "section/location": "Press carousel — previous slide button (accessibility)",
+    "en": "Previous article",
+    "de": "Vorheriger Artikel",
+    "nl": "Vorig artikel",
+    "pl": "Poprzedni artykuł",
+    "fr": "Article précédent",
+    "it": "Articolo precedente"
+  },
+  {
+    "key": "press.next",
+    "section/location": "Press carousel — next slide button (accessibility)",
+    "en": "Next article",
+    "de": "Nächster Artikel",
+    "nl": "Volgend artikel",
+    "pl": "Następny artykuł",
+    "fr": "Article suivant",
+    "it": "Articolo successivo"
+  },
+  {
+    "key": "oevebria.name",
+    "section/location": "ÖVEBRIA 2026 — event name",
+    "en": "ÖVEBRIA 2026",
+    "de": "ÖVEBRIA 2026",
+    "nl": "ÖVEBRIA 2026",
+    "pl": "ÖVEBRIA 2026",
+    "fr": "ÖVEBRIA 2026",
+    "it": "ÖVEBRIA 2026"
+  },
+  {
+    "key": "oevebria.dates",
+    "section/location": "ÖVEBRIA 2026 — dates",
+    "en": "29–31 October 2026",
+    "de": "29.–31. Oktober 2026",
+    "nl": "29–31 oktober 2026",
+    "pl": "29–31 października 2026",
+    "fr": "29–31 octobre 2026",
+    "it": "29–31 ottobre 2026"
+  },
+  {
+    "key": "oevebria.venue",
+    "section/location": "ÖVEBRIA 2026 — venue",
+    "en": "Jahnturnhalle, St. Pölten, Austria",
+    "de": "Jahnturnhalle, St. Pölten, Österreich",
+    "nl": "Jahnturnhalle, St. Pölten, Oostenrijk",
+    "pl": "Jahnturnhalle, St. Pölten, Austria",
+    "fr": "Jahnturnhalle, St. Pölten, Autriche",
+    "it": "Jahnturnhalle, St. Pölten, Austria"
+  },
+  {
+    "key": "oevebria.body",
+    "section/location": "ÖVEBRIA 2026 — short card description",
+    "en": "Austria's national competitive exhibition with international participation, organized by the VÖPh.",
+    "de": "Die österreichische Wettbewerbsausstellung mit internationaler Beteiligung, veranstaltet vom VÖPh.",
+    "nl": "De Oostenrijkse competitieve tentoonstelling met internationale deelname, georganiseerd door de VÖPh.",
+    "pl": "Austriacka wystawa konkursowa z udziałem międzynarodowym, organizowana przez VÖPh.",
+    "fr": "L'exposition compétitive autrichienne à participation internationale, organisée par la VÖPh.",
+    "it": "L'esposizione competitiva austriaca con partecipazione internazionale, organizzata dalla VÖPh."
+  },
+  {
+    "key": "philabrig.name",
+    "section/location": "PhilaBrig 26 — event name",
+    "en": "PhilaBrig 26",
+    "de": "PhilaBrig 26",
+    "nl": "PhilaBrig 26",
+    "pl": "PhilaBrig 26",
+    "fr": "PhilaBrig 26",
+    "it": "PhilaBrig 26"
+  },
+  {
+    "key": "philabrig.dates",
+    "section/location": "PhilaBrig 26 — dates",
+    "en": "19–21 November 2026",
+    "de": "19.–21. November 2026",
+    "nl": "19–21 november 2026",
+    "pl": "19–21 listopada 2026",
+    "fr": "19–21 novembre 2026",
+    "it": "19–21 novembre 2026"
+  },
+  {
+    "key": "philabrig.venue",
+    "section/location": "PhilaBrig 26 — venue",
+    "en": "Simplonhalle, Brig-Glis, Switzerland",
+    "de": "Simplonhalle, Brig-Glis, Schweiz",
+    "nl": "Simplonhalle, Brig-Glis, Zwitserland",
+    "pl": "Simplonhalle, Brig-Glis, Szwajcaria",
+    "fr": "Simplonhalle, Brigue-Glis, Suisse",
+    "it": "Simplonhalle, Briga-Glis, Svizzera"
+  },
+  {
+    "key": "philabrig.body",
+    "section/location": "PhilaBrig 26 — short card description",
+    "en": "The Swiss national stamp exhibition and Stamp Day — on home ground for a Swiss-made app.",
+    "de": "Die Schweizer Briefmarkenausstellung und Tag der Briefmarke — Heimspiel für eine Schweizer App.",
+    "nl": "De Zwitserse postzegeltentoonstelling en Dag van de Postzegel — thuiswedstrijd voor een Zwitserse app.",
+    "pl": "Szwajcarska wystawa filatelistyczna i Dzień Znaczka — u siebie, bo aplikacja jest szwajcarska.",
+    "fr": "L'exposition philatélique suisse et la Journée du timbre — à domicile pour une app suisse.",
+    "it": "L'esposizione filatelica svizzera e il Giorno del francobollo — in casa per un'app svizzera."
+  },
+  {
+    "key": "events.cta",
+    "section/location": "Events — link to an event website",
+    "en": "Event website",
+    "de": "Zur Website",
+    "nl": "Website",
+    "pl": "Strona wydarzenia",
+    "fr": "Site de l'événement",
+    "it": "Sito dell'evento"
+  },
+  {
+    "key": "final_cta.web",
+    "section/location": "Final CTA — link to the browser version under the store badges",
+    "en": "Or use StampIQ in your browser",
+    "de": "Oder nutze StampIQ im Browser",
+    "nl": "Of gebruik StampIQ in je browser",
+    "pl": "Albo korzystaj ze StampIQ w przeglądarce",
+    "fr": "Ou utilise StampIQ dans ton navigateur",
+    "it": "Oppure usa StampIQ nel browser"
+  },
+  {
+    "key": "webapp.eyebrow",
+    "section/location": "Web app — eyebrow",
+    "en": "Web app",
+    "de": "Web-App",
+    "nl": "Web-app",
+    "pl": "Aplikacja webowa",
+    "fr": "Application web",
+    "it": "App web"
+  },
+  {
+    "key": "webapp.headline",
+    "section/location": "Web app — headline",
+    "en": "Your whole collection on the big screen",
+    "de": "Deine ganze Sammlung auf dem großen Bildschirm",
+    "nl": "Je hele verzameling op een groot scherm",
+    "pl": "Cała kolekcja na dużym ekranie",
+    "fr": "Toute ta collection sur grand écran",
+    "it": "Tutta la collezione sul grande schermo"
+  },
+  {
+    "key": "webapp.body",
+    "section/location": "Web app — body",
+    "en": "StampIQ also runs in the browser. Sign in with the same account and work through a country catalog on a full-size screen.",
+    "de": "StampIQ läuft auch im Browser. Melde dich mit demselben Konto an und arbeite einen Länderkatalog auf dem großen Bildschirm durch.",
+    "nl": "StampIQ werkt ook in de browser. Log in met hetzelfde account en werk een landcatalogus door op een volledig scherm.",
+    "pl": "StampIQ działa również w przeglądarce. Zaloguj się na to samo konto i przejrzyj katalog danego kraju na pełnym ekranie.",
+    "fr": "StampIQ fonctionne aussi dans le navigateur. Connecte-toi avec le même compte et parcours un catalogue par pays sur un grand écran.",
+    "it": "StampIQ funziona anche nel browser. Accedi con lo stesso account e lavora su un catalogo per paese a schermo intero."
+  },
+  {
+    "key": "webapp.point.sync",
+    "section/location": "Web app — point: sync",
+    "en": "Same collection as on your phone",
+    "de": "Dieselbe Sammlung wie auf dem Handy",
+    "nl": "Dezelfde verzameling als op je telefoon",
+    "pl": "Ta sama kolekcja co w telefonie",
+    "fr": "La même collection que sur ton téléphone",
+    "it": "La stessa collezione del telefono"
+  },
+  {
+    "key": "webapp.point.install",
+    "section/location": "Web app — point: no install",
+    "en": "Nothing to install",
+    "de": "Keine Installation nötig",
+    "nl": "Niets te installeren",
+    "pl": "Bez instalacji",
+    "fr": "Rien à installer",
+    "it": "Niente da installare"
+  },
+  {
+    "key": "webapp.point.languages",
+    "section/location": "Web app — point: languages",
+    "en": "Available in six languages",
+    "de": "In sechs Sprachen verfügbar",
+    "nl": "Beschikbaar in zes talen",
+    "pl": "Dostępna w sześciu językach",
+    "fr": "Disponible en six langues",
+    "it": "Disponibile in sei lingue"
+  },
+  {
+    "key": "webapp.cta",
+    "section/location": "Web app — CTA button",
+    "en": "Open StampIQ in your browser",
+    "de": "StampIQ im Browser öffnen",
+    "nl": "Open StampIQ in je browser",
+    "pl": "Otwórz StampIQ w przeglądarce",
+    "fr": "Ouvrir StampIQ dans le navigateur",
+    "it": "Apri StampIQ nel browser"
+  },
+  {
+    "key": "badge.web.top",
+    "section/location": "Store badges — web badge, small top line",
+    "en": "Try it in your",
+    "de": "Ausprobieren im",
+    "nl": "Probeer het in je",
+    "pl": "Wypróbuj w",
+    "fr": "Essaie dans ton",
+    "it": "Provalo nel"
+  },
+  {
+    "key": "badge.web.bottom",
+    "section/location": "Store badges — web badge, large bottom line",
+    "en": "Browser",
+    "de": "Browser",
+    "nl": "Browser",
+    "pl": "Przeglądarce",
+    "fr": "Navigateur",
+    "it": "Browser"
+  },
+  {
+    "key": "features.upcoming_label",
+    "section/location": "Act 1 — label above the in-progress country pills",
+    "en": "In progress",
+    "de": "In Arbeit",
+    "nl": "In ontwikkeling",
+    "pl": "W przygotowaniu",
+    "fr": "En cours",
+    "it": "In lavorazione"
   }
 ]

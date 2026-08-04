@@ -7,7 +7,7 @@ import {
   SigiPose, SigiSilhouette, screenSrc,
 } from './components';
 
-const Act = ({ idx, i18nBase, bulletCount, screen, dark, pose, accent, right, silhouette, bgSilhouette, countries }) => {
+const Act = ({ idx, i18nBase, bulletCount, screen, dark, pose, accent, right, silhouette, bgSilhouette, countries, upcoming }) => {
   const t = useT();
   const isDark = dark;
   const flip = right;
@@ -106,6 +106,27 @@ const Act = ({ idx, i18nBase, bulletCount, screen, dark, pose, accent, right, si
                   }}><span style={{ fontSize: 16 }}>{x.f}</span>{x.c}</div>
                 ))}
               </div>
+              {upcoming && upcoming.length > 0 && (
+                <>
+                  <div style={{
+                    fontSize: 12, fontWeight: 700, letterSpacing: '0.14em',
+                    color: isDark ? 'rgba(255,255,255,0.7)' : SIQ.fgMuted,
+                    textTransform: 'uppercase', margin: '22px 0 12px',
+                  }} dangerouslySetInnerHTML={{ __html: t('features.upcoming_label') }}/>
+                  <div className="siq-countries" style={{ display: 'flex', gap: 10, flexWrap: 'wrap' }}>
+                    {upcoming.map(x => (
+                      <div key={x.c} style={{
+                        display: 'inline-flex', alignItems: 'center', gap: 8,
+                        background: 'transparent',
+                        padding: '8px 14px', borderRadius: 25,
+                        border: `1px dashed ${isDark ? 'rgba(255,255,255,0.30)' : '#CBCBCB'}`,
+                        fontWeight: 600, fontSize: 13,
+                        color: isDark ? 'rgba(255,255,255,0.75)' : SIQ.fgMuted,
+                      }}><span style={{ fontSize: 16, opacity: 0.55 }}>{x.f}</span>{x.c}</div>
+                    ))}
+                  </div>
+                </>
+              )}
             </div>
           )}
         </div>
@@ -142,6 +163,10 @@ export const ThreeActs = () => {
         countries={[
           { f: '🇨🇭', c: 'CH' }, { f: '🇩🇪', c: 'DE' }, { f: '🇦🇹', c: 'AT' },
           { f: '🇱🇮', c: 'LI' }, { f: '🇳🇱', c: 'NL' }, { f: '🇵🇱', c: 'PL' },
+        ]}
+        upcoming={[
+          { f: '🇨🇿', c: 'CZ' }, { f: '🇫🇷', c: 'FR' }, { f: '🇸🇰', c: 'SK' }, { f: '🇷🇴', c: 'RO' },
+          { f: '🇧🇪', c: 'BE' }, { f: '🇮🇹', c: 'IT' }, { f: '🇻🇦', c: 'VA' }, { f: '🇭🇺', c: 'HU' },
         ]}
       />
       <Act
@@ -192,7 +217,7 @@ export const SigiVision = () => {
             { base: 'sigivision.stat.countries' },
           ].map(s => (
             <div key={s.base} style={{
-              padding: 32, background: SIQ.bg, borderRadius: 16, borderLeft: `4px solid ${SIQ.green}`,
+              padding: 32, background: SIQ.bg, borderRadius: 16,
               textAlign: 'left',
             }}>
               <div style={{
