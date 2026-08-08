@@ -192,9 +192,14 @@ const en = strings.en;
         document.getElementById('playstore').textContent = s['promo.playstore'];
         document.getElementById('website').textContent = s['promo.website'];
         if (isSub) {
-          var code = decodeURIComponent(
-            path.replace(/^\/p\//, '').split('/')[0] || ''
-          ).trim();
+          // A malformed escape must not abort the rest of the page.
+          var raw = path.replace(/^\/p\//, '').split('/')[0] || '';
+          var code;
+          try {
+            code = decodeURIComponent(raw).trim();
+          } catch (e) {
+            code = raw.trim();
+          }
           if (code) {
             document.getElementById('codeValue').textContent = code;
             document.getElementById('codeLabel').textContent =
