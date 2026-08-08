@@ -49,7 +49,24 @@ const en = strings.en;
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="apple-itunes-app" content="app-id=6760778035" />
+    <script is:inline>
+      // Writes the banner tag rather than patching one already in the document:
+      // Safari reads apple-itunes-app when the parser reaches it, so a later
+      // setAttribute would not put app-argument on the banner.
+      (function () {
+        var content = 'app-id=6760778035';
+        var path = location.pathname || '';
+        if (/^\/(p|r)\//.test(path)) {
+          content += ', app-argument=' + location.origin + path;
+        }
+        document.write(
+          '<meta name="apple-itunes-app" content="' + content + '">'
+        );
+      })();
+    </script>
+    <noscript
+      ><meta name="apple-itunes-app" content="app-id=6760778035"
+    /></noscript>
     <title>StampIQ</title>
     <style>
       body {

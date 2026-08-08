@@ -1902,12 +1902,12 @@
   {
     "key": "promoSub.title",
     "section/location": "Subscription-promo QR landing (/p)",
-    "en": "Claiming your free upgrade",
-    "de": "Dein Gratis-Upgrade wird eingelöst",
-    "fr": "Récupération de votre mise à niveau gratuite",
-    "it": "Riscatto del tuo upgrade gratuito",
-    "nl": "Je gratis upgrade wordt ingewisseld",
-    "pl": "Aktywacja darmowego dostępu"
+    "en": "Redeeming your code",
+    "de": "Dein Code wird eingelöst",
+    "fr": "Activation de votre code",
+    "it": "Riscatto del tuo codice",
+    "nl": "Je code wordt ingewisseld",
+    "pl": "Aktywacja Twojego kodu"
   },
   {
     "key": "promoSub.subtitle",
