@@ -10,6 +10,7 @@ StampIQ Landing is the static marketing and legal site for stampiq.io, built wit
 No open issues. The last substantive work was on 2026-08-04, adding a press feature section, autumn fairs content, a web app section, a web badge SVG for print, and bumping deploy workflow actions to current majors.
 
 ## Recent activity
+- 2026-08-08: Republished .well-known files, fixed promo code escape handling, and corrected install-flow code carry-through (3 commits)
 - 2026-08-04: Added press feature, autumn fairs, and web app section; bumped deploy workflow actions to current majors (675fa1d, b790610)
 - 2026-08-02: Under-13 flow disclosed in privacy policy and terms; email images hosted externally (3 commits)
 - 2026-07-14: Synced CLAUDE.md (0e43a33)
