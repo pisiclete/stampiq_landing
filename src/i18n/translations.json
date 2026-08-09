@@ -872,12 +872,12 @@
   {
     "key": "pricing.tier.free.feature.1.desc",
     "section/location": "Pricing — Free feature 1 desc",
-    "en": "Identify your stamps with 95% accuracy. Results delivered in a few seconds.",
-    "de": "Identifiziere deine Briefmarken mit einer Genauigkeit von 95 %. Ergebnisse in wenigen Sekunden.",
-    "nl": "Identificeer jouw postzegels met een nauwkeurigheid van 95%. Resultaten binnen enkele seconden.",
-    "pl": "Zidentyfikuj swoje znaczki z 95% dokładnością. Wyniki dostępne w ciągu kilku sekund.",
-    "fr": "Identifie tes timbres avec une précision de 95 %. Résultats disponibles en quelques secondes.",
-    "it": "Identifica i tuoi francobolli con una precisione del 95%. Risultati disponibili in pochi secondi."
+    "en": "Identify your stamps with 98% accuracy. Results delivered in a few seconds.",
+    "de": "Identifiziere deine Briefmarken mit einer Genauigkeit von 98 %. Ergebnisse in wenigen Sekunden.",
+    "nl": "Identificeer jouw postzegels met een nauwkeurigheid van 98%. Resultaten binnen enkele seconden.",
+    "pl": "Zidentyfikuj swoje znaczki z 98% dokładnością. Wyniki dostępne w ciągu kilku sekund.",
+    "fr": "Identifie tes timbres avec une précision de 98 %. Résultats disponibles en quelques secondes.",
+    "it": "Identifica i tuoi francobolli con una precisione del 98%. Risultati disponibili in pochi secondi."
   },
   {
     "key": "pricing.tier.free.feature.2.title",
@@ -972,12 +972,12 @@
   {
     "key": "pricing.tier.premium.feature.1.desc",
     "section/location": "Pricing — Premium feature 1 desc",
-    "en": "Identify your stamps with 95% accuracy in under 1 second — no waiting around.",
-    "de": "Identifiziere deine Briefmarken mit einer Genauigkeit von 95 % in weniger als 1 Sekunde – ganz ohne Wartezeit.",
-    "nl": "Identificeer jouw postzegels met een nauwkeurigheid van 95% in minder dan 1 seconde — zonder wachttijd.",
-    "pl": "Zidentyfikuj swój znaczek z 95% dokładnością w mniej niż 1 sekundę – bez czekania.",
-    "fr": "Identifie tes timbres avec une précision de 95 % en moins d'une seconde — pas besoin d'attendre.",
-    "it": "Identifica i tuoi francobolli con una precisione del 95% in meno di 1 secondo — senza attese."
+    "en": "Identify your stamps with 98% accuracy in under 1 second — no waiting around.",
+    "de": "Identifiziere deine Briefmarken mit einer Genauigkeit von 98 % in weniger als 1 Sekunde – ganz ohne Wartezeit.",
+    "nl": "Identificeer jouw postzegels met een nauwkeurigheid van 98% in minder dan 1 seconde — zonder wachttijd.",
+    "pl": "Zidentyfikuj swój znaczek z 98% dokładnością w mniej niż 1 sekundę – bez czekania.",
+    "fr": "Identifie tes timbres avec une précision de 98 % en moins d'une seconde — pas besoin d'attendre.",
+    "it": "Identifica i tuoi francobolli con una precisione del 98% in meno di 1 secondo — senza attese."
   },
   {
     "key": "pricing.tier.premium.feature.2.title",
