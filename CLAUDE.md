@@ -10,6 +10,7 @@ StampIQ Landing is the static marketing and legal site for stampiq.io, built wit
 No open issues. The last commit on 2026-08-09 standardized recognition accuracy claims across the site.
 
 ## Recent activity
+- 2026-08-17: Added app demo video (EN) for sharing (1 commit)
 - 2026-08-09: Quote the same recognition accuracy everywhere (11a0640)
 - 2026-08-08: Republished .well-known files, fixed promo code escape handling, and corrected install-flow code carry-through (3 commits)
 - 2026-08-04: Added press feature, autumn fairs, and web app section; bumped deploy workflow actions to current majors (675fa1d, b790610)
