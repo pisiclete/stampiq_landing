@@ -13,6 +13,8 @@ stampiq_landing/
 │   ├── CNAME                   # stampiq.io
 │   ├── robots.txt
 │   ├── .well-known/            # iOS Universal Links + Android App Links
+│   ├── redirect.html           # QR landing: sends phones to the right store
+│   ├── subscribe/index.html    # /subscribe — see "Deep-link paths" below
 │   └── assets/
 │       ├── sigi/               # 6 mascot SVGs (poses)
 │       ├── badges/             # App Store + Play Store SVGs
@@ -82,6 +84,21 @@ npm run preview  # Serves dist/ on http://127.0.0.1:4321
 ## Deploy
 
 `.github/workflows/deploy.yml` builds Astro and publishes `dist/` to GitHub Pages on every push to `main`. The CNAME (`stampiq.io`) and `.well-known/` files for app deep-linking are passed through from `public/`.
+
+## Deep-link paths
+
+The app claims four paths on this domain. Each one has to be listed in `public/.well-known/apple-app-site-association` (and the root copy at `.well-known/`) for iOS, in `AndroidManifest.xml` in `stampiq_app` for Android, and handled in `classifyDeepLink` in the app. A path missing from any of the three never opens the app.
+
+| Path | Sent by | App opens |
+|---|---|---|
+| `/activate` | account activation email | activation flow |
+| `/r/<CODE>` | scan promo QR | scan promo redemption |
+| `/p/<CODE>` | subscription promo QR | subscription promo redemption |
+| `/subscribe` | promo expiry email | plan picker |
+
+`/subscribe` is a directory index rather than an Astro page, because `build.format: 'preserve'` would serve an Astro page at `/subscribe.html` and the deep link needs the extensionless path. The AASA lists both `/subscribe` and `/subscribe/` since the browser requests the trailing-slash form.
+
+A visitor who reaches the page at all does not have the app: the OS intercepts the link before the request goes out when it is installed. The page forwards to `https://app.stampiq.io/#/pricing` (hash routing, so the `#` is required), and the web app shows its own get-the-app screen on a phone browser.
 
 ## Conventions
 

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="noindex">
+    <title>StampIQ — Opening plans…</title>
+
+    <!-- Sent by the promo expiry email. On a phone with StampIQ installed the
+         OS claims this URL and the app opens the plan picker, so this page is
+         never fetched. Everyone else lands here and is forwarded to the web
+         app, which shows its own get-the-app screen on a phone browser.
+         The web app uses hash routing, hence /#/pricing. -->
+    <meta http-equiv="refresh" content="0; url=https://app.stampiq.io/#/pricing">
+
+    <style>
+        body {
+            font-family: 'Roboto', -apple-system, BlinkMacSystemFont, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            background-color: #F9F9F9;
+            color: #222222;
+        }
+        .redirect-message {
+            text-align: center;
+            padding: 20px;
+        }
+        a {
+            color: #66E204;
+            text-decoration: none;
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+    <div class="redirect-message">
+        <p>Opening StampIQ…</p>
+        <p><a href="https://app.stampiq.io/#/pricing">Continue to the plans</a></p>
+    </div>
+
+    <script>
+        (function () {
+            location.replace('https://app.stampiq.io/#/pricing');
+        })();
+    </script>
+</body>
+</html>
