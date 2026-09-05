@@ -4,10 +4,10 @@
 # stampiq_landing
 
 ## Summary
-StampIQ Landing is the static marketing and legal site for stampiq.io, built with Astro and React and deployed to GitHub Pages. It serves six language variants (English, German, French, Italian, Dutch, Polish) across separate per-language routes, with each page pre-rendered to HTML at build time so search engines see real content and can index each language separately via hreflang tags. The site includes marketing pages, privacy policy, terms of service, and account deletion flow, plus a legacy redirect layer that catches old `?lang=` query parameters from app store listings and normalizes them to the current canonical URL structure.
+StampIQ Landing is the static marketing and legal site for stampiq.io, built with Astro and React and deployed to GitHub Pages. It serves 24 pre-rendered HTML pages across six languages (English, German, French, Italian, Dutch, Polish), with separate per-language routes for the homepage, privacy policy, terms, and account deletion page. The site handles app deep-linking through standard `.well-known/` files, legacy `?lang=` query redirects from app store listings, and client-side pricing detection based on location data, all while maintaining full crawlability and Google indexing via hreflang annotations.
 
 ## Current status
-No open issues. The last commit on 2026-08-17 added an EN app demo video for sharing.
+No open issues. The last commit on 2026-09-04 added a /subscribe path to support deep-linking from promo expiry emails.
 
 ## Recent activity
 - 2026-09-04: /subscribe path added to support promo expiry email deep-link
@@ -45,5 +45,5 @@ No open issues. The last commit on 2026-08-17 added an EN app demo video for sha
 (none)
 
 ## Handoff notes
-The site is stable with no outstanding issues. Recent feature work covered the press feature and autumn fairs additions, under-13 legal disclosures, the /r and /p promo and universal-link paths, the geo-block page, and legal updates for web payments and sensitive content. Daily CLAUDE.md commits appear automated and carry no functional changes.
+The site is stable with no outstanding issues. Recent feature work covered the /subscribe deep-link path, the EN demo video, press and autumn fairs additions, under-13 legal disclosures, the /r and /p promo and universal-link paths, the geo-block page, and legal updates for web payments and sensitive content. Daily CLAUDE.md commits appear automated and carry no functional changes.
 <!-- sigi-end -->
