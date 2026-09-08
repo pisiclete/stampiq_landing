@@ -46,7 +46,13 @@ const SECTIONS = [
   { type: 'p',  key: 'privacy.s3_9_p2' },
   { type: 'p',  key: 'privacy.s3_9_p3' },
   { type: 'h3', key: 'privacy.s3_10_title' },
-  { type: 'ul', items: ['privacy.s3_10_li1','privacy.s3_10_li2','privacy.s3_10_li3','privacy.s3_10_li4'] },
+  { type: 'p',  key: 'privacy.s3_10_p1' },
+  { type: 'p',  key: 'privacy.s3_10_p2' },
+  { type: 'p',  key: 'privacy.s3_10_p3' },
+  { type: 'h3', key: 'privacy.s3_11_title' },
+  { type: 'p',  key: 'privacy.s3_11_p1' },
+  { type: 'h3', key: 'privacy.s3_12_title' },
+  { type: 'ul', items: ['privacy.s3_12_li1','privacy.s3_12_li2','privacy.s3_12_li3','privacy.s3_12_li4'] },
 
   { type: 'h2', key: 'privacy.s4_title' },
   { type: 'p',  key: 'privacy.s4_p1' },
@@ -157,7 +163,7 @@ export default function Privacy() {
     <>
       <a href={home} className="back-link" dangerouslySetInnerHTML={{ __html: t('legal.back_link') }}/>
       <h1 dangerouslySetInnerHTML={{ __html: t('privacy.heading') }}/>
-      <p className="last-updated" dangerouslySetInnerHTML={{ __html: t('legal.last_updated') }}/>
+      <p className="last-updated" dangerouslySetInnerHTML={{ __html: t('privacy.last_updated') }}/>
       <p className="effective-date" dangerouslySetInnerHTML={{ __html: t('privacy.effective_date') }}/>
       {renderSections(SECTIONS, t)}
     </>
