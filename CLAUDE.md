@@ -7,9 +7,10 @@
 StampIQ Landing is the static marketing and legal site for stampiq.io, built with Astro and React and deployed to GitHub Pages. It serves 24 pre-rendered HTML pages across six languages (English, German, French, Italian, Dutch, Polish), with separate per-language routes for the homepage, privacy policy, terms, and account deletion page. The site handles app deep-linking through standard `.well-known/` files, legacy `?lang=` query redirects from app store listings, and client-side pricing detection based on location data, all while maintaining full crawlability and Google indexing via hreflang annotations.
 
 ## Current status
-No open issues. The last commit on 2026-09-04 added a /subscribe path to support deep-linking from promo expiry emails.
+No open issues. The last commit on 2026-09-08 updated the privacy policy to specify data collection practices at fair stands.
 
 ## Recent activity
+- 2026-09-08: Updated privacy policy to specify data collection practices at a fair stand (485c01c)
 - 2026-09-04: /subscribe path added to support promo expiry email deep-link
 - 2026-08-17: Added app demo video (EN) for sharing (1 commit)
 - 2026-08-09: Quote the same recognition accuracy everywhere (11a0640)
@@ -39,11 +40,10 @@ No open issues. The last commit on 2026-09-04 added a /subscribe path to support
 - 2026-05-15: Disclosed Sentry crash reporting in privacy policy (commit 1b5eeec)
 - 2026-05-10: Added iOS Smart App Banner meta tag (commit 1b12799); Smart App Banner stampiq_app todo marked done via Telegram
 - 2026-04-30: Migrated site to Astro (SEO + multi-language URLs), added async Google Fonts, smart QR-code store redirect, and email-signature logo asset (commits 8656bda, 65e0efe, 36f3d9a, 763463f)
-- 2026-04-27: Added post-launch-style header + footer to privacy/terms/delete-account pages (commit d3cbb3d)
 
 ## Open issues
 (none)
 
 ## Handoff notes
-The site is stable with no outstanding issues. Recent feature work covered the /subscribe deep-link path, the EN demo video, press and autumn fairs additions, under-13 legal disclosures, the /r and /p promo and universal-link paths, the geo-block page, and legal updates for web payments and sensitive content. Daily CLAUDE.md commits appear automated and carry no functional changes.
+The site is stable with no outstanding issues. Recent feature work covered the fair-stand privacy policy update, the /subscribe deep-link path, the EN demo video, press and autumn fairs additions, under-13 legal disclosures, the /r and /p promo and universal-link paths, the geo-block page, and legal updates for web payments and sensitive content. Daily CLAUDE.md commits appear automated and carry no functional changes.
 <!-- sigi-end -->
