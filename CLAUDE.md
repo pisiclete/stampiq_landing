@@ -10,6 +10,7 @@ StampIQ Landing is the static marketing and legal site for stampiq.io, built wit
 No open issues. Recent activity is offline marketing work for a DBZ insert and SLOVPHILEX 2027, with the last code commit on 2026-09-08 updating the privacy policy for fair-stand data collection.
 
 ## Recent activity
+- 2026-09-10: No activity today
 - 2026-09-09: (email) DBZ 19/2026 published StampIQ text adapted for German readers.
 - 2026-09-09: (email) Print vendor confirmed format 105x210 mm high (wickelfalz) is feasible for DBZ 22/2026 insert, pending final pricing check.
 - 2026-09-09: (email) Requested removal of duplicate QR code in DBZ 19 reader offer box, keeping only the QR code in the ad below.
@@ -39,10 +40,9 @@ No open issues. Recent activity is offline marketing work for a DBZ insert and S
 - 2026-06-16: Fixed /r promo page: custom-scheme handoff, cancel store redirect on app open, and manual open/install fallback buttons (3 commits)
 - 2026-06-13: Added /r promo path to AASA and 404 store-redirect fallback (8a7e0c0)
 - 2026-06-07: Updated CLAUDE.md to document the ToS Historical and Sensitive Content clause (8eda70b)
-- 2026-06-06: Added Historical and Sensitive Content clause to Terms of Service (41ef88f)
 
 ## Open issues
-(none)
+- Obtain final pricing and producibility confirmation from DDM for DBZ 22 insert.
 
 ## Handoff notes
 The site is stable with no outstanding issues. Recent feature work covered the fair-stand privacy policy update, the /subscribe deep-link path, the EN demo video, press and autumn fairs additions, under-13 legal disclosures, the /r and /p promo and universal-link paths, the geo-block page, and legal updates for web payments and sensitive content. Daily CLAUDE.md commits appear automated and carry no functional changes.
