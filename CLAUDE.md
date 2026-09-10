@@ -7,9 +7,14 @@
 StampIQ Landing is the static marketing and legal site for stampiq.io, built with Astro and React and deployed to GitHub Pages. It serves 24 pre-rendered HTML pages across six languages (English, German, French, Italian, Dutch, Polish), with separate per-language routes for the homepage, privacy policy, terms, and account deletion page. The site handles app deep-linking through standard `.well-known/` files, legacy `?lang=` query redirects from app store listings, and client-side pricing detection based on location data, all while maintaining full crawlability and Google indexing via hreflang annotations.
 
 ## Current status
-No open issues. The last commit on 2026-09-08 updated the privacy policy to specify data collection practices at fair stands.
+No open issues. Recent activity is offline marketing work for a DBZ insert and SLOVPHILEX 2027, with the last code commit on 2026-09-08 updating the privacy policy for fair-stand data collection.
 
 ## Recent activity
+- 2026-09-09: (email) DBZ 19/2026 published StampIQ text adapted for German readers.
+- 2026-09-09: (email) Print vendor confirmed format 105x210 mm high (wickelfalz) is feasible for DBZ 22/2026 insert, pending final pricing check.
+- 2026-09-09: (email) Requested removal of duplicate QR code in DBZ 19 reader offer box, keeping only the QR code in the ad below.
+- 2026-09-09: (email) Updated DBZ insert flyer format to 315 x 210 mm open, 105 x 210 mm closed, to meet print vendor minimum width requirement.
+- 2026-09-09: (email) Applied to exhibit at SLOVPHILEX 2027 philatelic fair.
 - 2026-09-08: Updated privacy policy to specify data collection practices at a fair stand (485c01c)
 - 2026-09-04: /subscribe path added to support promo expiry email deep-link
 - 2026-08-17: Added app demo video (EN) for sharing (1 commit)
@@ -35,11 +40,6 @@ No open issues. The last commit on 2026-09-08 updated the privacy policy to spec
 - 2026-06-13: Added /r promo path to AASA and 404 store-redirect fallback (8a7e0c0)
 - 2026-06-07: Updated CLAUDE.md to document the ToS Historical and Sensitive Content clause (8eda70b)
 - 2026-06-06: Added Historical and Sensitive Content clause to Terms of Service (41ef88f)
-- 2026-05-20: Added variants.gif for launch-update email (commit 25ebc77)
-- 2026-05-16: Added launch-update email GIF assets (commit 5359ba2); updated CLAUDE.md for Sentry privacy disclosure (commit 6e3d12b)
-- 2026-05-15: Disclosed Sentry crash reporting in privacy policy (commit 1b5eeec)
-- 2026-05-10: Added iOS Smart App Banner meta tag (commit 1b12799); Smart App Banner stampiq_app todo marked done via Telegram
-- 2026-04-30: Migrated site to Astro (SEO + multi-language URLs), added async Google Fonts, smart QR-code store redirect, and email-signature logo asset (commits 8656bda, 65e0efe, 36f3d9a, 763463f)
 
 ## Open issues
 (none)
