@@ -10,6 +10,7 @@ StampIQ Landing is the static marketing and legal site for stampiq.io, built wit
 One open issue: final pricing and producibility confirmation from DDM for the DBZ 22 insert is pending. The last code commit (2026-09-08) updated the privacy policy for fair-stand data collection.
 
 ## Recent activity
+- 2026-09-11: No activity today; DDM handoff to Print Media Group noted from mailing commits
 - 2026-09-10: No activity today
 - 2026-09-09: (email) DBZ 19/2026 published StampIQ text adapted for German readers.
 - 2026-09-09: (email) Print vendor confirmed format 105x210 mm high (wickelfalz) is feasible for DBZ 22/2026 insert, pending final pricing check.
@@ -39,7 +40,6 @@ One open issue: final pricing and producibility confirmation from DDM for the DB
 - 2026-06-18: Added /p subscription-promo QR landing page and universal-link path (909ccd0)
 - 2026-06-16: Fixed /r promo page: custom-scheme handoff, cancel store redirect on app open, and manual open/install fallback buttons (3 commits)
 - 2026-06-13: Added /r promo path to AASA and 404 store-redirect fallback (8a7e0c0)
-- 2026-06-07: Updated CLAUDE.md to document the ToS Historical and Sensitive Content clause (8eda70b)
 
 ## Open issues
 - Obtain final pricing and producibility confirmation from DDM for DBZ 22 insert.
