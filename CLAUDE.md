@@ -7,7 +7,7 @@
 StampIQ Landing is the static marketing and legal site for stampiq.io, built with Astro and React and deployed to GitHub Pages. It serves 24 pre-rendered HTML pages across six languages (English, German, French, Italian, Dutch, Polish), with separate per-language routes for the homepage, privacy policy, terms, and account deletion page. The site handles app deep-linking through standard `.well-known/` files, legacy `?lang=` query redirects from app store listings, and client-side pricing detection based on location data, all while maintaining full crawlability and Google indexing via hreflang annotations.
 
 ## Current status
-One open issue: final pricing and producibility confirmation from DDM for the DBZ 22 insert is pending. The last code commit (2026-09-08) updated the privacy policy for fair-stand data collection.
+One open issue: final pricing and producibility confirmation from DDM for the DBZ 22 insert is pending. The last code commit (2026-09-14) added the Swiss flag asset used in the newsletter Swiss Made pill.
 
 ## Recent activity
 - 2026-09-14: Swiss flag asset added for newsletter Swiss Made pill (1 commit, d9c08b6)
@@ -45,5 +45,5 @@ One open issue: final pricing and producibility confirmation from DDM for the DB
 - Obtain final pricing and producibility confirmation from DDM for DBZ 22 insert.
 
 ## Handoff notes
-The site is stable. The only open item is awaiting DDM's final pricing and producibility confirmation for the DBZ 22 insert (105x210 mm folded, 315x210 mm open). Recent feature work covered the fair-stand privacy policy update, the /subscribe deep-link path, the EN demo video, press and autumn fairs additions, under-13 legal disclosures, the /r and /p promo and universal-link paths, the geo-block page, and legal updates for web payments and sensitive content. Daily CLAUDE.md commits appear automated and carry no functional changes.
+The site is stable. The only open item is awaiting DDM's final pricing and producibility confirmation for the DBZ 22 insert (105x210 mm folded, 315x210 mm open). Recent feature work covered the Swiss flag newsletter asset, fair-stand privacy policy update, the /subscribe deep-link path, the EN demo video, press and autumn fairs additions, under-13 legal disclosures, the /r and /p promo and universal-link paths, the geo-block page, and legal updates for web payments and sensitive content. Daily CLAUDE.md commits appear automated and carry no functional changes.
 <!-- sigi-end -->
