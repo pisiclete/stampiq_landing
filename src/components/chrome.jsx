@@ -1,7 +1,7 @@
 // StampIQ — Header, Footer, LanguageSelector
 import React, { useState, useEffect, useRef } from 'react';
 import { SIQ } from '../lib/tokens';
-import { useT, useLang } from '../i18n/I18nContext';
+import { useT, useLang, useAlternates } from '../i18n/I18nContext';
 import { Logo, Pill, Icons, SigiSilhouette } from './components';
 
 const SUPPORTED_LANGS = [
@@ -25,6 +25,7 @@ const signInHref = (lang) => `${APP_URL}/?lang=${lang}`;
 
 const LanguageSelector = () => {
   const lang = useLang();
+  const alternates = useAlternates();
   const [open, setOpen] = useState(false);
   const ref = useRef(null);
 
@@ -64,7 +65,7 @@ const LanguageSelector = () => {
           padding: 6, minWidth: 120, zIndex: 100,
         }}>
           {SUPPORTED_LANGS.map(l => (
-            <a key={l.code} href={langHref(l.code)}
+            <a key={l.code} href={alternates?.[l.code] ?? langHref(l.code)}
               onClick={() => { try { localStorage.setItem('language', l.code); } catch (_) {} }}
               style={{
                 display: 'flex', alignItems: 'center', gap: 10, width: '100%',
@@ -97,6 +98,7 @@ export const Header = () => {
     { href: `${home}#press`,      key: 'nav.press' },
     { href: `${home}#partner`,    key: 'nav.partners' },
     { href: `${home}#faq`,        key: 'nav.faq' },
+    ...(__BLOG_LIVE__ ? [{ href: `${home}blog/`, key: 'nav.blog' }] : []),
   ];
   return (
     <header style={{
@@ -151,6 +153,7 @@ export const Footer = () => {
     ]},
     { titleKey: 'footer.col.company', items: [
       { href: `${home}#press`,                key: 'footer.company.press' },
+      ...(__BLOG_LIVE__ ? [{ href: `${home}blog/`, key: 'footer.company.blog' }] : []),
       { href: `${home}#events`,               key: 'footer.company.events', className: 'siq-ibb' },
       { href: `${home}#about`,                key: 'footer.company.about' },
       { href: 'mailto:support@stampiq.io',    key: 'footer.company.contact' },

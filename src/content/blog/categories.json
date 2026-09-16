@@ -1,0 +1,254 @@
+[
+  {
+    "id": "feature",
+    "position": 1,
+    "languages": {
+      "en": {
+        "name": "Features",
+        "slug": "features",
+        "description": "What StampIQ can do and how to get the most out of it."
+      },
+      "de": {
+        "name": "Funktionen",
+        "slug": "funktionen",
+        "description": "What StampIQ can do and how to get the most out of it."
+      },
+      "fr": {
+        "name": "Fonctionnalités",
+        "slug": "fonctionnalites",
+        "description": "What StampIQ can do and how to get the most out of it."
+      },
+      "it": {
+        "name": "Funzioni",
+        "slug": "funzioni",
+        "description": "What StampIQ can do and how to get the most out of it."
+      },
+      "nl": {
+        "name": "Functies",
+        "slug": "functies",
+        "description": "What StampIQ can do and how to get the most out of it."
+      },
+      "pl": {
+        "name": "Funkcje",
+        "slug": "funkcje",
+        "description": "What StampIQ can do and how to get the most out of it."
+      }
+    }
+  },
+  {
+    "id": "event",
+    "position": 2,
+    "languages": {
+      "en": {
+        "name": "Events",
+        "slug": "events",
+        "description": "Stamp fairs, exhibitions and where you can meet StampIQ."
+      },
+      "de": {
+        "name": "Veranstaltungen",
+        "slug": "veranstaltungen",
+        "description": "Stamp fairs, exhibitions and where you can meet StampIQ."
+      },
+      "fr": {
+        "name": "Événements",
+        "slug": "evenements",
+        "description": "Stamp fairs, exhibitions and where you can meet StampIQ."
+      },
+      "it": {
+        "name": "Eventi",
+        "slug": "eventi",
+        "description": "Stamp fairs, exhibitions and where you can meet StampIQ."
+      },
+      "nl": {
+        "name": "Evenementen",
+        "slug": "evenementen",
+        "description": "Stamp fairs, exhibitions and where you can meet StampIQ."
+      },
+      "pl": {
+        "name": "Wydarzenia",
+        "slug": "wydarzenia",
+        "description": "Stamp fairs, exhibitions and where you can meet StampIQ."
+      }
+    }
+  },
+  {
+    "id": "under-the-loupe",
+    "position": 3,
+    "languages": {
+      "en": {
+        "name": "Under the loupe",
+        "slug": "under-the-loupe",
+        "description": "One stamp looked at closely, with the story behind it."
+      },
+      "de": {
+        "name": "Unter der Lupe",
+        "slug": "unter-der-lupe",
+        "description": "One stamp looked at closely, with the story behind it."
+      },
+      "fr": {
+        "name": "À la loupe",
+        "slug": "a-la-loupe",
+        "description": "One stamp looked at closely, with the story behind it."
+      },
+      "it": {
+        "name": "Sotto la lente",
+        "slug": "sotto-la-lente",
+        "description": "One stamp looked at closely, with the story behind it."
+      },
+      "nl": {
+        "name": "Onder de loep",
+        "slug": "onder-de-loep",
+        "description": "One stamp looked at closely, with the story behind it."
+      },
+      "pl": {
+        "name": "Pod lupą",
+        "slug": "pod-lupa",
+        "description": "One stamp looked at closely, with the story behind it."
+      }
+    }
+  },
+  {
+    "id": "day-trips",
+    "position": 4,
+    "languages": {
+      "en": {
+        "name": "Day trips",
+        "slug": "day-trips",
+        "description": "Places shown on stamps that you can visit, with a new one every Friday."
+      },
+      "de": {
+        "name": "Ausflüge",
+        "slug": "ausfluege",
+        "description": "Places shown on stamps that you can visit, with a new one every Friday."
+      },
+      "fr": {
+        "name": "Excursions",
+        "slug": "excursions",
+        "description": "Places shown on stamps that you can visit, with a new one every Friday."
+      },
+      "it": {
+        "name": "Gite",
+        "slug": "gite",
+        "description": "Places shown on stamps that you can visit, with a new one every Friday."
+      },
+      "nl": {
+        "name": "Uitstapjes",
+        "slug": "uitstapjes",
+        "description": "Places shown on stamps that you can visit, with a new one every Friday."
+      },
+      "pl": {
+        "name": "Wycieczki",
+        "slug": "wycieczki",
+        "description": "Places shown on stamps that you can visit, with a new one every Friday."
+      }
+    }
+  },
+  {
+    "id": "new-issues",
+    "position": 5,
+    "languages": {
+      "en": {
+        "name": "New issues",
+        "slug": "new-issues",
+        "description": "What the postal administrations release, and in which formats."
+      },
+      "de": {
+        "name": "Neuheiten",
+        "slug": "neuheiten",
+        "description": "What the postal administrations release, and in which formats."
+      },
+      "fr": {
+        "name": "Nouveautés",
+        "slug": "nouveautes",
+        "description": "What the postal administrations release, and in which formats."
+      },
+      "it": {
+        "name": "Novità",
+        "slug": "novita",
+        "description": "What the postal administrations release, and in which formats."
+      },
+      "nl": {
+        "name": "Nieuwe uitgiften",
+        "slug": "nieuwe-uitgiften",
+        "description": "What the postal administrations release, and in which formats."
+      },
+      "pl": {
+        "name": "Nowości",
+        "slug": "nowosci",
+        "description": "What the postal administrations release, and in which formats."
+      }
+    }
+  },
+  {
+    "id": "behind-stampiq",
+    "position": 6,
+    "languages": {
+      "en": {
+        "name": "Behind StampIQ",
+        "slug": "behind-stampiq",
+        "description": "How the app and SigiVision are built."
+      },
+      "de": {
+        "name": "Hinter StampIQ",
+        "slug": "hinter-stampiq",
+        "description": "How the app and SigiVision are built."
+      },
+      "fr": {
+        "name": "Dans les coulisses de StampIQ",
+        "slug": "coulisses-stampiq",
+        "description": "How the app and SigiVision are built."
+      },
+      "it": {
+        "name": "Dietro StampIQ",
+        "slug": "dietro-stampiq",
+        "description": "How the app and SigiVision are built."
+      },
+      "nl": {
+        "name": "Achter StampIQ",
+        "slug": "achter-stampiq",
+        "description": "How the app and SigiVision are built."
+      },
+      "pl": {
+        "name": "Kulisy StampIQ",
+        "slug": "kulisy-stampiq",
+        "description": "How the app and SigiVision are built."
+      }
+    }
+  },
+  {
+    "id": "collecting-basics",
+    "position": 7,
+    "languages": {
+      "en": {
+        "name": "Collecting basics",
+        "slug": "collecting-basics",
+        "description": "Perforation, watermarks, condition and the rest of the craft."
+      },
+      "de": {
+        "name": "Grundlagen",
+        "slug": "grundlagen",
+        "description": "Perforation, watermarks, condition and the rest of the craft."
+      },
+      "fr": {
+        "name": "Les bases",
+        "slug": "les-bases",
+        "description": "Perforation, watermarks, condition and the rest of the craft."
+      },
+      "it": {
+        "name": "Le basi",
+        "slug": "le-basi",
+        "description": "Perforation, watermarks, condition and the rest of the craft."
+      },
+      "nl": {
+        "name": "Basiskennis",
+        "slug": "basiskennis",
+        "description": "Perforation, watermarks, condition and the rest of the craft."
+      },
+      "pl": {
+        "name": "Podstawy",
+        "slug": "podstawy",
+        "description": "Perforation, watermarks, condition and the rest of the craft."
+      }
+    }
+  }
+]

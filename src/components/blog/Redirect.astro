@@ -1,0 +1,19 @@
+---
+import { ORIGIN } from '../../lib/blog.js';
+
+const { to } = Astro.props;
+const url = `${ORIGIN}${to}`;
+---
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>StampIQ</title>
+    <meta name="robots" content="noindex" />
+    <link rel="canonical" href={url} />
+    <meta http-equiv="refresh" content={`0;url=${to}`} />
+  </head>
+  <body>
+    <a href={to}>{url}</a>
+  </body>
+</html>

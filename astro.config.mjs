@@ -1,6 +1,9 @@
 import { defineConfig } from 'astro/config';
 import react from '@astrojs/react';
 import sitemap from '@astrojs/sitemap';
+import { redirectPaths, visiblePostFiles } from './src/lib/blog-files.mjs';
+
+const blogRedirects = new Set(redirectPaths().map((p) => `https://stampiq.io${p}`));
 
 export default defineConfig({
   site: 'https://stampiq.io',
@@ -22,11 +25,12 @@ export default defineConfig({
       // (not /privacy) and language roots serve at /de/ (with trailing slash).
       // Astro's sitemap defaults to clean URLs — fix each entry to match the
       // actual served URL.
+      filter: (page) => !blogRedirects.has(page.endsWith('/') ? page : `${page}/`),
       serialize(item) {
         let url = item.url;
         if (/\/(privacy|terms|delete-account)$/.test(url)) {
           url = url + '.html';
-        } else if (/\/(de|fr|it|nl|pl)$/.test(url)) {
+        } else if (/\/(de|fr|it|nl|pl)$/.test(url) || /\/blog(\/[a-z0-9-]+)?$/.test(url)) {
           url = url + '/';
         }
         return { ...item, url };
@@ -40,6 +44,9 @@ export default defineConfig({
     format: 'preserve',
   },
   vite: {
+    define: {
+      __BLOG_LIVE__: JSON.stringify(visiblePostFiles().length > 0),
+    },
     build: {
       assetsInlineLimit: 0,
     },

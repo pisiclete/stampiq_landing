@@ -34,3 +34,7 @@ dist/
 # Node
 node_modules/
 npm-debug.log*
+
+# Blog fixtures: sample posts and their images for design work, never published
+src/content/blog/fixtures/
+public/assets/blog/

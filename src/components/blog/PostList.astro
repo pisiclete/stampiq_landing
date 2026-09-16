@@ -1,0 +1,134 @@
+---
+import Icon from './Icon.astro';
+import PostCard from './PostCard.astro';
+import { tFor } from '../../i18n/lookup.js';
+import { blogRoot, categoryPath, marketFlag, marketName } from '../../lib/blog.js';
+
+const { lang, posts, categories, categoryById, activeCategory = null, activeMarket = null } = Astro.props;
+
+const markets = [...new Set(posts.flatMap((p) => p.data.markets))].sort((a, b) =>
+  marketName(a, lang).localeCompare(marketName(b, lang), lang),
+);
+
+const categoryEntries = [
+  { href: blogRoot(lang), name: tFor(lang, 'blog.all_categories'), active: activeCategory === null },
+  ...categories.map((c) => ({ href: categoryPath(c, lang), name: c.data.languages[lang].name, active: activeCategory === c.id })),
+];
+const marketEntries = [
+  { market: '', name: tFor(lang, 'blog.all_markets'), active: activeMarket === null },
+  ...markets.map((m) => ({ market: m, name: marketName(m, lang), flag: marketFlag(m), active: activeMarket === m })),
+];
+---
+<div class="mobilefilters">
+  <div class="countrypick countrypick--wide" data-pick>
+    <button type="button" class="countrypick__button" aria-expanded="false">
+      {categoryEntries.find((c) => c.active)?.name}<Icon name="chevron" size={10} stroke={1.5} />
+    </button>
+    <div class="countrymenu" hidden>
+      {categoryEntries.map((c) => <a class:list={['countrymenu__item', { 'is-active': c.active }]} href={c.href}>{c.name}</a>)}
+    </div>
+  </div>
+  <div class="countrypick countrypick--wide" data-pick>
+    <button type="button" class="countrypick__button" aria-expanded="false">
+      {marketEntries.find((m) => m.active)?.name}<Icon name="chevron" size={10} stroke={1.5} />
+    </button>
+    <div class="countrymenu" hidden>
+      {marketEntries.map((m) => (
+        <button type="button" class:list={['countrymenu__item', { 'is-active': m.active }]} data-market={m.market}>{m.flag && <span class="flag">{m.flag}</span>}{m.name}</button>
+      ))}
+    </div>
+  </div>
+</div>
+
+<div class="withside">
+  <aside class="side">
+    <div class="label">{tFor(lang, 'blog.categories_label')}</div>
+    <nav class="sidelist">
+      {categoryEntries.map((c) => <a class:list={['sidelink', { 'is-active': c.active }]} href={c.href}>{c.name}</a>)}
+    </nav>
+    <div class="label" style="margin-top:32px">{tFor(lang, 'blog.country')}</div>
+    <nav class="sidelist">
+      {marketEntries.map((m) => (
+        <button type="button" class:list={['sidelink', { 'is-active': m.active }]} data-market={m.market}>{m.flag && <span class="flag">{m.flag}</span>}{m.name}</button>
+      ))}
+    </nav>
+  </aside>
+
+  <div class="listcol">
+    <div class="cards cards--two" data-list>
+      {posts.map((post, i) => (
+        <PostCard post={post} lang={lang} categoryById={categoryById} eager={i < 3} />
+      ))}
+    </div>
+    <p class="blog-empty" hidden data-empty>{tFor(lang, 'blog.no_posts_for_market')}</p>
+    <div class="listend">
+      <button type="button" class="btn btn--primary" data-showmore hidden>
+        {tFor(lang, 'blog.more_posts')}<Icon name="arrow" size={16} stroke={2.5} />
+      </button>
+    </div>
+  </div>
+</div>
+
+<script>
+  const list = document.querySelector<HTMLElement>('[data-list]');
+  if (list) {
+    const cards = [...list.querySelectorAll<HTMLElement>('.card')];
+    const button = document.querySelector<HTMLButtonElement>('[data-showmore]')!;
+    const empty = document.querySelector<HTMLElement>('[data-empty]')!;
+    const AUTO_LIMIT = 36;
+    const STEP = 12;
+    let limit = AUTO_LIMIT;
+    let shown = STEP;
+    let market = '';
+
+    const matching = () => cards.filter((card) => !market || card.dataset.markets!.split(' ').includes(market));
+
+    function render() {
+      const visible = matching();
+      cards.forEach((card) => { card.hidden = true; });
+      visible.slice(0, shown).forEach((card) => { card.hidden = false; });
+      empty.hidden = visible.length > 0;
+      button.hidden = shown >= visible.length || shown < limit;
+    }
+
+    function reveal() {
+      shown = Math.min(shown + STEP, matching().length);
+      render();
+    }
+
+    render();
+
+    const sentinel = document.querySelector('.listend')!;
+    new IntersectionObserver((entries) => {
+      if (!entries[0].isIntersecting) return;
+      if (shown >= limit || shown >= matching().length) return;
+      reveal();
+    }, { rootMargin: '400px' }).observe(sentinel);
+
+    button.addEventListener('click', () => {
+      limit = cards.length;
+      reveal();
+    });
+
+    document.addEventListener('click', (event) => {
+      const target = (event.target as Element).closest<HTMLElement>('[data-market]');
+      if (!target) return;
+      market = target.dataset.market!;
+      shown = STEP;
+      limit = AUTO_LIMIT;
+      for (const el of document.querySelectorAll('[data-market]')) el.classList.toggle('is-active', el === target);
+      render();
+    });
+  }
+
+  document.addEventListener('click', (event) => {
+    const clicked = (event.target as Element).closest('.countrypick__button');
+    for (const pick of document.querySelectorAll<HTMLElement>('[data-pick]')) {
+      const button = pick.querySelector<HTMLButtonElement>('.countrypick__button')!;
+      const menu = pick.querySelector<HTMLElement>('.countrymenu')!;
+      const open = button === clicked ? menu.hidden : false;
+      menu.hidden = !open;
+      button.setAttribute('aria-expanded', String(open));
+    }
+  });
+</script>

@@ -80,6 +80,16 @@
     "it": "FAQ"
   },
   {
+    "key": "nav.blog",
+    "section/location": "Header nav",
+    "en": "Blog",
+    "de": "Blog",
+    "nl": "Blog",
+    "pl": "Blog",
+    "fr": "Blog",
+    "it": "Blog"
+  },
+  {
     "key": "nav.download",
     "section/location": "Header CTA button",
     "en": "Download",
@@ -1790,6 +1800,16 @@
     "it": "Stampa"
   },
   {
+    "key": "footer.company.blog",
+    "section/location": "Footer — Company column",
+    "en": "Blog",
+    "de": "Blog",
+    "nl": "Blog",
+    "pl": "Blog",
+    "fr": "Blog",
+    "it": "Blog"
+  },
+  {
     "key": "footer.company.about",
     "section/location": "Footer — Company link",
     "en": "About",
@@ -2338,5 +2358,235 @@
     "pl": "W przygotowaniu",
     "fr": "En cours",
     "it": "In lavorazione"
+  },
+  {
+    "key": "blog.meta_title",
+    "section/location": "Blog — SEO title and RSS title",
+    "en": "Beyond the catalog: the StampIQ blog",
+    "de": "Jenseits des Katalogs: der StampIQ Blog",
+    "nl": "Voorbij de catalogus: de StampIQ blog",
+    "pl": "Poza katalogiem: blog StampIQ",
+    "fr": "Au-delà du catalogue : le blog StampIQ",
+    "it": "Oltre il catalogo: il blog StampIQ"
+  },
+  {
+    "key": "blog.meta_description",
+    "section/location": "Blog — SEO description and RSS description",
+    "en": "Stamps worth knowing, places to visit at the weekend, stamp fairs and news from StampIQ.",
+    "de": "Briefmarken, die man kennen sollte, Ausflugsziele fürs Wochenende, Briefmarkenmessen und Neues von StampIQ.",
+    "nl": "Postzegels die je moet kennen, uitjes voor het weekend, postzegelbeurzen en nieuws van StampIQ.",
+    "pl": "Znaczki, które warto znać, miejsca na weekendowy wypad, targi filatelistyczne i nowości ze StampIQ.",
+    "fr": "Des timbres à connaître, des lieux à visiter le week-end, des salons philatéliques et les nouveautés de StampIQ.",
+    "it": "Francobolli da conoscere, luoghi da visitare nel fine settimana, fiere filateliche e novità di StampIQ."
+  },
+  {
+    "key": "blog.eyebrow",
+    "section/location": "Blog — eyebrow above headline, breadcrumb root",
+    "en": "Blog",
+    "de": "Blog",
+    "nl": "Blog",
+    "pl": "Blog",
+    "fr": "Blog",
+    "it": "Blog"
+  },
+  {
+    "key": "blog.headline",
+    "section/location": "Blog index — headline",
+    "en": "Beyond the catalog",
+    "de": "Jenseits des Katalogs",
+    "nl": "Voorbij de catalogus",
+    "pl": "Poza katalogiem",
+    "fr": "Au-delà du catalogue",
+    "it": "Oltre il catalogo"
+  },
+  {
+    "key": "blog.lead",
+    "section/location": "Blog index — lead under headline",
+    "en": "What the catalog entry leaves out, because a stamp is more than a number and a price.",
+    "de": "Was im Katalogeintrag fehlt, denn eine Briefmarke ist mehr als eine Nummer und ein Preis.",
+    "nl": "Wat het catalogusnummer weglaat, want een postzegel is meer dan een nummer en een prijs.",
+    "pl": "Czego nie ma we wpisie katalogowym, bo znaczek to coś więcej niż numer i cena.",
+    "fr": "Ce que la fiche du catalogue ne dit pas, parce qu'un timbre est plus qu'un numéro et un prix.",
+    "it": "Quello che la scheda di catalogo non dice, perché un francobollo è più di un numero e un prezzo."
+  },
+  {
+    "key": "blog.categories_label",
+    "section/location": "Blog — category navigation (screen readers)",
+    "en": "Categories",
+    "de": "Kategorien",
+    "nl": "Categorieën",
+    "pl": "Kategorie",
+    "fr": "Catégories",
+    "it": "Categorie"
+  },
+  {
+    "key": "blog.all_categories",
+    "section/location": "Blog — category chip for all posts",
+    "en": "All posts",
+    "de": "Alle Beiträge",
+    "nl": "Alle berichten",
+    "pl": "Wszystkie wpisy",
+    "fr": "Tous les articles",
+    "it": "Tutti gli articoli"
+  },
+  {
+    "key": "blog.all_markets",
+    "section/location": "Blog — region filter chip for all regions",
+    "en": "All",
+    "de": "Alle",
+    "nl": "Alle",
+    "pl": "Wszystkie",
+    "fr": "Toutes",
+    "it": "Tutte"
+  },
+  {
+    "key": "blog.no_posts_for_market",
+    "section/location": "Blog — region filter with no matching posts",
+    "en": "No posts for this region yet.",
+    "de": "Für diese Region gibt es noch keine Beiträge.",
+    "nl": "Nog geen berichten voor deze regio.",
+    "pl": "Brak jeszcze wpisów dla tego regionu.",
+    "fr": "Aucun article pour cette région pour l'instant.",
+    "it": "Ancora nessun articolo per questa regione."
+  },
+  {
+    "key": "blog.rss",
+    "section/location": "Blog — RSS link",
+    "en": "RSS feed",
+    "de": "RSS-Feed",
+    "nl": "RSS-feed",
+    "pl": "Kanał RSS",
+    "fr": "Flux RSS",
+    "it": "Feed RSS"
+  },
+  {
+    "key": "blog.more_in_category",
+    "section/location": "Blog post — related posts heading; {category} is the category name",
+    "en": "More from {category}",
+    "de": "Mehr aus {category}",
+    "nl": "Meer uit {category}",
+    "pl": "Więcej z kategorii {category}",
+    "fr": "Plus dans {category}",
+    "it": "Altro da {category}"
+  },
+  {
+    "key": "blog.draft",
+    "section/location": "Blog post — marker on unpublished posts (preview builds only)",
+    "en": "Draft, not published",
+    "de": "Entwurf, nicht veröffentlicht",
+    "nl": "Concept, niet gepubliceerd",
+    "pl": "Szkic, nieopublikowany",
+    "fr": "Brouillon, non publié",
+    "it": "Bozza, non pubblicata"
+  },
+  {
+    "key": "blog.embed.youtube",
+    "section/location": "Blog — notice before loading a YouTube video",
+    "en": "The video plays from YouTube. Loading it sends your IP address to Google, which may set cookies.",
+    "de": "Das Video wird von YouTube abgespielt. Beim Laden wird deine IP-Adresse an Google übertragen, und Google kann Cookies setzen.",
+    "nl": "De video speelt af vanaf YouTube. Bij het laden gaat je IP-adres naar Google, dat cookies kan plaatsen.",
+    "pl": "Film odtwarza się z YouTube. Po załadowaniu Twój adres IP trafia do Google, które może zapisać pliki cookie.",
+    "fr": "La vidéo est lue depuis YouTube. En la chargeant, ton adresse IP est transmise à Google, qui peut déposer des cookies.",
+    "it": "Il video viene riprodotto da YouTube. Caricandolo, il tuo indirizzo IP viene trasmesso a Google, che può impostare cookie."
+  },
+  {
+    "key": "blog.embed.instagram",
+    "section/location": "Blog — notice before loading an Instagram post",
+    "en": "This post is hosted on Instagram. Loading it sends your IP address to Meta, which may set cookies.",
+    "de": "Dieser Beitrag liegt bei Instagram. Wenn du ihn lädst, wird deine IP-Adresse an Meta übertragen, und Meta kann Cookies setzen.",
+    "nl": "Dit bericht staat op Instagram. Als je het laadt, wordt je IP-adres naar Meta gestuurd, dat cookies kan plaatsen.",
+    "pl": "Ten post jest hostowany na Instagramie. Po jego wczytaniu Twój adres IP trafi do Meta, która może zapisywać pliki cookie.",
+    "fr": "Cette publication est hébergée sur Instagram. Si tu la charges, ton adresse IP est transmise à Meta, qui peut déposer des cookies.",
+    "it": "Questo post è ospitato su Instagram. Se lo carichi, il tuo indirizzo IP viene inviato a Meta, che può impostare dei cookie."
+  },
+  {
+    "key": "blog.embed.facebook",
+    "section/location": "Blog — notice before loading a Facebook post or video",
+    "en": "This content is hosted on Facebook. Loading it sends your IP address to Meta, which may set cookies.",
+    "de": "Dieser Inhalt liegt bei Facebook. Wenn du ihn lädst, wird deine IP-Adresse an Meta übertragen, und Meta kann Cookies setzen.",
+    "nl": "Deze inhoud staat op Facebook. Als je hem laadt, wordt je IP-adres naar Meta gestuurd, dat cookies kan plaatsen.",
+    "pl": "Ta treść jest hostowana na Facebooku. Po jej wczytaniu Twój adres IP trafi do Meta, która może zapisywać pliki cookie.",
+    "fr": "Ce contenu est hébergé sur Facebook. Si tu le charges, ton adresse IP est transmise à Meta, qui peut déposer des cookies.",
+    "it": "Questo contenuto è ospitato su Facebook. Se lo carichi, il tuo indirizzo IP viene inviato a Meta, che può impostare dei cookie."
+  },
+  {
+    "key": "blog.embed.open",
+    "section/location": "Blog — link to the original post; {platform} is YouTube, Instagram or Facebook",
+    "en": "Open on {platform}",
+    "de": "Auf {platform} öffnen",
+    "nl": "Openen op {platform}",
+    "pl": "Otwórz w serwisie {platform}",
+    "fr": "Ouvrir sur {platform}",
+    "it": "Apri su {platform}"
+  },
+  {
+    "key": "blog.country",
+    "section/location": "Blog — sidebar label for the country filter",
+    "en": "Country",
+    "de": "Land",
+    "nl": "Land",
+    "pl": "Kraj",
+    "fr": "Pays",
+    "it": "Paese"
+  },
+  {
+    "key": "blog.more_posts",
+    "section/location": "Blog — button that reveals older posts",
+    "en": "More posts",
+    "de": "Weitere Beiträge",
+    "nl": "Meer berichten",
+    "pl": "Więcej wpisów",
+    "fr": "Plus d'articles",
+    "it": "Altri articoli"
+  },
+  {
+    "key": "blog.more_headline",
+    "section/location": "Blog post — related posts headline",
+    "en": "More from the blog",
+    "de": "Mehr aus dem Blog",
+    "nl": "Meer uit de blog",
+    "pl": "Więcej z bloga",
+    "fr": "Plus sur le blog",
+    "it": "Altro dal blog"
+  },
+  {
+    "key": "blog.format",
+    "section/location": "Blog — formats table column",
+    "en": "Format",
+    "de": "Format",
+    "nl": "Formaat",
+    "pl": "Format",
+    "fr": "Format",
+    "it": "Formato"
+  },
+  {
+    "key": "blog.face_value",
+    "section/location": "Blog — formats table column",
+    "en": "Face value",
+    "de": "Nennwert",
+    "nl": "Nominale waarde",
+    "pl": "Wartość nominalna",
+    "fr": "Valeur faciale",
+    "it": "Valore facciale"
+  },
+  {
+    "key": "blog.catalog_no",
+    "section/location": "Blog — formats table column",
+    "en": "Catalog no.",
+    "de": "Katalognr.",
+    "nl": "Catalogusnr.",
+    "pl": "Nr katalogowy",
+    "fr": "N° de catalogue",
+    "it": "N. catalogo"
+  },
+  {
+    "key": "blog.video.play",
+    "section/location": "Blog — button on a video thumbnail; {platform} is YouTube, Instagram or Facebook",
+    "en": "Play video from {platform}",
+    "de": "Video von {platform} abspielen",
+    "nl": "Video van {platform} afspelen",
+    "pl": "Odtwórz film z {platform}",
+    "fr": "Lire la vidéo depuis {platform}",
+    "it": "Riproduci il video da {platform}"
   }
 ]

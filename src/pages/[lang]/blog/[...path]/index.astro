@@ -1,0 +1,9 @@
+---
+import BlogRoute from '../../../../components/blog/BlogRoute.astro';
+import { blogPaths } from '../../../../lib/blog.js';
+
+export function getStaticPaths() {
+  return blogPaths(['de', 'fr', 'it', 'nl', 'pl']);
+}
+---
+<BlogRoute {...Astro.props} />
