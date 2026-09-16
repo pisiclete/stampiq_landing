@@ -213,6 +213,10 @@ html, body { overflow-x: hidden; }
   .siq-nav-pills { gap: 8px !important; }
   .siq-nav-pill { display: none !important; }
 }
+@media (max-width: 480px) {
+  .siq-logo-full { display: none !important; }
+  .siq-logo-mark { display: block !important; }
+}
 
 /* ============================================================
    TYPE SCALE — mobile hierarchy
