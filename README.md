@@ -51,9 +51,13 @@ stampiq_landing/
 │   │   ├── meta.js                    # Per-language SEO title/description for marketing pages
 │   │   ├── lookup.js                  # Build-time t() for Astro frontmatter
 │   │   └── I18nContext.jsx            # React Context: t(), useLang()
+│   ├── content/blog/              # Written by the cockpit — see "Blog" below
+│   ├── content.config.ts          # Blog content schema
 │   ├── lib/
 │   │   ├── tokens.js                  # SIQ design tokens
-│   │   └── pricing.js                 # STAMPIQ_PRICING + detectCountry()
+│   │   ├── pricing.js                 # STAMPIQ_PRICING + detectCountry()
+│   │   ├── blog.js                    # Blog routes, URLs, Markdown, embeds, RSS
+│   │   └── blog-files.mjs             # Blog files as astro.config.mjs reads them
 │   └── styles/
 │       ├── tokens.css, responsive.css # Marketing
 │       └── legal.css                  # Legal pages
@@ -84,6 +88,28 @@ npm run preview  # Serves dist/ on http://127.0.0.1:4321
 ## Deploy
 
 `.github/workflows/deploy.yml` builds Astro and publishes `dist/` to GitHub Pages on every push to `main`. The CNAME (`stampiq.io`) and `.well-known/` files for app deep-linking are passed through from `public/`.
+
+## Blog
+
+`/blog/` and `/<lang>/blog/` list the posts, `/<lang>/blog/<category slug>/` lists one category, and `/<lang>/blog/<post slug>/` is a post. Each language has its own slugs, so the hreflang links, the language selector and the language redirect in `Layout.astro` read the other languages' URLs from the page instead of swapping the prefix.
+
+The content is written by the cockpit (ops.stampiq.io), which commits it when a post is published:
+
+- `src/content/blog/posts/<post id>.json` — one file per post with all six languages. The post id is the cockpit slug and never changes.
+- `src/content/blog/categories.json` — the categories set in the cockpit settings.
+
+`src/content.config.ts` is the contract between the two. A file that does not match it fails the build, and so does a URL claimed twice in one language, so a broken export never deploys.
+
+A post is a header plus an ordered list of blocks. The header carries title, lead, date, markets, optional location, optional buttons and one visual (`stamp`, `stamp-fan`, `phone`, `poster`, `sigi`). The block types are `text`, `steps`, `checklist`, `wide-photo`, `wide-animation`, `comparison`, `tiles`, `numbers`, `specs`, `issue`, `video`, `note` and `quote`. A `text` or `steps` block can carry a visual: `photo`, `animation`, `phone`, `map` or `stamp`.
+
+- **Bands** alternate white and grey by the position of the block, and the visual of a band with one alternates sides the same way. A block can override both with `background` and `side`.
+- **Drafts** (`"draft": true`) are left out of the deploy build. `npm run dev` and `BLOG_DRAFTS=1 npm run build` include them and show a draft marker. The cockpit preview is a `BLOG_DRAFTS=1` build.
+- **Fixtures**: `src/content/blog/fixtures/` holds one sample post per category for checking the layout. The directory is gitignored, loads only when drafts are shown, and never reaches the site.
+- **Earlier slugs** listed in `previous_slugs` become redirect pages and stay out of the sitemap.
+- **Maps** are static images that the cockpit fetches when the post is published, served from our own storage with the tile provider's attribution and a link that opens Google Maps. The visitor's browser makes no request to a map provider, so no consent is needed.
+- **Video** (`video` block) shows our own thumbnail and a button. The player is loaded from YouTube only after the visitor clicks it.
+- **Animations**: a GIF uploaded in the cockpit is converted to a silent looping MP4, which is an order of magnitude smaller, and rendered with `autoplay loop muted playsinline`. A small GIF can also be used as a plain photo.
+- **Blog link** in the header and footer appears only when at least one post is published (`__BLOG_LIVE__` in `astro.config.mjs`), so the blog can be merged before its first post.
 
 ## Deep-link paths
 

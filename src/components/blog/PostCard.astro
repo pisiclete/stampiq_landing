@@ -1,0 +1,18 @@
+---
+import Icon from './Icon.astro';
+import Picture from './Picture.astro';
+import { formatDate, marketFlag, marketName, postPath } from '../../lib/blog.js';
+
+const { post, lang, categoryById, eager = false } = Astro.props;
+const text = post.data.languages[lang];
+---
+<a class="card" href={postPath(post, lang)} data-markets={post.data.markets.join(' ')}>
+  <div class="card__media"><Picture image={post.data.thumbnail} alt="" sizes="(max-width: 900px) 100vw, 400px" eager={eager} /></div>
+  <div class="card__cat">{categoryById.get(post.data.category).data.languages[lang].name}</div>
+  <h3 class="card__title">{text.title}</h3>
+  <ul class="details">
+    <li><Icon name="calendar" /><time datetime={post.data.published_at}>{formatDate(post.data.published_at, lang)}</time></li>
+    <li><Icon name="globe" /><span class="flags">{post.data.markets.map((m) => <span class="flag" title={marketName(m, lang)}>{marketFlag(m)}</span>)}</span></li>
+  </ul>
+  <p class="card__body">{text.description}</p>
+</a>

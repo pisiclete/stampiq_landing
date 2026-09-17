@@ -1,0 +1,244 @@
+---
+import Icon from './Icon.astro';
+import Picture from './Picture.astro';
+import Visual from './Visual.astro';
+import { tFor } from '../../i18n/lookup.js';
+import { renderMarkdown } from '../../lib/blog.js';
+
+const { block: b, lang, background, mirror } = Astro.props;
+const bandClass = `band band--${background}`;
+---
+{(b.type === 'text' || b.type === 'steps') && (
+  <section class={bandClass}>
+    <div class="c-1280">
+      <div class:list={['act__grid', { 'act__grid--mirror': mirror, 'act__grid--single': !b.visual }]}>
+        {b.visual && <div class="act__visual"><Visual visual={b.visual} lang={lang} /></div>}
+        <div class="act__text">
+          <div class="eyebrow">{b.label[lang]}</div>
+          <h2 class="headline">{b.title[lang]}</h2>
+          {b.type === 'text' && (
+            <div class="prose">{b.paragraphs.map((p) => <p set:html={renderMarkdown(p[lang])} />)}</div>
+          )}
+          {b.type === 'steps' && (
+            <>
+              {b.intro && <div class="prose"><p>{b.intro[lang]}</p></div>}
+              <ol class="steps">{b.steps.map((s) => <li set:html={renderMarkdown(s[lang])} />)}</ol>
+            </>
+          )}
+          {b.type === 'text' && b.address && (
+            <ul class="details"><li><Icon name="building" /><span>{b.address}</span></li></ul>
+          )}
+          {b.buttons && (
+            <div class="actions">
+              {b.buttons.map((button) => (
+                <a class:list={['btn', button.primary ? 'btn--primary' : 'btn--secondary']} href={button.href} rel="noopener">
+                  {button.label[lang]}<Icon name="arrow" size={16} stroke={2.5} />
+                </a>
+              ))}
+            </div>
+          )}
+        </div>
+      </div>
+    </div>
+  </section>
+)}
+
+{b.type === 'checklist' && (
+  <section class={bandClass}>
+    <div class="c-1280">
+      <div class="intro">
+        <div class="eyebrow">{b.label[lang]}</div>
+        <h2 class="headline">{b.title[lang]}</h2>
+      </div>
+      <ul class:list={['checks', { 'checks--two': (b.columns ?? 2) === 2 }]}>
+        {b.items.map((item) => (
+          <li><span class="tick"><Icon name="check" size={14} stroke={3} /></span><span set:html={renderMarkdown(item[lang])} /></li>
+        ))}
+      </ul>
+    </div>
+  </section>
+)}
+
+{b.type === 'wide-photo' && (
+  <section class={bandClass}>
+    <div class="c-1280">
+      <figure class="photo photo--wide">
+        <Picture image={b.image} alt={b.image.caption?.[lang] ?? ''} sizes="(max-width: 1280px) 100vw, 1232px" />
+        <figcaption>
+          {b.image.caption && <span class="figcap__text">{b.image.caption[lang]}</span>}
+          {b.image.credit && (
+            <span class="figcap__credit">
+              {b.image.credit}
+              {b.image.source_url && <> · <a href={b.image.source_url} rel="noopener">Source</a></>}
+            </span>
+          )}
+        </figcaption>
+      </figure>
+    </div>
+  </section>
+)}
+
+{b.type === 'wide-animation' && (
+  <section class={bandClass}>
+    <div class="c-1280">
+      <figure class="photo photo--wide">
+        <video class="anim" src={b.animation.src} poster={b.animation.poster} width={b.animation.width} height={b.animation.height} autoplay loop muted playsinline preload="metadata"></video>
+        {(b.animation.caption || b.animation.credit) && (
+          <figcaption>
+            {b.animation.caption && <span class="figcap__text">{b.animation.caption[lang]}</span>}
+            {b.animation.credit && (
+              <span class="figcap__credit">
+                {b.animation.credit}
+                {b.animation.source_url && <> · <a href={b.animation.source_url} rel="noopener">Source</a></>}
+              </span>
+            )}
+          </figcaption>
+        )}
+      </figure>
+    </div>
+  </section>
+)}
+
+{b.type === 'comparison' && (
+  <section class={bandClass}>
+    <div class="c-1280">
+      <div class="intro">
+        <div class="eyebrow">{b.label[lang]}</div>
+        <h2 class="headline">{b.title[lang]}</h2>
+        {b.intro && <p>{b.intro[lang]}</p>}
+      </div>
+      <div class="compare">
+        {[b.left, b.right].map((item) => (
+          <figure class="compare__item">
+            <Picture image={item.image} alt={item.label[lang]} sizes="(max-width: 900px) 100vw, 600px" />
+            <figcaption>
+              <span class="compare__cap">{item.label[lang]}</span>
+              <span class="figcap__text">{item.note[lang]}</span>
+            </figcaption>
+          </figure>
+        ))}
+      </div>
+    </div>
+  </section>
+)}
+
+{b.type === 'tiles' && (
+  <section class={bandClass}>
+    <div class="c-1280">
+      <div class="intro">
+        <div class="eyebrow">{b.label[lang]}</div>
+        <h2 class="headline">{b.title[lang]}</h2>
+      </div>
+      <div class="tiles">
+        {b.tiles.map((tile) => (
+          <div class="tile">
+            <Icon name={tile.icon} size={26} />
+            <div class="tile__title">{tile.title[lang]}</div>
+            <p>{tile.text[lang]}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+)}
+
+{b.type === 'numbers' && (
+  <section class={bandClass}>
+    <div class="c-1280">
+      <div class="intro">
+        <div class="eyebrow">{b.label[lang]}</div>
+        <h2 class="headline">{b.title[lang]}</h2>
+      </div>
+      <div class="stats">
+        {b.numbers.map((n) => (
+          <div class="stat">
+            <div class="stat__value">{n.value}</div>
+            <div class="stat__title">{n.title[lang]}</div>
+            <p>{n.text[lang]}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+)}
+
+{b.type === 'specs' && (
+  <section class={bandClass}>
+    <div class="c-1280">
+      <div class="intro">
+        <div class="eyebrow">{b.label[lang]}</div>
+        <h2 class="headline">{b.title[lang]}</h2>
+      </div>
+      <div class="specs">
+        {b.rows.map((row) => (
+          <div class="spec"><span class="spec__label">{row.label[lang]}</span><span class="spec__value">{row.value[lang]}</span></div>
+        ))}
+      </div>
+    </div>
+  </section>
+)}
+
+{b.type === 'issue' && (
+  <section class={bandClass}>
+    <div class="c-1280">
+      <div class:list={['act__grid', { 'act__grid--mirror': mirror }]}>
+        <div class="act__visual"><figure class="stamp"><Picture image={b.stamp.image} alt={b.stamp.name[lang]} sizes="420px" /></figure></div>
+        <div class="act__text">
+          <div class="eyebrow">{b.date[lang]}</div>
+          <h2 class="headline">{b.title[lang]}</h2>
+          <div class="prose">{b.paragraphs.map((p) => <p set:html={renderMarkdown(p[lang])} />)}</div>
+          <div class="formats">
+            <div class="formats__row formats__row--head">
+              <span>{tFor(lang, 'blog.format')}</span><span>{tFor(lang, 'blog.face_value')}</span><span>{tFor(lang, 'blog.catalog_no')}</span>
+            </div>
+            {b.formats.map((f) => (
+              <div class="formats__row"><span>{f.format[lang]}</span><span>{f.value}</span><span>{f.number}</span></div>
+            ))}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+)}
+
+{b.type === 'video' && (
+  <section class={bandClass}>
+    <div class="c-1280">
+      <div class="intro">
+        <div class="eyebrow">{b.label[lang]}</div>
+        <h2 class="headline">{b.title[lang]}</h2>
+        {b.intro && <p>{b.intro[lang]}</p>}
+      </div>
+      <div class="embedwide">
+      <figure class="videofig" data-video={b.video_url} data-platform={b.platform}>
+        <button type="button" class="videofig__thumb">
+          <Picture image={b.thumbnail} alt="" sizes="(max-width: 1280px) 100vw, 1232px" />
+          <span class="videofig__play"><svg width="34" height="34" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5.5v13l11-6.5z"/></svg></span>
+          <span class="videofig__label">{tFor(lang, 'blog.video.play').replace('{platform}', b.platform)}</span>
+        </button>
+        <figcaption>
+          <span class="figcap__text">{tFor(lang, `blog.embed.${b.platform.toLowerCase()}`)}</span>
+          <span class="figcap__credit"><a href={b.video_url} rel="noopener">{tFor(lang, 'blog.embed.open').replace('{platform}', b.platform)}</a></span>
+        </figcaption>
+      </figure>
+      </div>
+    </div>
+  </section>
+)}
+
+{b.type === 'note' && (
+  <section class={bandClass}>
+    <div class="c-1280"><div class="note" set:html={renderMarkdown(b.text[lang])} /></div>
+  </section>
+)}
+
+{b.type === 'quote' && (
+  <section class={bandClass}>
+    <div class="c-1280">
+      <figure class="quote">
+        <blockquote>{b.text[lang]}</blockquote>
+        <figcaption>{b.byline}</figcaption>
+      </figure>
+    </div>
+  </section>
+)}

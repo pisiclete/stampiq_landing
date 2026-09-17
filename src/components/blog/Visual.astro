@@ -1,0 +1,75 @@
+---
+import Picture from './Picture.astro';
+
+const { visual, lang } = Astro.props;
+---
+{visual.type === 'photo' && (
+  <figure class="photo">
+    <Picture image={visual.image} alt={visual.image.caption?.[lang] ?? ''} sizes="(max-width: 900px) 100vw, 560px" />
+    {(visual.image.caption || visual.image.credit) && (
+      <figcaption>
+        {visual.image.caption && <span class="figcap__text">{visual.image.caption[lang]}</span>}
+        {visual.image.credit && (
+          <span class="figcap__credit">
+            {visual.image.credit}
+            {visual.image.source_url && <> · <a href={visual.image.source_url} rel="noopener">Source</a></>}
+          </span>
+        )}
+      </figcaption>
+    )}
+  </figure>
+)}
+
+{visual.type === 'animation' && (
+  <figure class="photo">
+    <video class="anim" src={visual.animation.src} poster={visual.animation.poster} width={visual.animation.width} height={visual.animation.height} autoplay loop muted playsinline preload="metadata"></video>
+    {(visual.animation.caption || visual.animation.credit) && (
+      <figcaption>
+        {visual.animation.caption && <span class="figcap__text">{visual.animation.caption[lang]}</span>}
+        {visual.animation.credit && (
+          <span class="figcap__credit">
+            {visual.animation.credit}
+            {visual.animation.source_url && <> · <a href={visual.animation.source_url} rel="noopener">Source</a></>}
+          </span>
+        )}
+      </figcaption>
+    )}
+  </figure>
+)}
+
+{visual.type === 'phone' && !visual.sigi && (
+  <div class="phone"><Picture image={visual.image} alt="" sizes="280px" /></div>
+)}
+
+{visual.type === 'phone' && visual.sigi && (
+  <div class="phonewrap">
+    <div class="phone"><Picture image={visual.image} alt="" sizes="280px" /></div>
+    <img class="sigi-side" src={`/assets/sigi/${visual.sigi}.svg`} alt="" />
+  </div>
+)}
+
+{visual.type === 'map' && (
+  <figure class="mapfig">
+    {visual.link ? (
+      <a class="mapframe" href={visual.link} rel="noopener">
+        <Picture image={visual.image} alt={visual.image.caption?.[lang] ?? visual.query} sizes="(max-width: 900px) 100vw, 560px" />
+      </a>
+    ) : (
+      <div class="mapframe">
+        <Picture image={visual.image} alt={visual.image.caption?.[lang] ?? visual.query} sizes="(max-width: 900px) 100vw, 560px" />
+      </div>
+    )}
+    {visual.image.credit && (
+      <figcaption>
+        <span class="figcap__credit">
+          {visual.image.credit}
+          {visual.image.source_url && <> · <a href={visual.image.source_url} rel="noopener">Source</a></>}
+        </span>
+      </figcaption>
+    )}
+  </figure>
+)}
+
+{visual.type === 'stamp' && (
+  <figure class="stamp"><Picture image={visual.stamp.image} alt={visual.stamp.name[lang]} sizes="420px" /></figure>
+)}

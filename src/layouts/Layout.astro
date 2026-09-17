@@ -8,9 +8,11 @@ interface Props {
   description: string;
   canonical: string;
   ogImage?: string;
+  ogType?: string;
+  alternates?: Record<string, string>;
 }
 
-const { lang, title, description, canonical, ogImage = '/assets/og-default.png' } = Astro.props;
+const { lang, title, description, canonical, ogImage = '/assets/og-default.png', ogType = 'website', alternates } = Astro.props;
 
 const SUPPORTED = ['en', 'de', 'nl', 'pl', 'fr', 'it'];
 // Derive each language's URL for the *current* page from the canonical, so
@@ -18,9 +20,12 @@ const SUPPORTED = ['en', 'de', 'nl', 'pl', 'fr', 'it'];
 const ORIGIN = 'https://stampiq.io';
 const path = canonical.replace(ORIGIN, '');
 const suffix = path.replace(/^\/(de|fr|it|nl|pl)/, '') || '/';
-const hrefForLang = (l: string) => l === 'en'
-  ? `${ORIGIN}${suffix}`
-  : `${ORIGIN}/${l}${suffix === '/' ? '/' : suffix}`;
+const hrefForLang = (l: string) => alternates
+  ? `${ORIGIN}${alternates[l]}`
+  : l === 'en'
+    ? `${ORIGIN}${suffix}`
+    : `${ORIGIN}/${l}${suffix === '/' ? '/' : suffix}`;
+const ogImageUrl = ogImage.startsWith('https://') ? ogImage : `${ORIGIN}${ogImage}`;
 ---
 <!doctype html>
 <html lang={lang}>
@@ -28,6 +33,11 @@ const hrefForLang = (l: string) => l === 'en'
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="apple-itunes-app" content="app-id=6760778035" />
+    {/* Before the script below, which reads them to find this page in another language. */}
+    {SUPPORTED.map(l => (
+      <link rel="alternate" hreflang={l} href={hrefForLang(l)} />
+    ))}
+    <link rel="alternate" hreflang="x-default" href={hrefForLang('en')} />
     <script is:inline>
       // Backward compat: pre-Astro URLs used ?lang=X to switch language.
       // The new site uses per-language URL prefixes instead. If ?lang=
@@ -45,8 +55,9 @@ const hrefForLang = (l: string) => l === 'en'
             history.replaceState(null, '', u.pathname + (u.search ? u.search : '') + u.hash);
             return;
           }
+          var alt = document.querySelector('link[rel="alternate"][hreflang="' + q + '"]');
           var stripped = u.pathname.replace(/^\/(de|fr|it|nl|pl)(?=\/|$)/, '') || '/';
-          var target = q === 'en' ? stripped : '/' + q + (stripped === '/' ? '/' : stripped);
+          var target = alt ? new URL(alt.href).pathname : q === 'en' ? stripped : '/' + q + (stripped === '/' ? '/' : stripped);
           location.replace(target + (u.search ? u.search : '') + u.hash);
         } catch (_) {}
       })();
@@ -77,9 +88,14 @@ const hrefForLang = (l: string) => l === 'en'
           } else {
             return; // unknown value in localStorage, leave it alone
           }
-          var path = location.pathname === '/'
-            ? '/' + target + '/'
-            : '/' + target + location.pathname;
+          // Blog posts have a different slug per language, so the other
+          // language's URL comes from the hreflang links rather than a prefix.
+          var alt = document.querySelector('link[rel="alternate"][hreflang="' + target + '"]');
+          var path = alt
+            ? new URL(alt.href).pathname
+            : location.pathname === '/'
+              ? '/' + target + '/'
+              : '/' + target + location.pathname;
           location.replace(path + location.search + location.hash);
         } catch (_) {}
       })();
@@ -101,23 +117,18 @@ const hrefForLang = (l: string) => l === 'en'
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
 
-    {SUPPORTED.map(l => (
-      <link rel="alternate" hreflang={l} href={hrefForLang(l)} />
-    ))}
-    <link rel="alternate" hreflang="x-default" href={hrefForLang('en')} />
-
-    <meta property="og:type" content="website" />
+    <meta property="og:type" content={ogType} />
     <meta property="og:site_name" content="StampIQ" />
     <meta property="og:locale" content={lang} />
     <meta property="og:url" content={canonical} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
-    <meta property="og:image" content={`https://stampiq.io${ogImage}`} />
+    <meta property="og:image" content={ogImageUrl} />
 
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
-    <meta name="twitter:image" content={`https://stampiq.io${ogImage}`} />
+    <meta name="twitter:image" content={ogImageUrl} />
 
     <link rel="icon" type="image/png" href="/favicon.png?v=2" />
 
@@ -131,6 +142,8 @@ const hrefForLang = (l: string) => l === 'en'
     <noscript>
       <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;600;700;800;900&display=swap" />
     </noscript>
+
+    <slot name="head" />
 
     <style is:global>
       * { box-sizing: border-box; margin: 0; padding: 0; }

@@ -4,12 +4,14 @@
 # stampiq_landing
 
 ## Summary
-StampIQ Landing is the static marketing and legal site for stampiq.io, built with Astro and React and deployed to GitHub Pages. It serves 24 pre-rendered HTML pages across six languages (English, German, French, Italian, Dutch, Polish), with separate per-language routes for the homepage, privacy policy, terms, and account deletion page. The site handles app deep-linking through standard `.well-known/` files, legacy `?lang=` query redirects from app store listings, and client-side pricing detection based on location data, all while maintaining full crawlability and Google indexing via hreflang annotations.
+StampIQ Landing is the static marketing and legal site for stampiq.io, built with Astro and React and deployed to GitHub Pages. It serves six language versions (English, German, French, Italian, Dutch, Polish) with pre-rendered per-language routes, along with privacy, terms, and account deletion pages. The site includes a blog system managed by an external cockpit that commits posts in a defined JSON format, with support for multiple block types, rich media embeds, and per-language slug handling.
 
 ## Current status
-One open issue: final pricing and producibility confirmation from DDM for the DBZ 22 insert is pending. The last code commit (2026-09-08) updated the privacy policy for fair-stand data collection.
+The blog has been added to the site as of 2026-09-16. One open issue remains: final pricing and producibility confirmation from DDM for the DBZ 22 insert.
 
 ## Recent activity
+- 2026-09-16: Added blog to the site (2c22257)
+- 2026-09-14: Swiss flag asset added for newsletter Swiss Made pill (1 commit, d9c08b6)
 - 2026-09-11: No activity today; DDM handoff to Print Media Group noted from mailing commits
 - 2026-09-10: No activity today
 - 2026-09-09: (email) DBZ 19/2026 published StampIQ text adapted for German readers.
@@ -45,5 +47,5 @@ One open issue: final pricing and producibility confirmation from DDM for the DB
 - Obtain final pricing and producibility confirmation from DDM for DBZ 22 insert.
 
 ## Handoff notes
-The site is stable. The only open item is awaiting DDM's final pricing and producibility confirmation for the DBZ 22 insert (105x210 mm folded, 315x210 mm open). Recent feature work covered the fair-stand privacy policy update, the /subscribe deep-link path, the EN demo video, press and autumn fairs additions, under-13 legal disclosures, the /r and /p promo and universal-link paths, the geo-block page, and legal updates for web payments and sensitive content. Daily CLAUDE.md commits appear automated and carry no functional changes.
+The site is stable. The only open item is awaiting DDM's final pricing and producibility confirmation for the DBZ 22 insert (105x210 mm folded, 315x210 mm open). Recent feature work covered the blog addition, the Swiss flag newsletter asset, fair-stand privacy policy update, the /subscribe deep-link path, the EN demo video, press and autumn fairs additions, under-13 legal disclosures, and the /r and /p promo and universal-link paths. Daily CLAUDE.md commits appear automated and carry no functional changes.
 <!-- sigi-end -->

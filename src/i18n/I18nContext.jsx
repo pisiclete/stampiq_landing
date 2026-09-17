@@ -13,13 +13,16 @@ for (const item of [...mainTranslations, ...legalTranslations]) {
   }
 }
 
-const I18nContext = createContext({ lang: 'en', dict });
+const I18nContext = createContext({ lang: 'en', dict, alternates: null });
 
-export const I18nProvider = ({ lang, children }) => (
-  <I18nContext.Provider value={{ lang, dict }}>{children}</I18nContext.Provider>
+// `alternates` maps each language to this page's path in that language, for
+// pages whose URL differs by more than the language prefix (blog posts).
+export const I18nProvider = ({ lang, alternates = null, children }) => (
+  <I18nContext.Provider value={{ lang, dict, alternates }}>{children}</I18nContext.Provider>
 );
 
 export const useLang = () => useContext(I18nContext).lang;
+export const useAlternates = () => useContext(I18nContext).alternates;
 
 // Translations contain raw HTML with inline `<a href="../privacy.html">` etc.
 // Rewrite those to the right per-language path: /privacy.html for en,

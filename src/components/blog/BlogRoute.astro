@@ -1,0 +1,88 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { BlogHeader, BlogFooter } from './BlogChrome.jsx';
+import PostList from './PostList.astro';
+import Post from './Post.astro';
+import Redirect from './Redirect.astro';
+import { tFor } from '../../i18n/lookup.js';
+import { ORIGIN, alternatesFor, blogRoot, categoryPath, loadBlog, postPath, showDrafts } from '../../lib/blog.js';
+import '../../styles/blog.css';
+
+const { kind, lang, postId, categoryId, to } = Astro.props;
+const { posts, categories, categoryById } = await loadBlog();
+
+let page;
+if (kind === 'post') {
+  const post = posts.find((p) => p.id === postId);
+  const text = post.data.languages[lang];
+  page = {
+    title: `${text.title} | StampIQ`,
+    description: text.description,
+    path: postPath(post, lang),
+    alternates: alternatesFor((l) => postPath(post, l)),
+    ogImage: post.data.thumbnail.src,
+    ogType: 'article',
+    post,
+  };
+} else if (kind === 'category') {
+  const category = categoryById.get(categoryId);
+  const text = category.data.languages[lang];
+  page = {
+    title: `${text.name} | ${tFor(lang, 'blog.meta_title')}`,
+    description: text.description,
+    path: categoryPath(category, lang),
+    alternates: alternatesFor((l) => categoryPath(category, l)),
+    eyebrow: tFor(lang, 'blog.eyebrow'),
+    heading: text.name,
+    lead: text.description,
+    posts: posts.filter((p) => p.data.category === categoryId),
+    active: categoryId,
+  };
+} else if (kind === 'index') {
+  page = {
+    title: tFor(lang, 'blog.meta_title'),
+    description: tFor(lang, 'blog.meta_description'),
+    path: blogRoot(lang),
+    alternates: alternatesFor((l) => blogRoot(l)),
+    eyebrow: tFor(lang, 'blog.eyebrow'),
+    heading: tFor(lang, 'blog.headline'),
+    lead: tFor(lang, 'blog.lead'),
+    posts,
+    active: null,
+  };
+}
+---
+{kind === 'redirect' ? (
+  <Redirect to={to} />
+) : (
+  <Layout
+    lang={lang}
+    title={page.title}
+    description={page.description}
+    canonical={`${ORIGIN}${page.path}`}
+    alternates={page.alternates}
+    ogImage={page.ogImage}
+    ogType={page.ogType}
+  >
+    {showDrafts && <meta slot="head" name="robots" content="noindex" />}
+    <link slot="head" rel="alternate" type="application/rss+xml" title={tFor(lang, 'blog.meta_title')} href={`${blogRoot(lang)}rss.xml`} />
+    <BlogHeader lang={lang} alternates={page.alternates} client:load />
+    <main class="blog">
+      {kind === 'post' ? (
+        <Post lang={lang} post={page.post} posts={posts} categoryById={categoryById} />
+      ) : (
+        <section class="band band--grey">
+          <div class="c-blog">
+            <div class="intro">
+              <div class="eyebrow">{page.eyebrow}</div>
+              <h1 class="headline" style="margin-left:auto;margin-right:auto">{page.heading}</h1>
+              <p>{page.lead}</p>
+            </div>
+            <PostList lang={lang} posts={page.posts} categories={categories} categoryById={categoryById} activeCategory={page.active} />
+          </div>
+        </section>
+      )}
+    </main>
+    <BlogFooter lang={lang} />
+  </Layout>
+)}

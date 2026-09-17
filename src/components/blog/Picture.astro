@@ -1,0 +1,16 @@
+---
+import { srcset } from '../../lib/blog.js';
+
+const { image, alt, sizes = '(max-width: 900px) 100vw, 560px', eager = false, class: className } = Astro.props;
+---
+<img
+  class={className}
+  src={image.src}
+  srcset={srcset(image)}
+  sizes={image.variants?.length ? sizes : undefined}
+  width={image.width}
+  height={image.height}
+  alt={alt}
+  loading={eager ? 'eager' : 'lazy'}
+  decoding="async"
+/>

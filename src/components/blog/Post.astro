@@ -1,0 +1,131 @@
+---
+import Block from './Block.astro';
+import Icon from './Icon.astro';
+import Picture from './Picture.astro';
+import PostCard from './PostCard.astro';
+import { tFor } from '../../i18n/lookup.js';
+import { ORIGIN, blogRoot, categoryPath, formatDate, marketFlag, marketName, postPath } from '../../lib/blog.js';
+
+const { lang, post, posts, categoryById } = Astro.props;
+const data = post.data;
+const text = data.languages[lang];
+const category = categoryById.get(data.category);
+const visual = data.header.visual;
+const others = posts.filter((p) => p.id !== post.id);
+const related = [
+  ...others.filter((p) => p.data.category === data.category),
+  ...others.filter((p) => p.data.category !== data.category),
+].slice(0, 3);
+
+// Bands alternate white and grey and mirror the visual by their position, whatever the block type is.
+const blocks = data.blocks.map((block, i) => ({
+  block,
+  background: block.background ?? (i % 2 === 0 ? 'white' : 'grey'),
+  mirror: block.side ? block.side === 'right' : i % 2 === 1,
+}));
+
+const DECOR = [
+  { width: 180, style: 'top:-10px;left:0', rotate: -18 },
+  { width: 160, style: 'bottom:0;left:14%', rotate: 15 },
+  { width: 170, style: 'top:30%;right:-4%', rotate: 22 },
+  { width: 220, style: 'bottom:-40px;right:12%', rotate: -8 },
+];
+
+const structured = {
+  '@context': 'https://schema.org',
+  '@type': 'BlogPosting',
+  headline: text.title,
+  description: text.description,
+  image: data.thumbnail.src.startsWith('http') ? data.thumbnail.src : `${ORIGIN}${data.thumbnail.src}`,
+  datePublished: data.published_at,
+  dateModified: data.updated_at ?? data.published_at,
+  inLanguage: lang,
+  mainEntityOfPage: `${ORIGIN}${postPath(post, lang)}`,
+  author: { '@type': 'Organization', name: 'StampIQ', url: ORIGIN },
+  publisher: { '@type': 'Organization', name: 'StampIQ', url: ORIGIN },
+};
+---
+<article class="blog-post">
+  <section class="post-hero">
+    <div class="c-1280">
+      {data.draft && <div class="blog-draft">{tFor(lang, 'blog.draft')}</div>}
+      <div class="post-hero__grid">
+        <div>
+          <div class="eyebrow"><a href={categoryPath(category, lang)}>{category.data.languages[lang].name}</a></div>
+          <h1 class="headline headline--hero">{text.title}</h1>
+          <p class="post-hero__lead">{data.header.lead[lang]}</p>
+          <ul class="details">
+            <li><Icon name="calendar" /><time datetime={data.published_at}>{data.header.date_label?.[lang] ?? formatDate(data.published_at, lang)}</time></li>
+            <li><Icon name="globe" /><span class="flags">{data.markets.map((m) => <span class="flag" title={marketName(m, lang)}>{marketFlag(m)}</span>)}</span></li>
+            {data.header.location && <li><Icon name="pin" /><span>{data.header.location}</span></li>}
+          </ul>
+          {data.header.buttons && (
+            <div class="actions" style="margin-top:28px">
+              {data.header.buttons.map((button, i) => (
+                <a class:list={['btn', i === 0 ? 'btn--primary' : 'btn--secondary']} href={button.href} rel="noopener">
+                  {button.label[lang]}<Icon name="arrow" size={16} stroke={2.5} />
+                </a>
+              ))}
+            </div>
+          )}
+        </div>
+        <div class="post-hero__visual">
+          {DECOR.map((d) => (
+            <img class="post-hero__decor" src="/assets/decor/stamp-silhouette-white.svg" alt="" style={`width:${d.width}px;${d.style};transform:rotate(${d.rotate}deg)`} />
+          ))}
+          {visual.type === 'stamp' && <figure class="stamp stamp--hero"><Picture image={visual.stamp.image} alt={visual.stamp.name[lang]} sizes="460px" eager /></figure>}
+          {visual.type === 'stamp-fan' && (
+            <div class="stampfan">
+              {visual.stamps.map((s, i) => (
+                <Picture image={s.image} alt={s.name[lang]} sizes="200px" eager class={`stampfan__item stampfan__item--${i}`} />
+              ))}
+            </div>
+          )}
+          {visual.type === 'phone' && (
+            <>
+              <div class="phone"><Picture image={visual.image} alt="" sizes="280px" eager /></div>
+              {visual.sigi && <img class="hero-sigi" src={`/assets/sigi/${visual.sigi}.svg`} alt="" />}
+            </>
+          )}
+          {visual.type === 'poster' && <figure class="poster"><Picture image={visual.image} alt={text.title} sizes="460px" eager /></figure>}
+          {visual.type === 'sigi' && <img class="sigi-hero" src={`/assets/sigi/${visual.pose}.svg`} alt="" />}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {blocks.map(({ block, background, mirror }) => <Block block={block} lang={lang} background={background} mirror={mirror} />)}
+</article>
+
+{related.length > 0 && (
+  <section class={`band band--${data.blocks.length % 2 === 0 ? 'white' : 'grey'}`}>
+    <div class="c-1280">
+      <div class="intro">
+        <div class="eyebrow">{tFor(lang, 'blog.more_in_category').replace('{category}', category.data.languages[lang].name)}</div>
+        <h2 class="headline">{data.related_title?.[lang] ?? tFor(lang, 'blog.more_headline')}</h2>
+      </div>
+      <div class="cards">
+        {related.map((p) => <PostCard post={p} lang={lang} categoryById={categoryById} />)}
+      </div>
+    </div>
+  </section>
+)}
+
+<script type="application/ld+json" set:html={JSON.stringify(structured).replace(/</g, '\\u003c')} />
+
+<script>
+  document.addEventListener('click', (event) => {
+    const button = (event.target as Element).closest('.videofig__thumb');
+    if (!button) return;
+    const figure = button.closest<HTMLElement>('[data-video]')!;
+    const url = new URL(figure.dataset.video!);
+    const id = url.searchParams.get('v') || url.pathname.split('/').filter(Boolean).pop();
+    const frame = document.createElement('iframe');
+    frame.src = `https://www.youtube-nocookie.com/embed/${id}?rel=0&autoplay=1`;
+    frame.title = figure.dataset.platform!;
+    frame.allow = 'autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share';
+    frame.allowFullscreen = true;
+    frame.referrerPolicy = 'strict-origin-when-cross-origin';
+    button.replaceWith(frame);
+  });
+</script>
