@@ -205,17 +205,26 @@ html, body { overflow-x: hidden; }
 }
 
 /* ============================================================
-   HEADER — tighter, hide nav links on small
+   HEADER — drop one element at a time as the width runs out
    ============================================================ */
+/* Each breakpoint is measured against French, the widest language: nav links at 900, Swiss Made at 640, the wordmark at 500, the language flag at 410, Sign In at 384. Download always stays. */
 @media (max-width: 900px) {
   .siq-nav { padding: 12px 20px !important; gap: 12px !important; }
   .siq-nav-links { display: none !important; }
   .siq-nav-pills { gap: 8px !important; }
+}
+@media (max-width: 640px) {
   .siq-nav-pill { display: none !important; }
 }
-@media (max-width: 480px) {
+@media (max-width: 500px) {
   .siq-logo-full { display: none !important; }
   .siq-logo-mark { display: block !important; }
+}
+@media (max-width: 410px) {
+  .siq-lang-flag { display: none !important; }
+}
+@media (max-width: 384px) {
+  .siq-nav-signin { display: none !important; }
 }
 
 /* ============================================================

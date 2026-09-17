@@ -51,7 +51,7 @@ const LanguageSelector = () => {
           cursor: 'pointer',
           transition: 'background 0.15s',
         }}>
-        <span style={{ fontSize: 14, lineHeight: 1 }}>{current.flag}</span>
+        <span className="siq-lang-flag" style={{ fontSize: 14, lineHeight: 1 }}>{current.flag}</span>
         <span>{current.label}</span>
         <svg width="10" height="10" viewBox="0 0 12 12" fill="none" style={{ transform: open ? 'rotate(180deg)' : 'none', transition: 'transform 0.15s' }}>
           <path d="M3 4.5L6 7.5L9 4.5" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
@@ -119,7 +119,7 @@ export const Header = () => {
         <div className="siq-nav-pills" style={{ marginLeft: 'auto', display: 'flex', gap: 12, alignItems: 'center' }}>
           <Pill variant="neutral" className="siq-nav-pill"><Icons.SwissFlag/><span dangerouslySetInnerHTML={{ __html: t('pill.swiss_made') }}/></Pill>
           <LanguageSelector/>
-          <a href={signInHref(lang)} style={{
+          <a href={signInHref(lang)} className="siq-nav-signin" style={{
             display: 'inline-flex', alignItems: 'center',
             border: `1px solid ${SIQ.green}`, color: SIQ.greenDarker,
             background: 'white', padding: '6px 18px', borderRadius: 25,
