@@ -4,12 +4,13 @@
 # stampiq_landing
 
 ## Summary
-StampIQ Landing is the static marketing and legal site for stampiq.io, built with Astro and React and deployed to GitHub Pages. It serves marketing pages in six languages (English, German, French, Italian, Dutch, Polish) alongside legal pages for privacy, terms, and account deletion, all pre-rendered as static HTML with language baked in so crawlers index each language variant separately. The site handles pricing detection client-side, maintains backward compatibility with legacy app store URLs using query-string redirects, and integrates a blog system written remotely by an ops cockpit that commits post and category data via JSON files.
+StampIQ Landing is the static marketing and legal site for stampiq.io, built with Astro and React and deployed to GitHub Pages. It serves six language versions (English, German, French, Italian, Dutch, Polish) with pre-rendered per-language routes, along with privacy, terms, and account deletion pages. The site includes a blog system managed by an external cockpit that commits posts in a defined JSON format, with support for multiple block types, rich media embeds, and per-language slug handling.
 
 ## Current status
-One open issue: final pricing and producibility confirmation from DDM for the DBZ 22 insert is pending. The last code commit (2026-09-14) added the Swiss flag asset used in the newsletter Swiss Made pill.
+The blog has been added to the site as of 2026-09-16. One open issue remains: final pricing and producibility confirmation from DDM for the DBZ 22 insert.
 
 ## Recent activity
+- 2026-09-16: Added blog to the site (2c22257)
 - 2026-09-14: Swiss flag asset added for newsletter Swiss Made pill (1 commit, d9c08b6)
 - 2026-09-11: No activity today; DDM handoff to Print Media Group noted from mailing commits
 - 2026-09-10: No activity today
@@ -39,11 +40,10 @@ One open issue: final pricing and producibility confirmation from DDM for the DB
 - 2026-06-27: Shipped 3 commits: country-unavailable geo-block page, localised Sign In link, nav declutter
 - 2026-06-26: Shipped 1 commit: disclosed web payments and broadened legal scope to cover web app
 - 2026-06-18: Added /p subscription-promo QR landing page and universal-link path (909ccd0)
-- 2026-06-16: Fixed /r promo page: custom-scheme handoff, cancel store redirect on app open, and manual open/install fallback buttons (3 commits)
 
 ## Open issues
 - Obtain final pricing and producibility confirmation from DDM for DBZ 22 insert.
 
 ## Handoff notes
-The site is stable. The only open item is awaiting DDM's final pricing and producibility confirmation for the DBZ 22 insert (105x210 mm folded, 315x210 mm open). Recent feature work covered the Swiss flag newsletter asset, fair-stand privacy policy update, the /subscribe deep-link path, the EN demo video, press and autumn fairs additions, under-13 legal disclosures, the /r and /p promo and universal-link paths, the geo-block page, and legal updates for web payments and sensitive content. Daily CLAUDE.md commits appear automated and carry no functional changes.
+The site is stable. The only open item is awaiting DDM's final pricing and producibility confirmation for the DBZ 22 insert (105x210 mm folded, 315x210 mm open). Recent feature work covered the blog addition, the Swiss flag newsletter asset, fair-stand privacy policy update, the /subscribe deep-link path, the EN demo video, press and autumn fairs additions, under-13 legal disclosures, and the /r and /p promo and universal-link paths. Daily CLAUDE.md commits appear automated and carry no functional changes.
 <!-- sigi-end -->
