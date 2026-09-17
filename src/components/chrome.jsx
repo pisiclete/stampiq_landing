@@ -107,7 +107,10 @@ export const Header = () => {
       borderBottom: `1px solid ${SIQ.border}`,
     }}>
       <nav className="siq-nav" style={{ maxWidth: 1280, margin: '0 auto', padding: '14px 24px', display: 'flex', alignItems: 'center', gap: 24 }}>
-        <a href={home} style={{ display: 'block' }}><Logo height={30}/></a>
+        <a href={home} style={{ display: 'block' }}>
+          <span className="siq-logo-full"><Logo height={30}/></span>
+          <span className="siq-logo-mark" style={{ display: 'none' }}><Logo height={30} markOnly/></span>
+        </a>
         <div className="siq-nav-links" style={{ display: 'flex', gap: 28, marginLeft: 32 }}>
           {links.map(l => (
             <a key={l.href} href={l.href} style={{ color: SIQ.fg, textDecoration: 'none', fontSize: 14, fontWeight: 500 }} dangerouslySetInnerHTML={{ __html: t(l.key) }}/>
