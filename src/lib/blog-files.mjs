@@ -9,6 +9,10 @@ export const BLOG_LANGS = ['en', 'de', 'fr', 'it', 'nl', 'pl'];
 // build the deploy workflow runs.
 export const showDrafts = process.env.BLOG_DRAFTS === '1' || process.argv.includes('dev');
 
+// The cockpit preview builds one real draft and sets BLOG_FIXTURES=0, so a fixture
+// cannot claim the same URL as the post being previewed.
+export const showFixtures = showDrafts && process.env.BLOG_FIXTURES !== '0';
+
 const POSTS_DIR = fileURLToPath(new URL('../content/blog/posts/', import.meta.url));
 const FIXTURES_DIR = fileURLToPath(new URL('../content/blog/fixtures/', import.meta.url));
 
@@ -23,7 +27,7 @@ function readDir(dir) {
 }
 
 export function visiblePostFiles() {
-  const posts = [...readDir(POSTS_DIR), ...(showDrafts ? readDir(FIXTURES_DIR) : [])];
+  const posts = [...readDir(POSTS_DIR), ...(showFixtures ? readDir(FIXTURES_DIR) : [])];
   return posts.filter((p) => showDrafts || !p.draft);
 }
 

@@ -3,12 +3,12 @@
 // and the live site keeps the previous version.
 import { defineCollection, z } from 'astro:content';
 import { file, glob } from 'astro/loaders';
-import { showDrafts } from './lib/blog-files.mjs';
+import { showFixtures } from './lib/blog-files.mjs';
 
 const LANGS = ['en', 'de', 'fr', 'it', 'nl', 'pl'] as const;
 
 const localized = z.object(
-  Object.fromEntries(LANGS.map((l) => [l, z.string().min(1)])) as Record<(typeof LANGS)[number], z.ZodString>,
+  Object.fromEntries(LANGS.map((l) => [l, z.string()])) as Record<(typeof LANGS)[number], z.ZodString>,
 );
 const slug = z.string().regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/);
 const market = z.string().regex(/^[A-Z]{2}$/);
@@ -69,7 +69,7 @@ const block = z.discriminatedUnion('type', [
     type: z.literal('text'),
     label: localized,
     title: localized,
-    paragraphs: z.array(localized).min(1),
+    paragraphs: z.array(localized),
     address: z.string().optional(),
     buttons: z.array(button).optional(),
     visual: visual.optional(),
@@ -82,7 +82,7 @@ const block = z.discriminatedUnion('type', [
     label: localized,
     title: localized,
     intro: localized.optional(),
-    steps: z.array(localized).min(2).max(5),
+    steps: z.array(localized).max(5),
     visual: visual.optional(),
     side,
     background,
@@ -92,7 +92,7 @@ const block = z.discriminatedUnion('type', [
     type: z.literal('checklist'),
     label: localized,
     title: localized,
-    items: z.array(localized).min(2).max(8),
+    items: z.array(localized).max(8),
     columns: z.union([z.literal(1), z.literal(2)]).optional(),
     background,
   }),
@@ -114,8 +114,7 @@ const block = z.discriminatedUnion('type', [
     label: localized,
     title: localized,
     tiles: z
-      .array(z.object({ icon: z.string().min(1), title: localized, text: localized }))
-      .min(2)
+      .array(z.object({ icon: z.string(), title: localized, text: localized }))
       .max(4),
     background,
   }),
@@ -125,8 +124,7 @@ const block = z.discriminatedUnion('type', [
     label: localized,
     title: localized,
     numbers: z
-      .array(z.object({ value: z.string().min(1), title: localized, text: localized }))
-      .min(2)
+      .array(z.object({ value: z.string(), title: localized, text: localized }))
       .max(4),
     background,
   }),
@@ -135,7 +133,7 @@ const block = z.discriminatedUnion('type', [
     type: z.literal('specs'),
     label: localized,
     title: localized,
-    rows: z.array(z.object({ label: localized, value: localized })).min(2).max(12),
+    rows: z.array(z.object({ label: localized, value: localized })).max(12),
     background,
   }),
   z.object({
@@ -143,11 +141,10 @@ const block = z.discriminatedUnion('type', [
     type: z.literal('issue'),
     date: localized,
     title: localized,
-    paragraphs: z.array(localized).min(1),
+    paragraphs: z.array(localized),
     stamp,
     formats: z
-      .array(z.object({ format: localized, value: z.string().min(1), number: z.string().min(1) }))
-      .min(1),
+      .array(z.object({ format: localized, value: z.string(), number: z.string() })),
     side,
     background,
   }),
@@ -163,7 +160,7 @@ const block = z.discriminatedUnion('type', [
     background,
   }),
   z.object({ id: z.string(), type: z.literal('note'), text: localized, background }),
-  z.object({ id: z.string(), type: z.literal('quote'), text: localized, byline: z.string().min(1), background }),
+  z.object({ id: z.string(), type: z.literal('quote'), text: localized, byline: z.string(), background }),
 ]);
 
 const header = z.object({
@@ -172,7 +169,7 @@ const header = z.object({
   location: z.string().optional(),
   visual: z.discriminatedUnion('type', [
     z.object({ type: z.literal('stamp'), stamp }),
-    z.object({ type: z.literal('stamp-fan'), stamps: z.array(stamp).min(2).max(4) }),
+    z.object({ type: z.literal('stamp-fan'), stamps: z.array(stamp).max(4) }),
     z.object({ type: z.literal('phone'), image, sigi: z.enum(SIGI_POSES).optional() }),
     z.object({ type: z.literal('poster'), image }),
     z.object({ type: z.literal('sigi'), pose: z.enum(SIGI_POSES) }),
@@ -182,13 +179,13 @@ const header = z.object({
 
 // Fixture posts render the block library for design work. They are not committed
 // and never appear in a production build.
-const postPattern = showDrafts ? ['posts/*.json', 'fixtures/*.json'] : ['posts/*.json'];
+const postPattern = showFixtures ? ['posts/*.json', 'fixtures/*.json'] : ['posts/*.json'];
 
 const posts = defineCollection({
   loader: glob({ pattern: postPattern, base: './src/content/blog' }),
   schema: z.object({
     category: z.string(),
-    markets: z.array(market).min(1),
+    markets: z.array(market),
     published_at: z.string().datetime({ offset: true }),
     updated_at: z.string().datetime({ offset: true }).optional(),
     draft: z.boolean().optional(),
@@ -199,8 +196,8 @@ const posts = defineCollection({
           l,
           z.object({
             slug,
-            title: z.string().min(1).max(100),
-            description: z.string().min(1).max(200),
+            title: z.string().max(100),
+            description: z.string().max(200),
             previous_slugs: z.array(slug).optional(),
           }),
         ]),
