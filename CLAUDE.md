@@ -10,6 +10,7 @@ StampIQ Landing is the static marketing and legal site for stampiq.io, built wit
 The blog has been added to the site as of 2026-09-16. One open issue remains: final pricing and producibility confirmation from DDM for the DBZ 22 insert.
 
 ## Recent activity
+- 2026-09-17: Blog mobile layout fixes: image grouped with text on small screens, header elements drop progressively as width narrows, half-written drafts now buildable
 - 2026-09-16: Added blog to the site (2c22257)
 - 2026-09-14: Swiss flag asset added for newsletter Swiss Made pill (1 commit, d9c08b6)
 - 2026-09-11: No activity today; DDM handoff to Print Media Group noted from mailing commits
@@ -39,9 +40,6 @@ The blog has been added to the site as of 2026-09-16. One open issue remains: fi
 - 2026-07-04: sync CLAUDE.md (209bc58)
 - 2026-06-27: Shipped 3 commits: country-unavailable geo-block page, localised Sign In link, nav declutter
 - 2026-06-26: Shipped 1 commit: disclosed web payments and broadened legal scope to cover web app
-- 2026-06-18: Added /p subscription-promo QR landing page and universal-link path (909ccd0)
-- 2026-06-16: Fixed /r promo page: custom-scheme handoff, cancel store redirect on app open, and manual open/install fallback buttons (3 commits)
-- 2026-06-13: Added /r promo path to AASA and 404 store-redirect fallback (8a7e0c0)
 
 ## Open issues
 - Obtain final pricing and producibility confirmation from DDM for DBZ 22 insert.
