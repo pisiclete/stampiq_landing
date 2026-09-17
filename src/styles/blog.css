@@ -10,6 +10,8 @@
 .c-blog { max-width: 1596px; margin: 0 auto; padding: 0 24px; }
 
 .band { padding: 110px 0; }
+/* The final CTA pulls itself up by 80px so the green tucks under the homepage's last section. A blog page ends on a band whose own padding is the gap, so the pull is cancelled here. */
+.siq-section-cta { margin-top: 0 !important; }
 .band--grey { background: #F9F9F9; }
 .band--white { background: #FFFFFF; }
 .band--tight { padding: 72px 0; }
@@ -168,8 +170,11 @@
 
 @media (max-width: 900px) {
   .band { padding: 72px 0; }
-  .post-hero__grid, .act__grid, .act__grid--mirror { grid-template-columns: 1fr; gap: 40px; }
-  .act__grid--mirror .act__visual { order: 0; }
+  .post-hero__grid, .act__grid, .act__grid--mirror { grid-template-columns: 1fr; gap: 24px; }
+  /* In one column the visual follows the text it belongs to, so it is never left between two sections. */
+  .act__visual, .act__grid--mirror .act__visual { order: 2; }
+  /* The 460px reserves room for the decor stamps, which are hidden here. */
+  .post-hero__visual { min-height: 0; }
   .cards { grid-template-columns: repeat(2, 1fr); }
   .jump { top: 57px; }
   .final-cta { padding: 96px 0 80px; }
