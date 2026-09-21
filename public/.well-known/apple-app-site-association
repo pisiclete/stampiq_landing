@@ -8,6 +8,7 @@
           "/activate",
           "/r/*",
           "/p/*",
+          "/s/*",
           "/subscribe",
           "/subscribe/"
         ]

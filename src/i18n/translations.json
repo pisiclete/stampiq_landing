@@ -2588,5 +2588,25 @@
     "pl": "Odtwórz film z {platform}",
     "fr": "Lire la vidéo depuis {platform}",
     "it": "Riproduci il video da {platform}"
+  },
+  {
+    "key": "pageLabel.title",
+    "section/location": "Page-label QR landing (/s)",
+    "en": "Opening this album page",
+    "de": "Diese Albumseite wird geöffnet",
+    "fr": "Ouverture de cette page d'album",
+    "it": "Apertura di questa pagina d'album",
+    "nl": "Deze albumpagina wordt geopend",
+    "pl": "Otwieranie tej strony albumu"
+  },
+  {
+    "key": "pageLabel.subtitle",
+    "section/location": "Page-label QR landing (/s)",
+    "en": "This code is printed on a StampIQ album page label. It opens the scan it was printed from, for the collector it belongs to. Curious what StampIQ does? Install the app or read on.",
+    "de": "Dieser Code ist auf einem StampIQ-Albumseiten-Etikett gedruckt. Er öffnet den Scan, aus dem er stammt, für den Sammler, dem er gehört. Neugierig, was StampIQ kann? Installiere die App oder lies weiter.",
+    "fr": "Ce code est imprimé sur une étiquette de page d'album StampIQ. Il ouvre le scan dont il provient, pour le collectionneur à qui il appartient. Curieux de découvrir StampIQ ? Installez l'application ou poursuivez la lecture.",
+    "it": "Questo codice è stampato su un'etichetta di pagina d'album StampIQ. Apre la scansione da cui proviene, per il collezionista a cui appartiene. Vuoi sapere cosa fa StampIQ? Installa l'app o continua a leggere.",
+    "nl": "Deze code staat op een StampIQ-albumpaginalabel. Hij opent de scan waaruit hij is gedrukt, voor de verzamelaar aan wie hij toebehoort. Benieuwd wat StampIQ doet? Installeer de app of lees verder.",
+    "pl": "Ten kod jest wydrukowany na etykiecie strony albumu StampIQ. Otwiera skan, z którego pochodzi, dla kolekcjonera, do którego należy. Ciekawi Cię, co robi StampIQ? Zainstaluj aplikację lub czytaj dalej."
   }
 ]

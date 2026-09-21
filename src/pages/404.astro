@@ -1,6 +1,6 @@
 ---
-// 404 page, doubling as the promo QR landing for both scan codes (/r/<CODE>)
-// and subscription codes (/p/<CODE>).
+// 404 page, doubling as the QR landing for scan codes (/r/<CODE>), subscription
+// codes (/p/<CODE>) and printed album page labels (/s/<SCAN_ID>).
 //
 // A promo QR encodes https://stampiq.io/r/<CODE> or https://stampiq.io/p/<CODE>.
 // This is a plain content page with NO JavaScript redirect on those paths: an
@@ -11,9 +11,10 @@
 // recommended affordance: installed → "Open" launcher, not installed → install.
 // Android gets a Play Store link.
 //
-// /r vs /p differ only in copy: /r grants bonus scans (auto-redeemed on a second
-// scan), /p grants a subscription tier (also enterable by hand at signup, so the
-// code is shown). The path prefix is read on load to pick the strings.
+// /r vs /p vs /s differ only in copy: /r grants bonus scans (auto-redeemed on a
+// second scan), /p grants a subscription tier (also enterable by hand at signup,
+// so the code is shown), /s opens one collector's own scan and shows nothing to
+// anyone else. The path prefix is read on load to pick the strings.
 //
 // Localisation: this page is served for an unprefixed URL, so it can't use the
 // [lang] routing, and redirecting to a localised URL would reintroduce the JS
@@ -34,6 +35,8 @@ const KEYS = [
   'promoSub.title',
   'promoSub.subtitle',
   'promoSub.codeLabel',
+  'pageLabel.title',
+  'pageLabel.subtitle',
 ];
 
 const strings = {};
@@ -56,7 +59,7 @@ const en = strings.en;
       (function () {
         var content = 'app-id=6760778035';
         var path = location.pathname || '';
-        if (/^\/(p|r)\//.test(path)) {
+        if (/^\/(p|r|s)\//.test(path)) {
           content += ', app-argument=' + location.origin + path;
         }
         document.write(
@@ -166,7 +169,8 @@ const en = strings.en;
         var path = location.pathname || '';
         var isSub = /^\/p\//.test(path);
         var isScan = /^\/r\//.test(path);
-        if (!isSub && !isScan) {
+        var isPageLabel = /^\/s\//.test(path);
+        if (!isSub && !isScan && !isPageLabel) {
           location.replace('/');
           return;
         }
@@ -184,10 +188,13 @@ const en = strings.en;
         }
         var s = strings[lang] || strings.en;
         document.documentElement.lang = lang;
-        document.getElementById('title').textContent =
-          s[isSub ? 'promoSub.title' : 'promo.title'];
-        document.getElementById('subtitle').textContent =
-          s[isSub ? 'promoSub.subtitle' : 'promo.subtitle'];
+        var prefix = isPageLabel
+          ? 'pageLabel'
+          : isSub
+            ? 'promoSub'
+            : 'promo';
+        document.getElementById('title').textContent = s[prefix + '.title'];
+        document.getElementById('subtitle').textContent = s[prefix + '.subtitle'];
         document.getElementById('appstore').textContent = s['promo.appstore'];
         document.getElementById('playstore').textContent = s['promo.playstore'];
         document.getElementById('website').textContent = s['promo.website'];
