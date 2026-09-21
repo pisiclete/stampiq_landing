@@ -38,12 +38,24 @@ const { visual, lang } = Astro.props;
 )}
 
 {visual.type === 'phone' && !visual.sigi && (
-  <div class="phone"><Picture image={visual.image} alt="" sizes="280px" /></div>
+  <div class="phone">
+    {visual.animation ? (
+      <video src={visual.animation.src} poster={visual.animation.poster} width={visual.animation.width} height={visual.animation.height} autoplay loop muted playsinline preload="metadata"></video>
+    ) : (
+      <Picture image={visual.image} alt="" sizes="280px" />
+    )}
+  </div>
 )}
 
 {visual.type === 'phone' && visual.sigi && (
   <div class="phonewrap">
-    <div class="phone"><Picture image={visual.image} alt="" sizes="280px" /></div>
+    <div class="phone">
+      {visual.animation ? (
+        <video src={visual.animation.src} poster={visual.animation.poster} width={visual.animation.width} height={visual.animation.height} autoplay loop muted playsinline preload="metadata"></video>
+      ) : (
+        <Picture image={visual.image} alt="" sizes="280px" />
+      )}
+    </div>
     <img class="sigi-side" src={`/assets/sigi/${visual.sigi}.svg`} alt="" />
   </div>
 )}

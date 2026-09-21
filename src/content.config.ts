@@ -55,10 +55,19 @@ const animation = z.object({
   source_url: url.optional(),
 });
 
+// A phone frame holds either a screenshot or a silent looping recording of the
+// app. The cockpit refuses a phone visual that carries neither or both.
+const phoneVisual = z.object({
+  type: z.literal('phone'),
+  image: image.optional(),
+  animation: animation.optional(),
+  sigi: z.enum(SIGI_POSES).optional(),
+});
+
 const visual = z.discriminatedUnion('type', [
   z.object({ type: z.literal('photo'), image: credited }),
   z.object({ type: z.literal('animation'), animation }),
-  z.object({ type: z.literal('phone'), image, sigi: z.enum(SIGI_POSES).optional() }),
+  phoneVisual,
   z.object({ type: z.literal('map'), image: credited, query: z.string().min(1), link: url.optional() }),
   z.object({ type: z.literal('stamp'), stamp }),
 ]);
@@ -170,7 +179,7 @@ const header = z.object({
   visual: z.discriminatedUnion('type', [
     z.object({ type: z.literal('stamp'), stamp }),
     z.object({ type: z.literal('stamp-fan'), stamps: z.array(stamp).max(4) }),
-    z.object({ type: z.literal('phone'), image, sigi: z.enum(SIGI_POSES).optional() }),
+    phoneVisual,
     z.object({ type: z.literal('poster'), image }),
     z.object({ type: z.literal('sigi'), pose: z.enum(SIGI_POSES) }),
   ]),

@@ -83,7 +83,13 @@ const structured = {
           )}
           {visual.type === 'phone' && (
             <>
-              <div class="phone"><Picture image={visual.image} alt="" sizes="280px" eager /></div>
+              <div class="phone">
+                {visual.animation ? (
+                  <video src={visual.animation.src} poster={visual.animation.poster} width={visual.animation.width} height={visual.animation.height} autoplay loop muted playsinline preload="metadata"></video>
+                ) : (
+                  <Picture image={visual.image} alt="" sizes="280px" eager />
+                )}
+              </div>
               {visual.sigi && <img class="hero-sigi" src={`/assets/sigi/${visual.sigi}.svg`} alt="" />}
             </>
           )}
