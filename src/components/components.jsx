@@ -195,4 +195,9 @@ export const SigiSilhouette = ({ pose = 'waving', size = 600, color = 'rgba(255,
   }}/>
 );
 
-export const screenSrc = (name, lang) => `/assets/screens/${lang}/${name}.webp`;
+// The languages the app screenshots are shot in, which is fewer than the
+// languages the site is served in. Anything else gets the English shot.
+export const SCREEN_LANGS = ['en', 'de', 'fr', 'it', 'nl', 'pl'];
+export const screenLang = (lang) => (SCREEN_LANGS.includes(lang) ? lang : 'en');
+
+export const screenSrc = (name, lang) => `/assets/screens/${screenLang(lang)}/${name}.webp`;

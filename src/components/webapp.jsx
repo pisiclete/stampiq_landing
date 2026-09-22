@@ -2,7 +2,7 @@
 import React, { useState, useEffect } from 'react';
 import { SIQ } from '../lib/tokens';
 import { useT, useLang } from '../i18n/I18nContext';
-import { Icons, SectionEyebrow, GradientHeadline } from './components';
+import { Icons, SectionEyebrow, GradientHeadline, screenLang } from './components';
 
 const APP_URL = import.meta.env.PUBLIC_APP_URL || 'https://app.stampiq.io';
 
@@ -15,7 +15,7 @@ export const WebApp = () => {
 
   // Layout.astro routes de-CH and de-DE to the same /de/ page because it drops
   // the region. Read it here so a Swiss visitor sees the Swiss catalog.
-  const [shot, setShot] = useState(lang);
+  const [shot, setShot] = useState(screenLang(lang));
   useEffect(() => {
     if (lang !== 'de') return;
     const tags = navigator.languages || [navigator.language || ''];
