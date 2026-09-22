@@ -6,9 +6,8 @@ import { file, glob } from 'astro/loaders';
 import { showFixtures } from './lib/blog-files.mjs';
 
 // Must match BLOG_LANGS in src/i18n/langs.mjs and LANGS in
-// stampiq_cockpit/backend/blog/constants.py. Shorter than PAGE_LANGS: the site
-// is published in more languages than the cockpit writes posts in.
-const LANGS = ['en', 'de', 'fr', 'it', 'nl', 'pl'] as const;
+// stampiq_cockpit/backend/blog/constants.py.
+const LANGS = ['en', 'de', 'fr', 'it', 'nl', 'pl', 'cs', 'sk', 'ro', 'hu', 'da'] as const;
 
 const localized = z.object(
   Object.fromEntries(LANGS.map((l) => [l, z.string()])) as Record<(typeof LANGS)[number], z.ZodString>,
