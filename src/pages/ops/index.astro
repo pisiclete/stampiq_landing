@@ -1,0 +1,12 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import OpsPage from '../../components/legal/OpsPage.jsx';
+
+const lang = 'en';
+const title = 'StampIQ Ops Cockpit';
+const description = "The internal tool StampIQ uses to prepare and publish its own marketing, including the videos on StampIQ's YouTube channel.";
+const canonical = 'https://stampiq.io/ops/';
+---
+<Layout {lang} {title} {description} {canonical} alternates={{ en: '/ops/' }}>
+  <OpsPage page="index" client:load />
+</Layout>

@@ -1,0 +1,12 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import OpsPage from '../../components/legal/OpsPage.jsx';
+
+const lang = 'en';
+const title = 'Ops Cockpit Terms of Use';
+const description = 'Who may use the StampIQ Ops Cockpit and under which terms it publishes to YouTube.';
+const canonical = 'https://stampiq.io/ops/terms.html';
+---
+<Layout {lang} {title} {description} {canonical} alternates={{ en: '/ops/terms.html' }}>
+  <OpsPage page="terms" client:load />
+</Layout>

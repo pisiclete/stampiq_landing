@@ -1,0 +1,12 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import OpsPage from '../../components/legal/OpsPage.jsx';
+
+const lang = 'en';
+const title = 'Ops Cockpit Privacy Policy';
+const description = 'What the StampIQ Ops Cockpit stores from YouTube API Services and how it is deleted.';
+const canonical = 'https://stampiq.io/ops/privacy.html';
+---
+<Layout {lang} {title} {description} {canonical} alternates={{ en: '/ops/privacy.html' }}>
+  <OpsPage page="privacy" client:load />
+</Layout>
