@@ -1,9 +1,10 @@
 import { getCollection } from 'astro:content';
 import { Marked } from 'marked';
 import { BLOG_LANGS, blogRoot, showDrafts } from './blog-files.mjs';
+import { marketFlag, marketName } from './markets.mjs';
 import { tFor } from '../i18n/lookup.js';
 
-export { BLOG_LANGS, blogRoot, showDrafts };
+export { BLOG_LANGS, blogRoot, showDrafts, marketFlag, marketName };
 
 export const ORIGIN = 'https://stampiq.io';
 const APP_URL = import.meta.env.PUBLIC_APP_URL || 'https://app.stampiq.io';
@@ -76,14 +77,6 @@ export function formatDayRange(start, end, lang) {
   const a = new Date(`${start}T00:00:00Z`);
   if (!end || end === start) return fmt.format(a);
   return fmt.formatRange(a, new Date(`${end}T00:00:00Z`));
-}
-
-export const marketFlag = (code) =>
-  String.fromCodePoint(...[...(code === 'UK' ? 'GB' : code)].map((c) => 0x1f1a5 + c.charCodeAt(0)));
-
-export function marketName(code, lang) {
-  const region = code === 'UK' ? 'GB' : code;
-  return new Intl.DisplayNames([lang], { type: 'region' }).of(region) ?? code;
 }
 
 const escapeHtml = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');

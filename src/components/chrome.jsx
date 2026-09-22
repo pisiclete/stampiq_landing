@@ -3,6 +3,10 @@ import React, { useState, useEffect, useRef } from 'react';
 import { SIQ } from '../lib/tokens';
 import { useT, useLang, useAlternates } from '../i18n/I18nContext';
 import { PAGE_LANGS, BLOG_LANGS } from '../i18n/langs.mjs';
+
+// The site languages whose market the app is not sold in. A reader in those
+// languages cannot download anything, so the footer offers the waitlist.
+const WAITLIST_LANGS = ['cs', 'sk', 'ro', 'hu', 'da'];
 import { Logo, Pill, Icons, SigiSilhouette } from './components';
 
 const FLAGS = {
@@ -153,6 +157,7 @@ export const Footer = () => {
       { href: `${home}#sigivision`, key: 'footer.product.sigivision' },
       { href: `${home}#pricing`,    key: 'footer.product.pricing' },
       { href: `${home}#faq`,        key: 'footer.product.faq' },
+      ...(WAITLIST_LANGS.includes(lang) ? [{ href: `${home}waitlist.html`, key: 'footer.product.waitlist' }] : []),
     ]},
     { titleKey: 'footer.col.company', items: [
       { href: `${home}#press`,                key: 'footer.company.press' },

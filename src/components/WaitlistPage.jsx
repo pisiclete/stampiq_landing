@@ -1,5 +1,5 @@
-// StampIQ — shown when a visitor's country is outside the markets StampIQ
-// operates in (Cloudflare redirects app.stampiq.io here for blocked countries).
+// StampIQ — the linkable waitlist page, for the blog, social and the footer to
+// point at. /unavailable carries the same form for a geo-blocked visitor.
 import React from 'react';
 import { I18nProvider, useT } from '../i18n/I18nContext';
 import { Logo } from './components';
@@ -14,23 +14,23 @@ function Content() {
       justifyContent: 'center', padding: 24, background: SIQ.bg,
     }}>
       <div style={{
-        maxWidth: 540, width: '100%', textAlign: 'center', background: 'white',
+        maxWidth: 540, width: '100%', background: 'white',
         borderRadius: 24, boxShadow: SIQ.shadow.card, padding: '56px 32px',
       }}>
         <div style={{ display: 'flex', justifyContent: 'center', marginBottom: 28 }}>
           <Logo height={36}/>
         </div>
-        <h1 style={{ fontSize: 'clamp(24px, 4vw, 30px)', fontWeight: 800, color: SIQ.fg, lineHeight: 1.25, margin: '0 0 16px' }}
-          dangerouslySetInnerHTML={{ __html: t('unavailable.title') }}/>
-        <p style={{ fontSize: 17, color: SIQ.fgSubtle, lineHeight: 1.6, margin: 0 }}
-          dangerouslySetInnerHTML={{ __html: t('unavailable.body') }}/>
+        <h1 style={{
+          fontSize: 'clamp(24px, 4vw, 30px)', fontWeight: 800, color: SIQ.fg,
+          lineHeight: 1.25, margin: '0 0 16px', textAlign: 'center',
+        }}>{t('waitlist.title')}</h1>
         <WaitlistForm/>
       </div>
     </main>
   );
 }
 
-export default function UnavailablePage({ lang = 'en' }) {
+export default function WaitlistPage({ lang = 'en' }) {
   return (
     <I18nProvider lang={lang}>
       <Content/>

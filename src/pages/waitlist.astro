@@ -1,0 +1,13 @@
+---
+import Layout from '../layouts/Layout.astro';
+import WaitlistPage from '../components/WaitlistPage.jsx';
+import { tFor } from '../i18n/lookup.js';
+
+const lang = 'en';
+const title = tFor(lang, 'waitlist.page_title');
+const description = tFor(lang, 'waitlist.meta_description');
+const canonical = 'https://stampiq.io/waitlist.html';
+---
+<Layout {lang} {title} {description} {canonical}>
+  <WaitlistPage lang={lang} client:load />
+</Layout>

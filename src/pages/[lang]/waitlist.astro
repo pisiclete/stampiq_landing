@@ -1,0 +1,18 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import WaitlistPage from '../../components/WaitlistPage.jsx';
+import { tFor } from '../../i18n/lookup.js';
+import { PREFIXED_LANGS } from '../../i18n/langs.mjs';
+
+export function getStaticPaths() {
+  return PREFIXED_LANGS.map((lang) => ({ params: { lang } }));
+}
+
+const { lang } = Astro.params;
+const title = tFor(lang, 'waitlist.page_title');
+const description = tFor(lang, 'waitlist.meta_description');
+const canonical = `https://stampiq.io/${lang}/waitlist.html`;
+---
+<Layout {lang} {title} {description} {canonical}>
+  <WaitlistPage {lang} client:load />
+</Layout>
