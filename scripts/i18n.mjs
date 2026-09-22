@@ -149,10 +149,10 @@ function check(langs) {
   process.exitCode = problems ? 1 : 0;
 }
 
-function apply(dir, langs) {
+function apply(dir, langs, prefix = 'patch') {
   for (const lang of langs) {
     for (const [area, file] of Object.entries(FILES)) {
-      const patchPath = path.join(dir, lang, `patch-${area}.json`);
+      const patchPath = path.join(dir, lang, `${prefix}-${area}.json`);
       if (!fs.existsSync(patchPath)) { console.log(`${lang} ${area}: no patch`); continue; }
       const patch = read(patchPath);
       const rows = read(file);
@@ -172,7 +172,10 @@ function apply(dir, langs) {
 }
 
 const [command, ...rest] = process.argv.slice(2);
-if (command === 'apply') apply(rest[0], rest.slice(1));
+if (command === 'apply') {
+  const flag = rest.find((a) => a.startsWith('--patch='));
+  apply(rest[0], rest.slice(1).filter((a) => !a.startsWith('--')), flag?.split('=')[1]);
+}
 else if (command === 'chunk') chunk(rest[0], rest.slice(1));
 else if (command === 'merge') merge(rest[0], rest.slice(1));
 else if (command === 'check') check(rest.length ? rest : PAGE_LANGS);
