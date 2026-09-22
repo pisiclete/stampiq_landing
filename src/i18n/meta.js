@@ -31,4 +31,27 @@ export const META = {
     title: TITLE,
     description: 'Skanuj, rozpoznawaj i organizuj znaczki. SigiVision rozpoznaje znaczki ze Szwajcarii, Niemiec, Austrii, Holandii, Polski i innych krajów w kilka sekund.',
   },
+
+  cs: {
+    title: TITLE,
+    description: "Skenuj, identifikuj a uspořádej své známky. SigiVision rozpozná známky ze Švýcarska, Německa, Rakouska, Nizozemska, Polska i dalších zemí během pár sekund.",
+  },
+  sk: {
+    title: TITLE,
+    description: "Skenuj, identifikuj a usporiadaj známky. SigiVision rozpozná známky zo Švajčiarska, Nemecka, Rakúska, Holandska, Poľska a ďalších krajín za niekoľko sekúnd.",
+  },
+  ro: {
+    title: TITLE,
+    description: "Scanează, identifică și organizează timbrele. SigiVision recunoaște în câteva secunde timbre din Elveția, Germania, Austria, Țările de Jos, Polonia și altele.",
+  },
+  hu: {
+    title: TITLE,
+    description: "Szkenneld, azonosítsd és rendezd a bélyegeidet. A SigiVision másodpercek alatt felismeri a svájci, német, osztrák, holland, lengyel és más országok bélyegeit.",
+  },
+  da: {
+    title: TITLE,
+    description: "Scan, identificer og organiser dine frimærker. SigiVision genkender mærker fra Schweiz, Tyskland, Østrig, Nederlandene, Polen og flere lande på få sekunder.",
+  },
 };
+
+export const metaFor = (lang) => META[lang] ?? META.en;

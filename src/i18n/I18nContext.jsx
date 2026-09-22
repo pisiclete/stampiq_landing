@@ -1,8 +1,9 @@
 import React, { createContext, useContext } from 'react';
 import mainTranslations from './translations.json';
 import legalTranslations from './translations-legal.json';
+import { PAGE_LANGS } from './langs.mjs';
 
-export const SUPPORTED_LANGS = ['en', 'de', 'nl', 'pl', 'fr', 'it'];
+export const SUPPORTED_LANGS = PAGE_LANGS;
 
 const dict = {};
 for (const item of [...mainTranslations, ...legalTranslations]) {

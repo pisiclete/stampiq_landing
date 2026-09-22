@@ -2,15 +2,10 @@
 import Layout from '../../layouts/Layout.astro';
 import PrivacyPage from '../../components/legal/PrivacyPage.jsx';
 import { tFor } from '../../i18n/lookup.js';
+import { PREFIXED_LANGS } from '../../i18n/langs.mjs';
 
 export function getStaticPaths() {
-  return [
-    { params: { lang: 'de' } },
-    { params: { lang: 'fr' } },
-    { params: { lang: 'it' } },
-    { params: { lang: 'nl' } },
-    { params: { lang: 'pl' } },
-  ];
+  return PREFIXED_LANGS.map((lang) => ({ params: { lang } }));
 }
 
 const { lang } = Astro.params;

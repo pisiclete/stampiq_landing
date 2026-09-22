@@ -1,6 +1,7 @@
 ---
 import '../styles/tokens.css';
 import '../styles/responsive.css';
+import { PAGE_LANGS, PREFIXED_LANGS, PREFIX_GROUP } from '../i18n/langs.mjs';
 
 interface Props {
   lang: string;
@@ -14,18 +15,21 @@ interface Props {
 
 const { lang, title, description, canonical, ogImage = '/assets/og-default.png', ogType = 'website', alternates } = Astro.props;
 
-const SUPPORTED = ['en', 'de', 'nl', 'pl', 'fr', 'it'];
+const SUPPORTED = PAGE_LANGS;
 // Derive each language's URL for the *current* page from the canonical, so
 // /de/privacy.html points its fr-hreflang at /fr/privacy.html (not /fr/).
 const ORIGIN = 'https://stampiq.io';
 const path = canonical.replace(ORIGIN, '');
-const suffix = path.replace(/^\/(de|fr|it|nl|pl)/, '') || '/';
+const suffix = path.replace(new RegExp(`^/(${PREFIX_GROUP})`), '') || '/';
 const hrefForLang = (l: string) => alternates
   ? `${ORIGIN}${alternates[l]}`
   : l === 'en'
     ? `${ORIGIN}${suffix}`
     : `${ORIGIN}/${l}${suffix === '/' ? '/' : suffix}`;
 const ogImageUrl = ogImage.startsWith('https://') ? ogImage : `${ORIGIN}${ogImage}`;
+// Blog pages pass alternates for the blog languages only, so a page language
+// that has no blog gets no hreflang on them rather than a broken URL.
+const hreflangs = alternates ? SUPPORTED.filter((l) => alternates[l]) : SUPPORTED;
 ---
 <!doctype html>
 <html lang={lang}>
@@ -34,11 +38,11 @@ const ogImageUrl = ogImage.startsWith('https://') ? ogImage : `${ORIGIN}${ogImag
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="apple-itunes-app" content="app-id=6760778035" />
     {/* Before the script below, which reads them to find this page in another language. */}
-    {SUPPORTED.map(l => (
+    {hreflangs.map(l => (
       <link rel="alternate" hreflang={l} href={hrefForLang(l)} />
     ))}
     <link rel="alternate" hreflang="x-default" href={hrefForLang('en')} />
-    <script is:inline>
+    <script define:vars={{ PAGE_LANGS, PREFIXED_LANGS, PREFIX_GROUP }}>
       // Backward compat: pre-Astro URLs used ?lang=X to switch language.
       // The new site uses per-language URL prefixes instead. If ?lang=
       // is present, redirect to the equivalent URL in that language so
@@ -47,7 +51,7 @@ const ogImageUrl = ogImage.startsWith('https://') ? ogImage : `${ORIGIN}${ogImag
         try {
           var u = new URL(location.href);
           var q = u.searchParams.get('lang');
-          var supported = ['en','de','fr','it','nl','pl'];
+          var supported = PAGE_LANGS;
           if (!q || supported.indexOf(q) < 0) return;
           var current = document.documentElement.lang || 'en';
           u.searchParams.delete('lang');
@@ -56,7 +60,7 @@ const ogImageUrl = ogImage.startsWith('https://') ? ogImage : `${ORIGIN}${ogImag
             return;
           }
           var alt = document.querySelector('link[rel="alternate"][hreflang="' + q + '"]');
-          var stripped = u.pathname.replace(/^\/(de|fr|it|nl|pl)(?=\/|$)/, '') || '/';
+          var stripped = u.pathname.replace(new RegExp('^/(' + PREFIX_GROUP + ')(?=/|$)'), '') || '/';
           var target = alt ? new URL(alt.href).pathname : q === 'en' ? stripped : '/' + q + (stripped === '/' ? '/' : stripped);
           location.replace(target + (u.search ? u.search : '') + u.hash);
         } catch (_) {}
@@ -70,8 +74,8 @@ const ogImageUrl = ogImage.startsWith('https://') ? ogImage : `${ORIGIN}${ogImag
       // Explicit /<lang>/... URLs are never touched — they always win.
       (function () {
         try {
-          if (/^\/(de|fr|it|nl|pl)(\/|$)/.test(location.pathname)) return;
-          var supported = ['de','fr','it','nl','pl'];
+          if (new RegExp('^/(' + PREFIX_GROUP + ')(/|$)').test(location.pathname)) return;
+          var supported = PREFIXED_LANGS;
           var saved = localStorage.getItem('language');
           var target;
           if (saved === 'en') return;

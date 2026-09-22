@@ -21,11 +21,12 @@
 // navigation that breaks the link. Instead we ship every language's strings
 // (from translations.json) and swap the TEXT only on load, based on the saved
 // preference or navigator.language — no navigation. Strings fall back to English
-// until the DE/FR/IT/NL/PL values are filled. The only redirect is for genuine
+// until a language's values are filled. The only redirect is for genuine
 // 404s and never runs on /r/ or /p/.
 import { tFor } from '../i18n/lookup.js';
+import { PAGE_LANGS } from '../i18n/langs.mjs';
 
-const LANGS = ['en', 'de', 'fr', 'it', 'nl', 'pl'];
+const LANGS = PAGE_LANGS;
 const KEYS = [
   'promo.title',
   'promo.subtitle',
@@ -164,7 +165,7 @@ const en = strings.en;
       <p class="muted"><a id="website" href="/">{en['promo.website']}</a></p>
     </div>
 
-    <script is:inline define:vars={{ strings }}>
+    <script is:inline define:vars={{ strings, PAGE_LANGS }}>
       (function () {
         var path = location.pathname || '';
         var isSub = /^\/p\//.test(path);
@@ -174,7 +175,7 @@ const en = strings.en;
           location.replace('/');
           return;
         }
-        var supported = ['en', 'de', 'fr', 'it', 'nl', 'pl'];
+        var supported = PAGE_LANGS;
         var lang = 'en';
         var saved = null;
         try {

@@ -2,6 +2,7 @@ import { defineConfig } from 'astro/config';
 import react from '@astrojs/react';
 import sitemap from '@astrojs/sitemap';
 import { redirectPaths, visiblePostFiles } from './src/lib/blog-files.mjs';
+import { PAGE_LANGS, PREFIX_GROUP } from './src/i18n/langs.mjs';
 
 const blogRedirects = new Set(redirectPaths().map((p) => `https://stampiq.io${p}`));
 
@@ -12,14 +13,7 @@ export default defineConfig({
     sitemap({
       i18n: {
         defaultLocale: 'en',
-        locales: {
-          en: 'en',
-          de: 'de',
-          fr: 'fr',
-          it: 'it',
-          nl: 'nl',
-          pl: 'pl',
-        },
+        locales: Object.fromEntries(PAGE_LANGS.map((lang) => [lang, lang])),
       },
       // We use build.format: 'preserve', so legal pages serve at /privacy.html
       // (not /privacy) and language roots serve at /de/ (with trailing slash).
@@ -30,7 +24,7 @@ export default defineConfig({
         let url = item.url;
         if (/\/(privacy|terms|delete-account)$/.test(url)) {
           url = url + '.html';
-        } else if (/\/(de|fr|it|nl|pl)$/.test(url) || /\/blog(\/[a-z0-9-]+)?$/.test(url)) {
+        } else if (new RegExp(`/(${PREFIX_GROUP})$`).test(url) || /\/blog(\/[a-z0-9-]+)?$/.test(url)) {
           url = url + '/';
         }
         return { ...item, url };

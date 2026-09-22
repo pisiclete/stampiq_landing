@@ -2,16 +2,15 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { SIQ } from '../lib/tokens';
 import { useT, useLang, useAlternates } from '../i18n/I18nContext';
+import { PAGE_LANGS, BLOG_LANGS } from '../i18n/langs.mjs';
 import { Logo, Pill, Icons, SigiSilhouette } from './components';
 
-const SUPPORTED_LANGS = [
-  { code: 'en', label: 'EN', flag: '🇺🇸' },
-  { code: 'de', label: 'DE', flag: '🇩🇪' },
-  { code: 'nl', label: 'NL', flag: '🇳🇱' },
-  { code: 'pl', label: 'PL', flag: '🇵🇱' },
-  { code: 'fr', label: 'FR', flag: '🇫🇷' },
-  { code: 'it', label: 'IT', flag: '🇮🇹' },
-];
+const FLAGS = {
+  en: '🇺🇸', de: '🇩🇪', fr: '🇫🇷', it: '🇮🇹', nl: '🇳🇱', pl: '🇵🇱',
+  cs: '🇨🇿', sk: '🇸🇰', ro: '🇷🇴', hu: '🇭🇺', da: '🇩🇰',
+};
+
+const SUPPORTED_LANGS = PAGE_LANGS.map((code) => ({ code, label: code.toUpperCase(), flag: FLAGS[code] }));
 
 // Language switching navigates between /, /de/, /fr/, etc. Each is its own
 // statically-rendered HTML page — no client-side state, no hydration cost.
@@ -63,6 +62,7 @@ const LanguageSelector = () => {
           background: 'white', border: `1px solid ${SIQ.border}`,
           borderRadius: 12, boxShadow: '0 12px 32px rgba(0,0,0,0.12)',
           padding: 6, minWidth: 120, zIndex: 100,
+          maxHeight: 'min(70vh, 420px)', overflowY: 'auto',
         }}>
           {SUPPORTED_LANGS.map(l => (
             <a key={l.code} href={alternates?.[l.code] ?? langHref(l.code)}
@@ -98,7 +98,7 @@ export const Header = () => {
     { href: `${home}#press`,      key: 'nav.press' },
     { href: `${home}#partner`,    key: 'nav.partners' },
     { href: `${home}#faq`,        key: 'nav.faq' },
-    ...(__BLOG_LIVE__ ? [{ href: `${home}blog/`, key: 'nav.blog' }] : []),
+    ...(__BLOG_LIVE__ && BLOG_LANGS.includes(lang) ? [{ href: `${home}blog/`, key: 'nav.blog' }] : []),
   ];
   return (
     <header style={{
@@ -156,7 +156,7 @@ export const Footer = () => {
     ]},
     { titleKey: 'footer.col.company', items: [
       { href: `${home}#press`,                key: 'footer.company.press' },
-      ...(__BLOG_LIVE__ ? [{ href: `${home}blog/`, key: 'footer.company.blog' }] : []),
+      ...(__BLOG_LIVE__ && BLOG_LANGS.includes(lang) ? [{ href: `${home}blog/`, key: 'footer.company.blog' }] : []),
       { href: `${home}#events`,               key: 'footer.company.events', className: 'siq-ibb' },
       { href: `${home}#about`,                key: 'footer.company.about' },
       { href: 'mailto:support@stampiq.io',    key: 'footer.company.contact' },

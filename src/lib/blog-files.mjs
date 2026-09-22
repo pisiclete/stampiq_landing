@@ -2,8 +2,9 @@
 // the same files through the content collections in src/content.config.ts.
 import { readdirSync, readFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
+import { BLOG_LANGS } from '../i18n/langs.mjs';
 
-export const BLOG_LANGS = ['en', 'de', 'fr', 'it', 'nl', 'pl'];
+export { BLOG_LANGS };
 
 // Drafts show in `astro dev` and in a build run with BLOG_DRAFTS=1, never in the
 // build the deploy workflow runs.
