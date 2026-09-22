@@ -10,6 +10,7 @@ StampIQ Landing is the static marketing and legal site for stampiq.io, built wit
 The blog shipped on 2026-09-16 with mobile layout fixes applied the following day, and a /s/<SCAN_ID> route for printed page labels was added on 2026-09-21. One open issue remains: final pricing and producibility confirmation from DDM for the DBZ 22 insert.
 
 ## Recent activity
+- 2026-09-22: Eleven-language rollout, waitlist form with Turnstile, ops cockpit privacy/terms pages, store badges from stampiq.io, blog categories in five required languages (19 commits)
 - 2026-09-21: /s/<SCAN_ID> route added to serve printed page labels (1 commit)
 - 2026-09-17: Blog mobile layout fixes: image grouped with text on small screens, header elements drop progressively as width narrows, half-written drafts now buildable
 - 2026-09-16: Added blog to the site (2c22257)
@@ -39,7 +40,6 @@ The blog shipped on 2026-09-16 with mobile layout fixes applied the following da
 - 2026-07-06: sync CLAUDE.md (90e7526)
 - 2026-07-05: Synced CLAUDE.md (6eee41a)
 - 2026-07-04: sync CLAUDE.md (209bc58)
-- 2026-06-27: Shipped 3 commits: country-unavailable geo-block page, localised Sign In link, nav declutter
 
 ## Open issues
 - Obtain final pricing and producibility confirmation from DDM for DBZ 22 insert.
