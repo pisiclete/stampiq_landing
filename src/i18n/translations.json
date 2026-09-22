@@ -7,7 +7,12 @@
     "nl": "Swiss Made",
     "pl": "Swiss Made",
     "fr": "Swiss Made",
-    "it": "Swiss Made"
+    "it": "Swiss Made",
+    "cs": "Swiss Made",
+    "sk": "Swiss Made",
+    "ro": "Swiss Made",
+    "hu": "Swiss Made",
+    "da": "Swiss Made"
   },
   {
     "key": "pill.available",
@@ -17,7 +22,12 @@
     "nl": "Nu beschikbaar",
     "pl": "Już dostępna",
     "fr": "Maintenant disponible",
-    "it": "Ora disponibile"
+    "it": "Ora disponibile",
+    "cs": "Už k dispozici",
+    "sk": "Už dostupná",
+    "ro": "Acum disponibil",
+    "hu": "Már elérhető",
+    "da": "Nu tilgængelig"
   },
   {
     "key": "nav.features",
@@ -27,7 +37,12 @@
     "nl": "Functies",
     "pl": "Funkcje",
     "fr": "Fonctionnalités",
-    "it": "Funzionalità"
+    "it": "Funzionalità",
+    "cs": "Funkce",
+    "sk": "Funkcie",
+    "ro": "Funcționalități",
+    "hu": "Funkciók",
+    "da": "Funktioner"
   },
   {
     "key": "nav.sigivision",
@@ -37,7 +52,12 @@
     "nl": "SigiVision",
     "pl": "SigiVision",
     "fr": "SigiVision",
-    "it": "SigiVision"
+    "it": "SigiVision",
+    "cs": "SigiVision",
+    "sk": "SigiVision",
+    "ro": "SigiVision",
+    "hu": "SigiVision",
+    "da": "SigiVision"
   },
   {
     "key": "nav.pricing",
@@ -47,7 +67,12 @@
     "nl": "Prijzen",
     "pl": "Cennik",
     "fr": "Tarifs",
-    "it": "Prezzi"
+    "it": "Prezzi",
+    "cs": "Ceník",
+    "sk": "Cenník",
+    "ro": "Prețuri",
+    "hu": "Árak",
+    "da": "Priser"
   },
   {
     "key": "nav.press",
@@ -57,7 +82,12 @@
     "nl": "Pers",
     "pl": "Prasa",
     "fr": "Presse",
-    "it": "Stampa"
+    "it": "Stampa",
+    "cs": "Tisk",
+    "sk": "Tlač",
+    "ro": "Presă",
+    "hu": "Sajtó",
+    "da": "Presse"
   },
   {
     "key": "nav.partners",
@@ -67,7 +97,12 @@
     "nl": "Partners",
     "pl": "Partnerzy",
     "fr": "Partenaires",
-    "it": "Partner"
+    "it": "Partner",
+    "cs": "Partneři",
+    "sk": "Partneri",
+    "ro": "Parteneri",
+    "hu": "Partnerek",
+    "da": "Partnere"
   },
   {
     "key": "nav.faq",
@@ -77,7 +112,12 @@
     "nl": "FAQ",
     "pl": "FAQ",
     "fr": "FAQ",
-    "it": "FAQ"
+    "it": "FAQ",
+    "cs": "FAQ",
+    "sk": "FAQ",
+    "ro": "FAQ",
+    "hu": "FAQ",
+    "da": "FAQ"
   },
   {
     "key": "nav.blog",
@@ -87,7 +127,12 @@
     "nl": "Blog",
     "pl": "Blog",
     "fr": "Blog",
-    "it": "Blog"
+    "it": "Blog",
+    "cs": "Blog",
+    "sk": "Blog",
+    "ro": "Blog",
+    "hu": "Blog",
+    "da": "Blog"
   },
   {
     "key": "nav.download",
@@ -97,7 +142,12 @@
     "nl": "Download",
     "pl": "Pobierz",
     "fr": "Télécharger",
-    "it": "Scarica"
+    "it": "Scarica",
+    "cs": "Stáhnout",
+    "sk": "Stiahnuť",
+    "ro": "Descărcare",
+    "hu": "Letöltés",
+    "da": "Download"
   },
   {
     "key": "nav.signin",
@@ -107,7 +157,12 @@
     "nl": "Inloggen",
     "pl": "Zaloguj się",
     "fr": "Se connecter",
-    "it": "Accedi"
+    "it": "Accedi",
+    "cs": "Přihlásit se",
+    "sk": "Prihlásiť sa",
+    "ro": "Conectare",
+    "hu": "Bejelentkezés",
+    "da": "Log ind"
   },
   {
     "key": "unavailable.page_title",
@@ -117,7 +172,12 @@
     "nl": "Niet beschikbaar · StampIQ",
     "pl": "Niedostępny · StampIQ",
     "fr": "Non disponible · StampIQ",
-    "it": "Non disponibile · StampIQ"
+    "it": "Non disponibile · StampIQ",
+    "cs": "Nedostupné · StampIQ",
+    "sk": "Nedostupné · StampIQ",
+    "ro": "Indisponibil · StampIQ",
+    "hu": "Nem elérhető · StampIQ",
+    "da": "Ikke tilgængelig · StampIQ"
   },
   {
     "key": "unavailable.meta_description",
@@ -127,7 +187,12 @@
     "nl": "StampIQ is nog niet beschikbaar in jouw land.",
     "pl": "StampIQ nie jest jeszcze dostępny w Twoim kraju.",
     "fr": "StampIQ n'est pas encore disponible dans votre pays.",
-    "it": "StampIQ non è ancora disponibile nel tuo paese."
+    "it": "StampIQ non è ancora disponibile nel tuo paese.",
+    "cs": "StampIQ zatím není ve tvé zemi dostupný.",
+    "sk": "StampIQ zatiaľ nie je dostupný v tvojej krajine.",
+    "ro": "StampIQ nu este încă disponibil în țara ta.",
+    "hu": "A StampIQ még nem érhető el az országodban.",
+    "da": "StampIQ er endnu ikke tilgængelig i dit land."
   },
   {
     "key": "unavailable.title",
@@ -137,7 +202,12 @@
     "nl": "StampIQ is nog niet beschikbaar in jouw land",
     "pl": "StampIQ nie jest jeszcze dostępny w Twoim kraju",
     "fr": "StampIQ n'est pas encore disponible dans votre pays",
-    "it": "StampIQ non è ancora disponibile nel tuo paese"
+    "it": "StampIQ non è ancora disponibile nel tuo paese",
+    "cs": "StampIQ zatím není ve tvé zemi dostupný",
+    "sk": "StampIQ zatiaľ nie je dostupný v tvojej krajine",
+    "ro": "StampIQ nu este încă disponibil în țara ta",
+    "hu": "A StampIQ még nem érhető el az országodban",
+    "da": "StampIQ er endnu ikke tilgængelig i dit land"
   },
   {
     "key": "unavailable.body",
@@ -147,7 +217,12 @@
     "nl": "StampIQ is momenteel beschikbaar in Duitsland, Zwitserland, Oostenrijk, Liechtenstein, Nederland en Polen. We werken eraan om meer landen toe te voegen. Kom snel terug.",
     "pl": "StampIQ jest obecnie dostępny w Niemczech, Szwajcarii, Austrii, Liechtensteinie, Holandii i Polsce. Pracujemy nad udostępnieniem go w kolejnych krajach. Zajrzyj wkrótce ponownie.",
     "fr": "StampIQ est actuellement disponible en Allemagne, en Suisse, en Autriche, au Liechtenstein, aux Pays-Bas et en Pologne. Nous travaillons à l'étendre à d'autres pays. Revenez bientôt.",
-    "it": "StampIQ è attualmente disponibile in Germania, Svizzera, Austria, Liechtenstein, Paesi Bassi e Polonia. Stiamo lavorando per portarlo in altri paesi. Torna presto a trovarci."
+    "it": "StampIQ è attualmente disponibile in Germania, Svizzera, Austria, Liechtenstein, Paesi Bassi e Polonia. Stiamo lavorando per portarlo in altri paesi. Torna presto a trovarci.",
+    "cs": "StampIQ je nyní dostupný v Německu, Švýcarsku, Rakousku, Lichtenštejnsku, Nizozemsku a Polsku. Pracujeme na tom, aby přibyly další země, tak se sem brzy zase podívej.",
+    "sk": "StampIQ je momentálne dostupný v Nemecku, Švajčiarsku, Rakúsku, Lichtenštajnsku, Holandsku a Poľsku. Pracujeme na tom, aby pribudli ďalšie krajiny. Čoskoro sa sem pozri znova.",
+    "ro": "StampIQ este disponibil momentan în Germania, Elveția, Austria, Liechtenstein, Țările de Jos și Polonia. Lucrăm la extinderea în alte țări, așa că revino în curând.",
+    "hu": "A StampIQ jelenleg Németországban, Svájcban, Ausztriában, Liechtensteinben, Hollandiában és Lengyelországban érhető el. Dolgozunk azon, hogy további országokba is eljusson, ezért nézz vissza hamarosan.",
+    "da": "StampIQ er i øjeblikket tilgængelig i Tyskland, Schweiz, Østrig, Liechtenstein, Nederlandene og Polen. Vi arbejder på at få flere lande med, så kig forbi igen snart."
   },
   {
     "key": "hero.headline",
@@ -157,7 +232,12 @@
     "nl": "Keep Collecting Smarter",
     "pl": "Keep Collecting Smarter",
     "fr": "Keep Collecting Smarter",
-    "it": "Keep Collecting Smarter"
+    "it": "Keep Collecting Smarter",
+    "cs": "Keep Collecting Smarter",
+    "sk": "Keep Collecting Smarter",
+    "ro": "Keep Collecting Smarter",
+    "hu": "Keep Collecting Smarter",
+    "da": "Keep Collecting Smarter"
   },
   {
     "key": "hero.body",
@@ -167,7 +247,12 @@
     "nl": "Ontdek, herken en orden je postzegels — moeiteloos. Je digitale maatje, gemaakt door verzamelaars, voor verzamelaars.",
     "pl": "Odkrywaj, identyfikuj i porządkuj swoje znaczki z łatwością. Twój cyfrowy towarzysz, stworzony przez kolekcjonerów dla kolekcjonerów.",
     "fr": "Découvre, identifie et organise tes timbres en toute simplicité. Ton compagnon numérique, conçu par des collectionneurs, pour des collectionneurs.",
-    "it": "Scopri, identifica e organizza i tuoi francobolli con facilità. Il tuo compagno digitale, creato dai collezionisti per i collezionisti."
+    "it": "Scopri, identifica e organizza i tuoi francobolli con facilità. Il tuo compagno digitale, creato dai collezionisti per i collezionisti.",
+    "cs": "Objevuj, identifikuj a snadno si uspořádej své známky. Tvůj digitální společník — vytvořený sběrateli pro sběratele.",
+    "sk": "Objavuj, identifikuj a bez námahy usporiadaj svoje známky. Tvoj digitálny spoločník — vytvorený zberateľmi pre zberateľov.",
+    "ro": "Descoperă, identifică și organizează-ți timbrele cu ușurință. Însoțitorul tău digital, creat de colecționari, pentru colecționari.",
+    "hu": "Fedezd fel, azonosítsd és rendezd a bélyegeidet könnyedén. A digitális társad — gyűjtők fejlesztették gyűjtőknek.",
+    "da": "Opdag, identificer og organiser dine frimærker uden besvær. Din digitale følgesvend – skabt af samlere, for samlere."
   },
   {
     "key": "hero.stat.speed.value",
@@ -177,7 +262,12 @@
     "nl": "<1s",
     "pl": "<1s",
     "fr": "<1s",
-    "it": "<1s"
+    "it": "<1s",
+    "cs": "<1s",
+    "sk": "<1s",
+    "ro": "<1s",
+    "hu": "<1s",
+    "da": "<1s"
   },
   {
     "key": "hero.stat.speed.label",
@@ -187,17 +277,27 @@
     "nl": "Herkenningssnelheid",
     "pl": "Szybkość rozpoznawania",
     "fr": "Vitesse de reconnaissance",
-    "it": "Velocità di riconoscimento"
+    "it": "Velocità di riconoscimento",
+    "cs": "Rychlost rozpoznávání",
+    "sk": "Rýchlosť rozpoznávania",
+    "ro": "Viteza de recunoaștere",
+    "hu": "Felismerési sebesség",
+    "da": "Genkendelseshastighed"
   },
   {
     "key": "hero.stat.accuracy.value",
     "section/location": "Hero stat — accuracy",
     "en": "98%",
-    "de": "98%",
+    "de": "98 %",
     "nl": "98%",
     "pl": "98%",
-    "fr": "98%",
-    "it": "98%"
+    "fr": "98 %",
+    "it": "98%",
+    "cs": "98%",
+    "sk": "98%",
+    "ro": "98%",
+    "hu": "98%",
+    "da": "98%"
   },
   {
     "key": "hero.stat.accuracy.label",
@@ -207,7 +307,12 @@
     "nl": "Nauwkeurigheid",
     "pl": "Dokładność",
     "fr": "Précision",
-    "it": "Precisione"
+    "it": "Precisione",
+    "cs": "Přesnost",
+    "sk": "Presnosť",
+    "ro": "Precizie",
+    "hu": "Pontosság",
+    "da": "Nøjagtighed"
   },
   {
     "key": "hero.stat.catalog.value",
@@ -217,7 +322,12 @@
     "nl": "30K+",
     "pl": "30K+",
     "fr": "30K+",
-    "it": "30K+"
+    "it": "30K+",
+    "cs": "30K+",
+    "sk": "30K+",
+    "ro": "30K+",
+    "hu": "30K+",
+    "da": "30K+"
   },
   {
     "key": "hero.stat.catalog.label",
@@ -227,7 +337,12 @@
     "nl": "Gecatalogiseerde postzegels",
     "pl": "Skatalogowanych znaczków",
     "fr": "Timbres catalogués",
-    "it": "Francobolli catalogati"
+    "it": "Francobolli catalogati",
+    "cs": "Zkatalogizovaných známek",
+    "sk": "Skatalogizovaných známok",
+    "ro": "Timbre catalogate",
+    "hu": "Katalogizált bélyeg",
+    "da": "Katalogiserede frimærker"
   },
   {
     "key": "hero.stat.countries.value",
@@ -237,7 +352,12 @@
     "nl": "6",
     "pl": "6",
     "fr": "6",
-    "it": "6"
+    "it": "6",
+    "cs": "6",
+    "sk": "6",
+    "ro": "6",
+    "hu": "6",
+    "da": "6"
   },
   {
     "key": "hero.stat.countries.label",
@@ -247,7 +367,12 @@
     "nl": "Landen",
     "pl": "Krajów",
     "fr": "Pays",
-    "it": "Paesi"
+    "it": "Paesi",
+    "cs": "Zemí",
+    "sk": "Krajín",
+    "ro": "Țări",
+    "hu": "Ország",
+    "da": "Lande"
   },
   {
     "key": "features.catalogs_label",
@@ -257,7 +382,12 @@
     "nl": "Beschikbare catalogi",
     "pl": "Dostępne katalogi",
     "fr": "Catalogues disponibles",
-    "it": "Cataloghi disponibili"
+    "it": "Cataloghi disponibili",
+    "cs": "Dostupné katalogy",
+    "sk": "Dostupné katalógy",
+    "ro": "Cataloage disponibile",
+    "hu": "Elérhető katalógusok",
+    "da": "Tilgængelige kataloger"
   },
   {
     "key": "act1.eyebrow",
@@ -267,7 +397,12 @@
     "nl": "Scan & Identificeer",
     "pl": "Skanuj & Identyfikuj",
     "fr": "Scanne & identifie",
-    "it": "Scansiona & Identifica"
+    "it": "Scansiona & Identifica",
+    "cs": "Skenuj & Identifikuj",
+    "sk": "Skenuj & Identifikuj",
+    "ro": "Scanează și identifică",
+    "hu": "Szkennelés és azonosítás",
+    "da": "Scan & identificer"
   },
   {
     "key": "act1.title",
@@ -277,7 +412,12 @@
     "nl": "Richt je camera. Krijg direct antwoord",
     "pl": "Skieruj aparat. Masz natychmiastową odpowiedź",
     "fr": "Vise avec ton appareil photo. Réponse immédiate",
-    "it": "Inquadra con la fotocamera. Risposta immediata"
+    "it": "Inquadra con la fotocamera. Risposta immediata",
+    "cs": "Namiř fotoaparát. Máš okamžitou odpověď",
+    "sk": "Namier fotoaparát. Okamžitá odpoveď",
+    "ro": "Îndreaptă camera. Primești răspunsul pe loc.",
+    "hu": "Irányítsd rá a kamerát. Azonnal kész a válasz",
+    "da": "Ret kameraet mod frimærket. Få svar med det samme"
   },
   {
     "key": "act1.body",
@@ -287,7 +427,12 @@
     "nl": "SigiVision™-herkenningstechnologie identificeert postzegels uit ondersteunde catalogi in minder dan een seconde. Nooit meer eindeloos bladeren in papieren catalogi op zoek naar een onbekende uitgifte.",
     "pl": "Technologia rozpoznawania SigiVision™ identyfikuje znaczki z obsługiwanych katalogów w mniej niż sekundę. Koniec z kartkowaniem papierowych katalogów w poszukiwaniu nieznanej emisji.",
     "fr": "SigiVision™ identifie les timbres de nos catalogues en moins d'une seconde. Fini de feuilleter des catalogues papier pour identifier une émission inconnue.",
-    "it": "La tecnologia di riconoscimento SigiVision™ identifica i francobolli dei cataloghi supportati in meno di un secondo. Basta con le ore passate a sfogliare cataloghi cartacei per identificare un'emissione sconosciuta."
+    "it": "La tecnologia di riconoscimento SigiVision™ identifica i francobolli dei cataloghi supportati in meno di un secondo. Basta con le ore passate a sfogliare cataloghi cartacei per identificare un'emissione sconosciuta.",
+    "cs": "Rozpoznávací technologie SigiVision™ identifikuje známky z podporovaných katalogů za méně než sekundu. Konec listování papírovými katalogy kvůli neznámé emisi.",
+    "sk": "Technológia rozpoznávania SigiVision™ identifikuje známky z podporovaných katalógov za menej než sekundu. Koniec listovania v papierových katalógoch pri neznámej emisii.",
+    "ro": "Tehnologia de recunoaștere SigiVision™ identifică timbrele din cataloagele disponibile în mai puțin de o secundă. Gata cu răsfoitul cataloagelor tipărite pentru o emisiune necunoscută.",
+    "hu": "A SigiVision™ felismerő technológia egy másodpercen belül azonosítja a bélyegeket a támogatott katalógusokból. Nem kell többé papírkatalógusokat lapozgatni egy ismeretlen kibocsátás miatt.",
+    "da": "SigiVision™-genkendelsesteknologien identificerer frimærker fra de understøttede kataloger på under et sekund. Slut med at bladre i papirkataloger efter en ukendt udgivelse."
   },
   {
     "key": "act1.bullet.1",
@@ -297,7 +442,12 @@
     "nl": "Eén tik om één postzegel tegelijk te herkennen",
     "pl": "Rozpoznawanie jednym dotknięciem — jeden znaczek na raz",
     "fr": "Reconnaissance en un clic, un timbre à la fois",
-    "it": "Riconoscimento con un tocco, un francobollo alla volta"
+    "it": "Riconoscimento con un tocco, un francobollo alla volta",
+    "cs": "Rozpoznání jedním klepnutím — jedna známka po druhé",
+    "sk": "Rozpoznanie jedným ťuknutím — jedna známka naraz",
+    "ro": "Recunoaștere dintr-o atingere, un timbru pe rând",
+    "hu": "Felismerés egyetlen érintéssel — egyszerre egy bélyeg",
+    "da": "Ét tryk genkender ét frimærke ad gangen"
   },
   {
     "key": "act1.bullet.2",
@@ -307,7 +457,12 @@
     "nl": "Catalogusnummers, land, jaar van uitgifte",
     "pl": "Numery katalogowe, kraj, rok emisji",
     "fr": "Numéros de catalogue, pays, année d'émission",
-    "it": "Numeri di catalogo, paese, anno di emissione"
+    "it": "Numeri di catalogo, paese, anno di emissione",
+    "cs": "Katalogová čísla, země, rok vydání",
+    "sk": "Katalógové čísla, krajina, rok vydania",
+    "ro": "Numere de catalog, țară, anul emiterii",
+    "hu": "Katalógusszámok, ország, kibocsátás éve",
+    "da": "Katalognumre, land, udgivelsesår"
   },
   {
     "key": "act1.bullet.3",
@@ -317,7 +472,12 @@
     "nl": "Het verhaal achter de postzegel",
     "pl": "Historia kryjąca się za znaczkiem",
     "fr": "L'histoire derrière le timbre",
-    "it": "La storia dietro il francobollo"
+    "it": "La storia dietro il francobollo",
+    "cs": "Příběh, který se za známkou skrývá",
+    "sk": "Príbeh, ktorý sa skrýva za známkou",
+    "ro": "Povestea din spatele timbrului",
+    "hu": "A bélyeg mögötti történet",
+    "da": "Historien bag frimærket"
   },
   {
     "key": "act1.bullet.4",
@@ -327,7 +487,12 @@
     "nl": "Verwante postzegels en postzegels uit de serie",
     "pl": "Powiązane znaczki i znaczki z serii",
     "fr": "Timbres associés et timbres de la série",
-    "it": "Francobolli correlati e francobolli della serie"
+    "it": "Francobolli correlati e francobolli della serie",
+    "cs": "Související známky a známky ze série",
+    "sk": "Súvisiace známky a známky zo série",
+    "ro": "Timbre înrudite și timbre din aceeași serie",
+    "hu": "Kapcsolódó bélyegek és a sorozat bélyegei",
+    "da": "Beslægtede frimærker og frimærker fra serien"
   },
   {
     "key": "act2.eyebrow",
@@ -337,7 +502,12 @@
     "nl": "Verzamel & Ordenen",
     "pl": "Zbieraj & Porządkuj",
     "fr": "Collectionne & organise",
-    "it": "Colleziona & Organizza"
+    "it": "Colleziona & Organizza",
+    "cs": "Sbírej & Uspořádej",
+    "sk": "Zbieraj & Usporiadaj",
+    "ro": "Colecționează și organizează",
+    "hu": "Gyűjtés és rendszerezés",
+    "da": "Saml & organiser"
   },
   {
     "key": "act2.title",
@@ -347,7 +517,12 @@
     "nl": "Je hele verzameling, altijd bij je",
     "pl": "Cała twoja kolekcja znaczków – zawsze przy Tobie",
     "fr": "Toute ta collection, toujours dans ta poche",
-    "it": "Tutta la tua collezione, sempre con te"
+    "it": "Tutta la tua collezione, sempre con te",
+    "cs": "Celá tvoje sbírka — vždy po ruce",
+    "sk": "Celá tvoja zbierka, vždy po ruke",
+    "ro": "Toată colecția ta, mereu la tine",
+    "hu": "A teljes gyűjteményed – mindig veled",
+    "da": "Hele din samling – altid med dig"
   },
   {
     "key": "act2.body",
@@ -357,7 +532,12 @@
     "nl": "Een verzameling beheren hoeft geen eindeloze lijsten en verspreide notitieboekjes te vereisen. Organiseer per land, thema of serie. Houd conditie, waarde en certificaten bij. Voeg persoonlijke foto's en notities toe.",
     "pl": "Zarządzanie kolekcją nie powinno wymagać niekończących się list i porozrzucanych notatników. Porządkuj według kraju, tematu lub serii. Śledź stan zachowania, wartość i certyfikaty. Dodawaj własne zdjęcia i notatki.",
     "fr": "Gérer une collection ne devrait pas demander des listes interminables ni des carnets éparpillés. Classe par pays, thème ou série. Suis l'état, la valeur, les certificats. Ajoute tes propres photos et notes.",
-    "it": "Gestire una collezione non dovrebbe richiedere liste infinite e quaderni sparsi. Organizza per paese, tema o serie. Tieni traccia di stato, valore e certificati. Aggiungi foto personali e note."
+    "it": "Gestire una collezione non dovrebbe richiedere liste infinite e quaderni sparsi. Organizza per paese, tema o serie. Tieni traccia di stato, valore e certificati. Aggiungi foto personali e note.",
+    "cs": "Správa sbírky by neměla vyžadovat nekonečné seznamy a poznámkové bloky roztroušené všude možně. Třiď podle země, tématu nebo série. Sleduj stav, hodnotu a atesty. Přidávej vlastní fotky a poznámky.",
+    "sk": "Spravovanie zbierky by si nemalo vyžadovať nekonečné zoznamy a rozhádzané zošity. Usporiadaj si ju podľa krajiny, témy alebo série. Sleduj stav, hodnotu a atesty. Pridávaj vlastné fotky a poznámky.",
+    "ro": "Gestionarea unei colecții nu ar trebui să ceară liste nesfârșite și caiete răvășite. Organizează după țară, temă sau serie. Urmărește starea, valoarea și certificatele. Adaugă fotografii și notițe personale.",
+    "hu": "Egy gyűjtemény kezeléséhez nem kellene végtelen listákat és szétszórt füzeteket vezetni. Rendszerezd ország, téma vagy sorozat szerint. Kövesd az állapotot, az értéket és a szakvéleményeket. Adj hozzá saját fotókat és jegyzeteket.",
+    "da": "At holde styr på en samling bør ikke kræve endeløse lister og spredte notesbøger. Organiser efter land, tema eller serie. Hold styr på kvalitet, værdi og attester. Tilføj egne fotos og noter."
   },
   {
     "key": "act2.bullet.1",
@@ -367,7 +547,12 @@
     "nl": "Organiseer per land, thema of serie",
     "pl": "Organizuj według kraju, tematu lub serii",
     "fr": "Classe par pays, thème ou série",
-    "it": "Organizza per paese, tema o serie"
+    "it": "Organizza per paese, tema o serie",
+    "cs": "Třiď podle země, tématu nebo série",
+    "sk": "Usporiadaj podľa krajiny, témy alebo série",
+    "ro": "Organizează după țară, temă sau serie",
+    "hu": "Rendszerezd ország, téma vagy sorozat szerint",
+    "da": "Organiser efter land, tema eller serie"
   },
   {
     "key": "act2.bullet.2",
@@ -377,7 +562,12 @@
     "nl": "Houd conditie, aankoopwaarde en certificaten bij",
     "pl": "Śledź stan zachowania, cenę zakupu, certyfikaty",
     "fr": "Suis l'état, la valeur d'achat, les certificats",
-    "it": "Tieni traccia di stato di conservazione, valore d'acquisto, certificati"
+    "it": "Tieni traccia di stato di conservazione, valore d'acquisto, certificati",
+    "cs": "Sleduj stav, nákupní cenu, atesty",
+    "sk": "Sleduj stav, kúpnu cenu, atesty",
+    "ro": "Urmărește starea, prețul de achiziție, certificatele",
+    "hu": "Kövesd az állapotot, a vételárat és a szakvéleményeket",
+    "da": "Hold styr på kvalitet, købsværdi og attester"
   },
   {
     "key": "act2.bullet.3",
@@ -387,7 +577,12 @@
     "nl": "Zie wat ontbreekt — voorkom duplicaten",
     "pl": "Zobacz, czego brakuje — unikaj duplikatów",
     "fr": "Vois ce qui manque — évite les doublons",
-    "it": "Vedi cosa manca — evita i duplicati"
+    "it": "Vedi cosa manca — evita i duplicati",
+    "cs": "Zjisti, co chybí — vyhni se duplicitám",
+    "sk": "Pozri, čo chýba — vyhni sa duplikátom",
+    "ro": "Vezi ce îți lipsește — evită dublurile",
+    "hu": "Lásd, mi hiányzik — kerüld a duplumokat",
+    "da": "Se hvad der mangler – undgå dubletter"
   },
   {
     "key": "act2.bullet.4",
@@ -397,7 +592,12 @@
     "nl": "Bekijk je verzameling op elk apparaat",
     "pl": "Dostęp do kolekcji na każdym urządzeniu",
     "fr": "Accède à ta collection sur tous tes appareils",
-    "it": "Accedi alla tua collezione da qualsiasi dispositivo"
+    "it": "Accedi alla tua collezione da qualsiasi dispositivo",
+    "cs": "Přístup ke sbírce na každém zařízení",
+    "sk": "Prístup k zbierke na každom zariadení",
+    "ro": "Accesează-ți colecția de pe orice dispozitiv",
+    "hu": "Érd el a gyűjteményed bármelyik eszközön",
+    "da": "Få adgang til din samling på enhver enhed"
   },
   {
     "key": "act3.eyebrow",
@@ -407,7 +607,12 @@
     "nl": "Groepsscan",
     "pl": "Skanowanie grupowe",
     "fr": "Scan multiple",
-    "it": "Scansione multipla"
+    "it": "Scansione multipla",
+    "cs": "Hromadné skenování",
+    "sk": "Hromadné skenovanie",
+    "ro": "Scanare multiplă și digitalizare",
+    "hu": "Tömeges szkennelés és digitalizálás",
+    "da": "Massescanning"
   },
   {
     "key": "act3.title",
@@ -417,7 +622,12 @@
     "nl": "Herken meer dan 40 postzegels op één foto",
     "pl": "Zidentyfikuj ponad 40 znaczków na jednym zdjęciu",
     "fr": "Identifie plus de 40 timbres sur une seule photo",
-    "it": "Identifica più di 40 francobolli con un solo scatto"
+    "it": "Identifica più di 40 francobolli con un solo scatto",
+    "cs": "Identifikuj přes 40 známek na jediné fotce",
+    "sk": "Identifikuj vyše 40 známok na jednej fotografii",
+    "ro": "Identifică peste 40 de timbre într-o singură fotografie",
+    "hu": "Azonosíts 40+ bélyeget egyetlen fotón",
+    "da": "Genkend over 40 frimærker på ét foto"
   },
   {
     "key": "act3.body",
@@ -427,7 +637,12 @@
     "nl": "Maak één foto van een albumpagina en SigiVision™ herkent in één keer alle postzegels — automatisch bijgesneden en gematcht met de catalogus. De snelste manier om een levenlang verzamelen te digitaliseren.",
     "pl": "Zrób jedno zdjęcie strony albumu, a SigiVision™ wykryje wszystkie znaczki naraz — automatycznie je wykadruje i dopasuje do katalogu. Najszybszy sposób na cyfryzację filatelistyki całego życia.",
     "fr": "Prends une photo de la page d'un album et SigiVision™ détecte tous les timbres en une fois — recadrage et identification automatiques via le catalogue. La façon la plus rapide de numériser toute une vie de philatélie.",
-    "it": "Scatta una foto della pagina di un album e SigiVision™ rileva tutti i francobolli in una volta sola, li ritaglia automaticamente e li confronta con il catalogo. Il modo più rapido per digitalizzare una vita da collezionista."
+    "it": "Scatta una foto della pagina di un album e SigiVision™ rileva tutti i francobolli in una volta sola, li ritaglia automaticamente e li confronta con il catalogo. Il modo più rapido per digitalizzare una vita da collezionista.",
+    "cs": "Vyfoť jeden albový list a SigiVision™ najde všechny známky naráz — automaticky je ořízne a spáruje s katalogem. Nejrychlejší cesta, jak zdigitalizovat sbírku celého života.",
+    "sk": "Stačí jedna fotka albumového listu a SigiVision™ rozpozná naraz každú známku — automaticky ju oreže a priradí ku katalógu. Najrýchlejší spôsob, ako zdigitalizovať zbierku celého života.",
+    "ro": "Fotografiază o filă de album și SigiVision™ detectează toate timbrele dintr-o dată — le decupează automat și le identifică în catalog. Cea mai rapidă cale de a digitaliza o viață de filatelie.",
+    "hu": "Készíts egy fotót egy albumlapról, és a SigiVision™ egyszerre felismeri az összes bélyeget — automatikusan kivágja és összeveti őket a katalógussal. A leggyorsabb mód egy egész életnyi filatélia digitalizálására.",
+    "da": "Tag ét foto af en albumside, og SigiVision™ finder hvert eneste frimærke på én gang – beskærer automatisk og matcher mod kataloget. Den hurtigste måde at digitalisere et helt samlerliv på."
   },
   {
     "key": "act3.bullet.1",
@@ -437,7 +652,12 @@
     "nl": "Detecteer tientallen postzegels uit één afbeelding",
     "pl": "Wykryj dziesiątki znaczków na jednym zdjęciu",
     "fr": "Détecte des dizaines de timbres sur une seule image",
-    "it": "Rileva decine di francobolli da una sola immagine"
+    "it": "Rileva decine di francobolli da una sola immagine",
+    "cs": "Rozpoznej desítky známek z jediného snímku",
+    "sk": "Rozpoznaj desiatky známok z jedného obrázka",
+    "ro": "Detectează zeci de timbre dintr-o singură imagine",
+    "hu": "Ismerj fel több tucat bélyeget egyetlen képről",
+    "da": "Find snesevis af frimærker på ét billede"
   },
   {
     "key": "act3.bullet.2",
@@ -447,7 +667,12 @@
     "nl": "Automatisch bijsnijden en vergelijken met catalogus",
     "pl": "Automatyczne kadrowanie i dopasowanie do katalogu",
     "fr": "Découpage et identification automatiques",
-    "it": "Ritaglio automatico e corrispondenza con il catalogo"
+    "it": "Ritaglio automatico e corrispondenza con il catalogo",
+    "cs": "Automatický ořez a spárování s katalogem",
+    "sk": "Automatické orezanie a priradenie ku katalógu",
+    "ro": "Decupare automată și identificare în catalog",
+    "hu": "Automatikus kivágás és katalógusazonosítás",
+    "da": "Automatisk beskæring og identifikation"
   },
   {
     "key": "act3.bullet.3",
@@ -457,7 +682,12 @@
     "nl": "Zie hoeveel zijn herkend, al in je verzameling zitten of op je verlanglijst staan",
     "pl": "Zobacz, ile znaczków wykryto, ile masz w kolekcji i ile na liście życzeń",
     "fr": "Vois le total détecté, en collection, sur la liste de souhaits",
-    "it": "Vedi il totale rilevato, in collezione, nella lista dei desideri"
+    "it": "Vedi il totale rilevato, in collezione, nella lista dei desideri",
+    "cs": "Uvidíš, kolik známek se našlo, kolik máš ve sbírce a kolik v seznamu přání",
+    "sk": "Pozri, koľko sa ich našlo, koľko máš v zbierke a koľko v zozname želaní",
+    "ro": "Vezi totalul detectat, ce e în colecție și ce e pe lista de dorințe",
+    "hu": "Lásd, mennyit ismert fel, mennyi van a gyűjteményben és a kívánságlistán",
+    "da": "Se hvor mange der er fundet, er i samlingen eller på ønskelisten"
   },
   {
     "key": "act3.bullet.4",
@@ -467,7 +697,12 @@
     "nl": "Bekijk elke match voordat je opslaat",
     "pl": "Sprawdź każde dopasowanie przed zapisaniem",
     "fr": "Vérifie chaque correspondance avant de sauvegarder",
-    "it": "Rivedi ogni corrispondenza prima di salvare"
+    "it": "Rivedi ogni corrispondenza prima di salvare",
+    "cs": "Zkontroluj každou shodu před uložením",
+    "sk": "Skontroluj každú zhodu pred uložením",
+    "ro": "Verifică fiecare potrivire înainte de salvare",
+    "hu": "Ellenőrizz minden találatot mentés előtt",
+    "da": "Gennemgå hvert træf, før du gemmer"
   },
   {
     "key": "act4.eyebrow",
@@ -477,7 +712,12 @@
     "nl": "Verken & Ontdek",
     "pl": "Eksploruj & Odkrywaj",
     "fr": "Explore & découvre",
-    "it": "Esplora & Scopri"
+    "it": "Esplora & Scopri",
+    "cs": "Prozkoumej & Objevuj",
+    "sk": "Skúmaj & Objavuj",
+    "ro": "Explorează și descoperă",
+    "hu": "Böngészés és felfedezés",
+    "da": "Udforsk & opdag"
   },
   {
     "key": "act4.title",
@@ -487,7 +727,12 @@
     "nl": "Filatelie buiten het bureau",
     "pl": "Filatelistyka poza biurkiem",
     "fr": "La philatélie au-delà du bureau",
-    "it": "La filatelia oltre la scrivania"
+    "it": "La filatelia oltre la scrivania",
+    "cs": "Filatelie mimo sběratelský stůl",
+    "sk": "Filatelia mimo zberateľského stola",
+    "ro": "Filatelia dincolo de birou",
+    "hu": "Filatélia az íróasztalon túl",
+    "da": "Filateli uden for samlerbordet"
   },
   {
     "key": "act4.body",
@@ -497,7 +742,12 @@
     "nl": "Zie postzegels als vensters naar de echte wereld. Ontdek plekken bij jou in de buurt die staan afgebeeld op postzegels in jouw verzameling — gebouwen, monumenten, landschappen. Verander een zondagse wandeling in een postzegelavontuur.",
     "pl": "Spójrz na znaczki jak na okna do prawdziwego świata. Odkrywaj miejsca w pobliżu przedstawione na znaczkach z twojej kolekcji — budynki, pomniki, krajobrazy. Zamień niedzielny spacer w filatelistyczną przygodę.",
     "fr": "Vois les timbres comme des fenêtres sur le monde réel. Découvre près de chez toi des lieux représentés sur les timbres de ta collection — bâtiments, monuments, paysages. Transforme une promenade dominicale en aventure philatélique.",
-    "it": "Vedi i francobolli come finestre sul mondo reale. Scopri luoghi vicino a te raffigurati sui francobolli della tua collezione — edifici, monumenti, paesaggi. Trasforma una passeggiata domenicale in un'avventura filatelica."
+    "it": "Vedi i francobolli come finestre sul mondo reale. Scopri luoghi vicino a te raffigurati sui francobolli della tua collezione — edifici, monumenti, paesaggi. Trasforma una passeggiata domenicale in un'avventura filatelica.",
+    "cs": "Dívej se na známky jako na okna do skutečného světa. Objevuj místa ve svém okolí, která jsou vyobrazena na známkách z tvé sbírky — budovy, památníky, krajiny. Proměň nedělní procházku ve filatelistické dobrodružství.",
+    "sk": "Pozeraj sa na známky ako na okná do skutočného sveta. Objavuj miesta vo svojom okolí, ktoré sú vyobrazené na známkach z tvojej zbierky — budovy, pamiatky, krajinné scenérie. Premeň nedeľnú prechádzku na filatelistické dobrodružstvo.",
+    "ro": "Privește timbrele ca ferestre spre lumea reală. Descoperă locuri din apropierea ta înfățișate pe timbrele din colecția ta — clădiri, monumente, peisaje. Transformă o plimbare de duminică într-o aventură filatelică.",
+    "hu": "Tekints a bélyegekre úgy, mint a valódi világra nyíló ablakokra. Fedezd fel a közeledben azokat a helyeket, amelyek a gyűjteményed bélyegein szerepelnek — épületeket, emlékműveket, tájakat. Változtasd bélyegkalanddá a vasárnapi sétát.",
+    "da": "Se frimærker som vinduer til den virkelige verden. Opdag steder i nærheden af dig, som er afbildet på frimærker i din samling – bygninger, monumenter, landskaber. Gør søndagsturen til et frimærkeeventyr."
   },
   {
     "key": "act4.bullet.1",
@@ -507,7 +757,12 @@
     "nl": "Ontdek postzegellocaties op een interactieve kaart",
     "pl": "Odkrywaj miejsca ze znaczków na interaktywnej mapie",
     "fr": "Découvre les lieux des timbres sur une carte interactive",
-    "it": "Scopri i luoghi dei francobolli su una mappa interattiva"
+    "it": "Scopri i luoghi dei francobolli su una mappa interattiva",
+    "cs": "Objevuj místa ze známek na interaktivní mapě",
+    "sk": "Objavuj miesta zo známok na interaktívnej mape",
+    "ro": "Descoperă locurile de pe timbre pe o hartă interactivă",
+    "hu": "Fedezd fel a bélyegek helyszíneit interaktív térképen",
+    "da": "Opdag frimærkernes steder på et interaktivt kort"
   },
   {
     "key": "act4.bullet.2",
@@ -517,7 +772,12 @@
     "nl": "Verbind postzegels met plekken in de echte wereld",
     "pl": "Połącz znaczki z miejscami w prawdziwym świecie",
     "fr": "Relie les timbres à des lieux réels",
-    "it": "Collega i francobolli a luoghi reali"
+    "it": "Collega i francobolli a luoghi reali",
+    "cs": "Propoj známky se skutečnými místy",
+    "sk": "Prepoj známky so skutočnými miestami",
+    "ro": "Leagă timbrele de locuri reale",
+    "hu": "Kösd össze a bélyegeket valódi helyekkel",
+    "da": "Forbind frimærker med virkelige steder"
   },
   {
     "key": "act4.bullet.3",
@@ -527,7 +787,12 @@
     "nl": "Filter op wat jou interesseert",
     "pl": "Filtruj według tego, co cię interesuje",
     "fr": "Filtre selon ce qui t'intéresse",
-    "it": "Filtra in base ai tuoi interessi"
+    "it": "Filtra in base ai tuoi interessi",
+    "cs": "Filtruj podle toho, co tě zajímá",
+    "sk": "Filtruj podľa toho, čo ťa zaujíma",
+    "ro": "Filtrează după ce te interesează",
+    "hu": "Szűrj aszerint, ami téged érdekel",
+    "da": "Filtrer efter det, der interesserer dig"
   },
   {
     "key": "act4.bullet.4",
@@ -537,7 +802,12 @@
     "nl": "Vraag Sigi naar geschiedenis en context",
     "pl": "Zapytaj Sigi o historię i kontekst",
     "fr": "Demande à Sigi l'histoire et le contexte",
-    "it": "Chiedi a Sigi storia e contesto"
+    "it": "Chiedi a Sigi storia e contesto",
+    "cs": "Zeptej se Sigiho na historii a souvislosti",
+    "sk": "Spýtaj sa Sigiho na históriu a súvislosti",
+    "ro": "Întreabă-l pe Sigi despre istorie și context",
+    "hu": "Kérdezd Sigit a történelemről és a háttérről",
+    "da": "Spørg Sigi om historie og baggrund"
   },
   {
     "key": "sigivision.eyebrow",
@@ -547,7 +817,12 @@
     "nl": "De Technologie",
     "pl": "Technologia",
     "fr": "La technologie",
-    "it": "La tecnologia"
+    "it": "La tecnologia",
+    "cs": "Technologie",
+    "sk": "Technológia",
+    "ro": "Tehnologia",
+    "hu": "A technológia",
+    "da": "Teknologien"
   },
   {
     "key": "sigivision.headline",
@@ -557,7 +832,12 @@
     "nl": "SigiVision™ — herkenning getraind op echte postzegels en catalogi",
     "pl": "SigiVision™ — rozpoznawanie wytrenowane na prawdziwych znaczkach i katalogach",
     "fr": "SigiVision™ — une reconnaissance entraînée sur de vrais timbres et catalogues",
-    "it": "SigiVision™ — riconoscimento addestrato su francobolli e cataloghi reali"
+    "it": "SigiVision™ — riconoscimento addestrato su francobolli e cataloghi reali",
+    "cs": "SigiVision™ — rozpoznávání trénované na skutečných známkách a katalozích",
+    "sk": "SigiVision™ — rozpoznávanie trénované na skutočných známkach a katalógoch",
+    "ro": "SigiVision™ — recunoaștere antrenată pe timbre și cataloage reale",
+    "hu": "SigiVision™ — valódi bélyegeken és katalógusokon tanított felismerés",
+    "da": "SigiVision™ – genkendelse trænet på ægte frimærker og kataloger"
   },
   {
     "key": "sigivision.body",
@@ -567,7 +847,12 @@
     "nl": "Onze herkenning is speciaal gebouwd voor postzegels — geen generieke beeldclassificatie. Elk model is afgestemd per landcatalogus en gevalideerd tegen gecertificeerde referenties.",
     "pl": "Nasza technologia rozpoznawania jest stworzona specjalnie dla znaczków — to nie ogólna klasyfikacja obrazów. Każdy model jest dostrojony pod katalog danego kraju i zweryfikowany na certyfikowanych referencjach.",
     "fr": "Notre technologie de reconnaissance est conçue spécifiquement pour les timbres — pas une classification d'images générique. Chaque modèle est ajusté par catalogue national et validé sur des références certifiées.",
-    "it": "La nostra tecnologia di riconoscimento è sviluppata appositamente per i francobolli — non è una classificazione generica di immagini. Ogni modello è ottimizzato per ciascun catalogo nazionale e validato su riferimenti certificati."
+    "it": "La nostra tecnologia di riconoscimento è sviluppata appositamente per i francobolli — non è una classificazione generica di immagini. Ogni modello è ottimizzato per ciascun catalogo nazionale e validato su riferimenti certificati.",
+    "cs": "Naše rozpoznávání je vytvořené přímo pro známky — není to obecná klasifikace obrázků. Každý model je vyladěný pro katalog dané země a ověřený na certifikovaných referencích.",
+    "sk": "Naše rozpoznávanie je vyvinuté špeciálne pre známky — nie je to všeobecná klasifikácia obrázkov. Každý model je doladený na katalóg konkrétnej krajiny a overený voči certifikovaným referenciám.",
+    "ro": "Tehnologia noastră de recunoaștere este construită special pentru timbre — nu este o clasificare generică de imagini. Fiecare model este reglat pe catalogul fiecărei țări și validat pe referințe certificate.",
+    "hu": "A felismerő rendszerünket kifejezetten bélyegekhez fejlesztettük — nem általános képosztályozás. Minden modellt országkatalógusonként hangolunk és hitelesített referenciákon ellenőrzünk.",
+    "da": "Vores genkendelse er bygget specifikt til frimærker – ikke generisk billedklassificering. Hver model er finjusteret til det enkelte landekatalog og valideret mod certificerede referencer."
   },
   {
     "key": "sigivision.stat.speed.value",
@@ -577,7 +862,12 @@
     "nl": "<1s",
     "pl": "<1s",
     "fr": "<1s",
-    "it": "<1s"
+    "it": "<1s",
+    "cs": "<1s",
+    "sk": "<1s",
+    "ro": "<1s",
+    "hu": "<1s",
+    "da": "<1s"
   },
   {
     "key": "sigivision.stat.speed.label",
@@ -587,7 +877,12 @@
     "nl": "Gemiddelde herkenningstijd",
     "pl": "Średni czas rozpoznawania",
     "fr": "Temps moyen de reconnaissance",
-    "it": "Tempo medio di riconoscimento"
+    "it": "Tempo medio di riconoscimento",
+    "cs": "Průměrná doba rozpoznání",
+    "sk": "Priemerný čas rozpoznávania",
+    "ro": "Timp mediu de recunoaștere",
+    "hu": "Átlagos felismerési idő",
+    "da": "Gennemsnitlig genkendelsestid"
   },
   {
     "key": "sigivision.stat.speed.sub",
@@ -597,17 +892,27 @@
     "nl": "Voordat de catalogus van de plank komt.",
     "pl": "Zanim katalog opuści półkę.",
     "fr": "Avant même que le catalogue ne quitte l'étagère.",
-    "it": "Prima ancora di prendere il catalogo dallo scaffale."
+    "it": "Prima ancora di prendere il catalogo dallo scaffale.",
+    "cs": "Dřív, než katalog sundáš z police.",
+    "sk": "Skôr, než katalóg opustí policu.",
+    "ro": "Înainte să apuci catalogul de pe raft.",
+    "hu": "Még mielőtt a katalógus lekerülne a polcról.",
+    "da": "Før kataloget er nået ned fra hylden."
   },
   {
     "key": "sigivision.stat.accuracy.value",
     "section/location": "SigiVision stat — accuracy",
     "en": "98%",
-    "de": "98%",
+    "de": "98 %",
     "nl": "98%",
     "pl": "98%",
-    "fr": "98%",
-    "it": "98%"
+    "fr": "98 %",
+    "it": "98%",
+    "cs": "98%",
+    "sk": "98%",
+    "ro": "98%",
+    "hu": "98%",
+    "da": "98%"
   },
   {
     "key": "sigivision.stat.accuracy.label",
@@ -617,7 +922,12 @@
     "nl": "Herkenningsnauwkeurigheid",
     "pl": "Dokładność rozpoznawania",
     "fr": "Précision de reconnaissance",
-    "it": "Precisione di riconoscimento"
+    "it": "Precisione di riconoscimento",
+    "cs": "Přesnost rozpoznávání",
+    "sk": "Presnosť rozpoznávania",
+    "ro": "Precizia recunoașterii",
+    "hu": "Felismerési pontosság",
+    "da": "Genkendelsesnøjagtighed"
   },
   {
     "key": "sigivision.stat.accuracy.sub",
@@ -627,7 +937,12 @@
     "nl": "Gevalideerd tegen gecertificeerde referentiesets.",
     "pl": "Zweryfikowano na certyfikowanych zestawach referencyjnych.",
     "fr": "Validée sur des ensembles de référence certifiés.",
-    "it": "Validato su set di riferimento certificati."
+    "it": "Validato su set di riferimento certificati.",
+    "cs": "Ověřeno na certifikovaných referenčních sadách.",
+    "sk": "Overené na certifikovaných referenčných súboroch.",
+    "ro": "Validată pe seturi de referință certificate.",
+    "hu": "Hitelesített referenciaanyagokon ellenőrizve.",
+    "da": "Valideret mod certificerede referencesæt."
   },
   {
     "key": "sigivision.stat.catalog.value",
@@ -637,7 +952,12 @@
     "nl": "30K+",
     "pl": "30K+",
     "fr": "30K+",
-    "it": "30K+"
+    "it": "30K+",
+    "cs": "30K+",
+    "sk": "30K+",
+    "ro": "30K+",
+    "hu": "30K+",
+    "da": "30K+"
   },
   {
     "key": "sigivision.stat.catalog.label",
@@ -647,7 +967,12 @@
     "nl": "Postzegels in actieve catalogi",
     "pl": "Znaczków w aktywnych katalogach",
     "fr": "Timbres dans les catalogues actifs",
-    "it": "Francobolli nei cataloghi attivi"
+    "it": "Francobolli nei cataloghi attivi",
+    "cs": "Známek v aktivních katalozích",
+    "sk": "Známok v aktívnych katalógoch",
+    "ro": "Timbre în cataloagele active",
+    "hu": "Bélyeg az aktív katalógusokban",
+    "da": "Frimærker i aktive kataloger"
   },
   {
     "key": "sigivision.stat.catalog.sub",
@@ -657,7 +982,12 @@
     "nl": "Elke maand nieuwe uitgiftes.",
     "pl": "Nowe emisje co miesiąc.",
     "fr": "De nouvelles émissions chaque mois.",
-    "it": "Nuove emissioni ogni mese."
+    "it": "Nuove emissioni ogni mese.",
+    "cs": "Nové emise každý měsíc.",
+    "sk": "Nové emisie každý mesiac.",
+    "ro": "Emisiuni noi în fiecare lună.",
+    "hu": "Minden hónapban új kibocsátások.",
+    "da": "Nye udgivelser hver måned."
   },
   {
     "key": "sigivision.stat.countries.value",
@@ -667,7 +997,12 @@
     "nl": "6",
     "pl": "6",
     "fr": "6",
-    "it": "6"
+    "it": "6",
+    "cs": "6",
+    "sk": "6",
+    "ro": "6",
+    "hu": "6",
+    "da": "6"
   },
   {
     "key": "sigivision.stat.countries.label",
@@ -677,7 +1012,12 @@
     "nl": "Ondersteunde landen",
     "pl": "Obsługiwanych krajów",
     "fr": "Pays pris en charge",
-    "it": "Paesi supportati"
+    "it": "Paesi supportati",
+    "cs": "Podporovaných zemí",
+    "sk": "Podporovaných krajín",
+    "ro": "Țări acoperite",
+    "hu": "Támogatott ország",
+    "da": "Understøttede lande"
   },
   {
     "key": "sigivision.stat.countries.sub",
@@ -687,7 +1027,12 @@
     "nl": "Meer volgen.",
     "pl": "Kolejne wkrótce.",
     "fr": "D'autres à venir.",
-    "it": "Altri in arrivo."
+    "it": "Altri in arrivo.",
+    "cs": "Další přibudou.",
+    "sk": "Ďalšie pribudnú.",
+    "ro": "Urmează și altele.",
+    "hu": "Továbbiak hamarosan.",
+    "da": "Flere er på vej."
   },
   {
     "key": "meet_sigi.eyebrow",
@@ -697,7 +1042,12 @@
     "nl": "Jouw Metgezel",
     "pl": "Twój towarzysz",
     "fr": "Ton compagnon",
-    "it": "Il tuo compagno"
+    "it": "Il tuo compagno",
+    "cs": "Tvůj společník",
+    "sk": "Tvoj spoločník",
+    "ro": "Însoțitorul tău",
+    "hu": "A társad",
+    "da": "Din følgesvend"
   },
   {
     "key": "meet_sigi.headline",
@@ -707,7 +1057,12 @@
     "nl": "Maak kennis met Sigi",
     "pl": "Poznaj Sigi",
     "fr": "Voici Sigi",
-    "it": "Incontra Sigi"
+    "it": "Incontra Sigi",
+    "cs": "Poznej Sigiho",
+    "sk": "Zoznám sa so Sigim",
+    "ro": "Fă cunoștință cu Sigi",
+    "hu": "Ismerd meg Sigit",
+    "da": "Mød Sigi"
   },
   {
     "key": "meet_sigi.p1",
@@ -717,7 +1072,12 @@
     "nl": "Sigi is je AI-maatje voor postzegels. Vraag naar de geschiedenis van een zegel, het verhaal erachter, of waar je moet beginnen met een land dat je nog nooit verzameld hebt.",
     "pl": "Sigi to twój filatelistyczny towarzysz napędzany przez AI. Zapytaj o historię znaczka, opowieść, którą skrywa, albo o to, jak zacząć kolekcjonować nowy kraj.",
     "fr": "Sigi est ton compagnon philatélique propulsé par l'IA. Pose-lui des questions sur l'histoire d'un timbre, son récit, ou par où commencer avec un pays que tu n'as jamais collectionné.",
-    "it": "Sigi è il tuo compagno filatelico con intelligenza artificiale. Chiedigli la storia di un francobollo, ciò che racconta, o da dove cominciare con un paese che non hai mai collezionato."
+    "it": "Sigi è il tuo compagno filatelico con intelligenza artificiale. Chiedigli la storia di un francobollo, ciò che racconta, o da dove cominciare con un paese che non hai mai collezionato.",
+    "cs": "Sigi je tvůj sběratelský společník poháněný umělou inteligencí. Zeptej se ho na historii známky, na příběh, který vypráví, nebo na to, kde začít s novou zemí ve sbírce.",
+    "sk": "Sigi je tvoj filatelistický spoločník poháňaný umelou inteligenciou. Spýtaj sa ho na históriu známky, na príbeh, ktorý rozpráva, alebo na to, kde začať s krajinou, ktorú ešte nemáš v zbierke.",
+    "ro": "Sigi este însoțitorul tău filatelic bazat pe inteligență artificială. Întreabă-l despre istoria unui timbru, despre povestea pe care o spune sau de unde să începi cu o țară pe care nu ai colecționat-o niciodată.",
+    "hu": "Sigi a mesterséges intelligenciával működő filatéliai társad. Kérdezd egy bélyeg történelméről, az általa elmesélt történetről, vagy arról, hol érdemes belekezdeni egy olyan ország gyűjtésébe, amelyet eddig még nem gyűjtöttél.",
+    "da": "Sigi er din AI-drevne følgesvend i frimærkernes verden. Spørg om et frimærkes historie, om historien det fortæller, eller om hvor du skal begynde med et land, du aldrig har samlet før."
   },
   {
     "key": "meet_sigi.p2",
@@ -727,7 +1087,12 @@
     "nl": "Hij is vriendelijk, geduldig en altijd klaar wanneer nieuwsgierigheid toeslaat.",
     "pl": "Jest przyjazny, cierpliwy i gotowy, kiedy tylko dopadnie cię ciekawość.",
     "fr": "Il est sympa, patient et toujours prêt quand la curiosité te prend.",
-    "it": "È amichevole, paziente e sempre pronto quando ti viene la curiosità."
+    "it": "È amichevole, paziente e sempre pronto quando ti viene la curiosità.",
+    "cs": "Je přátelský, trpělivý a po ruce vždy, když tě popadne zvědavost.",
+    "sk": "Je priateľský, trpezlivý a pripravený vždy, keď ťa premkne zvedavosť.",
+    "ro": "Este prietenos, răbdător și mereu pregătit când te apucă curiozitatea.",
+    "hu": "Barátságos, türelmes, és mindig kéznél van, ha rád tör a kíváncsiság.",
+    "da": "Han er venlig, tålmodig og klar, når nysgerrigheden melder sig."
   },
   {
     "key": "meet_sigi.feature.1",
@@ -737,7 +1102,12 @@
     "nl": "Historische context voor elke uitgifte",
     "pl": "Kontekst historyczny dla każdej emisji",
     "fr": "Contexte historique pour chaque émission",
-    "it": "Contesto storico per qualsiasi emissione"
+    "it": "Contesto storico per qualsiasi emissione",
+    "cs": "Historické souvislosti ke každé emisi",
+    "sk": "Historický kontext ku každej emisii",
+    "ro": "Context istoric pentru orice emisiune",
+    "hu": "Történelmi háttér minden kibocsátáshoz",
+    "da": "Historisk baggrund for enhver udgivelse"
   },
   {
     "key": "meet_sigi.feature.2",
@@ -747,7 +1117,12 @@
     "nl": "Antwoorden in gewone taal op je vragen",
     "pl": "Konwersacyjne odpowiedzi na twoje pytania",
     "fr": "Réponses conversationnelles à tes questions",
-    "it": "Risposte alle tue domande, come in una chiacchierata"
+    "it": "Risposte alle tue domande, come in una chiacchierata",
+    "cs": "Odpovědi na tvoje otázky formou rozhovoru",
+    "sk": "Odpovede na tvoje otázky v dialógu",
+    "ro": "Răspunsuri la întrebările tale, ca într-o conversație",
+    "hu": "Párbeszédes válaszok a kérdéseidre",
+    "da": "Svar i almindeligt sprog på dine spørgsmål"
   },
   {
     "key": "meet_sigi.feature.3",
@@ -757,7 +1132,12 @@
     "nl": "Identificeer thema's en series",
     "pl": "Identyfikacja tematów i serii",
     "fr": "Identifie thèmes et séries",
-    "it": "Identifica temi e serie"
+    "it": "Identifica temi e serie",
+    "cs": "Rozpoznání témat a sérií",
+    "sk": "Identifikácia tém a sérií",
+    "ro": "Identifică teme și serii",
+    "hu": "Témák és sorozatok felismerése",
+    "da": "Identificer temaer og serier"
   },
   {
     "key": "meet_sigi.feature.4",
@@ -767,7 +1147,12 @@
     "nl": "Tips voor organiseren en bewaren",
     "pl": "Wskazówki dotyczące porządkowania i konserwacji",
     "fr": "Astuces pour organiser et préserver",
-    "it": "Consigli per organizzare e conservare"
+    "it": "Consigli per organizzare e conservare",
+    "cs": "Tipy na třídění a uchovávání",
+    "sk": "Tipy na usporiadanie a uchovávanie",
+    "ro": "Sfaturi pentru organizare și păstrare",
+    "hu": "Tippek a rendszerezéshez és a megóváshoz",
+    "da": "Tips til at organisere og bevare"
   },
   {
     "key": "pricing.eyebrow",
@@ -777,7 +1162,12 @@
     "nl": "Prijzen",
     "pl": "Cennik",
     "fr": "Tarifs",
-    "it": "Prezzi"
+    "it": "Prezzi",
+    "cs": "Ceník",
+    "sk": "Cenník",
+    "ro": "Prețuri",
+    "hu": "Árak",
+    "da": "Priser"
   },
   {
     "key": "pricing.headline",
@@ -787,7 +1177,12 @@
     "nl": "Kies jouw plan",
     "pl": "Wybierz swój plan",
     "fr": "Choisis ton plan",
-    "it": "Scegli il tuo piano"
+    "it": "Scegli il tuo piano",
+    "cs": "Vyber si plán",
+    "sk": "Vyber si svoj plán",
+    "ro": "Alege-ți planul",
+    "hu": "Válaszd ki a csomagod",
+    "da": "Vælg din plan"
   },
   {
     "key": "pricing.sub",
@@ -797,7 +1192,12 @@
     "nl": "Probeer de basisfuncties gratis. Ontgrendel de catalogi wanneer je er klaar voor bent.",
     "pl": "Zacznij za darmo. Odblokuj pełne katalogi, kiedy zechcesz.",
     "fr": "Essaie les fonctions de base gratuitement. Débloque les catalogues quand tu es prêt.",
-    "it": "Prova le funzioni base gratuitamente. Sblocca i cataloghi quando sei pronto."
+    "it": "Prova le funzioni base gratuitamente. Sblocca i cataloghi quando sei pronto.",
+    "cs": "Vyzkoušej základ zdarma. Katalogy si odemkni, až budeš chtít.",
+    "sk": "Vyskúšaj základné funkcie zadarmo. Katalógy si odomkneš, keď budeš chcieť.",
+    "ro": "Încearcă gratuit funcțiile de bază. Deblochează cataloagele când vrei.",
+    "hu": "Próbáld ki ingyen az alapokat. Oldd fel a katalógusokat, amikor készen állsz.",
+    "da": "Prøv det grundlæggende gratis. Lås katalogerne op, når du er klar."
   },
   {
     "key": "pricing.toggle.monthly",
@@ -807,7 +1207,12 @@
     "nl": "Maandelijks",
     "pl": "Miesięcznie",
     "fr": "Mensuel",
-    "it": "Mensile"
+    "it": "Mensile",
+    "cs": "Měsíčně",
+    "sk": "Mesačne",
+    "ro": "Lunar",
+    "hu": "Havi",
+    "da": "Månedlig"
   },
   {
     "key": "pricing.toggle.yearly",
@@ -817,7 +1222,12 @@
     "nl": "Jaarlijks",
     "pl": "Rocznie",
     "fr": "Annuel",
-    "it": "Annuale"
+    "it": "Annuale",
+    "cs": "Ročně",
+    "sk": "Ročne",
+    "ro": "Anual",
+    "hu": "Éves",
+    "da": "Årlig"
   },
   {
     "key": "pricing.most_popular",
@@ -827,7 +1237,12 @@
     "nl": "Meest populair",
     "pl": "Najpopularniejsze",
     "fr": "Le plus populaire",
-    "it": "Il più scelto"
+    "it": "Il più scelto",
+    "cs": "Nejoblíbenější",
+    "sk": "Najobľúbenejšie",
+    "ro": "Cel mai popular",
+    "hu": "Legnépszerűbb",
+    "da": "Mest populær"
   },
   {
     "key": "pricing.tier.free.name",
@@ -837,7 +1252,12 @@
     "nl": "Free Plan",
     "pl": "Plan Free",
     "fr": "Plan gratuit",
-    "it": "Piano Free"
+    "it": "Piano Free",
+    "cs": "Plán Free",
+    "sk": "Free Plan",
+    "ro": "Free Plan",
+    "hu": "Free csomag",
+    "da": "Free-plan"
   },
   {
     "key": "pricing.tier.free.price_label",
@@ -847,7 +1267,12 @@
     "nl": "Gratis",
     "pl": "Bezpłatny",
     "fr": "Gratuit",
-    "it": "Gratuito"
+    "it": "Gratuito",
+    "cs": "Zdarma",
+    "sk": "Zadarmo",
+    "ro": "Gratuit",
+    "hu": "Ingyenes",
+    "da": "Gratis"
   },
   {
     "key": "pricing.tier.free.sub",
@@ -857,7 +1282,12 @@
     "nl": "Perfect voor nieuwe verzamelaars die StampIQ willen verkennen",
     "pl": "Idealny dla nowych kolekcjonerów, którzy chcą poznać StampIQ",
     "fr": "Idéal pour les nouveaux collectionneurs qui veulent découvrir StampIQ",
-    "it": "Perfetto per i nuovi collezionisti che vogliono esplorare StampIQ"
+    "it": "Perfetto per i nuovi collezionisti che vogliono esplorare StampIQ",
+    "cs": "Ideální pro nové sběratele, kteří chtějí StampIQ poznat",
+    "sk": "Ideálny pre nových zberateľov, ktorí chcú spoznať StampIQ",
+    "ro": "Perfect pentru colecționarii la început de drum, care vor să descopere StampIQ",
+    "hu": "Tökéletes az új gyűjtőknek, akik szeretnék megismerni a StampIQ-t",
+    "da": "Perfekt til nye samlere, der vil udforske StampIQ"
   },
   {
     "key": "pricing.tier.free.cta",
@@ -867,7 +1297,12 @@
     "nl": "Kies Free",
     "pl": "Zacznij za darmo",
     "fr": "Choisir Free",
-    "it": "Scegli Free"
+    "it": "Scegli Free",
+    "cs": "Začít zdarma",
+    "sk": "Začni zadarmo",
+    "ro": "Alege Free",
+    "hu": "Kezdés ingyen",
+    "da": "Vælg Free"
   },
   {
     "key": "pricing.tier.free.feature.1.title",
@@ -877,17 +1312,27 @@
     "nl": "SigiVision<sup style=\"font-size:9px\">™</sup> Herkenning",
     "pl": "Rozpoznawanie SigiVision<sup style=\"font-size:9px\">™</sup>",
     "fr": "Reconnaissance SigiVision<sup style=\"font-size:9px\">™</sup>",
-    "it": "Riconoscimento SigiVision<sup style=\"font-size:9px\">™</sup>"
+    "it": "Riconoscimento SigiVision<sup style=\"font-size:9px\">™</sup>",
+    "cs": "Rozpoznávání SigiVision<sup style=\"font-size:9px\">™</sup>",
+    "sk": "Rozpoznávanie SigiVision<sup style=\"font-size:9px\">™</sup>",
+    "ro": "Recunoaștere SigiVision<sup style=\"font-size:9px\">™</sup>",
+    "hu": "SigiVision<sup style=\"font-size:9px\">™</sup> felismerés",
+    "da": "SigiVision<sup style=\"font-size:9px\">™</sup>-genkendelse"
   },
   {
     "key": "pricing.tier.free.feature.1.desc",
     "section/location": "Pricing — Free feature 1 desc",
     "en": "Identify your stamps with 98% accuracy. Results delivered in a few seconds.",
-    "de": "Identifiziere deine Briefmarken mit einer Genauigkeit von 98 %. Ergebnisse in wenigen Sekunden.",
+    "de": "Identifiziere deine Briefmarken mit einer Genauigkeit von 98 %. Ergebnisse in wenigen Sekunden.",
     "nl": "Identificeer jouw postzegels met een nauwkeurigheid van 98%. Resultaten binnen enkele seconden.",
     "pl": "Zidentyfikuj swoje znaczki z 98% dokładnością. Wyniki dostępne w ciągu kilku sekund.",
-    "fr": "Identifie tes timbres avec une précision de 98 %. Résultats disponibles en quelques secondes.",
-    "it": "Identifica i tuoi francobolli con una precisione del 98%. Risultati disponibili in pochi secondi."
+    "fr": "Identifie tes timbres avec une précision de 98 %. Résultats disponibles en quelques secondes.",
+    "it": "Identifica i tuoi francobolli con una precisione del 98%. Risultati disponibili in pochi secondi.",
+    "cs": "Identifikuj své známky s 98% přesností. Výsledky během několika sekund.",
+    "sk": "Identifikuj svoje známky s 98% presnosťou. Výsledky do niekoľkých sekúnd.",
+    "ro": "Identifică-ți timbrele cu o precizie de 98%. Rezultatele vin în câteva secunde.",
+    "hu": "Azonosítsd a bélyegeidet 98%-os pontossággal. Az eredmény néhány másodperc alatt megérkezik.",
+    "da": "Identificer dine frimærker med 98% nøjagtighed. Resultater på få sekunder."
   },
   {
     "key": "pricing.tier.free.feature.2.title",
@@ -897,7 +1342,12 @@
     "nl": "5 scans per maand",
     "pl": "5 skanów miesięcznie",
     "fr": "5 numérisations par mois",
-    "it": "5 scansioni al mese"
+    "it": "5 scansioni al mese",
+    "cs": "5 skenů měsíčně",
+    "sk": "5 skenovaní mesačne",
+    "ro": "5 scanări pe lună",
+    "hu": "5 szkennelés havonta",
+    "da": "5 scanninger om måneden"
   },
   {
     "key": "pricing.tier.free.feature.2.desc",
@@ -907,7 +1357,12 @@
     "nl": "Profiteer elke maand van 5 gratis enkele scans en 2 groepsscans om je verzameling te verkennen.",
     "pl": "Korzystaj z 5 darmowych skanowań pojedynczych i 2 skanowań grupowych każdego miesiąca, aby przeglądać swoją kolekcję.",
     "fr": "Profite de 5 scans individuels gratuits et de 2 scans multiples chaque mois pour explorer ta collection.",
-    "it": "Approfitta di 5 scansioni singole gratuite e 2 scansioni multiple ogni mese per esplorare la tua collezione."
+    "it": "Approfitta di 5 scansioni singole gratuite e 2 scansioni multiple ogni mese per esplorare la tua collezione.",
+    "cs": "Každý měsíc máš zdarma 5 jednotlivých skenů a 2 hromadné skeny, se kterými můžeš prozkoumat svou sbírku.",
+    "sk": "Každý mesiac máš 5 bezplatných jednotlivých skenovaní a 2 hromadné skenovania na objavovanie svojej zbierky.",
+    "ro": "Ai 5 scanări individuale gratuite și 2 scanări multiple în fiecare lună, ca să îți explorezi colecția.",
+    "hu": "Használj havonta 5 ingyenes egyedi szkennelést és 2 tömeges szkennelést a gyűjteményed felfedezéséhez.",
+    "da": "Få 5 gratis enkeltscanninger og 2 massescanninger hver måned til at udforske din samling."
   },
   {
     "key": "pricing.tier.free.feature.3.title",
@@ -917,7 +1372,12 @@
     "nl": "Gescande postzegeldetails",
     "pl": "Szczegóły zeskanowanych znaczków",
     "fr": "Détails des timbres scannés",
-    "it": "Dettagli del francobollo scansionato"
+    "it": "Dettagli del francobollo scansionato",
+    "cs": "Podrobnosti naskenovaných známek",
+    "sk": "Podrobnosti naskenovaných známok",
+    "ro": "Detalii despre timbrele scanate",
+    "hu": "A beszkennelt bélyegek adatai",
+    "da": "Detaljer om scannede frimærker"
   },
   {
     "key": "pricing.tier.free.feature.3.desc",
@@ -927,7 +1387,12 @@
     "nl": "Bekijk catalogustreffers en belangrijke informatie over de postzegels die je hebt gescand.",
     "pl": "Zobacz dopasowania katalogowe i kluczowe informacje o zeskanowanych znaczkach.",
     "fr": "Consulte les identifications et les informations clés pour les timbres que tu as numérisés.",
-    "it": "Visualizza le corrispondenze di catalogo e le informazioni principali relative ai francobolli che hai scansionato."
+    "it": "Visualizza le corrispondenze di catalogo e le informazioni principali relative ai francobolli che hai scansionato.",
+    "cs": "Zobraz si shody v katalogu a klíčové informace ke svým naskenovaným známkám.",
+    "sk": "Pozri si zhody v katalógu a kľúčové informácie k naskenovaným známkam.",
+    "ro": "Vezi potrivirile din catalog și informațiile esențiale pentru timbrele pe care le-ai scanat.",
+    "hu": "Nézd meg a katalógustalálatokat és a legfontosabb adatokat a beszkennelt bélyegeidről.",
+    "da": "Se katalogtræf og vigtige oplysninger om de frimærker, du har scannet."
   },
   {
     "key": "pricing.tier.free.feature.4.title",
@@ -937,7 +1402,12 @@
     "nl": "Geen directe ondersteuning",
     "pl": "Brak bezpośredniej pomocy technicznej",
     "fr": "Pas d'assistance directe",
-    "it": "Nessun supporto diretto"
+    "it": "Nessun supporto diretto",
+    "cs": "Bez přímé podpory",
+    "sk": "Bez priamej podpory",
+    "ro": "Fără asistență directă",
+    "hu": "Nincs közvetlen támogatás",
+    "da": "Ingen direkte support"
   },
   {
     "key": "pricing.tier.free.feature.4.desc",
@@ -947,7 +1417,12 @@
     "nl": "Persoonlijke ondersteuning is niet inbegrepen. Er zijn altijd veelgestelde vragen en helpartikelen beschikbaar.",
     "pl": "Nie obejmuje osobistej pomocy technicznej. Często zadawane pytania i artykuły pomocy są zawsze dostępne.",
     "fr": "L'assistance personnalisée n'est pas incluse. La FAQ et les articles d'aide sont toujours disponibles.",
-    "it": "L'assistenza personale non è inclusa. Le FAQ e gli articoli della guida sono sempre disponibili."
+    "it": "L'assistenza personale non è inclusa. Le FAQ e gli articoli della guida sono sempre disponibili.",
+    "cs": "Osobní podpora není zahrnuta. Časté dotazy a články nápovědy jsou vždy k dispozici.",
+    "sk": "Osobná podpora nie je zahrnutá. Časté otázky a články pomocníka sú dostupné vždy.",
+    "ro": "Asistența personală nu este inclusă. Secțiunea FAQ și articolele de ajutor sunt mereu disponibile.",
+    "hu": "A személyes támogatás nem része. A GYIK és a súgócikkek mindig elérhetők.",
+    "da": "Personlig support er ikke inkluderet. FAQ og hjælpeartikler er altid tilgængelige."
   },
   {
     "key": "pricing.tier.premium.name",
@@ -957,7 +1432,12 @@
     "nl": "Premium Plan",
     "pl": "Premium Plan",
     "fr": "Plan Premium",
-    "it": "Premium Plan"
+    "it": "Premium Plan",
+    "cs": "Plán Premium",
+    "sk": "Premium Plan",
+    "ro": "Premium Plan",
+    "hu": "Premium csomag",
+    "da": "Premium-plan"
   },
   {
     "key": "pricing.tier.premium.cta",
@@ -967,7 +1447,12 @@
     "nl": "Kies Premium",
     "pl": "Przejdź na Premium",
     "fr": "Choisir Premium",
-    "it": "Scegli Premium"
+    "it": "Scegli Premium",
+    "cs": "Přejít na Premium",
+    "sk": "Prejdi na Premium",
+    "ro": "Alege Premium",
+    "hu": "Váltás Premiumra",
+    "da": "Vælg Premium"
   },
   {
     "key": "pricing.tier.premium.feature.1.title",
@@ -977,17 +1462,27 @@
     "nl": "SigiVision<sup style=\"font-size:9px\">™</sup> Directe Herkenning",
     "pl": "Natychmiastowe rozpoznawanie SigiVision<sup style=\"font-size:9px\">™</sup>",
     "fr": "Reconnaissance instantanée SigiVision<sup style=\"font-size:9px\">™</sup>",
-    "it": "Riconoscimento istantaneo SigiVision<sup style=\"font-size:9px\">™</sup>"
+    "it": "Riconoscimento istantaneo SigiVision<sup style=\"font-size:9px\">™</sup>",
+    "cs": "Okamžité rozpoznávání SigiVision<sup style=\"font-size:9px\">™</sup>",
+    "sk": "Okamžité rozpoznávanie SigiVision<sup style=\"font-size:9px\">™</sup>",
+    "ro": "Recunoaștere instantanee SigiVision<sup style=\"font-size:9px\">™</sup>",
+    "hu": "SigiVision<sup style=\"font-size:9px\">™</sup> azonnali felismerés",
+    "da": "Øjeblikkelig SigiVision<sup style=\"font-size:9px\">™</sup>-genkendelse"
   },
   {
     "key": "pricing.tier.premium.feature.1.desc",
     "section/location": "Pricing — Premium feature 1 desc",
     "en": "Identify your stamps with 98% accuracy in under 1 second — no waiting around.",
-    "de": "Identifiziere deine Briefmarken mit einer Genauigkeit von 98 % in weniger als 1 Sekunde – ganz ohne Wartezeit.",
+    "de": "Identifiziere deine Briefmarken mit einer Genauigkeit von 98 % in weniger als 1 Sekunde – ganz ohne Wartezeit.",
     "nl": "Identificeer jouw postzegels met een nauwkeurigheid van 98% in minder dan 1 seconde — zonder wachttijd.",
     "pl": "Zidentyfikuj swój znaczek z 98% dokładnością w mniej niż 1 sekundę – bez czekania.",
-    "fr": "Identifie tes timbres avec une précision de 98 % en moins d'une seconde — pas besoin d'attendre.",
-    "it": "Identifica i tuoi francobolli con una precisione del 98% in meno di 1 secondo — senza attese."
+    "fr": "Identifie tes timbres avec une précision de 98 % en moins d'une seconde — pas besoin d'attendre.",
+    "it": "Identifica i tuoi francobolli con una precisione del 98% in meno di 1 secondo — senza attese.",
+    "cs": "Identifikuj své známky s 98% přesností za méně než 1 sekundu – bez čekání.",
+    "sk": "Identifikuj svoje známky s 98% presnosťou za menej než 1 sekundu — bez čakania.",
+    "ro": "Identifică-ți timbrele cu o precizie de 98% în mai puțin de o secundă — fără așteptare.",
+    "hu": "Azonosítsd a bélyegeidet 98%-os pontossággal, 1 másodpercen belül – várakozás nélkül.",
+    "da": "Identificer dine frimærker med 98% nøjagtighed på under 1 sekund – helt uden ventetid."
   },
   {
     "key": "pricing.tier.premium.feature.2.title",
@@ -997,7 +1492,12 @@
     "nl": "Onbeperkt aantal enkele scans",
     "pl": "Nieograniczona liczba skanowań pojedynczych",
     "fr": "Scans individuels illimités",
-    "it": "Scansioni singole illimitate"
+    "it": "Scansioni singole illimitate",
+    "cs": "Neomezené jednotlivé skenování",
+    "sk": "Neobmedzené jednotlivé skenovania",
+    "ro": "Scanări individuale nelimitate",
+    "hu": "Korlátlan egyedi szkennelés",
+    "da": "Ubegrænsede enkeltscanninger"
   },
   {
     "key": "pricing.tier.premium.feature.2.desc",
@@ -1007,7 +1507,12 @@
     "nl": "Scan zoveel postzegels als je wilt, één voor één — zonder dagelijkse of maandelijkse limieten.",
     "pl": "Skanuj tyle znaczków, ile chcesz, po jednym na raz — bez dziennych ani miesięcznych limitów.",
     "fr": "Numérise autant de timbres que tu veux, un par un — sans limite quotidienne ou mensuelle.",
-    "it": "Scansiona tutti i francobolli che vuoi, uno alla volta — senza limiti giornalieri o mensili."
+    "it": "Scansiona tutti i francobolli che vuoi, uno alla volta — senza limiti giornalieri o mensili.",
+    "cs": "Skenuj tolik známek, kolik chceš, jednu po druhé — bez denních i měsíčních limitů.",
+    "sk": "Skenuj toľko známok, koľko chceš, jednu po druhej — bez denných či mesačných limitov.",
+    "ro": "Scanează câte timbre vrei, unul câte unul — fără limite zilnice sau lunare.",
+    "hu": "Szkennelj annyi bélyeget, amennyit csak szeretnél, egyesével – napi és havi korlát nélkül.",
+    "da": "Scan lige så mange frimærker, du vil, ét ad gangen – uden daglige eller månedlige grænser."
   },
   {
     "key": "pricing.tier.premium.feature.3.title",
@@ -1017,7 +1522,12 @@
     "nl": "Beperkte groepsscan",
     "pl": "Ograniczone skanowanie grupowe",
     "fr": "Numérisation multiple limitée",
-    "it": "Scansione multipla limitata"
+    "it": "Scansione multipla limitata",
+    "cs": "Omezené hromadné skenování",
+    "sk": "Obmedzené hromadné skenovanie",
+    "ro": "Scanare multiplă limitată",
+    "hu": "Korlátozott tömeges szkennelés",
+    "da": "Begrænset massescanning"
   },
   {
     "key": "pricing.tier.premium.feature.3.desc",
@@ -1027,7 +1537,12 @@
     "nl": "Pagina's met meerdere postzegels scannen met automatische bijsnijding en identificatie, tot 5 pagina's per maand.",
     "pl": "Skanuj strony z wieloma znaczkami z automatycznym kadrowaniem i identyfikacją znaczków, do 5 stron miesięcznie.",
     "fr": "Numérise des pages contenant plusieurs timbres avec recadrage automatique et identification du catalogue, jusqu'à 5 pages par mois.",
-    "it": "Scansiona pagine con più francobolli con ritaglio automatico e identificazione del catalogo, fino a 5 pagine al mese."
+    "it": "Scansiona pagine con più francobolli con ritaglio automatico e identificazione del catalogo, fino a 5 pagine al mese.",
+    "cs": "Skenuj listy s více známkami s automatickým ořezem a spárováním s katalogem, až 5 listů měsíčně.",
+    "sk": "Skenuj strany s viacerými známkami s automatickým orezaním a priradením ku katalógu, až 5 strán mesačne.",
+    "ro": "Scanează pagini cu mai multe timbre, cu decupare automată și identificare în catalog, până la 5 pagini pe lună.",
+    "hu": "Szkennelj több bélyeget tartalmazó lapokat automatikus kivágással és katalógusazonosítással, havonta legfeljebb 5 lapot.",
+    "da": "Scan sider med flere frimærker med automatisk beskæring og identifikation – op til 5 sider om måneden."
   },
   {
     "key": "pricing.tier.premium.feature.4.title",
@@ -1037,7 +1552,12 @@
     "nl": "Persoonlijke verzamelingsgeschiedenis",
     "pl": "Osobista historia kolekcji",
     "fr": "Historique de ta collection",
-    "it": "Cronologia della tua collezione"
+    "it": "Cronologia della tua collezione",
+    "cs": "Osobní historie sbírky",
+    "sk": "Osobná história zbierky",
+    "ro": "Istoricul colecției tale",
+    "hu": "Személyes gyűjteménytörténet",
+    "da": "Personlig samlingshistorik"
   },
   {
     "key": "pricing.tier.premium.feature.4.desc",
@@ -1047,7 +1567,12 @@
     "nl": "Al je scans worden automatisch opgeslagen, zodat je ze op elk moment gemakkelijk kunt terugkijken, ordenen of opnieuw controleren.",
     "pl": "Wszystkie Twoje skany są zapisywane automatycznie, dzięki czemu w każdej chwili możesz do nich wrócić, uporządkować je lub ponownie sprawdzić szczegóły.",
     "fr": "Tous tes scans sont enregistrés automatiquement, ce qui te permet de les consulter, de les organiser ou de vérifier à nouveau les détails à tout moment.",
-    "it": "Tutte le tue scansioni vengono salvate automaticamente, così puoi rivederle, organizzarle o ricontrollarne i dettagli in qualsiasi momento."
+    "it": "Tutte le tue scansioni vengono salvate automaticamente, così puoi rivederle, organizzarle o ricontrollarne i dettagli in qualsiasi momento.",
+    "cs": "Všechny tvoje skeny se ukládají automaticky, takže se k nim kdykoli vrátíš, uspořádáš je nebo si znovu ověříš podrobnosti.",
+    "sk": "Všetky tvoje skeny sa ukladajú automaticky, takže sa k nim môžeš kedykoľvek vrátiť, usporiadať ich alebo si znova overiť podrobnosti.",
+    "ro": "Toate scanările tale se salvează automat, așa că le poți revedea, organiza sau verifica din nou oricând.",
+    "hu": "Minden szkennelésedet automatikusan elmentjük, így bármikor könnyen visszatérhetsz hozzájuk, rendszerezheted őket vagy újra ellenőrizheted az adatokat.",
+    "da": "Alle dine scanninger gemmes automatisk, så du nemt kan se dem igen, organisere dem eller tjekke detaljerne når som helst."
   },
   {
     "key": "pricing.tier.premium.feature.5.title",
@@ -1057,7 +1582,12 @@
     "nl": "Vroege toegang tot nieuwe functies",
     "pl": "Wczesny dostęp do nowych funkcji",
     "fr": "Accès anticipé aux nouvelles fonctionnalités",
-    "it": "Accesso anticipato alle nuove funzionalità"
+    "it": "Accesso anticipato alle nuove funzionalità",
+    "cs": "Přednostní přístup k novým funkcím",
+    "sk": "Skorý prístup k novým funkciám",
+    "ro": "Acces anticipat la funcționalități noi",
+    "hu": "Korai hozzáférés az új funkciókhoz",
+    "da": "Tidlig adgang til nye funktioner"
   },
   {
     "key": "pricing.tier.premium.feature.5.desc",
@@ -1067,7 +1597,12 @@
     "nl": "Wees een van de eersten die nieuwe verzamelaarstools uitprobeert zodra ze uitkomen.",
     "pl": "Bądź jednym z pierwszych, którzy testują nowe funkcje dla kolekcjonerów, gdy tylko się pojawiają.",
     "fr": "Sois parmi les premiers à essayer les prochains outils pour collectionneurs dès leur sortie.",
-    "it": "Sii tra i primi a provare le nuove funzionalità per collezionisti non appena vengono rilasciate."
+    "it": "Sii tra i primi a provare le nuove funzionalità per collezionisti non appena vengono rilasciate.",
+    "cs": "Buď mezi prvními, kdo vyzkouší nové sběratelské funkce hned, jak vyjdou.",
+    "sk": "Buď medzi prvými, ktorí vyskúšajú nové nástroje pre zberateľov, hneď ako vyjdú.",
+    "ro": "Încearcă noile funcționalități pentru colecționari imediat ce apar, înaintea celorlalți.",
+    "hu": "Legyél az elsők között, akik kipróbálják az új gyűjtői eszközöket, amint megjelennek.",
+    "da": "Vær blandt de første til at prøve nye samlerværktøjer, så snart de udkommer."
   },
   {
     "key": "pricing.tier.pro.name",
@@ -1077,7 +1612,12 @@
     "nl": "Professional Plan",
     "pl": "Professional Plan",
     "fr": "Plan Professional",
-    "it": "Professional Plan"
+    "it": "Professional Plan",
+    "cs": "Plán Professional",
+    "sk": "Professional Plan",
+    "ro": "Professional Plan",
+    "hu": "Professional csomag",
+    "da": "Professional-plan"
   },
   {
     "key": "pricing.tier.pro.includes_everything",
@@ -1087,7 +1627,12 @@
     "nl": "Bevat alles van Premium, plus:",
     "pl": "Obejmuje wszystko, co jest w pakiecie Premium, plus:",
     "fr": "Comprend tout ce qui est inclus dans la version Premium, plus :",
-    "it": "Include tutto ciò che è presente nella versione Premium, più:"
+    "it": "Include tutto ciò che è presente nella versione Premium, più:",
+    "cs": "Obsahuje vše z plánu Premium a navíc:",
+    "sk": "Obsahuje všetko z Premium a navyše:",
+    "ro": "Include tot ce oferă Premium, plus:",
+    "hu": "Mindent tartalmaz a Premium csomagból, és ezen felül:",
+    "da": "Indeholder alt i Premium, plus:"
   },
   {
     "key": "pricing.tier.pro.cta",
@@ -1097,7 +1642,12 @@
     "nl": "Kies Professional",
     "pl": "Przejdź na Professional",
     "fr": "Choisir Professional",
-    "it": "Scegli Professional"
+    "it": "Scegli Professional",
+    "cs": "Přejít na Professional",
+    "sk": "Prejdi na Professional",
+    "ro": "Alege Professional",
+    "hu": "Váltás Professionalra",
+    "da": "Vælg Professional"
   },
   {
     "key": "pricing.tier.pro.feature.1.title",
@@ -1107,17 +1657,27 @@
     "nl": "SigiVision<sup style=\"font-size:9px\">™</sup> Pro Herkenning",
     "pl": "Rozpoznawanie SigiVision<sup style=\"font-size:9px\">™</sup> Pro",
     "fr": "Reconnaissance Pro SigiVision<sup style=\"font-size:9px\">™</sup>",
-    "it": "Riconoscimento Pro SigiVision<sup style=\"font-size:9px\">™</sup>"
+    "it": "Riconoscimento Pro SigiVision<sup style=\"font-size:9px\">™</sup>",
+    "cs": "Rozpoznávání SigiVision<sup style=\"font-size:9px\">™</sup> Pro",
+    "sk": "Rozpoznávanie SigiVision<sup style=\"font-size:9px\">™</sup> Pro",
+    "ro": "Recunoaștere Pro SigiVision<sup style=\"font-size:9px\">™</sup>",
+    "hu": "SigiVision<sup style=\"font-size:9px\">™</sup> Pro felismerés",
+    "da": "SigiVision<sup style=\"font-size:9px\">™</sup>-Pro-genkendelse"
   },
   {
     "key": "pricing.tier.pro.feature.1.desc",
     "section/location": "Pricing — Pro feature 1 desc",
     "en": "Our most powerful recognition engine — 98% accuracy in under 1 second for the best possible matches.",
-    "de": "Unsere leistungsstärkste Erkennung – 98 % Genauigkeit in weniger als 1 Sekunde für die bestmöglichen Treffer.",
+    "de": "Unsere leistungsstärkste Erkennung – 98 % Genauigkeit in weniger als 1 Sekunde für die bestmöglichen Treffer.",
     "nl": "Onze krachtigste herkenning — 98% nauwkeurigheid in minder dan 1 seconde voor de best mogelijke resultaten.",
     "pl": "Nasza najlepsza technologia rozpoznawania — 98% dokładności w mniej niż 1 sekundę, zapewniająca najlepsze możliwe dopasowania.",
-    "fr": "Notre technologie de reconnaissance la plus performante : une précision de 98 % en moins d'une seconde pour les meilleurs résultats possibles.",
-    "it": "La nostra tecnologia di riconoscimento più potente: precisione del 98% in meno di 1 secondo per i migliori risultati possibili."
+    "fr": "Notre technologie de reconnaissance la plus performante : une précision de 98 % en moins d'une seconde pour les meilleurs résultats possibles.",
+    "it": "La nostra tecnologia di riconoscimento più potente: precisione del 98% in meno di 1 secondo per i migliori risultati possibili.",
+    "cs": "Naše nejvýkonnější rozpoznávání – 98% přesnost za méně než 1 sekundu pro nejlepší možné shody.",
+    "sk": "Naše najvýkonnejšie rozpoznávanie — 98% presnosť za menej než 1 sekundu pre čo najlepšie zhody.",
+    "ro": "Cea mai puternică tehnologie de recunoaștere pe care o avem — precizie de 98% în mai puțin de o secundă, pentru cele mai bune potriviri posibile.",
+    "hu": "A legerősebb felismerő rendszerünk — 98%-os pontosság 1 másodpercen belül, a lehető legjobb találatokért.",
+    "da": "Vores stærkeste genkendelse – 98% nøjagtighed på under 1 sekund for de bedst mulige træf."
   },
   {
     "key": "pricing.tier.pro.feature.2.title",
@@ -1127,7 +1687,12 @@
     "nl": "Onbeperkt groepsscan",
     "pl": "Nieograniczone skanowanie grupowe",
     "fr": "Numérisation multiple illimitée",
-    "it": "Scansione multipla illimitata"
+    "it": "Scansione multipla illimitata",
+    "cs": "Neomezené hromadné skenování",
+    "sk": "Neobmedzené hromadné skenovanie",
+    "ro": "Scanare multiplă nelimitată",
+    "hu": "Korlátlan tömeges szkennelés",
+    "da": "Ubegrænset massescanning"
   },
   {
     "key": "pricing.tier.pro.feature.2.desc",
@@ -1137,7 +1702,12 @@
     "nl": "Detecteer meerdere postzegels op één pagina met automatisch bijsnijden en identificatie. Geen limieten.",
     "pl": "Wykrywaj wiele znaczków na jednej stronie dzięki automatycznemu kadrowaniu i identyfikacji znaczków. Bez ograniczeń.",
     "fr": "Détecte plusieurs timbres sur une même page grâce au recadrage automatique et à l'identification automatique. Sans aucune limite.",
-    "it": "Rileva più francobolli su una singola pagina con ritaglio automatico e identificazione del catalogo. Senza limiti."
+    "it": "Rileva più francobolli su una singola pagina con ritaglio automatico e identificazione del catalogo. Senza limiti.",
+    "cs": "Rozpoznej více známek na jednom listu s automatickým ořezem a spárováním s katalogem. Bez omezení.",
+    "sk": "Rozpoznaj viacero známok na jednej strane s automatickým orezaním a priradením ku katalógu. Bez obmedzení.",
+    "ro": "Detectează mai multe timbre pe o singură pagină, cu decupare automată și identificare în catalog. Fără limite.",
+    "hu": "Ismerj fel több bélyeget egyetlen lapon automatikus kivágással és katalógusazonosítással. Korlátok nélkül.",
+    "da": "Find flere frimærker på én side med automatisk beskæring og identifikation. Ingen grænser."
   },
   {
     "key": "pricing.tier.pro.feature.3.title",
@@ -1147,7 +1717,12 @@
     "nl": "Premium-ondersteuning",
     "pl": "Wsparcie premium",
     "fr": "Assistance Premium",
-    "it": "Assistenza Premium"
+    "it": "Assistenza Premium",
+    "cs": "Podpora Premium",
+    "sk": "Podpora Premium",
+    "ro": "Asistență Premium",
+    "hu": "Premium támogatás",
+    "da": "Premium-support"
   },
   {
     "key": "pricing.tier.pro.feature.3.desc",
@@ -1157,7 +1732,12 @@
     "nl": "E-mailondersteuning met voorrang van ons filatelieteam.",
     "pl": "Priorytetowa pomoc przez e-mail od naszego zespołu filatelistów.",
     "fr": "Assistance prioritaire par e-mail de la part de notre équipe de philatélie.",
-    "it": "Assistenza prioritaria via e-mail da parte del nostro team di filatelia."
+    "it": "Assistenza prioritaria via e-mail da parte del nostro team di filatelia.",
+    "cs": "Přednostní e-mailová pomoc od našeho filatelistického týmu.",
+    "sk": "Prednostná pomoc e-mailom od nášho filatelistického tímu.",
+    "ro": "Ajutor prioritar prin e-mail de la echipa noastră de filatelie.",
+    "hu": "Elsőbbségi e-mailes segítség a filatéliai csapatunktól.",
+    "da": "Prioriteret hjælp på e-mail fra vores filateliteam."
   },
   {
     "key": "press.eyebrow",
@@ -1167,7 +1747,12 @@
     "nl": "Pers",
     "pl": "Prasa",
     "fr": "Presse",
-    "it": "Stampa"
+    "it": "Stampa",
+    "cs": "Tisk",
+    "sk": "Tlač",
+    "ro": "Presă",
+    "hu": "Sajtó",
+    "da": "Presse"
   },
   {
     "key": "press.headline",
@@ -1177,7 +1762,12 @@
     "nl": "In de pers",
     "pl": "Piszą o nas",
     "fr": "Dans la presse écrite",
-    "it": "Ne parlano le riviste"
+    "it": "Ne parlano le riviste",
+    "cs": "Píší o nás",
+    "sk": "Píšu o nás",
+    "ro": "În presa tipărită",
+    "hu": "Rólunk ír a szaksajtó",
+    "da": "Omtalt i fagpressen"
   },
   {
     "key": "press.body",
@@ -1187,7 +1777,12 @@
     "nl": "Erkend door toonaangevende filateliepublicaties.",
     "pl": "Wyróżniani przez wiodące czasopisma filatelistyczne.",
     "fr": "Reconnu par les principales publications philatéliques.",
-    "it": "Riconosciuto dalle principali pubblicazioni filateliche."
+    "it": "Riconosciuto dalle principali pubblicazioni filateliche.",
+    "cs": "Všímají si nás přední filatelistické časopisy.",
+    "sk": "Uznanie od popredných filatelistických časopisov.",
+    "ro": "Recunoscut de principalele publicații filatelice.",
+    "hu": "Vezető filatéliai kiadványok ismerik el.",
+    "da": "Anerkendt af førende filatelimagasiner."
   },
   {
     "key": "press.cta",
@@ -1197,7 +1792,12 @@
     "nl": "Lees het artikel",
     "pl": "Przeczytaj artykuł",
     "fr": "Lire l'article",
-    "it": "Leggi l'articolo"
+    "it": "Leggi l'articolo",
+    "cs": "Přečíst článek",
+    "sk": "Prečítať článok",
+    "ro": "Citește articolul",
+    "hu": "Olvasd el a cikket",
+    "da": "Læs artiklen"
   },
   {
     "key": "press.issue.sbz_2026_03.tag",
@@ -1207,7 +1807,12 @@
     "nl": "SBZ · 03/2026",
     "pl": "SBZ · 03/2026",
     "fr": "SBZ · 03/2026",
-    "it": "SBZ · 03/2026"
+    "it": "SBZ · 03/2026",
+    "cs": "SBZ · 03/2026",
+    "sk": "SBZ · 03/2026",
+    "ro": "SBZ · 03/2026",
+    "hu": "SBZ · 03/2026",
+    "da": "SBZ · 03/2026"
   },
   {
     "key": "press.issue.sbz_2026_03.publication",
@@ -1217,17 +1822,27 @@
     "nl": "Schweizer Briefmarken Zeitung · 03/2026",
     "pl": "Schweizer Briefmarken Zeitung · 03/2026",
     "fr": "Schweizer Briefmarken Zeitung · 03/2026",
-    "it": "Schweizer Briefmarken Zeitung · 03/2026"
+    "it": "Schweizer Briefmarken Zeitung · 03/2026",
+    "cs": "Schweizer Briefmarken Zeitung · 03/2026",
+    "sk": "Schweizer Briefmarken Zeitung · 03/2026",
+    "ro": "Schweizer Briefmarken Zeitung · 03/2026",
+    "hu": "Schweizer Briefmarken Zeitung · 03/2026",
+    "da": "Schweizer Briefmarken Zeitung · 03/2026"
   },
   {
     "key": "press.issue.sbz_2026_03.title",
     "section/location": "Press SBZ 03/2026 — quoted title",
     "en": "\"StampIQ: der digitale Begleiter.\"",
-    "de": "„StampIQ: der digitale Begleiter.\"",
+    "de": "„StampIQ: der digitale Begleiter.“",
     "nl": "\"StampIQ: der digitale Begleiter.\"",
     "pl": "\"StampIQ: der digitale Begleiter.\"",
     "fr": "« StampIQ : der digitale Begleiter. »",
-    "it": "\"StampIQ: der digitale Begleiter.\""
+    "it": "\"StampIQ: der digitale Begleiter.\"",
+    "cs": "„StampIQ: der digitale Begleiter.“",
+    "sk": "„StampIQ: der digitale Begleiter.“",
+    "ro": "„StampIQ: der digitale Begleiter.”",
+    "hu": "„StampIQ: der digitale Begleiter.”",
+    "da": "»StampIQ: der digitale Begleiter.«"
   },
   {
     "key": "press.issue.sbz_2026_03.body",
@@ -1237,7 +1852,12 @@
     "nl": "SBZ — Schweizer Briefmarken Zeitung, het toonaangevende filateliemagazine van Zwitserland — wijdde in het maartnummer van 2026 een artikel aan StampIQ. Een tweepaginaprofiel van de nieuwe metgezel voor verzamelaars uit Zug, de technologie achter SigiVision en de filosofie van een app gebouwd door verzamelaars voor verzamelaars.",
     "pl": "SBZ — Schweizer Briefmarken Zeitung, wiodące szwajcarskie czasopismo filatelistyczne — przedstawiło StampIQ w numerze z marca 2026. Dwustronicowy profil nowego towarzysza kolekcjonera z Zug, technologii stojącej za SigiVision oraz filozofii aplikacji stworzonej przez kolekcjonerów dla kolekcjonerów.",
     "fr": "SBZ — Schweizer Briefmarken Zeitung, le principal magazine philatélique de Suisse — a mis StampIQ à l'honneur dans son édition de mars 2026. Un portrait sur deux pages du nouveau compagnon des collectionneurs venu de Zoug, de la technologie derrière SigiVision et de la philosophie d'une app conçue par des collectionneurs pour des collectionneurs.",
-    "it": "La Schweizer Briefmarken Zeitung — la principale rivista filatelica svizzera — ha dedicato uno spazio a StampIQ nel numero di marzo 2026. Un profilo di due pagine sul nuovo compagno per collezionisti nato a Zugo, sulla tecnologia che alimenta SigiVision e sulla filosofia di un'app creata dai collezionisti per i collezionisti."
+    "it": "La Schweizer Briefmarken Zeitung — la principale rivista filatelica svizzera — ha dedicato uno spazio a StampIQ nel numero di marzo 2026. Un profilo di due pagine sul nuovo compagno per collezionisti nato a Zugo, sulla tecnologia che alimenta SigiVision e sulla filosofia di un'app creata dai collezionisti per i collezionisti.",
+    "cs": "SBZ — Schweizer Briefmarken Zeitung, přední švýcarský filatelistický časopis — představil StampIQ ve svém vydání z března 2026. Dvoustránkový portrét nového sběratelského společníka ze Zugu, technologie za SigiVision a filozofie aplikace, kterou vytvořili sběratelé pro sběratele.",
+    "sk": "SBZ — Schweizer Briefmarken Zeitung, popredný švajčiarsky filatelistický časopis — predstavil StampIQ vo svojom vydaní z marca 2026. Dvojstranový portrét nového zberateľského spoločníka zo Zugu, technológie za SigiVision a filozofie aplikácie, ktorú vytvorili zberatelia pre zberateľov.",
+    "ro": "SBZ — Schweizer Briefmarken Zeitung, principala revistă de filatelie din Elveția — a prezentat StampIQ în numărul din martie 2026. Un portret pe două pagini al noului însoțitor al colecționarilor venit din Zug, al tehnologiei din spatele SigiVision și al filozofiei unei aplicații create de colecționari, pentru colecționari.",
+    "hu": "Az SBZ — a Schweizer Briefmarken Zeitung, Svájc vezető filatéliai magazinja — a 2026. márciusi számában mutatta be a StampIQ-t. Kétoldalas portré a Zugból érkező új gyűjtőtársról, a SigiVision mögötti technológiáról és egy olyan alkalmazás filozófiájáról, amelyet gyűjtők fejlesztettek gyűjtőknek.",
+    "da": "SBZ – Schweizer Briefmarken Zeitung, Schweiz' førende filatelimagasin – omtalte StampIQ i martsnummeret 2026. Et portræt over to sider af den nye samlerfølgesvend fra Zug, teknologien bag SigiVision og filosofien bag en app, der er bygget af samlere for samlere."
   },
   {
     "key": "founder.eyebrow",
@@ -1247,7 +1867,12 @@
     "nl": "Eén gefrustreerde verzamelaar. Eén betere manier",
     "pl": "Jeden sfrustrowany kolekcjoner. Jeden lepszy sposób",
     "fr": "Un collectionneur frustré. Une meilleure approche",
-    "it": "Un collezionista frustrato. Un modo migliore"
+    "it": "Un collezionista frustrato. Un modo migliore",
+    "cs": "Jeden frustrovaný sběratel. Jedna lepší cesta",
+    "sk": "Jeden frustrovaný zberateľ. Jedna lepšia cesta",
+    "ro": "Un colecționar nemulțumit. Un mod mai bun",
+    "hu": "Egy bosszús gyűjtő. Egy jobb megoldás",
+    "da": "Én frustreret samler. Én bedre måde"
   },
   {
     "key": "founder.headline",
@@ -1257,7 +1882,12 @@
     "nl": "Gemaakt door verzamelaars, voor verzamelaars",
     "pl": "Stworzone przez kolekcjonerów, dla kolekcjonerów",
     "fr": "Créé par des collectionneurs, pour des collectionneurs",
-    "it": "Creato da collezionisti, per collezionisti"
+    "it": "Creato da collezionisti, per collezionisti",
+    "cs": "Od sběratelů pro sběratele",
+    "sk": "Vytvorené zberateľmi pre zberateľov",
+    "ro": "Creat de colecționari, pentru colecționari",
+    "hu": "Gyűjtők fejlesztették gyűjtőknek",
+    "da": "Bygget af samlere, for samlere"
   },
   {
     "key": "founder.p1",
@@ -1267,7 +1897,12 @@
     "nl": "StampIQ is ontstaan uit een simpele frustratie: een postzegelverzameling beheren zou geen eindeloze catalogi, handmatig zoeken en giswerk moeten vereisen. Als levenslange verzamelaar wist ik dat er een betere manier moest zijn.",
     "pl": "StampIQ powstało z prostej frustracji: zarządzanie kolekcją znaczków nie powinno wymagać niekończących się katalogów, ręcznych wyszukiwań i domysłów. Jako wieloletni kolekcjoner wiedziałem, że musi istnieć lepszy sposób.",
     "fr": "StampIQ est né d'une simple frustration : gérer une collection de timbres ne devrait pas demander des catalogues interminables, des recherches manuelles et des approximations. En tant que collectionneur de longue date, je savais qu'il y avait une meilleure façon.",
-    "it": "StampIQ nasce da una semplice frustrazione: gestire una collezione di francobolli non dovrebbe richiedere cataloghi infiniti, ricerche manuali e tirare a indovinare. Come collezionista di una vita, sapevo che doveva esserci un modo migliore."
+    "it": "StampIQ nasce da una semplice frustrazione: gestire una collezione di francobolli non dovrebbe richiedere cataloghi infiniti, ricerche manuali e tirare a indovinare. Come collezionista di una vita, sapevo che doveva esserci un modo migliore.",
+    "cs": "StampIQ vznikl z jednoduché frustrace: správa sbírky známek by neměla vyžadovat nekonečné katalogy, ruční vyhledávání a odhadování. Jako celoživotní sběratel jsem věděl, že musí existovat lepší cesta.",
+    "sk": "StampIQ vznikol z jednoduchej frustrácie: spravovanie zbierky známok by si nemalo vyžadovať nekonečné katalógy, ručné vyhľadávanie a hádanie. Ako celoživotný zberateľ som vedel, že musí existovať lepšia cesta.",
+    "ro": "StampIQ s-a născut dintr-o frustrare simplă: gestionarea unei colecții de timbre nu ar trebui să ceară cataloage nesfârșite, căutări manuale și presupuneri. Ca colecționar de-o viață, știam că trebuie să existe o cale mai bună.",
+    "hu": "A StampIQ egy egyszerű bosszúságból született: egy bélyeggyűjtemény kezeléséhez nem kellene végtelen katalógus, kézi keresgélés és találgatás. Egész életemben gyűjtöttem, így tudtam, hogy kell lennie jobb megoldásnak.",
+    "da": "StampIQ udsprang af en simpel frustration: at holde styr på en frimærkesamling bør ikke kræve endeløse kataloger, manuel søgning og gætteri. Som samler gennem hele livet vidste jeg, at der måtte være en bedre måde."
   },
   {
     "key": "founder.p2",
@@ -1277,7 +1912,12 @@
     "nl": "Door mijn passie voor filatelie te combineren met jaren ervaring in tech, is StampIQ de tool geworden die ik zelf had willen hebben toen ik begon met verzamelen.",
     "pl": "Łącząc moją pasję do filatelistyki z latami doświadczenia w technologii, stworzyłem StampIQ — narzędzie, jakiego sam potrzebowałem, gdy zaczynałem kolekcjonować.",
     "fr": "En combinant ma passion pour la philatélie et des années d'expérience dans la tech, j'ai créé l'outil que j'aurais aimé avoir quand j'ai commencé à collectionner : StampIQ.",
-    "it": "Dopo aver unito la mia passione per la filatelia ad anni di esperienza nel mondo della tecnologia, StampIQ è lo strumento che avrei voluto avere quando ho iniziato a collezionare."
+    "it": "Dopo aver unito la mia passione per la filatelia ad anni di esperienza nel mondo della tecnologia, StampIQ è lo strumento che avrei voluto avere quando ho iniziato a collezionare.",
+    "cs": "Spojil jsem svoji vášeň pro filatelii s dlouholetou prací v technologiích a vznikl StampIQ — nástroj, který bych si přál mít, když jsem začínal sbírat.",
+    "sk": "Keď som spojil svoju vášeň pre filateliu s rokmi práce v technológiách, vznikol StampIQ — nástroj, aký som si želal mať, keď som začínal zbierať.",
+    "ro": "După ce am îmbinat pasiunea pentru filatelie cu ani de muncă în tehnologie, StampIQ este instrumentul pe care mi l-aș fi dorit când am început să colecționez.",
+    "hu": "Miután a filatélia iránti szenvedélyemet a technológiában eltöltött évekkel ötvöztem, megszületett a StampIQ — az az eszköz, amelyet magam is szerettem volna, amikor gyűjteni kezdtem.",
+    "da": "Ved at forene min passion for filateli med mange års arbejde inden for teknologi er StampIQ blevet det værktøj, jeg selv ønskede mig, da jeg begyndte at samle."
   },
   {
     "key": "founder.byline",
@@ -1287,7 +1927,12 @@
     "nl": "— Marius Dygudaj, Oprichter",
     "pl": "— Marius Dygudaj, Założyciel",
     "fr": "— Marius Dygudaj, Fondateur",
-    "it": "— Marius Dygudaj, Fondatore"
+    "it": "— Marius Dygudaj, Fondatore",
+    "cs": "— Marius Dygudaj, zakladatel",
+    "sk": "— Marius Dygudaj, zakladateľ",
+    "ro": "— Marius Dygudaj, fondator",
+    "hu": "— Marius Dygudaj, alapító",
+    "da": "– Marius Dygudaj, grundlægger"
   },
   {
     "key": "partner.eyebrow",
@@ -1297,7 +1942,12 @@
     "nl": "Partnerschappen",
     "pl": "Partnerstwa",
     "fr": "Partenariats",
-    "it": "Partnership"
+    "it": "Partnership",
+    "cs": "Partnerství",
+    "sk": "Partnerstvá",
+    "ro": "Parteneriate",
+    "hu": "Partnerségek",
+    "da": "Partnerskaber"
   },
   {
     "key": "partner.headline",
@@ -1307,7 +1957,12 @@
     "nl": "Werk samen met StampIQ",
     "pl": "Zostań partnerem StampIQ",
     "fr": "Deviens partenaire de StampIQ",
-    "it": "Collabora con StampIQ"
+    "it": "Collabora con StampIQ",
+    "cs": "Staň se partnerem StampIQ",
+    "sk": "Staň sa partnerom StampIQ",
+    "ro": "Devino partener StampIQ",
+    "hu": "Legyél a StampIQ partnere",
+    "da": "Bliv partner med StampIQ"
   },
   {
     "key": "partner.body",
@@ -1317,7 +1972,12 @@
     "nl": "We bouwen aan de toekomst van postzegelverzamelen en werken graag samen met handelaren, filatelistische verenigingen, catalogusuitgevers en de bredere verzamelgemeenschap.",
     "pl": "Budujemy przyszłość kolekcjonowania znaczków i chętnie współpracujemy z handlarzami, stowarzyszeniami filatelistycznymi, wydawcami katalogów i szeroką społecznością kolekcjonerską.",
     "fr": "Nous construisons l'avenir de la philatélie et souhaitons collaborer avec les marchands, associations philatéliques, éditeurs de catalogues et la communauté des collectionneurs.",
-    "it": "Stiamo costruendo il futuro della filatelia e vogliamo collaborare con commercianti, associazioni filateliche, editori di cataloghi e l'intera comunità di collezionisti."
+    "it": "Stiamo costruendo il futuro della filatelia e vogliamo collaborare con commercianti, associazioni filateliche, editori di cataloghi e l'intera comunità di collezionisti.",
+    "cs": "Budujeme budoucnost sbírání známek a rádi budeme spolupracovat s obchodníky, filatelistickými spolky, vydavateli katalogů i se širokou sběratelskou komunitou.",
+    "sk": "Budujeme budúcnosť zbierania známok a radi budeme spolupracovať s obchodníkmi, filatelistickými spolkami, vydavateľmi katalógov a so širšou zberateľskou komunitou.",
+    "ro": "Construim viitorul filateliei și ne dorim să colaborăm cu comercianți, asociații filatelice, editori de cataloage și cu întreaga comunitate a colecționarilor.",
+    "hu": "A bélyeggyűjtés jövőjét építjük, és szívesen működünk együtt kereskedőkkel, filatéliai egyesületekkel, katalóguskiadókkal és a tágabb gyűjtői közösséggel.",
+    "da": "Vi bygger fremtidens frimærkesamling og samarbejder gerne med forhandlere, filatelistiske foreninger, katalogudgivere og hele samlerfællesskabet."
   },
   {
     "key": "partner.card.dealers.title",
@@ -1327,7 +1987,12 @@
     "nl": "Voor postzegelhandelaars",
     "pl": "Dla handlarzy znaczkami",
     "fr": "Pour les marchands de timbres",
-    "it": "Per i commercianti di francobolli"
+    "it": "Per i commercianti di francobolli",
+    "cs": "Pro obchodníky se známkami",
+    "sk": "Pre obchodníkov so známkami",
+    "ro": "Pentru comercianții de timbre",
+    "hu": "Bélyegkereskedőknek",
+    "da": "For frimærkehandlere"
   },
   {
     "key": "partner.card.dealers.desc",
@@ -1337,7 +2002,12 @@
     "nl": "Werk met ons samen om betrokken verzamelaars te bereiken en je voorraad te integreren op ons platform.",
     "pl": "Współpracuj z nami, aby dotrzeć do zaangażowanych kolekcjonerów i zintegrować swoją ofertę z naszą platformą.",
     "fr": "Collabore avec nous pour atteindre des collectionneurs engagés et intégrer ton stock à notre plateforme.",
-    "it": "Collabora con noi per raggiungere collezionisti appassionati e integrare il tuo inventario nella nostra piattaforma."
+    "it": "Collabora con noi per raggiungere collezionisti appassionati e integrare il tuo inventario nella nostra piattaforma.",
+    "cs": "Spoj se s námi, oslov aktivní sběratele a propoj svou nabídku s naší platformou.",
+    "sk": "Spolupracuj s nami — oslovíš zanietených zberateľov a svoj sortiment prepojíš s našou platformou.",
+    "ro": "Colaborează cu noi ca să ajungi la colecționari pasionați și să îți integrezi stocul în platforma noastră.",
+    "hu": "Dolgozz velünk együtt, hogy elérd az elkötelezett gyűjtőket, és integráld a kínálatod a platformunkba.",
+    "da": "Samarbejd med os om at nå engagerede samlere og integrere dit varelager i vores platform."
   },
   {
     "key": "partner.card.associations.title",
@@ -1347,7 +2017,12 @@
     "nl": "Voor filatelistische verenigingen",
     "pl": "Dla stowarzyszeń filatelistycznych",
     "fr": "Pour les associations philatéliques",
-    "it": "Per le associazioni filateliche"
+    "it": "Per le associazioni filateliche",
+    "cs": "Pro filatelistické spolky",
+    "sk": "Pre filatelistické spolky",
+    "ro": "Pentru asociațiile filatelice",
+    "hu": "Filatéliai egyesületeknek",
+    "da": "For filatelistiske foreninger"
   },
   {
     "key": "partner.card.associations.desc",
@@ -1357,7 +2032,12 @@
     "nl": "Breng digitale tools naar je leden en help de verzamelgemeenschap groeien.",
     "pl": "Wspólnie wprowadzajmy narzędzia cyfrowe dla członków i rozwijajmy społeczność kolekcjonerską.",
     "fr": "Apporte des outils numériques à tes membres et contribue à développer la communauté.",
-    "it": "Porta strumenti digitali ai tuoi membri e aiuta a far crescere la comunità dei collezionisti."
+    "it": "Porta strumenti digitali ai tuoi membri e aiuta a far crescere la comunità dei collezionisti.",
+    "cs": "Přinesme společně digitální nástroje tvým členům a rozšiřme sběratelskou komunitu.",
+    "sk": "Spoločne prinesme digitálne nástroje tvojim členom a rozšírme zberateľskú komunitu.",
+    "ro": "Colaborează cu noi ca să aduci instrumente digitale membrilor tăi și să ajuți la creșterea comunității colecționarilor.",
+    "hu": "Hozzuk el közösen a digitális eszközöket a tagjaidnak, és növeljük együtt a gyűjtői közösséget.",
+    "da": "Giv sammen med os dine medlemmer digitale værktøjer, og styrk samlerfællesskabet."
   },
   {
     "key": "partner.card.publishers.title",
@@ -1367,7 +2047,12 @@
     "nl": "Voor catalogusuitgevers",
     "pl": "Dla wydawców katalogów",
     "fr": "Pour les éditeurs de catalogues",
-    "it": "Per gli editori di cataloghi"
+    "it": "Per gli editori di cataloghi",
+    "cs": "Pro vydavatele katalogů",
+    "sk": "Pre vydavateľov katalógov",
+    "ro": "Pentru editorii de cataloage",
+    "hu": "Katalóguskiadóknak",
+    "da": "For katalogudgivere"
   },
   {
     "key": "partner.card.publishers.desc",
@@ -1377,7 +2062,12 @@
     "nl": "Werk met ons om je catalogi in een modern en toegankelijk digitaal formaat te brengen.",
     "pl": "Udostępnij swoje katalogi kolekcjonerom w nowoczesnej, dostępnej formie cyfrowej.",
     "fr": "Participe avec nous à rendre tes catalogues accessibles dans un format moderne et numérique.",
-    "it": "Lavora con noi per portare i tuoi cataloghi in formato moderno e digitale."
+    "it": "Lavora con noi per portare i tuoi cataloghi in formato moderno e digitale.",
+    "cs": "Zpřístupni své katalogy sběratelům v moderní, dostupné podobě.",
+    "sk": "Spolupracuj s nami a sprístupni svoje katalógy zberateľom v modernej, dostupnej podobe.",
+    "ro": "Lucrează cu noi ca să îți aduci cataloagele la colecționari într-un format modern și accesibil.",
+    "hu": "Dolgozz velünk, hogy a katalógusaid modern, könnyen elérhető formában jussanak el a gyűjtőkhöz.",
+    "da": "Arbejd sammen med os om at bringe dine kataloger ud til samlerne i et moderne og tilgængeligt format."
   },
   {
     "key": "partner.card.press.title",
@@ -1387,7 +2077,12 @@
     "nl": "Voor pers en media",
     "pl": "Dla mediów",
     "fr": "Pour la presse et les médias",
-    "it": "Per la stampa e i media"
+    "it": "Per la stampa e i media",
+    "cs": "Pro tisk a média",
+    "sk": "Pre médiá a tlač",
+    "ro": "Pentru presă și media",
+    "hu": "Sajtónak és médiának",
+    "da": "For presse og medier"
   },
   {
     "key": "partner.card.press.desc",
@@ -1397,7 +2092,12 @@
     "nl": "Neem contact op voor persmateriaal, interviews en exclusieve updates.",
     "pl": "Skontaktuj się z nami w sprawie materiałów prasowych, wywiadów i ekskluzywnych aktualizacji.",
     "fr": "Contacte-nous pour recevoir des dossiers de presse, des interviews et des mises à jour exclusives.",
-    "it": "Contattaci per materiali stampa, interviste e aggiornamenti esclusivi."
+    "it": "Contattaci per materiali stampa, interviste e aggiornamenti esclusivi.",
+    "cs": "Ozvi se nám kvůli tiskovým materiálům, rozhovorům a exkluzivním novinkám.",
+    "sk": "Ozvi sa nám pre tlačové materiály, rozhovory a exkluzívne novinky.",
+    "ro": "Contactează-ne pentru materiale de presă, interviuri și noutăți exclusive.",
+    "hu": "Vedd fel velünk a kapcsolatot sajtóanyagokért, interjúkért és exkluzív hírekért.",
+    "da": "Kontakt os for pressemateriale, interviews og eksklusive nyheder."
   },
   {
     "key": "partner.cta",
@@ -1407,7 +2107,12 @@
     "nl": "Neem contact op",
     "pl": "Skontaktuj się z nami",
     "fr": "Nous contacter",
-    "it": "Contattaci"
+    "it": "Contattaci",
+    "cs": "Kontaktuj nás",
+    "sk": "Napíš nám o partnerstve",
+    "ro": "Contactează-ne pentru parteneriate",
+    "hu": "Lépj velünk kapcsolatba",
+    "da": "Kontakt os om partnerskaber"
   },
   {
     "key": "faq.eyebrow",
@@ -1417,7 +2122,12 @@
     "nl": "FAQ",
     "pl": "FAQ",
     "fr": "FAQ",
-    "it": "FAQ"
+    "it": "FAQ",
+    "cs": "FAQ",
+    "sk": "FAQ",
+    "ro": "FAQ",
+    "hu": "FAQ",
+    "da": "FAQ"
   },
   {
     "key": "faq.headline",
@@ -1427,7 +2137,12 @@
     "nl": "Antwoord op je vragen",
     "pl": "Pytania? Mamy odpowiedzi",
     "fr": "Tes questions, nos réponses",
-    "it": "Domande e risposte"
+    "it": "Domande e risposte",
+    "cs": "Otázky a odpovědi",
+    "sk": "Otázky? Máme odpovede",
+    "ro": "Răspunsuri la întrebările tale",
+    "hu": "Válaszok a kérdéseidre",
+    "da": "Svar på dine spørgsmål"
   },
   {
     "key": "faq.q.countries",
@@ -1437,7 +2152,12 @@
     "nl": "Postzegels van welke landen kan StampIQ identificeren?",
     "pl": "Znaczki jakich krajów rozpoznaje StampIQ?",
     "fr": "Les timbres de quels pays StampIQ peut-il identifier ?",
-    "it": "Di quali paesi può identificare i francobolli StampIQ?"
+    "it": "Di quali paesi può identificare i francobolli StampIQ?",
+    "cs": "Známky kterých zemí StampIQ rozpozná?",
+    "sk": "Známky ktorých krajín StampIQ rozpozná?",
+    "ro": "Timbrele căror țări le poate identifica StampIQ?",
+    "hu": "Mely országok bélyegeit ismeri fel a StampIQ?",
+    "da": "Hvilke landes frimærker kan StampIQ identificere?"
   },
   {
     "key": "faq.a.countries",
@@ -1447,7 +2167,12 @@
     "nl": "Zwitserland, Duitsland, Oostenrijk, Liechtenstein, Nederland en Polen. Tsjechië, Frankrijk, Slowakije, Roemenië, België, Italië, Vaticaanstad en Hongarije zijn in ontwikkeling. Elke nieuwe catalogus kondigen we aan zodra die klaar is.",
     "pl": "Szwajcaria, Niemcy, Austria, Liechtenstein, Holandia i Polska. W przygotowaniu są Czechy, Francja, Słowacja, Rumunia, Belgia, Włochy, Watykan i Węgry. O każdym nowym katalogu informujemy, gdy będzie gotowy.",
     "fr": "Suisse, Allemagne, Autriche, Liechtenstein, Pays-Bas et Pologne. La Tchéquie, la France, la Slovaquie, la Roumanie, la Belgique, l'Italie, le Vatican et la Hongrie sont en cours. Nous annonçons chaque nouveau catalogue dès qu'il est prêt.",
-    "it": "Svizzera, Germania, Austria, Liechtenstein, Paesi Bassi e Polonia. Cechia, Francia, Slovacchia, Romania, Belgio, Italia, Vaticano e Ungheria sono in lavorazione. Annunciamo ogni nuovo catalogo quando è pronto."
+    "it": "Svizzera, Germania, Austria, Liechtenstein, Paesi Bassi e Polonia. Cechia, Francia, Slovacchia, Romania, Belgio, Italia, Vaticano e Ungheria sono in lavorazione. Annunciamo ogni nuovo catalogo quando è pronto.",
+    "cs": "Švýcarsko, Německo, Rakousko, Lichtenštejnsko, Nizozemsko a Polsko. Připravujeme Česko, Francii, Slovensko, Rumunsko, Belgii, Itálii, Vatikán a Maďarsko. Každý nový katalog oznámíme, jakmile bude hotový.",
+    "sk": "Švajčiarsko, Nemecko, Rakúsko, Lichtenštajnsko, Holandsko a Poľsko. Pripravujeme Česko, Francúzsko, Slovensko, Rumunsko, Belgicko, Taliansko, Vatikán a Maďarsko. Každý nový katalóg oznámime, keď bude hotový.",
+    "ro": "Elveția, Germania, Austria, Liechtenstein, Țările de Jos și Polonia. Cehia, Franța, Slovacia, România, Belgia, Italia, Vaticanul și Ungaria sunt în lucru. Anunțăm fiecare catalog nou de îndată ce este gata.",
+    "hu": "Svájc, Németország, Ausztria, Liechtenstein, Hollandia és Lengyelország. Készülőben van Csehország, Franciaország, Szlovákia, Románia, Belgium, Olaszország, Vatikán és Magyarország. Minden új katalógust bejelentünk, amint elkészül.",
+    "da": "Schweiz, Tyskland, Østrig, Liechtenstein, Nederlandene og Polen. Tjekkiet, Frankrig, Slovakiet, Rumænien, Belgien, Italien, Vatikanstaten og Ungarn er undervejs. Vi annoncerer hvert nyt katalog, så snart det er klart."
   },
   {
     "key": "faq.q.accuracy",
@@ -1457,17 +2182,27 @@
     "nl": "Hoe nauwkeurig is de herkenning?",
     "pl": "Jak dokładne jest rozpoznawanie?",
     "fr": "Quelle est la précision de la reconnaissance ?",
-    "it": "Quanto è accurato il riconoscimento?"
+    "it": "Quanto è accurato il riconoscimento?",
+    "cs": "Jak přesné je rozpoznávání?",
+    "sk": "Aké presné je rozpoznávanie?",
+    "ro": "Cât de precisă este recunoașterea?",
+    "hu": "Mennyire pontos a felismerés?",
+    "da": "Hvor præcis er genkendelsen?"
   },
   {
     "key": "faq.a.accuracy",
     "section/location": "FAQ — A: accuracy",
     "en": "SigiVision™ delivers 98% recognition accuracy across supported catalogs, with most identifications completing in under one second.",
-    "de": "SigiVision™ erreicht 98 % Erkennungsgenauigkeit über alle unterstützten Kataloge — die meisten Identifizierungen dauern weniger als eine Sekunde.",
+    "de": "SigiVision™ erreicht 98 % Erkennungsgenauigkeit über alle unterstützten Kataloge — die meisten Identifizierungen dauern weniger als eine Sekunde.",
     "nl": "SigiVision™ levert 98% herkenningsnauwkeurigheid in ondersteunde catalogi, waarbij de meeste identificaties binnen één seconde zijn voltooid.",
     "pl": "SigiVision™ zapewnia 98% dokładności rozpoznawania w obsługiwanych katalogach, a większość identyfikacji kończy się w mniej niż sekundę.",
-    "fr": "SigiVision™ offre une précision de reconnaissance de 98 % sur les catalogues pris en charge, la plupart des identifications étant réalisées en moins d'une seconde.",
-    "it": "SigiVision™ offre una precisione di riconoscimento del 98% sui cataloghi supportati, con la maggior parte delle identificazioni completate in meno di un secondo."
+    "fr": "SigiVision™ offre une précision de reconnaissance de 98 % sur les catalogues pris en charge, la plupart des identifications étant réalisées en moins d'une seconde.",
+    "it": "SigiVision™ offre una precisione di riconoscimento del 98% sui cataloghi supportati, con la maggior parte delle identificazioni completate in meno di un secondo.",
+    "cs": "SigiVision™ dosahuje 98% přesnosti rozpoznávání ve všech podporovaných katalozích a většina identifikací trvá méně než sekundu.",
+    "sk": "SigiVision™ dosahuje 98% presnosť rozpoznávania vo všetkých podporovaných katalógoch, pričom väčšina identifikácií trvá menej než sekundu.",
+    "ro": "SigiVision™ oferă o precizie de recunoaștere de 98% în cataloagele disponibile, iar majoritatea identificărilor se încheie în mai puțin de o secundă.",
+    "hu": "A SigiVision™ 98%-os felismerési pontosságot nyújt a támogatott katalógusokban, és az azonosítások többsége egy másodpercen belül lezajlik.",
+    "da": "SigiVision™ leverer 98% genkendelsesnøjagtighed på tværs af de understøttede kataloger, og de fleste identifikationer er færdige på under et sekund."
   },
   {
     "key": "faq.q.free_version",
@@ -1477,17 +2212,27 @@
     "nl": "Is er een gratis versie?",
     "pl": "Czy istnieje darmowa wersja?",
     "fr": "Existe-t-il une version gratuite ?",
-    "it": "Esiste una versione gratuita?"
+    "it": "Esiste una versione gratuita?",
+    "cs": "Existuje bezplatná verze?",
+    "sk": "Existuje bezplatná verzia?",
+    "ro": "Există o versiune gratuită?",
+    "hu": "Van ingyenes verzió?",
+    "da": "Findes der en gratis version?"
   },
   {
     "key": "faq.a.free_version",
     "section/location": "FAQ — A: free version",
-    "en": "Yes. The free tier lets you try the basics — 5 single scans and 1 bulk scan per month. You see catalog details for the stamps you scan, but not the full catalog. Premium includes one full country catalog (with unlimited single scans inside it), and Professional includes all country catalogs.",
-    "de": "Ja. Mit der kostenlosen Stufe kannst du die Grundfunktionen ausprobieren — 5 Einzelscans und 1 Mehrfach-Scan pro Monat. Du siehst Katalogdetails zu den gescannten Briefmarken, aber nicht den vollständigen Katalog. Premium enthält einen vollständigen Länderkatalog (mit unbegrenzten Einzelscans darin) und Professional umfasst alle Länderkataloge.",
-    "nl": "Ja. Met de gratis versie kun je de basis uitproberen — 5 enkele scans en 1 groepsscan per maand. Je ziet catalogusdetails voor de postzegels die je scant, maar niet de volledige catalogus. Premium bevat één volledige landcatalogus (met onbeperkt aantal enkele scans daarin), en Professional bevat alle landcatalogi.",
-    "pl": "Tak. Plan darmowy pozwala wypróbować podstawy — 5 skanowań pojedynczych i 1 skanowanie grupowe miesięcznie. Widzisz dane katalogowe znaczków, które zeskanujesz, ale nie cały katalog. Premium zawiera jeden pełny katalog krajowy (z nielimitowanymi skanowaniami pojedynczymi w jego ramach), a Professional zawiera wszystkie katalogi krajowe.",
-    "fr": "Oui. Le plan gratuit te permet d'essayer les bases — 5 scans individuels et 1 scan multiple par mois. Tu vois les détails de catalogue pour les timbres que tu scannes, mais pas le catalogue complet. Premium inclut un catalogue national complet (avec scans individuels illimités à l'intérieur), et Professional inclut tous les catalogues nationaux.",
-    "it": "Sì. Il piano gratuito ti permette di provare le funzioni base — 5 scansioni singole e 1 scansione multipla al mese. Vedi i dettagli di catalogo dei francobolli che scansioni, ma non l'intero catalogo. Premium include un catalogo nazionale completo (con scansioni singole illimitate al suo interno), mentre Professional include tutti i cataloghi nazionali."
+    "en": "Yes. The free tier lets you try the basics — 5 single scans and 2 bulk scans per month. You see catalog details for the stamps you scan, but not the full catalog. Premium includes one full country catalog (with unlimited single scans inside it), and Professional includes all country catalogs.",
+    "de": "Ja. Mit der kostenlosen Stufe kannst du die Grundfunktionen ausprobieren — 5 Einzelscans und 2 Mehrfach-Scans pro Monat. Du siehst Katalogdetails zu den gescannten Briefmarken, aber nicht den vollständigen Katalog. Premium enthält einen vollständigen Länderkatalog (mit unbegrenzten Einzelscans darin) und Professional umfasst alle Länderkataloge.",
+    "nl": "Ja. Met de gratis versie kun je de basis uitproberen — 5 enkele scans en 2 groepsscans per maand. Je ziet catalogusdetails voor de postzegels die je scant, maar niet de volledige catalogus. Premium bevat één volledige landcatalogus (met onbeperkt aantal enkele scans daarin), en Professional bevat alle landcatalogi.",
+    "pl": "Tak. Plan darmowy pozwala wypróbować podstawy — 5 skanowań pojedynczych i 2 skanowania grupowe miesięcznie. Widzisz dane katalogowe znaczków, które zeskanujesz, ale nie cały katalog. Premium zawiera jeden pełny katalog krajowy (z nielimitowanymi skanowaniami pojedynczymi w jego ramach), a Professional zawiera wszystkie katalogi krajowe.",
+    "fr": "Oui. Le plan gratuit te permet d'essayer les bases — 5 scans individuels et 2 scans multiples par mois. Tu vois les détails de catalogue pour les timbres que tu scannes, mais pas le catalogue complet. Premium inclut un catalogue national complet (avec scans individuels illimités à l'intérieur), et Professional inclut tous les catalogues nationaux.",
+    "it": "Sì. Il piano gratuito ti permette di provare le funzioni base — 5 scansioni singole e 2 scansioni multiple al mese. Vedi i dettagli di catalogo dei francobolli che scansioni, ma non l'intero catalogo. Premium include un catalogo nazionale completo (con scansioni singole illimitate al suo interno), mentre Professional include tutti i cataloghi nazionali.",
+    "cs": "Ano. V bezplatné verzi si vyzkoušíš základ — 5 jednotlivých skenů a 2 hromadné skeny měsíčně. Vidíš katalogové údaje ke známkám, které naskenuješ, ale ne celý katalog. Premium obsahuje jeden kompletní katalog země (s neomezeným jednotlivým skenováním v něm) a Professional obsahuje všechny katalogy zemí.",
+    "sk": "Áno. V bezplatnom pláne si vyskúšaš základné funkcie — 5 jednotlivých skenovaní a 2 hromadné skenovania mesačne. Vidíš katalógové údaje k známkam, ktoré naskenuješ, ale nie celý katalóg. Premium zahŕňa jeden úplný katalóg jednej krajiny (s neobmedzenými jednotlivými skenovaniami v jeho rámci) a Professional zahŕňa všetky katalógy krajín.",
+    "ro": "Da. Planul gratuit îți permite să încerci funcțiile de bază — 5 scanări individuale și 2 scanări multiple pe lună. Vezi detaliile de catalog pentru timbrele pe care le scanezi, dar nu întregul catalog. Premium include catalogul complet al unei țări (cu scanări individuale nelimitate în interiorul lui), iar Professional include cataloagele tuturor țărilor.",
+    "hu": "Igen. Az ingyenes szinten kipróbálhatod az alapokat — havi 5 egyedi szkennelés és 2 tömeges szkennelés. A beszkennelt bélyegek katalógusadatait látod, a teljes katalógust nem. A Premium egy teljes országkatalógust tartalmaz (azon belül korlátlan egyedi szkenneléssel), a Professional pedig az összes országkatalógust.",
+    "da": "Ja. Med den gratis version kan du prøve det grundlæggende – 5 enkeltscanninger og 2 massescanninger om måneden. Du ser katalogoplysninger om de frimærker, du scanner, men ikke hele kataloget. Premium indeholder ét fuldt landekatalog (med ubegrænsede enkeltscanninger i det), og Professional indeholder alle landekataloger."
   },
   {
     "key": "faq.q.bulk_scan",
@@ -1497,17 +2242,27 @@
     "nl": "Kan ik een hele albumpagina scannen?",
     "pl": "Czy mogę zeskanować całą stronę albumu?",
     "fr": "Puis-je scanner une page d'album entière ?",
-    "it": "Posso scansionare un'intera pagina di album?"
+    "it": "Posso scansionare un'intera pagina di album?",
+    "cs": "Můžu naskenovat celý albový list?",
+    "sk": "Môžem naskenovať celý albumový list?",
+    "ro": "Pot să scanez o filă întreagă de album?",
+    "hu": "Beszkennelhetek egy egész albumlapot?",
+    "da": "Kan jeg scanne en hel albumside?"
   },
   {
     "key": "faq.a.bulk_scan",
     "section/location": "FAQ — A: bulk scan",
-    "en": "Yes — Bulk Scan recognizes multiple stamps at once. Free accounts get 1 bulk scan per month, Premium gets 5, and Professional includes unlimited bulk scanning.",
-    "de": "Ja — der Mehrfach-Scan erkennt mehrere Briefmarken auf einmal. Free-Konten erhalten 1 Mehrfach-Scan pro Monat, Premium 5 und Professional bietet unbegrenztes Mehrfach-Scannen.",
-    "nl": "Ja — Groepsscan herkent meerdere postzegels tegelijk. Gratis accounts krijgen 1 groepsscan per maand, Premium krijgt er 5, en Professional bevat onbeperkt groepsscannen.",
-    "pl": "W planie Free przysługuje 1 skanowanie grupowe miesięcznie, w Premium 5, a Professional oferuje nieograniczone skanowania grupowe.",
-    "fr": "Oui — le scan multiple reconnaît plusieurs timbres à la fois. Les comptes gratuits bénéficient d'1 scan multiple par mois, Premium en a 5, et Professional inclut le scan multiple illimité.",
-    "it": "Sì — la scansione multipla riconosce più francobolli contemporaneamente. Gli account Free hanno 1 scansione multipla al mese, Premium ne ha 5 e Professional include scansioni multiple illimitate."
+    "en": "Yes — Bulk Scan recognizes multiple stamps at once. Free accounts get 2 bulk scans per month, Premium gets 5, and Professional includes unlimited bulk scanning.",
+    "de": "Ja — der Mehrfach-Scan erkennt mehrere Briefmarken auf einmal. Free-Konten erhalten 2 Mehrfach-Scans pro Monat, Premium 5 und Professional bietet unbegrenztes Mehrfach-Scannen.",
+    "nl": "Ja — Groepsscan herkent meerdere postzegels tegelijk. Gratis accounts krijgen 2 groepsscans per maand, Premium krijgt er 5, en Professional bevat onbeperkt groepsscannen.",
+    "pl": "W planie Free przysługują 2 skanowania grupowe miesięcznie, w Premium 5, a Professional oferuje nieograniczone skanowania grupowe.",
+    "fr": "Oui — le scan multiple reconnaît plusieurs timbres à la fois. Les comptes gratuits bénéficient de 2 scans multiples par mois, Premium en a 5, et Professional inclut le scan multiple illimité.",
+    "it": "Sì — la scansione multipla riconosce più francobolli contemporaneamente. Gli account Free hanno 2 scansioni multiple al mese, Premium ne ha 5 e Professional include scansioni multiple illimitate.",
+    "cs": "Ano — hromadné skenování rozpozná více známek naráz. Účty Free mají 2 hromadné skeny měsíčně, Premium 5 a Professional nabízí hromadné skenování bez omezení.",
+    "sk": "Áno — hromadné skenovanie rozpozná viacero známok naraz. Bezplatné účty majú 2 hromadné skenovania mesačne, Premium 5 a Professional zahŕňa neobmedzené hromadné skenovanie.",
+    "ro": "Da — scanarea multiplă recunoaște mai multe timbre deodată. Conturile Free au 2 scanări multiple pe lună, Premium are 5, iar Professional include scanare multiplă nelimitată.",
+    "hu": "Igen — a tömeges szkennelés egyszerre több bélyeget ismer fel. A Free fiókokhoz havi 2 tömeges szkennelés jár, a Premiumhoz 5, a Professional pedig korlátlan tömeges szkennelést kínál.",
+    "da": "Ja – massescanning genkender flere frimærker på én gang. Gratis konti får 2 massescanninger om måneden, Premium får 5, og Professional giver ubegrænset massescanning."
   },
   {
     "key": "faq.q.switch_plans",
@@ -1517,7 +2272,12 @@
     "nl": "Kan ik op elk moment van plan wisselen?",
     "pl": "Czy mogę zmienić plan w dowolnym momencie?",
     "fr": "Puis-je changer d'abonnement à tout moment ?",
-    "it": "Posso cambiare piano in qualsiasi momento?"
+    "it": "Posso cambiare piano in qualsiasi momento?",
+    "cs": "Můžu kdykoli změnit plán?",
+    "sk": "Môžem plán kedykoľvek zmeniť?",
+    "ro": "Pot schimba planul oricând?",
+    "hu": "Válthatok bármikor csomagot?",
+    "da": "Kan jeg skifte plan når som helst?"
   },
   {
     "key": "faq.a.switch_plans",
@@ -1527,7 +2287,12 @@
     "nl": "Ja. Je kunt op elk moment upgraden, downgraden of opzeggen — jouw verzameling, scans en notities blijven altijd bewaard.",
     "pl": "Tak. Możesz w każdej chwili przejść na wyższy lub niższy plan, albo anulować — twoja kolekcja, skany i notatki zawsze pozostają zapisane.",
     "fr": "Oui. Tu peux passer à un plan supérieur, inférieur ou annuler à tout moment — ta collection, tes scans et tes notes restent toujours sauvegardés.",
-    "it": "Sì. Puoi fare upgrade, downgrade o annullare in qualsiasi momento — la tua collezione, le scansioni e le note rimangono sempre salvate."
+    "it": "Sì. Puoi fare upgrade, downgrade o annullare in qualsiasi momento — la tua collezione, le scansioni e le note rimangono sempre salvate.",
+    "cs": "Ano. Kdykoli můžeš přejít na vyšší nebo nižší plán nebo předplatné zrušit — tvoje sbírka, skeny i poznámky zůstávají uložené.",
+    "sk": "Áno. Kedykoľvek môžeš prejsť na vyšší či nižší plán alebo ho zrušiť — tvoja zbierka, skeny a poznámky zostanú vždy uložené.",
+    "ro": "Da. Poți trece la un plan superior sau inferior ori poți renunța oricând — colecția, scanările și notițele tale rămân mereu salvate.",
+    "hu": "Igen. Bármikor válthatsz magasabb vagy alacsonyabb csomagra, vagy lemondhatod az előfizetésedet — a gyűjteményed, a szkenneléseid és a jegyzeteid mindig megmaradnak.",
+    "da": "Ja. Du kan opgradere, nedgradere eller opsige når som helst – din samling, dine scanninger og dine noter bliver altid gemt."
   },
   {
     "key": "faq.q.devices",
@@ -1537,7 +2302,12 @@
     "nl": "Welke apparaten ondersteunt StampIQ?",
     "pl": "Jakie urządzenia obsługuje StampIQ?",
     "fr": "Quels appareils StampIQ prend-il en charge ?",
-    "it": "Quali dispositivi supporta StampIQ?"
+    "it": "Quali dispositivi supporta StampIQ?",
+    "cs": "Jaká zařízení StampIQ podporuje?",
+    "sk": "Aké zariadenia StampIQ podporuje?",
+    "ro": "Pe ce dispozitive funcționează StampIQ?",
+    "hu": "Milyen eszközöket támogat a StampIQ?",
+    "da": "Hvilke enheder understøtter StampIQ?"
   },
   {
     "key": "faq.a.devices",
@@ -1547,7 +2317,12 @@
     "nl": "StampIQ werkt op iOS en Android, op smartphones en tablets, en in elke moderne browser via <a href=\"https://app.stampiq.io\" style=\"color:#4FA902;font-weight:600\">app.stampiq.io</a>. Je verzameling blijft op al je apparaten synchroon.",
     "pl": "StampIQ działa na iOS i Androidzie, na smartfonach i tabletach, a także w każdej nowoczesnej przeglądarce pod adresem <a href=\"https://app.stampiq.io\" style=\"color:#4FA902;font-weight:600\">app.stampiq.io</a>. Twoja kolekcja jest zsynchronizowana na wszystkich urządzeniach.",
     "fr": "StampIQ fonctionne sur iOS et Android, sur smartphones comme sur tablettes, et dans tout navigateur moderne sur <a href=\"https://app.stampiq.io\" style=\"color:#4FA902;font-weight:600\">app.stampiq.io</a>. Ta collection reste synchronisée sur tous tes appareils.",
-    "it": "StampIQ funziona su iOS e Android, su smartphone e tablet, e in qualsiasi browser moderno su <a href=\"https://app.stampiq.io\" style=\"color:#4FA902;font-weight:600\">app.stampiq.io</a>. La tua collezione resta sincronizzata su tutti i dispositivi."
+    "it": "StampIQ funziona su iOS e Android, su smartphone e tablet, e in qualsiasi browser moderno su <a href=\"https://app.stampiq.io\" style=\"color:#4FA902;font-weight:600\">app.stampiq.io</a>. La tua collezione resta sincronizzata su tutti i dispositivi.",
+    "cs": "StampIQ běží na iOS i Androidu, na telefonech i tabletech, a v každém moderním prohlížeči na <a href=\"https://app.stampiq.io\" style=\"color:#4FA902;font-weight:600\">app.stampiq.io</a>. Tvoje sbírka zůstává synchronizovaná na všech zařízeních.",
+    "sk": "StampIQ beží na iOS a Androide, na telefónoch aj tabletoch a v každom modernom prehliadači na <a href=\"https://app.stampiq.io\" style=\"color:#4FA902;font-weight:600\">app.stampiq.io</a>. Tvoja zbierka zostáva synchronizovaná na všetkých zariadeniach.",
+    "ro": "StampIQ funcționează pe iOS și Android, pe telefoane și tablete, și în orice browser modern la <a href=\"https://app.stampiq.io\" style=\"color:#4FA902;font-weight:600\">app.stampiq.io</a>. Colecția ta rămâne sincronizată pe toate.",
+    "hu": "A StampIQ iOS-en és Androidon, telefonon és táblagépen is fut, valamint bármelyik modern böngészőben az <a href=\"https://app.stampiq.io\" style=\"color:#4FA902;font-weight:600\">app.stampiq.io</a> címen. A gyűjteményed mindegyiken szinkronban marad.",
+    "da": "StampIQ kører på iOS og Android, på telefoner og tablets, og i enhver moderne browser på <a href=\"https://app.stampiq.io\" style=\"color:#4FA902;font-weight:600\">app.stampiq.io</a>. Din samling holdes synkroniseret på tværs af dem alle."
   },
   {
     "key": "faq.q.internet",
@@ -1557,7 +2332,12 @@
     "nl": "Heb ik internet nodig om StampIQ te gebruiken?",
     "pl": "Czy do działania StampIQ potrzebny jest internet?",
     "fr": "Faut-il une connexion internet pour utiliser StampIQ ?",
-    "it": "È necessaria una connessione internet per usare StampIQ?"
+    "it": "È necessaria una connessione internet per usare StampIQ?",
+    "cs": "Potřebuju k používání StampIQ internet?",
+    "sk": "Potrebujem na StampIQ internet?",
+    "ro": "Am nevoie de internet ca să folosesc StampIQ?",
+    "hu": "Kell internet a StampIQ használatához?",
+    "da": "Har jeg brug for internet for at bruge StampIQ?"
   },
   {
     "key": "faq.a.internet",
@@ -1567,7 +2347,12 @@
     "nl": "Ja. Een internetverbinding is vereist voor postzegelherkenning en catalogustoegang.",
     "pl": "Tak. Połączenie internetowe jest wymagane do rozpoznawania znaczków i dostępu do katalogów.",
     "fr": "Oui. Une connexion internet est nécessaire pour la reconnaissance des timbres et l'accès au catalogue.",
-    "it": "Sì. È necessaria una connessione a Internet per il riconoscimento dei francobolli e l'accesso al catalogo."
+    "it": "Sì. È necessaria una connessione a Internet per il riconoscimento dei francobolli e l'accesso al catalogo.",
+    "cs": "Ano. Pro rozpoznávání známek a přístup ke katalogům je potřeba připojení k internetu.",
+    "sk": "Áno. Na rozpoznávanie známok a prístup ku katalógom je potrebné internetové pripojenie.",
+    "ro": "Da. Conexiunea la internet este necesară pentru recunoașterea timbrelor și accesul la catalog.",
+    "hu": "Igen. A bélyegfelismeréshez és a katalógus eléréséhez internetkapcsolat szükséges.",
+    "da": "Ja. Der kræves en internetforbindelse til frimærkegenkendelse og katalogadgang."
   },
   {
     "key": "faq.q.languages",
@@ -1577,7 +2362,12 @@
     "nl": "Welke talen ondersteunt de app?",
     "pl": "Jakie języki obsługuje aplikacja?",
     "fr": "Quelles langues l'app prend-elle en charge ?",
-    "it": "Quali lingue supporta l'app?"
+    "it": "Quali lingue supporta l'app?",
+    "cs": "Jaké jazyky aplikace podporuje?",
+    "sk": "Aké jazyky aplikácia podporuje?",
+    "ro": "Ce limbi acceptă aplicația?",
+    "hu": "Milyen nyelveket támogat az alkalmazás?",
+    "da": "Hvilke sprog understøtter appen?"
   },
   {
     "key": "faq.a.languages",
@@ -1587,7 +2377,12 @@
     "nl": "De app is beschikbaar in het Engels, Duits, Frans, Italiaans, Pools en Nederlands.",
     "pl": "Aplikacja jest dostępna w językach angielskim, niemieckim, francuskim, włoskim, polskim i niderlandzkim.",
     "fr": "L'app est disponible en anglais, allemand, français, italien, polonais et néerlandais.",
-    "it": "L'app è disponibile in inglese, tedesco, francese, italiano, polacco e olandese."
+    "it": "L'app è disponibile in inglese, tedesco, francese, italiano, polacco e olandese.",
+    "cs": "Aplikace je dostupná v angličtině, němčině, francouzštině, italštině, polštině a nizozemštině.",
+    "sk": "Aplikácia je dostupná v angličtine, nemčine, francúzštine, taliančine, poľštine a holandčine.",
+    "ro": "Aplicația este disponibilă în engleză, germană, franceză, italiană, poloneză și neerlandeză.",
+    "hu": "Az alkalmazás angol, német, francia, olasz, lengyel és holland nyelven érhető el.",
+    "da": "Appen fås på engelsk, tysk, fransk, italiensk, polsk og nederlandsk."
   },
   {
     "key": "faq.q.storage",
@@ -1597,7 +2392,12 @@
     "nl": "Waar wordt mijn verzameling opgeslagen?",
     "pl": "Gdzie przechowywana jest moja kolekcja?",
     "fr": "Où ma collection est-elle stockée ?",
-    "it": "Dove viene archiviata la mia collezione?"
+    "it": "Dove viene archiviata la mia collezione?",
+    "cs": "Kde je moje sbírka uložená?",
+    "sk": "Kde je uložená moja zbierka?",
+    "ro": "Unde este stocată colecția mea?",
+    "hu": "Hol tárolják a gyűjteményemet?",
+    "da": "Hvor opbevares min samling?"
   },
   {
     "key": "faq.a.storage",
@@ -1607,7 +2407,12 @@
     "nl": "Jouw verzameling, scans en notities worden veilig opgeslagen in de EU en gesynchroniseerd met jouw account. Je gegevens worden nooit verkocht of gedeeld.",
     "pl": "Twoja kolekcja, skany i notatki są bezpiecznie przechowywane w UE i synchronizowane z twoim kontem. Twoje dane nigdy nie są sprzedawane ani udostępniane.",
     "fr": "Ta collection, tes scans et tes notes sont stockés en toute sécurité dans l'UE et synchronisés avec ton compte. Tes données ne sont jamais vendues ni partagées.",
-    "it": "La tua collezione, le scansioni e le note vengono archiviate in modo sicuro nell'UE e sincronizzate con il tuo account. I tuoi dati non vengono mai venduti né condivisi."
+    "it": "La tua collezione, le scansioni e le note vengono archiviate in modo sicuro nell'UE e sincronizzate con il tuo account. I tuoi dati non vengono mai venduti né condivisi.",
+    "cs": "Tvoje sbírka, skeny a poznámky jsou bezpečně uložené v EU a synchronizované s tvým účtem. Tvoje údaje nikdy neprodáváme ani nesdílíme.",
+    "sk": "Tvoja zbierka, skeny a poznámky sú bezpečne uložené v EÚ a synchronizované s tvojím účtom. Tvoje údaje nikdy nepredávame ani neposkytujeme ďalej.",
+    "ro": "Colecția, scanările și notițele tale sunt stocate în siguranță în UE și sincronizate cu contul tău. Datele tale nu sunt niciodată vândute sau partajate.",
+    "hu": "A gyűjteményed, a szkenneléseid és a jegyzeteid biztonságosan, az EU-ban tárolódnak, és szinkronizálódnak a fiókoddal. Az adataidat soha nem adjuk el és nem adjuk tovább.",
+    "da": "Din samling, dine scanninger og dine noter opbevares sikkert i EU og synkroniseres med din konto. Dine data bliver aldrig solgt eller delt."
   },
   {
     "key": "faq.q.privacy",
@@ -1617,7 +2422,12 @@
     "nl": "Zijn mijn gegevens veilig?",
     "pl": "Czy moje dane są bezpieczne?",
     "fr": "Mes données sont-elles sécurisées ?",
-    "it": "I miei dati sono sicuri?"
+    "it": "I miei dati sono sicuri?",
+    "cs": "Jsou moje údaje v bezpečí?",
+    "sk": "Budú moje údaje v bezpečí?",
+    "ro": "Datele mele sunt private?",
+    "hu": "Biztonságban vannak az adataim?",
+    "da": "Er mine data beskyttet?"
   },
   {
     "key": "faq.a.privacy",
@@ -1627,7 +2437,12 @@
     "nl": "Jouw verzameling, scans en notities worden veilig opgeslagen in de EU en nooit verkocht. Om StampIQ te laten werken, worden bepaalde gegevens gedeeld met vertrouwde dienstverleners — bijvoorbeeld AWS voor hosting en OpenAI voor Sigi's AI-chat (chatberichten en een verzamelingssamenvatting). Volledige details, inclusief wat wordt gedeeld en waar, vind je in onze <a href=\"../privacy.html\" target=\"_blank\" rel=\"noopener\" style=\"color:#4FA902;font-weight:600\">privacyverklaring</a>.",
     "pl": "Twoja kolekcja, skany i notatki są bezpiecznie przechowywane w UE i nigdy nie są sprzedawane. Aby StampIQ mógł działać, niektóre dane są udostępniane zaufanym dostawcom usług — na przykład AWS do hostingu i OpenAI do obsługi czatu AI z Sigim (wiadomości czatu i podsumowanie kolekcji). Pełne szczegóły, w tym co i gdzie jest udostępniane, znajdziesz w naszej <a href=\"../privacy.html\" target=\"_blank\" rel=\"noopener\" style=\"color:#4FA902;font-weight:600\">Polityce prywatności</a>.",
     "fr": "Ta collection, tes scans et tes notes sont stockés en toute sécurité dans l'UE et ne sont jamais vendus. Pour faire fonctionner StampIQ, certaines données sont partagées avec des prestataires de confiance — par exemple, AWS pour l'hébergement, et OpenAI pour le chat IA de Sigi (messages de chat et résumé de la collection). Tous les détails, y compris ce qui est partagé et où, figurent dans notre <a href=\"../privacy.html\" target=\"_blank\" rel=\"noopener\" style=\"color:#4FA902;font-weight:600\">politique de confidentialité</a>.",
-    "it": "La tua collezione, le scansioni e le note vengono archiviate in modo sicuro nell'UE e non sono mai vendute. Per far funzionare StampIQ, alcuni dati vengono condivisi con fornitori di servizi affidabili — per esempio, AWS per l'hosting e OpenAI per la chat AI di Sigi (i messaggi della chat e un riepilogo della collezione). Tutti i dettagli, incluso ciò che viene condiviso e dove, sono nella nostra <a href=\"../privacy.html\" target=\"_blank\" rel=\"noopener\" style=\"color:#4FA902;font-weight:600\">Informativa sulla privacy</a>."
+    "it": "La tua collezione, le scansioni e le note vengono archiviate in modo sicuro nell'UE e non sono mai vendute. Per far funzionare StampIQ, alcuni dati vengono condivisi con fornitori di servizi affidabili — per esempio, AWS per l'hosting e OpenAI per la chat AI di Sigi (i messaggi della chat e un riepilogo della collezione). Tutti i dettagli, incluso ciò che viene condiviso e dove, sono nella nostra <a href=\"../privacy.html\" target=\"_blank\" rel=\"noopener\" style=\"color:#4FA902;font-weight:600\">Informativa sulla privacy</a>.",
+    "cs": "Tvoje sbírka, skeny a poznámky jsou bezpečně uložené v EU a nikdy je neprodáváme. Aby StampIQ fungoval, sdílíme některé údaje s důvěryhodnými poskytovateli služeb — například AWS pro hosting a OpenAI pro Sigiho AI chat (zprávy z chatu a přehled sbírky). Všechny podrobnosti, včetně toho, co a kde se sdílí, najdeš v našich <a href=\"../privacy.html\" target=\"_blank\" rel=\"noopener\" style=\"color:#4FA902;font-weight:600\">Zásadách ochrany osobních údajů</a>.",
+    "sk": "Tvoja zbierka, skeny a poznámky sú bezpečne uložené v EÚ a nikdy ich nepredávame. Aby StampIQ fungoval, niektoré údaje zdieľame s dôveryhodnými poskytovateľmi služieb — napríklad s AWS pre hosting a s OpenAI pre Sigiho AI chat (správy z chatu a súhrn zbierky). Všetky podrobnosti vrátane toho, čo a kde sa zdieľa, nájdeš v našich <a href=\"../privacy.html\" target=\"_blank\" rel=\"noopener\" style=\"color:#4FA902;font-weight:600\">Zásadách ochrany osobných údajov</a>.",
+    "ro": "Colecția, scanările și notițele tale sunt stocate în siguranță în UE și nu sunt niciodată vândute. Ca StampIQ să funcționeze, unele date sunt partajate cu furnizori de servicii de încredere — de exemplu, AWS pentru găzduire și OpenAI pentru chatul AI al lui Sigi (mesajele din chat și un rezumat al colecției). Toate detaliile, inclusiv ce se partajează și unde, sunt în <a href=\"../privacy.html\" target=\"_blank\" rel=\"noopener\" style=\"color:#4FA902;font-weight:600\">Politica de confidențialitate</a>.",
+    "hu": "A gyűjteményed, a szkenneléseid és a jegyzeteid biztonságosan, az EU-ban tárolódnak, és soha nem adjuk el őket. Ahhoz, hogy a StampIQ működjön, bizonyos adatokat megbízható szolgáltatókkal is megosztunk — például az AWS-szel a tárhelyszolgáltatáshoz, az OpenAI-jal pedig a Sigi AI-csevegéséhez (csevegőüzenetek és egy összefoglaló a gyűjteményről). A részleteket, köztük azt is, hogy mit és hol osztunk meg, megtalálod az <a href=\"../privacy.html\" target=\"_blank\" rel=\"noopener\" style=\"color:#4FA902;font-weight:600\">Adatvédelmi tájékoztatónkban</a>.",
+    "da": "Din samling, dine scanninger og dine noter opbevares sikkert i EU og bliver aldrig solgt. For at StampIQ kan fungere, deles nogle data med betroede tjenesteudbydere – for eksempel AWS til hosting og OpenAI til Sigis AI-chat (chatbeskeder og et resumé af samlingen). Alle detaljer, herunder hvad der deles og hvor, finder du i vores <a href=\"../privacy.html\" target=\"_blank\" rel=\"noopener\" style=\"color:#4FA902;font-weight:600\">privatlivspolitik</a>."
   },
   {
     "key": "faq.q.export",
@@ -1637,7 +2452,12 @@
     "nl": "Kan ik mijn verzameling exporteren?",
     "pl": "Czy mogę wyeksportować swoją kolekcję?",
     "fr": "Est-ce que je peux exporter ma collection ?",
-    "it": "Posso esportare la mia collezione?"
+    "it": "Posso esportare la mia collezione?",
+    "cs": "Můžu svoji sbírku exportovat?",
+    "sk": "Môžem svoju zbierku exportovať?",
+    "ro": "Pot să îmi export colecția?",
+    "hu": "Exportálhatom a gyűjteményemet?",
+    "da": "Kan jeg eksportere min samling?"
   },
   {
     "key": "faq.a.export",
@@ -1647,7 +2467,12 @@
     "nl": "Professional-gebruikers kunnen verzamelingen exporteren als CSV of PDF. We werken aan extra formaten op basis van verzoeken van verzamelaars.",
     "pl": "Użytkownicy Professional mogą eksportować kolekcje jako CSV lub PDF. Pracujemy nad kolejnymi formatami w odpowiedzi na prośby kolekcjonerów.",
     "fr": "Les utilisateurs Professional peuvent exporter leurs collections au format CSV ou PDF. Nous travaillons sur d'autres formats selon les demandes des collectionneurs.",
-    "it": "Gli utenti Professional possono esportare le collezioni in formato CSV o PDF. Stiamo lavorando ad altri formati in base alle richieste dei collezionisti."
+    "it": "Gli utenti Professional possono esportare le collezioni in formato CSV o PDF. Stiamo lavorando ad altri formati in base alle richieste dei collezionisti.",
+    "cs": "Uživatelé Professional můžou sbírky exportovat jako CSV nebo PDF. Na dalších formátech pracujeme podle přání sběratelů.",
+    "sk": "Používatelia Professional môžu zbierky exportovať ako CSV alebo PDF. Pracujeme na ďalších formátoch podľa požiadaviek zberateľov.",
+    "ro": "Utilizatorii Professional își pot exporta colecțiile în format CSV sau PDF. Lucrăm la formate suplimentare, în funcție de cererile colecționarilor.",
+    "hu": "A Professional felhasználók CSV vagy PDF formátumban exportálhatják a gyűjteményüket. További formátumokon dolgozunk a gyűjtők kérései alapján.",
+    "da": "Professional-brugere kan eksportere samlinger som CSV eller PDF. Vi arbejder på flere formater ud fra samlernes ønsker."
   },
   {
     "key": "faq.q.updates",
@@ -1657,7 +2482,12 @@
     "nl": "Hoe vaak worden er nieuwe functies toegevoegd?",
     "pl": "Jak często dodawane są nowe funkcje?",
     "fr": "À quelle fréquence ajoutes-tu de nouvelles fonctions ?",
-    "it": "Con quale frequenza vengono aggiunte nuove funzioni?"
+    "it": "Con quale frequenza vengono aggiunte nuove funzioni?",
+    "cs": "Jak často přibývají nové funkce?",
+    "sk": "Ako často pribúdajú nové funkcie?",
+    "ro": "Cât de des apar funcționalități noi?",
+    "hu": "Milyen gyakran jelennek meg új funkciók?",
+    "da": "Hvor ofte kommer der nye funktioner?"
   },
   {
     "key": "faq.a.updates",
@@ -1667,7 +2497,12 @@
     "nl": "We voegen regelmatig nieuwe functies toe, op basis van feedback van echte verzamelaars. Laat ons weten wat StampIQ beter kan maken — jouw inbreng bepaalt direct de roadmap.",
     "pl": "Funkcje dodajemy regularnie, kierując się opiniami prawdziwych kolekcjonerów. Powiedz nam, co uczyniłoby StampIQ lepszym — twój głos bezpośrednio kształtuje plany rozwoju.",
     "fr": "Nous ajoutons régulièrement de nouvelles fonctionnalités, guidés par les retours des vrais collectionneurs. Dis-nous ce qui rendrait StampIQ meilleur — ton avis façonne directement la feuille de route.",
-    "it": "Aggiungiamo funzionalità regolarmente, guidati dai feedback dei collezionisti reali. Dicci cosa renderebbe StampIQ migliore — il tuo contributo orienta direttamente la roadmap."
+    "it": "Aggiungiamo funzionalità regolarmente, guidati dai feedback dei collezionisti reali. Dicci cosa renderebbe StampIQ migliore — il tuo contributo orienta direttamente la roadmap.",
+    "cs": "Nové funkce přidáváme pravidelně a řídíme se zpětnou vazbou od skutečných sběratelů. Napiš nám, co by StampIQ zlepšilo — tvoje podněty přímo utvářejí plán vývoje.",
+    "sk": "Funkcie pridávame pravidelne, riadime sa spätnou väzbou od skutočných zberateľov. Napíš nám, čo by StampIQ zlepšilo — tvoje podnety priamo formujú plán vývoja.",
+    "ro": "Adăugăm funcționalități în mod regulat, ghidați de părerile colecționarilor reali. Spune-ne ce ar face StampIQ mai bun — părerea ta modelează direct planul de dezvoltare.",
+    "hu": "Rendszeresen bővítjük a funkciókat, valódi gyűjtők visszajelzései alapján. Mondd el, mitől lenne jobb a StampIQ — a véleményed közvetlenül alakítja a terveinket.",
+    "da": "Vi tilføjer funktioner løbende, styret af feedback fra rigtige samlere. Fortæl os, hvad der ville gøre StampIQ bedre – dit input former vores roadmap direkte."
   },
   {
     "key": "faq.q.support",
@@ -1677,7 +2512,12 @@
     "nl": "Hoe krijg ik ondersteuning?",
     "pl": "Jak uzyskać wsparcie?",
     "fr": "Comment obtenir de l'aide ?",
-    "it": "Come ottengo assistenza?"
+    "it": "Come ottengo assistenza?",
+    "cs": "Jak získám podporu?",
+    "sk": "Ako získam podporu?",
+    "ro": "Cum obțin asistență?",
+    "hu": "Hogyan kaphatok segítséget?",
+    "da": "Hvordan får jeg support?"
   },
   {
     "key": "faq.a.support",
@@ -1687,7 +2527,12 @@
     "nl": "Je kunt ons altijd bereiken via <a href=\"mailto:support@stampiq.io\" style=\"color:#4FA902;font-weight:600\">support@stampiq.io</a>. We reageren doorgaans binnen één werkdag.",
     "pl": "Skontaktuj się z nami w każdej chwili pod adresem <a href=\"mailto:support@stampiq.io\" style=\"color:#4FA902;font-weight:600\">support@stampiq.io</a>. Zwykle odpowiadamy w ciągu jednego dnia roboczego.",
     "fr": "Contacte-nous à tout moment à <a href=\"mailto:support@stampiq.io\" style=\"color:#4FA902;font-weight:600\">support@stampiq.io</a>. Nous répondons généralement sous un jour ouvré.",
-    "it": "Contattaci in qualsiasi momento all'indirizzo <a href=\"mailto:support@stampiq.io\" style=\"color:#4FA902;font-weight:600\">support@stampiq.io</a>. Di norma rispondiamo entro un giorno lavorativo."
+    "it": "Contattaci in qualsiasi momento all'indirizzo <a href=\"mailto:support@stampiq.io\" style=\"color:#4FA902;font-weight:600\">support@stampiq.io</a>. Di norma rispondiamo entro un giorno lavorativo.",
+    "cs": "Ozvi se nám kdykoli na <a href=\"mailto:support@stampiq.io\" style=\"color:#4FA902;font-weight:600\">support@stampiq.io</a>. Obvykle odpovídáme do jednoho pracovního dne.",
+    "sk": "Ozvi sa nám kedykoľvek na <a href=\"mailto:support@stampiq.io\" style=\"color:#4FA902;font-weight:600\">support@stampiq.io</a>. Zvyčajne odpovedáme do jedného pracovného dňa.",
+    "ro": "Scrie-ne oricând la <a href=\"mailto:support@stampiq.io\" style=\"color:#4FA902;font-weight:600\">support@stampiq.io</a>. De obicei răspundem într-o zi lucrătoare.",
+    "hu": "Bármikor elérsz minket a <a href=\"mailto:support@stampiq.io\" style=\"color:#4FA902;font-weight:600\">support@stampiq.io</a> címen. Általában egy munkanapon belül válaszolunk.",
+    "da": "Du kan altid kontakte os på <a href=\"mailto:support@stampiq.io\" style=\"color:#4FA902;font-weight:600\">support@stampiq.io</a>. Vi svarer normalt inden for én hverdag."
   },
   {
     "key": "final_cta.headline",
@@ -1697,7 +2542,12 @@
     "nl": "Keep collecting smarter",
     "pl": "Keep collecting smarter",
     "fr": "Keep collecting smarter",
-    "it": "Keep collecting smarter"
+    "it": "Keep collecting smarter",
+    "cs": "Keep collecting smarter",
+    "sk": "Keep collecting smarter",
+    "ro": "Keep collecting smarter",
+    "hu": "Keep collecting smarter",
+    "da": "Keep collecting smarter"
   },
   {
     "key": "final_cta.body",
@@ -1707,7 +2557,12 @@
     "nl": "Gratis download. Geen creditcard nodig. Jouw verzameling op elk apparaat.",
     "pl": "Pobierz za darmo. Bez karty. Twoja kolekcja na każdym urządzeniu.",
     "fr": "Téléchargement gratuit. Sans carte. Ta collection sur tous tes appareils.",
-    "it": "Download gratuito. Nessuna carta richiesta. La tua collezione su ogni dispositivo."
+    "it": "Download gratuito. Nessuna carta richiesta. La tua collezione su ogni dispositivo.",
+    "cs": "Stažení zdarma. Bez karty. Tvoje sbírka na každém zařízení.",
+    "sk": "Stiahnutie zadarmo. Bez karty. Tvoja zbierka na každom zariadení.",
+    "ro": "Descărcare gratuită. Fără card. Colecția ta pe orice dispozitiv.",
+    "hu": "Ingyenes letöltés. Bankkártya nélkül. A gyűjteményed minden eszközön.",
+    "da": "Gratis download. Intet kort påkrævet. Din samling på alle dine enheder."
   },
   {
     "key": "footer.tagline",
@@ -1717,7 +2572,12 @@
     "nl": "Je digitale maatje voor het verzamelen van postzegels. Gemaakt in Zwitserland, voor verzamelaars wereldwijd.",
     "pl": "Twój cyfrowy towarzysz w kolekcjonowaniu znaczków. Stworzony w Szwajcarii dla kolekcjonerów na całym świecie.",
     "fr": "Ton compagnon numérique de collection de timbres. Conçu en Suisse pour les collectionneurs du monde entier.",
-    "it": "Il tuo compagno digitale per il collezionismo di francobolli. Creato in Svizzera per i collezionisti di tutto il mondo."
+    "it": "Il tuo compagno digitale per il collezionismo di francobolli. Creato in Svizzera per i collezionisti di tutto il mondo.",
+    "cs": "Tvůj digitální společník při sbírání známek. Vytvořený ve Švýcarsku pro sběratele po celém světě.",
+    "sk": "Tvoj digitálny spoločník pri zbieraní známok. Vytvorený vo Švajčiarsku pre zberateľov na celom svete.",
+    "ro": "Însoțitorul tău digital pentru colecția de timbre. Creat în Elveția pentru colecționari de pretutindeni.",
+    "hu": "A digitális társad a bélyeggyűjtésben. Svájcban fejlesztve, gyűjtőknek szerte a világon.",
+    "da": "Din digitale følgesvend til frimærkesamling. Udviklet i Schweiz – til samlere overalt."
   },
   {
     "key": "footer.col.product",
@@ -1727,7 +2587,12 @@
     "nl": "Product",
     "pl": "Produkt",
     "fr": "Produit",
-    "it": "Prodotto"
+    "it": "Prodotto",
+    "cs": "Produkt",
+    "sk": "Produkt",
+    "ro": "Produs",
+    "hu": "Termék",
+    "da": "Produkt"
   },
   {
     "key": "footer.col.company",
@@ -1737,7 +2602,12 @@
     "nl": "Bedrijf",
     "pl": "Firma",
     "fr": "Entreprise",
-    "it": "Azienda"
+    "it": "Azienda",
+    "cs": "Společnost",
+    "sk": "Spoločnosť",
+    "ro": "Companie",
+    "hu": "Cég",
+    "da": "Virksomhed"
   },
   {
     "key": "footer.col.legal",
@@ -1747,7 +2617,12 @@
     "nl": "Juridisch",
     "pl": "Informacje prawne",
     "fr": "Mentions légales",
-    "it": "Note legali"
+    "it": "Note legali",
+    "cs": "Právní informace",
+    "sk": "Právne informácie",
+    "ro": "Informații legale",
+    "hu": "Jogi információk",
+    "da": "Juridisk"
   },
   {
     "key": "footer.product.features",
@@ -1757,7 +2632,12 @@
     "nl": "Functies",
     "pl": "Funkcje",
     "fr": "Fonctionnalités",
-    "it": "Funzionalità"
+    "it": "Funzionalità",
+    "cs": "Funkce",
+    "sk": "Funkcie",
+    "ro": "Funcționalități",
+    "hu": "Funkciók",
+    "da": "Funktioner"
   },
   {
     "key": "footer.product.sigivision",
@@ -1767,7 +2647,12 @@
     "nl": "SigiVision",
     "pl": "SigiVision",
     "fr": "SigiVision",
-    "it": "SigiVision"
+    "it": "SigiVision",
+    "cs": "SigiVision",
+    "sk": "SigiVision",
+    "ro": "SigiVision",
+    "hu": "SigiVision",
+    "da": "SigiVision"
   },
   {
     "key": "footer.product.pricing",
@@ -1777,7 +2662,12 @@
     "nl": "Prijzen",
     "pl": "Cennik",
     "fr": "Tarifs",
-    "it": "Prezzi"
+    "it": "Prezzi",
+    "cs": "Ceník",
+    "sk": "Cenník",
+    "ro": "Prețuri",
+    "hu": "Árak",
+    "da": "Priser"
   },
   {
     "key": "footer.product.faq",
@@ -1787,7 +2677,12 @@
     "nl": "FAQ",
     "pl": "FAQ",
     "fr": "FAQ",
-    "it": "FAQ"
+    "it": "FAQ",
+    "cs": "FAQ",
+    "sk": "FAQ",
+    "ro": "FAQ",
+    "hu": "FAQ",
+    "da": "FAQ"
   },
   {
     "key": "footer.company.press",
@@ -1797,7 +2692,12 @@
     "nl": "Pers",
     "pl": "Prasa",
     "fr": "Presse",
-    "it": "Stampa"
+    "it": "Stampa",
+    "cs": "Tisk",
+    "sk": "Tlač",
+    "ro": "Presă",
+    "hu": "Sajtó",
+    "da": "Presse"
   },
   {
     "key": "footer.company.blog",
@@ -1807,7 +2707,12 @@
     "nl": "Blog",
     "pl": "Blog",
     "fr": "Blog",
-    "it": "Blog"
+    "it": "Blog",
+    "cs": "Blog",
+    "sk": "Blog",
+    "ro": "Blog",
+    "hu": "Blog",
+    "da": "Blog"
   },
   {
     "key": "footer.company.about",
@@ -1817,7 +2722,12 @@
     "nl": "Over",
     "pl": "O nas",
     "fr": "À propos",
-    "it": "Chi siamo"
+    "it": "Chi siamo",
+    "cs": "O nás",
+    "sk": "O nás",
+    "ro": "Despre noi",
+    "hu": "Rólunk",
+    "da": "Om os"
   },
   {
     "key": "footer.company.contact",
@@ -1827,7 +2737,12 @@
     "nl": "Contact",
     "pl": "Kontakt",
     "fr": "Contact",
-    "it": "Contatto"
+    "it": "Contatto",
+    "cs": "Kontakt",
+    "sk": "Kontakt",
+    "ro": "Contact",
+    "hu": "Kapcsolat",
+    "da": "Kontakt"
   },
   {
     "key": "footer.legal.privacy",
@@ -1837,7 +2752,12 @@
     "nl": "Privacy",
     "pl": "Prywatność",
     "fr": "Confidentialité",
-    "it": "Privacy"
+    "it": "Privacy",
+    "cs": "Soukromí",
+    "sk": "Ochrana údajov",
+    "ro": "Confidențialitate",
+    "hu": "Adatvédelem",
+    "da": "Privatliv"
   },
   {
     "key": "footer.legal.terms",
@@ -1847,7 +2767,12 @@
     "nl": "Voorwaarden",
     "pl": "Warunki",
     "fr": "Conditions",
-    "it": "Termini"
+    "it": "Termini",
+    "cs": "Podmínky",
+    "sk": "Podmienky",
+    "ro": "Termeni",
+    "hu": "Feltételek",
+    "da": "Vilkår"
   },
   {
     "key": "footer.copyright",
@@ -1857,7 +2782,12 @@
     "nl": "© 2026 StampIQ · Ontworpen en ontwikkeld in Zwitserland · support@stampiq.io",
     "pl": "© 2026 StampIQ · Zaprojektowane i zbudowane w Szwajcarii · support@stampiq.io",
     "fr": "© 2026 StampIQ · Conçu et développé en Suisse · support@stampiq.io",
-    "it": "© 2026 StampIQ · Progettato e realizzato in Svizzera · support@stampiq.io"
+    "it": "© 2026 StampIQ · Progettato e realizzato in Svizzera · support@stampiq.io",
+    "cs": "© 2026 StampIQ · Navrženo a vyvinuto ve Švýcarsku · support@stampiq.io",
+    "sk": "© 2026 StampIQ · Navrhnuté a vyvinuté vo Švajčiarsku · support@stampiq.io",
+    "ro": "© 2026 StampIQ · Proiectat și dezvoltat în Elveția · support@stampiq.io",
+    "hu": "© 2026 StampIQ · Svájcban tervezve és fejlesztve · support@stampiq.io",
+    "da": "© 2026 StampIQ · Designet og udviklet i Schweiz · support@stampiq.io"
   },
   {
     "key": "footer.supporting",
@@ -1867,7 +2797,12 @@
     "nl": "Ondersteunt CH · DE · AT · LI · NL · PL",
     "pl": "Obsługujemy CH · DE · AT · LI · NL · PL",
     "fr": "Catalogues : CH · DE · AT · LI · NL · PL",
-    "it": "Disponibile per CH · DE · AT · LI · NL · PL"
+    "it": "Disponibile per CH · DE · AT · LI · NL · PL",
+    "cs": "S katalogy pro CH · DE · AT · LI · NL · PL",
+    "sk": "Podporujeme CH · DE · AT · LI · NL · PL",
+    "ro": "Disponibil în CH · DE · AT · LI · NL · PL",
+    "hu": "Támogatott országok: CH · DE · AT · LI · NL · PL",
+    "da": "Understøtter CH · DE · AT · LI · NL · PL"
   },
   {
     "key": "promo.title",
@@ -1877,7 +2812,12 @@
     "fr": "Récupération de vos scans bonus",
     "it": "Riscatto delle scansioni bonus",
     "nl": "Je bonusscans worden ingewisseld",
-    "pl": "Odbieranie dodatkowych skanów"
+    "pl": "Odbieranie dodatkowych skanów",
+    "cs": "Připisujeme tvoje bonusové skeny",
+    "sk": "Pripisujeme tvoje bonusové skeny",
+    "ro": "Revendicarea scanărilor bonus",
+    "hu": "A bónusz szkenneléseid beváltása",
+    "da": "Dine bonusscanninger indløses"
   },
   {
     "key": "promo.subtitle",
@@ -1887,7 +2827,12 @@
     "fr": "StampIQ s'ouvre pour ajouter vos scans gratuits. Vous n'avez pas encore l'application ? Installez-la, puis scannez à nouveau le code.",
     "it": "StampIQ si sta aprendo per aggiungere le tue scansioni gratuite. Non hai ancora l'app? Installala, poi scansiona di nuovo il codice.",
     "nl": "StampIQ wordt geopend om je gratis scans toe te voegen. Heb je de app nog niet? Installeer hem en scan de code opnieuw.",
-    "pl": "StampIQ otwiera się, aby dodać Twoje darmowe skany. Nie masz jeszcze aplikacji? Zainstaluj ją i zeskanuj kod ponownie."
+    "pl": "StampIQ otwiera się, aby dodać Twoje darmowe skany. Nie masz jeszcze aplikacji? Zainstaluj ją i zeskanuj kod ponownie.",
+    "cs": "StampIQ se otevírá, aby ti přidal skeny zdarma. Ještě nemáš aplikaci? Nainstaluj si ji a naskenuj kód znovu.",
+    "sk": "StampIQ sa otvára, aby ti pridal skeny zadarmo. Ešte nemáš aplikáciu? Nainštaluj si ju a naskenuj kód znova.",
+    "ro": "StampIQ se deschide pentru a adăuga scanările tale gratuite. Nu ai încă aplicația? Instaleaz-o, apoi scanează din nou codul.",
+    "hu": "A StampIQ megnyílik, hogy hozzáadja az ingyenes szkenneléseidet. Még nincs meg az alkalmazás? Telepítsd, majd olvasd be újra a kódot.",
+    "da": "StampIQ åbnes for at tilføje dine gratis scanninger. Har du ikke appen endnu? Installer den, og scan koden igen."
   },
   {
     "key": "promo.appstore",
@@ -1897,7 +2842,12 @@
     "fr": "Télécharger dans l'App Store",
     "it": "Scarica su App Store",
     "nl": "Download in de App Store",
-    "pl": "Pobierz w App Store"
+    "pl": "Pobierz w App Store",
+    "cs": "Stáhnout v App Store",
+    "sk": "Stiahnuť v App Store",
+    "ro": "Descarcă din App Store",
+    "hu": "Letöltés az App Store-ból",
+    "da": "Hent i App Store"
   },
   {
     "key": "promo.playstore",
@@ -1907,7 +2857,12 @@
     "fr": "Disponible sur Google Play",
     "it": "Disponibile su Google Play",
     "nl": "Ontdek het op Google Play",
-    "pl": "Pobierz z Google Play"
+    "pl": "Pobierz z Google Play",
+    "cs": "Stáhnout z Google Play",
+    "sk": "Teraz na Google Play",
+    "ro": "Disponibil pe Google Play",
+    "hu": "Szerezd meg: Google Play",
+    "da": "Hent det på Google Play"
   },
   {
     "key": "promo.website",
@@ -1917,7 +2872,12 @@
     "fr": "Continuer vers le site web",
     "it": "Continua sul sito web",
     "nl": "Doorgaan naar de website",
-    "pl": "Przejdź do strony internetowej"
+    "pl": "Przejdź do strony internetowej",
+    "cs": "Pokračovat na web",
+    "sk": "Prejsť na webovú stránku",
+    "ro": "Continuă către site",
+    "hu": "Tovább a weboldalra",
+    "da": "Fortsæt til websitet"
   },
   {
     "key": "promoSub.title",
@@ -1927,7 +2887,12 @@
     "fr": "Activation de votre code",
     "it": "Riscatto del tuo codice",
     "nl": "Je code wordt ingewisseld",
-    "pl": "Aktywacja Twojego kodu"
+    "pl": "Aktywacja Twojego kodu",
+    "cs": "Aktivujeme tvůj kód",
+    "sk": "Uplatňujeme tvoj kód",
+    "ro": "Activarea codului tău",
+    "hu": "A kódod beváltása",
+    "da": "Din kode indløses"
   },
   {
     "key": "promoSub.subtitle",
@@ -1937,7 +2902,12 @@
     "fr": "StampIQ s'ouvre pour appliquer votre code. Vous n'avez pas encore l'application ? Installez-la, puis saisissez votre code lors de l'inscription.",
     "it": "StampIQ si sta aprendo per applicare il tuo codice. Non hai ancora l'app? Installala, poi inserisci il tuo codice durante la registrazione.",
     "nl": "StampIQ wordt geopend om je code toe te passen. Heb je de app nog niet? Installeer hem en voer je code in bij het aanmelden.",
-    "pl": "StampIQ otworzy się, aby aktywować Twój kod. Nie masz jeszcze aplikacji? Zainstaluj ją i wpisz kod podczas rejestracji."
+    "pl": "StampIQ otworzy się, aby aktywować Twój kod. Nie masz jeszcze aplikacji? Zainstaluj ją i wpisz kod podczas rejestracji.",
+    "cs": "StampIQ se otevírá, aby uplatnil tvůj kód. Ještě nemáš aplikaci? Nainstaluj si ji a zadej kód při registraci.",
+    "sk": "StampIQ sa otvára, aby uplatnil tvoj kód. Ešte nemáš aplikáciu? Nainštaluj si ju a zadaj kód pri registrácii.",
+    "ro": "StampIQ se deschide pentru a aplica codul tău. Nu ai încă aplicația? Instaleaz-o, apoi introdu codul la înregistrare.",
+    "hu": "A StampIQ megnyílik, hogy érvényesítse a kódodat. Még nincs meg az alkalmazás? Telepítsd, majd add meg a kódot a regisztrációnál.",
+    "da": "StampIQ åbnes for at anvende din kode. Har du ikke appen endnu? Installer den, og indtast din kode, når du tilmelder dig."
   },
   {
     "key": "promoSub.codeLabel",
@@ -1947,7 +2917,12 @@
     "fr": "Votre code",
     "it": "Il tuo codice",
     "nl": "Je code",
-    "pl": "Twój kod"
+    "pl": "Twój kod",
+    "cs": "Tvůj kód",
+    "sk": "Tvoj kód",
+    "ro": "Codul tău",
+    "hu": "A kódod",
+    "da": "Din kode"
   },
   {
     "key": "press.advertorial",
@@ -1957,7 +2932,12 @@
     "nl": "Advertorial",
     "pl": "Artykuł reklamowy",
     "fr": "Publireportage",
-    "it": "Pubbliredazionale"
+    "it": "Pubbliredazionale",
+    "cs": "Komerční sdělení",
+    "sk": "Inzercia",
+    "ro": "Advertorial",
+    "hu": "Hirdetés",
+    "da": "Annonce"
   },
   {
     "key": "press.issue.filatelista_2026_08.tag",
@@ -1967,7 +2947,12 @@
     "nl": "Filatelista · 8/2026",
     "pl": "Filatelista · 8/2026",
     "fr": "Filatelista · 8/2026",
-    "it": "Filatelista · 8/2026"
+    "it": "Filatelista · 8/2026",
+    "cs": "Filatelista · 8/2026",
+    "sk": "Filatelista · 8/2026",
+    "ro": "Filatelista · 8/2026",
+    "hu": "Filatelista · 8/2026",
+    "da": "Filatelista · 8/2026"
   },
   {
     "key": "press.issue.filatelista_2026_08.publication",
@@ -1977,7 +2962,12 @@
     "nl": "Filatelista (Polen) · 8/2026",
     "pl": "Filatelista · 8/2026",
     "fr": "Filatelista (Pologne) · 8/2026",
-    "it": "Filatelista (Polonia) · 8/2026"
+    "it": "Filatelista (Polonia) · 8/2026",
+    "cs": "Filatelista (Polsko) · 8/2026",
+    "sk": "Filatelista (Poľsko) · 8/2026",
+    "ro": "Filatelista (Polonia) · 8/2026",
+    "hu": "Filatelista (Lengyelország) · 8/2026",
+    "da": "Filatelista (Polen) · 8/2026"
   },
   {
     "key": "press.issue.filatelista_2026_08.title",
@@ -1987,7 +2977,12 @@
     "nl": "\"StampIQ — de digitale metgezel van de verzamelaar.\"",
     "pl": "„StampIQ – cyfrowy towarzysz kolekcjonera.\"",
     "fr": "« StampIQ — le compagnon numérique du collectionneur. »",
-    "it": "\"StampIQ — il compagno digitale del collezionista.\""
+    "it": "\"StampIQ — il compagno digitale del collezionista.\"",
+    "cs": "„StampIQ — digitální společník sběratele.“",
+    "sk": "„StampIQ – digitálny spoločník zberateľa.“",
+    "ro": "„StampIQ — însoțitorul digital al colecționarului.”",
+    "hu": "„StampIQ – a gyűjtő digitális társa.”",
+    "da": "»StampIQ – samlerens digitale følgesvend.«"
   },
   {
     "key": "press.issue.filatelista_2026_08.body",
@@ -1997,7 +2992,12 @@
     "nl": "Filatelista, het tijdschrift van de Poolse filatelistenbond, wijdde in het augustusnummer van 2026 vier pagina's aan StampIQ. Een Poolstalige rondleiding langs herkenning, bulkscannen, de catalogus en de interactieve kaart — geschreven voor verzamelaars die zich afvragen of een telefoon een papieren inventaris echt kan vervangen.",
     "pl": "Filatelista, czasopismo Polskiego Związku Filatelistów, poświęcił StampIQ cztery strony w numerze 8/2026. Przewodnik po rozpoznawaniu znaczków, skanowaniu grupowym, katalogu i interaktywnej mapie — napisany dla kolekcjonerów zastanawiających się, czy telefon naprawdę zastąpi papierowy spis.",
     "fr": "Filatelista, la revue de l'association philatélique polonaise, a consacré quatre pages à StampIQ dans son numéro d'août 2026. Une visite guidée en polonais de la reconnaissance, du scan groupé, du catalogue et de la carte interactive — écrite pour les collectionneurs qui se demandent si un téléphone peut vraiment remplacer un inventaire papier.",
-    "it": "Filatelista, la rivista dell'associazione filatelica polacca, ha dedicato quattro pagine a StampIQ nel numero di agosto 2026. Un percorso in lingua polacca tra riconoscimento, scansione multipla, catalogo e mappa interattiva — scritto per i collezionisti che si chiedono se un telefono possa davvero sostituire un inventario cartaceo."
+    "it": "Filatelista, la rivista dell'associazione filatelica polacca, ha dedicato quattro pagine a StampIQ nel numero di agosto 2026. Un percorso in lingua polacca tra riconoscimento, scansione multipla, catalogo e mappa interattiva — scritto per i collezionisti che si chiedono se un telefono possa davvero sostituire un inventario cartaceo.",
+    "cs": "Filatelista, časopis Polského svazu filatelistů, věnoval StampIQ ve vydání ze srpna 2026 čtyři strany. Polsky psaný průvodce rozpoznáváním, hromadným skenováním, katalogem a interaktivní mapou — napsaný pro sběratele, kteří zvažují, jestli telefon opravdu nahradí papírový soupis.",
+    "sk": "Filatelista, časopis Poľského zväzu filatelistov, venoval StampIQ štyri strany vo vydaní z augusta 2026. Sprievodca rozpoznávaním, hromadným skenovaním, katalógom a interaktívnou mapou — napísaný po poľsky pre zberateľov, ktorí zvažujú, či telefón naozaj dokáže nahradiť papierový súpis.",
+    "ro": "Filatelista, revista Asociației Filatelice Poloneze, a dedicat patru pagini aplicației StampIQ în numărul din august 2026. O prezentare în limba polonă a recunoașterii, a scanării multiple, a catalogului și a hărții interactive — scrisă pentru colecționarii care se întreabă dacă un telefon poate înlocui cu adevărat un inventar pe hârtie.",
+    "hu": "A Filatelista, a Lengyel Filatéliai Szövetség folyóirata négy oldalt szentelt a StampIQ-nak a 2026. augusztusi számában. Lengyel nyelvű bemutató a felismerésről, a tömeges szkennelésről, a katalógusról és az interaktív térképről — azoknak a gyűjtőknek, akik azt mérlegelik, hogy egy telefon valóban helyettesítheti-e a papíralapú nyilvántartást.",
+    "da": "Filatelista, det polske filatelistforbunds magasin, viede fire sider til StampIQ i augustnummeret 2026. En polsksproget gennemgang af genkendelse, massescanning, kataloget og det interaktive kort – skrevet til samlere, der overvejer, om en telefon virkelig kan erstatte en fortegnelse på papir."
   },
   {
     "key": "events.eyebrow",
@@ -2007,7 +3007,12 @@
     "nl": "Evenementen",
     "pl": "Wydarzenia",
     "fr": "Événements",
-    "it": "Eventi"
+    "it": "Eventi",
+    "cs": "Akce",
+    "sk": "Podujatia",
+    "ro": "Evenimente",
+    "hu": "Események",
+    "da": "Arrangementer"
   },
   {
     "key": "events.headline",
@@ -2017,7 +3022,12 @@
     "nl": "Ontmoet ons persoonlijk",
     "pl": "Spotkajmy się osobiście",
     "fr": "Rencontre-nous en personne",
-    "it": "Incontraci di persona"
+    "it": "Incontraci di persona",
+    "cs": "Potkejme se osobně",
+    "sk": "Stretnime sa osobne",
+    "ro": "Întâlnește-ne în persoană",
+    "hu": "Találkozzunk személyesen",
+    "da": "Mød os personligt"
   },
   {
     "key": "events.body",
@@ -2027,7 +3037,12 @@
     "nl": "Neem je zegels mee — we scannen ze samen.",
     "pl": "Weź swoje znaczki — zeskanujemy je razem.",
     "fr": "Apporte tes timbres — on les scanne ensemble.",
-    "it": "Porta i tuoi francobolli — li scansioniamo insieme."
+    "it": "Porta i tuoi francobolli — li scansioniamo insieme.",
+    "cs": "Vezmi si známky s sebou — naskenujeme je společně.",
+    "sk": "Prines svoje známky — naskenujeme ich spolu.",
+    "ro": "Adu-ți timbrele — le scanăm împreună.",
+    "hu": "Hozd el a bélyegeidet — együtt beszkenneljük őket.",
+    "da": "Tag dine frimærker med – vi scanner dem sammen."
   },
   {
     "key": "ibb.name",
@@ -2037,7 +3052,12 @@
     "nl": "Internationale Briefmarken-Börse",
     "pl": "Internationale Briefmarken-Börse",
     "fr": "Internationale Briefmarken-Börse",
-    "it": "Internationale Briefmarken-Börse"
+    "it": "Internationale Briefmarken-Börse",
+    "cs": "Internationale Briefmarken-Börse",
+    "sk": "Internationale Briefmarken-Börse",
+    "ro": "Internationale Briefmarken-Börse",
+    "hu": "Internationale Briefmarken-Börse",
+    "da": "Internationale Briefmarken-Börse"
   },
   {
     "key": "ibb.dates",
@@ -2047,7 +3067,12 @@
     "nl": "22–24 oktober 2026",
     "pl": "22–24 października 2026",
     "fr": "22–24 octobre 2026",
-    "it": "22–24 ottobre 2026"
+    "it": "22–24 ottobre 2026",
+    "cs": "22.–24. října 2026",
+    "sk": "22.–24. októbra 2026",
+    "ro": "22–24 octombrie 2026",
+    "hu": "2026. október 22–24.",
+    "da": "22.–24. oktober 2026"
   },
   {
     "key": "ibb.venue",
@@ -2057,7 +3082,12 @@
     "nl": "Messe Ulm, Duitsland",
     "pl": "Messe Ulm, Niemcy",
     "fr": "Messe Ulm, Allemagne",
-    "it": "Messe Ulm, Germania"
+    "it": "Messe Ulm, Germania",
+    "cs": "Messe Ulm, Německo",
+    "sk": "Messe Ulm, Nemecko",
+    "ro": "Messe Ulm, Germania",
+    "hu": "Messe Ulm, Németország",
+    "da": "Messe Ulm, Tyskland"
   },
   {
     "key": "ibb.stand",
@@ -2067,7 +3097,12 @@
     "nl": "Hal 1 · Stand 33",
     "pl": "Hala 1 · Stoisko 33",
     "fr": "Hall 1 · Stand 33",
-    "it": "Padiglione 1 · Stand 33"
+    "it": "Padiglione 1 · Stand 33",
+    "cs": "Hala 1 · Stánek 33",
+    "sk": "Hala 1 · Stánok 33",
+    "ro": "Hala 1 · Stand 33",
+    "hu": "1. csarnok · 33. stand",
+    "da": "Hal 1 · Stand 33"
   },
   {
     "key": "ibb.body",
@@ -2077,7 +3112,12 @@
     "nl": "Een van de grootste postzegelbeurzen van Europa. Kom langs bij de stand en laat SigiVision je eigen zegels herkennen.",
     "pl": "Jedna z największych giełd filatelistycznych w Europie. Wpadnij na stoisko i sprawdź, jak SigiVision rozpoznaje Twoje znaczki.",
     "fr": "L'un des plus grands salons philatéliques d'Europe. Passe au stand voir SigiVision reconnaître tes propres timbres.",
-    "it": "Una delle più grandi fiere filateliche d'Europa. Passa allo stand e guarda SigiVision riconoscere i tuoi francobolli."
+    "it": "Una delle più grandi fiere filateliche d'Europa. Passa allo stand e guarda SigiVision riconoscere i tuoi francobolli.",
+    "cs": "Jedna z největších filatelistických burz v Evropě. Zastav se u stánku a uvidíš, jak SigiVision rozpozná tvoje vlastní známky.",
+    "sk": "Jedna z najväčších filatelistických búrz v Európe. Zastav sa pri stánku a pozri sa, ako SigiVision rozpozná tvoje vlastné známky.",
+    "ro": "Unul dintre cele mai mari târguri filatelice din Europa. Treci pe la stand și vezi cum SigiVision îți recunoaște propriile timbre.",
+    "hu": "Európa egyik legnagyobb bélyegvására. Nézz be a standhoz, és nézd meg, ahogy a SigiVision felismeri a saját bélyegeidet.",
+    "da": "En af Europas største frimærkemesser. Kig forbi standen, og se SigiVision genkende dine egne frimærker."
   },
   {
     "key": "ibb.cta",
@@ -2087,7 +3127,12 @@
     "nl": "Website van de beurs",
     "pl": "Strona giełdy",
     "fr": "Site du salon",
-    "it": "Sito della fiera"
+    "it": "Sito della fiera",
+    "cs": "Web burzy",
+    "sk": "Stránka burzy",
+    "ro": "Site-ul târgului",
+    "hu": "A vásár weboldala",
+    "da": "Messens website"
   },
   {
     "key": "ibb.bar.text",
@@ -2097,7 +3142,12 @@
     "nl": "Ontmoet ons dit najaar: Ulm · St. Pölten · Brig",
     "pl": "Spotkajmy się tej jesieni: Ulm · St. Pölten · Brig",
     "fr": "Rencontre-nous cet automne : Ulm · St. Pölten · Brigue",
-    "it": "Incontraci quest'autunno: Ulma · St. Pölten · Briga"
+    "it": "Incontraci quest'autunno: Ulma · St. Pölten · Briga",
+    "cs": "Potkáme se letos na podzim: Ulm · St. Pölten · Brig",
+    "sk": "Stretnime sa túto jeseň: Ulm · St. Pölten · Brig",
+    "ro": "Întâlnește-ne toamna aceasta: Ulm · St. Pölten · Brig",
+    "hu": "Találkozzunk idén ősszel: Ulm · St. Pölten · Brig",
+    "da": "Mød os i efteråret: Ulm · St. Pölten · Brig"
   },
   {
     "key": "ibb.bar.short",
@@ -2107,7 +3157,12 @@
     "nl": "Ontmoet ons dit najaar",
     "pl": "Spotkajmy się tej jesieni",
     "fr": "Rencontre-nous cet automne",
-    "it": "Incontraci quest'autunno"
+    "it": "Incontraci quest'autunno",
+    "cs": "Potkáme se letos na podzim",
+    "sk": "Stretnime sa túto jeseň",
+    "ro": "Întâlnește-ne toamna aceasta",
+    "hu": "Találkozzunk idén ősszel",
+    "da": "Mød os i efteråret"
   },
   {
     "key": "ibb.bar.cta",
@@ -2117,7 +3172,12 @@
     "nl": "Details",
     "pl": "Szczegóły",
     "fr": "Détails",
-    "it": "Dettagli"
+    "it": "Dettagli",
+    "cs": "Podrobnosti",
+    "sk": "Podrobnosti",
+    "ro": "Detalii",
+    "hu": "Részletek",
+    "da": "Detaljer"
   },
   {
     "key": "ibb.bar.dismiss",
@@ -2127,7 +3187,12 @@
     "nl": "Sluiten",
     "pl": "Zamknij",
     "fr": "Fermer",
-    "it": "Chiudi"
+    "it": "Chiudi",
+    "cs": "Zavřít",
+    "sk": "Zavrieť",
+    "ro": "Închide",
+    "hu": "Bezárás",
+    "da": "Luk"
   },
   {
     "key": "footer.company.events",
@@ -2137,7 +3202,12 @@
     "nl": "Evenementen",
     "pl": "Wydarzenia",
     "fr": "Événements",
-    "it": "Eventi"
+    "it": "Eventi",
+    "cs": "Akce",
+    "sk": "Podujatia",
+    "ro": "Evenimente",
+    "hu": "Események",
+    "da": "Arrangementer"
   },
   {
     "key": "press.prev",
@@ -2147,7 +3217,12 @@
     "nl": "Vorig artikel",
     "pl": "Poprzedni artykuł",
     "fr": "Article précédent",
-    "it": "Articolo precedente"
+    "it": "Articolo precedente",
+    "cs": "Předchozí článek",
+    "sk": "Predchádzajúci článok",
+    "ro": "Articolul anterior",
+    "hu": "Előző cikk",
+    "da": "Forrige artikel"
   },
   {
     "key": "press.next",
@@ -2157,7 +3232,12 @@
     "nl": "Volgend artikel",
     "pl": "Następny artykuł",
     "fr": "Article suivant",
-    "it": "Articolo successivo"
+    "it": "Articolo successivo",
+    "cs": "Další článek",
+    "sk": "Ďalší článok",
+    "ro": "Articolul următor",
+    "hu": "Következő cikk",
+    "da": "Næste artikel"
   },
   {
     "key": "oevebria.name",
@@ -2167,7 +3247,12 @@
     "nl": "ÖVEBRIA 2026",
     "pl": "ÖVEBRIA 2026",
     "fr": "ÖVEBRIA 2026",
-    "it": "ÖVEBRIA 2026"
+    "it": "ÖVEBRIA 2026",
+    "cs": "ÖVEBRIA 2026",
+    "sk": "ÖVEBRIA 2026",
+    "ro": "ÖVEBRIA 2026",
+    "hu": "ÖVEBRIA 2026",
+    "da": "ÖVEBRIA 2026"
   },
   {
     "key": "oevebria.dates",
@@ -2177,7 +3262,12 @@
     "nl": "29–31 oktober 2026",
     "pl": "29–31 października 2026",
     "fr": "29–31 octobre 2026",
-    "it": "29–31 ottobre 2026"
+    "it": "29–31 ottobre 2026",
+    "cs": "29.–31. října 2026",
+    "sk": "29.–31. októbra 2026",
+    "ro": "29–31 octombrie 2026",
+    "hu": "2026. október 29–31.",
+    "da": "29.–31. oktober 2026"
   },
   {
     "key": "oevebria.venue",
@@ -2187,7 +3277,12 @@
     "nl": "Jahnturnhalle, St. Pölten, Oostenrijk",
     "pl": "Jahnturnhalle, St. Pölten, Austria",
     "fr": "Jahnturnhalle, St. Pölten, Autriche",
-    "it": "Jahnturnhalle, St. Pölten, Austria"
+    "it": "Jahnturnhalle, St. Pölten, Austria",
+    "cs": "Jahnturnhalle, St. Pölten, Rakousko",
+    "sk": "Jahnturnhalle, St. Pölten, Rakúsko",
+    "ro": "Jahnturnhalle, St. Pölten, Austria",
+    "hu": "Jahnturnhalle, St. Pölten, Ausztria",
+    "da": "Jahnturnhalle, St. Pölten, Østrig"
   },
   {
     "key": "oevebria.body",
@@ -2197,7 +3292,12 @@
     "nl": "De Oostenrijkse competitieve tentoonstelling met internationale deelname, georganiseerd door de VÖPh.",
     "pl": "Austriacka wystawa konkursowa z udziałem międzynarodowym, organizowana przez VÖPh.",
     "fr": "L'exposition compétitive autrichienne à participation internationale, organisée par la VÖPh.",
-    "it": "L'esposizione competitiva austriaca con partecipazione internazionale, organizzata dalla VÖPh."
+    "it": "L'esposizione competitiva austriaca con partecipazione internazionale, organizzata dalla VÖPh.",
+    "cs": "Rakouská národní soutěžní výstava s mezinárodní účastí, kterou pořádá VÖPh.",
+    "sk": "Rakúska národná súťažná výstava s medzinárodnou účasťou, ktorú organizuje VÖPh.",
+    "ro": "Expoziția națională competitivă a Austriei, cu participare internațională, organizată de VÖPh.",
+    "hu": "Ausztria nemzeti versenykiállítása nemzetközi részvétellel, a VÖPh szervezésében.",
+    "da": "Østrigs nationale konkurrenceudstilling med international deltagelse, arrangeret af VÖPh."
   },
   {
     "key": "philabrig.name",
@@ -2207,7 +3307,12 @@
     "nl": "PhilaBrig 26",
     "pl": "PhilaBrig 26",
     "fr": "PhilaBrig 26",
-    "it": "PhilaBrig 26"
+    "it": "PhilaBrig 26",
+    "cs": "PhilaBrig 26",
+    "sk": "PhilaBrig 26",
+    "ro": "PhilaBrig 26",
+    "hu": "PhilaBrig 26",
+    "da": "PhilaBrig 26"
   },
   {
     "key": "philabrig.dates",
@@ -2217,7 +3322,12 @@
     "nl": "19–21 november 2026",
     "pl": "19–21 listopada 2026",
     "fr": "19–21 novembre 2026",
-    "it": "19–21 novembre 2026"
+    "it": "19–21 novembre 2026",
+    "cs": "19.–21. listopadu 2026",
+    "sk": "19.–21. novembra 2026",
+    "ro": "19–21 noiembrie 2026",
+    "hu": "2026. november 19–21.",
+    "da": "19.–21. november 2026"
   },
   {
     "key": "philabrig.venue",
@@ -2227,7 +3337,12 @@
     "nl": "Simplonhalle, Brig-Glis, Zwitserland",
     "pl": "Simplonhalle, Brig-Glis, Szwajcaria",
     "fr": "Simplonhalle, Brigue-Glis, Suisse",
-    "it": "Simplonhalle, Briga-Glis, Svizzera"
+    "it": "Simplonhalle, Briga-Glis, Svizzera",
+    "cs": "Simplonhalle, Brig-Glis, Švýcarsko",
+    "sk": "Simplonhalle, Brig-Glis, Švajčiarsko",
+    "ro": "Simplonhalle, Brig-Glis, Elveția",
+    "hu": "Simplonhalle, Brig-Glis, Svájc",
+    "da": "Simplonhalle, Brig-Glis, Schweiz"
   },
   {
     "key": "philabrig.body",
@@ -2237,7 +3352,12 @@
     "nl": "De Zwitserse postzegeltentoonstelling en Dag van de Postzegel — thuiswedstrijd voor een Zwitserse app.",
     "pl": "Szwajcarska wystawa filatelistyczna i Dzień Znaczka — u siebie, bo aplikacja jest szwajcarska.",
     "fr": "L'exposition philatélique suisse et la Journée du timbre — à domicile pour une app suisse.",
-    "it": "L'esposizione filatelica svizzera e il Giorno del francobollo — in casa per un'app svizzera."
+    "it": "L'esposizione filatelica svizzera e il Giorno del francobollo — in casa per un'app svizzera.",
+    "cs": "Švýcarská národní výstava známek a Den známky — domácí hřiště pro švýcarskou aplikaci.",
+    "sk": "Švajčiarska národná filatelistická výstava a Deň známky — domáce ihrisko pre švajčiarsku aplikáciu.",
+    "ro": "Expoziția națională de timbre a Elveției și Ziua Timbrului — acasă, pentru o aplicație făcută în Elveția.",
+    "hu": "A svájci nemzeti bélyegkiállítás és a Bélyeg Napja — hazai pálya egy svájci alkalmazásnak.",
+    "da": "Den schweiziske nationale frimærkeudstilling og Frimærkets Dag – på hjemmebane for en schweizisk app."
   },
   {
     "key": "events.cta",
@@ -2247,7 +3367,12 @@
     "nl": "Website",
     "pl": "Strona wydarzenia",
     "fr": "Site de l'événement",
-    "it": "Sito dell'evento"
+    "it": "Sito dell'evento",
+    "cs": "Web akce",
+    "sk": "Stránka podujatia",
+    "ro": "Site-ul evenimentului",
+    "hu": "A rendezvény weboldala",
+    "da": "Arrangementets website"
   },
   {
     "key": "final_cta.web",
@@ -2257,7 +3382,12 @@
     "nl": "Of gebruik StampIQ in je browser",
     "pl": "Albo korzystaj ze StampIQ w przeglądarce",
     "fr": "Ou utilise StampIQ dans ton navigateur",
-    "it": "Oppure usa StampIQ nel browser"
+    "it": "Oppure usa StampIQ nel browser",
+    "cs": "Nebo používej StampIQ v prohlížeči",
+    "sk": "Alebo používaj StampIQ v prehliadači",
+    "ro": "Sau folosește StampIQ în browser",
+    "hu": "Vagy használd a StampIQ-t a böngésződben",
+    "da": "Eller brug StampIQ i din browser"
   },
   {
     "key": "webapp.eyebrow",
@@ -2267,7 +3397,12 @@
     "nl": "Web-app",
     "pl": "Aplikacja webowa",
     "fr": "Application web",
-    "it": "App web"
+    "it": "App web",
+    "cs": "Webová aplikace",
+    "sk": "Webová aplikácia",
+    "ro": "Aplicație web",
+    "hu": "Webalkalmazás",
+    "da": "Webapp"
   },
   {
     "key": "webapp.headline",
@@ -2277,7 +3412,12 @@
     "nl": "Je hele verzameling op een groot scherm",
     "pl": "Cała kolekcja na dużym ekranie",
     "fr": "Toute ta collection sur grand écran",
-    "it": "Tutta la collezione sul grande schermo"
+    "it": "Tutta la collezione sul grande schermo",
+    "cs": "Celá sbírka na velké obrazovce",
+    "sk": "Celá tvoja zbierka na veľkej obrazovke",
+    "ro": "Toată colecția ta pe ecran mare",
+    "hu": "A teljes gyűjteményed a nagy képernyőn",
+    "da": "Hele din samling på den store skærm"
   },
   {
     "key": "webapp.body",
@@ -2287,7 +3427,12 @@
     "nl": "StampIQ werkt ook in de browser. Log in met hetzelfde account en werk een landcatalogus door op een volledig scherm.",
     "pl": "StampIQ działa również w przeglądarce. Zaloguj się na to samo konto i przejrzyj katalog danego kraju na pełnym ekranie.",
     "fr": "StampIQ fonctionne aussi dans le navigateur. Connecte-toi avec le même compte et parcours un catalogue par pays sur un grand écran.",
-    "it": "StampIQ funziona anche nel browser. Accedi con lo stesso account e lavora su un catalogo per paese a schermo intero."
+    "it": "StampIQ funziona anche nel browser. Accedi con lo stesso account e lavora su un catalogo per paese a schermo intero.",
+    "cs": "StampIQ běží i v prohlížeči. Přihlas se stejným účtem a projdi si katalog zemí na velké obrazovce.",
+    "sk": "StampIQ beží aj v prehliadači. Prihlás sa tým istým účtom a prejdi si katalóg krajiny na veľkej obrazovke.",
+    "ro": "StampIQ funcționează și în browser. Conectează-te cu același cont și parcurge catalogul unei țări pe un ecran mare.",
+    "hu": "A StampIQ böngészőben is működik. Jelentkezz be ugyanazzal a fiókkal, és dolgozz végig egy országkatalógust a nagy képernyőn.",
+    "da": "StampIQ kører også i browseren. Log ind med den samme konto, og arbejd dig gennem et landekatalog på en stor skærm."
   },
   {
     "key": "webapp.point.sync",
@@ -2297,7 +3442,12 @@
     "nl": "Dezelfde verzameling als op je telefoon",
     "pl": "Ta sama kolekcja co w telefonie",
     "fr": "La même collection que sur ton téléphone",
-    "it": "La stessa collezione del telefono"
+    "it": "La stessa collezione del telefono",
+    "cs": "Stejná sbírka jako v telefonu",
+    "sk": "Rovnaká zbierka ako v telefóne",
+    "ro": "Aceeași colecție ca pe telefon",
+    "hu": "Ugyanaz a gyűjtemény, mint a telefonodon",
+    "da": "Samme samling som på telefonen"
   },
   {
     "key": "webapp.point.install",
@@ -2307,7 +3457,12 @@
     "nl": "Niets te installeren",
     "pl": "Bez instalacji",
     "fr": "Rien à installer",
-    "it": "Niente da installare"
+    "it": "Niente da installare",
+    "cs": "Bez instalace",
+    "sk": "Bez inštalácie",
+    "ro": "Nimic de instalat",
+    "hu": "Nem kell telepíteni",
+    "da": "Ingen installation"
   },
   {
     "key": "webapp.point.languages",
@@ -2317,7 +3472,12 @@
     "nl": "Beschikbaar in zes talen",
     "pl": "Dostępna w sześciu językach",
     "fr": "Disponible en six langues",
-    "it": "Disponibile in sei lingue"
+    "it": "Disponibile in sei lingue",
+    "cs": "Dostupná v šesti jazycích",
+    "sk": "Dostupná v šiestich jazykoch",
+    "ro": "Disponibil în șase limbi",
+    "hu": "Hat nyelven elérhető",
+    "da": "Fås på seks sprog"
   },
   {
     "key": "webapp.cta",
@@ -2327,7 +3487,12 @@
     "nl": "Open StampIQ in je browser",
     "pl": "Otwórz StampIQ w przeglądarce",
     "fr": "Ouvrir StampIQ dans le navigateur",
-    "it": "Apri StampIQ nel browser"
+    "it": "Apri StampIQ nel browser",
+    "cs": "Otevřít StampIQ v prohlížeči",
+    "sk": "Otvor StampIQ v prehliadači",
+    "ro": "Deschide StampIQ în browser",
+    "hu": "Nyisd meg a StampIQ-t a böngésződben",
+    "da": "Åbn StampIQ i din browser"
   },
   {
     "key": "badge.web.top",
@@ -2337,7 +3502,12 @@
     "nl": "Probeer het in je",
     "pl": "Wypróbuj w",
     "fr": "Essaie dans ton",
-    "it": "Provalo nel"
+    "it": "Provalo nel",
+    "cs": "Vyzkoušej v",
+    "sk": "Vyskúšaj v",
+    "ro": "Încearcă-l în",
+    "hu": "Próbáld ki a",
+    "da": "Prøv det i din"
   },
   {
     "key": "badge.web.bottom",
@@ -2347,7 +3517,12 @@
     "nl": "Browser",
     "pl": "Przeglądarce",
     "fr": "Navigateur",
-    "it": "Browser"
+    "it": "Browser",
+    "cs": "Prohlížeči",
+    "sk": "Prehliadači",
+    "ro": "Browser",
+    "hu": "Böngésződben",
+    "da": "Browser"
   },
   {
     "key": "features.upcoming_label",
@@ -2357,7 +3532,12 @@
     "nl": "In ontwikkeling",
     "pl": "W przygotowaniu",
     "fr": "En cours",
-    "it": "In lavorazione"
+    "it": "In lavorazione",
+    "cs": "Připravujeme",
+    "sk": "V príprave",
+    "ro": "În lucru",
+    "hu": "Folyamatban",
+    "da": "Undervejs"
   },
   {
     "key": "blog.meta_title",
@@ -2367,7 +3547,12 @@
     "nl": "Voorbij de catalogus: de StampIQ blog",
     "pl": "Poza katalogiem: blog StampIQ",
     "fr": "Au-delà du catalogue : le blog StampIQ",
-    "it": "Oltre il catalogo: il blog StampIQ"
+    "it": "Oltre il catalogo: il blog StampIQ",
+    "cs": "Za hranicemi katalogu: blog StampIQ",
+    "sk": "Za hranicami katalógu: blog StampIQ",
+    "ro": "Dincolo de catalog: blogul StampIQ",
+    "hu": "A katalóguson túl: a StampIQ blog",
+    "da": "Ud over kataloget: StampIQ-bloggen"
   },
   {
     "key": "blog.meta_description",
@@ -2377,7 +3562,12 @@
     "nl": "Postzegels die je moet kennen, uitjes voor het weekend, postzegelbeurzen en nieuws van StampIQ.",
     "pl": "Znaczki, które warto znać, miejsca na weekendowy wypad, targi filatelistyczne i nowości ze StampIQ.",
     "fr": "Des timbres à connaître, des lieux à visiter le week-end, des salons philatéliques et les nouveautés de StampIQ.",
-    "it": "Francobolli da conoscere, luoghi da visitare nel fine settimana, fiere filateliche e novità di StampIQ."
+    "it": "Francobolli da conoscere, luoghi da visitare nel fine settimana, fiere filateliche e novità di StampIQ.",
+    "cs": "Známky, které stojí za poznání, tipy na víkendové výlety, filatelistické burzy a novinky ze StampIQ.",
+    "sk": "Známky, ktoré stojí za to poznať, miesta na víkendový výlet, filatelistické burzy a novinky zo StampIQ.",
+    "ro": "Timbre care merită cunoscute, locuri de vizitat în weekend, târguri filatelice și noutăți de la StampIQ.",
+    "hu": "Bélyegek, amelyeket érdemes ismerni, hétvégi úti célok, bélyegvásárok és hírek a StampIQ-tól.",
+    "da": "Frimærker, der er værd at kende, udflugtsmål til weekenden, frimærkemesser og nyt fra StampIQ."
   },
   {
     "key": "blog.eyebrow",
@@ -2387,7 +3577,12 @@
     "nl": "Blog",
     "pl": "Blog",
     "fr": "Blog",
-    "it": "Blog"
+    "it": "Blog",
+    "cs": "Blog",
+    "sk": "Blog",
+    "ro": "Blog",
+    "hu": "Blog",
+    "da": "Blog"
   },
   {
     "key": "blog.headline",
@@ -2397,7 +3592,12 @@
     "nl": "Voorbij de catalogus",
     "pl": "Poza katalogiem",
     "fr": "Au-delà du catalogue",
-    "it": "Oltre il catalogo"
+    "it": "Oltre il catalogo",
+    "cs": "Za hranicemi katalogu",
+    "sk": "Za hranicami katalógu",
+    "ro": "Dincolo de catalog",
+    "hu": "A katalóguson túl",
+    "da": "Ud over kataloget"
   },
   {
     "key": "blog.lead",
@@ -2407,7 +3607,12 @@
     "nl": "Wat het catalogusnummer weglaat, want een postzegel is meer dan een nummer en een prijs.",
     "pl": "Czego nie ma we wpisie katalogowym, bo znaczek to coś więcej niż numer i cena.",
     "fr": "Ce que la fiche du catalogue ne dit pas, parce qu'un timbre est plus qu'un numéro et un prix.",
-    "it": "Quello che la scheda di catalogo non dice, perché un francobollo è più di un numero e un prezzo."
+    "it": "Quello che la scheda di catalogo non dice, perché un francobollo è più di un numero e un prezzo.",
+    "cs": "Co v katalogovém záznamu nenajdeš, protože známka je víc než číslo a cena.",
+    "sk": "Čo v katalógovom zázname chýba, lebo známka je viac než číslo a cena.",
+    "ro": "Ce nu spune fișa din catalog, pentru că un timbru înseamnă mai mult decât un număr și un preț.",
+    "hu": "Amit a katalógusbejegyzés kihagy, mert egy bélyeg több egy számnál és egy árnál.",
+    "da": "Det, katalogopslaget udelader, for et frimærke er mere end et nummer og en pris."
   },
   {
     "key": "blog.categories_label",
@@ -2417,7 +3622,12 @@
     "nl": "Categorieën",
     "pl": "Kategorie",
     "fr": "Catégories",
-    "it": "Categorie"
+    "it": "Categorie",
+    "cs": "Kategorie",
+    "sk": "Kategórie",
+    "ro": "Categorii",
+    "hu": "Kategóriák",
+    "da": "Kategorier"
   },
   {
     "key": "blog.all_categories",
@@ -2427,7 +3637,12 @@
     "nl": "Alle berichten",
     "pl": "Wszystkie wpisy",
     "fr": "Tous les articles",
-    "it": "Tutti gli articoli"
+    "it": "Tutti gli articoli",
+    "cs": "Všechny příspěvky",
+    "sk": "Všetky príspevky",
+    "ro": "Toate articolele",
+    "hu": "Összes bejegyzés",
+    "da": "Alle indlæg"
   },
   {
     "key": "blog.all_markets",
@@ -2437,7 +3652,12 @@
     "nl": "Alle",
     "pl": "Wszystkie",
     "fr": "Toutes",
-    "it": "Tutte"
+    "it": "Tutte",
+    "cs": "Vše",
+    "sk": "Všetky",
+    "ro": "Toate",
+    "hu": "Összes",
+    "da": "Alle"
   },
   {
     "key": "blog.no_posts_for_market",
@@ -2447,7 +3667,12 @@
     "nl": "Nog geen berichten voor deze regio.",
     "pl": "Brak jeszcze wpisów dla tego regionu.",
     "fr": "Aucun article pour cette région pour l'instant.",
-    "it": "Ancora nessun articolo per questa regione."
+    "it": "Ancora nessun articolo per questa regione.",
+    "cs": "Pro tento region zatím nejsou žádné příspěvky.",
+    "sk": "Pre tento región zatiaľ nie sú žiadne príspevky.",
+    "ro": "Încă niciun articol pentru această regiune.",
+    "hu": "Ehhez a régióhoz még nincs bejegyzés.",
+    "da": "Ingen indlæg for denne region endnu."
   },
   {
     "key": "blog.rss",
@@ -2457,7 +3682,12 @@
     "nl": "RSS-feed",
     "pl": "Kanał RSS",
     "fr": "Flux RSS",
-    "it": "Feed RSS"
+    "it": "Feed RSS",
+    "cs": "Kanál RSS",
+    "sk": "RSS kanál",
+    "ro": "Flux RSS",
+    "hu": "RSS-csatorna",
+    "da": "RSS-feed"
   },
   {
     "key": "blog.more_in_category",
@@ -2467,7 +3697,12 @@
     "nl": "Meer uit {category}",
     "pl": "Więcej z kategorii {category}",
     "fr": "Plus dans {category}",
-    "it": "Altro da {category}"
+    "it": "Altro da {category}",
+    "cs": "Více z kategorie {category}",
+    "sk": "Viac z kategórie {category}",
+    "ro": "Mai multe din {category}",
+    "hu": "Továbbiak: {category}",
+    "da": "Mere fra {category}"
   },
   {
     "key": "blog.draft",
@@ -2477,7 +3712,12 @@
     "nl": "Concept, niet gepubliceerd",
     "pl": "Szkic, nieopublikowany",
     "fr": "Brouillon, non publié",
-    "it": "Bozza, non pubblicata"
+    "it": "Bozza, non pubblicata",
+    "cs": "Koncept, nepublikováno",
+    "sk": "Koncept, nepublikovaný",
+    "ro": "Ciornă, nepublicată",
+    "hu": "Piszkozat, nincs közzétéve",
+    "da": "Kladde, ikke udgivet"
   },
   {
     "key": "blog.embed.youtube",
@@ -2487,7 +3727,12 @@
     "nl": "De video speelt af vanaf YouTube. Bij het laden gaat je IP-adres naar Google, dat cookies kan plaatsen.",
     "pl": "Film odtwarza się z YouTube. Po załadowaniu Twój adres IP trafia do Google, które może zapisać pliki cookie.",
     "fr": "La vidéo est lue depuis YouTube. En la chargeant, ton adresse IP est transmise à Google, qui peut déposer des cookies.",
-    "it": "Il video viene riprodotto da YouTube. Caricandolo, il tuo indirizzo IP viene trasmesso a Google, che può impostare cookie."
+    "it": "Il video viene riprodotto da YouTube. Caricandolo, il tuo indirizzo IP viene trasmesso a Google, che può impostare cookie.",
+    "cs": "Video se přehrává z YouTube. Při načtení se tvoje IP adresa odešle Googlu, který může ukládat soubory cookie.",
+    "sk": "Video sa prehráva z YouTube. Jeho načítaním sa tvoja IP adresa odošle spoločnosti Google, ktorá môže nastaviť súbory cookie.",
+    "ro": "Videoclipul este redat de pe YouTube. Dacă îl încarci, adresa ta IP este transmisă către Google, care poate seta cookie-uri.",
+    "hu": "A videó a YouTube-ról játszódik le. A betöltésekor az IP-címed a Google-hoz kerül, amely sütiket helyezhet el.",
+    "da": "Videoen afspilles fra YouTube. Når den indlæses, sendes din IP-adresse til Google, som kan sætte cookies."
   },
   {
     "key": "blog.embed.instagram",
@@ -2497,7 +3742,12 @@
     "nl": "Dit bericht staat op Instagram. Als je het laadt, wordt je IP-adres naar Meta gestuurd, dat cookies kan plaatsen.",
     "pl": "Ten post jest hostowany na Instagramie. Po jego wczytaniu Twój adres IP trafi do Meta, która może zapisywać pliki cookie.",
     "fr": "Cette publication est hébergée sur Instagram. Si tu la charges, ton adresse IP est transmise à Meta, qui peut déposer des cookies.",
-    "it": "Questo post è ospitato su Instagram. Se lo carichi, il tuo indirizzo IP viene inviato a Meta, che può impostare dei cookie."
+    "it": "Questo post è ospitato su Instagram. Se lo carichi, il tuo indirizzo IP viene inviato a Meta, che può impostare dei cookie.",
+    "cs": "Tento příspěvek je hostovaný na Instagramu. Při načtení se tvoje IP adresa odešle společnosti Meta, která může ukládat soubory cookie.",
+    "sk": "Tento príspevok je na Instagrame. Jeho načítaním sa tvoja IP adresa odošle spoločnosti Meta, ktorá môže nastaviť súbory cookie.",
+    "ro": "Această postare este găzduită pe Instagram. Dacă o încarci, adresa ta IP este transmisă către Meta, care poate seta cookie-uri.",
+    "hu": "Ez a bejegyzés az Instagramon található. A betöltésekor az IP-címed a Metához kerül, amely sütiket helyezhet el.",
+    "da": "Dette opslag ligger på Instagram. Når det indlæses, sendes din IP-adresse til Meta, som kan sætte cookies."
   },
   {
     "key": "blog.embed.facebook",
@@ -2507,7 +3757,12 @@
     "nl": "Deze inhoud staat op Facebook. Als je hem laadt, wordt je IP-adres naar Meta gestuurd, dat cookies kan plaatsen.",
     "pl": "Ta treść jest hostowana na Facebooku. Po jej wczytaniu Twój adres IP trafi do Meta, która może zapisywać pliki cookie.",
     "fr": "Ce contenu est hébergé sur Facebook. Si tu le charges, ton adresse IP est transmise à Meta, qui peut déposer des cookies.",
-    "it": "Questo contenuto è ospitato su Facebook. Se lo carichi, il tuo indirizzo IP viene inviato a Meta, che può impostare dei cookie."
+    "it": "Questo contenuto è ospitato su Facebook. Se lo carichi, il tuo indirizzo IP viene inviato a Meta, che può impostare dei cookie.",
+    "cs": "Tento obsah je hostovaný na Facebooku. Při načtení se tvoje IP adresa odešle společnosti Meta, která může ukládat soubory cookie.",
+    "sk": "Tento obsah je na Facebooku. Jeho načítaním sa tvoja IP adresa odošle spoločnosti Meta, ktorá môže nastaviť súbory cookie.",
+    "ro": "Acest conținut este găzduit pe Facebook. Dacă îl încarci, adresa ta IP este transmisă către Meta, care poate seta cookie-uri.",
+    "hu": "Ez a tartalom a Facebookon található. A betöltésekor az IP-címed a Metához kerül, amely sütiket helyezhet el.",
+    "da": "Dette indhold ligger på Facebook. Når det indlæses, sendes din IP-adresse til Meta, som kan sætte cookies."
   },
   {
     "key": "blog.embed.open",
@@ -2517,7 +3772,12 @@
     "nl": "Openen op {platform}",
     "pl": "Otwórz w serwisie {platform}",
     "fr": "Ouvrir sur {platform}",
-    "it": "Apri su {platform}"
+    "it": "Apri su {platform}",
+    "cs": "Otevřít na {platform}",
+    "sk": "Otvoriť v službe {platform}",
+    "ro": "Deschide pe {platform}",
+    "hu": "Megnyitás itt: {platform}",
+    "da": "Åbn på {platform}"
   },
   {
     "key": "blog.country",
@@ -2527,7 +3787,12 @@
     "nl": "Land",
     "pl": "Kraj",
     "fr": "Pays",
-    "it": "Paese"
+    "it": "Paese",
+    "cs": "Země",
+    "sk": "Krajina",
+    "ro": "Țară",
+    "hu": "Ország",
+    "da": "Land"
   },
   {
     "key": "blog.more_posts",
@@ -2537,7 +3802,12 @@
     "nl": "Meer berichten",
     "pl": "Więcej wpisów",
     "fr": "Plus d'articles",
-    "it": "Altri articoli"
+    "it": "Altri articoli",
+    "cs": "Další příspěvky",
+    "sk": "Ďalšie príspevky",
+    "ro": "Mai multe articole",
+    "hu": "További bejegyzések",
+    "da": "Flere indlæg"
   },
   {
     "key": "blog.more_headline",
@@ -2547,7 +3817,12 @@
     "nl": "Meer uit de blog",
     "pl": "Więcej z bloga",
     "fr": "Plus sur le blog",
-    "it": "Altro dal blog"
+    "it": "Altro dal blog",
+    "cs": "Další z blogu",
+    "sk": "Viac z blogu",
+    "ro": "Mai multe de pe blog",
+    "hu": "Továbbiak a blogról",
+    "da": "Mere fra bloggen"
   },
   {
     "key": "blog.format",
@@ -2557,7 +3832,12 @@
     "nl": "Formaat",
     "pl": "Format",
     "fr": "Format",
-    "it": "Formato"
+    "it": "Formato",
+    "cs": "Formát",
+    "sk": "Formát",
+    "ro": "Format",
+    "hu": "Formátum",
+    "da": "Format"
   },
   {
     "key": "blog.face_value",
@@ -2567,7 +3847,12 @@
     "nl": "Nominale waarde",
     "pl": "Wartość nominalna",
     "fr": "Valeur faciale",
-    "it": "Valore facciale"
+    "it": "Valore facciale",
+    "cs": "Nominální hodnota",
+    "sk": "Nominálna hodnota",
+    "ro": "Valoare nominală",
+    "hu": "Névérték",
+    "da": "Pålydende værdi"
   },
   {
     "key": "blog.catalog_no",
@@ -2577,7 +3862,12 @@
     "nl": "Catalogusnr.",
     "pl": "Nr katalogowy",
     "fr": "N° de catalogue",
-    "it": "N. catalogo"
+    "it": "N. catalogo",
+    "cs": "Katalogové č.",
+    "sk": "Katalógové č.",
+    "ro": "Nr. catalog",
+    "hu": "Katalógusszám",
+    "da": "Katalognr."
   },
   {
     "key": "blog.video.play",
@@ -2587,7 +3877,12 @@
     "nl": "Video van {platform} afspelen",
     "pl": "Odtwórz film z {platform}",
     "fr": "Lire la vidéo depuis {platform}",
-    "it": "Riproduci il video da {platform}"
+    "it": "Riproduci il video da {platform}",
+    "cs": "Přehrát video z {platform}",
+    "sk": "Prehrať video zo služby {platform}",
+    "ro": "Redă videoclipul de pe {platform}",
+    "hu": "Videó lejátszása innen: {platform}",
+    "da": "Afspil video fra {platform}"
   },
   {
     "key": "pageLabel.title",
@@ -2597,7 +3892,12 @@
     "fr": "Ouverture de cette page d'album",
     "it": "Apertura di questa pagina d'album",
     "nl": "Deze albumpagina wordt geopend",
-    "pl": "Otwieranie tej strony albumu"
+    "pl": "Otwieranie tej strony albumu",
+    "cs": "Otevíráme tento albový list",
+    "sk": "Otvárame tento albumový list",
+    "ro": "Deschiderea acestei file de album",
+    "hu": "Ennek az albumlapnak a megnyitása",
+    "da": "Denne albumside åbnes"
   },
   {
     "key": "pageLabel.subtitle",
@@ -2607,6 +3907,11 @@
     "fr": "Ce code est imprimé sur une étiquette de page d'album StampIQ. Il ouvre le scan dont il provient, pour le collectionneur à qui il appartient. Curieux de découvrir StampIQ ? Installez l'application ou poursuivez la lecture.",
     "it": "Questo codice è stampato su un'etichetta di pagina d'album StampIQ. Apre la scansione da cui proviene, per il collezionista a cui appartiene. Vuoi sapere cosa fa StampIQ? Installa l'app o continua a leggere.",
     "nl": "Deze code staat op een StampIQ-albumpaginalabel. Hij opent de scan waaruit hij is gedrukt, voor de verzamelaar aan wie hij toebehoort. Benieuwd wat StampIQ doet? Installeer de app of lees verder.",
-    "pl": "Ten kod jest wydrukowany na etykiecie strony albumu StampIQ. Otwiera skan, z którego pochodzi, dla kolekcjonera, do którego należy. Ciekawi Cię, co robi StampIQ? Zainstaluj aplikację lub czytaj dalej."
+    "pl": "Ten kod jest wydrukowany na etykiecie strony albumu StampIQ. Otwiera skan, z którego pochodzi, dla kolekcjonera, do którego należy. Ciekawi Cię, co robi StampIQ? Zainstaluj aplikację lub czytaj dalej.",
+    "cs": "Tento kód je vytištěný na štítku albového listu StampIQ. Otevře sken, ze kterého pochází, pro sběratele, kterému patří. Zajímá tě, co StampIQ umí? Nainstaluj si aplikaci nebo čti dál.",
+    "sk": "Tento kód je vytlačený na štítku albumového listu StampIQ. Otvorí sken, z ktorého pochádza, pre zberateľa, ktorému patrí. Zaujíma ťa, čo StampIQ dokáže? Nainštaluj si aplikáciu alebo čítaj ďalej.",
+    "ro": "Acest cod este tipărit pe o etichetă de filă de album StampIQ. Deschide scanarea din care provine, pentru colecționarul căruia îi aparține. Vrei să afli ce face StampIQ? Instalează aplicația sau citește mai departe.",
+    "hu": "Ez a kód egy StampIQ albumlapcímkén van kinyomtatva. Azt a szkennelést nyitja meg, amelyből készült, annak a gyűjtőnek, akihez tartozik. Kíváncsi vagy, mit tud a StampIQ? Telepítsd az alkalmazást, vagy olvass tovább.",
+    "da": "Denne kode er trykt på en StampIQ-etiket til albumsider. Den åbner den scanning, den blev trykt ud fra, for den samler, den tilhører. Nysgerrig efter, hvad StampIQ kan? Installer appen, eller læs videre."
   }
 ]
