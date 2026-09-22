@@ -8,6 +8,12 @@ import '../styles/waitlist.css';
 
 const API = 'https://api.stampiq.io/api/v1/waitlist/';
 
+// Public by design. Empty leaves the widget out, which is what local runs want
+// and what api/v1/waitlist/turnstile.py does when its secret is empty. Set both
+// or neither: a secret without a widget refuses every sign-up.
+const TURNSTILE_SITE_KEY = import.meta.env.PUBLIC_TURNSTILE_SITE_KEY || '';
+const TURNSTILE_SCRIPT = 'https://challenges.cloudflare.com/turnstile/v0/api.js';
+
 // The markets the app is not sold in. LIVE markets are left out on purpose:
 // someone there can already download the app. Must match MARKETS in
 // stampiq_backend/api/v1/waitlist/constants.py.
@@ -45,6 +51,15 @@ export default function WaitlistForm() {
   const [error, setError] = useState('');
 
   useEffect(() => {
+    if (!TURNSTILE_SITE_KEY || document.querySelector(`script[src="${TURNSTILE_SCRIPT}"]`)) return;
+    const script = document.createElement('script');
+    script.src = TURNSTILE_SCRIPT;
+    script.async = true;
+    script.defer = true;
+    document.head.appendChild(script);
+  }, []);
+
+  useEffect(() => {
     let cancelled = false;
     fetch(API)
       .then((response) => (response.ok ? response.json() : null))
@@ -70,13 +85,27 @@ export default function WaitlistForm() {
       setError(t('waitlist.error_countries'));
       return;
     }
+    // The widget writes the token into the form as cf-turnstile-response.
+    const turnstileToken = TURNSTILE_SITE_KEY
+      ? String(new FormData(event.target).get('cf-turnstile-response') || '')
+      : '';
+    if (TURNSTILE_SITE_KEY && !turnstileToken) {
+      setError(t('waitlist.error_robot'));
+      return;
+    }
     setError('');
     setStatus('submitting');
     try {
       const response = await fetch(API, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ email: email.trim(), countries, language, source: `web:${lang}` }),
+        body: JSON.stringify({
+          email: email.trim(),
+          countries,
+          language,
+          source: `web:${lang}`,
+          turnstile_token: turnstileToken,
+        }),
       });
       setStatus(response.ok ? 'success' : 'error');
       if (!response.ok) setError(t('waitlist.error'));
@@ -84,6 +113,8 @@ export default function WaitlistForm() {
       setStatus('error');
       setError(t('waitlist.error'));
     }
+    // A token is single use, so a retry needs a fresh one.
+    if (window.turnstile) window.turnstile.reset();
   }
 
   if (status === 'success') {
@@ -151,6 +182,16 @@ export default function WaitlistForm() {
           ))}
         </select>
       </div>
+
+      {TURNSTILE_SITE_KEY && (
+        <div
+          className="cf-turnstile siq-waitlist-group"
+          data-sitekey={TURNSTILE_SITE_KEY}
+          data-appearance="interaction-only"
+          data-size="flexible"
+          data-language={lang}
+        />
+      )}
 
       <button type="submit" className="siq-waitlist-submit" disabled={busy || !email.trim()}>
         {busy ? t('waitlist.submitting') : t('waitlist.submit')}

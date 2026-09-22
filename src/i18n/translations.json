@@ -4168,5 +4168,20 @@
     "ro": "Listă de așteptare",
     "hu": "Várólista",
     "da": "Venteliste"
+  },
+  {
+    "key": "waitlist.error_robot",
+    "section/location": "Waitlist — shown when the bot check has not been completed",
+    "en": "Please complete the check above and try again.",
+    "de": "Bitte schließe die Prüfung oben ab und versuche es erneut.",
+    "fr": "Termine la vérification ci-dessus, puis réessaie.",
+    "it": "Completa la verifica qui sopra e riprova.",
+    "nl": "Rond de controle hierboven af en probeer het opnieuw.",
+    "pl": "Ukończ weryfikację powyżej i spróbuj ponownie.",
+    "cs": "Dokonči ověření výše a zkus to znovu.",
+    "sk": "Dokonči overenie vyššie a skús to znova.",
+    "ro": "Finalizează verificarea de mai sus și încearcă din nou.",
+    "hu": "Fejezd be a fenti ellenőrzést, majd próbáld újra.",
+    "da": "Gennemfør kontrollen ovenfor, og prøv igen."
   }
 ]
