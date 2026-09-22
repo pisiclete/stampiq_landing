@@ -2572,7 +2572,7 @@
     "cs": "Podmínky používání",
     "sk": "Podmienky používania",
     "ro": "Termeni și condiții",
-    "hu": "Felhasználási feltételek",
+    "hu": "Általános Szerződési Feltételek",
     "da": "Brugervilkår"
   },
   {
@@ -2852,7 +2852,7 @@
     "cs": "Podmínky používání – StampIQ",
     "sk": "Podmienky používania – StampIQ",
     "ro": "Termeni și condiții – StampIQ",
-    "hu": "Felhasználási feltételek – StampIQ",
+    "hu": "Általános Szerződési Feltételek – StampIQ",
     "da": "Brugervilkår – StampIQ"
   },
   {
@@ -2866,7 +2866,7 @@
     "cs": "Podmínky používání StampIQ – Pravidla a podmínky používání aplikace pro sbírání známek StampIQ.",
     "sk": "Podmienky používania StampIQ – Pravidlá a podmienky používania aplikácie na zbieranie známok StampIQ.",
     "ro": "Termenii și condițiile StampIQ – Reguli și condiții pentru utilizarea aplicației StampIQ de colecționare de timbre.",
-    "hu": "A StampIQ Felhasználási feltételei – A StampIQ bélyeggyűjtő alkalmazás használatának szabályai és feltételei.",
+    "hu": "A StampIQ Általános Szerződési Feltételei – A StampIQ bélyeggyűjtő alkalmazás használatának szabályai és feltételei.",
     "da": "StampIQ Brugervilkår – Regler og betingelser for brug af frimærkesamler-appen StampIQ."
   },
   {
@@ -2880,7 +2880,7 @@
     "cs": "Podmínky používání",
     "sk": "Podmienky používania",
     "ro": "Termeni și condiții",
-    "hu": "Felhasználási feltételek",
+    "hu": "Általános Szerződési Feltételek",
     "da": "Brugervilkår"
   },
   {
@@ -2922,7 +2922,7 @@
     "cs": "Vítejte ve StampIQ. Tyto Podmínky používání („Podmínky“) upravují váš přístup k mobilní a webové aplikaci StampIQ (společně „Aplikace“) a jejich používání; provozuje je Marius Dygudaj, Zug, Švýcarsko („StampIQ“).",
     "sk": "Vitajte v StampIQ. Tieto Podmienky používania („Podmienky“) upravujú prístup k mobilnej a webovej aplikácii StampIQ (spoločne „Aplikácia“) a jej používanie; prevádzkuje ju Marius Dygudaj, Zug, Švajčiarsko („StampIQ“).",
     "ro": "Bun venit la StampIQ. Prezenții Termeni și condiții („Termenii”) reglementează accesul dumneavoastră la aplicațiile mobile și web StampIQ (împreună, „Aplicația”) și utilizarea acestora, operate de Marius Dygudaj, Zug, Elveția („StampIQ”).",
-    "hu": "Üdvözöljük a StampIQ-ban. A StampIQ mobil- és webalkalmazásait (együttesen: az „Alkalmazás”) Marius Dygudaj (Zug, Svájc) üzemelteti („StampIQ”). A jelen Felhasználási feltételek (a továbbiakban: „Feltételek”) szabályozzák az Ön hozzáférését az Alkalmazáshoz és annak használatát.",
+    "hu": "Üdvözöljük a StampIQ-ban. A StampIQ mobil- és webalkalmazásait (együttesen: az „Alkalmazás”) Marius Dygudaj (Zug, Svájc) üzemelteti („StampIQ”). A jelen Általános Szerződési Feltételek (a továbbiakban: „ÁSZF”) szabályozza az Ön hozzáférését az Alkalmazáshoz és annak használatát.",
     "da": "Velkommen til StampIQ. Disse Brugervilkår (»Vilkårene«) regulerer din adgang til og brug af StampIQs mobil- og webapplikationer (samlet »Appen«), som drives af Marius Dygudaj, Zug, Schweiz (»StampIQ«)."
   },
   {
@@ -2936,7 +2936,7 @@
     "cs": "Vytvořením účtu nebo používáním Aplikace vyjadřujete souhlas s tím, že se řídíte těmito Podmínkami. Pokud s nimi nesouhlasíte, Aplikaci nepoužívejte.",
     "sk": "Vytvorením účtu alebo používaním Aplikácie súhlasíte s tým, že ste viazaní týmito Podmienkami. Ak nesúhlasíte, Aplikáciu nepoužívajte.",
     "ro": "Prin crearea unui cont sau prin utilizarea Aplicației, sunteți de acord să respectați prezenții Termeni. Dacă nu sunteți de acord, nu utilizați Aplicația.",
-    "hu": "A fiók létrehozásával vagy az Alkalmazás használatával Ön a jelen Feltételeket magára nézve kötelezőnek ismeri el. Ha nem ért egyet velük, ne használja az Alkalmazást.",
+    "hu": "A fiók létrehozásával vagy az Alkalmazás használatával Ön a jelen ÁSZF-et magára nézve kötelezőnek ismeri el. Ha nem ért egyet vele, ne használja az Alkalmazást.",
     "da": "Ved at oprette en konto eller bruge Appen accepterer du at være bundet af disse Vilkår. Hvis du ikke er indforstået hermed, må du ikke bruge Appen."
   },
   {
@@ -3006,7 +3006,7 @@
     "cs": "mít způsobilost k právnímu jednání potřebnou k uzavření těchto Podmínek",
     "sk": "mať spôsobilosť na právne úkony potrebnú na uzavretie týchto Podmienok",
     "ro": "Să aveți capacitatea de exercițiu necesară pentru a încheia prezenții Termeni",
-    "hu": "rendelkeznie kell a jelen Feltételek megkötéséhez szükséges cselekvőképességgel",
+    "hu": "rendelkeznie kell a jelen ÁSZF megkötéséhez szükséges cselekvőképességgel",
     "da": "Have retlig handleevne til at indgå disse Vilkår"
   },
   {
@@ -4336,7 +4336,7 @@
     "cs": "Váš Uživatelský obsah neobsahuje škodlivý kód, nelegální materiály ani obsah, který porušuje tyto Podmínky",
     "sk": "Váš Obsah používateľa neobsahuje škodlivý kód, nezákonný materiál ani obsah, ktorý porušuje tieto Podmienky",
     "ro": "Conținutul Utilizatorului care vă aparține nu conține cod rău intenționat, materiale ilegale sau conținut care încalcă prezenții Termeni",
-    "hu": "Az Ön Felhasználói tartalma nem tartalmaz rosszindulatú kódot, jogellenes anyagot vagy a jelen Feltételeket sértő tartalmat",
+    "hu": "Az Ön Felhasználói tartalma nem tartalmaz rosszindulatú kódot, jogellenes anyagot vagy a jelen ÁSZF-et sértő tartalmat",
     "da": "Dit Brugerindhold ikke indeholder skadelig kode, ulovligt materiale eller indhold, der overtræder disse Vilkår"
   },
   {
@@ -4350,7 +4350,7 @@
     "cs": "Vyhrazujeme si právo odstranit Uživatelský obsah, který porušuje tyto Podmínky.",
     "sk": "Vyhradzujeme si právo odstrániť Obsah používateľa, ktorý porušuje tieto Podmienky.",
     "ro": "Ne rezervăm dreptul de a elimina Conținutul Utilizatorului care încalcă prezenții Termeni.",
-    "hu": "Fenntartjuk a jogot, hogy eltávolítsuk a jelen Feltételeket sértő Felhasználói tartalmat.",
+    "hu": "Fenntartjuk a jogot, hogy eltávolítsuk a jelen ÁSZF-et sértő Felhasználói tartalmat.",
     "da": "Vi forbeholder os ret til at fjerne Brugerindhold, der overtræder disse Vilkår."
   },
   {
@@ -4784,7 +4784,7 @@
     "cs": "Vyhrazujeme si právo pozastavit nebo zrušit váš účet při porušení těchto Podmínek.",
     "sk": "Vyhradzujeme si právo pozastaviť alebo zrušiť váš účet pri porušení týchto Podmienok.",
     "ro": "Ne rezervăm dreptul de a suspenda sau de a închide contul dumneavoastră în cazul încălcării prezenților Termeni.",
-    "hu": "Fenntartjuk a jogot, hogy a jelen Feltételek megsértése esetén felfüggesszük vagy megszüntessük az Ön fiókját.",
+    "hu": "Fenntartjuk a jogot, hogy a jelen ÁSZF megsértése esetén felfüggesszük vagy megszüntessük az Ön fiókját.",
     "da": "Vi forbeholder os ret til at suspendere eller lukke din konto ved overtrædelser af disse Vilkår."
   },
   {
@@ -5176,7 +5176,7 @@
     "cs": "Celková kumulativní odpovědnost StampIQ za jakékoli nároky vyplývající z těchto Podmínek nebo z Aplikace či s nimi související nepřesáhne celkovou částku uhrazenou nám z vaší strany za <strong>12 měsíců</strong> předcházejících uplatnění nároku",
     "sk": "Celková kumulatívna zodpovednosť StampIQ za akékoľvek nároky vyplývajúce z týchto Podmienok alebo z Aplikácie alebo s nimi súvisiace neprekročí celkovú sumu, ktorú ste nám zaplatili počas <strong>12 mesiacov</strong> predchádzajúcich nároku",
     "ro": "Răspunderea totală cumulată a StampIQ pentru orice pretenții care decurg din prezenții Termeni ori din Aplicație sau care sunt legate de aceștia nu va depăși suma totală pe care ne-ați plătit-o în cele <strong>12 luni</strong> anterioare pretenției",
-    "hu": "A StampIQ teljes összesített felelőssége a jelen Feltételekből vagy az Alkalmazásból eredő, illetve azokkal összefüggő bármely igény tekintetében nem haladhatja meg azt a teljes összeget, amelyet Ön az igényt megelőző <strong>12 hónapban</strong> fizetett meg nekünk",
+    "hu": "A StampIQ teljes összesített felelőssége a jelen ÁSZF-ből vagy az Alkalmazásból eredő, illetve azokkal összefüggő bármely igény tekintetében nem haladhatja meg azt a teljes összeget, amelyet Ön az igényt megelőző <strong>12 hónapban</strong> fizetett meg nekünk",
     "da": "StampIQs samlede kumulative ansvar for ethvert krav, der udspringer af eller vedrører disse Vilkår eller Appen, kan ikke overstige det samlede beløb, du har betalt til os i de <strong>12 måneder</strong>, der går forud for kravet"
   },
   {
@@ -5204,7 +5204,7 @@
     "cs": "<strong>Žádné ustanovení těchto Podmínek nevylučuje ani neomezuje odpovědnost za:</strong>",
     "sk": "<strong>Žiadne ustanovenie týchto Podmienok nevylučuje ani neobmedzuje zodpovednosť za:</strong>",
     "ro": "<strong>Nicio prevedere din prezenții Termeni nu exclude și nu limitează răspunderea pentru:</strong>",
-    "hu": "<strong>A jelen Feltételek egyetlen rendelkezése sem zárja ki és nem korlátozza a felelősséget a következőkért:</strong>",
+    "hu": "<strong>A jelen ÁSZF egyetlen rendelkezése sem zárja ki és nem korlátozza a felelősséget a következőkért:</strong>",
     "da": "<strong>Intet i disse Vilkår udelukker eller begrænser ansvaret for:</strong>"
   },
   {
@@ -5288,7 +5288,7 @@
     "cs": "Vašeho porušení těchto Podmínek",
     "sk": "Vášho porušenia týchto Podmienok",
     "ro": "Încălcarea de către dumneavoastră a prezenților Termeni",
-    "hu": "A jelen Feltételek Ön általi megsértése",
+    "hu": "A jelen ÁSZF Ön általi megsértése",
     "da": "Din overtrædelse af disse Vilkår"
   },
   {
@@ -5316,7 +5316,7 @@
     "cs": "Vašeho používání Aplikace způsobem, který tyto Podmínky nepovolují",
     "sk": "Vášho používania Aplikácie spôsobom, ktorý tieto Podmienky nepovoľujú",
     "ro": "Utilizarea Aplicației de către dumneavoastră într-un mod neautorizat de prezenții Termeni",
-    "hu": "Az Alkalmazás Ön általi, a jelen Feltételek által nem engedélyezett módon történő használata",
+    "hu": "Az Alkalmazás Ön általi, a jelen ÁSZF által nem engedélyezett módon történő használata",
     "da": "Din brug af Appen på en måde, der ikke er tilladt efter disse Vilkår"
   },
   {
@@ -5470,7 +5470,7 @@
     "cs": "Porušujete tyto Podmínky",
     "sk": "Porušíte tieto Podmienky",
     "ro": "Încălcați prezenții Termeni",
-    "hu": "Ön megsérti a jelen Feltételeket",
+    "hu": "Ön megsérti a jelen ÁSZF-et",
     "da": "Du overtræder disse Vilkår"
   },
   {
@@ -5624,7 +5624,7 @@
     "cs": "14. Změny těchto Podmínek",
     "sk": "14. Zmeny týchto Podmienok",
     "ro": "14. Modificări ale prezenților Termeni",
-    "hu": "14. A jelen Feltételek módosítása",
+    "hu": "14. A jelen ÁSZF módosítása",
     "da": "14. Ændringer af disse Vilkår"
   },
   {
@@ -5638,7 +5638,7 @@
     "cs": "Tyto Podmínky můžeme kdykoli změnit. Pokud provedeme podstatné změny:",
     "sk": "Tieto Podmienky môžeme kedykoľvek zmeniť. Keď vykonáme podstatné zmeny:",
     "ro": "Putem modifica prezenții Termeni în orice moment. Atunci când efectuăm modificări substanțiale:",
-    "hu": "A jelen Feltételeket bármikor módosíthatjuk. Lényeges módosítások esetén:",
+    "hu": "A jelen ÁSZF-et bármikor módosíthatjuk. Lényeges módosítások esetén:",
     "da": "Vi kan til enhver tid ændre disse Vilkår. Når vi foretager væsentlige ændringer:"
   },
   {
@@ -5666,7 +5666,7 @@
     "cs": "Aktualizované Podmínky budou uvádět nové datum účinnosti",
     "sk": "Aktualizované Podmienky budú uvádzať nový dátum účinnosti",
     "ro": "Termenii actualizați vor indica noua dată de intrare în vigoare",
-    "hu": "A frissített Feltételek megjelölik az új hatálybalépési dátumot",
+    "hu": "A frissített ÁSZF megjelöli az új hatálybalépési dátumot",
     "da": "De opdaterede Vilkår angiver den nye ikrafttrædelsesdato"
   },
   {
@@ -5736,7 +5736,7 @@
     "cs": "Tyto Podmínky se řídí právem <strong>Švýcarska</strong> a v souladu s ním se také vykládají, bez ohledu na kolizní normy.",
     "sk": "Tieto Podmienky sa riadia právnym poriadkom <strong>Švajčiarska</strong> a vykladajú sa v súlade s ním, bez ohľadu na kolízne normy.",
     "ro": "Prezenții Termeni sunt guvernați și interpretați în conformitate cu legile <strong>Elveției</strong>, fără a ține seama de principiile conflictului de legi.",
-    "hu": "A jelen Feltételekre <strong>Svájc</strong> joga az irányadó, és azokat ennek megfelelően kell értelmezni, a kollíziós jogi elvek figyelmen kívül hagyásával.",
+    "hu": "A jelen ÁSZF-re <strong>Svájc</strong> joga az irányadó, és azt ennek megfelelően kell értelmezni, a kollíziós jogi elvek figyelmen kívül hagyásával.",
     "da": "Disse Vilkår er underlagt og fortolkes i overensstemmelse med lovgivningen i <strong>Schweiz</strong>, uden hensyn til lovvalgsregler."
   },
   {
@@ -5778,7 +5778,7 @@
     "cs": "Veškeré spory vyplývající z těchto Podmínek nebo v souvislosti s nimi podléhají výlučné pravomoci obecných soudů <strong>kantonu Zug, Švýcarsko</strong>.",
     "sk": "Všetky spory vyplývajúce z týchto Podmienok alebo súvisiace s nimi patria do výlučnej právomoci všeobecných súdov <strong>kantónu Zug, Švajčiarsko</strong>.",
     "ro": "Orice litigii care decurg din prezenții Termeni sau în legătură cu aceștia vor fi supuse jurisdicției exclusive a instanțelor de drept comun din <strong>Cantonul Zug, Elveția</strong>.",
-    "hu": "A jelen Feltételekből eredő vagy azokkal összefüggő bármely jogvita elbírálására kizárólagos joghatósággal a <strong>svájci Zug kanton</strong> rendes bíróságai rendelkeznek.",
+    "hu": "A jelen ÁSZF-ből eredő vagy azzal összefüggő bármely jogvita elbírálására kizárólagosan a <strong>svájci Zug kanton</strong> rendes bíróságai illetékesek.",
     "da": "Enhver tvist, der udspringer af eller har forbindelse med disse Vilkår, indbringes for de ordinære domstole i <strong>kantonen Zug, Schweiz</strong>, som har enekompetence."
   },
   {
@@ -5848,7 +5848,7 @@
     "cs": "Pokud bude některé ustanovení těchto Podmínek shledáno nevymahatelným nebo neplatným, bude toto ustanovení omezeno nebo odstraněno v nezbytném minimálním rozsahu a zbývající ustanovení zůstanou v plné platnosti a účinnosti.",
     "sk": "Ak sa niektoré ustanovenie týchto Podmienok ukáže ako nevymáhateľné alebo neplatné, toto ustanovenie sa obmedzí alebo odstráni v minimálnom nevyhnutnom rozsahu a ostatné ustanovenia zostanú v plnej platnosti a účinnosti.",
     "ro": "Dacă orice prevedere a prezenților Termeni este considerată inaplicabilă sau nevalabilă, acea prevedere va fi limitată sau eliminată în măsura minimă necesară, iar celelalte prevederi vor rămâne pe deplin în vigoare și își vor produce efectele.",
-    "hu": "Ha a jelen Feltételek bármely rendelkezése kikényszeríthetetlennek vagy érvénytelennek bizonyul, az adott rendelkezés a szükséges legkisebb mértékben korlátozásra vagy törlésre kerül, a többi rendelkezés pedig teljes egészében hatályban és érvényben marad.",
+    "hu": "Ha a jelen ÁSZF bármely rendelkezése végrehajthatatlannak vagy érvénytelennek bizonyul, az adott rendelkezés a szükséges legkisebb mértékben korlátozásra vagy törlésre kerül, a többi rendelkezés pedig teljes egészében hatályban és érvényben marad.",
     "da": "Hvis en bestemmelse i disse Vilkår viser sig ikke at kunne håndhæves eller at være ugyldig, begrænses eller fjernes den pågældende bestemmelse i det mindst mulige omfang, og de øvrige bestemmelser forbliver i fuld kraft og virkning."
   },
   {
@@ -5876,7 +5876,7 @@
     "cs": "Tyto Podmínky spolu s našimi Zásadami ochrany osobních údajů a veškerými platnými podmínkami předplatného představují úplnou dohodu mezi vámi a StampIQ ohledně používání Aplikace a nahrazují všechny předchozí dohody.",
     "sk": "Tieto Podmienky spolu s našimi Zásadami ochrany osobných údajov a akýmikoľvek platnými podmienkami predplatného predstavujú úplnú dohodu medzi vami a StampIQ o používaní Aplikácie a nahrádzajú všetky predchádzajúce dohody.",
     "ro": "Prezenții Termeni, împreună cu Politica noastră de confidențialitate și cu orice condiții de abonament aplicabile, constituie acordul integral dintre dumneavoastră și StampIQ cu privire la utilizarea Aplicației și înlocuiesc toate acordurile anterioare.",
-    "hu": "A jelen Feltételek az Adatvédelmi tájékoztatónkkal és a vonatkozó előfizetési feltételekkel együtt az Ön és a StampIQ közötti teljes megállapodást képezik az Alkalmazás használatára vonatkozóan, és valamennyi korábbi megállapodás helyébe lépnek.",
+    "hu": "A jelen ÁSZF az Adatvédelmi tájékoztatónkkal és a vonatkozó előfizetési feltételekkel együtt az Ön és a StampIQ közötti teljes megállapodást képezi az Alkalmazás használatára vonatkozóan, és valamennyi korábbi megállapodás helyébe lép.",
     "da": "Disse Vilkår udgør sammen med vores Privatlivspolitik og eventuelle gældende abonnementsvilkår hele aftalen mellem dig og StampIQ vedrørende brugen af Appen og erstatter alle tidligere aftaler."
   },
   {
@@ -5904,7 +5904,7 @@
     "cs": "Pokud některé ustanovení těchto Podmínek neuplatníme, nepředstavuje to vzdání se tohoto ani jiného ustanovení.",
     "sk": "Ak niektoré ustanovenie týchto Podmienok nevymáhame, neznamená to vzdanie sa tohto ani žiadneho iného ustanovenia.",
     "ro": "Neaplicarea de către noi a oricărei prevederi din prezenții Termeni nu constituie o renunțare la acea prevedere sau la oricare alta.",
-    "hu": "Ha nem érvényesítjük a jelen Feltételek valamely rendelkezését, az nem minősül az adott vagy bármely más rendelkezésről való lemondásnak.",
+    "hu": "Ha nem érvényesítjük a jelen ÁSZF valamely rendelkezését, az nem minősül az adott vagy bármely más rendelkezésről való lemondásnak.",
     "da": "Vores manglende håndhævelse af en bestemmelse i disse Vilkår udgør ikke et afkald på denne eller nogen anden bestemmelse."
   },
   {
@@ -5932,7 +5932,7 @@
     "cs": "Svá práva ani povinnosti vyplývající z těchto Podmínek nemůžete postoupit ani převést bez našeho předchozího písemného souhlasu. My můžeme svá práva a povinnosti postoupit bez omezení.",
     "sk": "Nesmiete postúpiť ani previesť svoje práva alebo povinnosti podľa týchto Podmienok bez nášho predchádzajúceho písomného súhlasu. My môžeme svoje práva a povinnosti postúpiť bez obmedzenia.",
     "ro": "Nu puteți cesiona sau transfera drepturile sau obligațiile dumneavoastră în temeiul prezenților Termeni fără consimțământul nostru prealabil scris. Noi putem cesiona drepturile și obligațiile noastre fără restricții.",
-    "hu": "Ön a jelen Feltételekből eredő jogait vagy kötelezettségeit előzetes írásbeli hozzájárulásunk nélkül nem engedményezheti és nem ruházhatja át. Mi jogainkat és kötelezettségeinket korlátozás nélkül engedményezhetjük.",
+    "hu": "Ön a jelen ÁSZF-ből eredő jogait vagy kötelezettségeit előzetes írásbeli hozzájárulásunk nélkül nem engedményezheti és nem ruházhatja át. Mi jogainkat és kötelezettségeinket korlátozás nélkül engedményezhetjük.",
     "da": "Du må ikke overdrage eller overføre dine rettigheder eller forpligtelser i henhold til disse Vilkår uden vores forudgående skriftlige samtykke. Vi kan overdrage vores rettigheder og forpligtelser uden begrænsning."
   },
   {
@@ -5960,7 +5960,7 @@
     "cs": "Pokud máte jakékoli dotazy k těmto Podmínkám:",
     "sk": "Ak máte akékoľvek otázky k týmto Podmienkam:",
     "ro": "Dacă aveți întrebări cu privire la prezenții Termeni:",
-    "hu": "Ha kérdése van a jelen Feltételekkel kapcsolatban:",
+    "hu": "Ha kérdése van a jelen ÁSZF-fel kapcsolatban:",
     "da": "Hvis du har spørgsmål til disse Vilkår:"
   },
   {
@@ -6002,7 +6002,7 @@
     "cs": "Tyto Podmínky používání se řídí právem Švýcarska. Práva spotřebitelů podle předpisů EU zůstávají zachována tam, kde se uplatní.",
     "sk": "Tieto Podmienky používania sa riadia právnym poriadkom Švajčiarska. Práva spotrebiteľov podľa práva EÚ zostávajú zachované tam, kde sa uplatňujú.",
     "ro": "Prezenții Termeni și condiții sunt guvernați de legile Elveției. Drepturile de protecție a consumatorilor din UE sunt păstrate acolo unde sunt aplicabile.",
-    "hu": "A jelen Felhasználási feltételekre Svájc joga az irányadó. Az uniós fogyasztóvédelmi jogok – amennyiben alkalmazandók – fennmaradnak.",
+    "hu": "A jelen Általános Szerződési Feltételekre Svájc joga az irányadó. Az uniós fogyasztóvédelmi jogok – amennyiben alkalmazandók – fennmaradnak.",
     "da": "Disse Brugervilkår er underlagt schweizisk ret. EU's forbrugerbeskyttelsesrettigheder bevares, hvor de finder anvendelse."
   },
   {
@@ -6170,7 +6170,7 @@
     "cs": "V souladu s našimi <a href=\"terms.html\">Podmínkami používání</a> a <a href=\"privacy.html\">Zásadami ochrany osobních údajů</a> mohou být po smazání účtu uchovány tyto údaje:",
     "sk": "V súlade s našimi <a href=\"terms.html\">Podmienkami používania</a> a <a href=\"privacy.html\">Zásadami ochrany osobných údajov</a> sa po vymazaní účtu môžu uchovávať tieto údaje:",
     "ro": "În conformitate cu <a href=\"terms.html\">Termenii și condițiile</a> și cu <a href=\"privacy.html\">Politica de confidențialitate</a> ale noastre, următoarele date pot fi păstrate după ștergerea contului:",
-    "hu": "A <a href=\"terms.html\">Felhasználási feltételeinkkel</a> és az <a href=\"privacy.html\">Adatvédelmi tájékoztatónkkal</a> összhangban a fiók törlését követően a következő adatok őrizhetők meg:",
+    "hu": "Az <a href=\"terms.html\">ÁSZF-ünkkel</a> és az <a href=\"privacy.html\">Adatvédelmi tájékoztatónkkal</a> összhangban a fiók törlését követően a következő adatok őrizhetők meg:",
     "da": "I overensstemmelse med vores <a href=\"terms.html\">Brugervilkår</a> og vores <a href=\"privacy.html\">Privatlivspolitik</a> kan følgende data opbevares efter sletning af kontoen:"
   },
   {
@@ -6184,7 +6184,7 @@
     "cs": "Obrázky známek odeslané prostřednictvím funkce skenování mohou být uchovávány na základě trvalé licence za účelem vylepšování a trénování našeho modelu rozpoznávání známek (SigiVision), jak je popsáno v oddílu 7.3 našich Podmínek používání",
     "sk": "Obrázky známok odoslané prostredníctvom funkcie skenovania sa môžu uchovávať na základe trvalej licencie na účely zlepšovania a trénovania nášho modelu na rozpoznávanie známok (SigiVision), ako je opísané v časti 7.3 našich Podmienok používania",
     "ro": "Imaginile de timbre transmise prin funcția de scanare pot fi păstrate în baza unei licențe perpetue, în scopul îmbunătățirii și antrenării modelului nostru de recunoaștere a timbrelor (SigiVision), astfel cum se descrie în secțiunea 7.3 din Termenii și condițiile noastre",
-    "hu": "A szkennelési funkción keresztül beküldött bélyegképek örökös licenc alapján megőrizhetők a bélyegfelismerő modellünk (SigiVision) fejlesztése és betanítása céljából, a Felhasználási feltételeink 7.3. szakaszában leírtak szerint",
+    "hu": "A szkennelési funkción keresztül beküldött bélyegképek örökös licenc alapján megőrizhetők a bélyegfelismerő modellünk (SigiVision) fejlesztése és betanítása céljából, az ÁSZF-ünk 7.3. szakaszában leírtak szerint",
     "da": "Frimærkebilleder, der er indsendt via scanningsfunktionen, kan opbevares under en tidsubegrænset licens med henblik på at forbedre og træne vores model til frimærkegenkendelse (SigiVision), som beskrevet i Afsnit 7.3 i vores Brugervilkår"
   },
   {
