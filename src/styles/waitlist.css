@@ -1,0 +1,139 @@
+/* StampIQ — waitlist form. Geometry and colour come from tokens.css; the
+   chips follow the country pills in features.jsx. */
+
+.siq-waitlist {
+  max-width: 620px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.siq-waitlist-intro {
+  font-size: var(--siq-fs-md);
+  line-height: 1.65;
+  color: var(--siq-fg-muted);
+  margin: 0 0 28px;
+}
+
+.siq-waitlist label,
+.siq-waitlist legend {
+  display: block;
+  font-size: var(--siq-fs-sm);
+  font-weight: var(--siq-fw-bold);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--siq-fg-muted);
+  padding: 0;
+  margin-bottom: 10px;
+}
+
+.siq-waitlist-field {
+  width: 100%;
+  box-sizing: border-box;
+  font-family: var(--siq-font-sans);
+  color: var(--siq-fg);
+}
+
+.siq-waitlist-group { margin-top: 28px; border: 0; padding: 0; }
+
+.siq-waitlist-hint {
+  font-size: var(--siq-fs-sm);
+  color: var(--siq-fg-muted);
+  margin: -4px 0 12px;
+}
+
+.siq-waitlist-chips { display: flex; flex-wrap: wrap; gap: 10px; }
+
+.siq-waitlist-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 14px;
+  border-radius: var(--siq-radius-lg);
+  border: 1px solid var(--siq-border);
+  background: white;
+  color: var(--siq-fg);
+  font-family: var(--siq-font-sans);
+  font-size: var(--siq-fs-sm);
+  font-weight: var(--siq-fw-semibold);
+  cursor: pointer;
+  transition: border-color var(--siq-dur-base) var(--siq-ease),
+              background var(--siq-dur-base) var(--siq-ease);
+}
+.siq-waitlist-chip:hover { border-color: var(--siq-green); }
+.siq-waitlist-chip .flag { font-size: 16px; }
+.siq-waitlist-chip[aria-pressed='true'] {
+  background: var(--siq-green);
+  border-color: var(--siq-green);
+  color: white;
+}
+
+.siq-waitlist-select {
+  appearance: none;
+  -webkit-appearance: none;
+  background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23888888' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e");
+  background-repeat: no-repeat;
+  background-position: right 18px center;
+  background-size: 18px;
+  padding-right: 48px;
+  cursor: pointer;
+}
+
+/* Matches the "Open StampIQ in your browser" button in components/webapp.jsx,
+   which is the landing's standalone action button. The radius-12 plan button in
+   pricing.jsx is the exception, and it sits inside a card. */
+.siq-waitlist-submit {
+  display: inline-flex;
+  align-items: center;
+  margin-top: 32px;
+  padding: 14px 30px;
+  border: none;
+  border-radius: var(--siq-radius-full);
+  background: var(--siq-green);
+  color: white;
+  font-family: var(--siq-font-sans);
+  font-size: var(--siq-fs-base);
+  font-weight: var(--siq-fw-bold);
+  box-shadow: 0 8px 25px rgba(102, 226, 4, 0.40);
+  cursor: pointer;
+  transition: transform var(--siq-dur-base) var(--siq-ease),
+              box-shadow var(--siq-dur-base) var(--siq-ease);
+}
+.siq-waitlist-submit:hover:enabled {
+  transform: translateY(-2px);
+  box-shadow: var(--siq-shadow-cta-hover);
+}
+.siq-waitlist-submit:disabled {
+  background: var(--siq-border);
+  color: var(--siq-fg-muted);
+  box-shadow: none;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.siq-waitlist-error {
+  color: #dc3545;
+  font-size: var(--siq-fs-base);
+  margin: 14px 0 0;
+}
+
+.siq-waitlist-note {
+  font-size: var(--siq-fs-sm);
+  line-height: 1.6;
+  color: var(--siq-fg-muted);
+  margin: 18px 0 0;
+}
+
+.siq-waitlist-done {
+  background: var(--siq-green-tint);
+  border: 1px solid var(--siq-green);
+  border-radius: var(--siq-radius-md);
+  padding: 20px 22px;
+  font-size: var(--siq-fs-md);
+  line-height: 1.65;
+  color: var(--siq-fg);
+  margin: 0;
+}
+
+@media (max-width: 640px) {
+  .siq-waitlist-submit { width: 100%; justify-content: center; }
+}

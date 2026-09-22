@@ -4,7 +4,7 @@ import React, { useEffect, useState } from 'react';
 import { useT, useLang } from '../i18n/I18nContext';
 import { PAGE_LANGS } from '../i18n/langs.mjs';
 import { marketFlag, marketName } from '../lib/markets.mjs';
-import { SIQ } from '../lib/tokens';
+import '../styles/waitlist.css';
 
 const API = 'https://api.stampiq.io/api/v1/waitlist/';
 
@@ -14,9 +14,26 @@ const API = 'https://api.stampiq.io/api/v1/waitlist/';
 const PROSPECT_MARKETS = ['CZ', 'SK', 'HU', 'RO', 'DK', 'FR', 'IT', 'BE', 'LU', 'UK', 'VA'];
 const OTHER = 'XX';
 
-// Which market a page language points at, for the preselection when Cloudflare
-// gives no country. A language is a weaker signal than the IP, so the IP wins.
+// Which market a page language points at, for the preselection while the
+// country lookup is in flight. A language is a weaker signal than the IP.
 const MARKET_FOR_LANG = { cs: 'CZ', sk: 'SK', hu: 'HU', ro: 'RO', da: 'DK', fr: 'FR', it: 'IT' };
+
+// Each language's own name for itself. Written out rather than taken from
+// Intl.DisplayNames, which follows each language's own capitalisation rule
+// (français, polski, dansk are lowercase) and differs between browsers.
+const LANGUAGE_NAMES = {
+  en: 'English',
+  de: 'Deutsch',
+  fr: 'Français',
+  it: 'Italiano',
+  nl: 'Nederlands',
+  pl: 'Polski',
+  cs: 'Čeština',
+  sk: 'Slovenčina',
+  ro: 'Română',
+  hu: 'Magyar',
+  da: 'Dansk',
+};
 
 export default function WaitlistForm() {
   const t = useT();
@@ -59,12 +76,7 @@ export default function WaitlistForm() {
       const response = await fetch(API, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          email: email.trim(),
-          countries,
-          language,
-          source: `web:${lang}`,
-        }),
+        body: JSON.stringify({ email: email.trim(), countries, language, source: `web:${lang}` }),
       });
       setStatus(response.ok ? 'success' : 'error');
       if (!response.ok) setError(t('waitlist.error'));
@@ -75,47 +87,16 @@ export default function WaitlistForm() {
   }
 
   if (status === 'success') {
-    return (
-      <p style={{ margin: 0, padding: '16px 18px', borderRadius: 12, background: '#F0FBE6', color: SIQ.fg, fontSize: 15, lineHeight: 1.6 }}>
-        {t('waitlist.success')}
-      </p>
-    );
+    return <p className="siq-waitlist-done">{t('waitlist.success')}</p>;
   }
 
-  const chip = (selected) => ({
-    display: 'inline-flex',
-    alignItems: 'center',
-    gap: 6,
-    padding: '7px 14px',
-    marginRight: 8,
-    marginBottom: 8,
-    borderRadius: 999,
-    border: `1px solid ${selected ? SIQ.fg : SIQ.border}`,
-    background: selected ? SIQ.fg : 'white',
-    color: selected ? 'white' : SIQ.fg,
-    fontSize: 14,
-    fontWeight: 600,
-    cursor: 'pointer',
-  });
-
-  const field = {
-    width: '100%',
-    padding: '12px 14px',
-    borderRadius: 10,
-    border: `1px solid ${SIQ.border}`,
-    fontSize: 15,
-    fontFamily: 'inherit',
-    background: 'white',
-    color: SIQ.fg,
-  };
+  const busy = status === 'submitting';
 
   return (
-    <form onSubmit={onSubmit} style={{ textAlign: 'left', marginTop: 28 }}>
-      <p style={{ fontSize: 15, color: SIQ.fgSubtle, lineHeight: 1.6, margin: '0 0 20px' }}>{t('waitlist.intro')}</p>
+    <form className="siq-waitlist" onSubmit={onSubmit}>
+      <p className="siq-waitlist-intro">{t('waitlist.intro')}</p>
 
-      <label htmlFor="waitlist-email" style={{ display: 'block', fontSize: 14, fontWeight: 600, marginBottom: 6 }}>
-        {t('waitlist.email_label')}
-      </label>
+      <label htmlFor="waitlist-email">{t('waitlist.email_label')}</label>
       <input
         id="waitlist-email"
         name="email"
@@ -124,92 +105,60 @@ export default function WaitlistForm() {
         placeholder="you@example.com"
         value={email}
         onChange={(e) => setEmail(e.target.value)}
-        disabled={status === 'submitting'}
-        style={field}
+        disabled={busy}
+        className="siq-input siq-waitlist-field"
       />
 
-      <fieldset style={{ border: 0, padding: 0, margin: '20px 0 0' }}>
-        <legend style={{ fontSize: 14, fontWeight: 600, padding: 0, marginBottom: 2 }}>
-          {t('waitlist.countries_label')}
-        </legend>
-        <p style={{ fontSize: 13, color: SIQ.fgSubtle, margin: '0 0 10px' }}>{t('waitlist.countries_hint')}</p>
-        <div>
+      <fieldset className="siq-waitlist-group">
+        <legend>{t('waitlist.countries_label')}</legend>
+        <p className="siq-waitlist-hint">{t('waitlist.countries_hint')}</p>
+        <div className="siq-waitlist-chips">
           {PROSPECT_MARKETS.map((code) => (
             <button
               key={code}
               type="button"
+              className="siq-waitlist-chip"
               aria-pressed={countries.includes(code)}
               onClick={() => toggle(code)}
-              style={chip(countries.includes(code))}
             >
-              <span aria-hidden="true">{marketFlag(code)}</span>
+              <span className="flag" aria-hidden="true">{marketFlag(code)}</span>
               {marketName(code, lang)}
             </button>
           ))}
           <button
-            key={OTHER}
             type="button"
+            className="siq-waitlist-chip"
             aria-pressed={countries.includes(OTHER)}
             onClick={() => toggle(OTHER)}
-            style={chip(countries.includes(OTHER))}
           >
             {t('waitlist.country_other')}
           </button>
         </div>
       </fieldset>
 
-      <label htmlFor="waitlist-language" style={{ display: 'block', fontSize: 14, fontWeight: 600, margin: '20px 0 6px' }}>
-        {t('waitlist.language_label')}
-      </label>
-      <select
-        id="waitlist-language"
-        name="language"
-        value={language}
-        onChange={(e) => setLanguage(e.target.value)}
-        disabled={status === 'submitting'}
-        style={field}
-      >
-        {PAGE_LANGS.map((code) => (
-          <option key={code} value={code}>
-            {marketLanguageName(code)}
-          </option>
-        ))}
-      </select>
+      <div className="siq-waitlist-group">
+        <label htmlFor="waitlist-language">{t('waitlist.language_label')}</label>
+        <select
+          id="waitlist-language"
+          name="language"
+          value={language}
+          onChange={(e) => setLanguage(e.target.value)}
+          disabled={busy}
+          className="siq-input siq-waitlist-field siq-waitlist-select"
+        >
+          {PAGE_LANGS.map((code) => (
+            <option key={code} value={code}>{LANGUAGE_NAMES[code] ?? code}</option>
+          ))}
+        </select>
+      </div>
 
-      <button
-        type="submit"
-        disabled={status === 'submitting' || !email.trim()}
-        style={{
-          width: '100%',
-          marginTop: 24,
-          padding: '14px 20px',
-          borderRadius: 999,
-          border: 0,
-          background: SIQ.green,
-          color: '#1a1a1a',
-          fontSize: 16,
-          fontWeight: 700,
-          fontFamily: 'inherit',
-          cursor: status === 'submitting' ? 'default' : 'pointer',
-          opacity: status === 'submitting' || !email.trim() ? 0.6 : 1,
-        }}
-      >
-        {status === 'submitting' ? t('waitlist.submitting') : t('waitlist.submit')}
+      <button type="submit" className="siq-waitlist-submit" disabled={busy || !email.trim()}>
+        {busy ? t('waitlist.submitting') : t('waitlist.submit')}
       </button>
 
-      {error && <p style={{ color: '#C0392B', fontSize: 14, margin: '12px 0 0' }}>{error}</p>}
+      {error && <p className="siq-waitlist-error">{error}</p>}
 
-      <p style={{ fontSize: 13, color: SIQ.fgSubtle, lineHeight: 1.6, margin: '16px 0 0' }}>
-        {t('waitlist.privacy_note')}
-      </p>
+      <p className="siq-waitlist-note">{t('waitlist.privacy_note')}</p>
     </form>
   );
-}
-
-function marketLanguageName(code) {
-  try {
-    return new Intl.DisplayNames([code], { type: 'language' }).of(code) ?? code;
-  } catch {
-    return code;
-  }
 }
