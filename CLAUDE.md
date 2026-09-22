@@ -7,7 +7,7 @@
 StampIQ Landing is the static marketing and legal site for stampiq.io, built with Astro and React and deployed to GitHub Pages. It serves six language versions (English, German, French, Italian, Dutch, Polish) with pre-rendered per-language routes, along with privacy, terms, and account deletion pages. The site includes a blog system managed by an external cockpit that commits posts in a defined JSON format, with support for multiple block types, rich media embeds, and per-language slug handling.
 
 ## Current status
-The blog shipped on 2026-09-16 with mobile layout fixes applied the following day. One open issue remains: final pricing and producibility confirmation from DDM for the DBZ 22 insert.
+The blog shipped on 2026-09-16 with mobile layout fixes applied the following day, and a /s/<SCAN_ID> route for printed page labels was added on 2026-09-21. One open issue remains: final pricing and producibility confirmation from DDM for the DBZ 22 insert.
 
 ## Recent activity
 - 2026-09-21: /s/<SCAN_ID> route added to serve printed page labels (1 commit)
@@ -45,5 +45,5 @@ The blog shipped on 2026-09-16 with mobile layout fixes applied the following da
 - Obtain final pricing and producibility confirmation from DDM for DBZ 22 insert.
 
 ## Handoff notes
-The site is stable. The only open item is awaiting DDM's final pricing and producibility confirmation for the DBZ 22 insert (105x210 mm folded, 315x210 mm open). Recent feature work covered the blog addition and mobile layout fixes, the Swiss flag newsletter asset, fair-stand privacy policy update, the /subscribe deep-link path, the EN demo video, press and autumn fairs additions, under-13 legal disclosures, and the /r and /p promo and universal-link paths. Daily CLAUDE.md commits appear automated and carry no functional changes.
+The site is stable. The only open item is awaiting DDM's final pricing and producibility confirmation for the DBZ 22 insert (105x210 mm folded, 315x210 mm open). Recent feature work covered the blog addition and mobile layout fixes, the /s/<SCAN_ID> label route, the Swiss flag newsletter asset, fair-stand privacy policy update, the /subscribe deep-link path, the EN demo video, press and autumn fairs additions, under-13 legal disclosures, and the /r and /p promo and universal-link paths. Daily CLAUDE.md commits appear automated and carry no functional changes.
 <!-- sigi-end -->
