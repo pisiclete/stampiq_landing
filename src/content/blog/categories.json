@@ -3,15 +3,15 @@
     "id": "feature",
     "position": 1,
     "languages": {
-      "de": {
-        "name": "Funktionen",
-        "slug": "funktionen",
-        "description": "Was die App kann und wie du sie nutzt."
-      },
       "en": {
         "name": "Features",
         "slug": "features",
         "description": "What the app does and how to use it."
+      },
+      "de": {
+        "name": "Funktionen",
+        "slug": "funktionen",
+        "description": "Was die App kann und wie du sie nutzt."
       },
       "fr": {
         "name": "Fonctionnalités",
@@ -32,6 +32,31 @@
         "name": "Funkcje",
         "slug": "funkcje",
         "description": "Co potrafi aplikacja i jak z niej korzystać."
+      },
+      "cs": {
+        "name": "Funkce",
+        "slug": "funkce",
+        "description": "Co aplikace umí a jak ji používat."
+      },
+      "sk": {
+        "name": "Funkcie",
+        "slug": "funkcie",
+        "description": "Čo aplikácia dokáže a ako ju používať."
+      },
+      "ro": {
+        "name": "Funcții",
+        "slug": "functii",
+        "description": "Ce face aplicația și cum o folosești."
+      },
+      "hu": {
+        "name": "Funkciók",
+        "slug": "funkciok",
+        "description": "Mit tud az alkalmazás és hogyan használd."
+      },
+      "da": {
+        "name": "Funktioner",
+        "slug": "funktioner",
+        "description": "Hvad appen kan, og hvordan du bruger den."
       }
     }
   },
@@ -39,15 +64,15 @@
     "id": "event",
     "position": 2,
     "languages": {
-      "de": {
-        "name": "Veranstaltungen",
-        "slug": "veranstaltungen",
-        "description": "Briefmarkenmessen, Ausstellungen und wo du uns triffst."
-      },
       "en": {
         "name": "Events",
         "slug": "events",
         "description": "Stamp fairs, exhibitions and where you can meet us."
+      },
+      "de": {
+        "name": "Veranstaltungen",
+        "slug": "veranstaltungen",
+        "description": "Briefmarkenmessen, Ausstellungen und wo du uns triffst."
       },
       "fr": {
         "name": "Événements",
@@ -68,6 +93,31 @@
         "name": "Wydarzenia",
         "slug": "wydarzenia",
         "description": "Targi filatelistyczne, wystawy i miejsca, w których nas spotkasz."
+      },
+      "cs": {
+        "name": "Akce",
+        "slug": "akce",
+        "description": "Burzy známek, výstavy a kde nás potkáš."
+      },
+      "sk": {
+        "name": "Podujatia",
+        "slug": "podujatia",
+        "description": "Burzy známok, výstavy a kde nás stretneš."
+      },
+      "ro": {
+        "name": "Evenimente",
+        "slug": "evenimente",
+        "description": "Târguri filatelice, expoziții și unde ne poți întâlni."
+      },
+      "hu": {
+        "name": "Események",
+        "slug": "esemenyek",
+        "description": "Bélyegvásárok, kiállítások és hol találkozhatsz velünk."
+      },
+      "da": {
+        "name": "Begivenheder",
+        "slug": "begivenheder",
+        "description": "Frimærkemesser, udstillinger og hvor du kan møde os."
       }
     }
   },
@@ -75,15 +125,15 @@
     "id": "under-the-loupe",
     "position": 3,
     "languages": {
-      "de": {
-        "name": "Unter der Lupe",
-        "slug": "unter-der-lupe",
-        "description": "Wir schauen uns eine einzelne Briefmarke genau an."
-      },
       "en": {
         "name": "Under the loupe",
         "slug": "under-the-loupe",
         "description": "A close look at one stamp."
+      },
+      "de": {
+        "name": "Unter der Lupe",
+        "slug": "unter-der-lupe",
+        "description": "Wir schauen uns eine einzelne Briefmarke genau an."
       },
       "fr": {
         "name": "À la loupe",
@@ -104,6 +154,31 @@
         "name": "Pod lupą",
         "slug": "pod-lupa",
         "description": "Jeden znaczek z bliska."
+      },
+      "cs": {
+        "name": "Pod lupou",
+        "slug": "pod-lupou",
+        "description": "Jedna známka zblízka."
+      },
+      "sk": {
+        "name": "Pod lupou",
+        "slug": "pod-lupou",
+        "description": "Jedna známka zblízka."
+      },
+      "ro": {
+        "name": "Sub lupă",
+        "slug": "sub-lupa",
+        "description": "O privire de aproape asupra unui timbru."
+      },
+      "hu": {
+        "name": "Nagyító alatt",
+        "slug": "nagyito-alatt",
+        "description": "Egy bélyeg közelről."
+      },
+      "da": {
+        "name": "Under luppen",
+        "slug": "under-luppen",
+        "description": "Et enkelt frimærke set tæt på."
       }
     }
   },
@@ -111,15 +186,15 @@
     "id": "day-trips",
     "position": 4,
     "languages": {
-      "de": {
-        "name": "Ausflüge",
-        "slug": "ausfluege",
-        "description": "Briefmarkenmotive, die du besuchen kannst. Jeden Freitag ein neuer Beitrag."
-      },
       "en": {
         "name": "Day trips",
         "slug": "day-trips",
         "description": "Places on stamps that you can go and see. New post every Friday."
+      },
+      "de": {
+        "name": "Ausflüge",
+        "slug": "ausfluege",
+        "description": "Briefmarkenmotive, die du besuchen kannst. Jeden Freitag ein neuer Beitrag."
       },
       "fr": {
         "name": "Excursions",
@@ -140,6 +215,31 @@
         "name": "Wycieczki",
         "slug": "wycieczki",
         "description": "Miejsca ze znaczków, które możesz odwiedzić. Nowy wpis co piątek."
+      },
+      "cs": {
+        "name": "Výlety",
+        "slug": "vylety",
+        "description": "Místa ze známek, která můžeš navštívit. Nový článek každý pátek."
+      },
+      "sk": {
+        "name": "Výlety",
+        "slug": "vylety",
+        "description": "Miesta zo známok, ktoré môžeš navštíviť. Nový článok každý piatok."
+      },
+      "ro": {
+        "name": "Excursii",
+        "slug": "excursii",
+        "description": "Locuri de pe timbre pe care le poți vizita. Un articol nou în fiecare vineri."
+      },
+      "hu": {
+        "name": "Kirándulások",
+        "slug": "kirandulasok",
+        "description": "Bélyegeken szereplő helyek, amelyeket meglátogathatsz. Minden pénteken új bejegyzés."
+      },
+      "da": {
+        "name": "Udflugter",
+        "slug": "udflugter",
+        "description": "Steder på frimærker, som du kan besøge. Nyt indlæg hver fredag."
       }
     }
   },
@@ -147,15 +247,15 @@
     "id": "new-issues",
     "position": 5,
     "languages": {
-      "de": {
-        "name": "Neuheiten",
-        "slug": "neuheiten",
-        "description": "Was die Postverwaltungen neu herausgeben."
-      },
       "en": {
         "name": "New issues",
         "slug": "new-issues",
         "description": "The new stamps the postal administrations issue."
+      },
+      "de": {
+        "name": "Neuheiten",
+        "slug": "neuheiten",
+        "description": "Was die Postverwaltungen neu herausgeben."
       },
       "fr": {
         "name": "Nouveautés",
@@ -176,6 +276,31 @@
         "name": "Nowości",
         "slug": "nowosci",
         "description": "Nowe emisje administracji pocztowych."
+      },
+      "cs": {
+        "name": "Novinky",
+        "slug": "novinky",
+        "description": "Nové známky, které poštovní správy vydávají."
+      },
+      "sk": {
+        "name": "Novinky",
+        "slug": "novinky",
+        "description": "Nové známky, ktoré poštové správy vydávajú."
+      },
+      "ro": {
+        "name": "Emisiuni noi",
+        "slug": "emisiuni-noi",
+        "description": "Noile timbre emise de administrațiile poștale."
+      },
+      "hu": {
+        "name": "Új kiadások",
+        "slug": "uj-kiadasok",
+        "description": "Az új bélyegek, amelyeket a posták kiadnak."
+      },
+      "da": {
+        "name": "Nye udgivelser",
+        "slug": "nye-udgivelser",
+        "description": "De nye frimærker, postvæsenerne udgiver."
       }
     }
   },
@@ -183,15 +308,15 @@
     "id": "behind-stampiq",
     "position": 6,
     "languages": {
-      "de": {
-        "name": "Hinter StampIQ",
-        "slug": "hinter-stampiq",
-        "description": "Wie wir die App und SigiVision entwickeln."
-      },
       "en": {
         "name": "Behind StampIQ",
         "slug": "behind-stampiq",
         "description": "How we build the app and SigiVision."
+      },
+      "de": {
+        "name": "Hinter StampIQ",
+        "slug": "hinter-stampiq",
+        "description": "Wie wir die App und SigiVision entwickeln."
       },
       "fr": {
         "name": "Dans les coulisses de StampIQ",
@@ -212,6 +337,31 @@
         "name": "Kulisy StampIQ",
         "slug": "kulisy-stampiq",
         "description": "Jak budujemy aplikację i SigiVision."
+      },
+      "cs": {
+        "name": "Za StampIQ",
+        "slug": "za-stampiq",
+        "description": "Jak stavíme aplikaci a SigiVision."
+      },
+      "sk": {
+        "name": "Za StampIQ",
+        "slug": "za-stampiq",
+        "description": "Ako staviame aplikáciu a SigiVision."
+      },
+      "ro": {
+        "name": "În spatele StampIQ",
+        "slug": "in-spatele-stampiq",
+        "description": "Cum construim aplicația și SigiVision."
+      },
+      "hu": {
+        "name": "A StampIQ mögött",
+        "slug": "a-stampiq-mogott",
+        "description": "Hogyan építjük az alkalmazást és a SigiVisiont."
+      },
+      "da": {
+        "name": "Bag StampIQ",
+        "slug": "bag-stampiq",
+        "description": "Hvordan vi bygger appen og SigiVision."
       }
     }
   },
@@ -219,15 +369,15 @@
     "id": "collecting-basics",
     "position": 7,
     "languages": {
-      "de": {
-        "name": "Grundlagen",
-        "slug": "grundlagen",
-        "description": "Für alle, die gerade mit dem Sammeln angefangen haben."
-      },
       "en": {
         "name": "Collecting basics",
         "slug": "collecting-basics",
         "description": "For people who have just started collecting."
+      },
+      "de": {
+        "name": "Grundlagen",
+        "slug": "grundlagen",
+        "description": "Für alle, die gerade mit dem Sammeln angefangen haben."
       },
       "fr": {
         "name": "Les bases",
@@ -248,6 +398,31 @@
         "name": "Podstawy",
         "slug": "podstawy",
         "description": "Dla tych, którzy dopiero zaczynają zbierać znaczki."
+      },
+      "cs": {
+        "name": "Základy sbírání",
+        "slug": "zaklady-sbirani",
+        "description": "Pro ty, kdo se sbíráním právě začali."
+      },
+      "sk": {
+        "name": "Základy zbierania",
+        "slug": "zaklady-zbierania",
+        "description": "Pre tých, ktorí so zbieraním práve začali."
+      },
+      "ro": {
+        "name": "Noțiuni de bază",
+        "slug": "notiuni-de-baza",
+        "description": "Pentru cei care tocmai au început să colecționeze."
+      },
+      "hu": {
+        "name": "Alapok",
+        "slug": "alapok",
+        "description": "Azoknak, akik most kezdtek gyűjteni."
+      },
+      "da": {
+        "name": "Grundlæggende",
+        "slug": "grundlaeggende",
+        "description": "Til dig, der lige er begyndt at samle."
       }
     }
   }
