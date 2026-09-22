@@ -8,10 +8,11 @@ import '../styles/waitlist.css';
 
 const API = 'https://api.stampiq.io/api/v1/waitlist/';
 
-// Public by design. Empty leaves the widget out, which is what local runs want
-// and what api/v1/waitlist/turnstile.py does when its secret is empty. Set both
-// or neither: a secret without a widget refuses every sign-up.
-const TURNSTILE_SITE_KEY = import.meta.env.PUBLIC_TURNSTILE_SITE_KEY || '';
+// Public by design; the deploy workflow passes no environment, so it lives here.
+// PUBLIC_TURNSTILE_SITE_KEY='' leaves the widget out, which is how a local run
+// without the matching secret gets past it. The backend half is TURNSTILE_SECRET,
+// and api/v1/waitlist/turnstile.py skips the check while that is empty.
+const TURNSTILE_SITE_KEY = import.meta.env.PUBLIC_TURNSTILE_SITE_KEY || '0x4AAAAAAFATz_WPUF80G8Sn';
 const TURNSTILE_SCRIPT = 'https://challenges.cloudflare.com/turnstile/v0/api.js';
 
 // The markets the app is not sold in. LIVE markets are left out on purpose:
