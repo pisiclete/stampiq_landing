@@ -10,6 +10,7 @@ StampIQ Landing is the static marketing and legal site for stampiq.io, built wit
 The 2026-09-22 push added an eleven-language rollout, waitlist form with Turnstile (site key now set), ops cockpit privacy/terms pages, store badges, and blog categories in five required languages. One open issue remains: final pricing and producibility confirmation from DDM for the DBZ 22 insert.
 
 ## Recent activity
+- 2026-09-23: Scan data paragraph added to privacy section (15d2b3e)
 - 2026-09-22: Eleven-language rollout, waitlist form with Turnstile, ops cockpit privacy/terms pages, store badges from stampiq.io, blog categories in five required languages (19 commits)
 - 2026-09-21: /s/<SCAN_ID> route added to serve printed page labels (1 commit)
 - 2026-09-17: Blog mobile layout fixes: image grouped with text on small screens, header elements drop progressively as width narrows, half-written drafts now buildable
@@ -39,7 +40,6 @@ The 2026-09-22 push added an eleven-language rollout, waitlist form with Turnsti
 - 2026-07-07: synced CLAUDE.md (4491475)
 - 2026-07-06: sync CLAUDE.md (90e7526)
 - 2026-07-05: Synced CLAUDE.md (6eee41a)
-- 2026-07-04: sync CLAUDE.md (209bc58)
 
 ## Open issues
 - Obtain final pricing and producibility confirmation from DDM for DBZ 22 insert.
