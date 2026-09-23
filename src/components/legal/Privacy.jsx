@@ -45,6 +45,7 @@ const SECTIONS = [
   { type: 'ul', items: ['privacy.s3_9_li1','privacy.s3_9_li2','privacy.s3_9_li3','privacy.s3_9_li4'] },
   { type: 'p',  key: 'privacy.s3_9_p2' },
   { type: 'p',  key: 'privacy.s3_9_p3' },
+  { type: 'p',  key: 'privacy.s3_9_p4' },
   { type: 'h3', key: 'privacy.s3_10_title' },
   { type: 'p',  key: 'privacy.s3_10_p1' },
   { type: 'p',  key: 'privacy.s3_10_p2' },
