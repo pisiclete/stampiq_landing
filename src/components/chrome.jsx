@@ -2,7 +2,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { SIQ } from '../lib/tokens';
 import { useT, useLang, useAlternates } from '../i18n/I18nContext';
-import { PAGE_LANGS, BLOG_LANGS } from '../i18n/langs.mjs';
+import { PAGE_LANGS } from '../i18n/langs.mjs';
 
 // The site languages whose market the app is not sold in. A reader in those
 // languages cannot download anything, so the footer offers the waitlist.
@@ -102,7 +102,7 @@ export const Header = () => {
     { href: `${home}#press`,      key: 'nav.press' },
     { href: `${home}#partner`,    key: 'nav.partners' },
     { href: `${home}#faq`,        key: 'nav.faq' },
-    ...(__BLOG_LIVE__ && BLOG_LANGS.includes(lang) ? [{ href: `${home}blog/`, key: 'nav.blog' }] : []),
+    ...(__BLOG_LANGS_LIVE__.includes(lang) ? [{ href: `${home}blog/`, key: 'nav.blog' }] : []),
   ];
   return (
     <header style={{
@@ -161,7 +161,7 @@ export const Footer = () => {
     ]},
     { titleKey: 'footer.col.company', items: [
       { href: `${home}#press`,                key: 'footer.company.press' },
-      ...(__BLOG_LIVE__ && BLOG_LANGS.includes(lang) ? [{ href: `${home}blog/`, key: 'footer.company.blog' }] : []),
+      ...(__BLOG_LANGS_LIVE__.includes(lang) ? [{ href: `${home}blog/`, key: 'footer.company.blog' }] : []),
       { href: `${home}#events`,               key: 'footer.company.events', className: 'siq-ibb' },
       { href: `${home}#about`,                key: 'footer.company.about' },
       { href: 'mailto:support@stampiq.io',    key: 'footer.company.contact' },

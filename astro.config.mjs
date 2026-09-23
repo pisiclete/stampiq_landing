@@ -1,7 +1,7 @@
 import { defineConfig } from 'astro/config';
 import react from '@astrojs/react';
 import sitemap from '@astrojs/sitemap';
-import { redirectPaths, visiblePostFiles } from './src/lib/blog-files.mjs';
+import { liveBlogLangs, redirectPaths } from './src/lib/blog-files.mjs';
 import { PAGE_LANGS, PREFIX_GROUP } from './src/i18n/langs.mjs';
 
 const blogRedirects = new Set(redirectPaths().map((p) => `https://stampiq.io${p}`));
@@ -39,7 +39,7 @@ export default defineConfig({
   },
   vite: {
     define: {
-      __BLOG_LIVE__: JSON.stringify(visiblePostFiles().length > 0),
+      __BLOG_LANGS_LIVE__: JSON.stringify(liveBlogLangs()),
     },
     build: {
       assetsInlineLimit: 0,

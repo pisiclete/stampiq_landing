@@ -109,7 +109,7 @@ A post is a header plus an ordered list of blocks. The header carries title, lea
 - **Maps** are static images that the cockpit fetches when the post is published, served from our own storage with the tile provider's attribution and a link that opens Google Maps. The visitor's browser makes no request to a map provider, so no consent is needed.
 - **Video** (`video` block) shows our own thumbnail and a button. The player is loaded from YouTube only after the visitor clicks it.
 - **Animations**: a GIF uploaded in the cockpit is converted to a silent looping MP4, which is an order of magnitude smaller, and rendered with `autoplay loop muted playsinline`. A small GIF can also be used as a plain photo.
-- **Blog link** in the header and footer appears only when at least one post is published (`__BLOG_LIVE__` in `astro.config.mjs`), so the blog can be merged before its first post.
+- **Blog link** in the header and footer appears only in a language that has at least one published post (`__BLOG_LANGS_LIVE__` in `astro.config.mjs`). A post is published in English and in the languages of its markets, listed in its `langs`.
 
 ## Deep-link paths
 

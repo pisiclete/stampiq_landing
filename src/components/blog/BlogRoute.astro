@@ -5,11 +5,13 @@ import PostList from './PostList.astro';
 import Post from './Post.astro';
 import Redirect from './Redirect.astro';
 import { tFor } from '../../i18n/lookup.js';
-import { ORIGIN, alternatesFor, blogRoot, categoryPath, loadBlog, postPath, showDrafts } from '../../lib/blog.js';
+import { ORIGIN, alternatesFor, blogRoot, categoryPath, langsWith, loadBlog, postPath, showDrafts } from '../../lib/blog.js';
 import '../../styles/blog.css';
 
 const { kind, lang, postId, categoryId, to } = Astro.props;
-const { posts, categories, categoryById } = await loadBlog();
+const { posts, categories, categoryById } = await loadBlog(lang);
+const everyPost = (await loadBlog()).posts;
+const blogIndexes = alternatesFor(langsWith(everyPost), (l) => blogRoot(l));
 
 let page;
 if (kind === 'post') {
@@ -19,7 +21,7 @@ if (kind === 'post') {
     title: `${text.title} | StampIQ`,
     description: text.description,
     path: postPath(post, lang),
-    alternates: alternatesFor((l) => postPath(post, l)),
+    alternates: alternatesFor(post.data.langs, (l) => postPath(post, l)),
     ogImage: post.data.thumbnail.src,
     ogType: 'article',
     post,
@@ -31,7 +33,7 @@ if (kind === 'post') {
     title: `${text.name} | ${tFor(lang, 'blog.meta_title')}`,
     description: text.description,
     path: categoryPath(category, lang),
-    alternates: alternatesFor((l) => categoryPath(category, l)),
+    alternates: alternatesFor(langsWith(everyPost.filter((p) => p.data.category === categoryId)), (l) => categoryPath(category, l)),
     eyebrow: tFor(lang, 'blog.eyebrow'),
     heading: text.name,
     lead: text.description,
@@ -43,7 +45,7 @@ if (kind === 'post') {
     title: tFor(lang, 'blog.meta_title'),
     description: tFor(lang, 'blog.meta_description'),
     path: blogRoot(lang),
-    alternates: alternatesFor((l) => blogRoot(l)),
+    alternates: blogIndexes,
     eyebrow: tFor(lang, 'blog.eyebrow'),
     heading: tFor(lang, 'blog.headline'),
     lead: tFor(lang, 'blog.lead'),
@@ -66,7 +68,7 @@ if (kind === 'post') {
   >
     {showDrafts && <meta slot="head" name="robots" content="noindex" />}
     <link slot="head" rel="alternate" type="application/rss+xml" title={tFor(lang, 'blog.meta_title')} href={`${blogRoot(lang)}rss.xml`} />
-    <BlogHeader lang={lang} alternates={page.alternates} client:load />
+    <BlogHeader lang={lang} alternates={{ ...blogIndexes, ...page.alternates }} client:load />
     <main class="blog">
       {kind === 'post' ? (
         <Post lang={lang} post={page.post} posts={posts} categoryById={categoryById} />

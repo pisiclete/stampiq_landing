@@ -34,10 +34,19 @@ export function visiblePostFiles() {
 
 export const blogRoot = (lang) => (lang === 'en' ? '/blog/' : `/${lang}/blog/`);
 
+// A post file written before the cockpit recorded its languages is in all of them.
+const fileLangs = (post) => post.langs ?? BLOG_LANGS;
+
+// The languages with at least one post; only these get a blog and a blog link.
+export const liveBlogLangs = () => {
+  const posts = visiblePostFiles();
+  return BLOG_LANGS.filter((lang) => posts.some((post) => fileLangs(post).includes(lang)));
+};
+
 export function redirectPaths() {
   const paths = [];
   for (const post of visiblePostFiles()) {
-    for (const lang of BLOG_LANGS) {
+    for (const lang of fileLangs(post)) {
       for (const old of post.languages?.[lang]?.previous_slugs ?? []) {
         paths.push(`${blogRoot(lang)}${old}/`);
       }

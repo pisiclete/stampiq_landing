@@ -12,11 +12,16 @@ const APP_URL = import.meta.env.PUBLIC_APP_URL || 'https://app.stampiq.io';
 export const postPath = (post, lang) => `${blogRoot(lang)}${post.data.languages[lang].slug}/`;
 export const categoryPath = (category, lang) => `${blogRoot(lang)}${category.data.languages[lang].slug}/`;
 
-export async function loadBlog() {
+export const inLang = (post, lang) => post.data.langs.includes(lang);
+
+export const langsWith = (posts) => BLOG_LANGS.filter((lang) => posts.some((post) => inLang(post, lang)));
+
+// With a language, only the posts published in it and the categories they fill.
+export async function loadBlog(lang) {
   const categories = (await getCollection('categories')).sort((a, b) => a.data.position - b.data.position);
-  const posts = (await getCollection('posts', (p) => showDrafts || !p.data.draft)).sort((a, b) =>
-    b.data.published_at.localeCompare(a.data.published_at),
-  );
+  const posts = (
+    await getCollection('posts', (p) => (showDrafts || !p.data.draft) && (!lang || p.data.langs.includes(lang)))
+  ).sort((a, b) => b.data.published_at.localeCompare(a.data.published_at));
   const byId = new Map(categories.map((c) => [c.id, c]));
   for (const post of posts) {
     if (!byId.has(post.data.category)) {
@@ -30,10 +35,10 @@ export async function loadBlog() {
 // language is a post, a category or a redirect from a post's earlier slug, so a
 // collision between them has to fail the build.
 export async function blogPaths(langs) {
-  const { posts, categories } = await loadBlog();
-  if (posts.length === 0) return [];
   const paths = [];
   for (const lang of langs) {
+    const { posts, categories } = await loadBlog(lang);
+    if (posts.length === 0) continue;
     const params = (path) => (lang === 'en' ? { path } : { lang, path });
     const seen = new Map();
     const claim = (slug, what) => {
@@ -59,8 +64,8 @@ export async function blogPaths(langs) {
   return paths;
 }
 
-export function alternatesFor(pathFor) {
-  return Object.fromEntries(BLOG_LANGS.map((l) => [l, pathFor(l)]));
+export function alternatesFor(langs, pathFor) {
+  return Object.fromEntries(langs.map((l) => [l, pathFor(l)]));
 }
 
 export const formatDate = (iso, lang) =>
@@ -111,12 +116,11 @@ export const srcset = (image) =>
 
 export async function feedPaths(langs) {
   const { posts } = await loadBlog();
-  if (posts.length === 0) return [];
-  return langs.map((lang) => ({ params: lang === 'en' ? { feed: 'rss' } : { lang, feed: 'rss' }, props: { lang } }));
+  return langs.filter((lang) => posts.some((post) => inLang(post, lang))).map((lang) => ({ params: lang === 'en' ? { feed: 'rss' } : { lang, feed: 'rss' }, props: { lang } }));
 }
 
 export async function feedResponse(lang) {
-  const { posts } = await loadBlog();
+  const { posts } = await loadBlog(lang);
   const items = posts
     .slice(0, 30)
     .map((post) => {

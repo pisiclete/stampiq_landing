@@ -197,6 +197,12 @@ const posts = defineCollection({
   schema: z.object({
     category: z.string(),
     markets: z.array(market),
+    // The languages the post is published in: English and those of its markets.
+    // The cockpit fills the texts of the other languages with the English.
+    langs: z
+      .array(z.enum(LANGS))
+      .refine((langs) => langs.includes('en'), 'A post is always published in English.')
+      .default([...LANGS]),
     published_at: z.string().datetime({ offset: true }),
     updated_at: z.string().datetime({ offset: true }).optional(),
     draft: z.boolean().optional(),
