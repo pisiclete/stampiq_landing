@@ -24,7 +24,7 @@
     "fr": "Maintenant disponible",
     "it": "Ora disponibile",
     "cs": "Už k dispozici",
-    "sk": "Už dostupná",
+    "sk": "Už k dispozícii",
     "ro": "Disponibil acum",
     "hu": "Már elérhető",
     "da": "Ude nu"
@@ -84,7 +84,7 @@
     "fr": "Presse",
     "it": "Stampa",
     "cs": "Média",
-    "sk": "Tlač",
+    "sk": "Médiá",
     "ro": "Presă",
     "hu": "Sajtó",
     "da": "Presse"
@@ -114,7 +114,7 @@
     "fr": "FAQ",
     "it": "FAQ",
     "cs": "Časté dotazy",
-    "sk": "FAQ",
+    "sk": "Časté otázky",
     "ro": "Întrebări frecvente",
     "hu": "FAQ",
     "da": "FAQ"
@@ -219,7 +219,7 @@
     "fr": "StampIQ est actuellement disponible en Allemagne, en Suisse, en Autriche, au Liechtenstein, aux Pays-Bas et en Pologne. Nous travaillons à l'étendre à d'autres pays. Revenez bientôt.",
     "it": "StampIQ è attualmente disponibile in Germania, Svizzera, Austria, Liechtenstein, Paesi Bassi e Polonia. Stiamo lavorando per portarlo in altri paesi. Torna presto a trovarci.",
     "cs": "StampIQ je nyní dostupný v Německu, Švýcarsku, Rakousku, Lichtenštejnsku, Nizozemsku a Polsku. Pracujeme na tom, aby přibyly další země, tak se sem brzy zase podívej.",
-    "sk": "StampIQ je momentálne dostupný v Nemecku, Švajčiarsku, Rakúsku, Lichtenštajnsku, Holandsku a Poľsku. Pracujeme na tom, aby pribudli ďalšie krajiny. Pozri sa sem čoskoro znova.",
+    "sk": "StampIQ je momentálne dostupný v Nemecku, Švajčiarsku, Rakúsku, Lichtenštajnsku, Holandsku a Poľsku. Pripravujeme ďalšie krajiny, tak sa sem čoskoro vráť.",
     "ro": "Deocamdată, StampIQ este disponibil în Germania, Elveția, Austria, Liechtenstein, Țările de Jos și Polonia. Pregătim lansarea și în alte țări, așa că mai treci pe aici în curând.",
     "hu": "A StampIQ jelenleg Németországban, Svájcban, Ausztriában, Liechtensteinben, Hollandiában és Lengyelországban érhető el. Azon dolgozunk, hogy további országokba is eljusson, úgyhogy nézz vissza nemsokára.",
     "da": "StampIQ er i øjeblikket tilgængelig i Tyskland, Schweiz, Østrig, Liechtenstein, Nederlandene og Polen. Vi arbejder på at få flere lande med, så kig snart forbi igen."
@@ -249,7 +249,7 @@
     "fr": "Découvre, identifie et organise tes timbres en toute simplicité. Ton compagnon numérique, conçu par des collectionneurs, pour des collectionneurs.",
     "it": "Scopri, identifica e organizza i tuoi francobolli con facilità. Il tuo compagno digitale, creato dai collezionisti per i collezionisti.",
     "cs": "Objevuj, určuj a snadno si uspořádej své známky. Tvůj digitální asistent od sběratelů pro sběratele.",
-    "sk": "Objavuj, identifikuj a bez námahy usporiadaj svoje známky. Tvoj digitálny spoločník — vytvorený zberateľmi pre zberateľov.",
+    "sk": "Objavuj, určuj a bez námahy usporiadaj svoje známky. Tvoj digitálny asistent – od zberateľov pre zberateľov.",
     "ro": "Descoperă, identifică și organizează-ți timbrele cu ușurință. Asistentul tău digital, creat de colecționari pentru colecționari.",
     "hu": "Fedezd fel, azonosítsd és rendezd a bélyegeidet könnyedén. A digitális társad — gyűjtők fejlesztették gyűjtőknek.",
     "da": "Opdag, identificer og organiser dine frimærker uden besvær. Din digitale følgesvend – skabt af samlere, for samlere."
@@ -264,7 +264,7 @@
     "fr": "<1s",
     "it": "<1s",
     "cs": "<1 s",
-    "sk": "<1s",
+    "sk": "< 1 s",
     "ro": "<1s",
     "hu": "<1s",
     "da": "<1s"
@@ -294,7 +294,7 @@
     "fr": "98 %",
     "it": "98%",
     "cs": "98 %",
-    "sk": "98%",
+    "sk": "98 %",
     "ro": "98%",
     "hu": "98%",
     "da": "98%"
@@ -324,7 +324,7 @@
     "fr": "30K+",
     "it": "30K+",
     "cs": "30 000+",
-    "sk": "30K+",
+    "sk": "30 000+",
     "ro": "30.000+",
     "hu": "30K+",
     "da": "30K+"
@@ -399,7 +399,7 @@
     "fr": "Scanne & identifie",
     "it": "Scansiona & Identifica",
     "cs": "Naskenuj a urči",
-    "sk": "Skenuj & Identifikuj",
+    "sk": "Skenuj a urči",
     "ro": "Scanează și identifică",
     "hu": "Szkennelés és azonosítás",
     "da": "Scan & identificer"
@@ -414,7 +414,7 @@
     "fr": "Vise avec ton appareil photo. Réponse immédiate",
     "it": "Inquadra con la fotocamera. Risposta immediata",
     "cs": "Namiř fotoaparát. Odpověď máš hned",
-    "sk": "Namier fotoaparát. Okamžitá odpoveď",
+    "sk": "Namier fotoaparát a hneď máš výsledok",
     "ro": "Fotografiază timbrul și afli imediat ce este",
     "hu": "Tartsd oda a kamerát. Azonnal megvan a válasz",
     "da": "Ret kameraet mod frimærket. Få svar med det samme"
@@ -429,7 +429,7 @@
     "fr": "SigiVision™ identifie les timbres de nos catalogues en moins d'une seconde. Fini de feuilleter des catalogues papier pour identifier une émission inconnue.",
     "it": "La tecnologia di riconoscimento SigiVision™ identifica i francobolli dei cataloghi supportati in meno di un secondo. Basta con le ore passate a sfogliare cataloghi cartacei per identificare un'emissione sconosciuta.",
     "cs": "Technologie SigiVision™ rozpozná známky z podporovaných katalogů za méně než sekundu. Už žádné listování v tištěných katalozích, když narazíš na neznámou emisi.",
-    "sk": "Technológia rozpoznávania SigiVision™ identifikuje známky z podporovaných katalógov za menej než sekundu. Koniec listovania v papierových katalógoch pri neznámej emisii.",
+    "sk": "Technológia rozpoznávania SigiVision™ určí známku z podporovaných katalógov za necelú sekundu. Už žiadne listovanie v papierových katalógoch, keď narazíš na neznámu emisiu.",
     "ro": "Tehnologia de recunoaștere SigiVision™ identifică timbrele din cataloagele disponibile în mai puțin de o secundă. Gata cu răsfoitul cataloagelor tipărite în căutarea unei emisiuni necunoscute.",
     "hu": "A SigiVision™ felismerő technológia egy másodpercen belül azonosítja a támogatott katalógusok bélyegeit. Nem kell többé papírkatalógusokat lapozgatni egy ismeretlen kibocsátás miatt.",
     "da": "SigiVision™-genkendelsesteknologien identificerer frimærker fra de understøttede kataloger på under et sekund. Slut med at bladre i papirkataloger efter en ukendt udgivelse."
@@ -444,7 +444,7 @@
     "fr": "Reconnaissance en un clic, un timbre à la fois",
     "it": "Riconoscimento con un tocco, un francobollo alla volta",
     "cs": "Rozpoznání jedním klepnutím, známku po známce",
-    "sk": "Rozpoznanie jedným ťuknutím — jedna známka naraz",
+    "sk": "Rozpoznanie jedným ťuknutím – známku po známke",
     "ro": "Recunoaștere cu o singură atingere, timbru cu timbru",
     "hu": "Felismerés egyetlen érintéssel — egyszerre egy bélyeg",
     "da": "Ét tryk genkender ét frimærke ad gangen"
@@ -489,7 +489,7 @@
     "fr": "Timbres associés et timbres de la série",
     "it": "Francobolli correlati e francobolli della serie",
     "cs": "Související známky a známky ze série",
-    "sk": "Súvisiace známky a známky zo série",
+    "sk": "Súvisiace známky a ďalšie známky zo série",
     "ro": "Timbre asemănătoare și din aceeași serie",
     "hu": "Kapcsolódó bélyegek és a sorozat bélyegei",
     "da": "Beslægtede frimærker og frimærker fra serien"
@@ -504,7 +504,7 @@
     "fr": "Collectionne & organise",
     "it": "Colleziona & Organizza",
     "cs": "Sbírej a třiď",
-    "sk": "Zbieraj & Usporiadaj",
+    "sk": "Zbieraj a usporiadaj",
     "ro": "Colecționează și organizează",
     "hu": "Gyűjtés és rendszerezés",
     "da": "Saml & organiser"
@@ -534,7 +534,7 @@
     "fr": "Gérer une collection ne devrait pas demander des listes interminables ni des carnets éparpillés. Classe par pays, thème ou série. Suis l'état, la valeur, les certificats. Ajoute tes propres photos et notes.",
     "it": "Gestire una collezione non dovrebbe richiedere liste infinite e quaderni sparsi. Organizza per paese, tema o serie. Tieni traccia di stato, valore e certificati. Aggiungi foto personali e note.",
     "cs": "Na správu sbírky nepotřebuješ nekonečné seznamy a sešity rozházené po celém bytě. Třiď podle země, tématu nebo série. Sleduj stav, hodnotu a atesty. Přidávej vlastní fotky a poznámky.",
-    "sk": "Spravovanie zbierky by si nemalo vyžadovať nekonečné zoznamy a rozhádzané zošity. Usporiadaj si ju podľa krajiny, témy alebo série. Sleduj stav, hodnotu a atesty. Pridávaj vlastné fotky a poznámky.",
+    "sk": "Na správu zbierky už nepotrebuješ nekonečné zoznamy a rozhádzané zošity. Usporiadaj si ju podľa krajiny, témy alebo série. Sleduj stav, hodnotu a atesty. Pridávaj vlastné fotky a poznámky.",
     "ro": "Evidența unei colecții nu mai înseamnă liste nesfârșite și caiete răvășite. Organizează după țară, temă sau serie. Ține evidența stării, a valorii și a certificatelor. Adaugă fotografii și notițe personale.",
     "hu": "Egy gyűjtemény kezeléséhez nem kellene végtelen listákat és szétszórt füzeteket vezetni. Rendszerezd ország, téma vagy sorozat szerint. Kövesd az állapotot, az értéket és a szakvéleményeket. Adj hozzá saját fotókat és jegyzeteket.",
     "da": "At holde styr på en samling bør ikke kræve endeløse lister og spredte notesbøger. Organiser efter land, tema eller serie. Hold styr på kvalitet, værdi og attester. Tilføj egne fotos og noter."
@@ -564,7 +564,7 @@
     "fr": "Suis l'état, la valeur d'achat, les certificats",
     "it": "Tieni traccia di stato di conservazione, valore d'acquisto, certificati",
     "cs": "Sleduj stav, nákupní cenu, atesty",
-    "sk": "Sleduj stav, kúpnu cenu, atesty",
+    "sk": "Sleduj stav, kúpnu cenu a atesty",
     "ro": "Ține evidența stării, a prețului de achiziție și a certificatelor",
     "hu": "Kövesd az állapotot, a vételárat és a szakvéleményeket",
     "da": "Hold styr på kvalitet, købsværdi og attester"
@@ -579,7 +579,7 @@
     "fr": "Vois ce qui manque — évite les doublons",
     "it": "Vedi cosa manca — evita i duplicati",
     "cs": "Zjisti, co ti chybí, a vyhni se dubletům",
-    "sk": "Pozri, čo chýba — vyhni sa duplikátom",
+    "sk": "Pozri, čo ti chýba, a vyhni sa duplikátom",
     "ro": "Vezi ce îți lipsește și evită dublurile",
     "hu": "Lásd, mi hiányzik — kerüld a duplumokat",
     "da": "Se, hvad der mangler – undgå dubletter"
@@ -594,7 +594,7 @@
     "fr": "Accède à ta collection sur tous tes appareils",
     "it": "Accedi alla tua collezione da qualsiasi dispositivo",
     "cs": "Sbírku otevřeš na jakémkoli zařízení",
-    "sk": "Prístup k zbierke na každom zariadení",
+    "sk": "Prístup k zbierke z každého zariadenia",
     "ro": "Ai acces la colecție de pe orice dispozitiv",
     "hu": "Érd el a gyűjteményedet bármelyik eszközödről",
     "da": "Få adgang til din samling fra alle dine enheder"
@@ -624,7 +624,7 @@
     "fr": "Identifie plus de 40 timbres sur une seule photo",
     "it": "Identifica più di 40 francobolli con un solo scatto",
     "cs": "Urči přes 40 známek z jediné fotky",
-    "sk": "Identifikuj vyše 40 známok na jednej fotografii",
+    "sk": "Urči vyše 40 známok z jednej fotky",
     "ro": "Identifică peste 40 de timbre într-o singură fotografie",
     "hu": "Azonosíts 40+ bélyeget egyetlen fotón",
     "da": "Genkend over 40 frimærker på ét foto"
@@ -639,7 +639,7 @@
     "fr": "Prends une photo de la page d'un album et SigiVision™ détecte tous les timbres en une fois — recadrage et identification automatiques via le catalogue. La façon la plus rapide de numériser toute une vie de philatélie.",
     "it": "Scatta una foto della pagina di un album e SigiVision™ rileva tutti i francobolli in una volta sola, li ritaglia automaticamente e li confronta con il catalogo. Il modo più rapido per digitalizzare una vita da collezionista.",
     "cs": "Vyfoť celý list z alba a SigiVision™ najde všechny známky naráz – sám je ořízne a přiřadí ke katalogu. Nejrychlejší způsob, jak zdigitalizovat celoživotní sbírku.",
-    "sk": "Stačí jedna fotka albumového listu a SigiVision™ rozpozná naraz každú známku — automaticky ju oreže a priradí ku katalógu. Najrýchlejší spôsob, ako zdigitalizovať zbierku celého života.",
+    "sk": "Stačí jedna fotka albumového listu a SigiVision™ rozpozná všetky známky naraz – každú automaticky oreže a priradí ku katalógu. Najrýchlejší spôsob, ako zdigitalizovať zbierku, ktorú si budoval celý život.",
     "ro": "Fotografiază o filă de album și SigiVision™ detectează toate timbrele deodată — le decupează automat și le identifică în catalog. Cel mai rapid mod de a digitaliza colecția de o viață.",
     "hu": "Készíts egy fotót egy albumlapról, és a SigiVision™ egyszerre felismeri az összes bélyeget — automatikusan kivágja és összeveti őket a katalógussal. A leggyorsabb mód egy egész életnyi filatélia digitalizálására.",
     "da": "Tag ét foto af en albumside, og SigiVision™ finder hvert eneste frimærke på én gang – beskærer automatisk og matcher mod kataloget. Den hurtigste måde at digitalisere et helt samlerliv på."
@@ -699,7 +699,7 @@
     "fr": "Vérifie chaque correspondance avant de sauvegarder",
     "it": "Rivedi ogni corrispondenza prima di salvare",
     "cs": "Každý výsledek před uložením zkontroluj",
-    "sk": "Skontroluj každú zhodu pred uložením",
+    "sk": "Pred uložením skontroluj každý výsledok",
     "ro": "Verifică fiecare rezultat înainte de a-l salva",
     "hu": "Ellenőrizz minden találatot mentés előtt",
     "da": "Gennemgå hvert træf, før du gemmer"
@@ -714,7 +714,7 @@
     "fr": "Explore & découvre",
     "it": "Esplora & Scopri",
     "cs": "Poznávej a objevuj",
-    "sk": "Skúmaj & Objavuj",
+    "sk": "Skúmaj a objavuj",
     "ro": "Explorează și descoperă",
     "hu": "Böngészés és felfedezés",
     "da": "Udforsk & opdag"
@@ -744,7 +744,7 @@
     "fr": "Vois les timbres comme des fenêtres sur le monde réel. Découvre près de chez toi des lieux représentés sur les timbres de ta collection — bâtiments, monuments, paysages. Transforme une promenade dominicale en aventure philatélique.",
     "it": "Vedi i francobolli come finestre sul mondo reale. Scopri luoghi vicino a te raffigurati sui francobolli della tua collezione — edifici, monumenti, paesaggi. Trasforma una passeggiata domenicale in un'avventura filatelica.",
     "cs": "Ber známky jako okno do skutečného světa. Najdi ve svém okolí místa, která jsou na známkách ve tvé sbírce – budovy, pomníky i krajinu. Proměň nedělní procházku ve filatelistické dobrodružství.",
-    "sk": "Pozri sa na známky ako na okná do skutočného sveta. Objavuj miesta vo svojom okolí, ktoré sú vyobrazené na známkach z tvojej zbierky — budovy, pamiatky, krajinné scenérie. Premeň nedeľnú prechádzku na filatelistické dobrodružstvo.",
+    "sk": "Pozri sa na známky ako na okná do skutočného sveta. Objavuj miesta vo svojom okolí, ktoré sú vyobrazené na známkach z tvojej zbierky – budovy, pamiatky, krajinu. Premeň nedeľnú prechádzku na filatelistické dobrodružstvo.",
     "ro": "Privește timbrele ca pe niște ferestre spre lumea reală. Descoperă locuri de lângă tine care apar pe timbrele din colecția ta — clădiri, monumente, peisaje. Transformă o plimbare de duminică într-o aventură filatelică.",
     "hu": "Tekints a bélyegekre úgy, mint a valódi világra nyíló ablakokra. Fedezd fel a közeledben azokat a helyeket, amelyek a gyűjteményed bélyegein szerepelnek — épületeket, emlékműveket, tájakat. Változtasd bélyegkalanddá a vasárnapi sétát.",
     "da": "Se frimærker som vinduer til den virkelige verden. Opdag steder tæt på dig, som er afbildet på frimærker i din samling – bygninger, monumenter, landskaber. Gør søndagsturen til et frimærkeeventyr."
@@ -834,7 +834,7 @@
     "fr": "SigiVision™ — une reconnaissance entraînée sur de vrais timbres et catalogues",
     "it": "SigiVision™ — riconoscimento addestrato su francobolli e cataloghi reali",
     "cs": "SigiVision™ – rozpoznávání trénované na skutečných známkách a katalozích",
-    "sk": "SigiVision™ — rozpoznávanie trénované na skutočných známkach a katalógoch",
+    "sk": "SigiVision™ – rozpoznávanie trénované na skutočných známkach a katalógoch",
     "ro": "SigiVision™ — recunoaștere antrenată pe timbre și cataloage reale",
     "hu": "SigiVision™ — valódi bélyegeken és katalógusokon tanított felismerés",
     "da": "SigiVision™ – genkendelse trænet på ægte frimærker og kataloger"
@@ -849,7 +849,7 @@
     "fr": "Notre technologie de reconnaissance est conçue spécifiquement pour les timbres — pas une classification d'images générique. Chaque modèle est ajusté par catalogue national et validé sur des références certifiées.",
     "it": "La nostra tecnologia di riconoscimento è sviluppata appositamente per i francobolli — non è una classificazione generica di immagini. Ogni modello è ottimizzato per ciascun catalogo nazionale e validato su riferimenti certificati.",
     "cs": "Naše rozpoznávání je vyvinuté speciálně pro známky – nejde o obecnou klasifikaci obrázků. Každý model je vyladěný na katalog dané země a ověřený na referenčních známkách s certifikátem.",
-    "sk": "Naše rozpoznávanie je vyvinuté špeciálne pre známky — nie je to všeobecná klasifikácia obrázkov. Každý model je doladený pre katalóg konkrétnej krajiny a overený na certifikovaných referenciách.",
+    "sk": "Naše rozpoznávanie sme vyvinuli priamo pre poštové známky – nejde o bežné rozpoznávanie obrázkov. Každý model je vyladený na katalóg konkrétnej krajiny a overený na certifikovaných referenčných známkach.",
     "ro": "Tehnologia noastră de recunoaștere este creată special pentru timbre — nu este un simplu clasificator de imagini. Fiecare model este optimizat pentru catalogul unei anumite țări și testat pe exemplare de referință certificate.",
     "hu": "A felismerő rendszerünk kifejezetten bélyegekhez készült — nem általános képosztályozó. Minden modellt országkatalógusonként hangolunk és hitelesített referenciákon ellenőrzünk.",
     "da": "Vores genkendelsesteknologi er bygget specifikt til frimærker – ikke generisk billedklassificering. Hver model er finjusteret til det enkelte landekatalog og valideret mod certificerede referencer."
@@ -864,7 +864,7 @@
     "fr": "<1s",
     "it": "<1s",
     "cs": "<1 s",
-    "sk": "<1s",
+    "sk": "< 1 s",
     "ro": "<1s",
     "hu": "<1s",
     "da": "<1s"
@@ -894,7 +894,7 @@
     "fr": "Avant même que le catalogue ne quitte l'étagère.",
     "it": "Prima ancora di prendere il catalogo dallo scaffale.",
     "cs": "Dřív, než katalog sundáš z police.",
-    "sk": "Skôr než katalóg opustí policu.",
+    "sk": "Rýchlejšie, než stihneš vytiahnuť katalóg z police.",
     "ro": "Până apuci să iei catalogul de pe raft.",
     "hu": "Még mielőtt a katalógus lekerülne a polcról.",
     "da": "Før kataloget når ned fra hylden."
@@ -909,7 +909,7 @@
     "fr": "98 %",
     "it": "98%",
     "cs": "98 %",
-    "sk": "98%",
+    "sk": "98 %",
     "ro": "98%",
     "hu": "98%",
     "da": "98%"
@@ -939,7 +939,7 @@
     "fr": "Validée sur des ensembles de référence certifiés.",
     "it": "Validato su set di riferimento certificati.",
     "cs": "Ověřeno na certifikovaných referenčních sadách.",
-    "sk": "Overené na certifikovaných referenčných súboroch.",
+    "sk": "Overená na certifikovaných referenčných známkach.",
     "ro": "Testată pe seturi de timbre de referință certificate.",
     "hu": "Hitelesített referenciaanyagokon ellenőrizve.",
     "da": "Valideret mod certificerede referencesæt."
@@ -954,7 +954,7 @@
     "fr": "30K+",
     "it": "30K+",
     "cs": "30 000+",
-    "sk": "30K+",
+    "sk": "30 000+",
     "ro": "30.000+",
     "hu": "30K+",
     "da": "30K+"
@@ -969,7 +969,7 @@
     "fr": "Timbres dans les catalogues actifs",
     "it": "Francobolli nei cataloghi attivi",
     "cs": "Známek v dostupných katalozích",
-    "sk": "Známok v aktívnych katalógoch",
+    "sk": "Známok v dostupných katalógoch",
     "ro": "Timbre în cataloagele disponibile",
     "hu": "Bélyeg az aktív katalógusokban",
     "da": "Frimærker i aktive kataloger"
@@ -984,7 +984,7 @@
     "fr": "De nouvelles émissions chaque mois.",
     "it": "Nuove emissioni ogni mese.",
     "cs": "Nové emise každý měsíc.",
-    "sk": "Nové emisie každý mesiac.",
+    "sk": "Každý mesiac pribúdajú nové emisie.",
     "ro": "Adăugăm emisiuni noi în fiecare lună.",
     "hu": "Havonta új kibocsátások.",
     "da": "Nye udgivelser hver måned."
@@ -1044,7 +1044,7 @@
     "fr": "Ton compagnon",
     "it": "Il tuo compagno",
     "cs": "Tvůj asistent",
-    "sk": "Tvoj spoločník",
+    "sk": "Tvoj asistent",
     "ro": "Asistentul tău",
     "hu": "A társad",
     "da": "Din følgesvend"
@@ -1074,7 +1074,7 @@
     "fr": "Sigi est ton compagnon philatélique propulsé par l'IA. Pose-lui des questions sur l'histoire d'un timbre, son récit, ou par où commencer avec un pays que tu n'as jamais collectionné.",
     "it": "Sigi è il tuo compagno filatelico con intelligenza artificiale. Chiedigli la storia di un francobollo, ciò che racconta, o da dove cominciare con un paese che non hai mai collezionato.",
     "cs": "Sigi je tvůj sběratelský asistent s umělou inteligencí. Zeptej se ho na historii známky, na příběh, který se za ní skrývá, nebo na to, jak začít sbírat novou zemi.",
-    "sk": "Sigi je tvoj filatelistický spoločník poháňaný umelou inteligenciou. Spýtaj sa ho na históriu známky, na príbeh, ktorý rozpráva, alebo na to, kde začať s krajinou, ktorú ešte nemáš v zbierke.",
+    "sk": "Sigi je tvoj filatelistický asistent s umelou inteligenciou. Spýtaj sa ho na históriu známky, na príbeh, ktorý sa za ňou skrýva, alebo na to, ako začať s krajinou, ktorú ešte v zbierke nemáš.",
     "ro": "Sigi este asistentul tău filatelic bazat pe inteligență artificială. Întreabă-l despre istoria unui timbru, despre cum a luat naștere sau de unde să începi dacă vrei să colecționezi timbrele unei țări noi.",
     "hu": "Sigi a mesterséges intelligenciával működő filatéliai társad. Kérdezd egy bélyeg múltjáról, a történetről, amit elmesél, vagy arról, hol érdemes belekezdeni egy olyan ország gyűjtésébe, amelyet még sosem gyűjtöttél.",
     "da": "Sigi er din AI-drevne følgesvend i frimærkernes verden. Spørg om et frimærkes historie, om historien, det fortæller, eller om, hvor du skal begynde med et land, du aldrig har samlet før."
@@ -1089,7 +1089,7 @@
     "fr": "Il est sympa, patient et toujours prêt quand la curiosité te prend.",
     "it": "È amichevole, paziente e sempre pronto quando ti viene la curiosità.",
     "cs": "Je přátelský, trpělivý a po ruce vždy, když tě popadne zvědavost.",
-    "sk": "Je priateľský, trpezlivý a pripravený vždy, keď ťa premkne zvedavosť.",
+    "sk": "Je priateľský, trpezlivý a k dispozícii vždy, keď ťa niečo zaujíma.",
     "ro": "Este prietenos, răbdător și mereu gata să-ți răspundă când te apucă curiozitatea.",
     "hu": "Barátságos, türelmes, és mindig kéznél van, ha rád tör a kíváncsiság.",
     "da": "Han er venlig, tålmodig og klar, når nysgerrigheden melder sig."
@@ -1119,7 +1119,7 @@
     "fr": "Réponses conversationnelles à tes questions",
     "it": "Risposte alle tue domande, come in una chiacchierata",
     "cs": "Odpovědi na tvoje otázky formou rozhovoru",
-    "sk": "Odpovede na tvoje otázky v dialógu",
+    "sk": "Odpovede na tvoje otázky v rozhovore",
     "ro": "Răspunsuri la întrebările tale, ca într-o conversație",
     "hu": "Párbeszédes válaszok a kérdéseidre",
     "da": "Svar på dine spørgsmål i almindeligt sprog"
@@ -1179,7 +1179,7 @@
     "fr": "Choisis ton plan",
     "it": "Scegli il tuo piano",
     "cs": "Vyber si předplatné",
-    "sk": "Vyber si svoj plán",
+    "sk": "Vyber si svoju verziu",
     "ro": "Alege-ți abonamentul",
     "hu": "Válaszd ki a csomagod",
     "da": "Vælg din plan"
@@ -1254,7 +1254,7 @@
     "fr": "Plan gratuit",
     "it": "Piano Free",
     "cs": "Bezplatná verze",
-    "sk": "Free Plan",
+    "sk": "Bezplatná verzia",
     "ro": "Abonament gratuit",
     "hu": "Free csomag",
     "da": "Free-plan"
@@ -1284,7 +1284,7 @@
     "fr": "Idéal pour les nouveaux collectionneurs qui veulent découvrir StampIQ",
     "it": "Perfetto per i nuovi collezionisti che vogliono esplorare StampIQ",
     "cs": "Ideální pro začínající sběratele, kteří chtějí StampIQ vyzkoušet",
-    "sk": "Ideálny pre nových zberateľov, ktorí chcú spoznať StampIQ",
+    "sk": "Ideálna pre začínajúcich zberateľov, ktorí chcú StampIQ vyskúšať",
     "ro": "Ideal pentru colecționarii la început de drum care vor să descopere StampIQ",
     "hu": "Tökéletes új gyűjtőknek, akik szeretnék megismerni a StampIQ-t",
     "da": "Perfekt til nye samlere, der vil udforske StampIQ"
@@ -1329,7 +1329,7 @@
     "fr": "Identifie tes timbres avec une précision de 98 %. Résultats disponibles en quelques secondes.",
     "it": "Identifica i tuoi francobolli con una precisione del 98%. Risultati disponibili in pochi secondi.",
     "cs": "Urči své známky s 98% přesností. Výsledky máš za pár sekund.",
-    "sk": "Identifikuj svoje známky s 98% presnosťou. Výsledky do niekoľkých sekúnd.",
+    "sk": "Urči svoje známky s 98-percentnou presnosťou. Výsledok máš do niekoľkých sekúnd.",
     "ro": "Identifică-ți timbrele cu o precizie de 98%. Primești rezultatul în câteva secunde.",
     "hu": "Azonosítsd a bélyegeidet 98%-os pontossággal. Az eredmény néhány másodperc alatt megérkezik.",
     "da": "Identificer dine frimærker med 98% nøjagtighed. Resultater på få sekunder."
@@ -1359,7 +1359,7 @@
     "fr": "Profite de 5 scans individuels gratuits et de 2 scans multiples chaque mois pour explorer ta collection.",
     "it": "Approfitta di 5 scansioni singole gratuite e 2 scansioni multiple ogni mese per esplorare la tua collezione.",
     "cs": "Každý měsíc máš zdarma 5 skenů jednotlivých známek a 2 hromadné skeny – můžeš tak začít procházet svou sbírku.",
-    "sk": "Každý mesiac máš 5 bezplatných jednotlivých skenovaní a 2 hromadné skenovania na objavovanie svojej zbierky.",
+    "sk": "Každý mesiac máš zadarmo 5 skenovaní jednotlivých známok a 2 hromadné skenovania – na prvý prieskum tvojej zbierky.",
     "ro": "În fiecare lună ai gratuit 5 scanări individuale și 2 scanări multiple, ca să-ți descoperi colecția.",
     "hu": "Havonta 5 ingyenes egyedi és 2 tömeges szkennelés, hogy felfedezhesd a gyűjteményedet.",
     "da": "Få 5 gratis enkeltscanninger og 2 massescanninger hver måned til at udforske din samling."
@@ -1374,7 +1374,7 @@
     "fr": "Détails des timbres scannés",
     "it": "Dettagli del francobollo scansionato",
     "cs": "Podrobnosti o naskenovaných známkách",
-    "sk": "Podrobnosti naskenovaných známok",
+    "sk": "Podrobnosti o naskenovaných známkach",
     "ro": "Detalii despre timbrele scanate",
     "hu": "A beszkennelt bélyegek adatai",
     "da": "Detaljer om scannede frimærker"
@@ -1389,7 +1389,7 @@
     "fr": "Consulte les identifications et les informations clés pour les timbres que tu as numérisés.",
     "it": "Visualizza le corrispondenze di catalogo e le informazioni principali relative ai francobolli che hai scansionato.",
     "cs": "Zobraz si výsledky z katalogu a hlavní údaje o svých naskenovaných známkách.",
-    "sk": "Pozri si zhody v katalógu a kľúčové informácie k naskenovaným známkam.",
+    "sk": "Pozri si výsledky v katalógu a základné údaje o naskenovaných známkach.",
     "ro": "Vezi rezultatele din catalog și informațiile esențiale despre timbrele scanate.",
     "hu": "Nézd meg a katalógustalálatokat és a legfontosabb adatokat a beszkennelt bélyegeidről.",
     "da": "Se katalogtræf og vigtige oplysninger om de frimærker, du har scannet."
@@ -1419,7 +1419,7 @@
     "fr": "L'assistance personnalisée n'est pas incluse. La FAQ et les articles d'aide sont toujours disponibles.",
     "it": "L'assistenza personale non è inclusa. Le FAQ e gli articoli della guida sono sempre disponibili.",
     "cs": "Osobní podporu tato verze nenabízí. Časté dotazy a nápověda jsou ti ale vždy k dispozici.",
-    "sk": "Osobná podpora nie je zahrnutá. Časté otázky a články pomocníka sú dostupné vždy.",
+    "sk": "Osobná podpora nie je jej súčasťou. Časté otázky a návody v pomocníkovi máš k dispozícii kedykoľvek.",
     "ro": "Asistența personală nu este inclusă. Secțiunea de întrebări frecvente și articolele de ajutor sunt mereu disponibile.",
     "hu": "A személyes támogatás nem része a csomagnak. A FAQ és a súgócikkek mindig elérhetők.",
     "da": "Personlig support er ikke inkluderet. FAQ og hjælpeartikler er altid tilgængelige."
@@ -1434,7 +1434,7 @@
     "fr": "Plan Premium",
     "it": "Premium Plan",
     "cs": "Premium",
-    "sk": "Premium Plan",
+    "sk": "Premium",
     "ro": "Abonament Premium",
     "hu": "Premium csomag",
     "da": "Premium-plan"
@@ -1479,7 +1479,7 @@
     "fr": "Identifie tes timbres avec une précision de 98 % en moins d'une seconde — pas besoin d'attendre.",
     "it": "Identifica i tuoi francobolli con una precisione del 98% in meno di 1 secondo — senza attese.",
     "cs": "Urči své známky s 98% přesností za méně než 1 sekundu – bez čekání.",
-    "sk": "Identifikuj svoje známky s 98% presnosťou za menej než 1 sekundu — bez čakania.",
+    "sk": "Urči svoje známky s 98-percentnou presnosťou za menej ako 1 sekundu – bez čakania.",
     "ro": "Identifică-ți timbrele cu o precizie de 98% în mai puțin de o secundă, fără să aștepți.",
     "hu": "Azonosítsd a bélyegeidet 98%-os pontossággal, 1 másodpercen belül – várakozás nélkül.",
     "da": "Identificer dine frimærker med 98% nøjagtighed på under 1 sekund – helt uden ventetid."
@@ -1494,7 +1494,7 @@
     "fr": "Scans individuels illimités",
     "it": "Scansioni singole illimitate",
     "cs": "Neomezené skenování jednotlivých známek",
-    "sk": "Neobmedzené jednotlivé skenovania",
+    "sk": "Neobmedzené skenovanie jednotlivých známok",
     "ro": "Scanări individuale nelimitate",
     "hu": "Korlátlan egyedi szkennelés",
     "da": "Ubegrænsede enkeltscanninger"
@@ -1509,7 +1509,7 @@
     "fr": "Numérise autant de timbres que tu veux, un par un — sans limite quotidienne ou mensuelle.",
     "it": "Scansiona tutti i francobolli che vuoi, uno alla volta — senza limiti giornalieri o mensili.",
     "cs": "Skenuj tolik známek, kolik chceš, jednu po druhé – bez denních či měsíčních limitů.",
-    "sk": "Skenuj toľko známok, koľko chceš, jednu po druhej — bez denných či mesačných limitov.",
+    "sk": "Skenuj toľko známok, koľko chceš, jednu po druhej – bez denných či mesačných limitov.",
     "ro": "Scanează câte timbre vrei, unul câte unul — fără limite zilnice sau lunare.",
     "hu": "Szkennelj annyi bélyeget, amennyit csak szeretnél, egyesével – napi és havi korlát nélkül.",
     "da": "Scan så mange frimærker, du vil, ét ad gangen – uden daglige eller månedlige grænser."
@@ -1539,7 +1539,7 @@
     "fr": "Numérise des pages contenant plusieurs timbres avec recadrage automatique et identification du catalogue, jusqu'à 5 pages par mois.",
     "it": "Scansiona pagine con più francobolli con ritaglio automatico e identificazione del catalogo, fino a 5 pagine al mese.",
     "cs": "Skenuj celé listy se známkami – aplikace je sama ořízne a vyhledá v katalogu. Až 5 listů měsíčně.",
-    "sk": "Skenuj strany s viacerými známkami s automatickým orezaním a priradením ku katalógu, až 5 strán mesačne.",
+    "sk": "Naskenuj celú stranu albumu naraz – známky sa automaticky orežú a priradia ku katalógu. Až 5 strán mesačne.",
     "ro": "Scanează până la 5 pagini de album pe lună: aplicația decupează automat fiecare timbru și îl identifică în catalog.",
     "hu": "Szkennelj több bélyeget tartalmazó lapokat automatikus kivágással és katalógusazonosítással, havonta legfeljebb 5 lapot.",
     "da": "Scan sider med flere frimærker med automatisk beskæring og identifikation – op til 5 sider om måneden."
@@ -1584,7 +1584,7 @@
     "fr": "Accès anticipé aux nouvelles fonctionnalités",
     "it": "Accesso anticipato alle nuove funzionalità",
     "cs": "Přednostní přístup k novým funkcím",
-    "sk": "Skorý prístup k novým funkciám",
+    "sk": "Prednostný prístup k novým funkciám",
     "ro": "Acces anticipat la funcționalități noi",
     "hu": "Korai hozzáférés az új funkciókhoz",
     "da": "Tidlig adgang til nye funktioner"
@@ -1599,7 +1599,7 @@
     "fr": "Sois parmi les premiers à essayer les prochains outils pour collectionneurs dès leur sortie.",
     "it": "Sii tra i primi a provare le nuove funzionalità per collezionisti non appena vengono rilasciate.",
     "cs": "Vyzkoušej nové sběratelské funkce mezi prvními, hned jak budou k dispozici.",
-    "sk": "Buď medzi prvými, ktorí vyskúšajú nové nástroje pre zberateľov, hneď ako vyjdú.",
+    "sk": "Nové nástroje pre zberateľov vyskúšaš medzi prvými, hneď ako budú k dispozícii.",
     "ro": "Încearcă noile funcționalități pentru colecționari imediat ce apar, înaintea celorlalți.",
     "hu": "Az elsők között próbálhatod ki az új gyűjtői eszközöket, amint megjelennek.",
     "da": "Vær blandt de første til at prøve nye samlerværktøjer, så snart de udkommer."
@@ -1614,7 +1614,7 @@
     "fr": "Plan Professional",
     "it": "Professional Plan",
     "cs": "Professional",
-    "sk": "Professional Plan",
+    "sk": "Professional",
     "ro": "Abonament Professional",
     "hu": "Professional csomag",
     "da": "Professional-plan"
@@ -1629,7 +1629,7 @@
     "fr": "Comprend tout ce qui est inclus dans la version Premium, plus :",
     "it": "Include tutto ciò che è presente nella versione Premium, più:",
     "cs": "Vše z předplatného Premium a navíc:",
-    "sk": "Obsahuje všetko z Premium a navyše:",
+    "sk": "Všetko z predplatného Premium a navyše:",
     "ro": "Include tot ce oferă Premium, plus:",
     "hu": "Mindent tartalmaz a Premium csomagból, és ezen felül:",
     "da": "Alt fra Premium, plus:"
@@ -1674,7 +1674,7 @@
     "fr": "Notre technologie de reconnaissance la plus performante : une précision de 98 % en moins d'une seconde pour les meilleurs résultats possibles.",
     "it": "La nostra tecnologia di riconoscimento più potente: precisione del 98% in meno di 1 secondo per i migliori risultati possibili.",
     "cs": "Naše nejvýkonnější rozpoznávání – 98% přesnost za méně než 1 sekundu a ty nejlepší možné výsledky.",
-    "sk": "Naše najvýkonnejšie rozpoznávanie — 98% presnosť za menej než 1 sekundu pre čo najlepšie zhody.",
+    "sk": "Naše najvýkonnejšie rozpoznávanie – 98-percentná presnosť za menej ako 1 sekundu a čo najpresnejšie výsledky.",
     "ro": "Cea mai performantă tehnologie de recunoaștere din StampIQ — precizie de 98% în mai puțin de o secundă, pentru rezultate cât mai exacte.",
     "hu": "A legerősebb felismerő rendszerünk — 98%-os pontosság 1 másodpercen belül, a lehető legjobb találatokért.",
     "da": "Vores stærkeste genkendelsesteknologi – 98% nøjagtighed på under 1 sekund for de bedst mulige træf."
@@ -1704,7 +1704,7 @@
     "fr": "Détecte plusieurs timbres sur une même page grâce au recadrage automatique et à l'identification automatique. Sans aucune limite.",
     "it": "Rileva più francobolli su una singola pagina con ritaglio automatico e identificazione del catalogo. Senza limiti.",
     "cs": "Rozpoznej víc známek z jednoho listu najednou – aplikace je sama ořízne a dohledá v katalogu. Bez omezení.",
-    "sk": "Rozpoznaj viacero známok na jednej strane s automatickým orezaním a priradením ku katalógu. Bez obmedzení.",
+    "sk": "Rozpoznaj naraz viacero známok z jedného albumového listu – aplikácia ich sama oreže a nájde v katalógu. Bez obmedzení.",
     "ro": "Detectează mai multe timbre pe o singură pagină, cu decupare automată și identificare în catalog. Fără limite.",
     "hu": "Ismerj fel több bélyeget egyetlen lapon automatikus kivágással és katalógusazonosítással. Korlátok nélkül.",
     "da": "Find flere frimærker på én side med automatisk beskæring og identifikation. Ingen grænser."
@@ -1749,7 +1749,7 @@
     "fr": "Presse",
     "it": "Stampa",
     "cs": "Média",
-    "sk": "Tlač",
+    "sk": "Médiá",
     "ro": "Presă",
     "hu": "Sajtó",
     "da": "Presse"
@@ -1779,7 +1779,7 @@
     "fr": "Reconnu par les principales publications philatéliques.",
     "it": "Riconosciuto dalle principali pubblicazioni filateliche.",
     "cs": "Všímají si nás přední filatelistické časopisy.",
-    "sk": "Uznanie od popredných filatelistických časopisov.",
+    "sk": "Všimli si nás popredné filatelistické časopisy.",
     "ro": "Au scris despre noi publicații filatelice de referință.",
     "hu": "Vezető filatéliai lapok ismerik el a StampIQ-t.",
     "da": "Anerkendt af førende filatelimagasiner."
@@ -1854,7 +1854,7 @@
     "fr": "SBZ — Schweizer Briefmarken Zeitung, le principal magazine philatélique de Suisse — a mis StampIQ à l'honneur dans son édition de mars 2026. Un portrait sur deux pages du nouveau compagnon des collectionneurs venu de Zoug, de la technologie derrière SigiVision et de la philosophie d'une app conçue par des collectionneurs pour des collectionneurs.",
     "it": "La Schweizer Briefmarken Zeitung — la principale rivista filatelica svizzera — ha dedicato uno spazio a StampIQ nel numero di marzo 2026. Un profilo di due pagine sul nuovo compagno per collezionisti nato a Zugo, sulla tecnologia che alimenta SigiVision e sulla filosofia di un'app creata dai collezionisti per i collezionisti.",
     "cs": "Přední švýcarský filatelistický časopis SBZ – Schweizer Briefmarken Zeitung – představil StampIQ v březnovém čísle 2026. Na dvou stranách přibližuje nového sběratelského asistenta ze Zugu, technologii, na které stojí SigiVision, i myšlenku aplikace, kterou vytvořili sami sběratelé.",
-    "sk": "SBZ — Schweizer Briefmarken Zeitung, popredný švajčiarsky filatelistický časopis — predstavil StampIQ vo svojom vydaní z marca 2026. Dvojstranový portrét nového zberateľského spoločníka zo Zugu, technológie stojacej za SigiVision a filozofie aplikácie, ktorú vytvorili zberatelia pre zberateľov.",
+    "sk": "SBZ – Schweizer Briefmarken Zeitung, popredný švajčiarsky filatelistický časopis – predstavil StampIQ v marcovom čísle 2026. Na dvoch stranách priblížil nového zberateľského asistenta zo Zugu, technológiu SigiVision a myšlienku aplikácie, za ktorou stoja samotní zberatelia.",
     "ro": "SBZ — Schweizer Briefmarken Zeitung, cea mai importantă revistă de filatelie din Elveția — a prezentat StampIQ în numărul din martie 2026, într-un articol de două pagini despre noua aplicație pentru colecționari dezvoltată la Zug, despre tehnologia pe care se bazează SigiVision și despre filozofia unei aplicații făcute de colecționari, pentru colecționari.",
     "hu": "Az SBZ — a Schweizer Briefmarken Zeitung, Svájc vezető filatéliai magazinja — a 2026. márciusi számában mutatta be a StampIQ-t. Kétoldalas portré a Zugból érkező új gyűjtőtársról, a SigiVision mögötti technológiáról és egy olyan alkalmazás filozófiájáról, amelyet gyűjtők fejlesztettek gyűjtőknek.",
     "da": "SBZ – Schweizer Briefmarken Zeitung, Schweiz' førende filatelimagasin – omtalte StampIQ i martsnummeret 2026. Et portræt på to sider af den nye samlerfølgesvend fra Zug, teknologien bag SigiVision og filosofien bag en app, der er bygget af samlere for samlere."
@@ -1869,7 +1869,7 @@
     "fr": "Un collectionneur frustré. Une meilleure approche",
     "it": "Un collezionista frustrato. Un modo migliore",
     "cs": "Sběratel, který hledal lepší řešení",
-    "sk": "Jeden frustrovaný zberateľ. Jedna lepšia cesta",
+    "sk": "Zberateľ, ktorý hľadal lepšie riešenie",
     "ro": "Un colecționar nemulțumit și o soluție mai bună",
     "hu": "Egy bosszús gyűjtő. Egy jobb megoldás",
     "da": "Én frustreret samler. Én bedre måde"
@@ -1884,7 +1884,7 @@
     "fr": "Créé par des collectionneurs, pour des collectionneurs",
     "it": "Creato da collezionisti, per collezionisti",
     "cs": "Od sběratelů pro sběratele",
-    "sk": "Vytvorené zberateľmi pre zberateľov",
+    "sk": "Od zberateľa pre zberateľov",
     "ro": "Creat de colecționari, pentru colecționari",
     "hu": "Gyűjtők fejlesztették gyűjtőknek",
     "da": "Bygget af samlere, for samlere"
@@ -1899,7 +1899,7 @@
     "fr": "StampIQ est né d'une simple frustration : gérer une collection de timbres ne devrait pas demander des catalogues interminables, des recherches manuelles et des approximations. En tant que collectionneur de longue date, je savais qu'il y avait une meilleure façon.",
     "it": "StampIQ nasce da una semplice frustrazione: gestire una collezione di francobolli non dovrebbe richiedere cataloghi infiniti, ricerche manuali e tirare a indovinare. Come collezionista di una vita, sapevo che doveva esserci un modo migliore.",
     "cs": "StampIQ vznikl z obyčejné frustrace: vést sbírku známek by nemělo znamenat nekonečné listování katalogy, ruční dohledávání a odhady. Známky sbírám celý život a věděl jsem, že to musí jít i jinak.",
-    "sk": "StampIQ vznikol z jednoduchej frustrácie: spravovanie zbierky známok by si nemalo vyžadovať nekonečné katalógy, ručné vyhľadávanie a dohady. Ako celoživotný zberateľ som vedel, že musí existovať lepšia cesta.",
+    "sk": "StampIQ vznikol z obyčajnej frustrácie: správa zbierky známok by nemala znamenať listovanie v nekonečných katalógoch, ručné vyhľadávanie a hádanie. Známky zbieram celý život a vedel som, že to musí ísť aj lepšie.",
     "ro": "StampIQ a pornit de la o frustrare simplă: evidența unei colecții de timbre n-ar trebui să însemne răsfoit la nesfârșit prin cataloage, căutări manuale și ghicit. Colecționez de o viață și știam că se poate mai simplu.",
     "hu": "A StampIQ egy egyszerű bosszúságból született: egy bélyeggyűjtemény kezeléséhez nem kellene végtelen katalógus, kézi keresgélés és találgatás. Egész életemben gyűjtöttem, így tudtam, hogy kell lennie jobb megoldásnak.",
     "da": "StampIQ udsprang af en simpel frustration: at holde styr på en frimærkesamling bør ikke kræve endeløse kataloger, manuel søgning og gætteri. Jeg har samlet frimærker hele livet, og jeg vidste, at der måtte være en bedre måde."
@@ -1914,7 +1914,7 @@
     "fr": "En combinant ma passion pour la philatélie et des années d'expérience dans la tech, j'ai créé l'outil que j'aurais aimé avoir quand j'ai commencé à collectionner : StampIQ.",
     "it": "Ho unito la mia passione per la filatelia ad anni di esperienza nel mondo della tecnologia, e StampIQ è lo strumento che avrei voluto avere quando ho iniziato a collezionare.",
     "cs": "Spojil jsem lásku k filatelii s dlouholetými zkušenostmi z IT, a tak vznikl StampIQ – nástroj, který mi chyběl, když jsem se sbíráním začínal.",
-    "sk": "Keď som spojil svoju vášeň pre filateliu s rokmi práce v technológiách, vznikol StampIQ — nástroj, aký som si želal mať, keď som začínal zbierať.",
+    "sk": "Keď som spojil vášeň pre filateliu s rokmi práce v IT, vznikol StampIQ – nástroj, aký mi chýbal, keď som so zbieraním začínal.",
     "ro": "Am îmbinat pasiunea pentru filatelie cu ani de experiență în IT, iar StampIQ este aplicația pe care mi-aș fi dorit-o când am început să colecționez.",
     "hu": "Miután a filatélia iránti szenvedélyemet a technológiában eltöltött évekkel ötvöztem, megszületett a StampIQ — az az eszköz, amelyet magam is szerettem volna, amikor gyűjteni kezdtem.",
     "da": "Jeg har forenet min passion for filateli med mange års arbejde inden for teknologi, og StampIQ er blevet det værktøj, jeg selv ville have ønsket mig, da jeg begyndte at samle."
@@ -1929,7 +1929,7 @@
     "fr": "— Marius Dygudaj, Fondateur",
     "it": "— Marius Dygudaj, Fondatore",
     "cs": " – Marius Dygudaj, zakladatel",
-    "sk": "— Marius Dygudaj, zakladateľ",
+    "sk": "– Marius Dygudaj, zakladateľ",
     "ro": "— Marius Dygudaj, fondator",
     "hu": "— Marius Dygudaj, alapító",
     "da": "– Marius Dygudaj, grundlægger"
@@ -1944,7 +1944,7 @@
     "fr": "Partenariats",
     "it": "Partnership",
     "cs": "Partnerství",
-    "sk": "Partnerstvá",
+    "sk": "Spolupráca",
     "ro": "Parteneriate",
     "hu": "Partnerségek",
     "da": "Partnerskaber"
@@ -1974,7 +1974,7 @@
     "fr": "Nous construisons l'avenir de la philatélie et souhaitons collaborer avec les marchands, associations philatéliques, éditeurs de catalogues et la communauté des collectionneurs.",
     "it": "Stiamo costruendo il futuro della filatelia e vogliamo collaborare con commercianti, associazioni filateliche, editori di cataloghi e l'intera comunità di collezionisti.",
     "cs": "Chceme posunout sbírání známek dál a rádi budeme spolupracovat s obchodníky, filatelistickými spolky, vydavateli katalogů i s celou sběratelskou komunitou.",
-    "sk": "Budujeme budúcnosť zbierania známok a radi budeme spolupracovať s obchodníkmi, filatelistickými spolkami, vydavateľmi katalógov a so širšou zberateľskou komunitou.",
+    "sk": "Chceme zbieraniu známok priniesť nové možnosti a radi budeme spolupracovať s obchodníkmi, filatelistickými spolkami, vydavateľmi katalógov aj so širšou zberateľskou komunitou.",
     "ro": "Vrem să aducem filatelia în era digitală și ne dorim să colaborăm cu comercianți, asociații filatelice, editori de cataloage și cu întreaga comunitate a colecționarilor.",
     "hu": "A bélyeggyűjtés jövőjét építjük, és szívesen működünk együtt kereskedőkkel, filatéliai egyesületekkel, katalóguskiadókkal és a tágabb gyűjtői közösséggel.",
     "da": "Vi bygger fremtidens måde at samle frimærker på, og vi samarbejder gerne med forhandlere, filatelistiske foreninger, katalogudgivere og hele samlerfællesskabet."
@@ -2004,7 +2004,7 @@
     "fr": "Collabore avec nous pour atteindre des collectionneurs engagés et intégrer ton stock à notre plateforme.",
     "it": "Collabora con noi per raggiungere collezionisti appassionati e integrare il tuo inventario nella nostra piattaforma.",
     "cs": "Spolupracuj s námi, oslov aktivní sběratele a propoj svou nabídku s naší platformou.",
-    "sk": "Spolupracuj s nami — oslovíš zanietených zberateľov a svoj sortiment prepojíš s našou platformou.",
+    "sk": "Spolupracuj s nami – oslovíš zanietených zberateľov a svoj sortiment prepojíš s našou platformou.",
     "ro": "Colaborează cu noi ca să ajungi la colecționari pasionați și să îți integrezi stocul în platforma noastră.",
     "hu": "Dolgozz velünk együtt, hogy elérd az elkötelezett gyűjtőket, és integráld a kínálatod a platformunkba.",
     "da": "Samarbejd med os om at nå engagerede samlere og integrere dit varelager i vores platform."
@@ -2034,7 +2034,7 @@
     "fr": "Apporte des outils numériques à tes membres et contribue à développer la communauté.",
     "it": "Porta strumenti digitali ai tuoi membri e aiuta a far crescere la comunità dei collezionisti.",
     "cs": "Pojďme společně nabídnout tvým členům digitální nástroje a rozšířit sběratelskou komunitu.",
-    "sk": "Spoločne prinesme digitálne nástroje tvojim členom a rozšírme zberateľskú komunitu.",
+    "sk": "Ponúknime spoločne tvojim členom digitálne nástroje a rozšírme zberateľskú komunitu.",
     "ro": "Colaborează cu noi ca să le oferi membrilor instrumente digitale și să atragi noi colecționari.",
     "hu": "Hozzuk el közösen a digitális eszközöket a tagjaidnak, és építsük együtt a gyűjtői közösséget.",
     "da": "Lad os sammen give dine medlemmer digitale værktøjer og styrke samlerfællesskabet."
@@ -2064,7 +2064,7 @@
     "fr": "Participe avec nous à rendre tes catalogues accessibles dans un format moderne et numérique.",
     "it": "Lavora con noi per portare i tuoi cataloghi in formato moderno e digitale.",
     "cs": "Spolupracuj s námi a dostaň své katalogy ke sběratelům v moderní, přístupné podobě.",
-    "sk": "Spolupracuj s nami a prines svoje katalógy zberateľom v modernej, prístupnej podobe.",
+    "sk": "Spolupracuj s nami a sprístupni svoje katalógy zberateľom v modernej podobe.",
     "ro": "Colaborează cu noi ca să le oferi colecționarilor cataloagele tale într-un format modern și accesibil.",
     "hu": "Dolgozz velünk, hogy a katalógusaid modern, könnyen elérhető formában jussanak el a gyűjtőkhöz.",
     "da": "Arbejd sammen med os om at bringe dine kataloger ud til samlerne i et moderne og tilgængeligt format."
@@ -2094,7 +2094,7 @@
     "fr": "Contacte-nous pour recevoir des dossiers de presse, des interviews et des mises à jour exclusives.",
     "it": "Contattaci per materiali stampa, interviste e aggiornamenti esclusivi.",
     "cs": "Ozvi se nám kvůli tiskovým materiálům, rozhovorům a exkluzivním novinkám.",
-    "sk": "Ozvi sa nám pre tlačové materiály, rozhovory a exkluzívne novinky.",
+    "sk": "Ozvi sa nám, ak máš záujem o tlačové materiály, rozhovor alebo exkluzívne novinky.",
     "ro": "Contactează-ne pentru materiale de presă, interviuri și noutăți exclusive.",
     "hu": "Vedd fel velünk a kapcsolatot sajtóanyagokért, interjúkért és exkluzív hírekért.",
     "da": "Kontakt os for pressemateriale, interviews og eksklusive nyheder."
@@ -2109,7 +2109,7 @@
     "fr": "Nous contacter",
     "it": "Contattaci",
     "cs": "Kontaktuj nás",
-    "sk": "Napíš nám o partnerstve",
+    "sk": "Napíš nám o spolupráci",
     "ro": "Contactează-ne pentru parteneriate",
     "hu": "Lépj velünk kapcsolatba",
     "da": "Kontakt os om partnerskaber"
@@ -2124,7 +2124,7 @@
     "fr": "FAQ",
     "it": "FAQ",
     "cs": "Časté dotazy",
-    "sk": "FAQ",
+    "sk": "Časté otázky",
     "ro": "FAQ",
     "hu": "FAQ",
     "da": "FAQ"
@@ -2139,7 +2139,7 @@
     "fr": "Tes questions, nos réponses",
     "it": "Domande e risposte",
     "cs": "Otázky a odpovědi",
-    "sk": "Otázky? Máme odpovede",
+    "sk": "Máš otázky? Tu sú odpovede",
     "ro": "Întrebări frecvente",
     "hu": "Válaszok a kérdéseidre",
     "da": "Svar på dine spørgsmål"
@@ -2199,7 +2199,7 @@
     "fr": "SigiVision™ offre une précision de reconnaissance de 98 % sur les catalogues pris en charge, la plupart des identifications étant réalisées en moins d'une seconde.",
     "it": "SigiVision™ offre una precisione di riconoscimento del 98% sui cataloghi supportati, con la maggior parte delle identificazioni completate in meno di un secondo.",
     "cs": "SigiVision™ rozpoznává známky s přesností 98 % ve všech podporovaných katalozích a většina rozpoznání trvá méně než sekundu.",
-    "sk": "SigiVision™ dosahuje 98% presnosť rozpoznávania vo všetkých podporovaných katalógoch, pričom väčšina identifikácií trvá menej než sekundu.",
+    "sk": "SigiVision™ dosahuje vo všetkých podporovaných katalógoch 98-percentnú presnosť rozpoznávania a väčšinu známok rozpozná za menej než sekundu.",
     "ro": "SigiVision™ oferă o precizie de recunoaștere de 98% pentru cataloagele disponibile, iar cele mai multe identificări durează mai puțin de o secundă.",
     "hu": "A SigiVision™ 98%-os felismerési pontosságot nyújt a támogatott katalógusokban, és az azonosítások többsége egy másodpercen belül lezajlik.",
     "da": "SigiVision™ genkender frimærker i de understøttede kataloger med 98% nøjagtighed, og de fleste identifikationer er færdige på under et sekund."
@@ -2229,7 +2229,7 @@
     "fr": "Oui. Le plan gratuit te permet d'essayer les bases — 5 scans individuels et 2 scans multiples par mois. Tu vois les détails de catalogue pour les timbres que tu scannes, mais pas le catalogue complet. Premium inclut un catalogue national complet (avec scans individuels illimités à l'intérieur), et Professional inclut tous les catalogues nationaux.",
     "it": "Sì. Il piano gratuito ti permette di provare le funzioni base — 5 scansioni singole e 2 scansioni multiple al mese. Vedi i dettagli di catalogo dei francobolli che scansioni, ma non l'intero catalogo. Premium include un catalogo nazionale completo (con scansioni singole illimitate al suo interno), mentre Professional include tutti i cataloghi nazionali.",
     "cs": "Ano. V bezplatné verzi si vyzkoušíš základy – 5 skenů jednotlivých známek a 2 hromadné skeny měsíčně. Uvidíš katalogové údaje ke známkám, které naskenuješ, ale ne celý katalog. Předplatné Premium zahrnuje kompletní katalog jedné země (a v něm neomezené skenování jednotlivých známek), Professional katalogy všech zemí.",
-    "sk": "Áno. V bezplatnom pláne si vyskúšaš základné funkcie — 5 jednotlivých skenovaní a 2 hromadné skenovania mesačne. Vidíš katalógové údaje k známkam, ktoré naskenuješ, ale nie celý katalóg. Premium zahŕňa jeden úplný katalóg jednej krajiny (s neobmedzenými jednotlivými skenovaniami v ňom) a Professional zahŕňa všetky katalógy krajín.",
+    "sk": "Áno. V bezplatnej verzii si vyskúšaš základné funkcie – 5 jednotlivých skenovaní a 2 hromadné skenovania mesačne. Uvidíš katalógové údaje k známkam, ktoré naskenuješ, nie však celý katalóg. Predplatné Premium obsahuje kompletný katalóg jednej krajiny (s neobmedzeným počtom jednotlivých skenovaní v ňom) a Professional katalógy všetkých krajín.",
     "ro": "Da. Cu varianta gratuită poți încerca funcțiile de bază — 5 scanări individuale și 2 scanări multiple pe lună. Vezi datele din catalog pentru timbrele pe care le scanezi, dar nu și catalogul întreg. Premium include catalogul complet al unei țări (cu scanări individuale nelimitate pentru țara respectivă), iar Professional include cataloagele tuturor țărilor.",
     "hu": "Igen. Az ingyenes csomagban kipróbálhatod az alapokat — havi 5 egyedi szkennelés és 2 tömeges szkennelés. A beszkennelt bélyegek katalógusadatait látod, a teljes katalógust nem. A Premium egy teljes országkatalógust tartalmaz (azon belül korlátlan egyedi szkenneléssel), a Professional pedig az összes országkatalógust.",
     "da": "Ja. Med den gratis version kan du prøve det grundlæggende – 5 enkeltscanninger og 2 massescanninger om måneden. Du ser katalogoplysninger om de frimærker, du scanner, men ikke hele kataloget. Premium indeholder ét fuldt landekatalog (med ubegrænsede enkeltscanninger i det), og Professional indeholder alle landekataloger."
@@ -2259,7 +2259,7 @@
     "fr": "Oui — le scan multiple reconnaît plusieurs timbres à la fois. Les comptes gratuits bénéficient de 2 scans multiples par mois, Premium en a 5, et Professional inclut le scan multiple illimité.",
     "it": "Sì — la scansione multipla riconosce più francobolli contemporaneamente. Gli account Free hanno 2 scansioni multiple al mese, Premium ne ha 5 e Professional include scansioni multiple illimitate.",
     "cs": "Ano – hromadné skenování rozpozná víc známek najednou. Bezplatná verze nabízí 2 hromadné skeny měsíčně, Premium 5 a Professional neomezeně.",
-    "sk": "Áno — hromadné skenovanie rozpozná viacero známok naraz. Účty Free majú 2 hromadné skenovania mesačne, Premium 5 a Professional zahŕňa neobmedzené hromadné skenovanie.",
+    "sk": "Áno – hromadné skenovanie rozpozná viacero známok naraz. V bezplatnej verzii máš 2 hromadné skenovania mesačne, s predplatným Premium 5 a Professional ich ponúka bez obmedzenia.",
     "ro": "Da — scanarea multiplă recunoaște mai multe timbre deodată. Varianta gratuită include 2 scanări multiple pe lună, Premium 5, iar Professional un număr nelimitat.",
     "hu": "Igen — a tömeges szkennelés egyszerre több bélyeget ismer fel. A Free fiókokhoz havi 2 tömeges szkennelés jár, a Premiumhoz 5, a Professional pedig korlátlan tömeges szkennelést kínál.",
     "da": "Ja – massescanning genkender flere frimærker på én gang. Gratis konti får 2 massescanninger om måneden, Premium får 5, og Professional giver ubegrænset massescanning."
@@ -2274,7 +2274,7 @@
     "fr": "Puis-je changer d'abonnement à tout moment ?",
     "it": "Posso cambiare piano in qualsiasi momento?",
     "cs": "Můžu kdykoli změnit předplatné?",
-    "sk": "Môžem plán kedykoľvek zmeniť?",
+    "sk": "Môžem predplatné kedykoľvek zmeniť?",
     "ro": "Pot schimba abonamentul oricând?",
     "hu": "Válthatok bármikor csomagot?",
     "da": "Kan jeg skifte plan når som helst?"
@@ -2289,7 +2289,7 @@
     "fr": "Oui. Tu peux passer à un plan supérieur, inférieur ou annuler à tout moment — ta collection, tes scans et tes notes restent toujours sauvegardés.",
     "it": "Sì. Puoi fare upgrade, downgrade o annullare in qualsiasi momento — la tua collezione, le scansioni e le note rimangono sempre salvate.",
     "cs": "Ano. Předplatné můžeš kdykoli navýšit, snížit nebo zrušit – tvoje sbírka, skeny i poznámky zůstanou uložené.",
-    "sk": "Áno. Kedykoľvek môžeš prejsť na vyšší či nižší plán alebo ho zrušiť — tvoja zbierka, skeny a poznámky zostanú vždy uložené.",
+    "sk": "Áno. Predplatné môžeš kedykoľvek zmeniť na vyššie či nižšie alebo ho zrušiť – tvoja zbierka, skeny a poznámky zostanú vždy uložené.",
     "ro": "Da. Poți trece la un abonament superior sau inferior ori poți renunța oricând — colecția, scanările și notițele tale rămân mereu salvate.",
     "hu": "Igen. Bármikor válthatsz magasabb vagy alacsonyabb csomagra, vagy lemondhatod az előfizetésedet — a gyűjteményed, a szkenneléseid és a jegyzeteid mindig megmaradnak.",
     "da": "Ja. Du kan opgradere, nedgradere eller opsige når som helst – din samling, dine scanninger og dine noter forbliver altid gemt."
@@ -2319,7 +2319,7 @@
     "fr": "StampIQ fonctionne sur iOS et Android, sur smartphones comme sur tablettes, et dans tout navigateur moderne sur <a href=\"https://app.stampiq.io\" style=\"color:#4FA902;font-weight:600\">app.stampiq.io</a>. Ta collection reste synchronisée sur tous tes appareils.",
     "it": "StampIQ funziona su iOS e Android, su smartphone e tablet, e in qualsiasi browser moderno su <a href=\"https://app.stampiq.io\" style=\"color:#4FA902;font-weight:600\">app.stampiq.io</a>. La tua collezione resta sincronizzata su tutti i dispositivi.",
     "cs": "StampIQ běží na iOS i Androidu, na telefonech i tabletech, a v každém moderním prohlížeči na <a href=\"https://app.stampiq.io\" style=\"color:#4FA902;font-weight:600\">app.stampiq.io</a>. Tvoje sbírka zůstává synchronizovaná na všech zařízeních.",
-    "sk": "StampIQ beží na iOS a Androide, na telefónoch aj tabletoch a v každom modernom prehliadači na <a href=\"https://app.stampiq.io\" style=\"color:#4FA902;font-weight:600\">app.stampiq.io</a>. Tvoja zbierka zostáva synchronizovaná na všetkých zariadeniach.",
+    "sk": "StampIQ beží na iOS a Androide, na telefónoch aj tabletoch a v každom modernom prehliadači na <a href=\"https://app.stampiq.io\" style=\"color:#4FA902;font-weight:600\">app.stampiq.io</a>. Tvoja zbierka sa synchronizuje medzi všetkými zariadeniami.",
     "ro": "StampIQ funcționează pe iOS și Android, pe telefoane și tablete, și în orice browser modern, pe <a href=\"https://app.stampiq.io\" style=\"color:#4FA902;font-weight:600\">app.stampiq.io</a>. Colecția ta se sincronizează pe toate dispozitivele.",
     "hu": "A StampIQ iOS-en és Androidon, telefonon és táblagépen is fut, valamint bármelyik modern böngészőben az <a href=\"https://app.stampiq.io\" style=\"color:#4FA902;font-weight:600\">app.stampiq.io</a> címen. A gyűjteményed mindegyiken szinkronban marad.",
     "da": "StampIQ kører på iOS og Android, på telefoner og tablets, og i enhver moderne browser på <a href=\"https://app.stampiq.io\" style=\"color:#4FA902;font-weight:600\">app.stampiq.io</a>. Din samling holdes synkroniseret på tværs af dem alle."
@@ -2409,7 +2409,7 @@
     "fr": "Ta collection, tes scans et tes notes sont stockés en toute sécurité dans l'UE et synchronisés avec ton compte. Tes données ne sont jamais vendues ni partagées.",
     "it": "La tua collezione, le scansioni e le note vengono archiviate in modo sicuro nell'UE e sincronizzate con il tuo account. I tuoi dati non vengono mai venduti né condivisi.",
     "cs": "Tvoje sbírka, skeny a poznámky jsou bezpečně uložené v EU a synchronizované s tvým účtem. Tvoje údaje nikdy neprodáváme ani nesdílíme.",
-    "sk": "Tvoja zbierka, skeny a poznámky sú bezpečne uložené v EÚ a synchronizované s tvojím účtom. Tvoje údaje nikdy nepredávame ani neposkytujeme ďalej.",
+    "sk": "Tvoju zbierku, skeny a poznámky ukladáme bezpečne v EÚ a synchronizujeme ich s tvojím účtom. Tvoje údaje nikdy nepredávame ani neposkytujeme ďalej.",
     "ro": "Colecția, scanările și notițele tale sunt stocate în siguranță în UE și sincronizate cu contul tău. Datele tale nu sunt niciodată vândute sau partajate.",
     "hu": "A gyűjteményed, a szkenneléseid és a jegyzeteid biztonságosan, az EU-ban tárolódnak, és szinkronizálódnak a fiókoddal. Az adataidat soha nem adjuk el és nem adjuk tovább.",
     "da": "Din samling, dine scanninger og dine noter opbevares sikkert i EU og synkroniseres med din konto. Dine data bliver aldrig solgt eller delt."
@@ -2439,7 +2439,7 @@
     "fr": "Ta collection, tes scans et tes notes sont stockés en toute sécurité dans l'UE et ne sont jamais vendus. Pour faire fonctionner StampIQ, certaines données sont partagées avec des prestataires de confiance — par exemple, AWS pour l'hébergement, et OpenAI pour le chat IA de Sigi (messages de chat et résumé de la collection). Tous les détails, y compris ce qui est partagé et où, figurent dans notre <a href=\"../privacy.html\" target=\"_blank\" rel=\"noopener\" style=\"color:#4FA902;font-weight:600\">politique de confidentialité</a>.",
     "it": "La tua collezione, le scansioni e le note vengono archiviate in modo sicuro nell'UE e non sono mai vendute. Per far funzionare StampIQ, alcuni dati vengono condivisi con fornitori di servizi affidabili — per esempio, AWS per l'hosting e OpenAI per la chat AI di Sigi (i messaggi della chat e un riepilogo della collezione). Tutti i dettagli, incluso ciò che viene condiviso e dove, sono nella nostra <a href=\"../privacy.html\" target=\"_blank\" rel=\"noopener\" style=\"color:#4FA902;font-weight:600\">Informativa sulla privacy</a>.",
     "cs": "Tvoje sbírka, skeny a poznámky jsou bezpečně uložené v EU a nikdy je neprodáváme. Aby StampIQ fungoval, sdílíme některé údaje s důvěryhodnými poskytovateli služeb – například AWS pro hosting a OpenAI pro Sigiho AI chat (zprávy z chatu a přehled sbírky). Všechny podrobnosti, včetně toho, co a kde se sdílí, najdeš v našich <a href=\"../privacy.html\" target=\"_blank\" rel=\"noopener\" style=\"color:#4FA902;font-weight:600\">Zásadách ochrany osobních údajů</a>.",
-    "sk": "Tvoja zbierka, skeny a poznámky sú bezpečne uložené v EÚ a nikdy ich nepredávame. Aby StampIQ fungoval, niektoré údaje zdieľame s dôveryhodnými poskytovateľmi služieb — napríklad s AWS pre hosting a s OpenAI pre Sigiho AI chat (správy z chatu a súhrn zbierky). Všetky podrobnosti vrátane toho, čo a kde sa zdieľa, nájdeš v našich <a href=\"../privacy.html\" target=\"_blank\" rel=\"noopener\" style=\"color:#4FA902;font-weight:600\">Zásadách ochrany osobných údajov</a>.",
+    "sk": "Tvoju zbierku, skeny a poznámky ukladáme bezpečne v EÚ a nikdy ich nepredávame. Aby StampIQ mohol fungovať, niektoré údaje zdieľame s dôveryhodnými poskytovateľmi služieb – napríklad s AWS (hosting) a s OpenAI (Sigiho AI chat: správy z chatu a súhrn zbierky). Všetky podrobnosti vrátane toho, čo a kde sa zdieľa, nájdeš v našich <a href=\"../privacy.html\" target=\"_blank\" rel=\"noopener\" style=\"color:#4FA902;font-weight:600\">Zásadách ochrany osobných údajov</a>.",
     "ro": "Colecția, scanările și notițele tale sunt stocate în siguranță în UE și nu sunt niciodată vândute. Pentru ca StampIQ să funcționeze, unele date sunt partajate cu furnizori de servicii de încredere — de exemplu, AWS pentru găzduire și OpenAI pentru chatul AI al lui Sigi (mesajele din chat și un rezumat al colecției). Toate detaliile, inclusiv ce se partajează și unde, sunt în <a href=\"../privacy.html\" target=\"_blank\" rel=\"noopener\" style=\"color:#4FA902;font-weight:600\">Politica de confidențialitate</a>.",
     "hu": "A gyűjteményed, a szkenneléseid és a jegyzeteid biztonságosan, az EU-ban tárolódnak, és soha nem adjuk el őket. Ahhoz, hogy a StampIQ működjön, bizonyos adatokat megbízható szolgáltatókkal is megosztunk — például az AWS-szel a tárhelyszolgáltatáshoz, az OpenAI-jal pedig a Sigi AI-csevegéséhez (csevegőüzenetek és egy összefoglaló a gyűjteményről). A részleteket, köztük azt is, hogy mit és hol osztunk meg, megtalálod az <a href=\"../privacy.html\" target=\"_blank\" rel=\"noopener\" style=\"color:#4FA902;font-weight:600\">Adatvédelmi tájékoztatónkban</a>.",
     "da": "Din samling, dine scanninger og dine noter opbevares sikkert i EU og bliver aldrig solgt. For at StampIQ kan fungere, deles nogle data med betroede tjenesteudbydere – for eksempel AWS til hosting og OpenAI til Sigis AI-chat (chatbeskeder og et resumé af samlingen). Alle detaljer, herunder hvad der deles og hvor, finder du i vores <a href=\"../privacy.html\" target=\"_blank\" rel=\"noopener\" style=\"color:#4FA902;font-weight:600\">privatlivspolitik</a>."
@@ -2469,7 +2469,7 @@
     "fr": "Les utilisateurs Professional peuvent exporter leurs collections au format CSV ou PDF. Nous travaillons sur d'autres formats selon les demandes des collectionneurs.",
     "it": "Gli utenti Professional possono esportare le collezioni in formato CSV o PDF. Stiamo lavorando ad altri formati in base alle richieste dei collezionisti.",
     "cs": "S předplatným Professional můžeš sbírku exportovat do CSV nebo PDF. Další formáty připravujeme podle přání sběratelů.",
-    "sk": "Používatelia Professional môžu zbierky exportovať ako CSV alebo PDF. Pracujeme na ďalších formátoch podľa požiadaviek zberateľov.",
+    "sk": "Používatelia predplatného Professional môžu zbierku exportovať do CSV alebo PDF. Ďalšie formáty pripravujeme podľa želaní zberateľov.",
     "ro": "Cu abonamentul Professional îți poți exporta colecția în format CSV sau PDF. Pregătim și alte formate, în funcție de ce ne cer colecționarii.",
     "hu": "A Professional felhasználók CSV vagy PDF formátumban exportálhatják a gyűjteményüket. További formátumokon dolgozunk a gyűjtők kérései alapján.",
     "da": "Professional-brugere kan eksportere samlinger som CSV eller PDF. Vi arbejder på flere formater ud fra samlernes ønsker."
@@ -2499,7 +2499,7 @@
     "fr": "Nous ajoutons régulièrement de nouvelles fonctionnalités, guidés par les retours des vrais collectionneurs. Dis-nous ce qui rendrait StampIQ meilleur — ton avis façonne directement la feuille de route.",
     "it": "Aggiungiamo funzionalità regolarmente, guidati dai feedback dei collezionisti reali. Dicci cosa renderebbe StampIQ migliore — il tuo contributo orienta direttamente la roadmap.",
     "cs": "Nové funkce přidáváme pravidelně podle toho, co nám píšou sběratelé. Napiš nám, co by StampIQ zlepšilo – tvoje podněty přímo ovlivňují, co budeme vyvíjet dál.",
-    "sk": "Funkcie pridávame pravidelne a riadime sa pritom spätnou väzbou od skutočných zberateľov. Napíš nám, čo by StampIQ zlepšilo — tvoje podnety priamo formujú plán vývoja.",
+    "sk": "Nové funkcie pridávame pravidelne a vychádzame pritom z pripomienok zberateľov. Napíš nám, čo by StampIQ zlepšilo – na tvoje podnety pri plánovaní vývoja naozaj prihliadame.",
     "ro": "Adăugăm funcționalități în mod regulat, pornind de la sugestiile colecționarilor. Spune-ne cum am putea îmbunătăți StampIQ — ținem cont de părerea ta când stabilim ce urmează.",
     "hu": "Rendszeresen bővítjük a funkciókat, valódi gyűjtők visszajelzései alapján. Mondd el, mitől lenne jobb a StampIQ — a véleményed közvetlenül alakítja a terveinket.",
     "da": "Vi tilføjer funktioner løbende ud fra det, rigtige samlere fortæller os. Fortæl os, hvad der ville gøre StampIQ bedre – dine ønsker former direkte vores køreplan."
@@ -2514,7 +2514,7 @@
     "fr": "Comment obtenir de l'aide ?",
     "it": "Come ottengo assistenza?",
     "cs": "Jak se obrátím na podporu?",
-    "sk": "Ako získam podporu?",
+    "sk": "Kde nájdem pomoc?",
     "ro": "Cum pot cere ajutor?",
     "hu": "Hogyan kaphatok segítséget?",
     "da": "Hvordan får jeg support?"
@@ -2559,7 +2559,7 @@
     "fr": "Téléchargement gratuit. Sans carte. Ta collection sur tous tes appareils.",
     "it": "Download gratuito. Nessuna carta richiesta. La tua collezione su ogni dispositivo.",
     "cs": "Ke stažení zdarma. Bez platební karty. Tvoje sbírka na všech zařízeních.",
-    "sk": "Stiahnutie zadarmo. Bez karty. Tvoja zbierka na každom zariadení.",
+    "sk": "Zadarmo na stiahnutie. Bez platobnej karty. Tvoja zbierka na všetkých zariadeniach.",
     "ro": "Descărcare gratuită, fără card bancar. Colecția ta, pe orice dispozitiv.",
     "hu": "Ingyenes letöltés. Bankkártya nélkül. A gyűjteményed minden eszközön.",
     "da": "Gratis download. Uden betalingskort. Din samling på alle dine enheder."
@@ -2574,7 +2574,7 @@
     "fr": "Ton compagnon numérique de collection de timbres. Conçu en Suisse pour les collectionneurs du monde entier.",
     "it": "Il tuo compagno digitale per il collezionismo di francobolli. Creato in Svizzera per i collezionisti di tutto il mondo.",
     "cs": "Tvůj digitální asistent pro sbírání známek. Vznikl ve Švýcarsku pro sběratele z celého světa.",
-    "sk": "Tvoj digitálny spoločník pri zbieraní známok. Vytvorený vo Švajčiarsku pre zberateľov na celom svete.",
+    "sk": "Tvoj digitálny asistent pri zbieraní známok. Vyvinutý vo Švajčiarsku pre zberateľov z celého sveta.",
     "ro": "Asistentul tău digital pentru colecția de timbre. Creat în Elveția pentru colecționarii de pretutindeni.",
     "hu": "A digitális társad a bélyeggyűjtésben. Svájcban fejlesztve, gyűjtőknek szerte a világon.",
     "da": "Din digitale følgesvend til frimærkesamling. Udviklet i Schweiz – til samlere overalt."
@@ -2679,7 +2679,7 @@
     "fr": "FAQ",
     "it": "FAQ",
     "cs": "Časté dotazy",
-    "sk": "FAQ",
+    "sk": "Časté otázky",
     "ro": "Întrebări frecvente",
     "hu": "FAQ",
     "da": "FAQ"
@@ -2694,7 +2694,7 @@
     "fr": "Presse",
     "it": "Stampa",
     "cs": "Média",
-    "sk": "Tlač",
+    "sk": "Médiá o nás",
     "ro": "Presă",
     "hu": "Sajtó",
     "da": "Presse"
@@ -2754,7 +2754,7 @@
     "fr": "Confidentialité",
     "it": "Privacy",
     "cs": "Ochrana soukromí",
-    "sk": "Ochrana údajov",
+    "sk": "Ochrana osobných údajov",
     "ro": "Confidențialitate",
     "hu": "Adatvédelem",
     "da": "Privatliv"
@@ -2769,7 +2769,7 @@
     "fr": "Conditions",
     "it": "Termini",
     "cs": "Podmínky použití",
-    "sk": "Podmienky",
+    "sk": "Podmienky používania",
     "ro": "Termeni și condiții",
     "hu": "ÁSZF",
     "da": "Vilkår"
@@ -2799,7 +2799,7 @@
     "fr": "Catalogues : CH · DE · AT · LI · NL · PL",
     "it": "Disponibile per CH · DE · AT · LI · NL · PL",
     "cs": "Katalogy pro CH · DE · AT · LI · NL · PL",
-    "sk": "Podporujeme CH · DE · AT · LI · NL · PL",
+    "sk": "Dostupné v krajinách CH · DE · AT · LI · NL · PL",
     "ro": "Disponibil în CH · DE · AT · LI · NL · PL",
     "hu": "Támogatott országok: CH · DE · AT · LI · NL · PL",
     "da": "Understøtter CH · DE · AT · LI · NL · PL"
@@ -2814,7 +2814,7 @@
     "nl": "Je bonusscans worden ingewisseld",
     "pl": "Odbieranie dodatkowych skanów",
     "cs": "Připisujeme ti bonusové skeny",
-    "sk": "Pripisujeme tvoje bonusové skeny",
+    "sk": "Pripisujeme ti bonusové skeny",
     "ro": "Se adaugă scanările bonus",
     "hu": "A bónusz szkenneléseid beváltása",
     "da": "Vi indløser dine bonusscanninger"
@@ -2829,7 +2829,7 @@
     "nl": "StampIQ wordt geopend om je gratis scans toe te voegen. Heb je de app nog niet? Installeer hem en scan de code opnieuw.",
     "pl": "StampIQ otwiera się, aby dodać Twoje darmowe skany. Nie masz jeszcze aplikacji? Zainstaluj ją i zeskanuj kod ponownie.",
     "cs": "Otevíráme StampIQ a připisujeme ti skeny zdarma. Ještě nemáš aplikaci? Nainstaluj si ji a naskenuj kód znovu.",
-    "sk": "StampIQ sa otvára, aby ti pridal skeny zadarmo. Ešte nemáš aplikáciu? Nainštaluj si ju a naskenuj kód znova.",
+    "sk": "Otvárame StampIQ, aby sme ti pripísali bezplatné skeny. Ešte nemáš aplikáciu? Nainštaluj si ju a naskenuj kód znova.",
     "ro": "StampIQ se deschide ca să îți adauge scanările gratuite. Nu ai încă aplicația? Instaleaz-o, apoi scanează din nou codul.",
     "hu": "A StampIQ megnyílik, hogy hozzáadja az ingyenes szkenneléseidet. Még nincs meg az alkalmazás? Telepítsd, majd olvasd be újra a kódot.",
     "da": "StampIQ åbner nu og lægger dine gratis scanninger til. Har du ikke appen endnu? Installer den, og scan koden igen."
@@ -2904,7 +2904,7 @@
     "nl": "StampIQ wordt geopend om je code toe te passen. Heb je de app nog niet? Installeer hem en voer je code in bij het aanmelden.",
     "pl": "StampIQ otworzy się, aby aktywować Twój kod. Nie masz jeszcze aplikacji? Zainstaluj ją i wpisz kod podczas rejestracji.",
     "cs": "Otevíráme StampIQ a uplatňujeme tvůj kód. Ještě nemáš aplikaci? Nainstaluj si ji a kód zadej při registraci.",
-    "sk": "StampIQ sa otvára, aby uplatnil tvoj kód. Ešte nemáš aplikáciu? Nainštaluj si ju a zadaj kód pri registrácii.",
+    "sk": "Otvárame StampIQ, aby sme uplatnili tvoj kód. Ešte nemáš aplikáciu? Nainštaluj si ju a kód zadaj pri registrácii.",
     "ro": "StampIQ se deschide ca să îți aplice codul. Nu ai încă aplicația? Instaleaz-o, apoi introdu codul la înregistrare.",
     "hu": "A StampIQ megnyílik, hogy érvényesítse a kódodat. Még nincs meg az alkalmazás? Telepítsd, majd add meg a kódot a regisztrációnál.",
     "da": "StampIQ åbner nu og tager din kode i brug. Har du ikke appen endnu? Installer den, og indtast din kode, når du tilmelder dig."
@@ -2979,7 +2979,7 @@
     "fr": "« StampIQ — le compagnon numérique du collectionneur. »",
     "it": "\"StampIQ — il compagno digitale del collezionista.\"",
     "cs": "„StampIQ – digitální asistent sběratele“",
-    "sk": "„StampIQ – digitálny spoločník zberateľa.“",
+    "sk": "„StampIQ – digitálny asistent zberateľa“",
     "ro": "„StampIQ — asistentul digital al colecționarului.”",
     "hu": "„StampIQ – a gyűjtő digitális társa.”",
     "da": "»StampIQ – samlerens digitale følgesvend.«"
@@ -2994,7 +2994,7 @@
     "fr": "Filatelista, la revue de l'association philatélique polonaise, a consacré quatre pages à StampIQ dans son numéro d'août 2026. Une visite guidée en polonais de la reconnaissance, du scan groupé, du catalogue et de la carte interactive — écrite pour les collectionneurs qui se demandent si un téléphone peut vraiment remplacer un inventaire papier.",
     "it": "Filatelista, la rivista dell'associazione filatelica polacca, ha dedicato quattro pagine a StampIQ nel numero di agosto 2026. Un percorso in lingua polacca tra riconoscimento, scansione multipla, catalogo e mappa interattiva — scritto per i collezionisti che si chiedono se un telefono possa davvero sostituire un inventario cartaceo.",
     "cs": "Filatelista, časopis Svazu polských filatelistů, věnoval aplikaci StampIQ ve vydání ze srpna 2026 čtyři strany. Jde o průvodce v polštině, který provede rozpoznáváním, hromadným skenováním, katalogem a interaktivní mapou a je určený sběratelům, kteří zvažují, jestli telefon opravdu nahradí papírový soupis.",
-    "sk": "Filatelista, časopis Poľského zväzu filatelistov, venoval StampIQ štyri strany vo vydaní z augusta 2026. Sprievodca rozpoznávaním, hromadným skenovaním, katalógom a interaktívnou mapou — napísaný po poľsky pre zberateľov, ktorí zvažujú, či telefón naozaj dokáže nahradiť papierový súpis.",
+    "sk": "Filatelista, časopis Poľského zväzu filatelistov, venoval aplikácii StampIQ v augustovom vydaní 2026 štyri strany. Sprievodca po rozpoznávaní, hromadnom skenovaní, katalógu a interaktívnej mape – napísaný po poľsky pre zberateľov, ktorí zvažujú, či telefón naozaj dokáže nahradiť papierovú evidenciu.",
     "ro": "Filatelista, revista Asociației Filatelice Poloneze, a dedicat patru pagini aplicației StampIQ în numărul din august 2026. Articolul, în limba polonă, prezintă recunoașterea, scanarea multiplă, catalogul și harta interactivă și se adresează colecționarilor care se întreabă dacă un telefon poate înlocui cu adevărat evidența ținută pe hârtie.",
     "hu": "A Filatelista, a Lengyel Filatéliai Szövetség folyóirata négy oldalt szentelt a StampIQ-nak a 2026. augusztusi számában. Lengyel nyelvű bemutató a felismerésről, a tömeges szkennelésről, a katalógusról és az interaktív térképről — azoknak a gyűjtőknek, akik azt mérlegelik, hogy egy telefon valóban helyettesítheti-e a papíralapú nyilvántartást.",
     "da": "Filatelista, det polske filatelistforbunds magasin, viede fire sider til StampIQ i augustnummeret 2026. En polsksproget gennemgang af genkendelse, massescanning, kataloget og det interaktive kort – skrevet til samlere, der overvejer, om en telefon virkelig kan erstatte en fortegnelse på papir."
@@ -3024,7 +3024,7 @@
     "fr": "Rencontre-nous en personne",
     "it": "Incontraci di persona",
     "cs": "Přijď za námi",
-    "sk": "Stretnime sa osobne",
+    "sk": "Navštív náš stánok",
     "ro": "Vino să ne cunoști",
     "hu": "Találkozzunk személyesen",
     "da": "Mød os personligt"
@@ -3039,7 +3039,7 @@
     "fr": "Apporte tes timbres — on les scanne ensemble.",
     "it": "Porta i tuoi francobolli — li scansioniamo insieme.",
     "cs": "Vezmi si známky s sebou – naskenujeme je společně.",
-    "sk": "Prines svoje známky — naskenujeme ich spolu.",
+    "sk": "Prines svoje známky – naskenujeme ich spolu.",
     "ro": "Adu-ți timbrele — le scanăm împreună.",
     "hu": "Hozd el a bélyegeidet — együtt beszkenneljük őket.",
     "da": "Tag dine frimærker med – vi scanner dem sammen."
@@ -3099,7 +3099,7 @@
     "fr": "Hall 1 · Stand 33",
     "it": "Padiglione 1 · Stand 33",
     "cs": "Hala 1 · Stánek 33",
-    "sk": "Hala 1 · Stánok 33",
+    "sk": "Hala 1 · stánok 33",
     "ro": "Hala 1 · Stand 33",
     "hu": "1. csarnok · 33. stand",
     "da": "Hal 1 · Stand 33"
@@ -3114,7 +3114,7 @@
     "fr": "L'un des plus grands salons philatéliques d'Europe. Passe au stand voir SigiVision reconnaître tes propres timbres.",
     "it": "Una delle più grandi fiere filateliche d'Europa. Passa allo stand e guarda SigiVision riconoscere i tuoi francobolli.",
     "cs": "Jedna z největších filatelistických burz v Evropě. Zastav se u našeho stánku a uvidíš, jak SigiVision rozpozná tvoje vlastní známky.",
-    "sk": "Jedna z najväčších filatelistických búrz v Európe. Zastav sa pri stánku a pozri sa, ako SigiVision rozpozná tvoje vlastné známky.",
+    "sk": "Jedna z najväčších filatelistických búrz v Európe. Zastav sa pri našom stánku a pozri sa, ako SigiVision rozpoznáva tvoje známky.",
     "ro": "Unul dintre cele mai mari târguri filatelice din Europa. Treci pe la standul nostru și vezi cum SigiVision îți recunoaște timbrele.",
     "hu": "Európa egyik legnagyobb bélyegvására. Nézz be a standhoz, és nézd meg, ahogy a SigiVision felismeri a saját bélyegeidet.",
     "da": "En af Europas største frimærkemesser. Kig forbi standen, og se SigiVision genkende dine egne frimærker."
@@ -3144,7 +3144,7 @@
     "fr": "Rencontre-nous cet automne : Ulm · St. Pölten · Brigue",
     "it": "Incontraci quest'autunno: Ulma · St. Pölten · Briga",
     "cs": "Letos na podzim nás najdeš: Ulm · St. Pölten · Brig",
-    "sk": "Stretnime sa túto jeseň: Ulm · St. Pölten · Brig",
+    "sk": "Túto jeseň nás stretneš osobne: Ulm · St. Pölten · Brig",
     "ro": "Ne găsești în toamna aceasta la Ulm · St. Pölten · Brig",
     "hu": "Találkozzunk idén ősszel: Ulm · St. Pölten · Brig",
     "da": "Mød os i efteråret: Ulm · St. Pölten · Brig"
@@ -3159,7 +3159,7 @@
     "fr": "Rencontre-nous cet automne",
     "it": "Incontraci quest'autunno",
     "cs": "Najdeš nás na podzimních výstavách",
-    "sk": "Stretnime sa túto jeseň",
+    "sk": "Túto jeseň nás stretneš osobne",
     "ro": "Ne vedem în toamna aceasta",
     "hu": "Találkozzunk idén ősszel",
     "da": "Mød os i efteråret"
@@ -3354,7 +3354,7 @@
     "fr": "L'exposition philatélique suisse et la Journée du timbre — à domicile pour une app suisse.",
     "it": "L'esposizione filatelica svizzera e il Giorno del francobollo — in casa per un'app svizzera.",
     "cs": "Švýcarská národní výstava poštovních známek a Den poštovní známky – pro švýcarskou aplikaci domácí půda.",
-    "sk": "Švajčiarska národná filatelistická výstava a Deň známky — domáca pôda pre švajčiarsku aplikáciu.",
+    "sk": "Švajčiarska národná filatelistická výstava a Deň známky – pre aplikáciu zo Švajčiarska domáce podujatie.",
     "ro": "Expoziția filatelică națională a Elveției și Ziua Timbrului. Pentru o aplicație făcută în Elveția, este târgul de acasă.",
     "hu": "A svájci nemzeti bélyegkiállítás és a Bélyeg Napja — hazai pálya egy svájci alkalmazásnak.",
     "da": "Schweiz' nationale frimærkeudstilling og Frimærkets Dag – på hjemmebane for en schweizisk app."
@@ -3519,7 +3519,7 @@
     "fr": "Navigateur",
     "it": "Browser",
     "cs": "prohlížeči",
-    "sk": "Prehliadači",
+    "sk": "prehliadači",
     "ro": "Browser",
     "hu": "Böngésződben",
     "da": "Browser"
@@ -3609,7 +3609,7 @@
     "fr": "Ce que la fiche du catalogue ne dit pas, parce qu'un timbre est plus qu'un numéro et un prix.",
     "it": "Quello che la scheda di catalogo non dice, perché un francobollo è più di un numero e un prezzo.",
     "cs": "To, co v katalogu nenajdeš. Známka je totiž víc než číslo a cena.",
-    "sk": "Čo v katalógovom zázname chýba, lebo známka je viac než číslo a cena.",
+    "sk": "Všetko, čo v katalógovom zázname chýba. Známka je predsa viac než číslo a cena.",
     "ro": "Ce nu scrie în catalog – pentru că un timbru înseamnă mai mult decât un număr și un preț.",
     "hu": "Amit a katalógusbejegyzés kihagy, mert egy bélyeg több egy számnál és egy árnál.",
     "da": "Det, katalogopslaget udelader, for et frimærke er mere end et nummer og en pris."
@@ -3909,7 +3909,7 @@
     "nl": "Deze code staat op een StampIQ-albumpaginalabel. Hij opent de scan waaruit hij is gedrukt, voor de verzamelaar aan wie hij toebehoort. Benieuwd wat StampIQ doet? Installeer de app of lees verder.",
     "pl": "Ten kod jest wydrukowany na etykiecie strony albumu StampIQ. Otwiera skan, z którego pochodzi, dla kolekcjonera, do którego należy. Ciekawi Cię, co robi StampIQ? Zainstaluj aplikację lub czytaj dalej.",
     "cs": "Tento kód je vytištěný na štítku albového listu StampIQ. Sběrateli, kterému list patří, otevře sken, ze kterého štítek vznikl. Zajímá tě, co StampIQ umí? Nainstaluj si aplikaci nebo čti dál.",
-    "sk": "Tento kód je vytlačený na štítku albumového listu StampIQ. Otvorí sken, z ktorého pochádza, pre zberateľa, ktorému patrí. Zaujíma ťa, čo StampIQ dokáže? Nainštaluj si aplikáciu alebo čítaj ďalej.",
+    "sk": "Tento kód je vytlačený na štítku albumového listu zo StampIQ. Zberateľovi, ktorému list patrí, otvorí sken, z ktorého štítok vznikol. Zaujíma ťa, čo StampIQ dokáže? Nainštaluj si aplikáciu alebo čítaj ďalej.",
     "ro": "Acest cod este tipărit pe o etichetă StampIQ pentru file de album. Colecționarul căruia îi aparține fila ajunge direct la scanarea din care a fost tipărită eticheta. Vrei să afli ce poate face StampIQ? Instalează aplicația sau citește mai departe.",
     "hu": "Ez a kód egy StampIQ albumlapcímkére van nyomtatva. Azt a szkennelést nyitja meg, amelyből készült — annak a gyűjtőnek, akihez tartozik. Kíváncsi vagy, mit tud a StampIQ? Telepítsd az alkalmazást, vagy olvass tovább.",
     "da": "Denne kode er trykt på en StampIQ-etiket til albumsider. Den åbner den scanning, etiketten blev trykt ud fra, for den samler, som ejer den. Nysgerrig efter, hvad StampIQ kan? Installer appen, eller læs videre."
@@ -3924,7 +3924,7 @@
     "nl": "Laat het weten als StampIQ er is - StampIQ",
     "pl": "Powiadom mnie, gdy StampIQ dotrze - StampIQ",
     "cs": "Dej mi vědět, až bude StampIQ dostupný – StampIQ",
-    "sk": "Daj mi vedieť, keď StampIQ dorazí - StampIQ",
+    "sk": "Daj mi vedieť, keď bude StampIQ dostupný – StampIQ",
     "ro": "Anunță-mă când StampIQ devine disponibil · StampIQ",
     "hu": "Szólj, amikor a StampIQ megérkezik - StampIQ",
     "da": "Sig til, når StampIQ kommer - StampIQ"
@@ -3954,7 +3954,7 @@
     "nl": "Laat het weten als StampIQ er is",
     "pl": "Powiadom mnie, gdy StampIQ dotrze",
     "cs": "Dej mi vědět, až bude StampIQ dostupný",
-    "sk": "Daj mi vedieť, keď StampIQ dorazí",
+    "sk": "Daj mi vedieť, keď bude StampIQ dostupný",
     "ro": "Anunță-mă când StampIQ devine disponibil",
     "hu": "Szólj, amikor a StampIQ megérkezik",
     "da": "Sig til, når StampIQ kommer"
@@ -3969,7 +3969,7 @@
     "nl": "We schrijven één keer, wanneer StampIQ start in een land dat je kiest. Verder niets.",
     "pl": "Piszemy raz, gdy StampIQ pojawi się w wybranym kraju. Nic poza tym.",
     "cs": "Napíšeme ti jen jednou, až StampIQ spustíme v některé z vybraných zemí. Žádné další e-maily.",
-    "sk": "Napíšeme raz, keď StampIQ spustíme v krajine, ktorú vyberieš. Nič iné.",
+    "sk": "Napíšeme ti len raz – keď StampIQ spustíme v krajine, ktorú si vyberieš. Nič viac.",
     "ro": "Îți scriem o singură dată, când StampIQ devine disponibil într-una dintre țările alese. Atât.",
     "hu": "Egyszer írunk, amikor a StampIQ elindul egy általad választott országban. Semmi mást.",
     "da": "Vi skriver én gang, når StampIQ åbner i et land, du vælger. Ikke andet."
@@ -3999,7 +3999,7 @@
     "nl": "In welke landen wil je StampIQ?",
     "pl": "W których krajach chcesz StampIQ?",
     "cs": "Ve kterých zemích chceš StampIQ používat?",
-    "sk": "V ktorých krajinách chceš StampIQ?",
+    "sk": "V ktorých krajinách chceš StampIQ používať?",
     "ro": "În ce țări vrei să fie disponibil StampIQ?",
     "hu": "Mely országokban szeretnéd a StampIQ-t?",
     "da": "Hvilke lande vil du have StampIQ i?"
@@ -4014,7 +4014,7 @@
     "nl": "Kies er minstens één. Meerdere mag ook.",
     "pl": "Wybierz co najmniej jeden. Może być kilka.",
     "cs": "Vyber aspoň jednu. Můžeš jich vybrat víc.",
-    "sk": "Vyber aspoň jednu. Môžeš ich vybrať viac.",
+    "sk": "Vyber aspoň jednu, môžeš aj viac.",
     "ro": "Alege cel puțin una. Poți alege mai multe.",
     "hu": "Válassz legalább egyet. Többet is választhatsz.",
     "da": "Vælg mindst ét. Du må gerne vælge flere."
@@ -4044,7 +4044,7 @@
     "nl": "Schrijf me in het",
     "pl": "Piszcie do mnie po",
     "cs": "Jazyk e-mailů",
-    "sk": "Píšte mi v jazyku",
+    "sk": "Jazyk e-mailov",
     "ro": "Limba în care îți scriem",
     "hu": "Írjatok nekem ezen a nyelven",
     "da": "Skriv til mig på"
@@ -4074,7 +4074,7 @@
     "nl": "Versturen...",
     "pl": "Wysyłanie...",
     "cs": "Odesílám…",
-    "sk": "Odosielanie...",
+    "sk": "Odosiela sa…",
     "ro": "Se trimite...",
     "hu": "Küldés...",
     "da": "Sender..."
@@ -4089,7 +4089,7 @@
     "nl": "Kijk in je inbox. Open de link in de e-mail en je staat op de lijst.",
     "pl": "Sprawdź skrzynkę. Otwórz link z wiadomości i adres znajdzie się na liście.",
     "cs": "Podívej se do schránky. Klikni na odkaz v e-mailu a tvoje adresa se zapíše na seznam.",
-    "sk": "Pozri sa do schránky. Otvor odkaz z e-mailu a adresa bude na zozname.",
+    "sk": "Pozri si schránku. Klikni na odkaz v e-maile a tvoja adresa bude na zozname.",
     "ro": "Verifică-ți căsuța de e-mail și deschide linkul din mesaj pentru a confirma înscrierea pe listă.",
     "hu": "Nézd meg a postaládádat. Nyisd meg a linket az e-mailben, és felkerülsz a listára.",
     "da": "Se i din indbakke. Åbn linket i mailen, så er du på listen."
@@ -4134,7 +4134,7 @@
     "nl": "We bewaren je adres alleen hiervoor. Niet bevestigde adressen verwijderen we na 30 dagen.",
     "pl": "Twój adres przechowujemy tylko w tym celu. Adresy bez potwierdzenia usuwamy po 30 dniach.",
     "cs": "Tvoji adresu použijeme jen k tomuto upozornění. Nepotvrzené adresy po 30 dnech mažeme.",
-    "sk": "Tvoju adresu si necháme len kvôli tomuto. Adresy bez potvrdenia mažeme po 30 dňoch.",
+    "sk": "Tvoju adresu použijeme len na tento účel. Nepotvrdené adresy po 30 dňoch mažeme.",
     "ro": "Folosim adresa ta doar în acest scop. Adresele neconfirmate se șterg după 30 de zile.",
     "hu": "A címedet csak erre tartjuk meg. A meg nem erősített címeket 30 nap után töröljük.",
     "da": "Vi gemmer kun din adresse til det her. Adresser, der ikke bekræftes, slettes efter 30 dage."
@@ -4149,7 +4149,7 @@
     "nl": "Laat het weten als het er is",
     "pl": "Powiadom mnie, gdy dotrze",
     "cs": "Dej mi vědět, až bude dostupný",
-    "sk": "Daj mi vedieť, keď dorazí",
+    "sk": "Daj mi vedieť, keď bude dostupný",
     "ro": "Anunță-mă când devine disponibil",
     "hu": "Szólj, amikor megérkezik",
     "da": "Sig til, når det kommer"
