@@ -147,7 +147,7 @@
     "sk": "Stiahnuť",
     "ro": "Descarcă",
     "hu": "Letöltés",
-    "da": "Download"
+    "da": "Hent appen"
   },
   {
     "key": "nav.signin",
@@ -252,7 +252,7 @@
     "sk": "Objavuj, určuj a bez námahy usporiadaj svoje známky. Tvoj digitálny asistent – od zberateľov pre zberateľov.",
     "ro": "Descoperă, identifică și organizează-ți timbrele cu ușurință. Asistentul tău digital, creat de colecționari pentru colecționari.",
     "hu": "Fedezd fel, azonosítsd és rendszerezd a bélyegeidet – egyszerűen. Digitális asszisztens, amelyet gyűjtők fejlesztettek gyűjtőknek.",
-    "da": "Opdag, identificer og organiser dine frimærker uden besvær. Din digitale følgesvend – skabt af samlere, for samlere."
+    "da": "Opdag, identificer og organiser dine frimærker uden besvær. Din digitale assistent – lavet af samlere til samlere."
   },
   {
     "key": "hero.stat.speed.value",
@@ -267,7 +267,7 @@
     "sk": "< 1 s",
     "ro": "<1s",
     "hu": "< 1 mp",
-    "da": "<1s"
+    "da": "< 1 sek."
   },
   {
     "key": "hero.stat.speed.label",
@@ -297,7 +297,7 @@
     "sk": "98 %",
     "ro": "98%",
     "hu": "98%",
-    "da": "98%"
+    "da": "98 %"
   },
   {
     "key": "hero.stat.accuracy.label",
@@ -327,7 +327,7 @@
     "sk": "30 000+",
     "ro": "30.000+",
     "hu": "30 000+",
-    "da": "30K+"
+    "da": "30.000+"
   },
   {
     "key": "hero.stat.catalog.label",
@@ -402,7 +402,7 @@
     "sk": "Skenuj a urči",
     "ro": "Scanează și identifică",
     "hu": "Szkennelés és azonosítás",
-    "da": "Scan & identificer"
+    "da": "Scan og identificer"
   },
   {
     "key": "act1.title",
@@ -432,7 +432,7 @@
     "sk": "Technológia rozpoznávania SigiVision™ určí známku z podporovaných katalógov za necelú sekundu. Už žiadne listovanie v papierových katalógoch, keď narazíš na neznámu emisiu.",
     "ro": "Tehnologia de recunoaștere SigiVision™ identifică timbrele din cataloagele disponibile în mai puțin de o secundă. Gata cu răsfoitul cataloagelor tipărite în căutarea unei emisiuni necunoscute.",
     "hu": "A SigiVision™ felismerési technológia egy másodpercen belül azonosítja a támogatott katalógusokban szereplő bélyegeket. Nem kell többé papírkatalógusokat lapozgatnod egy ismeretlen bélyeg miatt.",
-    "da": "SigiVision™-genkendelsesteknologien identificerer frimærker fra de understøttede kataloger på under et sekund. Slut med at bladre i papirkataloger efter en ukendt udgivelse."
+    "da": "Med genkendelsesteknologien SigiVision™ genkender appen frimærker fra de understøttede kataloger på under et sekund. Slut med at bladre i papirkataloger efter et ukendt mærke."
   },
   {
     "key": "act1.bullet.1",
@@ -447,7 +447,7 @@
     "sk": "Rozpoznanie jedným ťuknutím – známku po známke",
     "ro": "Recunoaștere cu o singură atingere, timbru cu timbru",
     "hu": "Felismerés egyetlen érintéssel – egyszerre egy bélyeg",
-    "da": "Ét tryk genkender ét frimærke ad gangen"
+    "da": "Genkend ét frimærke ad gangen med ét tryk"
   },
   {
     "key": "act1.bullet.2",
@@ -492,7 +492,7 @@
     "sk": "Súvisiace známky a ďalšie známky zo série",
     "ro": "Timbre asemănătoare și din aceeași serie",
     "hu": "Kapcsolódó bélyegek és a teljes sorozat",
-    "da": "Beslægtede frimærker og frimærker fra serien"
+    "da": "Beslægtede frimærker og resten af serien"
   },
   {
     "key": "act2.eyebrow",
@@ -507,7 +507,7 @@
     "sk": "Zbieraj a usporiadaj",
     "ro": "Colecționează și organizează",
     "hu": "Gyűjtés és rendszerezés",
-    "da": "Saml & organiser"
+    "da": "Saml og organiser"
   },
   {
     "key": "act2.title",
@@ -522,7 +522,7 @@
     "sk": "Celá tvoja zbierka, vždy po ruke",
     "ro": "Toată colecția ta, mereu la tine",
     "hu": "A teljes gyűjteményed – mindig veled",
-    "da": "Hele din samling – altid med dig"
+    "da": "Hele din samling – altid lige ved hånden"
   },
   {
     "key": "act2.body",
@@ -537,7 +537,7 @@
     "sk": "Na správu zbierky už nepotrebuješ nekonečné zoznamy a rozhádzané zošity. Usporiadaj si ju podľa krajiny, témy alebo série. Sleduj stav, hodnotu a atesty. Pridávaj vlastné fotky a poznámky.",
     "ro": "Evidența unei colecții nu mai înseamnă liste nesfârșite și caiete răvășite. Organizează după țară, temă sau serie. Ține evidența stării, a valorii și a certificatelor. Adaugă fotografii și notițe personale.",
     "hu": "A gyűjteményed kezeléséhez nincs szükség végtelen listákra és szétszórt füzetekre. Rendszerezd ország, téma vagy sorozat szerint. Tartsd nyilván az állapotot, az értéket és a szakvéleményeket. Adj hozzá saját fotókat és jegyzeteket.",
-    "da": "At holde styr på en samling bør ikke kræve endeløse lister og spredte notesbøger. Organiser efter land, tema eller serie. Hold styr på kvalitet, værdi og attester. Tilføj egne fotos og noter."
+    "da": "Det bør ikke kræve endeløse lister og spredte notesbøger at holde styr på en samling. Organiser efter land, tema eller serie. Registrer kvalitet, værdi og attester. Tilføj dine egne fotos og noter."
   },
   {
     "key": "act2.bullet.1",
@@ -567,7 +567,7 @@
     "sk": "Sleduj stav, kúpnu cenu a atesty",
     "ro": "Ține evidența stării, a prețului de achiziție și a certificatelor",
     "hu": "Tartsd nyilván az állapotot, a vételárat és a szakvéleményeket",
-    "da": "Hold styr på kvalitet, købsværdi og attester"
+    "da": "Hold styr på kvalitet, købspris og attester"
   },
   {
     "key": "act2.bullet.3",
@@ -642,7 +642,7 @@
     "sk": "Stačí jedna fotka albumového listu a SigiVision™ rozpozná všetky známky naraz – každú automaticky oreže a priradí ku katalógu. Najrýchlejší spôsob, ako zdigitalizovať zbierku, ktorú si budoval celý život.",
     "ro": "Fotografiază o filă de album și SigiVision™ detectează toate timbrele deodată — le decupează automat și le identifică în catalog. Cel mai rapid mod de a digitaliza colecția de o viață.",
     "hu": "Fotózz le egy albumlapot, és a SigiVision™ egyszerre felismeri rajta az összes bélyeget: automatikusan kivágja őket, és összeveti a katalógussal. Így digitalizálhatod a leggyorsabban egy élet gyűjteményét.",
-    "da": "Tag ét foto af en albumside, og SigiVision™ finder hvert eneste frimærke på én gang – beskærer automatisk og matcher mod kataloget. Den hurtigste måde at digitalisere et helt samlerliv på."
+    "da": "Tag ét foto af en albumside, og SigiVision™ finder alle frimærkerne på én gang, beskærer dem automatisk og slår dem op i kataloget. Den hurtigste måde at digitalisere et helt samlerliv på."
   },
   {
     "key": "act3.bullet.1",
@@ -702,7 +702,7 @@
     "sk": "Pred uložením skontroluj každý výsledok",
     "ro": "Verifică fiecare rezultat înainte de a-l salva",
     "hu": "Mentés előtt minden eredményt ellenőrizhetsz",
-    "da": "Gennemgå hvert træf, før du gemmer"
+    "da": "Gennemgå hvert resultat, før du gemmer"
   },
   {
     "key": "act4.eyebrow",
@@ -717,7 +717,7 @@
     "sk": "Skúmaj a objavuj",
     "ro": "Explorează și descoperă",
     "hu": "Böngészés és felfedezés",
-    "da": "Udforsk & opdag"
+    "da": "Udforsk og opdag"
   },
   {
     "key": "act4.title",
@@ -747,7 +747,7 @@
     "sk": "Pozri sa na známky ako na okná do skutočného sveta. Objavuj miesta vo svojom okolí, ktoré sú vyobrazené na známkach z tvojej zbierky – budovy, pamiatky, krajinu. Premeň nedeľnú prechádzku na filatelistické dobrodružstvo.",
     "ro": "Privește timbrele ca pe niște ferestre spre lumea reală. Descoperă locuri de lângă tine care apar pe timbrele din colecția ta — clădiri, monumente, peisaje. Transformă o plimbare de duminică într-o aventură filatelică.",
     "hu": "Nézz a bélyegekre úgy, mint a valódi világra nyíló ablakokra. Fedezd fel a közeledben azokat a helyeket, amelyek a gyűjteményed bélyegein szerepelnek: épületeket, emlékműveket, tájakat. Változtasd bélyegkalanddá a vasárnapi sétát.",
-    "da": "Se frimærker som vinduer til den virkelige verden. Opdag steder tæt på dig, som er afbildet på frimærker i din samling – bygninger, monumenter, landskaber. Gør søndagsturen til et frimærkeeventyr."
+    "da": "Frimærker er vinduer ud til verden. Opdag steder i nærheden af dig, som er afbildet på frimærker i din samling – bygninger, monumenter, landskaber. Gør søndagsturen til et frimærkeeventyr."
   },
   {
     "key": "act4.bullet.1",
@@ -777,7 +777,7 @@
     "sk": "Prepoj známky so skutočnými miestami",
     "ro": "Leagă timbrele de locuri reale",
     "hu": "Kösd össze a bélyegeket valódi helyekkel",
-    "da": "Forbind frimærker med virkelige steder"
+    "da": "Kobl frimærkerne til steder i virkeligheden"
   },
   {
     "key": "act4.bullet.3",
@@ -852,7 +852,7 @@
     "sk": "Naše rozpoznávanie sme vyvinuli priamo pre poštové známky – nejde o bežné rozpoznávanie obrázkov. Každý model je vyladený na katalóg konkrétnej krajiny a overený na certifikovaných referenčných známkach.",
     "ro": "Tehnologia noastră de recunoaștere este creată special pentru timbre — nu este un simplu clasificator de imagini. Fiecare model este optimizat pentru catalogul unei anumite țări și testat pe exemplare de referință certificate.",
     "hu": "Felismerő rendszerünket kifejezetten bélyegekhez fejlesztettük – nem általános képfelismerő. Minden modellt az adott ország katalógusára hangolunk, és hitelesített referenciaanyagon ellenőrzünk.",
-    "da": "Vores genkendelsesteknologi er bygget specifikt til frimærker – ikke generisk billedklassificering. Hver model er finjusteret til det enkelte landekatalog og valideret mod certificerede referencer."
+    "da": "Vores genkendelsesteknologi er udviklet specielt til frimærker – ikke til generel billedgenkendelse. Hver model er finjusteret til det enkelte lands katalog og testet på certificerede referencer."
   },
   {
     "key": "sigivision.stat.speed.value",
@@ -867,7 +867,7 @@
     "sk": "< 1 s",
     "ro": "<1s",
     "hu": "< 1 mp",
-    "da": "<1s"
+    "da": "< 1 sek."
   },
   {
     "key": "sigivision.stat.speed.label",
@@ -897,7 +897,7 @@
     "sk": "Rýchlejšie, než stihneš vytiahnuť katalóg z police.",
     "ro": "Până apuci să iei catalogul de pe raft.",
     "hu": "Gyorsabb, mint levenni a katalógust a polcról.",
-    "da": "Før kataloget når ned fra hylden."
+    "da": "Før du har nået at tage kataloget ned fra hylden."
   },
   {
     "key": "sigivision.stat.accuracy.value",
@@ -912,7 +912,7 @@
     "sk": "98 %",
     "ro": "98%",
     "hu": "98%",
-    "da": "98%"
+    "da": "98 %"
   },
   {
     "key": "sigivision.stat.accuracy.label",
@@ -942,7 +942,7 @@
     "sk": "Overená na certifikovaných referenčných známkach.",
     "ro": "Testată pe seturi de timbre de referință certificate.",
     "hu": "Hitelesített referenciaanyagokon ellenőrizve.",
-    "da": "Valideret mod certificerede referencesæt."
+    "da": "Testet på certificerede referencesæt."
   },
   {
     "key": "sigivision.stat.catalog.value",
@@ -957,7 +957,7 @@
     "sk": "30 000+",
     "ro": "30.000+",
     "hu": "30 000+",
-    "da": "30K+"
+    "da": "30.000+"
   },
   {
     "key": "sigivision.stat.catalog.label",
@@ -972,7 +972,7 @@
     "sk": "Známok v dostupných katalógoch",
     "ro": "Timbre în cataloagele disponibile",
     "hu": "Bélyeg az elérhető katalógusokban",
-    "da": "Frimærker i aktive kataloger"
+    "da": "Frimærker i de tilgængelige kataloger"
   },
   {
     "key": "sigivision.stat.catalog.sub",
@@ -987,7 +987,7 @@
     "sk": "Každý mesiac pribúdajú nové emisie.",
     "ro": "Adăugăm emisiuni noi în fiecare lună.",
     "hu": "Havonta bővül az új kibocsátásokkal.",
-    "da": "Nye udgivelser hver måned."
+    "da": "Nye udgivelser tilføjes hver måned."
   },
   {
     "key": "sigivision.stat.countries.value",
@@ -1047,7 +1047,7 @@
     "sk": "Tvoj asistent",
     "ro": "Asistentul tău",
     "hu": "Az asszisztensed",
-    "da": "Din følgesvend"
+    "da": "Din assistent"
   },
   {
     "key": "meet_sigi.headline",
@@ -1077,7 +1077,7 @@
     "sk": "Sigi je tvoj filatelistický asistent s umelou inteligenciou. Spýtaj sa ho na históriu známky, na príbeh, ktorý sa za ňou skrýva, alebo na to, ako začať s krajinou, ktorú ešte v zbierke nemáš.",
     "ro": "Sigi este asistentul tău filatelic bazat pe inteligență artificială. Întreabă-l despre istoria unui timbru, despre cum a luat naștere sau de unde să începi dacă vrei să colecționezi timbrele unei țări noi.",
     "hu": "Sigi a mesterséges intelligenciával működő filatéliai asszisztensed. Kérdezz tőle egy bélyeg hátteréről, a mögötte álló történetről, vagy arról, hogyan kezdj hozzá egy olyan ország gyűjtéséhez, amellyel még sosem foglalkoztál.",
-    "da": "Sigi er din AI-drevne følgesvend i frimærkernes verden. Spørg om et frimærkes historie, om historien, det fortæller, eller om, hvor du skal begynde med et land, du aldrig har samlet før."
+    "da": "Sigi er din AI-assistent i frimærkernes verden. Spørg om et frimærkes historie, om det, motivet fortæller, eller om hvor du skal starte med et land, du aldrig har samlet før."
   },
   {
     "key": "meet_sigi.p2",
@@ -1092,7 +1092,7 @@
     "sk": "Je priateľský, trpezlivý a k dispozícii vždy, keď ťa niečo zaujíma.",
     "ro": "Este prietenos, răbdător și mereu gata să-ți răspundă când te apucă curiozitatea.",
     "hu": "Barátságos, türelmes és mindig kéznél van, ha rád tör a kíváncsiság.",
-    "da": "Han er venlig, tålmodig og klar, når nysgerrigheden melder sig."
+    "da": "Han er venlig og tålmodig og står klar, når nysgerrigheden melder sig."
   },
   {
     "key": "meet_sigi.feature.1",
@@ -1107,7 +1107,7 @@
     "sk": "Historický kontext ku každej emisii",
     "ro": "Context istoric pentru orice emisiune",
     "hu": "Történelmi háttér minden kibocsátáshoz",
-    "da": "Historisk baggrund for enhver udgivelse"
+    "da": "Historisk baggrund for hver udgivelse"
   },
   {
     "key": "meet_sigi.feature.2",
@@ -1122,7 +1122,7 @@
     "sk": "Odpovede na tvoje otázky v rozhovore",
     "ro": "Răspunsuri la întrebările tale, ca într-o conversație",
     "hu": "Kötetlen, beszélgetős válaszok a kérdéseidre",
-    "da": "Svar på dine spørgsmål i almindeligt sprog"
+    "da": "Letforståelige svar på dine spørgsmål"
   },
   {
     "key": "meet_sigi.feature.3",
@@ -1137,7 +1137,7 @@
     "sk": "Identifikácia tém a sérií",
     "ro": "Identificarea temelor și a seriilor",
     "hu": "Témák és sorozatok felismerése",
-    "da": "Identificer temaer og serier"
+    "da": "Genkendelse af motiver og serier"
   },
   {
     "key": "meet_sigi.feature.4",
@@ -1152,7 +1152,7 @@
     "sk": "Tipy na usporiadanie a uchovávanie",
     "ro": "Sfaturi pentru organizare și păstrare",
     "hu": "Tippek a rendszerezéshez és az állagmegóváshoz",
-    "da": "Tips til organisering og bevaring"
+    "da": "Tips til at ordne og opbevare samlingen"
   },
   {
     "key": "pricing.eyebrow",
@@ -1182,7 +1182,7 @@
     "sk": "Vyber si svoju verziu",
     "ro": "Alege-ți abonamentul",
     "hu": "Válaszd ki a csomagod",
-    "da": "Vælg din plan"
+    "da": "Vælg dit abonnement"
   },
   {
     "key": "pricing.sub",
@@ -1212,7 +1212,7 @@
     "sk": "Mesačne",
     "ro": "Lunar",
     "hu": "Havi",
-    "da": "Månedlig"
+    "da": "Månedligt"
   },
   {
     "key": "pricing.toggle.yearly",
@@ -1227,7 +1227,7 @@
     "sk": "Ročne",
     "ro": "Anual",
     "hu": "Éves",
-    "da": "Årlig"
+    "da": "Årligt"
   },
   {
     "key": "pricing.most_popular",
@@ -1257,7 +1257,7 @@
     "sk": "Bezplatná verzia",
     "ro": "Abonament gratuit",
     "hu": "Ingyenes csomag",
-    "da": "Free-plan"
+    "da": "Gratis"
   },
   {
     "key": "pricing.tier.free.price_label",
@@ -1287,7 +1287,7 @@
     "sk": "Ideálna pre začínajúcich zberateľov, ktorí chcú StampIQ vyskúšať",
     "ro": "Ideal pentru colecționarii la început de drum care vor să descopere StampIQ",
     "hu": "Ideális kezdő gyűjtőknek, akik most ismerkednek a StampIQ-val",
-    "da": "Perfekt til nye samlere, der vil udforske StampIQ"
+    "da": "Til nye samlere, der vil lære StampIQ at kende"
   },
   {
     "key": "pricing.tier.free.cta",
@@ -1302,7 +1302,7 @@
     "sk": "Začni zadarmo",
     "ro": "Alege varianta gratuită",
     "hu": "Kezdd el ingyen",
-    "da": "Vælg Free"
+    "da": "Start gratis"
   },
   {
     "key": "pricing.tier.free.feature.1.title",
@@ -1332,7 +1332,7 @@
     "sk": "Urči svoje známky s 98-percentnou presnosťou. Výsledok máš do niekoľkých sekúnd.",
     "ro": "Identifică-ți timbrele cu o precizie de 98%. Primești rezultatul în câteva secunde.",
     "hu": "Azonosítsd a bélyegeidet 98%-os pontossággal. Az eredmény néhány másodpercen belül elkészül.",
-    "da": "Identificer dine frimærker med 98% nøjagtighed. Resultater på få sekunder."
+    "da": "Identificer dine frimærker med 98 % nøjagtighed – og få resultatet på få sekunder."
   },
   {
     "key": "pricing.tier.free.feature.2.title",
@@ -1362,7 +1362,7 @@
     "sk": "Každý mesiac máš zadarmo 5 skenovaní jednotlivých známok a 2 hromadné skenovania – na prvý prieskum tvojej zbierky.",
     "ro": "În fiecare lună ai gratuit 5 scanări individuale și 2 scanări multiple, ca să-ți descoperi colecția.",
     "hu": "Havonta 5 egyedi és 2 tömeges szkennelés ingyen, hogy feltérképezhesd a gyűjteményedet.",
-    "da": "Få 5 gratis enkeltscanninger og 2 massescanninger hver måned til at udforske din samling."
+    "da": "Du får 5 gratis enkeltscanninger og 2 massescanninger om måneden, så du kan gå på opdagelse i din samling."
   },
   {
     "key": "pricing.tier.free.feature.3.title",
@@ -1392,7 +1392,7 @@
     "sk": "Pozri si výsledky v katalógu a základné údaje o naskenovaných známkach.",
     "ro": "Vezi rezultatele din catalog și informațiile esențiale despre timbrele scanate.",
     "hu": "Megnézheted a beszkennelt bélyegeid katalógusadatait és legfontosabb jellemzőit.",
-    "da": "Se katalogtræf og vigtige oplysninger om de frimærker, du har scannet."
+    "da": "Se katalogresultatet og de vigtigste oplysninger om de frimærker, du har scannet."
   },
   {
     "key": "pricing.tier.free.feature.4.title",
@@ -1422,7 +1422,7 @@
     "sk": "Osobná podpora nie je jej súčasťou. Časté otázky a návody v pomocníkovi máš k dispozícii kedykoľvek.",
     "ro": "Asistența personală nu este inclusă. Secțiunea de întrebări frecvente și articolele de ajutor sunt mereu disponibile.",
     "hu": "A személyes támogatás nem része a csomagnak. A GYIK és a súgócikkek mindig elérhetők.",
-    "da": "Personlig support er ikke inkluderet. FAQ og hjælpeartikler er altid tilgængelige."
+    "da": "Personlig support er ikke inkluderet, men du kan altid finde svar under Ofte stillede spørgsmål og i hjælpeartiklerne."
   },
   {
     "key": "pricing.tier.premium.name",
@@ -1437,7 +1437,7 @@
     "sk": "Premium",
     "ro": "Abonament Premium",
     "hu": "Premium csomag",
-    "da": "Premium-plan"
+    "da": "Premium"
   },
   {
     "key": "pricing.tier.premium.cta",
@@ -1467,7 +1467,7 @@
     "sk": "Okamžité rozpoznávanie SigiVision<sup style=\"font-size:9px\">™</sup>",
     "ro": "Recunoaștere instantanee SigiVision<sup style=\"font-size:9px\">™</sup>",
     "hu": "SigiVision<sup style=\"font-size:9px\">™</sup> azonnali felismerés",
-    "da": "Øjeblikkelig SigiVision<sup style=\"font-size:9px\">™</sup>-genkendelse"
+    "da": "Lynhurtig SigiVision<sup style=\"font-size:9px\">™</sup>-genkendelse"
   },
   {
     "key": "pricing.tier.premium.feature.1.desc",
@@ -1482,7 +1482,7 @@
     "sk": "Urči svoje známky s 98-percentnou presnosťou za menej ako 1 sekundu – bez čakania.",
     "ro": "Identifică-ți timbrele cu o precizie de 98% în mai puțin de o secundă, fără să aștepți.",
     "hu": "Azonosítsd a bélyegeidet 98%-os pontossággal, 1 másodpercen belül – várakozás nélkül.",
-    "da": "Identificer dine frimærker med 98% nøjagtighed på under 1 sekund – helt uden ventetid."
+    "da": "Identificer dine frimærker med 98 % nøjagtighed på under ét sekund – helt uden ventetid."
   },
   {
     "key": "pricing.tier.premium.feature.2.title",
@@ -1542,7 +1542,7 @@
     "sk": "Naskenuj celú stranu albumu naraz – známky sa automaticky orežú a priradia ku katalógu. Až 5 strán mesačne.",
     "ro": "Scanează până la 5 pagini de album pe lună: aplicația decupează automat fiecare timbru și îl identifică în catalog.",
     "hu": "Szkennelj be egész albumlapokat – az alkalmazás automatikusan kivágja és a katalógusban azonosítja a bélyegeket. Havonta legfeljebb 5 lap.",
-    "da": "Scan sider med flere frimærker med automatisk beskæring og identifikation – op til 5 sider om måneden."
+    "da": "Scan hele albumsider – frimærkerne bliver automatisk beskåret og identificeret. Op til 5 sider om måneden."
   },
   {
     "key": "pricing.tier.premium.feature.4.title",
@@ -1602,7 +1602,7 @@
     "sk": "Nové nástroje pre zberateľov vyskúšaš medzi prvými, hneď ako budú k dispozícii.",
     "ro": "Încearcă noile funcționalități pentru colecționari imediat ce apar, înaintea celorlalți.",
     "hu": "Az elsők között próbálhatod ki az új gyűjtői eszközöket, amint megjelennek.",
-    "da": "Vær blandt de første til at prøve nye samlerværktøjer, så snart de udkommer."
+    "da": "Vær blandt de første til at prøve nye samlerværktøjer, så snart de er klar."
   },
   {
     "key": "pricing.tier.pro.name",
@@ -1617,7 +1617,7 @@
     "sk": "Professional",
     "ro": "Abonament Professional",
     "hu": "Professional csomag",
-    "da": "Professional-plan"
+    "da": "Professional"
   },
   {
     "key": "pricing.tier.pro.includes_everything",
@@ -1632,7 +1632,7 @@
     "sk": "Všetko z predplatného Premium a navyše:",
     "ro": "Include tot ce oferă Premium, plus:",
     "hu": "A Premium csomag minden funkciója, és ezen felül:",
-    "da": "Alt fra Premium, plus:"
+    "da": "Alt i Premium og desuden:"
   },
   {
     "key": "pricing.tier.pro.cta",
@@ -1677,7 +1677,7 @@
     "sk": "Naše najvýkonnejšie rozpoznávanie – 98-percentná presnosť za menej ako 1 sekundu a čo najpresnejšie výsledky.",
     "ro": "Cea mai performantă tehnologie de recunoaștere din StampIQ — precizie de 98% în mai puțin de o secundă, pentru rezultate cât mai exacte.",
     "hu": "Legerősebb felismerő rendszerünk – 98%-os pontosság 1 másodpercen belül, a lehető legjobb eredményért.",
-    "da": "Vores stærkeste genkendelsesteknologi – 98% nøjagtighed på under 1 sekund for de bedst mulige træf."
+    "da": "Vores mest avancerede genkendelsesteknologi – 98 % nøjagtighed på under ét sekund og de bedst mulige resultater."
   },
   {
     "key": "pricing.tier.pro.feature.2.title",
@@ -1707,7 +1707,7 @@
     "sk": "Rozpoznaj naraz viacero známok z jedného albumového listu – aplikácia ich sama oreže a nájde v katalógu. Bez obmedzení.",
     "ro": "Detectează mai multe timbre pe o singură pagină, cu decupare automată și identificare în catalog. Fără limite.",
     "hu": "Egy lapról egyszerre több bélyeget is felismer, automatikusan kivágja és a katalógusban azonosítja őket – korlát nélkül.",
-    "da": "Find flere frimærker på én side med automatisk beskæring og identifikation. Ingen grænser."
+    "da": "Genkend mange frimærker på én side med automatisk beskæring og identifikation – helt uden begrænsninger."
   },
   {
     "key": "pricing.tier.pro.feature.3.title",
@@ -1737,7 +1737,7 @@
     "sk": "Prednostná pomoc e-mailom od nášho filatelistického tímu.",
     "ro": "Răspunsuri cu prioritate prin e-mail de la echipa noastră de filateliști.",
     "hu": "Soron kívüli e-mailes segítség filatelista csapatunktól.",
-    "da": "Prioriteret hjælp på e-mail fra vores filateliteam."
+    "da": "Hurtigere svar på e-mail fra vores team af filatelister."
   },
   {
     "key": "press.eyebrow",
@@ -1782,7 +1782,7 @@
     "sk": "Všimli si nás popredné filatelistické časopisy.",
     "ro": "Au scris despre noi publicații filatelice de referință.",
     "hu": "Vezető filatéliai lapok is írtak a StampIQ-ról.",
-    "da": "Anerkendt af førende filatelimagasiner."
+    "da": "Fremhævet i førende filatelistiske tidsskrifter."
   },
   {
     "key": "press.cta",
@@ -1857,7 +1857,7 @@
     "sk": "SBZ – Schweizer Briefmarken Zeitung, popredný švajčiarsky filatelistický časopis – predstavil StampIQ v marcovom čísle 2026. Na dvoch stranách priblížil nového zberateľského asistenta zo Zugu, technológiu SigiVision a myšlienku aplikácie, za ktorou stoja samotní zberatelia.",
     "ro": "SBZ — Schweizer Briefmarken Zeitung, cea mai importantă revistă de filatelie din Elveția — a prezentat StampIQ în numărul din martie 2026, într-un articol de două pagini despre noua aplicație pentru colecționari dezvoltată la Zug, despre tehnologia pe care se bazează SigiVision și despre filozofia unei aplicații făcute de colecționari, pentru colecționari.",
     "hu": "Az SBZ – a Schweizer Briefmarken Zeitung, Svájc vezető filatéliai lapja – 2026. márciusi számában mutatta be a StampIQ-t. A kétoldalas cikk bemutatja a Zugban készült új alkalmazást, a SigiVision mögötti technológiát és a szemléletet, amely szerint készült: gyűjtőtől gyűjtőknek.",
-    "da": "SBZ – Schweizer Briefmarken Zeitung, Schweiz' førende filatelimagasin – omtalte StampIQ i martsnummeret 2026. Et portræt på to sider af den nye samlerfølgesvend fra Zug, teknologien bag SigiVision og filosofien bag en app, der er bygget af samlere for samlere."
+    "da": "SBZ – Schweizer Briefmarken Zeitung, Schweiz' førende filatelistiske tidsskrift – skrev om StampIQ i nummeret fra marts 2026: et tosidet portræt af den nye samlerassistent fra Zug, af teknologien bag SigiVision og af filosofien bag en app, som samlere har udviklet til andre samlere."
   },
   {
     "key": "founder.eyebrow",
@@ -1872,7 +1872,7 @@
     "sk": "Zberateľ, ktorý hľadal lepšie riešenie",
     "ro": "Un colecționar nemulțumit și o soluție mai bună",
     "hu": "Egy gyűjtő, akinek elege lett",
-    "da": "Én frustreret samler. Én bedre måde"
+    "da": "En frustreret samler – og en bedre løsning"
   },
   {
     "key": "founder.headline",
@@ -1887,7 +1887,7 @@
     "sk": "Od zberateľa pre zberateľov",
     "ro": "Creat de colecționari, pentru colecționari",
     "hu": "Gyűjtőtől gyűjtőknek",
-    "da": "Bygget af samlere, for samlere"
+    "da": "Fra samler til samler"
   },
   {
     "key": "founder.p1",
@@ -1902,7 +1902,7 @@
     "sk": "StampIQ vznikol z obyčajnej frustrácie: správa zbierky známok by nemala znamenať listovanie v nekonečných katalógoch, ručné vyhľadávanie a hádanie. Známky zbieram celý život a vedel som, že to musí ísť aj lepšie.",
     "ro": "StampIQ a pornit de la o frustrare simplă: evidența unei colecții de timbre n-ar trebui să însemne răsfoit la nesfârșit prin cataloage, căutări manuale și ghicit. Colecționez de o viață și știam că se poate mai simplu.",
     "hu": "A StampIQ egy hétköznapi bosszúságból született: egy bélyeggyűjtemény rendben tartásához ne kelljen végeláthatatlan katalógusokat lapozgatni, kézzel keresgélni és találgatni. Egész életemben gyűjtöttem, és tudtam, hogy ennek egyszerűbben is kell mennie.",
-    "da": "StampIQ udsprang af en simpel frustration: at holde styr på en frimærkesamling bør ikke kræve endeløse kataloger, manuel søgning og gætteri. Jeg har samlet frimærker hele livet, og jeg vidste, at der måtte være en bedre måde."
+    "da": "StampIQ opstod af en helt enkel frustration: Det burde ikke kræve stakkevis af kataloger, manuel søgning og gætværk at holde styr på en frimærkesamling. Jeg har samlet frimærker hele mit liv, og jeg vidste, at det måtte kunne gøres bedre."
   },
   {
     "key": "founder.p2",
@@ -1917,7 +1917,7 @@
     "sk": "Keď som spojil vášeň pre filateliu s rokmi práce v IT, vznikol StampIQ – nástroj, aký mi chýbal, keď som so zbieraním začínal.",
     "ro": "Am îmbinat pasiunea pentru filatelie cu ani de experiență în IT, iar StampIQ este aplicația pe care mi-aș fi dorit-o când am început să colecționez.",
     "hu": "A filatélia iránti szenvedélyemet a technológiában eltöltött éveimmel ötvöztem, így született meg a StampIQ – az az eszköz, amelyet már a gyűjtés kezdetén is szívesen használtam volna.",
-    "da": "Jeg har forenet min passion for filateli med mange års arbejde inden for teknologi, og StampIQ er blevet det værktøj, jeg selv ville have ønsket mig, da jeg begyndte at samle."
+    "da": "Jeg har kombineret min interesse for filateli med mange års arbejde med teknologi, og resultatet er StampIQ – det værktøj, jeg selv havde ønsket mig, da jeg begyndte at samle."
   },
   {
     "key": "founder.byline",
@@ -1962,7 +1962,7 @@
     "sk": "Staň sa partnerom StampIQ",
     "ro": "Devino partener StampIQ",
     "hu": "Legyél a StampIQ partnere",
-    "da": "Bliv partner med StampIQ"
+    "da": "Samarbejd med StampIQ"
   },
   {
     "key": "partner.body",
@@ -1977,7 +1977,7 @@
     "sk": "Chceme zbieraniu známok priniesť nové možnosti a radi budeme spolupracovať s obchodníkmi, filatelistickými spolkami, vydavateľmi katalógov aj so širšou zberateľskou komunitou.",
     "ro": "Vrem să aducem filatelia în era digitală și ne dorim să colaborăm cu comercianți, asociații filatelice, editori de cataloage și cu întreaga comunitate a colecționarilor.",
     "hu": "Szeretnénk korszerűbbé tenni a bélyeggyűjtést, és ebben szívesen dolgozunk együtt kereskedőkkel, filatéliai egyesületekkel, katalóguskiadókkal és a gyűjtői közösség minden tagjával.",
-    "da": "Vi bygger fremtidens måde at samle frimærker på, og vi samarbejder gerne med forhandlere, filatelistiske foreninger, katalogudgivere og hele samlerfællesskabet."
+    "da": "Vi er ved at forny måden, man samler frimærker på, og vi samarbejder gerne med frimærkehandlere, filatelistiske foreninger, katalogudgivere og hele samlermiljøet."
   },
   {
     "key": "partner.card.dealers.title",
@@ -2007,7 +2007,7 @@
     "sk": "Spolupracuj s nami – oslovíš zanietených zberateľov a svoj sortiment prepojíš s našou platformou.",
     "ro": "Colaborează cu noi ca să ajungi la colecționari pasionați și să îți integrezi stocul în platforma noastră.",
     "hu": "Érd el velünk az elkötelezett gyűjtőket, és jelenjen meg a kínálatod az alkalmazásunkban.",
-    "da": "Samarbejd med os om at nå engagerede samlere og integrere dit varelager i vores platform."
+    "da": "Kom i kontakt med engagerede samlere, og få dit varelager integreret på vores platform."
   },
   {
     "key": "partner.card.associations.title",
@@ -2037,7 +2037,7 @@
     "sk": "Ponúknime spoločne tvojim členom digitálne nástroje a rozšírme zberateľskú komunitu.",
     "ro": "Colaborează cu noi ca să le oferi membrilor instrumente digitale și să atragi noi colecționari.",
     "hu": "Adjunk közösen korszerű digitális eszközöket az egyesületed tagjainak kezébe, és erősítsük együtt a gyűjtői közösséget.",
-    "da": "Lad os sammen give dine medlemmer digitale værktøjer og styrke samlerfællesskabet."
+    "da": "Lad os sammen give jeres medlemmer digitale værktøjer og styrke samlermiljøet."
   },
   {
     "key": "partner.card.publishers.title",
@@ -2067,7 +2067,7 @@
     "sk": "Spolupracuj s nami a sprístupni svoje katalógy zberateľom v modernej podobe.",
     "ro": "Colaborează cu noi ca să le oferi colecționarilor cataloagele tale într-un format modern și accesibil.",
     "hu": "Juttassuk el együtt a katalógusaidat a gyűjtőkhöz korszerű, könnyen hozzáférhető formában.",
-    "da": "Arbejd sammen med os om at bringe dine kataloger ud til samlerne i et moderne og tilgængeligt format."
+    "da": "Samarbejd med os om at give samlerne adgang til jeres kataloger i et moderne og brugervenligt format."
   },
   {
     "key": "partner.card.press.title",
@@ -2097,7 +2097,7 @@
     "sk": "Ozvi sa nám, ak máš záujem o tlačové materiály, rozhovor alebo exkluzívne novinky.",
     "ro": "Contactează-ne pentru materiale de presă, interviuri și noutăți exclusive.",
     "hu": "Sajtóanyag, interjú vagy exkluzív hír ügyében keress minket bátran.",
-    "da": "Kontakt os for pressemateriale, interviews og eksklusive nyheder."
+    "da": "Skriv til os, hvis du har brug for pressemateriale, interviews eller eksklusive nyheder."
   },
   {
     "key": "partner.cta",
@@ -2112,7 +2112,7 @@
     "sk": "Napíš nám o spolupráci",
     "ro": "Contactează-ne pentru parteneriate",
     "hu": "Lépj velünk kapcsolatba",
-    "da": "Kontakt os om partnerskaber"
+    "da": "Kontakt os om et samarbejde"
   },
   {
     "key": "faq.eyebrow",
@@ -2127,7 +2127,7 @@
     "sk": "Časté otázky",
     "ro": "FAQ",
     "hu": "GYIK",
-    "da": "FAQ"
+    "da": "Ofte stillede spørgsmål"
   },
   {
     "key": "faq.headline",
@@ -2202,7 +2202,7 @@
     "sk": "SigiVision™ dosahuje vo všetkých podporovaných katalógoch 98-percentnú presnosť rozpoznávania a väčšinu známok rozpozná za menej než sekundu.",
     "ro": "SigiVision™ oferă o precizie de recunoaștere de 98% pentru cataloagele disponibile, iar cele mai multe identificări durează mai puțin de o secundă.",
     "hu": "A SigiVision™ a támogatott katalógusokban 98%-os pontossággal ismeri fel a bélyegeket, és az esetek többségében egy másodpercen belül megvan az eredmény.",
-    "da": "SigiVision™ genkender frimærker i de understøttede kataloger med 98% nøjagtighed, og de fleste identifikationer er færdige på under et sekund."
+    "da": "SigiVision™ genkender frimærker i de understøttede kataloger med 98 % nøjagtighed, og de fleste frimærker er genkendt på under et sekund."
   },
   {
     "key": "faq.q.free_version",
@@ -2232,7 +2232,7 @@
     "sk": "Áno. V bezplatnej verzii si vyskúšaš základné funkcie – 5 jednotlivých skenovaní a 2 hromadné skenovania mesačne. Uvidíš katalógové údaje k známkam, ktoré naskenuješ, nie však celý katalóg. Predplatné Premium obsahuje kompletný katalóg jednej krajiny (s neobmedzeným počtom jednotlivých skenovaní v ňom) a Professional katalógy všetkých krajín.",
     "ro": "Da. Cu varianta gratuită poți încerca funcțiile de bază — 5 scanări individuale și 2 scanări multiple pe lună. Vezi datele din catalog pentru timbrele pe care le scanezi, dar nu și catalogul întreg. Premium include catalogul complet al unei țări (cu scanări individuale nelimitate pentru țara respectivă), iar Professional include cataloagele tuturor țărilor.",
     "hu": "Igen. Az ingyenes csomaggal kipróbálhatod az alapokat – havonta 5 egyenkénti és 2 tömeges szkenneléssel. A beszkennelt bélyegek katalógusadatait látod, a teljes katalógust viszont nem. A Premium egy teljes országkatalógust tartalmaz (azon belül korlátlan egyenkénti szkenneléssel), a Professional pedig az összes országkatalógust.",
-    "da": "Ja. Med den gratis version kan du prøve det grundlæggende – 5 enkeltscanninger og 2 massescanninger om måneden. Du ser katalogoplysninger om de frimærker, du scanner, men ikke hele kataloget. Premium indeholder ét fuldt landekatalog (med ubegrænsede enkeltscanninger i det), og Professional indeholder alle landekataloger."
+    "da": "Ja. Med gratisversionen kan du prøve det grundlæggende – 5 enkeltscanninger og 2 massescanninger om måneden. Du ser katalogoplysninger om de frimærker, du scanner, men ikke hele kataloget. Premium giver adgang til ét fuldt landekatalog (med ubegrænset enkeltscanning i det katalog), og Professional giver adgang til alle landekataloger."
   },
   {
     "key": "faq.q.bulk_scan",
@@ -2262,7 +2262,7 @@
     "sk": "Áno – hromadné skenovanie rozpozná viacero známok naraz. V bezplatnej verzii máš 2 hromadné skenovania mesačne, s predplatným Premium 5 a Professional ich ponúka bez obmedzenia.",
     "ro": "Da — scanarea multiplă recunoaște mai multe timbre deodată. Varianta gratuită include 2 scanări multiple pe lună, Premium 5, iar Professional un număr nelimitat.",
     "hu": "Igen – a tömeges szkennelés egyszerre több bélyeget ismer fel. Az ingyenes csomagban havi 2 tömeges szkennelés jár, a Premiumban 5, a Professionalban pedig korlátlan.",
-    "da": "Ja – massescanning genkender flere frimærker på én gang. Gratis konti får 2 massescanninger om måneden, Premium får 5, og Professional giver ubegrænset massescanning."
+    "da": "Ja – massescanning genkender flere frimærker på én gang. Med Gratis får du 2 massescanninger om måneden, med Premium 5, og med Professional er massescanning ubegrænset."
   },
   {
     "key": "faq.q.switch_plans",
@@ -2277,7 +2277,7 @@
     "sk": "Môžem predplatné kedykoľvek zmeniť?",
     "ro": "Pot schimba abonamentul oricând?",
     "hu": "Válthatok bármikor csomagot?",
-    "da": "Kan jeg skifte plan når som helst?"
+    "da": "Kan jeg skifte abonnement når som helst?"
   },
   {
     "key": "faq.a.switch_plans",
@@ -2292,7 +2292,7 @@
     "sk": "Áno. Predplatné môžeš kedykoľvek zmeniť na vyššie či nižšie alebo ho zrušiť – tvoja zbierka, skeny a poznámky zostanú vždy uložené.",
     "ro": "Da. Poți trece la un abonament superior sau inferior ori poți renunța oricând — colecția, scanările și notițele tale rămân mereu salvate.",
     "hu": "Igen. Bármikor válthatsz magasabb vagy alacsonyabb csomagra, és le is mondhatod az előfizetésed – a gyűjteményed, a szkenneléseid és a jegyzeteid ettől függetlenül megmaradnak.",
-    "da": "Ja. Du kan opgradere, nedgradere eller opsige når som helst – din samling, dine scanninger og dine noter forbliver altid gemt."
+    "da": "Ja. Du kan opgradere, nedgradere eller opsige dit abonnement når som helst – din samling, dine scanninger og dine noter er altid gemt."
   },
   {
     "key": "faq.q.devices",
@@ -2307,7 +2307,7 @@
     "sk": "Aké zariadenia StampIQ podporuje?",
     "ro": "Pe ce dispozitive funcționează StampIQ?",
     "hu": "Milyen eszközökön használható a StampIQ?",
-    "da": "Hvilke enheder understøtter StampIQ?"
+    "da": "Hvilke enheder kan jeg bruge StampIQ på?"
   },
   {
     "key": "faq.a.devices",
@@ -2322,7 +2322,7 @@
     "sk": "StampIQ beží na iOS a Androide, na telefónoch aj tabletoch a v každom modernom prehliadači na <a href=\"https://app.stampiq.io\" style=\"color:#4FA902;font-weight:600\">app.stampiq.io</a>. Tvoja zbierka sa synchronizuje medzi všetkými zariadeniami.",
     "ro": "StampIQ funcționează pe iOS și Android, pe telefoane și tablete, și în orice browser modern, pe <a href=\"https://app.stampiq.io\" style=\"color:#4FA902;font-weight:600\">app.stampiq.io</a>. Colecția ta se sincronizează pe toate dispozitivele.",
     "hu": "A StampIQ iOS-en és Androidon, telefonon és táblagépen is működik, sőt bármely korszerű böngészőben is használható az <a href=\"https://app.stampiq.io\" style=\"color:#4FA902;font-weight:600\">app.stampiq.io</a> címen. A gyűjteményed minden eszközödön szinkronban marad.",
-    "da": "StampIQ kører på iOS og Android, på telefoner og tablets, og i enhver moderne browser på <a href=\"https://app.stampiq.io\" style=\"color:#4FA902;font-weight:600\">app.stampiq.io</a>. Din samling holdes synkroniseret på tværs af dem alle."
+    "da": "StampIQ kører på iOS og Android, på telefoner og tablets, og i enhver moderne browser på <a href=\"https://app.stampiq.io\" style=\"color:#4FA902;font-weight:600\">app.stampiq.io</a>. Din samling er synkroniseret på alle dine enheder."
   },
   {
     "key": "faq.q.internet",
@@ -2337,7 +2337,7 @@
     "sk": "Potrebujem na StampIQ internet?",
     "ro": "Am nevoie de internet ca să folosesc StampIQ?",
     "hu": "Kell internet a StampIQ használatához?",
-    "da": "Har jeg brug for internet for at bruge StampIQ?"
+    "da": "Kræver StampIQ internetforbindelse?"
   },
   {
     "key": "faq.a.internet",
@@ -2367,7 +2367,7 @@
     "sk": "Aké jazyky aplikácia podporuje?",
     "ro": "În ce limbi este disponibilă aplicația?",
     "hu": "Milyen nyelveken érhető el az alkalmazás?",
-    "da": "Hvilke sprog understøtter appen?"
+    "da": "Hvilke sprog findes appen på?"
   },
   {
     "key": "faq.a.languages",
@@ -2472,7 +2472,7 @@
     "sk": "Používatelia predplatného Professional môžu zbierku exportovať do CSV alebo PDF. Ďalšie formáty pripravujeme podľa želaní zberateľov.",
     "ro": "Cu abonamentul Professional îți poți exporta colecția în format CSV sau PDF. Pregătim și alte formate, în funcție de ce ne cer colecționarii.",
     "hu": "A Professional csomag előfizetői CSV- vagy PDF-formátumban exportálhatják a gyűjteményüket. A gyűjtők kérésére további formátumokon is dolgozunk.",
-    "da": "Professional-brugere kan eksportere samlinger som CSV eller PDF. Vi arbejder på flere formater ud fra samlernes ønsker."
+    "da": "Med Professional kan du eksportere din samling som CSV eller PDF. Flere formater er på vej, alt efter hvad samlerne ønsker sig."
   },
   {
     "key": "faq.q.updates",
@@ -2502,7 +2502,7 @@
     "sk": "Nové funkcie pridávame pravidelne a vychádzame pritom z pripomienok zberateľov. Napíš nám, čo by StampIQ zlepšilo – na tvoje podnety pri plánovaní vývoja naozaj prihliadame.",
     "ro": "Adăugăm funcționalități în mod regulat, pornind de la sugestiile colecționarilor. Spune-ne cum am putea îmbunătăți StampIQ — ținem cont de părerea ta când stabilim ce urmează.",
     "hu": "Rendszeresen bővítjük az alkalmazást a gyűjtők visszajelzései alapján. Írd meg, mitől lenne jobb a StampIQ – a véleményed közvetlenül beépül a terveinkbe.",
-    "da": "Vi tilføjer funktioner løbende ud fra det, rigtige samlere fortæller os. Fortæl os, hvad der ville gøre StampIQ bedre – dine ønsker former direkte vores køreplan."
+    "da": "Vi tilføjer løbende nye funktioner ud fra det, samlerne fortæller os. Fortæl os, hvad der ville gøre StampIQ bedre – dine ønsker har direkte indflydelse på, hvad vi laver som det næste."
   },
   {
     "key": "faq.q.support",
@@ -2562,7 +2562,7 @@
     "sk": "Zadarmo na stiahnutie. Bez platobnej karty. Tvoja zbierka na všetkých zariadeniach.",
     "ro": "Descărcare gratuită, fără card bancar. Colecția ta, pe orice dispozitiv.",
     "hu": "Ingyenesen letölthető, bankkártya megadása nélkül. A gyűjteményed minden eszközödön elérhető.",
-    "da": "Gratis download. Uden betalingskort. Din samling på alle dine enheder."
+    "da": "Gratis at downloade. Intet betalingskort. Din samling på alle dine enheder."
   },
   {
     "key": "footer.tagline",
@@ -2577,7 +2577,7 @@
     "sk": "Tvoj digitálny asistent pri zbieraní známok. Vyvinutý vo Švajčiarsku pre zberateľov z celého sveta.",
     "ro": "Asistentul tău digital pentru colecția de timbre. Creat în Elveția pentru colecționarii de pretutindeni.",
     "hu": "Digitális asszisztensed a bélyeggyűjtéshez. Svájci fejlesztés, gyűjtőknek a világ minden táján.",
-    "da": "Din digitale følgesvend til frimærkesamling. Udviklet i Schweiz – til samlere overalt."
+    "da": "Din digitale assistent til frimærkesamlingen. Udviklet i Schweiz – til samlere i hele verden."
   },
   {
     "key": "footer.col.product",
@@ -2757,7 +2757,7 @@
     "sk": "Ochrana osobných údajov",
     "ro": "Confidențialitate",
     "hu": "Adatvédelem",
-    "da": "Privatliv"
+    "da": "Privatlivspolitik"
   },
   {
     "key": "footer.legal.terms",
@@ -2802,7 +2802,7 @@
     "sk": "Dostupné v krajinách CH · DE · AT · LI · NL · PL",
     "ro": "Disponibil în CH · DE · AT · LI · NL · PL",
     "hu": "Jelenleg elérhető: CH · DE · AT · LI · NL · PL",
-    "da": "Understøtter CH · DE · AT · LI · NL · PL"
+    "da": "Tilgængelig i CH · DE · AT · LI · NL · PL"
   },
   {
     "key": "promo.title",
@@ -2832,7 +2832,7 @@
     "sk": "Otvárame StampIQ, aby sme ti pripísali bezplatné skeny. Ešte nemáš aplikáciu? Nainštaluj si ju a naskenuj kód znova.",
     "ro": "StampIQ se deschide ca să îți adauge scanările gratuite. Nu ai încă aplicația? Instaleaz-o, apoi scanează din nou codul.",
     "hu": "Megnyílik a StampIQ, és jóváírja az ingyenes szkenneléseidet. Még nincs meg az alkalmazás? Telepítsd, majd olvasd be újra a kódot.",
-    "da": "StampIQ åbner nu og lægger dine gratis scanninger til. Har du ikke appen endnu? Installer den, og scan koden igen."
+    "da": "StampIQ åbner nu og tilføjer dine gratis scanninger. Har du ikke appen endnu? Installer den, og scan koden igen."
   },
   {
     "key": "promo.appstore",
@@ -2877,7 +2877,7 @@
     "sk": "Prejsť na webovú stránku",
     "ro": "Mergi la site",
     "hu": "Tovább a weboldalra",
-    "da": "Fortsæt til websitet"
+    "da": "Fortsæt til hjemmesiden"
   },
   {
     "key": "promoSub.title",
@@ -2907,7 +2907,7 @@
     "sk": "Otvárame StampIQ, aby sme uplatnili tvoj kód. Ešte nemáš aplikáciu? Nainštaluj si ju a kód zadaj pri registrácii.",
     "ro": "StampIQ se deschide ca să îți aplice codul. Nu ai încă aplicația? Instaleaz-o, apoi introdu codul la înregistrare.",
     "hu": "Megnyílik a StampIQ, és érvényesíti a kódodat. Még nincs meg az alkalmazás? Telepítsd, majd regisztrációkor add meg a kódot.",
-    "da": "StampIQ åbner nu og tager din kode i brug. Har du ikke appen endnu? Installer den, og indtast din kode, når du tilmelder dig."
+    "da": "StampIQ åbner nu og aktiverer din kode. Har du ikke appen endnu? Installer den, og indtast din kode, når du opretter din konto."
   },
   {
     "key": "promoSub.codeLabel",
@@ -2982,7 +2982,7 @@
     "sk": "„StampIQ – digitálny asistent zberateľa“",
     "ro": "„StampIQ — asistentul digital al colecționarului.”",
     "hu": "„StampIQ – a gyűjtő digitális asszisztense.”",
-    "da": "»StampIQ – samlerens digitale følgesvend.«"
+    "da": "»StampIQ – samlerens digitale assistent«"
   },
   {
     "key": "press.issue.filatelista_2026_08.body",
@@ -2997,7 +2997,7 @@
     "sk": "Filatelista, časopis Poľského zväzu filatelistov, venoval aplikácii StampIQ v augustovom vydaní 2026 štyri strany. Sprievodca po rozpoznávaní, hromadnom skenovaní, katalógu a interaktívnej mape – napísaný po poľsky pre zberateľov, ktorí zvažujú, či telefón naozaj dokáže nahradiť papierovú evidenciu.",
     "ro": "Filatelista, revista Asociației Filatelice Poloneze, a dedicat patru pagini aplicației StampIQ în numărul din august 2026. Articolul, în limba polonă, prezintă recunoașterea, scanarea multiplă, catalogul și harta interactivă și se adresează colecționarilor care se întreabă dacă un telefon poate înlocui cu adevărat evidența ținută pe hârtie.",
     "hu": "A Filatelista, a Lengyel Filatéliai Szövetség folyóirata négy oldalt szentelt a StampIQ-nak a 2026. augusztusi számában. Lengyel nyelvű bemutató a felismerésről, a tömeges szkennelésről, a katalógusról és az interaktív térképről – azoknak a gyűjtőknek, akik azt mérlegelik, hogy egy telefon valóban helyettesítheti-e a papíralapú nyilvántartást.",
-    "da": "Filatelista, det polske filatelistforbunds magasin, viede fire sider til StampIQ i augustnummeret 2026. En polsksproget gennemgang af genkendelse, massescanning, kataloget og det interaktive kort – skrevet til samlere, der overvejer, om en telefon virkelig kan erstatte en fortegnelse på papir."
+    "da": "Filatelista, det polske filatelistforbunds blad, bragte fire sider om StampIQ i augustnummeret 2026. En gennemgang på polsk af genkendelse, massescanning, kataloget og det interaktive kort – skrevet til samlere, der overvejer, om en telefon virkelig kan afløse fortegnelsen på papir."
   },
   {
     "key": "events.eyebrow",
@@ -3027,7 +3027,7 @@
     "sk": "Navštív náš stánok",
     "ro": "Vino să ne cunoști",
     "hu": "Találkozzunk a vásárokon",
-    "da": "Mød os personligt"
+    "da": "Mød os på messerne"
   },
   {
     "key": "events.body",
@@ -3132,7 +3132,7 @@
     "sk": "Stránka burzy",
     "ro": "Site-ul târgului",
     "hu": "A vásár weboldala",
-    "da": "Messens website"
+    "da": "Messens hjemmeside"
   },
   {
     "key": "ibb.bar.text",
@@ -3177,7 +3177,7 @@
     "sk": "Podrobnosti",
     "ro": "Detalii",
     "hu": "Részletek",
-    "da": "Detaljer"
+    "da": "Læs mere"
   },
   {
     "key": "ibb.bar.dismiss",
@@ -3372,7 +3372,7 @@
     "sk": "Stránka podujatia",
     "ro": "Site-ul evenimentului",
     "hu": "A rendezvény weboldala",
-    "da": "Arrangementets website"
+    "da": "Arrangementets hjemmeside"
   },
   {
     "key": "final_cta.web",
@@ -3432,7 +3432,7 @@
     "sk": "StampIQ beží aj v prehliadači. Prihlás sa tým istým účtom a prejdi si katalóg jednej krajiny.",
     "ro": "StampIQ funcționează și în browser. Conectează-te cu același cont și răsfoiește catalogul unei țări.",
     "hu": "A StampIQ böngészőben is működik. Jelentkezz be ugyanazzal a fiókkal, és haladj végig egy ország teljes katalógusán.",
-    "da": "StampIQ kører også i browseren. Log ind med den samme konto, og arbejd dig gennem et landekatalog."
+    "da": "StampIQ kører også i browseren. Log ind med samme konto, og gå et helt landekatalog igennem."
   },
   {
     "key": "webapp.point.sync",
@@ -3522,7 +3522,7 @@
     "sk": "prehliadači",
     "ro": "Browser",
     "hu": "Böngésződben",
-    "da": "Browser"
+    "da": "browser"
   },
   {
     "key": "features.upcoming_label",
@@ -3537,7 +3537,7 @@
     "sk": "V príprave",
     "ro": "În curând",
     "hu": "Előkészületben",
-    "da": "Undervejs"
+    "da": "På vej"
   },
   {
     "key": "blog.meta_title",
@@ -3612,7 +3612,7 @@
     "sk": "Všetko, čo v katalógovom zázname chýba. Známka je predsa viac než číslo a cena.",
     "ro": "Ce nu scrie în catalog – pentru că un timbru înseamnă mai mult decât un număr și un preț.",
     "hu": "Amit a katalógus nem árul el – mert egy bélyeg több, mint egy szám és egy ár.",
-    "da": "Det, katalogopslaget udelader, for et frimærke er mere end et nummer og en pris."
+    "da": "Det, kataloget ikke fortæller – for et frimærke er mere end et nummer og en pris."
   },
   {
     "key": "blog.categories_label",
@@ -3672,7 +3672,7 @@
     "sk": "Pre tento región zatiaľ nie sú žiadne príspevky.",
     "ro": "Deocamdată nu există articole pentru această regiune.",
     "hu": "Ehhez a régióhoz még nincs bejegyzés.",
-    "da": "Der er endnu ingen indlæg for denne region."
+    "da": "Der er ingen indlæg fra denne region endnu."
   },
   {
     "key": "blog.rss",
@@ -3702,7 +3702,7 @@
     "sk": "Viac z kategórie {category}",
     "ro": "Alte articole din {category}",
     "hu": "Továbbiak: {category}",
-    "da": "Mere fra {category}"
+    "da": "Flere indlæg i {category}"
   },
   {
     "key": "blog.draft",
@@ -3897,7 +3897,7 @@
     "sk": "Otvárame tento albumový list",
     "ro": "Se deschide fila de album",
     "hu": "Az albumlap megnyitása",
-    "da": "Vi åbner denne albumside"
+    "da": "Åbner albumsiden …"
   },
   {
     "key": "pageLabel.subtitle",
@@ -3912,7 +3912,7 @@
     "sk": "Tento kód je vytlačený na štítku albumového listu zo StampIQ. Zberateľovi, ktorému list patrí, otvorí sken, z ktorého štítok vznikol. Zaujíma ťa, čo StampIQ dokáže? Nainštaluj si aplikáciu alebo čítaj ďalej.",
     "ro": "Acest cod este tipărit pe o etichetă StampIQ pentru file de album. Colecționarul căruia îi aparține fila ajunge direct la scanarea din care a fost tipărită eticheta. Vrei să afli ce poate face StampIQ? Instalează aplicația sau citește mai departe.",
     "hu": "Ez a kód egy StampIQ albumlapcímkén található. Azt a szkennelést nyitja meg, amelyből a címke készült – annak a gyűjtőnek, akié a címke. Kíváncsi vagy, mit tud a StampIQ? Telepítsd az alkalmazást, vagy olvass tovább.",
-    "da": "Denne kode er trykt på en StampIQ-etiket til albumsider. Den åbner den scanning, etiketten blev trykt ud fra, for den samler, som ejer den. Nysgerrig efter, hvad StampIQ kan? Installer appen, eller læs videre."
+    "da": "Denne kode er trykt på en StampIQ-etiket til albumsider. Den fører samleren, der ejer etiketten, direkte til den scanning, etiketten blev trykt ud fra. Nysgerrig efter, hvad StampIQ kan? Installer appen, eller læs videre."
   },
   {
     "key": "waitlist.page_title",
@@ -3927,7 +3927,7 @@
     "sk": "Daj mi vedieť, keď bude StampIQ dostupný – StampIQ",
     "ro": "Anunță-mă când StampIQ devine disponibil · StampIQ",
     "hu": "Szólj, amikor a StampIQ elérhető lesz – StampIQ",
-    "da": "Sig til, når StampIQ kommer - StampIQ"
+    "da": "Sig til, når StampIQ er tilgængelig – StampIQ"
   },
   {
     "key": "waitlist.meta_description",
@@ -3942,7 +3942,7 @@
     "sk": "Nechaj nám svoju adresu a napíšeme ti, keď StampIQ spustíme v tvojej krajine.",
     "ro": "Lasă-ți adresa și îți scriem când StampIQ devine disponibil în țara ta.",
     "hu": "Add meg az e-mail-címedet, és szólunk, amikor a StampIQ elindul az országodban.",
-    "da": "Læg din adresse, så skriver vi, når StampIQ åbner i dit land."
+    "da": "Skriv din e-mailadresse, så giver vi besked, når StampIQ bliver tilgængelig i dit land."
   },
   {
     "key": "waitlist.title",
@@ -3957,7 +3957,7 @@
     "sk": "Daj mi vedieť, keď bude StampIQ dostupný",
     "ro": "Anunță-mă când StampIQ devine disponibil",
     "hu": "Szólj, amikor a StampIQ elérhető lesz",
-    "da": "Sig til, når StampIQ kommer"
+    "da": "Sig til, når StampIQ er tilgængelig"
   },
   {
     "key": "waitlist.intro",
@@ -3972,7 +3972,7 @@
     "sk": "Napíšeme ti len raz – keď StampIQ spustíme v krajine, ktorú si vyberieš. Nič viac.",
     "ro": "Îți scriem o singură dată, când StampIQ devine disponibil într-una dintre țările alese. Atât.",
     "hu": "Egyetlen e-mailt küldünk, amikor a StampIQ elindul valamelyik általad választott országban. Mást nem.",
-    "da": "Vi skriver én gang, når StampIQ åbner i et land, du vælger. Ikke andet."
+    "da": "Vi skriver én gang, når StampIQ bliver tilgængelig i et af de lande, du vælger. Intet andet."
   },
   {
     "key": "waitlist.email_label",
@@ -4002,7 +4002,7 @@
     "sk": "V ktorých krajinách chceš StampIQ používať?",
     "ro": "În ce țări vrei să fie disponibil StampIQ?",
     "hu": "Melyik országokban szeretnéd használni a StampIQ-t?",
-    "da": "Hvilke lande vil du have StampIQ i?"
+    "da": "I hvilke lande vil du bruge StampIQ?"
   },
   {
     "key": "waitlist.countries_hint",
@@ -4092,7 +4092,7 @@
     "sk": "Pozri si schránku. Klikni na odkaz v e-maile a tvoja adresa bude na zozname.",
     "ro": "Verifică-ți căsuța de e-mail și deschide linkul din mesaj pentru a confirma înscrierea pe listă.",
     "hu": "Nézd meg a postafiókodat. Kattints az e-mailben kapott linkre, és felkerülsz a listára.",
-    "da": "Se i din indbakke. Åbn linket i mailen, så er du på listen."
+    "da": "Tjek din indbakke. Klik på linket i mailen, så er du på listen."
   },
   {
     "key": "waitlist.error",
@@ -4107,7 +4107,7 @@
     "sk": "Nepodarilo sa to. Skús to znova.",
     "ro": "A apărut o eroare. Încearcă din nou.",
     "hu": "Valami hiba történt. Próbáld újra.",
-    "da": "Det virkede ikke. Prøv igen."
+    "da": "Noget gik galt. Prøv igen."
   },
   {
     "key": "waitlist.error_countries",
@@ -4137,7 +4137,7 @@
     "sk": "Tvoju adresu použijeme len na tento účel. Nepotvrdené adresy po 30 dňoch mažeme.",
     "ro": "Folosim adresa ta doar în acest scop. Adresele neconfirmate se șterg după 30 de zile.",
     "hu": "Az e-mail-címedet csak erre a célra tároljuk. A meg nem erősített címeket 30 nap után töröljük.",
-    "da": "Vi gemmer kun din adresse til det her. Adresser, der ikke bekræftes, slettes efter 30 dage."
+    "da": "Vi bruger kun din e-mailadresse til dette. Ubekræftede adresser slettes efter 30 dage."
   },
   {
     "key": "footer.product.waitlist",
@@ -4152,7 +4152,7 @@
     "sk": "Daj mi vedieť, keď bude dostupný",
     "ro": "Anunță-mă când devine disponibil",
     "hu": "Szólj, amikor elérhető lesz",
-    "da": "Sig til, når det kommer"
+    "da": "Venteliste"
   },
   {
     "key": "waitlist.eyebrow",
