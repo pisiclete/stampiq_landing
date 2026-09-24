@@ -42,13 +42,16 @@ const hreflangs = alternates ? SUPPORTED.filter((l) => alternates[l]) : SUPPORTE
       <link rel="alternate" hreflang={l} href={hrefForLang(l)} />
     ))}
     <link rel="alternate" hreflang="x-default" href={hrefForLang('en')} />
-    <script define:vars={{ PAGE_LANGS, PREFIXED_LANGS, PREFIX_GROUP }}>
+    <script define:vars={{ PAGE_LANGS, PREFIXED_LANGS, PREFIX_GROUP, BASE: import.meta.env.BASE_URL }}>
       // Backward compat: pre-Astro URLs used ?lang=X to switch language.
       // The new site uses per-language URL prefixes instead. If ?lang=
       // is present, redirect to the equivalent URL in that language so
       // shared old links keep landing the visitor on the right content.
+      // A cockpit preview is built under another base path and shares the cockpit's origin and
+      // storage; a redirect from there lands on a cockpit address.
       (function () {
         try {
+          if (BASE !== '/') return;
           var u = new URL(location.href);
           var q = u.searchParams.get('lang');
           var supported = PAGE_LANGS;
@@ -74,6 +77,7 @@ const hreflangs = alternates ? SUPPORTED.filter((l) => alternates[l]) : SUPPORTE
       // Explicit /<lang>/... URLs are never touched — they always win.
       (function () {
         try {
+          if (BASE !== '/') return;
           if (new RegExp('^/(' + PREFIX_GROUP + ')(/|$)').test(location.pathname)) return;
           var supported = PREFIXED_LANGS;
           var saved = localStorage.getItem('language');
