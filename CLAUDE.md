@@ -4,7 +4,7 @@
 # stampiq_landing
 
 ## Summary
-StampIQ Landing is the static marketing and legal site for stampiq.io, built with Astro and React and deployed to GitHub Pages. It serves six language versions (English, German, French, Italian, Dutch, Polish) with pre-rendered per-language routes, along with privacy, terms, and account deletion pages. The site includes a blog system managed by an external cockpit that commits posts in a defined JSON format, with support for multiple block types, rich media embeds, and per-language slug handling.
+StampIQ Landing is the static marketing site and legal pages for stampiq.io, built with Astro and React and deployed to GitHub Pages. It serves six language versions across marketing pages, privacy/terms/account deletion, and a blog system where content is written externally by the cockpit and committed as JSON. The site uses per-language URLs with hreflang tags for SEO, client-side country detection for pricing currency, and a legacy query-string redirect to handle app store listing URLs that were registered before the migration to slash-based language routing.
 
 ## Current status
 The 2026-09-22 push added an eleven-language rollout, waitlist form with Turnstile (site key now set), ops cockpit privacy/terms pages, store badges, and blog categories in five required languages. One open issue remains: final pricing and producibility confirmation from DDM for the DBZ 22 insert.
