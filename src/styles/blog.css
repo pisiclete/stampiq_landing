@@ -46,7 +46,7 @@
   text-decoration: none; cursor: pointer;
 }
 .chip .flag { font-size: 16px; line-height: 1; }
-.flags { display: inline-flex; gap: 8px; align-items: center; }
+.flags { display: inline-flex; flex-wrap: wrap; gap: 8px; align-items: center; }
 .flags .flag { font-size: 16px; line-height: 1; }
 .chip[aria-pressed="true"], .chip[aria-current="page"] { background: #F0FCE4; border-color: #66E204; color: #4FA902; font-weight: 700; }
 
@@ -77,6 +77,8 @@
 .cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
 .card { background: #fff; border-radius: 20px; overflow: hidden; border: 1px solid #E0E0E0; box-shadow: 0 10px 40px rgba(0,0,0,0.08); display: flex; flex-direction: column; text-decoration: none; color: inherit; }
 .card, .card * { text-decoration: none; }
+.card { min-width: 0; }
+.card__title { overflow-wrap: anywhere; }
 
 /* Each card spans the grid's four rows, so media, title, detail rows and text
    line up across a row, as the homepage event cards do (responsive.css:118-129). */
