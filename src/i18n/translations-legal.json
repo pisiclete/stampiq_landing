@@ -2385,13 +2385,13 @@
     "en": "<strong>EU/EEA:</strong> Your local data protection supervisory authority",
     "de": "<strong>EU/EWR:</strong> die Datenschutzaufsichtsbehörde Ihres Landes (in Deutschland die Datenschutzaufsichtsbehörde Ihres Bundeslandes, in Österreich die Datenschutzbehörde).",
     "nl": "<strong>EU/EER:</strong> de toezichthoudende autoriteit voor gegevensbescherming in uw land, in Nederland de Autoriteit Persoonsgegevens (AP).",
-    "pl": "<strong>UE/EOG:</strong> właściwy organ nadzorczy w państwie członkowskim Użytkownika, w Polsce Prezes Urzędu Ochrony Danych Osobowych (PUODO).",
+    "pl": "<strong>UE/EOG:</strong> właściwy organ nadzorczy w kraju Użytkownika, w Polsce Prezes Urzędu Ochrony Danych Osobowych (PUODO).",
     "fr": "<strong>UE/EEE :</strong> l'autorité de contrôle de la protection des données de votre pays (en France, la CNIL).",
     "it": "<strong>UE/SEE:</strong> l'autorità di controllo competente nel paese dell'Utente (in Italia, il Garante per la protezione dei dati personali).",
-    "cs": "<strong>EU/EHP:</strong> dozorový úřad pro ochranu osobních údajů ve vašem členském státě (v České republice Úřad pro ochranu osobních údajů, ÚOOÚ).",
-    "sk": "<strong>EÚ/EHP:</strong> dozorný orgán pre ochranu osobných údajov vo vašom členskom štáte (na Slovensku Úrad na ochranu osobných údajov Slovenskej republiky).",
+    "cs": "<strong>EU/EHP:</strong> dozorový úřad pro ochranu osobních údajů ve vaší zemi (v České republice Úřad pro ochranu osobních údajů, ÚOOÚ).",
+    "sk": "<strong>EÚ/EHP:</strong> dozorný orgán pre ochranu osobných údajov vo vašej krajine (na Slovensku Úrad na ochranu osobných údajov Slovenskej republiky).",
     "ro": "<strong>UE/SEE:</strong> autoritatea de supraveghere a prelucrării datelor cu caracter personal din țara dumneavoastră (în România, ANSPDCP).",
-    "hu": "<strong>EU/EGT:</strong> az Ön tagállamának adatvédelmi felügyeleti hatósága (Magyarországon a Nemzeti Adatvédelmi és Információszabadság Hatóság – NAIH).",
+    "hu": "<strong>EU/EGT:</strong> az Ön országának adatvédelmi felügyeleti hatósága (Magyarországon a Nemzeti Adatvédelmi és Információszabadság Hatóság – NAIH).",
     "da": "<strong>EU/EØS:</strong> tilsynsmyndigheden for databeskyttelse i dit land (i Danmark Datatilsynet)."
   },
   {
@@ -3855,14 +3855,14 @@
     "en": "If you have not yet accessed any paid features, you may exercise your right of withdrawal within 14 days by contacting <a href=\"mailto:support@stampiq.io\">support@stampiq.io</a>.",
     "de": "Wenn Sie noch keine kostenpflichtigen Funktionen genutzt haben, können Sie Ihr Widerrufsrecht innerhalb von 14 Tagen ausüben, indem Sie sich an <a href=\"mailto:support@stampiq.io\">support@stampiq.io</a> wenden.",
     "nl": "Als u nog geen enkele betaalde functie hebt geopend, kunt u uw herroepingsrecht binnen 14 dagen uitoefenen door contact op te nemen met <a href=\"mailto:support@stampiq.io\">support@stampiq.io</a>.",
-    "pl": "Jeżeli Użytkownik nie uzyskał jeszcze dostępu do żadnej płatnej funkcji, może odstąpić od umowy w terminie 14 dni, pisząc na adres <a href=\"mailto:support@stampiq.io\">support@stampiq.io</a>.",
+    "pl": "Jeżeli Użytkownik nie skorzystał jeszcze z żadnej płatnej funkcji, może odstąpić od umowy w terminie 14 dni, pisząc na adres <a href=\"mailto:support@stampiq.io\">support@stampiq.io</a>.",
     "fr": "Si vous n'avez encore utilisé aucune fonction payante, vous pouvez exercer votre droit de rétractation dans un délai de 14 jours en contactant <a href=\"mailto:support@stampiq.io\">support@stampiq.io</a>.",
     "it": "Se l'Utente non ha ancora utilizzato alcuna funzione a pagamento, può esercitare il diritto di recesso entro 14 giorni scrivendo a <a href=\"mailto:support@stampiq.io\">support@stampiq.io</a>.",
     "cs": "Pokud dosud nebyly využity žádné placené funkce, můžete od smlouvy odstoupit do 14 dnů; stačí nás kontaktovat na adrese <a href=\"mailto:support@stampiq.io\">support@stampiq.io</a>.",
     "sk": "Ak ste zatiaľ nevyužili žiadne platené funkcie, môžete si do 14 dní uplatniť právo na odstúpenie od zmluvy tak, že nás kontaktujete na adrese <a href=\"mailto:support@stampiq.io\">support@stampiq.io</a>.",
-    "ro": "Dacă nu ați accesat încă nicio funcție plătită, vă puteți exercita dreptul de retragere în termen de 14 zile, contactând <a href=\"mailto:support@stampiq.io\">support@stampiq.io</a>.",
+    "ro": "Dacă nu ați folosit încă nicio funcție plătită, vă puteți exercita dreptul de retragere în termen de 14 zile, contactând <a href=\"mailto:support@stampiq.io\">support@stampiq.io</a>.",
     "hu": "Ha még nem vett igénybe fizetős funkciókat, elállási jogát 14 napon belül a következő címre küldött üzenettel gyakorolhatja: <a href=\"mailto:support@stampiq.io\">support@stampiq.io</a>.",
-    "da": "Hvis du endnu ikke har fået adgang til betalte funktioner, kan du gøre brug af fortrydelsesretten inden for 14 dage ved at kontakte <a href=\"mailto:support@stampiq.io\">support@stampiq.io</a>."
+    "da": "Hvis du endnu ikke har brugt nogen betalte funktioner, kan du gøre brug af fortrydelsesretten inden for 14 dage ved at kontakte <a href=\"mailto:support@stampiq.io\">support@stampiq.io</a>."
   },
   {
     "key": "terms.s5_7_title",
