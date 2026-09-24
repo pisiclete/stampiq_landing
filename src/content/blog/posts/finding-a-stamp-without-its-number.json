@@ -1,0 +1,664 @@
+{
+  "category": "feature",
+  "markets": [
+    "CH",
+    "LI",
+    "DE",
+    "AT",
+    "NL",
+    "PL"
+  ],
+  "langs": [
+    "en",
+    "de",
+    "fr",
+    "it",
+    "nl",
+    "pl"
+  ],
+  "published_at": "2026-09-24T18:00:00+00:00",
+  "thumbnail": {
+    "src": "https://assets.stampiq.io/blog/1a8a26fcf5b09200/stampex-back.jpg",
+    "width": 2048,
+    "height": 1536
+  },
+  "languages": {
+    "en": {
+      "slug": "finding-a-stamp-without-its-number",
+      "title": "When you don't know what you are holding",
+      "description": "At a dealer's table you rarely know the number of the stamp in your hand. Take a photo, and StampIQ shows what it is and whether you already have it."
+    },
+    "de": {
+      "slug": "briefmarke-ohne-nummer-bestimmen",
+      "title": "Wenn du nicht weißt, was du in der Hand hältst",
+      "description": "Am Händlertisch kennst du die Nummer der Marke in deiner Hand selten. Ein Foto genügt, und StampIQ zeigt dir, was es ist und ob du sie schon hast."
+    },
+    "fr": {
+      "slug": "identifier-un-timbre-sans-son-numero",
+      "title": "Quand tu ne sais pas ce que tu tiens en main",
+      "description": "Au stand d'un marchand, tu connais rarement le numéro du timbre que tu tiens. Une photo, et StampIQ te dit ce que c'est et si tu l'as déjà."
+    },
+    "it": {
+      "slug": "trovare-un-francobollo-senza-numero",
+      "title": "Quando non sai cosa hai in mano",
+      "description": "Al banco di un commerciante raramente conosci il numero del francobollo che hai in mano. Scattagli una foto: StampIQ ti dice cos'è e se ce l'hai già."
+    },
+    "nl": {
+      "slug": "postzegel-vinden-zonder-nummer",
+      "title": "Als je niet weet wat je in handen hebt",
+      "description": "Bij een handelaar ken je zelden het nummer van de postzegel in je hand. Maak een foto en StampIQ laat zien wat het is en of je hem al hebt."
+    },
+    "pl": {
+      "slug": "znaczek-bez-numeru-katalogowego",
+      "title": "Gdy nie wiesz, co trzymasz w ręku",
+      "description": "Przy stoisku rzadko znasz numer znaczka, który trzymasz. Zrób zdjęcie, a StampIQ pokaże, co to za znaczek i czy już go masz w kolekcji."
+    },
+    "cs": {
+      "slug": "finding-a-stamp-without-its-number",
+      "title": "When you don't know what you are holding",
+      "description": "At a dealer's table you rarely know the number of the stamp in your hand. Take a photo, and StampIQ shows what it is and whether you already have it."
+    },
+    "sk": {
+      "slug": "finding-a-stamp-without-its-number",
+      "title": "When you don't know what you are holding",
+      "description": "At a dealer's table you rarely know the number of the stamp in your hand. Take a photo, and StampIQ shows what it is and whether you already have it."
+    },
+    "ro": {
+      "slug": "finding-a-stamp-without-its-number",
+      "title": "When you don't know what you are holding",
+      "description": "At a dealer's table you rarely know the number of the stamp in your hand. Take a photo, and StampIQ shows what it is and whether you already have it."
+    },
+    "hu": {
+      "slug": "finding-a-stamp-without-its-number",
+      "title": "When you don't know what you are holding",
+      "description": "At a dealer's table you rarely know the number of the stamp in your hand. Take a photo, and StampIQ shows what it is and whether you already have it."
+    },
+    "da": {
+      "slug": "finding-a-stamp-without-its-number",
+      "title": "When you don't know what you are holding",
+      "description": "At a dealer's table you rarely know the number of the stamp in your hand. Take a photo, and StampIQ shows what it is and whether you already have it."
+    }
+  },
+  "header": {
+    "lead": {
+      "en": "You find a stamp you like at a dealer's table, and you cannot tell whether it is already in your album at home.",
+      "de": "Bei einem Händler findest du eine Briefmarke, die dir gefällt, und du weißt nicht, ob sie zu Hause längst im Album steckt.",
+      "fr": "Chez un marchand, tu tombes sur un timbre qui te plaît, et tu es incapable de dire s'il est déjà dans ton album, à la maison.",
+      "it": "Trovi un francobollo che ti piace sul banco di un commerciante e non sai dire se è già nel tuo album a casa.",
+      "nl": "Je vindt bij een handelaar een postzegel die je aanspreekt, en je weet niet of je hem thuis al in je album hebt.",
+      "pl": "Na stoisku sprzedawcy trafiasz na znaczek, który Ci się podoba, i nie wiesz, czy takiego samego nie masz już w albumie w domu.",
+      "cs": "You find a stamp you like at a dealer's table, and you cannot tell whether it is already in your album at home.",
+      "sk": "You find a stamp you like at a dealer's table, and you cannot tell whether it is already in your album at home.",
+      "ro": "You find a stamp you like at a dealer's table, and you cannot tell whether it is already in your album at home.",
+      "hu": "You find a stamp you like at a dealer's table, and you cannot tell whether it is already in your album at home.",
+      "da": "You find a stamp you like at a dealer's table, and you cannot tell whether it is already in your album at home."
+    },
+    "visual": {
+      "type": "poster",
+      "image": {
+        "src": "https://assets.stampiq.io/blog/1a8a26fcf5b09200/stampex-back.jpg",
+        "width": 2048,
+        "height": 1536
+      }
+    }
+  },
+  "blocks": [
+    {
+      "id": "table",
+      "type": "text",
+      "label": {
+        "en": "Buying blind",
+        "de": "Kauf auf Verdacht",
+        "fr": "Acheter à l'aveugle",
+        "it": "Comprare alla cieca",
+        "nl": "Blind kopen",
+        "pl": "Zakup w ciemno",
+        "cs": "Buying blind",
+        "sk": "Buying blind",
+        "ro": "Buying blind",
+        "hu": "Buying blind",
+        "da": "Buying blind"
+      },
+      "title": {
+        "en": "At the dealer's table",
+        "de": "Am Händlertisch",
+        "fr": "Au stand du marchand",
+        "it": "Al banco del commerciante",
+        "nl": "Aan de tafel van de handelaar",
+        "pl": "Przy stoisku sprzedawcy",
+        "cs": "At the dealer's table",
+        "sk": "At the dealer's table",
+        "ro": "At the dealer's table",
+        "hu": "At the dealer's table",
+        "da": "At the dealer's table"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/1a8a26fcf5b09200/stampex-back.jpg",
+          "width": 2048,
+          "credit": "Philafrenzy, CC BY 2.0",
+          "height": 1536,
+          "caption": {
+            "en": "Dealers' stands at Stampex in London.",
+            "de": "Händlerstände auf der Stampex in London.",
+            "fr": "Les stands des marchands au Stampex, à Londres.",
+            "it": "Gli stand dei commercianti a Stampex, a Londra.",
+            "nl": "Stands van handelaren op Stampex in Londen.",
+            "pl": "Stoiska sprzedawców na Stampex w Londynie.",
+            "cs": "Dealers' stands at Stampex in London.",
+            "sk": "Dealers' stands at Stampex in London.",
+            "ro": "Dealers' stands at Stampex in London.",
+            "hu": "Dealers' stands at Stampex in London.",
+            "da": "Dealers' stands at Stampex in London."
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Spring_Stampex_2011_-_from_the_back.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "You are at a stamp fair, going through a dealer's box. The light in the hall is not very good, and other people are waiting to look into the same box. Then you find a stamp you like. It is well centred, the cancel is clean, and the price is fair.",
+          "de": "Du stehst auf einer Briefmarkenbörse und gehst die Kiste eines Händlers durch. Das Licht in der Halle ist nicht besonders gut, und hinter dir warten andere darauf, in dieselbe Kiste zu schauen. Dann hast du eine Marke in der Hand, die dir gefällt. Sie ist gut zentriert, der Stempel ist sauber, und der Preis stimmt.",
+          "fr": "Tu es dans un salon philatélique et tu fouilles la boîte d'un marchand. La lumière de la salle n'est pas fameuse, et d'autres personnes attendent pour regarder la même boîte. Et là, tu trouves un timbre qui te plaît. Il est bien centré, l'oblitération est nette, le prix est correct.",
+          "it": "Sei a una fiera filatelica e stai frugando nella scatola di un commerciante. La luce del padiglione non è granché e altra gente aspetta di guardare nella stessa scatola. Poi trovi un francobollo che ti piace: ben centrato, annullo pulito, prezzo onesto.",
+          "nl": "Je bent op een postzegelbeurs en gaat een bak van een handelaar door. Het licht in de hal is matig en er staan anderen te wachten om in dezelfde bak te kijken. Dan vind je een postzegel die je aanspreekt. Hij is mooi gecentreerd, de stempel is helder en de prijs is redelijk.",
+          "pl": "Jesteś na giełdzie filatelistycznej i przeglądasz pudełko u jednego ze sprzedawców. Światło w hali jest kiepskie, a obok czekają kolejne osoby, które chcą zajrzeć do tego samego pudełka. I wtedy trafiasz na znaczek, który Ci się podoba. Dobrze wycentrowany, czysty stempel pocztowy, cena w porządku.",
+          "cs": "You are at a stamp fair, going through a dealer's box. The light in the hall is not very good, and other people are waiting to look into the same box. Then you find a stamp you like. It is well centred, the cancel is clean, and the price is fair.",
+          "sk": "You are at a stamp fair, going through a dealer's box. The light in the hall is not very good, and other people are waiting to look into the same box. Then you find a stamp you like. It is well centred, the cancel is clean, and the price is fair.",
+          "ro": "You are at a stamp fair, going through a dealer's box. The light in the hall is not very good, and other people are waiting to look into the same box. Then you find a stamp you like. It is well centred, the cancel is clean, and the price is fair.",
+          "hu": "You are at a stamp fair, going through a dealer's box. The light in the hall is not very good, and other people are waiting to look into the same box. Then you find a stamp you like. It is well centred, the cancel is clean, and the price is fair.",
+          "da": "You are at a stamp fair, going through a dealer's box. The light in the hall is not very good, and other people are waiting to look into the same box. Then you find a stamp you like. It is well centred, the cancel is clean, and the price is fair."
+        },
+        {
+          "en": "You look at the stamp and you have an idea what it is. Probably Austria, probably from the years between the wars. The design could also be Bavaria, though, and like most stamps it has no year printed on it. Your album is at home. So you have two choices. You can buy the stamp and maybe find out at home that you already had it. Or you can put it back and not know whether it was the one missing from your collection.",
+          "de": "Du schaust sie an und hast eine Vermutung. Wahrscheinlich Österreich, wahrscheinlich Zwischenkriegszeit. Das Motiv könnte aber auch Bayern sein, und wie die meisten Marken trägt sie keine Jahreszahl. Dein Album liegt zu Hause. Also hast du zwei Möglichkeiten. Du kaufst die Marke und stellst zu Hause vielleicht fest, dass du sie schon hattest. Oder du legst sie zurück und weißt nicht, ob genau diese in deiner Sammlung gefehlt hat.",
+          "fr": "Tu regardes le timbre et tu as une idée de ce que c'est. Sans doute l'Autriche, sans doute l'entre-deux-guerres. Mais le dessin pourrait aussi être bavarois, et comme la plupart des timbres, celui-ci ne porte aucune année. Ton album est à la maison. Il te reste donc deux possibilités : acheter le timbre et découvrir en rentrant que tu l'avais déjà, ou le reposer sans savoir si c'était justement celui qui manque à ta collection.",
+          "it": "Lo guardi e un'idea te la fai. Austria, probabilmente, e probabilmente del periodo tra le due guerre. Ma il disegno potrebbe anche essere bavarese e, come quasi tutti i francobolli, non porta stampato l'anno. Il tuo album è a casa. Quindi hai due possibilità: comprarlo e magari scoprire a casa che ce l'avevi già, oppure rimetterlo giù senza sapere se era proprio quello che mancava alla tua collezione.",
+          "nl": "Je bekijkt de zegel en hebt wel een idee. Waarschijnlijk Oostenrijk, waarschijnlijk uit het interbellum. Het ontwerp zou ook Beieren kunnen zijn, en net als bij de meeste zegels staat er geen jaartal op. Je album ligt thuis. Je hebt dus twee mogelijkheden. Je koopt de zegel en komt thuis misschien tot de ontdekking dat je hem al had. Of je legt hem terug en weet nooit of dit nu net de ontbrekende zegel in je verzameling was.",
+          "pl": "Patrzysz na niego i masz jakieś przypuszczenie. Pewnie Austria, pewnie okres międzywojenny. Rysunek mógłby jednak pasować też do Bawarii, a roku, jak na większości znaczków, na nim nie ma. Album leży w domu. Zostają Ci więc dwie możliwości. Możesz znaczek kupić i w domu odkryć, że taki już masz. Albo odłożyć go do pudełka i nie dowiedzieć się, czy to właśnie jego brakowało w kolekcji.",
+          "cs": "You look at the stamp and you have an idea what it is. Probably Austria, probably from the years between the wars. The design could also be Bavaria, though, and like most stamps it has no year printed on it. Your album is at home. So you have two choices. You can buy the stamp and maybe find out at home that you already had it. Or you can put it back and not know whether it was the one missing from your collection.",
+          "sk": "You look at the stamp and you have an idea what it is. Probably Austria, probably from the years between the wars. The design could also be Bavaria, though, and like most stamps it has no year printed on it. Your album is at home. So you have two choices. You can buy the stamp and maybe find out at home that you already had it. Or you can put it back and not know whether it was the one missing from your collection.",
+          "ro": "You look at the stamp and you have an idea what it is. Probably Austria, probably from the years between the wars. The design could also be Bavaria, though, and like most stamps it has no year printed on it. Your album is at home. So you have two choices. You can buy the stamp and maybe find out at home that you already had it. Or you can put it back and not know whether it was the one missing from your collection.",
+          "hu": "You look at the stamp and you have an idea what it is. Probably Austria, probably from the years between the wars. The design could also be Bavaria, though, and like most stamps it has no year printed on it. Your album is at home. So you have two choices. You can buy the stamp and maybe find out at home that you already had it. Or you can put it back and not know whether it was the one missing from your collection.",
+          "da": "You look at the stamp and you have an idea what it is. Probably Austria, probably from the years between the wars. The design could also be Bavaria, though, and like most stamps it has no year printed on it. Your album is at home. So you have two choices. You can buy the stamp and maybe find out at home that you already had it. Or you can put it back and not know whether it was the one missing from your collection."
+        }
+      ]
+    },
+    {
+      "id": "numbering",
+      "type": "text",
+      "label": {
+        "en": "Why numbers exist",
+        "de": "Wozu Nummern da sind",
+        "fr": "À quoi servent les numéros",
+        "it": "A cosa servono i numeri",
+        "nl": "Waarom nummers bestaan",
+        "pl": "Po co są numery",
+        "cs": "Why numbers exist",
+        "sk": "Why numbers exist",
+        "ro": "Why numbers exist",
+        "hu": "Why numbers exist",
+        "da": "Why numbers exist"
+      },
+      "title": {
+        "en": "The catalogue number",
+        "de": "Die Katalognummer",
+        "fr": "Le numéro de catalogue",
+        "it": "Il numero di catalogo",
+        "nl": "Het catalogusnummer",
+        "pl": "Numer katalogowy",
+        "cs": "The catalogue number",
+        "sk": "The catalogue number",
+        "ro": "The catalogue number",
+        "hu": "The catalogue number",
+        "da": "The catalogue number"
+      },
+      "paragraphs": [
+        {
+          "en": "Catalogue numbers were made for exactly this problem, and they have worked well for more than a hundred years. A catalogue number points to one stamp, and everyone who uses the same catalogue means the same stamp by it. Two collectors who have never met can talk about a stamp without having it in front of them. A dealer can write a price list that a buyer in another country understands. And you can write down in your album what you have, in a way that someone else can check.",
+          "de": "Katalognummern sind für genau dieses Problem gemacht, und sie funktionieren seit über hundert Jahren gut. Eine Katalognummer bezeichnet eine bestimmte Briefmarke, und wer denselben Katalog benutzt, meint damit dieselbe Marke. Zwei Sammler, die sich nie begegnet sind, können über eine Marke sprechen, ohne sie vor sich zu haben. Ein Händler kann eine Preisliste schreiben, die ein Käufer im Ausland versteht. Und du kannst in deinem Album so festhalten, was du besitzt, dass es jemand anderes nachprüfen kann.",
+          "fr": "Les numéros de catalogue ont été créés exactement pour ce problème, et ils rendent service depuis plus de cent ans. Un numéro de catalogue désigne un timbre, et tous ceux qui utilisent le même catalogue parlent du même timbre. Deux collectionneurs qui ne se sont jamais rencontrés peuvent parler d'un timbre sans l'avoir sous les yeux. Un marchand peut écrire une liste de prix qu'un acheteur d'un autre pays comprendra. Et tu peux noter dans ton album ce que tu possèdes, d'une manière que quelqu'un d'autre peut vérifier.",
+          "it": "I numeri di catalogo sono nati esattamente per questo problema e funzionano bene da più di cent'anni. Un numero di catalogo indica un solo francobollo, e chi usa lo stesso catalogo intende quel francobollo. Due collezionisti che non si sono mai visti possono parlare di un pezzo senza averlo davanti. Un commerciante può scrivere un listino che un compratore di un altro paese capisce. E tu puoi annotare nel tuo album quello che hai, in un modo che anche un altro può verificare.",
+          "nl": "Catalogusnummers zijn precies voor dit probleem bedacht en ze werken al ruim honderd jaar goed. Een catalogusnummer verwijst naar één zegel, en iedereen die dezelfde catalogus gebruikt bedoelt daarmee dezelfde zegel. Twee verzamelaars die elkaar nooit hebben ontmoet kunnen over een zegel praten zonder hem voor zich te hebben. Een handelaar kan een prijslijst maken die een koper in een ander land begrijpt. En jij kunt in je album noteren wat je hebt, op een manier die een ander kan controleren.",
+          "pl": "Numery katalogowe powstały właśnie z powodu tego problemu i sprawdzają się od ponad stu lat. Numer wskazuje jeden konkretny znaczek, a każdy, kto korzysta z tego samego katalogu, rozumie pod nim to samo. Dwoje kolekcjonerów, którzy nigdy się nie spotkali, może rozmawiać o znaczku, nie mając go przed sobą. Sprzedawca może ułożyć cennik, który zrozumie kupujący w innym kraju. A Ty możesz zapisać w albumie, co masz, tak żeby ktoś inny mógł to sprawdzić.",
+          "cs": "Catalogue numbers were made for exactly this problem, and they have worked well for more than a hundred years. A catalogue number points to one stamp, and everyone who uses the same catalogue means the same stamp by it. Two collectors who have never met can talk about a stamp without having it in front of them. A dealer can write a price list that a buyer in another country understands. And you can write down in your album what you have, in a way that someone else can check.",
+          "sk": "Catalogue numbers were made for exactly this problem, and they have worked well for more than a hundred years. A catalogue number points to one stamp, and everyone who uses the same catalogue means the same stamp by it. Two collectors who have never met can talk about a stamp without having it in front of them. A dealer can write a price list that a buyer in another country understands. And you can write down in your album what you have, in a way that someone else can check.",
+          "ro": "Catalogue numbers were made for exactly this problem, and they have worked well for more than a hundred years. A catalogue number points to one stamp, and everyone who uses the same catalogue means the same stamp by it. Two collectors who have never met can talk about a stamp without having it in front of them. A dealer can write a price list that a buyer in another country understands. And you can write down in your album what you have, in a way that someone else can check.",
+          "hu": "Catalogue numbers were made for exactly this problem, and they have worked well for more than a hundred years. A catalogue number points to one stamp, and everyone who uses the same catalogue means the same stamp by it. Two collectors who have never met can talk about a stamp without having it in front of them. A dealer can write a price list that a buyer in another country understands. And you can write down in your album what you have, in a way that someone else can check.",
+          "da": "Catalogue numbers were made for exactly this problem, and they have worked well for more than a hundred years. A catalogue number points to one stamp, and everyone who uses the same catalogue means the same stamp by it. Two collectors who have never met can talk about a stamp without having it in front of them. A dealer can write a price list that a buyer in another country understands. And you can write down in your album what you have, in a way that someone else can check."
+        },
+        {
+          "en": "To use the number, you have to know it first. At the dealer's table, with a stamp you do not know, the number is exactly what you are missing. To get from the stamp to the number, you need the catalogue. To use the catalogue, you need the country and usually the year. If you know both, finding the stamp takes a minute or two. If you know neither, you turn pages and compare small pictures, and in the end you are guessing.",
+          "de": "Um mit der Nummer zu arbeiten, musst du sie erst einmal kennen. Am Händlertisch, mit einer unbekannten Marke in der Hand, fehlt dir genau sie. Von der Marke zur Nummer kommst du über den Katalog. Und um im Katalog etwas zu finden, brauchst du das Land und meist auch das Jahr. Weißt du beides, dauert die Suche ein, zwei Minuten. Weißt du keines von beiden, blätterst du und vergleichst kleine Abbildungen, und am Ende rätst du.",
+          "fr": "Encore faut-il connaître ce numéro. Au stand du marchand, avec un timbre que tu ne connais pas, c'est justement ce qui te manque. Pour passer du timbre au numéro, il faut le catalogue. Et pour utiliser le catalogue, il faut le pays et, le plus souvent, l'année. Si tu as les deux, tu trouves le timbre en une ou deux minutes. Si tu n'as ni l'un ni l'autre, tu tournes les pages, tu compares de petites images, et tu finis par deviner.",
+          "it": "Per usare il numero, però, prima devi conoscerlo. Al banco, con un francobollo che non conosci, è proprio il numero che ti manca. Per passare dal francobollo al numero ti serve il catalogo, e per usare il catalogo ti servono il paese e di solito l'anno. Se li sai entrambi, trovare il francobollo richiede un minuto o due. Se non sai né l'uno né l'altro, giri pagine e confronti immagini piccole, e alla fine tiri a indovinare.",
+          "nl": "Om dat nummer te gebruiken moet je het eerst kennen. Aan de tafel van de handelaar, met een onbekende zegel in je hand, is dat nummer precies wat je mist. Om van de zegel naar het nummer te komen heb je de catalogus nodig. En om de catalogus te gebruiken heb je het land nodig en meestal ook het jaar. Weet je die allebei, dan heb je de zegel in een minuut of twee gevonden. Weet je ze geen van beide, dan blader je en vergelijk je kleine afbeeldingen, en uiteindelijk zit je te gokken.",
+          "pl": "Żeby skorzystać z numeru, trzeba go najpierw znać. Przy stoisku, ze znaczkiem, którego nie rozpoznajesz, brakuje Ci właśnie numeru. Droga od znaczka do numeru prowadzi przez katalog. A żeby skorzystać z katalogu, potrzebujesz kraju i zwykle roku. Jeśli znasz jedno i drugie, znalezienie znaczka zajmuje minutę albo dwie. Jeśli nie znasz żadnego, przewracasz strony, porównujesz małe ilustracje i na końcu i tak zgadujesz.",
+          "cs": "To use the number, you have to know it first. At the dealer's table, with a stamp you do not know, the number is exactly what you are missing. To get from the stamp to the number, you need the catalogue. To use the catalogue, you need the country and usually the year. If you know both, finding the stamp takes a minute or two. If you know neither, you turn pages and compare small pictures, and in the end you are guessing.",
+          "sk": "To use the number, you have to know it first. At the dealer's table, with a stamp you do not know, the number is exactly what you are missing. To get from the stamp to the number, you need the catalogue. To use the catalogue, you need the country and usually the year. If you know both, finding the stamp takes a minute or two. If you know neither, you turn pages and compare small pictures, and in the end you are guessing.",
+          "ro": "To use the number, you have to know it first. At the dealer's table, with a stamp you do not know, the number is exactly what you are missing. To get from the stamp to the number, you need the catalogue. To use the catalogue, you need the country and usually the year. If you know both, finding the stamp takes a minute or two. If you know neither, you turn pages and compare small pictures, and in the end you are guessing.",
+          "hu": "To use the number, you have to know it first. At the dealer's table, with a stamp you do not know, the number is exactly what you are missing. To get from the stamp to the number, you need the catalogue. To use the catalogue, you need the country and usually the year. If you know both, finding the stamp takes a minute or two. If you know neither, you turn pages and compare small pictures, and in the end you are guessing.",
+          "da": "To use the number, you have to know it first. At the dealer's table, with a stamp you do not know, the number is exactly what you are missing. To get from the stamp to the number, you need the catalogue. To use the catalogue, you need the country and usually the year. If you know both, finding the stamp takes a minute or two. If you know neither, you turn pages and compare small pictures, and in the end you are guessing."
+        }
+      ]
+    },
+    {
+      "id": "shelf",
+      "type": "text",
+      "label": {
+        "en": "Back home",
+        "de": "Zu Hause",
+        "fr": "De retour chez toi",
+        "it": "Di nuovo a casa",
+        "nl": "Weer thuis",
+        "pl": "W domu",
+        "cs": "Back home",
+        "sk": "Back home",
+        "ro": "Back home",
+        "hu": "Back home",
+        "da": "Back home"
+      },
+      "title": {
+        "en": "The catalogue on the shelf",
+        "de": "Der Katalog im Regal",
+        "fr": "Le catalogue sur l'étagère",
+        "it": "Il catalogo sullo scaffale",
+        "nl": "De catalogus in de kast",
+        "pl": "Katalog na półce",
+        "cs": "The catalogue on the shelf",
+        "sk": "The catalogue on the shelf",
+        "ro": "The catalogue on the shelf",
+        "hu": "The catalogue on the shelf",
+        "da": "The catalogue on the shelf"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/6715b83f1c9ffb2e/michel-kataloge.jpg",
+          "width": 1200,
+          "credit": "Nurliab, CC BY-SA 3.0",
+          "height": 1600,
+          "caption": {
+            "en": "A shelf of catalogue volumes.",
+            "de": "Ein Regal mit Katalogbänden.",
+            "fr": "Une étagère de volumes de catalogues.",
+            "it": "Uno scaffale con i volumi di catalogo.",
+            "nl": "Een plank met catalogusdelen.",
+            "pl": "Półka z tomami katalogów.",
+            "cs": "A shelf of catalogue volumes.",
+            "sk": "A shelf of catalogue volumes.",
+            "ro": "A shelf of catalogue volumes.",
+            "hu": "A shelf of catalogue volumes.",
+            "da": "A shelf of catalogue volumes."
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Ein_Wurf_Michel-Kataloge.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "Say you bought the stamp. At home you take the catalogue from the shelf. You find the country, then the right years, and go through the issues until one design matches the stamp in your hand. Then you check the perforation and the watermark, because the design alone is often not enough to tell two issues apart. If everything fits, you have the number.",
+          "de": "Nehmen wir an, du hast die Marke gekauft. Zu Hause holst du den Katalog aus dem Regal. Du suchst das Land, dann die passenden Jahre, und gehst die Ausgaben durch, bis ein Motiv zu der Marke in deiner Hand passt. Danach prüfst du Zähnung und Wasserzeichen, denn das Motiv allein reicht oft nicht, um zwei Ausgaben auseinanderzuhalten. Wenn alles zusammenpasst, hast du die Nummer.",
+          "fr": "Admettons que tu aies acheté le timbre. À la maison, tu prends le catalogue sur l'étagère. Tu cherches le pays, puis les bonnes années, et tu parcours les émissions jusqu'à ce qu'un dessin corresponde au timbre que tu as en main. Ensuite tu contrôles la dentelure et le filigrane, parce que le dessin seul ne suffit souvent pas à distinguer deux émissions. Si tout concorde, tu tiens le numéro.",
+          "it": "Mettiamo che il francobollo tu l'abbia comprato. A casa prendi il catalogo dallo scaffale, cerchi il paese, poi gli anni giusti, e scorri le emissioni finché un disegno non corrisponde a quello che hai in mano. Poi controlli la dentellatura e la filigrana, perché il solo disegno spesso non basta a distinguere due emissioni. Se torna tutto, hai il numero.",
+          "nl": "Stel dat je de zegel hebt gekocht. Thuis pak je de catalogus uit de kast. Je zoekt het land op, dan de juiste jaren, en je loopt de uitgiften door tot een ontwerp overeenkomt met de zegel in je hand. Daarna controleer je de tanding en het watermerk, want het ontwerp alleen is vaak niet genoeg om twee uitgiften uit elkaar te houden. Klopt alles, dan heb je het nummer.",
+          "pl": "Załóżmy, że kupujesz ten znaczek. W domu zdejmujesz katalog z półki. Znajdujesz kraj, potem właściwe lata i przeglądasz emisje, aż któryś rysunek zgodzi się ze znaczkiem, który trzymasz. Potem sprawdzasz ząbkowanie i znak wodny, bo sam rysunek często nie wystarcza, żeby odróżnić dwie emisje. Jeśli wszystko się zgadza, masz numer.",
+          "cs": "Say you bought the stamp. At home you take the catalogue from the shelf. You find the country, then the right years, and go through the issues until one design matches the stamp in your hand. Then you check the perforation and the watermark, because the design alone is often not enough to tell two issues apart. If everything fits, you have the number.",
+          "sk": "Say you bought the stamp. At home you take the catalogue from the shelf. You find the country, then the right years, and go through the issues until one design matches the stamp in your hand. Then you check the perforation and the watermark, because the design alone is often not enough to tell two issues apart. If everything fits, you have the number.",
+          "ro": "Say you bought the stamp. At home you take the catalogue from the shelf. You find the country, then the right years, and go through the issues until one design matches the stamp in your hand. Then you check the perforation and the watermark, because the design alone is often not enough to tell two issues apart. If everything fits, you have the number.",
+          "hu": "Say you bought the stamp. At home you take the catalogue from the shelf. You find the country, then the right years, and go through the issues until one design matches the stamp in your hand. Then you check the perforation and the watermark, because the design alone is often not enough to tell two issues apart. If everything fits, you have the number.",
+          "da": "Say you bought the stamp. At home you take the catalogue from the shelf. You find the country, then the right years, and go through the issues until one design matches the stamp in your hand. Then you check the perforation and the watermark, because the design alone is often not enough to tell two issues apart. If everything fits, you have the number."
+        },
+        {
+          "en": "Then you open your album and look for that number. Sometimes it is already there, and the new stamp goes into the box with your duplicates. The money is spent, and the evening went into looking up a stamp you already had.",
+          "de": "Dann schlägst du dein Album auf und suchst diese Nummer. Manchmal steht sie schon da, und die neue Marke wandert in die Kiste mit den Dubletten. Das Geld ist ausgegeben, und der Abend ging für die Bestimmung einer Marke drauf, die du längst hattest.",
+          "fr": "Puis tu ouvres ton album et tu cherches ce numéro. Parfois il y est déjà, et le nouveau timbre part dans la boîte des doubles. L'argent est dépensé, et la soirée est passée à identifier un timbre que tu avais déjà.",
+          "it": "Poi apri l'album e cerchi quel numero. A volte c'è già, e il francobollo nuovo finisce nella scatola dei doppioni. I soldi sono spesi e la serata se n'è andata a cercare un francobollo che avevi già.",
+          "nl": "Dan pak je je album erbij en zoek je dat nummer op. Soms staat hij er al, en gaat de nieuwe zegel in het doosje met je dubbels. Het geld is uitgegeven en je avond ging op aan het opzoeken van een zegel die je al had.",
+          "pl": "Potem otwierasz album i szukasz w nim tego numeru. Czasem numer już tam jest, a nowy znaczek ląduje w pudełku z duplikatami. Pieniądze wydane, a wieczór poszedł na wyszukiwanie znaczka, którego i tak już masz.",
+          "cs": "Then you open your album and look for that number. Sometimes it is already there, and the new stamp goes into the box with your duplicates. The money is spent, and the evening went into looking up a stamp you already had.",
+          "sk": "Then you open your album and look for that number. Sometimes it is already there, and the new stamp goes into the box with your duplicates. The money is spent, and the evening went into looking up a stamp you already had.",
+          "ro": "Then you open your album and look for that number. Sometimes it is already there, and the new stamp goes into the box with your duplicates. The money is spent, and the evening went into looking up a stamp you already had.",
+          "hu": "Then you open your album and look for that number. Sometimes it is already there, and the new stamp goes into the box with your duplicates. The money is spent, and the evening went into looking up a stamp you already had.",
+          "da": "Then you open your album and look for that number. Sometimes it is already there, and the new stamp goes into the box with your duplicates. The money is spent, and the evening went into looking up a stamp you already had."
+        },
+        {
+          "en": "You had to do all of this because the stamp could not tell you what it was. Everything that identifies it is printed on the stamp itself. Until now, the only way to read it was a person with a catalogue and time.",
+          "de": "Diesen ganzen Weg musstest du gehen, weil die Marke dir nicht sagen konnte, was sie ist. Alles, was sie bestimmt, ist auf ihr selbst gedruckt. Bisher konnte das nur jemand lesen, der einen Katalog und Zeit hatte.",
+          "fr": "Tout cela, tu as dû le faire parce que le timbre ne pouvait pas te dire ce qu'il était. Tout ce qui l'identifie est imprimé sur le timbre lui-même. Jusqu'ici, la seule façon de le lire, c'était une personne avec un catalogue et du temps devant elle.",
+          "it": "Tutto questo l'hai dovuto fare perché il francobollo non poteva dirti da solo cos'era. Tutto quello che lo identifica è stampato sul francobollo stesso. Fino a oggi, per leggerlo servivano una persona, un catalogo e del tempo.",
+          "nl": "Dat hele traject was nodig omdat de zegel je zelf niet kon vertellen wat hij was. Alles wat hem identificeert staat op de zegel zelf gedrukt. Tot nu toe kon alleen iemand met een catalogus en genoeg tijd dat aflezen.",
+          "pl": "To wszystko trzeba było zrobić, bo znaczek sam nie powie, czym jest. Wszystko, co go identyfikuje, jest wydrukowane na nim samym. Do tej pory odczytać to mógł tylko człowiek z katalogiem i czasem.",
+          "cs": "You had to do all of this because the stamp could not tell you what it was. Everything that identifies it is printed on the stamp itself. Until now, the only way to read it was a person with a catalogue and time.",
+          "sk": "You had to do all of this because the stamp could not tell you what it was. Everything that identifies it is printed on the stamp itself. Until now, the only way to read it was a person with a catalogue and time.",
+          "ro": "You had to do all of this because the stamp could not tell you what it was. Everything that identifies it is printed on the stamp itself. Until now, the only way to read it was a person with a catalogue and time.",
+          "hu": "You had to do all of this because the stamp could not tell you what it was. Everything that identifies it is printed on the stamp itself. Until now, the only way to read it was a person with a catalogue and time.",
+          "da": "You had to do all of this because the stamp could not tell you what it was. Everything that identifies it is printed on the stamp itself. Until now, the only way to read it was a person with a catalogue and time."
+        }
+      ]
+    },
+    {
+      "id": "photo",
+      "type": "text",
+      "label": {
+        "en": "Recognition",
+        "de": "Erkennung",
+        "fr": "Reconnaissance",
+        "it": "Riconoscimento",
+        "nl": "Herkenning",
+        "pl": "Rozpoznawanie",
+        "cs": "Recognition",
+        "sk": "Recognition",
+        "ro": "Recognition",
+        "hu": "Recognition",
+        "da": "Recognition"
+      },
+      "title": {
+        "en": "One photo instead",
+        "de": "Stattdessen ein Foto",
+        "fr": "Une photo à la place",
+        "it": "Basta una foto",
+        "nl": "Eén foto is genoeg",
+        "pl": "Wystarczy jedno zdjęcie",
+        "cs": "One photo instead",
+        "sk": "One photo instead",
+        "ro": "One photo instead",
+        "hu": "One photo instead",
+        "da": "One photo instead"
+      },
+      "visual": {
+        "type": "animation",
+        "animation": {
+          "src": "https://assets.stampiq.io/blog/6b80d287579ec67e/single-scan-rose.mp4",
+          "width": 960,
+          "height": 1706,
+          "poster": "https://assets.stampiq.io/blog/b6463e2c57eadf98/single-scan-rose.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "With StampIQ you take a photo of the stamp. The app recognises it in under a second. The rest of the waiting time is how fast the photo travels to our server and back, so it depends on the mobile signal in the hall.",
+          "de": "Mit StampIQ fotografierst du die Marke. Die App erkennt sie in weniger als einer Sekunde. Die restliche Wartezeit ist der Weg des Fotos zu unserem Server und zurück, hängt also vom Empfang in der Halle ab.",
+          "fr": "Avec StampIQ, tu photographies le timbre. L'application le reconnaît en moins d'une seconde. Le reste de l'attente, c'est le temps que la photo met pour aller jusqu'à notre serveur et revenir : cela dépend donc du réseau mobile dans la salle.",
+          "it": "Con StampIQ scatti una foto al francobollo. L'app lo riconosce in meno di un secondo. Il resto dell'attesa è il tempo che la foto impiega ad arrivare al nostro server e tornare indietro, quindi dipende dal segnale che c'è nel padiglione.",
+          "nl": "Met StampIQ maak je een foto van de zegel. De app herkent hem in minder dan een seconde. De rest van de wachttijd is de weg die de foto naar onze server en terug aflegt, dus dat hangt af van het mobiele bereik in de hal.",
+          "pl": "W StampIQ robisz zdjęcie znaczka. Aplikacja rozpoznaje go w niecałą sekundę. Reszta czekania to droga zdjęcia na nasz serwer i z powrotem, więc zależy od zasięgu w hali.",
+          "cs": "With StampIQ you take a photo of the stamp. The app recognises it in under a second. The rest of the waiting time is how fast the photo travels to our server and back, so it depends on the mobile signal in the hall.",
+          "sk": "With StampIQ you take a photo of the stamp. The app recognises it in under a second. The rest of the waiting time is how fast the photo travels to our server and back, so it depends on the mobile signal in the hall.",
+          "ro": "With StampIQ you take a photo of the stamp. The app recognises it in under a second. The rest of the waiting time is how fast the photo travels to our server and back, so it depends on the mobile signal in the hall.",
+          "hu": "With StampIQ you take a photo of the stamp. The app recognises it in under a second. The rest of the waiting time is how fast the photo travels to our server and back, so it depends on the mobile signal in the hall.",
+          "da": "With StampIQ you take a photo of the stamp. The app recognises it in under a second. The rest of the waiting time is how fast the photo travels to our server and back, so it depends on the mobile signal in the hall."
+        },
+        {
+          "en": "What you get back is the stamp itself, with all the details we have for it. SigiVision, our recognition system, compares your photo with our own scans. You do not need to know the country, the year or the printing. The photo of the stamp is enough.",
+          "de": "Zurück bekommst du die Briefmarke selbst, mit allen Angaben, die wir zu ihr haben. SigiVision, unsere Erkennung, vergleicht dein Foto mit unseren eigenen Scans. Du musst weder Land noch Jahr noch Druckart kennen. Das Foto der Marke genügt.",
+          "fr": "Ce que tu reçois, c'est le timbre lui-même, avec tous les détails dont nous disposons. SigiVision, notre technologie de reconnaissance, compare ta photo à nos propres scans. Tu n'as besoin de connaître ni le pays, ni l'année, ni l'impression. La photo du timbre suffit.",
+          "it": "Quello che ricevi è il francobollo stesso, con tutti i dettagli che ne abbiamo. SigiVision, la nostra tecnologia di riconoscimento, confronta la tua foto con le nostre scansioni. Non devi sapere il paese, l'anno o la stampa: basta la foto del francobollo.",
+          "nl": "Wat je terugkrijgt is de zegel zelf, met alle details die we ervan hebben. SigiVision, onze herkenning, vergelijkt jouw foto met onze eigen scans. Je hoeft het land, het jaar of de druk niet te weten. De foto van de zegel is genoeg.",
+          "pl": "W odpowiedzi dostajesz sam znaczek ze wszystkimi szczegółami, jakie o nim mamy. SigiVision, nasza technologia rozpoznawania, porównuje Twoje zdjęcie z naszymi własnymi skanami. Nie musisz znać kraju, roku ani sposobu druku. Wystarczy zdjęcie znaczka.",
+          "cs": "What you get back is the stamp itself, with all the details we have for it. SigiVision, our recognition system, compares your photo with our own scans. You do not need to know the country, the year or the printing. The photo of the stamp is enough.",
+          "sk": "What you get back is the stamp itself, with all the details we have for it. SigiVision, our recognition system, compares your photo with our own scans. You do not need to know the country, the year or the printing. The photo of the stamp is enough.",
+          "ro": "What you get back is the stamp itself, with all the details we have for it. SigiVision, our recognition system, compares your photo with our own scans. You do not need to know the country, the year or the printing. The photo of the stamp is enough.",
+          "hu": "What you get back is the stamp itself, with all the details we have for it. SigiVision, our recognition system, compares your photo with our own scans. You do not need to know the country, the year or the printing. The photo of the stamp is enough.",
+          "da": "What you get back is the stamp itself, with all the details we have for it. SigiVision, our recognition system, compares your photo with our own scans. You do not need to know the country, the year or the printing. The photo of the stamp is enough."
+        },
+        {
+          "en": "At the dealer's table you now take the photo, and the app shows you whether the stamp is already in your collection. You can do that while the dealer is still talking to you, and then do the same with the next stamp in the box.",
+          "de": "Am Händlertisch machst du also das Foto, und die App zeigt dir, ob die Marke schon in deiner Sammlung ist. Das geht, während der Händler noch mit dir spricht, und danach machst du dasselbe mit der nächsten Marke aus der Kiste.",
+          "fr": "Au stand du marchand, tu prends donc la photo et l'application t'indique si le timbre est déjà dans ta collection. Tu peux le faire pendant que le marchand te parle encore, puis recommencer avec le timbre suivant dans la boîte.",
+          "it": "Al banco, adesso, scatti la foto e l'app ti dice se il francobollo è già nella tua collezione. Puoi farlo mentre il commerciante ti sta ancora parlando, e poi ripeterlo con il pezzo successivo nella scatola.",
+          "nl": "Aan de tafel van de handelaar maak je nu die foto, en de app laat zien of de zegel al in je verzameling zit. Dat kan terwijl de handelaar nog tegen je praat, en daarna doe je hetzelfde met de volgende zegel uit de bak.",
+          "pl": "Przy stoisku robisz więc zdjęcie, a aplikacja pokazuje, czy ten znaczek jest już w Twojej kolekcji. Zdążysz z tym, zanim sprzedawca skończy mówić, i możesz od razu wziąć następny znaczek z pudełka.",
+          "cs": "At the dealer's table you now take the photo, and the app shows you whether the stamp is already in your collection. You can do that while the dealer is still talking to you, and then do the same with the next stamp in the box.",
+          "sk": "At the dealer's table you now take the photo, and the app shows you whether the stamp is already in your collection. You can do that while the dealer is still talking to you, and then do the same with the next stamp in the box.",
+          "ro": "At the dealer's table you now take the photo, and the app shows you whether the stamp is already in your collection. You can do that while the dealer is still talking to you, and then do the same with the next stamp in the box.",
+          "hu": "At the dealer's table you now take the photo, and the app shows you whether the stamp is already in your collection. You can do that while the dealer is still talking to you, and then do the same with the next stamp in the box.",
+          "da": "At the dealer's table you now take the photo, and the app shows you whether the stamp is already in your collection. You can do that while the dealer is still talking to you, and then do the same with the next stamp in the box."
+        }
+      ]
+    },
+    {
+      "id": "connection",
+      "text": {
+        "en": "A scan needs an internet connection. In a basement hall with a weak signal it takes longer, and without any connection the scan does not work.",
+        "de": "Ein Scan braucht eine Internetverbindung. In einer Kellerhalle mit schwachem Empfang dauert er länger, und ganz ohne Verbindung funktioniert er nicht.",
+        "fr": "Un scan a besoin d'une connexion internet. Dans une salle en sous-sol où le réseau passe mal, cela prend plus de temps, et sans connexion le scan ne fonctionne pas.",
+        "it": "La scansione richiede una connessione a internet. In un padiglione interrato con segnale debole ci mette di più, e senza connessione non funziona.",
+        "nl": "Voor een scan heb je internet nodig. In een kelderhal met zwak bereik duurt het langer, en zonder verbinding werkt de scan niet.",
+        "pl": "Skanowanie wymaga połączenia z internetem. W podziemnej hali ze słabym zasięgiem trwa dłużej, a bez połączenia skan nie zadziała.",
+        "cs": "A scan needs an internet connection. In a basement hall with a weak signal it takes longer, and without any connection the scan does not work.",
+        "sk": "A scan needs an internet connection. In a basement hall with a weak signal it takes longer, and without any connection the scan does not work.",
+        "ro": "A scan needs an internet connection. In a basement hall with a weak signal it takes longer, and without any connection the scan does not work.",
+        "hu": "A scan needs an internet connection. In a basement hall with a weak signal it takes longer, and without any connection the scan does not work.",
+        "da": "A scan needs an internet connection. In a basement hall with a weak signal it takes longer, and without any connection the scan does not work."
+      },
+      "type": "note"
+    },
+    {
+      "id": "id",
+      "type": "text",
+      "label": {
+        "en": "The StampIQ ID",
+        "de": "Die StampIQ-ID",
+        "fr": "L'identifiant StampIQ",
+        "it": "L'ID StampIQ",
+        "nl": "De StampIQ ID",
+        "pl": "StampIQ ID",
+        "cs": "The StampIQ ID",
+        "sk": "The StampIQ ID",
+        "ro": "The StampIQ ID",
+        "hu": "The StampIQ ID",
+        "da": "The StampIQ ID"
+      },
+      "title": {
+        "en": "Our own number",
+        "de": "Unsere eigene Nummer",
+        "fr": "Notre propre numéro",
+        "it": "Il nostro numero",
+        "nl": "Ons eigen nummer",
+        "pl": "Nasz własny numer",
+        "cs": "Our own number",
+        "sk": "Our own number",
+        "ro": "Our own number",
+        "hu": "Our own number",
+        "da": "Our own number"
+      },
+      "visual": {
+        "type": "phone",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/aaa4af982706a9da/stampiq-number-winterthur.png",
+          "width": 1290,
+          "height": 2796
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "Every stamp in StampIQ still has a number, because your collection is a list, and a list needs a way to point to one exact stamp. Our number is the year followed by a running number, and that is the whole system. Swiss stamps that exist in more than one variant get a letter after the number, and the other countries will get the same.",
+          "de": "Jede Briefmarke in StampIQ hat trotzdem eine Nummer, denn deine Sammlung ist eine Liste, und eine Liste braucht einen Weg, genau eine Marke zu bezeichnen. Unsere Nummer besteht aus dem Jahr und einer laufenden Zahl, mehr steckt nicht dahinter. Bei Schweizer Marken, die es in mehreren Varianten gibt, steht hinter der Nummer noch ein Buchstabe, und die anderen Länder bekommen das ebenso.",
+          "fr": "Chaque timbre dans StampIQ a lui aussi un numéro, parce que ta collection est une liste, et qu'une liste a besoin d'un moyen de désigner un timbre précis. Notre numéro, c'est l'année suivie d'un numéro courant, et c'est tout le système. Les timbres suisses qui existent en plusieurs variantes reçoivent une lettre après le numéro, et les autres pays suivront.",
+          "it": "Ogni francobollo in StampIQ ha comunque un numero, perché la tua collezione è un elenco e un elenco ha bisogno di un modo per indicare un pezzo preciso. Il nostro numero è l'anno seguito da un numero progressivo, e il sistema finisce qui. I francobolli svizzeri che esistono in più varianti hanno una lettera dopo il numero, e lo stesso varrà per gli altri paesi.",
+          "nl": "Elke zegel in StampIQ heeft nog steeds een nummer, want je verzameling is een lijst en een lijst heeft een manier nodig om naar precies één zegel te verwijzen. Ons nummer bestaat uit het jaar gevolgd door een doorlopend nummer, en dat is het hele systeem. Zwitserse zegels die in meer dan één variant bestaan krijgen een letter achter het nummer, en dat komt er ook voor de andere landen.",
+          "pl": "Każdy znaczek w StampIQ nadal ma numer, bo Twoja kolekcja to lista, a lista potrzebuje sposobu na wskazanie jednego konkretnego znaczka. Nasz numer to rok i liczba porządkowa, i na tym cały system się kończy. Szwajcarskie znaczki, które występują w kilku wariantach, mają po numerze literę, a w pozostałych krajach będzie tak samo.",
+          "cs": "Every stamp in StampIQ still has a number, because your collection is a list, and a list needs a way to point to one exact stamp. Our number is the year followed by a running number, and that is the whole system. Swiss stamps that exist in more than one variant get a letter after the number, and the other countries will get the same.",
+          "sk": "Every stamp in StampIQ still has a number, because your collection is a list, and a list needs a way to point to one exact stamp. Our number is the year followed by a running number, and that is the whole system. Swiss stamps that exist in more than one variant get a letter after the number, and the other countries will get the same.",
+          "ro": "Every stamp in StampIQ still has a number, because your collection is a list, and a list needs a way to point to one exact stamp. Our number is the year followed by a running number, and that is the whole system. Swiss stamps that exist in more than one variant get a letter after the number, and the other countries will get the same.",
+          "hu": "Every stamp in StampIQ still has a number, because your collection is a list, and a list needs a way to point to one exact stamp. Our number is the year followed by a running number, and that is the whole system. Swiss stamps that exist in more than one variant get a letter after the number, and the other countries will get the same.",
+          "da": "Every stamp in StampIQ still has a number, because your collection is a list, and a list needs a way to point to one exact stamp. Our number is the year followed by a running number, and that is the whole system. Swiss stamps that exist in more than one variant get a letter after the number, and the other countries will get the same."
+        },
+        {
+          "en": "The number is our own. Each catalogue publisher has its own numbering, and ours does not match any of them, so a dealer will not recognise it. It is there so you can sort and export your collection, and so we can tell two similar stamps apart. We kept it simple on purpose. You never have to learn it, because the app finds the stamp from the photo.",
+          "de": "Die Nummer ist unsere eigene. Jeder Katalogverlag zählt anders, und unsere Zählung stimmt mit keiner davon überein, ein Händler wird sie also nicht kennen. Sie ist dafür da, dass du deine Sammlung sortieren und exportieren kannst und dass wir zwei ähnliche Marken unterscheiden können. Wir haben sie bewusst einfach gehalten. Lernen musst du sie nie, denn die App findet die Marke über das Foto.",
+          "fr": "Ce numéro est le nôtre. Chaque éditeur de catalogue a sa propre numérotation, la nôtre ne correspond à aucune, et un marchand ne la reconnaîtra pas. Elle existe pour que tu puisses trier et exporter ta collection, et pour que nous puissions distinguer deux timbres semblables. Nous l'avons gardée simple volontairement. Tu n'as jamais besoin de l'apprendre, puisque l'application retrouve le timbre à partir de la photo.",
+          "it": "Il numero è nostro. Ogni editore di cataloghi ha la propria numerazione e la nostra non coincide con nessuna, quindi un commerciante non la riconosce. Serve a te per ordinare ed esportare la collezione, e a noi per distinguere due francobolli simili. L'abbiamo tenuta semplice apposta. Non devi impararla, perché l'app trova il francobollo dalla foto.",
+          "nl": "Het nummer is van onszelf. Elke catalogusuitgever heeft zijn eigen nummering en die van ons komt met geen enkele overeen, dus een handelaar zal het niet herkennen. Het is er zodat jij je verzameling kunt sorteren en exporteren, en zodat wij twee vergelijkbare zegels uit elkaar kunnen houden. We hebben het bewust simpel gehouden. Je hoeft het nooit uit je hoofd te leren, want de app vindt de zegel aan de hand van de foto.",
+          "pl": "Numer jest nasz własny. Każde wydawnictwo katalogowe ma swoją numerację, a nasza nie pokrywa się z żadną z nich, więc sprzedawca jej nie rozpozna. Służy do sortowania i eksportu kolekcji, a nam pozwala odróżnić dwa podobne znaczki. Celowo jest prosty. Nie musisz się go uczyć, bo aplikacja znajduje znaczek na podstawie zdjęcia.",
+          "cs": "The number is our own. Each catalogue publisher has its own numbering, and ours does not match any of them, so a dealer will not recognise it. It is there so you can sort and export your collection, and so we can tell two similar stamps apart. We kept it simple on purpose. You never have to learn it, because the app finds the stamp from the photo.",
+          "sk": "The number is our own. Each catalogue publisher has its own numbering, and ours does not match any of them, so a dealer will not recognise it. It is there so you can sort and export your collection, and so we can tell two similar stamps apart. We kept it simple on purpose. You never have to learn it, because the app finds the stamp from the photo.",
+          "ro": "The number is our own. Each catalogue publisher has its own numbering, and ours does not match any of them, so a dealer will not recognise it. It is there so you can sort and export your collection, and so we can tell two similar stamps apart. We kept it simple on purpose. You never have to learn it, because the app finds the stamp from the photo.",
+          "hu": "The number is our own. Each catalogue publisher has its own numbering, and ours does not match any of them, so a dealer will not recognise it. It is there so you can sort and export your collection, and so we can tell two similar stamps apart. We kept it simple on purpose. You never have to learn it, because the app finds the stamp from the photo.",
+          "da": "The number is our own. Each catalogue publisher has its own numbering, and ours does not match any of them, so a dealer will not recognise it. It is there so you can sort and export your collection, and so we can tell two similar stamps apart. We kept it simple on purpose. You never have to learn it, because the app finds the stamp from the photo."
+        }
+      ]
+    },
+    {
+      "id": "countries",
+      "rows": [
+        {
+          "label": {
+            "en": "Complete",
+            "de": "Fertig",
+            "fr": "Terminés",
+            "it": "Completi",
+            "nl": "Compleet",
+            "pl": "Ukończone",
+            "cs": "Complete",
+            "sk": "Complete",
+            "ro": "Complete",
+            "hu": "Complete",
+            "da": "Complete"
+          },
+          "value": {
+            "en": "Switzerland, Liechtenstein, Germany including Deutsches Reich, Austria including Altösterreich, the Netherlands, Poland",
+            "de": "Schweiz, Liechtenstein, Deutschland mit Deutschem Reich, Österreich mit Altösterreich, Niederlande, Polen",
+            "fr": "Suisse, Liechtenstein, Allemagne y compris le Deutsches Reich, Autriche y compris l'Altösterreich, Pays-Bas, Pologne",
+            "it": "Svizzera, Liechtenstein, Germania compreso il Deutsches Reich, Austria compreso l'Altösterreich, Paesi Bassi, Polonia",
+            "nl": "Zwitserland, Liechtenstein, Duitsland inclusief Deutsches Reich, Oostenrijk inclusief Altösterreich, Nederland, Polen",
+            "pl": "Szwajcaria, Liechtenstein, Niemcy wraz z Deutsches Reich, Austria wraz z Altösterreich, Holandia, Polska",
+            "cs": "Switzerland, Liechtenstein, Germany including Deutsches Reich, Austria including Altösterreich, the Netherlands, Poland",
+            "sk": "Switzerland, Liechtenstein, Germany including Deutsches Reich, Austria including Altösterreich, the Netherlands, Poland",
+            "ro": "Switzerland, Liechtenstein, Germany including Deutsches Reich, Austria including Altösterreich, the Netherlands, Poland",
+            "hu": "Switzerland, Liechtenstein, Germany including Deutsches Reich, Austria including Altösterreich, the Netherlands, Poland",
+            "da": "Switzerland, Liechtenstein, Germany including Deutsches Reich, Austria including Altösterreich, the Netherlands, Poland"
+          }
+        },
+        {
+          "label": {
+            "en": "End of 2026",
+            "de": "Ende 2026",
+            "fr": "Fin 2026",
+            "it": "Fine 2026",
+            "nl": "Eind 2026",
+            "pl": "Koniec 2026",
+            "cs": "End of 2026",
+            "sk": "End of 2026",
+            "ro": "End of 2026",
+            "hu": "End of 2026",
+            "da": "End of 2026"
+          },
+          "value": {
+            "en": "Czechia, Slovakia, Italy, France, Belgium, Romania",
+            "de": "Tschechien, Slowakei, Italien, Frankreich, Belgien, Rumänien",
+            "fr": "Tchéquie, Slovaquie, Italie, France, Belgique, Roumanie",
+            "it": "Cechia, Slovacchia, Italia, Francia, Belgio, Romania",
+            "nl": "Tsjechië, Slowakije, Italië, Frankrijk, België, Roemenië",
+            "pl": "Czechy, Słowacja, Włochy, Francja, Belgia, Rumunia",
+            "cs": "Czechia, Slovakia, Italy, France, Belgium, Romania",
+            "sk": "Czechia, Slovakia, Italy, France, Belgium, Romania",
+            "ro": "Czechia, Slovakia, Italy, France, Belgium, Romania",
+            "hu": "Czechia, Slovakia, Italy, France, Belgium, Romania",
+            "da": "Czechia, Slovakia, Italy, France, Belgium, Romania"
+          }
+        },
+        {
+          "label": {
+            "en": "Early 2027",
+            "de": "Anfang 2027",
+            "fr": "Début 2027",
+            "it": "Inizio 2027",
+            "nl": "Begin 2027",
+            "pl": "Początek 2027",
+            "cs": "Early 2027",
+            "sk": "Early 2027",
+            "ro": "Early 2027",
+            "hu": "Early 2027",
+            "da": "Early 2027"
+          },
+          "value": {
+            "en": "Luxembourg, Hungary, Denmark, the United Kingdom, the Vatican",
+            "de": "Luxemburg, Ungarn, Dänemark, Großbritannien, Vatikan",
+            "fr": "Luxembourg, Hongrie, Danemark, Royaume-Uni, Vatican",
+            "it": "Lussemburgo, Ungheria, Danimarca, Regno Unito, Vaticano",
+            "nl": "Luxemburg, Hongarije, Denemarken, het Verenigd Koninkrijk, Vaticaanstad",
+            "pl": "Luksemburg, Węgry, Dania, Wielka Brytania, Watykan",
+            "cs": "Luxembourg, Hungary, Denmark, the United Kingdom, the Vatican",
+            "sk": "Luxembourg, Hungary, Denmark, the United Kingdom, the Vatican",
+            "ro": "Luxembourg, Hungary, Denmark, the United Kingdom, the Vatican",
+            "hu": "Luxembourg, Hungary, Denmark, the United Kingdom, the Vatican",
+            "da": "Luxembourg, Hungary, Denmark, the United Kingdom, the Vatican"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "Countries",
+        "de": "Länder",
+        "fr": "Pays",
+        "it": "Paesi",
+        "nl": "Landen",
+        "pl": "Kraje",
+        "cs": "Countries",
+        "sk": "Countries",
+        "ro": "Countries",
+        "hu": "Countries",
+        "da": "Countries"
+      },
+      "title": {
+        "en": "The catalogues we have finished",
+        "de": "Diese Kataloge sind fertig",
+        "fr": "Les catalogues déjà terminés",
+        "it": "I cataloghi che abbiamo completato",
+        "nl": "De catalogi die af zijn",
+        "pl": "Gotowe katalogi",
+        "cs": "The catalogues we have finished",
+        "sk": "The catalogues we have finished",
+        "ro": "The catalogues we have finished",
+        "hu": "The catalogues we have finished",
+        "da": "The catalogues we have finished"
+      }
+    },
+    {
+      "id": "catalogues",
+      "type": "text",
+      "label": {
+        "en": "If you know your numbers",
+        "de": "Wenn du die Nummern kennst",
+        "fr": "Si tu connais tes numéros",
+        "it": "Se conosci i numeri",
+        "nl": "Als je je nummers kent",
+        "pl": "Jeśli znasz numery",
+        "cs": "If you know your numbers",
+        "sk": "If you know your numbers",
+        "ro": "If you know your numbers",
+        "hu": "If you know your numbers",
+        "da": "If you know your numbers"
+      },
+      "title": {
+        "en": "Your catalogues still work",
+        "de": "Deine Kataloge bleiben nützlich",
+        "fr": "Tes catalogues servent toujours",
+        "it": "I tuoi cataloghi restano utili",
+        "nl": "Je catalogi blijven bruikbaar",
+        "pl": "Twoje katalogi nadal się przydają",
+        "cs": "Your catalogues still work",
+        "sk": "Your catalogues still work",
+        "ro": "Your catalogues still work",
+        "hu": "Your catalogues still work",
+        "da": "Your catalogues still work"
+      },
+      "paragraphs": [
+        {
+          "en": "What you know about stamps stays useful. Your catalogues still work, your album stays as it is, and at every stand in the hall you can still say a catalogue number and the dealer knows what you mean. What changes is the step between finding a stamp and knowing what it is. That step is now a photo, taken at the table, before you pay.",
+          "de": "Was du über Briefmarken weißt, bleibt dir erhalten. Deine Kataloge kannst du weiter benutzen, dein Album bleibt, wie es ist, und an jedem Stand in der Halle sagst du weiterhin eine Katalognummer, und der Händler weiß, was du meinst. Was sich ändert, ist der Schritt zwischen dem Fund und dem Wissen, was du da hast. Dieser Schritt ist jetzt ein Foto, aufgenommen am Tisch, bevor du bezahlst.",
+          "fr": "Ce que tu sais des timbres reste utile. Tes catalogues servent toujours, ton album reste tel quel, et à chaque stand de la salle tu peux encore donner un numéro de catalogue : le marchand voit de quel timbre tu parles. Ce qui change, c'est l'étape entre le moment où tu trouves un timbre et le moment où tu sais ce que c'est. Cette étape, c'est maintenant une photo, prise au stand, avant de payer.",
+          "it": "Quello che sai sui francobolli resta utile. I tuoi cataloghi funzionano ancora, l'album resta com'è, e a ogni stand del padiglione puoi dire un numero di catalogo e il commerciante capisce di cosa parli. Cambia il passaggio tra il trovare un francobollo e il sapere cos'è. Quel passaggio adesso è una foto, scattata al banco, prima di pagare.",
+          "nl": "Wat je over postzegels weet blijft van waarde. Je catalogi blijven bruikbaar, je album blijft zoals het is, en bij elke stand in de hal kun je nog steeds een catalogusnummer noemen dat de handelaar begrijpt. Wat verandert is de stap tussen het vinden van een zegel en weten wat het is. Die stap is nu een foto, gemaakt aan de tafel, voordat je betaalt.",
+          "pl": "To, co wiesz o znaczkach, dalej jest przydatne. Katalogi zostają w użyciu, album zostaje taki, jaki jest, i przy każdym stoisku w hali nadal możesz podać numer katalogowy, a sprzedawca będzie wiedział, o co chodzi. Zmienia się krok między znalezieniem znaczka a wiedzą, co to za znaczek. Teraz jest nim zdjęcie, zrobione przy stoisku, zanim zapłacisz.",
+          "cs": "What you know about stamps stays useful. Your catalogues still work, your album stays as it is, and at every stand in the hall you can still say a catalogue number and the dealer knows what you mean. What changes is the step between finding a stamp and knowing what it is. That step is now a photo, taken at the table, before you pay.",
+          "sk": "What you know about stamps stays useful. Your catalogues still work, your album stays as it is, and at every stand in the hall you can still say a catalogue number and the dealer knows what you mean. What changes is the step between finding a stamp and knowing what it is. That step is now a photo, taken at the table, before you pay.",
+          "ro": "What you know about stamps stays useful. Your catalogues still work, your album stays as it is, and at every stand in the hall you can still say a catalogue number and the dealer knows what you mean. What changes is the step between finding a stamp and knowing what it is. That step is now a photo, taken at the table, before you pay.",
+          "hu": "What you know about stamps stays useful. Your catalogues still work, your album stays as it is, and at every stand in the hall you can still say a catalogue number and the dealer knows what you mean. What changes is the step between finding a stamp and knowing what it is. That step is now a photo, taken at the table, before you pay.",
+          "da": "What you know about stamps stays useful. Your catalogues still work, your album stays as it is, and at every stand in the hall you can still say a catalogue number and the dealer knows what you mean. What changes is the step between finding a stamp and knowing what it is. That step is now a photo, taken at the table, before you pay."
+        }
+      ]
+    }
+  ]
+}
