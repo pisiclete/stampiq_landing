@@ -1,0 +1,14 @@
+---
+import Icon from './Icon.astro';
+
+const { buttons, lang, centered = false } = Astro.props;
+---
+{buttons?.length > 0 && (
+  <div class:list={['actions', { 'actions--centered': centered }]}>
+    {buttons.map((button) => (
+      <a class:list={['btn', button.primary ? 'btn--primary' : 'btn--secondary']} href={button.href} rel="noopener">
+        {button.label[lang]}<Icon name="arrow" size={16} stroke={2.5} />
+      </a>
+    ))}
+  </div>
+)}

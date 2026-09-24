@@ -1,4 +1,5 @@
 ---
+import Buttons from './Buttons.astro';
 import Icon from './Icon.astro';
 import Picture from './Picture.astro';
 import Visual from './Visual.astro';
@@ -28,15 +29,7 @@ const bandClass = `band band--${background}`;
           {b.type === 'text' && b.address && (
             <ul class="details"><li><Icon name="building" /><span>{b.address}</span></li></ul>
           )}
-          {b.buttons && (
-            <div class="actions">
-              {b.buttons.map((button) => (
-                <a class:list={['btn', button.primary ? 'btn--primary' : 'btn--secondary']} href={button.href} rel="noopener">
-                  {button.label[lang]}<Icon name="arrow" size={16} stroke={2.5} />
-                </a>
-              ))}
-            </div>
-          )}
+          <Buttons buttons={b.buttons} lang={lang} />
         </div>
       </div>
     </div>
@@ -55,6 +48,7 @@ const bandClass = `band band--${background}`;
           <li><span class="tick"><Icon name="check" size={14} stroke={3} /></span><span set:html={renderMarkdown(item[lang])} /></li>
         ))}
       </ul>
+      <Buttons buttons={b.buttons} lang={lang} centered />
     </div>
   </section>
 )}
@@ -138,6 +132,7 @@ const bandClass = `band band--${background}`;
           </div>
         ))}
       </div>
+      <Buttons buttons={b.buttons} lang={lang} centered />
     </div>
   </section>
 )}
@@ -174,6 +169,7 @@ const bandClass = `band band--${background}`;
           <div class="spec"><span class="spec__label">{row.label[lang]}</span><span class="spec__value">{row.value[lang]}</span></div>
         ))}
       </div>
+      <Buttons buttons={b.buttons} lang={lang} centered />
     </div>
   </section>
 )}
@@ -195,6 +191,7 @@ const bandClass = `band band--${background}`;
               <div class="formats__row"><span>{f.format[lang]}</span><span>{f.value}</span><span>{f.number}</span></div>
             ))}
           </div>
+          <Buttons buttons={b.buttons} lang={lang} />
         </div>
       </div>
     </div>

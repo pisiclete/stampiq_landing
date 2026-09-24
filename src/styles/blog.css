@@ -56,6 +56,7 @@
 .btn--secondary { background: #fff; color: #4FA902; border: 1px solid #66E204; }
 .btn svg { flex-shrink: 0; }
 .actions { display: flex; gap: 12px; flex-wrap: wrap; align-items: center; }
+.actions--centered { justify-content: center; margin-top: 40px; }
 
 /* Detail rows (events.jsx:114-120) */
 .details { list-style: none; }
@@ -117,6 +118,8 @@
 .act__grid { display: grid; grid-template-columns: 0.9fr 1.1fr; gap: 80px; align-items: center; }
 .act__grid--mirror { grid-template-columns: 1.1fr 0.9fr; }
 .act__grid--mirror .act__visual { order: 2; }
+.act__grid--single { grid-template-columns: minmax(0, 720px); justify-content: center; }
+.act__grid--single .act__text > p, .act__grid--single .act__text .prose, .act__grid--single .act__text .steps { max-width: none; }
 .act__visual { display: flex; justify-content: center; position: relative; }
 .act__text .headline { margin-bottom: 12px; }
 .act__text > p { font-size: 18px; line-height: 1.65; color: #555; max-width: 540px; margin-bottom: 22px; }

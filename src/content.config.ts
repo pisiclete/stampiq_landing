@@ -96,6 +96,7 @@ const block = z.discriminatedUnion('type', [
     steps: z.array(localized).max(5),
     visual: visual.optional(),
     side,
+    buttons: z.array(button).optional(),
     background,
   }),
   z.object({
@@ -105,6 +106,7 @@ const block = z.discriminatedUnion('type', [
     title: localized,
     items: z.array(localized).max(8),
     columns: z.union([z.literal(1), z.literal(2)]).optional(),
+    buttons: z.array(button).optional(),
     background,
   }),
   z.object({ id: z.string(), type: z.literal('wide-photo'), image: credited, background }),
@@ -127,6 +129,7 @@ const block = z.discriminatedUnion('type', [
     tiles: z
       .array(z.object({ icon: z.string(), title: localized, text: localized }))
       .max(4),
+    buttons: z.array(button).optional(),
     background,
   }),
   z.object({
@@ -145,6 +148,7 @@ const block = z.discriminatedUnion('type', [
     label: localized,
     title: localized,
     rows: z.array(z.object({ label: localized, value: localized })).max(12),
+    buttons: z.array(button).optional(),
     background,
   }),
   z.object({
@@ -157,6 +161,7 @@ const block = z.discriminatedUnion('type', [
     formats: z
       .array(z.object({ format: localized, value: z.string(), number: z.string() })),
     side,
+    buttons: z.array(button).optional(),
     background,
   }),
   z.object({
