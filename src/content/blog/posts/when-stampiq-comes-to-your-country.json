@@ -1,0 +1,1158 @@
+{
+  "category": "feature",
+  "markets": [
+    "CZ",
+    "SK",
+    "IT",
+    "FR",
+    "BE",
+    "RO",
+    "LU",
+    "HU",
+    "DK",
+    "UK",
+    "VA"
+  ],
+  "langs": [
+    "en",
+    "de",
+    "fr",
+    "it",
+    "nl",
+    "cs",
+    "sk",
+    "ro",
+    "hu",
+    "da"
+  ],
+  "published_at": "2026-09-24T18:00:00+00:00",
+  "thumbnail": {
+    "src": "https://assets.stampiq.io/blog/fecef684b5122b90/card-new-countries.jpg",
+    "width": 1600,
+    "height": 572
+  },
+  "languages": {
+    "en": {
+      "slug": "when-stampiq-comes-to-your-country",
+      "title": "When StampIQ comes to your country",
+      "description": "StampIQ opens in eleven more countries between the end of 2026 and early 2027. When yours opens, and what the app does for your collection."
+    },
+    "de": {
+      "slug": "stampiq-in-deinem-land-verfuegbar",
+      "title": "Wenn StampIQ in deinem Land verfügbar wird",
+      "description": "StampIQ startet zwischen Ende 2026 und Anfang 2027 in elf weiteren Ländern. Wann deines dabei ist und was die App für deine Sammlung tut."
+    },
+    "fr": {
+      "slug": "stampiq-bientot-disponible-dans-ton-pays",
+      "title": "Quand StampIQ devient disponible chez toi",
+      "description": "StampIQ ouvre dans onze nouveaux pays entre fin 2026 et début 2027. Quand le tien ouvre, et ce que l'application apporte à ta collection."
+    },
+    "it": {
+      "slug": "stampiq-disponibile-nel-tuo-paese",
+      "title": "Quando StampIQ sarà disponibile nel tuo Paese",
+      "description": "StampIQ apre in altri undici Paesi tra la fine del 2026 e l'inizio del 2027. Quando tocca al tuo e cosa fa l'app per la tua collezione."
+    },
+    "nl": {
+      "slug": "wanneer-stampiq-beschikbaar-wordt-in-jouw-land",
+      "title": "Wanneer StampIQ in jouw land beschikbaar wordt",
+      "description": "StampIQ wordt tussen eind 2026 en begin 2027 in elf landen beschikbaar. Wanneer jouw land aan de beurt is en wat de app voor je verzameling doet."
+    },
+    "pl": {
+      "slug": "when-stampiq-comes-to-your-country",
+      "title": "When StampIQ comes to your country",
+      "description": "StampIQ opens in eleven more countries between the end of 2026 and early 2027. When yours opens, and what the app does for your collection."
+    },
+    "cs": {
+      "slug": "kdy-bude-stampiq-dostupny-u-tebe",
+      "title": "Kdy bude StampIQ dostupný u tebe",
+      "description": "StampIQ se mezi koncem roku 2026 a začátkem roku 2027 otevře v dalších jedenácti zemích. Kdy přijde na řadu ta tvoje a co aplikace udělá pro tvou sbírku."
+    },
+    "sk": {
+      "slug": "kedy-bude-stampiq-dostupny-u-teba",
+      "title": "Kedy bude StampIQ dostupný u teba",
+      "description": "StampIQ sa od konca roka 2026 do začiatku roka 2027 otvorí v ďalších jedenástich krajinách. Kedy sa otvorí tá tvoja a čo aplikácia urobí pre tvoju zbierku."
+    },
+    "ro": {
+      "slug": "cand-stampiq-devine-disponibil-in-tara-ta",
+      "title": "Când StampIQ devine disponibil în țara ta",
+      "description": "StampIQ devine disponibil în încă unsprezece țări între sfârșitul lui 2026 și începutul lui 2027. Când se deschide țara ta și ce poate face aplicația."
+    },
+    "hu": {
+      "slug": "amikor-a-stampiq-elerheto-lesz-nalad",
+      "title": "Amikor a StampIQ elérhető lesz az országodban",
+      "description": "A StampIQ 2026 vége és 2027 eleje között további tizenegy országban indul el. Mikor kerül sorra a tiéd, és mit ad az alkalmazás a gyűjteményednek."
+    },
+    "da": {
+      "slug": "stampiq-bliver-tilgaengelig-i-dit-land",
+      "title": "Når StampIQ bliver tilgængelig i dit land",
+      "description": "StampIQ åbner i elleve lande mere fra slutningen af 2026 til begyndelsen af 2027. Hvornår dit land er med, og hvad appen gør for din samling."
+    }
+  },
+  "header": {
+    "lead": {
+      "en": "You have heard about StampIQ from another collector, and the app is not in your app store yet. This is when it comes to your country, and what changes in your collecting on the day it opens.",
+      "de": "Ein anderer Sammler hat dir von StampIQ erzählt, und in deinem App-Store gibt es die App noch nicht. Hier steht, wann sie in deinem Land verfügbar wird und was sich an diesem Tag für deine Sammlung ändert.",
+      "fr": "Un autre collectionneur t'a parlé de StampIQ, et l'application n'est pas encore disponible dans ta boutique d'applications. Voici quand elle deviendra disponible dans ton pays, et ce qui change dans ta façon de collectionner le jour de l'ouverture.",
+      "it": "Hai sentito parlare di StampIQ da un altro collezionista e nel tuo store l'app ancora non c'è. Qui trovi quando sarà disponibile nel tuo Paese e cosa cambia per la tua collezione dal giorno in cui apre.",
+      "nl": "Een andere verzamelaar heeft je over StampIQ verteld, maar in jouw app store staat de app nog niet. Hier lees je wanneer StampIQ in jouw land beschikbaar wordt en wat er vanaf die dag verandert aan je manier van verzamelen.",
+      "pl": "You have heard about StampIQ from another collector, and the app is not in your app store yet. This is when it comes to your country, and what changes in your collecting on the day it opens.",
+      "cs": "O StampIQ ti řekl jiný sběratel a ve tvém obchodě s aplikacemi ještě není. Tady se dozvíš, kdy bude dostupný ve tvé zemi a co se ti ve sbírání změní v den, kdy se otevře.",
+      "sk": "O StampIQ vieš od iného zberateľa a v tvojom obchode s aplikáciami ho zatiaľ nenájdeš. Tu sa dočítaš, kedy bude dostupný v tvojej krajine a čo sa v tvojom zbieraní zmení v deň, keď sa otvorí.",
+      "ro": "Ai auzit de StampIQ de la un alt colecționar, iar aplicația încă nu apare în magazinul tău de aplicații. Aici afli când devine disponibilă în țara ta și ce se schimbă în felul în care colecționezi din ziua aceea.",
+      "hu": "Egy másik gyűjtőtől hallottál a StampIQ-ról, az alkalmazás viszont még nincs bent a telefonod áruházában. Itt olvashatod, mikor lesz elérhető nálad, és mi változik a gyűjtésedben azon a napon.",
+      "da": "Du har hørt om StampIQ fra en anden samler, og appen ligger endnu ikke i din app-butik. Her kan du se, hvornår den bliver tilgængelig i dit land, og hvad der ændrer sig for din samling den dag, landet åbner."
+    },
+    "visual": {
+      "type": "stamp-fan",
+      "stamps": [
+        {
+          "name": {
+            "en": "Technické památky: Komáří vížka",
+            "de": "Technické památky: Komáří vížka",
+            "fr": "Technické památky: Komáří vížka",
+            "it": "Technické památky: Komáří vížka",
+            "nl": "Technické památky: Komáří vížka",
+            "pl": "Technické památky: Komáří vížka",
+            "cs": "Technické památky: Komáří vížka",
+            "sk": "Technické památky: Komáří vížka",
+            "ro": "Technické památky: Komáří vížka",
+            "hu": "Technické památky: Komáří vížka",
+            "da": "Technické památky: Komáří vížka"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/b3487d44196c9042/cz-komari-vizka.jpg",
+            "width": 609,
+            "height": 1000
+          },
+          "country": "CZ",
+          "stamp_id": "CZ-2026-komari-vizka"
+        },
+        {
+          "name": {
+            "en": "Skalický trdelník",
+            "de": "Skalický trdelník",
+            "fr": "Skalický trdelník",
+            "it": "Skalický trdelník",
+            "nl": "Skalický trdelník",
+            "pl": "Skalický trdelník",
+            "cs": "Skalický trdelník",
+            "sk": "Skalický trdelník",
+            "ro": "Skalický trdelník",
+            "hu": "Skalický trdelník",
+            "da": "Skalický trdelník"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/2357d2c75dcff8f2/sk-skalicky-trdelnik.png",
+            "width": 810,
+            "height": 554
+          },
+          "country": "SK",
+          "stamp_id": "SK-2026-skalicky-trdelnik"
+        },
+        {
+          "name": {
+            "en": "Claudia Cardinale",
+            "de": "Claudia Cardinale",
+            "fr": "Claudia Cardinale",
+            "it": "Claudia Cardinale",
+            "nl": "Claudia Cardinale",
+            "pl": "Claudia Cardinale",
+            "cs": "Claudia Cardinale",
+            "sk": "Claudia Cardinale",
+            "ro": "Claudia Cardinale",
+            "hu": "Claudia Cardinale",
+            "da": "Claudia Cardinale"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/214728c7d6e4bb16/it-claudia-cardinale.jpg",
+            "width": 756,
+            "height": 992
+          },
+          "country": "IT",
+          "stamp_id": "IT-2026-claudia-cardinale"
+        },
+        {
+          "name": {
+            "en": "400 ans Jardin des Plantes",
+            "de": "400 ans Jardin des Plantes",
+            "fr": "400 ans Jardin des Plantes",
+            "it": "400 ans Jardin des Plantes",
+            "nl": "400 ans Jardin des Plantes",
+            "pl": "400 ans Jardin des Plantes",
+            "cs": "400 ans Jardin des Plantes",
+            "sk": "400 ans Jardin des Plantes",
+            "ro": "400 ans Jardin des Plantes",
+            "hu": "400 ans Jardin des Plantes",
+            "da": "400 ans Jardin des Plantes"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/450ce9f3276ddcc2/fr-jardin-des-plantes.jpg",
+            "width": 356,
+            "height": 484
+          },
+          "country": "FR",
+          "stamp_id": "FR-2026-jardin-des-plantes"
+        }
+      ]
+    },
+    "buttons": [
+      {
+        "href": "/waitlist",
+        "label": {
+          "en": "Put me on the list",
+          "de": "Auf die Liste setzen",
+          "fr": "Inscris-moi sur la liste",
+          "it": "Iscrivimi alla lista",
+          "nl": "Zet mij op de lijst",
+          "pl": "Put me on the list",
+          "cs": "Chci na seznam",
+          "sk": "Chcem byť na zozname",
+          "ro": "Adaugă-mă pe listă",
+          "hu": "Kérek értesítést",
+          "da": "Skriv mig på listen"
+        },
+        "primary": true
+      }
+    ]
+  },
+  "blocks": [
+    {
+      "id": "where",
+      "type": "text",
+      "label": {
+        "en": "Where you are",
+        "de": "Deine Lage",
+        "fr": "Où tu en es",
+        "it": "Il tuo punto di partenza",
+        "nl": "Waar je staat",
+        "pl": "Where you are",
+        "cs": "Kde jsi",
+        "sk": "Kde si",
+        "ro": "Unde ești acum",
+        "hu": "Ahol most tartasz",
+        "da": "Din situation"
+      },
+      "title": {
+        "en": "The app you cannot download yet",
+        "de": "Die App, die du noch nicht laden kannst",
+        "fr": "L'application que tu ne peux pas encore télécharger",
+        "it": "L'app che non puoi ancora scaricare",
+        "nl": "De app die je nog niet kunt downloaden",
+        "pl": "The app you cannot download yet",
+        "cs": "Aplikace, kterou si zatím nestáhneš",
+        "sk": "Aplikácia, ktorú si zatiaľ nestiahneš",
+        "ro": "Aplicația pe care încă nu o poți descărca",
+        "hu": "Az alkalmazás, amit még nem tudsz letölteni",
+        "da": "Appen, du endnu ikke kan hente"
+      },
+      "visual": {
+        "type": "animation",
+        "animation": {
+          "src": "https://assets.stampiq.io/blog/8085372cf8c6cc96/collection-switzerland.mp4",
+          "width": 960,
+          "height": 1706,
+          "poster": "https://assets.stampiq.io/blog/eff6219dde24b444/collection-switzerland.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "You are at a stamp fair or at a club evening, and a collector from Germany or Austria shows you something on their phone. They put a stamp on the table, take a photo, and the app shows which stamp it is and whether it is already in their collection. Then they open their collection and show you the country, the stamps they own and the stamps they are still missing. You want to try it with your own stamps.",
+          "de": "Du bist auf einer Briefmarkenbörse oder beim Vereinsabend, und ein Sammler aus Deutschland oder Österreich zeigt dir etwas auf seinem Handy. Er legt eine Briefmarke auf den Tisch, macht ein Foto, und die App zeigt, welche Marke das ist und ob er sie schon hat. Dann öffnet er seine Sammlung und zeigt dir das Land, die Marken, die er besitzt, und die, die ihm noch fehlen. Du willst das mit deinen eigenen Marken ausprobieren.",
+          "fr": "Tu es à une bourse aux timbres ou à une soirée de club, et un collectionneur venu d'Allemagne ou d'Autriche te montre quelque chose sur son téléphone. Il pose un timbre sur la table, le photographie, et l'application affiche de quel timbre il s'agit et s'il figure déjà dans sa collection. Il ouvre ensuite sa collection et te montre le pays, les timbres qu'il possède et ceux qui lui manquent encore. Tu as envie d'essayer avec tes propres timbres.",
+          "it": "Sei a una fiera filatelica o a una serata del club e un collezionista tedesco o austriaco ti mostra qualcosa sul telefono. Appoggia un francobollo sul tavolo, scatta una foto e l'app dice di quale francobollo si tratta e se è già nella sua collezione. Poi apre la collezione e ti fa vedere il Paese, i francobolli che possiede e quelli che gli mancano. Ti viene voglia di provarla sui tuoi francobolli.",
+          "nl": "Je staat op een postzegelbeurs of op een clubavond en een verzamelaar uit Duitsland of Oostenrijk laat je iets op de telefoon zien. Er gaat een postzegel op tafel, er wordt een foto gemaakt en de app laat zien welke postzegel het is en of die al in de verzameling zit. Daarna gaat de verzameling open en zie je het land, de zegels die er al zijn en de zegels die nog ontbreken. Je wilt het meteen met je eigen zegels proberen.",
+          "pl": "You are at a stamp fair or at a club evening, and a collector from Germany or Austria shows you something on their phone. They put a stamp on the table, take a photo, and the app shows which stamp it is and whether it is already in their collection. Then they open their collection and show you the country, the stamps they own and the stamps they are still missing. You want to try it with your own stamps.",
+          "cs": "Jsi na burze nebo na klubovém večeru a sběratel z Německa nebo z Rakouska ti něco ukazuje na telefonu. Položí známku na stůl, vyfotí ji a aplikace ukáže, o kterou známku jde a jestli ji už ve sbírce má. Potom otevře svou sbírku a ukáže ti zemi, známky, které vlastní, a známky, které mu ještě chybí. Chceš si to zkusit na svých známkách.",
+          "sk": "Si na burze známok alebo na klubovom večere a zberateľ z Nemecka či Rakúska ti niečo ukazuje na telefóne. Položí známku na stôl, odfotí ju a aplikácia ukáže, o ktorú známku ide a či ju už má v zbierke. Potom otvorí svoju zbierku a ukáže ti krajinu, známky, ktoré vlastní, aj tie, ktoré mu ešte chýbajú. Chceš to vyskúšať s vlastnými známkami.",
+          "ro": "Ești la un târg de timbre sau la o seară de club și un colecționar din Germania sau Austria îți arată ceva pe telefon. Pune un timbru pe masă, îl fotografiază, iar aplicația îi spune ce timbru este și dacă îl are deja în colecție. Apoi deschide colecția și îți arată țara, timbrele pe care le are și cele care îi lipsesc. Vrei să încerci și tu, cu timbrele tale.",
+          "hu": "Bélyegbörzén vagy klubesten ülsz, és egy német vagy osztrák gyűjtő mutat valamit a telefonján. Letesz az asztalra egy bélyeget, lefotózza, az alkalmazás pedig megmondja, melyik bélyegről van szó, és hogy megvan-e már a gyűjteményében. Utána megnyitja a gyűjteményét, és megmutatja az országot, a meglévő bélyegeket és azokat, amelyek még hiányoznak. Ki akarod próbálni a saját bélyegeiden.",
+          "da": "Du er til en frimærkemesse eller en klubaften, og en samler fra Tyskland eller Østrig viser dig noget på sin telefon. Samleren lægger et frimærke på bordet, tager et billede, og appen viser, hvilket frimærke det er, og om det allerede står i samlingen. Bagefter åbnes samlingen, og du ser landet, de frimærker, samleren har, og dem, der stadig mangler. Du får lyst til at prøve det med dine egne frimærker."
+        },
+        {
+          "en": "You open the App Store or Google Play, search for StampIQ, and it is not there. The app is only available in the countries where we have finished the catalogue: Switzerland, Liechtenstein, Germany, Austria, the Netherlands and Poland. In any other country, the app would recognise the stamps of your neighbours and not your own, so it is only in the stores where your own stamps are recognised.",
+          "de": "Du öffnest den App Store oder Google Play, suchst nach StampIQ, und da ist nichts. Die App gibt es nur in den Ländern, für die wir den Katalog fertig haben: Schweiz, Liechtenstein, Deutschland, Österreich, Niederlande und Polen. In jedem anderen Land würde sie die Marken deiner Nachbarn erkennen und deine eigenen nicht, deshalb steht sie nur dort in den Stores, wo deine eigenen Marken erkannt werden.",
+          "fr": "Tu ouvres l'App Store ou Google Play, tu cherches StampIQ, et l'application n'y est pas. Elle n'est proposée que dans les pays dont le catalogue est terminé : la Suisse, le Liechtenstein, l'Allemagne, l'Autriche, les Pays-Bas et la Pologne. Ailleurs, elle reconnaîtrait les timbres de tes voisins et pas les tiens, alors elle reste dans les boutiques où tes propres timbres sont reconnus.",
+          "it": "Apri l'App Store o Google Play, cerchi StampIQ e non lo trovi. L'app è disponibile solo nei Paesi di cui abbiamo completato il catalogo: Svizzera, Liechtenstein, Germania, Austria, Paesi Bassi e Polonia. Altrove riconoscerebbe i francobolli dei vicini e non i tuoi, quindi la pubblichiamo negli store dove i francobolli di casa vengono riconosciuti.",
+          "nl": "Je opent de App Store of Google Play, zoekt op StampIQ en je vindt niets. De app staat alleen in de landen waar we de catalogus af hebben: Zwitserland, Liechtenstein, Duitsland, Oostenrijk, Nederland en Polen. In een ander land zou de app de zegels van de buurlanden herkennen en die van jou niet, en daarom staat hij alleen in de stores waar je eigen zegels herkend worden.",
+          "pl": "You open the App Store or Google Play, search for StampIQ, and it is not there. The app is only available in the countries where we have finished the catalogue: Switzerland, Liechtenstein, Germany, Austria, the Netherlands and Poland. In any other country, the app would recognise the stamps of your neighbours and not your own, so it is only in the stores where your own stamps are recognised.",
+          "cs": "Otevřeš App Store nebo Google Play, hledáš StampIQ a nenajdeš ho. Aplikace je k dispozici jen v zemích, kde máme hotový katalog: ve Švýcarsku, v Lichtenštejnsku, v Německu, v Rakousku, v Nizozemsku a v Polsku. Jinde by rozpoznávala známky sousedů, a ne ty tvoje, proto je v obchodech jen tam, kde umí rozpoznat známky dané země.",
+          "sk": "Otvoríš App Store alebo Google Play, vyhľadáš StampIQ a nenájdeš nič. Aplikácia je dostupná len v krajinách, pre ktoré máme hotový katalóg: Švajčiarsko, Lichtenštajnsko, Nemecko, Rakúsko, Holandsko a Poľsko. V inej krajine by rozpoznávala známky susedov a nie tie tvoje, preto je v obchodoch len tam, kde sa tvoje vlastné známky rozpoznajú.",
+          "ro": "Deschizi App Store sau Google Play, cauți StampIQ și nu îl găsești. Aplicația există doar în țările pentru care am terminat catalogul: Elveția, Liechtenstein, Germania, Austria, Olanda și Polonia. În altă țară ar recunoaște timbrele vecinilor, nu pe ale tale, așa că o publicăm doar acolo unde timbrele tale sunt recunoscute.",
+          "hu": "Megnyitod az App Store-t vagy a Google Play-t, rákeresel a StampIQ névre, és nincs találat. Az alkalmazás egyelőre csak azokban az országokban érhető el, ahol elkészült a katalógus: Svájcban, Liechtensteinben, Németországban, Ausztriában, Hollandiában és Lengyelországban. Máshol a szomszédok bélyegeit ismerné fel, a tiédet nem, ezért csak ott van bent az áruházban, ahol a saját bélyegeidet is azonosítja.",
+          "da": "Du åbner App Store eller Google Play, søger efter StampIQ, og appen er der ikke. Den findes kun i de lande, hvor vi har gjort kataloget færdigt: Schweiz, Liechtenstein, Tyskland, Østrig, Nederlandene og Polen. I andre lande ville appen genkende nabolandenes frimærker og ikke dine egne, så den ligger kun i de butikker, hvor dine egne frimærker bliver genkendt."
+        }
+      ]
+    },
+    {
+      "id": "paper",
+      "type": "text",
+      "label": {
+        "en": "Until now",
+        "de": "Bisher",
+        "fr": "Jusqu'ici",
+        "it": "Come funziona oggi",
+        "nl": "Tot nu toe",
+        "pl": "Until now",
+        "cs": "Dosud",
+        "sk": "Doteraz",
+        "ro": "Până acum",
+        "hu": "Eddig",
+        "da": "Sådan er det nu"
+      },
+      "title": {
+        "en": "Your collection on paper",
+        "de": "Deine Sammlung auf Papier",
+        "fr": "Ta collection sur papier",
+        "it": "La collezione sulla carta",
+        "nl": "Je verzameling op papier",
+        "pl": "Your collection on paper",
+        "cs": "Sbírka na papíře",
+        "sk": "Zbierka na papieri",
+        "ro": "Colecția ta pe hârtie",
+        "hu": "A gyűjteményed papíron",
+        "da": "Din samling på papir"
+      },
+      "paragraphs": [
+        {
+          "en": "When you get a stamp you do not know, you take the catalogue from the shelf, find the country and the right years, and compare small pictures until one matches. Then you check the perforation and the watermark, because the design alone is often not enough.",
+          "de": "Wenn du eine Marke bekommst, die du nicht kennst, holst du den Katalog aus dem Regal, suchst das Land und die passenden Jahre und vergleichst kleine Abbildungen, bis eine passt. Danach prüfst du Zähnung und Wasserzeichen, denn das Motiv allein reicht oft nicht.",
+          "fr": "Quand tu reçois un timbre que tu ne connais pas, tu prends le catalogue sur l'étagère, tu cherches le pays et les bonnes années, et tu compares de petites images jusqu'à en trouver une qui correspond. Ensuite tu vérifies la dentelure et le filigrane, parce que le dessin seul ne suffit souvent pas.",
+          "it": "Quando ti arriva un francobollo che non conosci, prendi il catalogo dallo scaffale, cerchi il Paese e gli anni giusti e confronti figure piccolissime finché una corrisponde. Poi controlli la dentellatura e la filigrana, perché spesso il disegno da solo non basta.",
+          "nl": "Krijg je een postzegel die je niet kent, dan pak je de catalogus van de plank, zoek je het land en de juiste jaren op en vergelijk je kleine afbeeldingen tot er één klopt. Daarna controleer je de tanding en het watermerk, want alleen de tekening is vaak niet genoeg.",
+          "pl": "When you get a stamp you do not know, you take the catalogue from the shelf, find the country and the right years, and compare small pictures until one matches. Then you check the perforation and the watermark, because the design alone is often not enough.",
+          "cs": "Když dostaneš známku, kterou neznáš, sundáš z police katalog, najdeš zemi a správné roky a porovnáváš malé obrázky, dokud jeden nesedí. Pak zkontroluješ zoubkování a průsvitku, protože samotný obrázek často nestačí.",
+          "sk": "Keď dostaneš známku, ktorú nepoznáš, vezmeš z police katalóg, nalistuješ krajinu a správne roky a porovnávaš malé obrázky dovtedy, kým jeden nesedí. Potom skontroluješ zúbkovanie a priesvitku, lebo samotný obrazec často nestačí.",
+          "ro": "Când îți intră în mână un timbru pe care nu îl cunoști, iei catalogul din raft, cauți țara și anii potriviți și compari poze mici până când una se potrivește. Apoi verifici dantelura și filigranul, pentru că desenul singur de multe ori nu ajunge.",
+          "hu": "Ha ismeretlen bélyeg kerül a kezedbe, leveszed a polcról a katalógust, megkeresed az országot és a megfelelő éveket, aztán addig hasonlítgatod a kis képeket, amíg az egyik egyezik. Ezután megnézed a fogazást és a vízjelet is, mert a kép önmagában sokszor kevés.",
+          "da": "Når du får et frimærke, du ikke kender, henter du kataloget ned fra hylden, finder landet og de rigtige årgange og sammenligner små billeder, indtil et af dem passer. Derefter tjekker du takning og vandmærke, for motivet alene er ofte ikke nok."
+        },
+        {
+          "en": "The list of what you own lives in the album itself, in a notebook or in a spreadsheet that you update when you have time. Before a fair you write down the numbers you are still missing and take that list with you. At the dealer's table you compare the stamp with the list, and when the list does not help, you decide from memory.",
+          "de": "Was du besitzt, steht im Album selbst, in einem Heft oder in einer Tabelle, die du aktualisierst, wenn du Zeit hast. Vor einer Börse schreibst du dir die Nummern auf, die dir noch fehlen, und nimmst den Zettel mit. Am Händlertisch vergleichst du die Marke mit deiner Liste, und wenn die Liste nicht weiterhilft, entscheidest du aus dem Gedächtnis.",
+          "fr": "La liste de ce que tu possèdes vit dans l'album lui-même, dans un carnet ou dans un tableur que tu mets à jour quand tu as le temps. Avant une bourse, tu notes les numéros qui te manquent encore et tu emportes cette liste. Chez le marchand, tu compares le timbre avec ta liste, et quand la liste ne t'aide pas, tu décides de mémoire.",
+          "it": "L'elenco di quello che possiedi sta nell'album stesso, su un quaderno o in un foglio di calcolo che aggiorni quando hai tempo. Prima di una fiera segni i numeri che ti mancano e ti porti dietro la lista. Al banco del commerciante confronti il francobollo con la lista e, quando la lista non basta, decidi a memoria.",
+          "nl": "Wat je hebt, staat in het album zelf, in een schrift of in een spreadsheet die je bijwerkt als je tijd hebt. Voor een beurs schrijf je de nummers op die je nog mist en die lijst neem je mee. Aan de tafel van de handelaar leg je de zegel naast de lijst, en helpt de lijst niet, dan beslis je uit je hoofd.",
+          "pl": "The list of what you own lives in the album itself, in a notebook or in a spreadsheet that you update when you have time. Before a fair you write down the numbers you are still missing and take that list with you. At the dealer's table you compare the stamp with the list, and when the list does not help, you decide from memory.",
+          "cs": "Seznam toho, co máš, žije v albu samotném, v sešitě nebo v tabulce, kterou aktualizuješ, když máš čas. Před burzou si vypíšeš čísla, která ti ještě chybí, a seznam si vezmeš s sebou. U stolu obchodníka porovnáváš známku se seznamem, a když ti seznam nepomůže, rozhoduješ se po paměti.",
+          "sk": "Zoznam toho, čo máš, je v samotnom albume, v zošite alebo v tabuľke, ktorú si dopĺňaš, keď máš čas. Pred burzou si vypíšeš čísla, ktoré ti ešte chýbajú, a zoznam si vezmeš so sebou. Pri stole obchodníka porovnávaš známku so zoznamom, a keď zoznam nepomôže, rozhoduješ sa podľa pamäti.",
+          "ro": "Evidența timbrelor pe care le ai o ții în album, într-un caiet sau într-un tabel pe care îl completezi când ai timp. Înainte de un târg notezi numerele care îți lipsesc și iei lista cu tine. La standul comerciantului compari timbrul cu lista, iar când lista nu te ajută, te decizi din memorie.",
+          "hu": "Az, hogy mi van meg, magában az albumban, egy füzetben vagy egy táblázatban él, amit akkor frissítesz, amikor van rá időd. Börze előtt felírod a még hiányzó számokat, és azt a listát viszed magaddal. A kereskedő asztalánál összeveted a bélyeget a listával, és ha a lista nem segít, emlékezetből döntesz.",
+          "da": "Oversigten over, hvad du har, ligger i albummet selv, i en notesbog eller i et regneark, som du opdaterer, når du har tid. Før en messe skriver du de numre ned, du stadig mangler, og tager listen med. Ved forhandlerens bord holder du frimærket op mod listen, og når listen ikke hjælper, må du bestemme dig ud fra hukommelsen."
+        },
+        {
+          "en": "Any tool that could help you would first need to know what you already own. That is years of albums, and typing them into a computer stamp by stamp is work that takes months.",
+          "de": "Jede Software, die dir dabei helfen könnte, müsste zuerst wissen, was du schon hast. Das sind Alben aus vielen Jahren, und sie Marke für Marke in den Computer zu tippen, ist Arbeit für Monate.",
+          "fr": "Un outil capable de t'aider devrait d'abord savoir ce que tu possèdes déjà. Cela représente des années d'albums, et les saisir timbre par timbre dans un ordinateur demande des mois de travail.",
+          "it": "Qualsiasi strumento che voglia aiutarti deve prima sapere cosa hai già. Sono anni di album, e inserirli in un computer un francobollo alla volta è un lavoro di mesi.",
+          "nl": "Elk hulpmiddel dat je daarbij zou kunnen helpen, moet eerst weten wat je al hebt. Dat zijn jaren aan albums, en die zegel voor zegel in een computer typen kost maanden.",
+          "pl": "Any tool that could help you would first need to know what you already own. That is years of albums, and typing them into a computer stamp by stamp is work that takes months.",
+          "cs": "Každý program, který by ti měl pomoct, by nejdřív musel vědět, co už máš. To jsou roky alb a přepisovat je do počítače známku po známce je práce na měsíce.",
+          "sk": "Každá funkcia, ktorá by ti mohla pomôcť, by najprv musela vedieť, čo už vlastníš. To sú roky albumov a prepisovať ich do počítača známku po známke je práca na mesiace.",
+          "ro": "Orice program care te-ar putea ajuta ar trebui să știe mai întâi ce ai deja. Sunt ani întregi de albume, iar introducerea lor în calculator, timbru cu timbru, este o muncă de câteva luni.",
+          "hu": "Bármilyen eszköznek, ami ebben segíthetne, először tudnia kellene, mi van már meg neked. Az évek alatt összegyűlt albumokat pedig bélyegenként bevinni a gépbe hónapokig tartó munka.",
+          "da": "Et værktøj, der skal hjælpe dig, er nødt til først at vide, hvad du allerede har. Det er mange års album, og at taste dem ind i en computer, frimærke for frimærke, er et arbejde, der tager måneder."
+        }
+      ]
+    },
+    {
+      "id": "why",
+      "type": "text",
+      "label": {
+        "en": "Why it takes time",
+        "de": "Warum es dauert",
+        "fr": "Pourquoi cela prend du temps",
+        "it": "I tempi di lavorazione",
+        "nl": "Waarom het tijd kost",
+        "pl": "Why it takes time",
+        "cs": "Proč to trvá",
+        "sk": "Prečo to trvá",
+        "ro": "De ce durează",
+        "hu": "Miért tart ennyi ideig",
+        "da": "Hvorfor det tager tid"
+      },
+      "title": {
+        "en": "Building a catalogue country by country",
+        "de": "Ein Katalog pro Land",
+        "fr": "Un catalogue pays par pays",
+        "it": "Un catalogo costruito Paese per Paese",
+        "nl": "Een catalogus per land opbouwen",
+        "pl": "Building a catalogue country by country",
+        "cs": "Katalog vzniká zemi po zemi",
+        "sk": "Katalóg krajina po krajine",
+        "ro": "Un catalog construit țară cu țară",
+        "hu": "Katalógusépítés országonként",
+        "da": "Et katalog bliver til, land for land"
+      },
+      "paragraphs": [
+        {
+          "en": "We source the stamps for each country ourselves until we have the issues of the whole country, and we scan every one of them. Then we write the catalogue: for each stamp the year, the design, the face value, the series and the variants, researched from the stamps and from the philatelic literature. We check every entry before a country opens.",
+          "de": "Wir kaufen die Marken für jedes Land selbst zusammen, bis wir die Ausgaben des ganzen Landes haben, und scannen jede einzelne davon. Danach schreiben wir den Katalog: zu jeder Marke das Jahr, das Motiv, den Nennwert, die Serie und die Varianten, recherchiert an den Marken selbst und in der philatelistischen Literatur. Jeden Eintrag prüfen wir, bevor ein Land startet.",
+          "fr": "Pour chaque pays, nous achetons nous-mêmes les timbres jusqu'à réunir toutes les émissions du pays, et nous les scannons un par un. Nous rédigeons ensuite le catalogue : pour chaque timbre, l'année, le dessin, la valeur faciale, la série et les variantes, d'après les timbres eux-mêmes et la littérature philatélique. Chaque entrée est vérifiée avant l'ouverture d'un pays.",
+          "it": "Per ogni Paese acquistiamo i francobolli finché non abbiamo tutte le emissioni, e li scansioniamo uno per uno. Poi scriviamo il catalogo: per ogni francobollo l'anno, il disegno, il valore nominale, la serie e le varianti, studiati sui pezzi e sulla letteratura filatelica. Prima dell'apertura di un Paese controlliamo ogni scheda.",
+          "nl": "We kopen de zegels van elk land zelf tot we alle uitgiften van dat land hebben, en we scannen ze allemaal. Daarna schrijven we de catalogus: per zegel het jaar, de tekening, de nominale waarde, de serie en de varianten, uitgezocht aan de hand van de zegels zelf en van de filatelistische literatuur. Elke vermelding wordt gecontroleerd voordat een land opengaat.",
+          "pl": "We source the stamps for each country ourselves until we have the issues of the whole country, and we scan every one of them. Then we write the catalogue: for each stamp the year, the design, the face value, the series and the variants, researched from the stamps and from the philatelic literature. We check every entry before a country opens.",
+          "cs": "Známky pro každou zemi sami nakupujeme, dokud nemáme vydání celé země, a každou z nich naskenujeme. Pak píšeme katalog: u každé známky rok, motiv, nominální hodnotu, sérii a varianty, zjištěné ze známek a z filatelistické literatury. Než se země otevře, zkontrolujeme každý záznam.",
+          "sk": "Známky pre každú krajinu zháňame sami, kým nemáme vydania celej krajiny, a každú jednu naskenujeme. Potom píšeme katalóg: pri každej známke rok, motív, nominálnu hodnotu, sériu a varianty, spracované zo samotných známok a z filatelistickej literatúry. Každý záznam skontrolujeme ešte predtým, ako sa krajina otvorí.",
+          "ro": "Pentru fiecare țară cumpărăm noi timbrele, până când avem toate emisiunile țării, și le scanăm pe toate. Apoi scriem catalogul: pentru fiecare timbru anul, desenul, valoarea nominală, seria și variantele, documentate după timbre și după literatura filatelică. Verificăm fiecare intrare înainte ca o țară să se deschidă.",
+          "hu": "Minden országhoz magunk szerezzük be a bélyegeket, amíg együtt nincs az ország teljes kibocsátása, és mindegyiket beszkenneljük. Utána megírjuk a katalógust: bélyegenként az évet, a képet, a névértéket, a sorozatot és a változatokat, magukból a bélyegekből és a filatéliai szakirodalomból kutatva. Minden tételt ellenőrzünk, mielőtt egy ország elindul.",
+          "da": "Vi køber selv frimærkerne til hvert land, indtil vi har hele landets udgivelser, og vi scanner dem alle sammen. Derefter skriver vi kataloget: for hvert frimærke året, motivet, den pålydende værdi, serien og varianterne, som vi finder frem til ud fra frimærkerne selv og den filatelistiske litteratur. Hver eneste post bliver kontrolleret, før et land åbner."
+        },
+        {
+          "en": "When a catalogue is finished, SigiVision, our recognition system, has to learn it. We retrain it with the scans of the new country, so that it can tell the new stamps apart from each other and from the stamps it already knows. A country opens only when the recognition works for all of its stamps.",
+          "de": "Ist ein Katalog fertig, muss SigiVision, unsere Erkennung, ihn lernen. Wir trainieren sie mit den Scans des neuen Landes neu, damit sie die neuen Marken voneinander und von den bereits bekannten unterscheidet. Ein Land startet erst, wenn die Erkennung für alle seine Marken funktioniert.",
+          "fr": "Une fois le catalogue terminé, SigiVision, notre technologie de reconnaissance, doit l'apprendre. Nous la réentraînons avec les scans du nouveau pays, pour qu'elle distingue les nouveaux timbres entre eux et de ceux qu'elle connaît déjà. Un pays n'ouvre que lorsque la reconnaissance fonctionne pour l'ensemble de ses timbres.",
+          "it": "Quando un catalogo è pronto, SigiVision, la nostra tecnologia di riconoscimento, deve impararlo. La riaddestriamo con le scansioni del nuovo Paese, in modo che sappia distinguere i francobolli nuovi tra loro e da quelli che già conosce. Un Paese apre solo quando il riconoscimento funziona su tutti i suoi francobolli.",
+          "nl": "Is een catalogus klaar, dan moet SigiVision, onze herkenning, hem leren. We trainen die opnieuw met de scans van het nieuwe land, zodat de nieuwe zegels van elkaar en van de al bekende zegels te onderscheiden zijn. Een land gaat pas open als de herkenning voor al zijn zegels werkt.",
+          "pl": "When a catalogue is finished, SigiVision, our recognition system, has to learn it. We retrain it with the scans of the new country, so that it can tell the new stamps apart from each other and from the stamps it already knows. A country opens only when the recognition works for all of its stamps.",
+          "cs": "Když je katalog hotový, musí se ho naučit SigiVision, naše rozpoznávání. Doučíme ho na skenech nové země, aby dokázal nové známky rozlišit mezi sebou i od těch, které už zná. Země se otevře až tehdy, když rozpoznávání funguje u všech jejích známek.",
+          "sk": "Keď je katalóg hotový, musí sa ho naučiť SigiVision, naše rozpoznávanie. Pretrénujeme ho so skenmi novej krajiny, aby vedel odlíšiť nové známky medzi sebou aj od tých, ktoré už pozná. Krajina sa otvorí až vtedy, keď rozpoznávanie funguje pre všetky jej známky.",
+          "ro": "Când un catalog este gata, SigiVision, tehnologia noastră de recunoaștere, trebuie să îl învețe. O reantrenăm cu scanările din noua țară, ca să deosebească timbrele noi între ele și de cele pe care le știe deja. O țară se deschide abia atunci când recunoașterea funcționează pentru toate timbrele ei.",
+          "hu": "Amikor elkészül egy katalógus, a felismerő rendszerünknek, a SigiVisionnek meg kell tanulnia. Az új ország szkenjeivel tanítjuk újra, hogy az új bélyegeket meg tudja különböztetni egymástól és a korábban ismertektől. Egy ország csak akkor indul el, amikor a felismerés az összes bélyegénél működik.",
+          "da": "Når et katalog er færdigt, skal SigiVision, vores genkendelsesteknologi, lære det. Vi træner den op igen med scanningerne fra det nye land, så den kan skelne de nye frimærker fra hinanden og fra dem, den kender i forvejen. Et land åbner først, når genkendelsen virker på alle landets frimærker."
+        },
+        {
+          "en": "For the eleven countries below, all the stamps have been bought, and we are working on their catalogues.",
+          "de": "Für die elf Länder unten sind alle Marken gekauft, und wir arbeiten an ihren Katalogen.",
+          "fr": "Pour les onze pays ci-dessous, tous les timbres ont été achetés et nous travaillons sur leurs catalogues.",
+          "it": "Per gli undici Paesi qui sotto i francobolli sono già stati acquistati e stiamo lavorando ai cataloghi.",
+          "nl": "Voor de elf landen hieronder zijn alle zegels gekocht en werken we aan de catalogi.",
+          "pl": "For the eleven countries below, all the stamps have been bought, and we are working on their catalogues.",
+          "cs": "U jedenácti zemí níže jsou všechny známky nakoupené a pracujeme na jejich katalozích.",
+          "sk": "Pri jedenástich krajinách v zozname nižšie sú už všetky známky nakúpené a pracujeme na ich katalógoch.",
+          "ro": "Pentru cele unsprezece țări de mai jos timbrele sunt deja cumpărate, iar acum lucrăm la cataloagele lor.",
+          "hu": "Az alábbi tizenegy országnál az összes bélyeget megvettük, és a katalógusukon dolgozunk.",
+          "da": "For de elleve lande herunder har vi købt alle frimærkerne, og vi arbejder på kataloget for hvert af dem."
+        }
+      ]
+    },
+    {
+      "id": "timeline",
+      "rows": [
+        {
+          "label": {
+            "en": "Czechia",
+            "de": "Tschechien",
+            "fr": "Tchéquie",
+            "it": "Cechia",
+            "nl": "Tsjechië",
+            "pl": "Czechia",
+            "cs": "Česko",
+            "sk": "Česko",
+            "ro": "Cehia",
+            "hu": "Csehország",
+            "da": "Tjekkiet"
+          },
+          "value": {
+            "en": "End of 2026",
+            "de": "Ende 2026",
+            "fr": "Fin 2026",
+            "it": "Fine 2026",
+            "nl": "Eind 2026",
+            "pl": "End of 2026",
+            "cs": "Konec roku 2026",
+            "sk": "Koniec roka 2026",
+            "ro": "Sfârșitul lui 2026",
+            "hu": "2026 vége",
+            "da": "Slutningen af 2026"
+          }
+        },
+        {
+          "label": {
+            "en": "Slovakia",
+            "de": "Slowakei",
+            "fr": "Slovaquie",
+            "it": "Slovacchia",
+            "nl": "Slowakije",
+            "pl": "Slovakia",
+            "cs": "Slovensko",
+            "sk": "Slovensko",
+            "ro": "Slovacia",
+            "hu": "Szlovákia",
+            "da": "Slovakiet"
+          },
+          "value": {
+            "en": "End of 2026",
+            "de": "Ende 2026",
+            "fr": "Fin 2026",
+            "it": "Fine 2026",
+            "nl": "Eind 2026",
+            "pl": "End of 2026",
+            "cs": "Konec roku 2026",
+            "sk": "Koniec roka 2026",
+            "ro": "Sfârșitul lui 2026",
+            "hu": "2026 vége",
+            "da": "Slutningen af 2026"
+          }
+        },
+        {
+          "label": {
+            "en": "Italy",
+            "de": "Italien",
+            "fr": "Italie",
+            "it": "Italia",
+            "nl": "Italië",
+            "pl": "Italy",
+            "cs": "Itálie",
+            "sk": "Taliansko",
+            "ro": "Italia",
+            "hu": "Olaszország",
+            "da": "Italien"
+          },
+          "value": {
+            "en": "End of 2026",
+            "de": "Ende 2026",
+            "fr": "Fin 2026",
+            "it": "Fine 2026",
+            "nl": "Eind 2026",
+            "pl": "End of 2026",
+            "cs": "Konec roku 2026",
+            "sk": "Koniec roka 2026",
+            "ro": "Sfârșitul lui 2026",
+            "hu": "2026 vége",
+            "da": "Slutningen af 2026"
+          }
+        },
+        {
+          "label": {
+            "en": "France",
+            "de": "Frankreich",
+            "fr": "France",
+            "it": "Francia",
+            "nl": "Frankrijk",
+            "pl": "France",
+            "cs": "Francie",
+            "sk": "Francúzsko",
+            "ro": "Franța",
+            "hu": "Franciaország",
+            "da": "Frankrig"
+          },
+          "value": {
+            "en": "End of 2026",
+            "de": "Ende 2026",
+            "fr": "Fin 2026",
+            "it": "Fine 2026",
+            "nl": "Eind 2026",
+            "pl": "End of 2026",
+            "cs": "Konec roku 2026",
+            "sk": "Koniec roka 2026",
+            "ro": "Sfârșitul lui 2026",
+            "hu": "2026 vége",
+            "da": "Slutningen af 2026"
+          }
+        },
+        {
+          "label": {
+            "en": "Belgium",
+            "de": "Belgien",
+            "fr": "Belgique",
+            "it": "Belgio",
+            "nl": "België",
+            "pl": "Belgium",
+            "cs": "Belgie",
+            "sk": "Belgicko",
+            "ro": "Belgia",
+            "hu": "Belgium",
+            "da": "Belgien"
+          },
+          "value": {
+            "en": "End of 2026",
+            "de": "Ende 2026",
+            "fr": "Fin 2026",
+            "it": "Fine 2026",
+            "nl": "Eind 2026",
+            "pl": "End of 2026",
+            "cs": "Konec roku 2026",
+            "sk": "Koniec roka 2026",
+            "ro": "Sfârșitul lui 2026",
+            "hu": "2026 vége",
+            "da": "Slutningen af 2026"
+          }
+        },
+        {
+          "label": {
+            "en": "Romania",
+            "de": "Rumänien",
+            "fr": "Roumanie",
+            "it": "Romania",
+            "nl": "Roemenië",
+            "pl": "Romania",
+            "cs": "Rumunsko",
+            "sk": "Rumunsko",
+            "ro": "România",
+            "hu": "Románia",
+            "da": "Rumænien"
+          },
+          "value": {
+            "en": "End of 2026",
+            "de": "Ende 2026",
+            "fr": "Fin 2026",
+            "it": "Fine 2026",
+            "nl": "Eind 2026",
+            "pl": "End of 2026",
+            "cs": "Konec roku 2026",
+            "sk": "Koniec roka 2026",
+            "ro": "Sfârșitul lui 2026",
+            "hu": "2026 vége",
+            "da": "Slutningen af 2026"
+          }
+        },
+        {
+          "label": {
+            "en": "Luxembourg",
+            "de": "Luxemburg",
+            "fr": "Luxembourg",
+            "it": "Lussemburgo",
+            "nl": "Luxemburg",
+            "pl": "Luxembourg",
+            "cs": "Lucembursko",
+            "sk": "Luxembursko",
+            "ro": "Luxemburg",
+            "hu": "Luxemburg",
+            "da": "Luxembourg"
+          },
+          "value": {
+            "en": "Early 2027",
+            "de": "Anfang 2027",
+            "fr": "Début 2027",
+            "it": "Inizio 2027",
+            "nl": "Begin 2027",
+            "pl": "Early 2027",
+            "cs": "Začátek roku 2027",
+            "sk": "Začiatok roka 2027",
+            "ro": "Începutul lui 2027",
+            "hu": "2027 eleje",
+            "da": "Begyndelsen af 2027"
+          }
+        },
+        {
+          "label": {
+            "en": "Hungary",
+            "de": "Ungarn",
+            "fr": "Hongrie",
+            "it": "Ungheria",
+            "nl": "Hongarije",
+            "pl": "Hungary",
+            "cs": "Maďarsko",
+            "sk": "Maďarsko",
+            "ro": "Ungaria",
+            "hu": "Magyarország",
+            "da": "Ungarn"
+          },
+          "value": {
+            "en": "Early 2027",
+            "de": "Anfang 2027",
+            "fr": "Début 2027",
+            "it": "Inizio 2027",
+            "nl": "Begin 2027",
+            "pl": "Early 2027",
+            "cs": "Začátek roku 2027",
+            "sk": "Začiatok roka 2027",
+            "ro": "Începutul lui 2027",
+            "hu": "2027 eleje",
+            "da": "Begyndelsen af 2027"
+          }
+        },
+        {
+          "label": {
+            "en": "Denmark",
+            "de": "Dänemark",
+            "fr": "Danemark",
+            "it": "Danimarca",
+            "nl": "Denemarken",
+            "pl": "Denmark",
+            "cs": "Dánsko",
+            "sk": "Dánsko",
+            "ro": "Danemarca",
+            "hu": "Dánia",
+            "da": "Danmark"
+          },
+          "value": {
+            "en": "Early 2027",
+            "de": "Anfang 2027",
+            "fr": "Début 2027",
+            "it": "Inizio 2027",
+            "nl": "Begin 2027",
+            "pl": "Early 2027",
+            "cs": "Začátek roku 2027",
+            "sk": "Začiatok roka 2027",
+            "ro": "Începutul lui 2027",
+            "hu": "2027 eleje",
+            "da": "Begyndelsen af 2027"
+          }
+        },
+        {
+          "label": {
+            "en": "United Kingdom",
+            "de": "Vereinigtes Königreich",
+            "fr": "Royaume-Uni",
+            "it": "Regno Unito",
+            "nl": "Verenigd Koninkrijk",
+            "pl": "United Kingdom",
+            "cs": "Spojené království",
+            "sk": "Spojené kráľovstvo",
+            "ro": "Regatul Unit",
+            "hu": "Egyesült Királyság",
+            "da": "Storbritannien"
+          },
+          "value": {
+            "en": "Early 2027",
+            "de": "Anfang 2027",
+            "fr": "Début 2027",
+            "it": "Inizio 2027",
+            "nl": "Begin 2027",
+            "pl": "Early 2027",
+            "cs": "Začátek roku 2027",
+            "sk": "Začiatok roka 2027",
+            "ro": "Începutul lui 2027",
+            "hu": "2027 eleje",
+            "da": "Begyndelsen af 2027"
+          }
+        },
+        {
+          "label": {
+            "en": "Vatican",
+            "de": "Vatikan",
+            "fr": "Vatican",
+            "it": "Vaticano",
+            "nl": "Vaticaanstad",
+            "pl": "Vatican",
+            "cs": "Vatikán",
+            "sk": "Vatikán",
+            "ro": "Vatican",
+            "hu": "Vatikán",
+            "da": "Vatikanstaten"
+          },
+          "value": {
+            "en": "Early 2027",
+            "de": "Anfang 2027",
+            "fr": "Début 2027",
+            "it": "Inizio 2027",
+            "nl": "Begin 2027",
+            "pl": "Early 2027",
+            "cs": "Začátek roku 2027",
+            "sk": "Začiatok roka 2027",
+            "ro": "Începutul lui 2027",
+            "hu": "2027 eleje",
+            "da": "Begyndelsen af 2027"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "The timeline",
+        "de": "Der Zeitplan",
+        "fr": "Le calendrier",
+        "it": "Il calendario",
+        "nl": "De planning",
+        "pl": "The timeline",
+        "cs": "Časový plán",
+        "sk": "Časový plán",
+        "ro": "Calendarul",
+        "hu": "Az ütemezés",
+        "da": "Tidsplanen"
+      },
+      "title": {
+        "en": "When each country opens",
+        "de": "Wann welches Land startet",
+        "fr": "Quand chaque pays ouvre",
+        "it": "Quando apre ogni Paese",
+        "nl": "Wanneer welk land opengaat",
+        "pl": "When each country opens",
+        "cs": "Kdy se otevře která země",
+        "sk": "Kedy sa otvorí ktorá krajina",
+        "ro": "Când se deschide fiecare țară",
+        "hu": "Melyik ország mikor indul",
+        "da": "Hvornår hvert land åbner"
+      }
+    },
+    {
+      "id": "seasons",
+      "text": {
+        "en": "The dates are seasons, because a country opens when its catalogue and its recognition are finished. The exact day comes by email to everyone on the waitlist for that country.",
+        "de": "Die Angaben sind Zeiträume, denn ein Land startet dann, wenn sein Katalog und seine Erkennung fertig sind. Das genaue Datum kommt per E-Mail an alle, die für dieses Land auf der Warteliste stehen.",
+        "fr": "Ces dates sont des saisons, car un pays ouvre quand son catalogue et sa reconnaissance sont terminés. Le jour exact est annoncé par e-mail à toutes les personnes inscrites sur la liste d'attente de ce pays.",
+        "it": "Le date indicano un periodo, perché un Paese apre quando il suo catalogo e il suo riconoscimento sono pronti. Il giorno preciso arriva per email a chi è in lista d'attesa per quel Paese.",
+        "nl": "De data zijn periodes, want een land gaat open zodra de catalogus en de herkenning klaar zijn. De precieze dag krijgt iedereen op de wachtlijst van dat land per e-mail te horen.",
+        "pl": "The dates are seasons, because a country opens when its catalogue and its recognition are finished. The exact day comes by email to everyone on the waitlist for that country.",
+        "cs": "Termíny jsou uvedené jen přibližně, protože země se otevře, až je hotový její katalog i rozpoznávání. Přesné datum pošleme e-mailem všem, kdo jsou na čekací listině pro danou zemi.",
+        "sk": "Termíny sú obdobia, lebo krajina sa otvorí vtedy, keď je hotový jej katalóg aj rozpoznávanie. Presný deň pošleme e-mailom všetkým, ktorí sú na čakacej listine pre danú krajinu.",
+        "ro": "Datele sunt perioade, pentru că o țară se deschide atunci când catalogul și recunoașterea sunt gata. Ziua exactă o anunțăm prin e-mail tuturor celor înscriși pe lista de așteptare pentru țara respectivă.",
+        "hu": "Az időpontok időszakok, mert egy ország akkor indul, amikor a katalógusa és a felismerése elkészül. A pontos napról e-mailben értesítünk mindenkit, aki az adott ország várólistáján van.",
+        "da": "Datoerne er angivet som årstider, for et land åbner, når kataloget og genkendelsen er færdige. Den præcise dag kommer i en mail til alle, der står på ventelisten for det land."
+      },
+      "type": "note"
+    },
+    {
+      "id": "scan",
+      "type": "text",
+      "label": {
+        "en": "The new stamp",
+        "de": "Die neue Marke",
+        "fr": "Le nouveau timbre",
+        "it": "Un francobollo nuovo",
+        "nl": "De nieuwe zegel",
+        "pl": "The new stamp",
+        "cs": "Nová známka",
+        "sk": "Nová známka",
+        "ro": "Timbrul nou",
+        "hu": "Az új bélyeg",
+        "da": "Det ukendte frimærke"
+      },
+      "title": {
+        "en": "Recognising a stamp",
+        "de": "Eine Briefmarke erkennen",
+        "fr": "Identifier un timbre",
+        "it": "Identificare un francobollo",
+        "nl": "Een postzegel herkennen",
+        "pl": "Recognising a stamp",
+        "cs": "Rozpoznání známky",
+        "sk": "Identifikácia známky",
+        "ro": "Identificarea timbrului",
+        "hu": "Egy bélyeg felismerése",
+        "da": "Sådan genkendes et frimærke"
+      },
+      "visual": {
+        "type": "phone",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/d2e2f9a36bda494b/help-sigi-decide.png",
+          "width": 1290,
+          "height": 2796
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "You put the stamp on a dark surface under even light and take a photo with the app. The recognition takes under a second, and the rest of the waiting time depends on your mobile connection. The result shows the stamp with its year, series and face value, its StampIQ value for mint and used copies, and a badge that says whether it is already in your collection.",
+          "de": "Du legst die Marke auf einen dunklen Untergrund bei gleichmäßigem Licht und machst mit der App ein Foto. Die Erkennung dauert unter einer Sekunde, die übrige Wartezeit hängt von deiner Mobilverbindung ab. Das Ergebnis zeigt die Marke mit Jahr, Serie und Nennwert, den StampIQ-Wert für postfrische und gestempelte Exemplare und einen Hinweis, ob sie schon in deiner Sammlung ist.",
+          "fr": "Tu poses le timbre sur un fond sombre, sous une lumière régulière, et tu le photographies avec l'application. La reconnaissance prend moins d'une seconde, le reste de l'attente dépend de ta connexion mobile. Le résultat affiche le timbre avec son année, sa série et sa valeur faciale, sa valeur StampIQ pour les exemplaires neufs et oblitérés, et une pastille qui indique s'il se trouve déjà dans ta collection.",
+          "it": "Appoggi il francobollo su una superficie scura con una luce uniforme e scatti la foto con l'app. Il riconoscimento richiede meno di un secondo, il resto dell'attesa dipende dalla tua connessione mobile. Il risultato mostra il francobollo con anno, serie e valore nominale, il valore StampIQ per il nuovo e per l'usato e un contrassegno che dice se è già nella tua collezione.",
+          "nl": "Je legt de zegel op een donkere ondergrond bij gelijkmatig licht en maakt een foto met de app. De herkenning duurt minder dan een seconde, de rest van de wachttijd hangt af van je mobiele verbinding. Het scanresultaat toont de zegel met jaar, serie en nominale waarde, de StampIQ-waarde voor postfrisse en gestempelde exemplaren, en een aanduiding of de zegel al in je verzameling zit.",
+          "pl": "You put the stamp on a dark surface under even light and take a photo with the app. The recognition takes under a second, and the rest of the waiting time depends on your mobile connection. The result shows the stamp with its year, series and face value, its StampIQ value for mint and used copies, and a badge that says whether it is already in your collection.",
+          "cs": "Známku položíš na tmavý podklad v rovnoměrném světle a vyfotíš ji aplikací. Rozpoznání trvá méně než sekundu, zbytek čekání závisí na tvém mobilním připojení. Výsledek ukáže známku s rokem, sérií a nominální hodnotou, hodnotu StampIQ pro svěží a razítkované kusy a označení, jestli už ji ve sbírce máš.",
+          "sk": "Známku položíš na tmavý podklad pri rovnomernom svetle a odfotíš ju aplikáciou. Rozpoznanie trvá menej ako sekundu, zvyšok čakania závisí od tvojho mobilného pripojenia. Výsledok ukáže známku s rokom, sériou a nominálnou hodnotou, jej hodnotu podľa StampIQ pre čisté a pečiatkované kusy a označenie, či ju už máš v zbierke.",
+          "ro": "Pui timbrul pe un fundal închis, la lumină uniformă, și îl fotografiezi cu aplicația. Recunoașterea durează sub o secundă, iar restul timpului de așteptare ține de conexiunea ta mobilă. Rezultatul scanării îți arată timbrul cu anul, seria și valoarea nominală, valoarea StampIQ pentru exemplare neștampilate și ștampilate și o etichetă care spune dacă îl ai deja în colecție.",
+          "hu": "A bélyeget sötét felületre teszed egyenletes fényben, és lefotózod az alkalmazással. A felismerés egy másodpercnél kevesebb ideig tart, a többi várakozás a mobilkapcsolatodon múlik. Az eredményben ott a bélyeg évszáma, sorozata és névértéke, a StampIQ-értéke postatiszta és pecsételt példányra, valamint egy jelzés arról, hogy megvan-e már a gyűjteményedben.",
+          "da": "Du lægger frimærket på en mørk flade i jævnt lys og tager et billede med appen. Selve genkendelsen tager under et sekund, og resten af ventetiden afhænger af din mobilforbindelse. Resultatet viser frimærket med år, serie og pålydende værdi, StampIQ-værdien for postfriske og stemplede eksemplarer, og en markering af, om det allerede er i din samling."
+        },
+        {
+          "en": "If two stamps are very close, the app shows you both side by side, with the details that differ between them marked, and you pick the one in your hand. Without a connection, the scan does not work, and a stamp from a country we have not finished is not recognised yet.",
+          "de": "Liegen zwei Marken sehr nah beieinander, zeigt dir die App beide nebeneinander und markiert die Details, in denen sie sich unterscheiden, und du wählst die aus, die du in der Hand hast. Ohne Verbindung funktioniert der Scan nicht, und eine Marke aus einem Land, dessen Katalog noch nicht fertig ist, wird noch nicht erkannt.",
+          "fr": "Si deux timbres sont très proches, l'application te les présente côte à côte, avec les détails qui les différencient mis en évidence, et tu choisis celui que tu as en main. Sans connexion, le scan ne fonctionne pas, et un timbre d'un pays dont le catalogue n'est pas terminé n'est pas encore reconnu.",
+          "it": "Se due francobolli sono molto simili, l'app te li mostra affiancati con i dettagli che li distinguono evidenziati, e scegli quello che hai in mano. Senza connessione la scansione non funziona, e un francobollo di un Paese che non abbiamo ancora completato non viene riconosciuto.",
+          "nl": "Lijken twee zegels sterk op elkaar, dan zet de app ze naast elkaar met de verschillen gemarkeerd, en kies jij de zegel die je in je hand hebt. Zonder verbinding werkt het scannen niet, en een zegel uit een land waarvan de catalogus nog niet af is, wordt nog niet herkend.",
+          "pl": "If two stamps are very close, the app shows you both side by side, with the details that differ between them marked, and you pick the one in your hand. Without a connection, the scan does not work, and a stamp from a country we have not finished is not recognised yet.",
+          "cs": "Když jsou si dvě známky hodně podobné, aplikace ti je ukáže vedle sebe a vyznačí detaily, ve kterých se liší, a ty vybereš tu, kterou máš v ruce. Bez připojení skenování nefunguje a známku ze země, kterou ještě nemáme hotovou, aplikace zatím nerozpozná.",
+          "sk": "Ak sú si dve známky veľmi podobné, aplikácia ti ukáže obe vedľa seba s vyznačenými rozdielmi a ty vyberieš tú, ktorú máš v ruke. Bez pripojenia skenovanie nefunguje a známka z krajiny, ktorú sme ešte nedokončili, sa zatiaľ nerozpozná.",
+          "ro": "Dacă două timbre seamănă foarte mult, aplicația ți le arată alăturat, cu detaliile care le deosebesc marcate, și alegi tu exemplarul pe care îl ai în mână. Fără conexiune, scanarea nu funcționează, iar un timbru dintr-o țară al cărei catalog nu este gata nu este încă recunoscut.",
+          "hu": "Ha két bélyeg nagyon közel áll egymáshoz, az alkalmazás egymás mellett mutatja mindkettőt, megjelölve a köztük lévő eltéréseket, te pedig kiválasztod azt, amelyik a kezedben van. Kapcsolat nélkül a szkennelés nem működik, és olyan ország bélyegét, amelynek a katalógusa még nem készült el, egyelőre nem ismeri fel.",
+          "da": "Ligner to frimærker hinanden meget, viser appen dig dem ved siden af hinanden med de detaljer fremhævet, der skiller dem ad, og du vælger det, du har i hånden. Uden forbindelse virker scanningen ikke, og et frimærke fra et land, vi ikke er færdige med, bliver endnu ikke genkendt."
+        }
+      ]
+    },
+    {
+      "id": "list",
+      "type": "text",
+      "label": {
+        "en": "The list",
+        "de": "Die Liste",
+        "fr": "La liste",
+        "it": "L'elenco",
+        "nl": "De lijst",
+        "pl": "The list",
+        "cs": "Seznam",
+        "sk": "Zoznam",
+        "ro": "Lista",
+        "hu": "A lista",
+        "da": "Oversigten"
+      },
+      "title": {
+        "en": "Your collection in the app",
+        "de": "Deine Sammlung in der App",
+        "fr": "Ta collection dans l'application",
+        "it": "La tua collezione nell'app",
+        "nl": "Je verzameling in de app",
+        "pl": "Your collection in the app",
+        "cs": "Tvoje sbírka v aplikaci",
+        "sk": "Tvoja zbierka v aplikácii",
+        "ro": "Colecția ta în aplicație",
+        "hu": "A gyűjteményed az alkalmazásban",
+        "da": "Din samling i appen"
+      },
+      "visual": {
+        "type": "phone",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/0c48fa6020f213f0/add-to-collection.png",
+          "width": 1290,
+          "height": 2796
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "For every stamp you add to your collection, you record the copy you actually have: whether it is mint or cancelled, its condition, and anything wrong with it. If you want, you add what you paid and where it came from. Your collection is sorted by country, and the list changes every time you add a stamp.",
+          "de": "Zu jeder Marke, die du in deine Sammlung aufnimmst, hältst du das Exemplar fest, das du wirklich hast: postfrisch oder gestempelt, den Zustand und jeden Mangel. Wenn du willst, trägst du dazu ein, was du bezahlt hast und woher sie stammt. Deine Sammlung ist nach Ländern sortiert, und die Liste ändert sich mit jeder Marke, die du hinzufügst.",
+          "fr": "Pour chaque timbre que tu ajoutes à ta collection, tu décris l'exemplaire que tu possèdes vraiment : neuf ou oblitéré, son état, et ses défauts éventuels. Si tu le souhaites, tu indiques aussi le prix payé et la provenance. Ta collection est classée par pays, et la liste évolue à chaque timbre ajouté.",
+          "it": "Per ogni francobollo che aggiungi alla collezione registri l'esemplare che hai davvero: nuovo o annullato, lo stato di conservazione e i difetti. Se vuoi, aggiungi quanto l'hai pagato e da dove arriva. La collezione è ordinata per Paese e l'elenco si aggiorna a ogni francobollo che inserisci.",
+          "nl": "Bij elke zegel die je aan je verzameling toevoegt, leg je vast welk exemplaar je echt hebt: postfris of gestempeld, de conditie, en wat eraan mankeert. Wil je meer bijhouden, dan vul je aan wat je betaald hebt en waar de zegel vandaan komt. Je verzameling is per land geordend, en de lijst verandert zodra je een zegel toevoegt.",
+          "pl": "For every stamp you add to your collection, you record the copy you actually have: whether it is mint or cancelled, its condition, and anything wrong with it. If you want, you add what you paid and where it came from. Your collection is sorted by country, and the list changes every time you add a stamp.",
+          "cs": "U každé známky, kterou přidáš do sbírky, zapíšeš konkrétní exemplář, který máš: jestli je svěží nebo razítkovaná, v jakém je stavu a jaké má vady. Když chceš, doplníš i zaplacenou cenu a odkud známka pochází. Sbírka je řazená podle zemí a seznam se mění s každou přidanou známkou.",
+          "sk": "Pri každej známke, ktorú pridáš do zbierky, zaznamenáš konkrétny exemplár, ktorý máš: či je čistá alebo pečiatkovaná, jej stav a prípadné chyby. Ak chceš, doplníš aj kúpnu cenu a pôvod. Zbierka je zoradená podľa krajín a zoznam sa mení pri každej pridanej známke.",
+          "ro": "Pentru fiecare timbru pe care îl adaugi în colecție notezi exemplarul pe care îl ai: dacă este neștampilat sau ștampilat, în ce stare este și ce defecte are. Dacă vrei, adaugi și cât ai plătit și de unde îl ai. Colecția este organizată pe țări, iar lista se schimbă la fiecare timbru nou.",
+          "hu": "Minden bélyegnél, amit felveszel a gyűjteményedbe, azt a példányt rögzíted, ami tényleg megvan: postatiszta vagy pecsételt, milyen az állapota, és mi a hibája. Ha akarod, beírod azt is, mennyiért és honnan szerezted. A gyűjteményed országok szerint rendeződik, és a lista minden új bélyeggel változik.",
+          "da": "For hvert frimærke, du lægger i din samling, noterer du det eksemplar, du faktisk har: om det er postfrisk eller stemplet, kvaliteten, og hvad der eventuelt er galt med det. Vil du, tilføjer du prisen og hvor det kommer fra. Samlingen er sorteret efter land, og oversigten ændrer sig, hver gang du tilføjer et frimærke."
+        }
+      ]
+    },
+    {
+      "id": "fair",
+      "type": "text",
+      "label": {
+        "en": "At the fair",
+        "de": "Auf der Börse",
+        "fr": "À la bourse",
+        "it": "In fiera",
+        "nl": "Op de beurs",
+        "pl": "At the fair",
+        "cs": "Na burze",
+        "sk": "Na burze",
+        "ro": "La târg",
+        "hu": "A börzén",
+        "da": "På messen"
+      },
+      "title": {
+        "en": "The wishlist at the dealer's table",
+        "de": "Die Wunschliste am Händlertisch",
+        "fr": "La liste de souhaits chez le marchand",
+        "it": "La lista dei desideri al banco",
+        "nl": "De verlanglijst bij de handelaar",
+        "pl": "The wishlist at the dealer's table",
+        "cs": "Seznam přání u stolu obchodníka",
+        "sk": "Zoznam želaní pri stole obchodníka",
+        "ro": "Lista de dorințe la standul comerciantului",
+        "hu": "A kívánságlista a kereskedő asztalánál",
+        "da": "Ønskelisten ved forhandlerens bord"
+      },
+      "visual": {
+        "type": "phone",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/048b5d9f9a84d038/add-to-wishlist.png",
+          "width": 1290,
+          "height": 2796
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "Stamps you want and do not have yet go on your wishlist, with the condition you are looking for and the most you want to pay. At the next fair, that list is on your phone. If the dealer has a stamp you do not recognise, you take a photo, and the app tells you whether it is already in your collection.",
+          "de": "Marken, die du haben willst und noch nicht besitzt, kommen auf deine Wunschliste, mit dem Zustand, den du suchst, und dem Preis, den du höchstens zahlen willst. Auf der nächsten Börse hast du diese Liste auf dem Handy. Hat der Händler eine Marke, die du nicht einordnen kannst, machst du ein Foto, und die App sagt dir, ob sie schon in deiner Sammlung ist.",
+          "fr": "Les timbres que tu cherches et que tu n'as pas encore vont dans ta liste de souhaits, avec l'état recherché et le prix maximum que tu veux y mettre. À la bourse suivante, cette liste est sur ton téléphone. Si le marchand a un timbre que tu ne reconnais pas, tu le photographies, et l'application te dit s'il figure déjà dans ta collection.",
+          "it": "I francobolli che cerchi e non hai ancora finiscono nella lista dei desideri, con lo stato di conservazione che ti interessa e la cifra massima che vuoi spendere. Alla fiera successiva quella lista è sul telefono. Se il commerciante ha un francobollo che non riconosci, scatti una foto e l'app ti dice se è già nella tua collezione.",
+          "nl": "Zegels die je wilt hebben en nog niet hebt, zet je op je verlanglijst, met de conditie die je zoekt en het bedrag dat je er hoogstens voor wilt betalen. Op de volgende beurs heb je die lijst op je telefoon. Heeft de handelaar een zegel die je niet thuis kunt brengen, dan maak je een foto en zie je of hij al in je verzameling zit.",
+          "pl": "Stamps you want and do not have yet go on your wishlist, with the condition you are looking for and the most you want to pay. At the next fair, that list is on your phone. If the dealer has a stamp you do not recognise, you take a photo, and the app tells you whether it is already in your collection.",
+          "cs": "Známky, které chceš a ještě nemáš, si dáš na seznam přání, a k nim stav, který hledáš, a nejvyšší cenu, kterou za ně chceš dát. Na další burze máš ten seznam v telefonu. Když má obchodník známku, kterou nepoznáváš, vyfotíš ji a aplikace ti řekne, jestli ji už ve sbírce máš.",
+          "sk": "Známky, ktoré chceš a ešte nemáš, si dáš do zoznamu želaní spolu so stavom, ktorý hľadáš, a s najvyššou cenou, ktorú za ne chceš zaplatiť. Na ďalšej burze máš tento zoznam v telefóne. Ak má obchodník známku, ktorú nepoznáš, odfotíš ju a aplikácia ti povie, či ju už v zbierke máš.",
+          "ro": "Timbrele pe care le vrei și nu le ai încă intră în lista de dorințe, cu starea pe care o cauți și prețul maxim pe care vrei să îl dai. La următorul târg ai lista în telefon. Dacă un comerciant are un timbru pe care nu îl recunoști, îl fotografiezi, iar aplicația îți spune dacă îl ai deja în colecție.",
+          "hu": "Amit szeretnél, de még nincs meg, felkerül a kívánságlistádra, a keresett állapottal és azzal az összeggel együtt, amennyit legfeljebb adnál érte. A következő börzén ez a lista ott van a telefonodon. Ha a kereskedőnél olyan bélyeget látsz, amit nem ismersz fel, lefotózod, és az alkalmazás megmondja, megvan-e már a gyűjteményedben.",
+          "da": "Frimærker, du gerne vil have og endnu ikke har, kommer på din ønskeliste sammen med den kvalitet, du leder efter, og den højeste pris, du vil give. Til næste messe har du listen på telefonen. Har forhandleren et frimærke, du ikke kan placere, tager du et billede, og appen fortæller dig, om det allerede står i din samling."
+        },
+        {
+          "en": "On a paid plan, the app also shows you every stamp of your country that you do not own yet, with an estimate of what it would cost to complete the collection.",
+          "de": "Mit einem bezahlten Abo zeigt dir die App außerdem alle Marken deines Landes, die dir noch fehlen, samt einer Schätzung, was die Vervollständigung der Sammlung kosten würde.",
+          "fr": "Avec un abonnement payant, l'application te montre aussi tous les timbres de ton pays qui te manquent encore, avec une estimation de ce que coûterait la collection complète.",
+          "it": "Con un piano a pagamento l'app ti mostra anche tutti i francobolli del tuo Paese che ancora ti mancano, con una stima di quanto costerebbe completare la collezione.",
+          "nl": "Met een betaald abonnement laat de app ook alle zegels van jouw land zien die je nog niet hebt, met een schatting van wat het kost om de verzameling compleet te maken.",
+          "pl": "On a paid plan, the app also shows you every stamp of your country that you do not own yet, with an estimate of what it would cost to complete the collection.",
+          "cs": "S placeným předplatným ti aplikace navíc ukáže všechny známky tvé země, které ještě nemáš, i odhad toho, kolik by stálo sbírku doplnit.",
+          "sk": "S plateným predplatným ti aplikácia navyše ukáže všetky známky tvojej krajiny, ktoré ešte nemáš, aj s odhadom, koľko by stálo doplnenie zbierky.",
+          "ro": "Cu un abonament plătit, aplicația îți arată și toate timbrele din țara ta pe care nu le ai încă, împreună cu o estimare a sumei necesare pentru a completa colecția.",
+          "hu": "Fizetős csomaggal azt is látod, hogy az országodból mely bélyegek hiányoznak még, és becslést kapsz arról, mennyibe kerülne teljessé tenni a gyűjteményt.",
+          "da": "Med et betalt abonnement viser appen dig også alle dit lands frimærker, du endnu ikke har, med et skøn over, hvad det ville koste at gøre samlingen færdig."
+        }
+      ]
+    },
+    {
+      "id": "albums",
+      "type": "text",
+      "label": {
+        "en": "Your albums",
+        "de": "Deine Alben",
+        "fr": "Tes albums",
+        "it": "I tuoi album",
+        "nl": "Je albums",
+        "pl": "Your albums",
+        "cs": "Tvoje alba",
+        "sk": "Tvoje albumy",
+        "ro": "Albumele tale",
+        "hu": "Az albumaid",
+        "da": "Dine album"
+      },
+      "title": {
+        "en": "Getting your collection into the app",
+        "de": "Die Sammlung in die App bringen",
+        "fr": "Reprendre ta collection dans l'application",
+        "it": "Portare la collezione nell'app",
+        "nl": "Je verzameling in de app krijgen",
+        "pl": "Getting your collection into the app",
+        "cs": "Jak dostat sbírku do aplikace",
+        "sk": "Ako dostaneš zbierku do aplikácie",
+        "ro": "Cum ajunge colecția în aplicație",
+        "hu": "A meglévő gyűjtemény bevitele",
+        "da": "Sådan får du samlingen ind i appen"
+      },
+      "visual": {
+        "type": "animation",
+        "animation": {
+          "src": "https://assets.stampiq.io/blog/783ebafaf1752671/bulk-scan-album-page.mp4",
+          "width": 960,
+          "height": 1706,
+          "poster": "https://assets.stampiq.io/blog/c4d95d1138f40696/bulk-scan-album-page.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "To bring in the collection you already have, there is Bulk Scan. You lay an album page flat, with the stamps not overlapping, and take one photo. The app finds every stamp on the page and identifies each one, and you add the ones you own to your collection.",
+          "de": "Für die Sammlung, die du schon hast, gibt es den Mehrfach-Scan. Du legst eine Albumseite flach hin, die Marken ohne Überlappung, und machst ein einziges Foto. Die App findet jede Marke auf der Seite und bestimmt sie einzeln, und du übernimmst die, die dir gehören, in deine Sammlung.",
+          "fr": "Pour reprendre la collection que tu possèdes déjà, il y a le Scan multiple. Tu poses une page d'album à plat, timbres bien séparés, et tu prends une seule photo. L'application repère chaque timbre de la page et identifie chacun d'eux, puis tu ajoutes à ta collection ceux que tu possèdes.",
+          "it": "Per inserire la collezione che hai già c'è la Scansione multipla. Metti una pagina d'album in piano, con i francobolli che non si sovrappongono, e scatti una sola foto. L'app trova tutti i francobolli della pagina e li identifica uno per uno, e tu aggiungi alla collezione quelli che possiedi.",
+          "nl": "Voor de verzameling die je al hebt, is er de Groepsscan. Je legt een albumpagina vlak neer, met de zegels los van elkaar, en maakt één foto. De app vindt elke zegel op de pagina en identificeert ze stuk voor stuk, en wat je zelf bezit voeg je toe aan je verzameling.",
+          "pl": "To bring in the collection you already have, there is Bulk Scan. You lay an album page flat, with the stamps not overlapping, and take one photo. The app finds every stamp on the page and identifies each one, and you add the ones you own to your collection.",
+          "cs": "Pro sbírku, kterou už máš, je tu hromadné skenování. Albový list položíš narovno tak, aby se známky nepřekrývaly, a pořídíš jednu fotku. Aplikace najde na listu každou známku a každou z nich identifikuje, a ty si ty svoje přidáš do sbírky.",
+          "sk": "Na zbierku, ktorú už máš, slúži hromadné skenovanie. Albumový list položíš narovno tak, aby sa známky neprekrývali, a urobíš jednu fotografiu. Aplikácia nájde na liste každú známku a každú identifikuje, a tie, ktoré vlastníš, pridáš do zbierky.",
+          "ro": "Pentru colecția pe care o ai deja există Scanarea multiplă. Pui o filă de album pe masă, cu timbrele așezate fără să se suprapună, și faci o singură fotografie. Aplicația găsește fiecare timbru de pe filă și îl identifică, iar tu adaugi în colecție exemplarele care sunt ale tale.",
+          "hu": "A már meglévő gyűjteményhez ott a tömeges szkennelés. Az albumlapot laposan fekteted le úgy, hogy a bélyegek ne fedjék egymást, és egyetlen fotót készítesz. Az alkalmazás megtalálja a lapon az összes bélyeget, mindegyiket azonosítja, te pedig a nálad meglévőket felveszed a gyűjteményedbe.",
+          "da": "Den samling, du allerede har, kan du få ind med massescanning. Du lægger en albumside fladt ud, så frimærkerne ikke dækker hinanden, og tager ét billede. Appen finder hvert frimærke på siden og identificerer dem enkeltvis, og du lægger dem, du ejer, i din samling."
+        },
+        {
+          "en": "On the free plan you can scan two album pages a month, which is enough to see how it works on your own albums. Premium allows five pages a month, and Professional has no limit. Professional also includes every catalogue we publish and every one we add later, so if you collect more than one of the countries in the timeline, each new country appears in your app on the day it opens.",
+          "de": "In der kostenlosen Version kannst du zwei Albumseiten pro Monat scannen, genug, um es an deinen eigenen Alben auszuprobieren. Premium erlaubt fünf Seiten im Monat, Professional hat kein Limit. Zu Professional gehören außerdem alle Kataloge, die wir veröffentlichen, und alle, die später dazukommen. Sammelst du mehrere der Länder aus dem Zeitplan, erscheint jedes neue Land an seinem Starttag in deiner App.",
+          "fr": "Avec la formule gratuite, tu scannes deux pages d'album par mois, de quoi voir comment cela se passe sur tes propres albums. Premium permet cinq pages par mois, Professional n'impose aucune limite. Professional comprend aussi tous les catalogues que nous publions et tous ceux que nous ajouterons, donc si tu collectionnes plusieurs des pays du calendrier, chaque nouveau pays apparaît dans ton application le jour de son ouverture.",
+          "it": "Con il piano gratuito scansioni due pagine d'album al mese, abbastanza per vedere come funziona sui tuoi album. Premium arriva a cinque pagine al mese, Professional non ha limiti. Professional comprende anche tutti i cataloghi che pubblichiamo e quelli che aggiungeremo, quindi se collezioni più di uno dei Paesi in calendario, ogni nuovo Paese compare nella tua app il giorno in cui apre.",
+          "nl": "Met de gratis versie scan je twee albumpagina's per maand, genoeg om het op je eigen albums uit te proberen. Premium geeft vijf pagina's per maand, Professional heeft geen limiet. In Professional zit bovendien elke catalogus die we uitbrengen en elke catalogus die er later bij komt, dus verzamel je meer dan één land uit de planning, dan staat elk nieuw land in je app op de dag dat het opengaat.",
+          "pl": "On the free plan you can scan two album pages a month, which is enough to see how it works on your own albums. Premium allows five pages a month, and Professional has no limit. Professional also includes every catalogue we publish and every one we add later, so if you collect more than one of the countries in the timeline, each new country appears in your app on the day it opens.",
+          "cs": "V bezplatné verzi naskenuješ dva albové listy měsíčně, na vyzkoušení na vlastních albech to stačí. S Premium naskenuješ pět listů měsíčně, Professional je bez omezení. Professional navíc obsahuje všechny katalogy, které vydáváme, i ty, které přidáme později, takže když sbíráš víc zemí z časového plánu, každá nová země se ti v aplikaci objeví v den, kdy se otevře.",
+          "sk": "V bezplatnej verzii naskenuješ dva albumové listy mesačne, čo stačí na vyskúšanie na vlastných albumoch. S Premium máš päť listov mesačne a Professional nemá limit. Professional zahŕňa aj každý katalóg, ktorý sme vydali, a každý ďalší, ktorý pribudne, takže ak zbieraš viac krajín z časového plánu, každá nová krajina sa ti v aplikácii objaví v deň, keď sa otvorí.",
+          "ro": "Cu abonamentul gratuit poți scana două file de album pe lună, cât să vezi cum merge pe albumele tale. Premium permite cinci file pe lună, iar Professional nu are limită. Professional include și toate cataloagele pe care le publicăm, plus cele pe care le adăugăm mai târziu, așa că, dacă aduni timbre din mai multe țări din calendar, fiecare țară nouă apare în aplicația ta din ziua în care se deschide.",
+          "hu": "Az ingyenes csomaggal havonta két albumlapot szkennelhetsz, ennyiből látszik, hogyan működik a saját albumaidon. A Premium havi öt lapot enged, a Professional pedig korlátlanul. A Professional csomagban benne van minden kiadott katalógusunk és minden későbbi is, így ha az ütemezésből több országot is gyűjtesz, minden új ország a megnyitása napján megjelenik az alkalmazásodban.",
+          "da": "I gratisversionen kan du scanne to albumsider om måneden, hvilket er nok til at se, hvordan det fungerer på dine egne album. Premium giver fem sider om måneden, og Professional har ingen grænse. Professional indeholder desuden alle de kataloger, vi udgiver, og alle dem, vi føjer til senere, så hvis du samler flere af landene i tidsplanen, dukker hvert nyt land op i din app den dag, det åbner."
+        }
+      ]
+    },
+    {
+      "id": "waitlist",
+      "type": "steps",
+      "intro": {
+        "en": "We write to you once, on the day StampIQ opens in a country you picked, and nothing else.",
+        "de": "Wir schreiben dir einmal, an dem Tag, an dem StampIQ in einem von dir gewählten Land startet, und sonst nicht.",
+        "fr": "Nous t'écrivons une seule fois, le jour où StampIQ ouvre dans un pays que tu as choisi, et rien d'autre.",
+        "it": "Ti scriviamo una volta sola, il giorno in cui StampIQ apre in un Paese che hai scelto, e nient'altro.",
+        "nl": "We schrijven je één keer, op de dag dat StampIQ opengaat in een land dat je gekozen hebt, en verder niet.",
+        "pl": "We write to you once, on the day StampIQ opens in a country you picked, and nothing else.",
+        "cs": "Napíšeme ti jednou, v den, kdy se StampIQ otevře ve zvolené zemi, a nic dalšího.",
+        "sk": "Napíšeme ti jediný raz, v deň, keď bude StampIQ dostupný v krajine, ktorú si zvolíš, a nič iné.",
+        "ro": "Îți scriem o singură dată, în ziua în care StampIQ devine disponibil într-o țară aleasă de tine, și nimic altceva.",
+        "hu": "Egyszer írunk neked, azon a napon, amikor a StampIQ elindul az általad választott országban, és semmi máskor.",
+        "da": "Vi skriver til dig én gang, den dag StampIQ åbner i et land, du har valgt, og ellers ikke."
+      },
+      "label": {
+        "en": "Until then",
+        "de": "Bis dahin",
+        "fr": "En attendant",
+        "it": "Nel frattempo",
+        "nl": "Tot die tijd",
+        "pl": "Until then",
+        "cs": "Do té doby",
+        "sk": "Dovtedy",
+        "ro": "Până atunci",
+        "hu": "Addig",
+        "da": "Indtil da"
+      },
+      "steps": [
+        {
+          "en": "Open stampiq.io/waitlist and enter your email address.",
+          "de": "Öffne stampiq.io/waitlist und trage deine E-Mail-Adresse ein.",
+          "fr": "Ouvre stampiq.io/waitlist et saisis ton adresse e-mail.",
+          "it": "Apri stampiq.io/waitlist e inserisci il tuo indirizzo email.",
+          "nl": "Ga naar stampiq.io/waitlist en vul je e-mailadres in.",
+          "pl": "Open stampiq.io/waitlist and enter your email address.",
+          "cs": "Otevři stampiq.io/waitlist a zadej svou e-mailovou adresu.",
+          "sk": "Otvor stampiq.io/waitlist a zadaj svoju e-mailovú adresu.",
+          "ro": "Intră pe stampiq.io/waitlist și scrie adresa ta de e-mail.",
+          "hu": "Nyisd meg a stampiq.io/waitlist oldalt, és add meg az e-mail-címedet.",
+          "da": "Åbn stampiq.io/waitlist og skriv din mailadresse."
+        },
+        {
+          "en": "Pick your country. You can pick several, and there is a choice for another country as well.",
+          "de": "Wähle dein Land. Du kannst mehrere auswählen, und es gibt auch einen Eintrag für ein weiteres Land.",
+          "fr": "Choisis ton pays. Tu peux en choisir plusieurs, et il y a aussi une option pour un autre pays.",
+          "it": "Scegli il tuo Paese. Puoi indicarne più di uno e c'è anche l'opzione per un altro Paese.",
+          "nl": "Kies je land. Je kunt er meerdere kiezen, en er is ook een keuze voor een ander land.",
+          "pl": "Pick your country. You can pick several, and there is a choice for another country as well.",
+          "cs": "Vyber svou zemi. Můžeš jich vybrat víc a je tam i možnost pro jinou zemi.",
+          "sk": "Vyber si krajinu. Označiť môžeš aj viac krajín a je tam aj možnosť pre inú krajinu.",
+          "ro": "Alege țara. Poți alege mai multe și există și o opțiune pentru altă țară.",
+          "hu": "Válaszd ki az országodat. Többet is megjelölhetsz, és van külön lehetőség más országra is.",
+          "da": "Vælg dit land. Du kan vælge flere, og der er også en mulighed for et andet land."
+        },
+        {
+          "en": "Choose the language we should write to you in and send the form.",
+          "de": "Wähle die Sprache, in der wir dir schreiben sollen, und schicke das Formular ab.",
+          "fr": "Indique la langue dans laquelle nous devons t'écrire et envoie le formulaire.",
+          "it": "Scegli la lingua in cui vuoi ricevere le nostre email e invia il modulo.",
+          "nl": "Kies de taal waarin we je schrijven en verstuur het formulier.",
+          "pl": "Choose the language we should write to you in and send the form.",
+          "cs": "Zvol jazyk, ve kterém ti máme psát, a odešli formulář.",
+          "sk": "Zvoľ jazyk, v ktorom ti máme písať, a odošli formulár.",
+          "ro": "Alege limba în care să îți scriem și trimite formularul.",
+          "hu": "Válaszd ki, milyen nyelven írjunk neked, és küldd el az űrlapot.",
+          "da": "Vælg det sprog, vi skal skrive til dig på, og send formularen."
+        },
+        {
+          "en": "Open the link in the email we send you. Only then are you on the list, and an address that is not confirmed is deleted after 30 days.",
+          "de": "Öffne den Link in der E-Mail, die wir dir schicken. Erst danach stehst du auf der Liste, und eine Adresse ohne Bestätigung wird nach 30 Tagen gelöscht.",
+          "fr": "Ouvre le lien dans l'e-mail que nous t'envoyons. Ton inscription n'est valable qu'à partir de ce moment-là, et une adresse non confirmée est supprimée au bout de 30 jours.",
+          "it": "Apri il link dell'email che ti mandiamo. Solo allora il tuo indirizzo entra in lista, e un indirizzo non confermato viene cancellato dopo 30 giorni.",
+          "nl": "Open de link in de e-mail die je krijgt. Pas dan sta je op de lijst, en een adres dat niet bevestigd wordt, verwijderen we na 30 dagen.",
+          "pl": "Open the link in the email we send you. Only then are you on the list, and an address that is not confirmed is deleted after 30 days.",
+          "cs": "Otevři odkaz v e-mailu, který ti pošleme. Teprve pak jsi na seznamu, nepotvrzenou adresu po 30 dnech mažeme.",
+          "sk": "Otvor odkaz v e-maile, ktorý ti pošleme. Až potom si na zozname, nepotvrdenú adresu po 30 dňoch vymažeme.",
+          "ro": "Deschide linkul din e-mailul pe care ți-l trimitem. Abia atunci ești pe listă, iar o adresă neconfirmată este ștearsă după 30 de zile.",
+          "hu": "Nyisd meg a linket a levélben, amit küldünk. Csak ezzel kerülsz fel a listára, a meg nem erősített címeket 30 nap után töröljük.",
+          "da": "Åbn linket i den mail, vi sender dig. Først derefter står du på listen, og en adresse, der ikke bliver bekræftet, bliver slettet efter 30 dage."
+        }
+      ],
+      "title": {
+        "en": "Getting on the waitlist",
+        "de": "Auf die Warteliste kommen",
+        "fr": "S'inscrire sur la liste d'attente",
+        "it": "Come entrare in lista d'attesa",
+        "nl": "Op de wachtlijst komen",
+        "pl": "Getting on the waitlist",
+        "cs": "Zápis na čekací listinu",
+        "sk": "Prihlásenie na čakaciu listinu",
+        "ro": "Înscrierea pe lista de așteptare",
+        "hu": "Feliratkozás a várólistára",
+        "da": "Sådan kommer du på ventelisten"
+      },
+      "buttons": [
+        {
+          "href": "/waitlist",
+          "label": {
+            "en": "Put me on the list",
+            "de": "Auf die Liste setzen",
+            "fr": "Inscris-moi sur la liste",
+            "it": "Iscrivimi alla lista",
+            "nl": "Zet mij op de lijst",
+            "pl": "Put me on the list",
+            "cs": "Chci na seznam",
+            "sk": "Chcem byť na zozname",
+            "ro": "Adaugă-mă pe listă",
+            "hu": "Kérek értesítést",
+            "da": "Skriv mig på listen"
+          },
+          "primary": true
+        }
+      ]
+    }
+  ]
+}
