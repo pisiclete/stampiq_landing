@@ -1,0 +1,1134 @@
+{
+  "category": "day-trips",
+  "markets": [
+    "NL",
+    "BE",
+    "LU"
+  ],
+  "langs": [
+    "en",
+    "de",
+    "fr",
+    "nl"
+  ],
+  "published_at": "2026-09-25T07:00:00+00:00",
+  "thumbnail": {
+    "src": "https://assets.stampiq.io/blog/a7ccea4c0321f233/cruquius-tower.jpg",
+    "width": 2048,
+    "height": 1396
+  },
+  "languages": {
+    "en": {
+      "slug": "day-trip-cruquius-pumping-station",
+      "title": "Day trip: the Cruquius pumping station",
+      "description": "A Dutch stamp from 2002 shows the steam pumping station that helped drain the Haarlemmermeer. Its engine still moves for every visitor."
+    },
+    "de": {
+      "slug": "tagesausflug-dampfschoepfwerk-cruquius",
+      "title": "Tagesausflug: das Dampfschöpfwerk Cruquius",
+      "description": "Eine niederländische Marke von 2002 zeigt das Dampfschöpfwerk, das das Haarlemmermeer trockenlegen half. Seine Maschine läuft für jeden Besucher."
+    },
+    "fr": {
+      "slug": "excursion-station-pompage-cruquius",
+      "title": "Excursion : la station de pompage Cruquius",
+      "description": "Un timbre néerlandais de 2002 montre la station à vapeur qui a aidé à assécher le Haarlemmermeer. Sa machine bouge encore pour chaque visiteur."
+    },
+    "it": {
+      "slug": "day-trip-cruquius-pumping-station",
+      "title": "Day trip: the Cruquius pumping station",
+      "description": "A Dutch stamp from 2002 shows the steam pumping station that helped drain the Haarlemmermeer. Its engine still moves for every visitor."
+    },
+    "nl": {
+      "slug": "dagtrip-stoomgemaal-cruquius",
+      "title": "Dagtrip: het stoomgemaal Cruquius",
+      "description": "Een Nederlandse postzegel uit 2002 toont het stoomgemaal dat de Haarlemmermeer hielp droogmalen. De machine komt voor elke bezoeker nog in beweging."
+    },
+    "pl": {
+      "slug": "day-trip-cruquius-pumping-station",
+      "title": "Day trip: the Cruquius pumping station",
+      "description": "A Dutch stamp from 2002 shows the steam pumping station that helped drain the Haarlemmermeer. Its engine still moves for every visitor."
+    },
+    "cs": {
+      "slug": "day-trip-cruquius-pumping-station",
+      "title": "Day trip: the Cruquius pumping station",
+      "description": "A Dutch stamp from 2002 shows the steam pumping station that helped drain the Haarlemmermeer. Its engine still moves for every visitor."
+    },
+    "sk": {
+      "slug": "day-trip-cruquius-pumping-station",
+      "title": "Day trip: the Cruquius pumping station",
+      "description": "A Dutch stamp from 2002 shows the steam pumping station that helped drain the Haarlemmermeer. Its engine still moves for every visitor."
+    },
+    "ro": {
+      "slug": "day-trip-cruquius-pumping-station",
+      "title": "Day trip: the Cruquius pumping station",
+      "description": "A Dutch stamp from 2002 shows the steam pumping station that helped drain the Haarlemmermeer. Its engine still moves for every visitor."
+    },
+    "hu": {
+      "slug": "day-trip-cruquius-pumping-station",
+      "title": "Day trip: the Cruquius pumping station",
+      "description": "A Dutch stamp from 2002 shows the steam pumping station that helped drain the Haarlemmermeer. Its engine still moves for every visitor."
+    },
+    "da": {
+      "slug": "day-trip-cruquius-pumping-station",
+      "title": "Day trip: the Cruquius pumping station",
+      "description": "A Dutch stamp from 2002 shows the steam pumping station that helped drain the Haarlemmermeer. Its engine still moves for every visitor."
+    }
+  },
+  "header": {
+    "lead": {
+      "en": "A 39-cent stamp from 2002 shows a round tower on a dike. Inside is the steam engine that helped turn a lake into farmland, and it still moves.",
+      "de": "Eine 39-Cent-Marke von 2002 zeigt einen runden Turm auf einem Deich. Darin steht die Dampfmaschine, die aus einem See Ackerland gemacht hat, und sie bewegt sich bis heute.",
+      "fr": "Un timbre à 39 cents de 2002 montre une tour ronde posée sur une digue. À l'intérieur se trouve la machine à vapeur qui a aidé à transformer un lac en terres agricoles, et elle bouge toujours.",
+      "it": "A 39-cent stamp from 2002 shows a round tower on a dike. Inside is the steam engine that helped turn a lake into farmland, and it still moves.",
+      "nl": "Een postzegel van 39 cent uit 2002 toont een ronde toren op een dijk. Binnenin staat de stoommachine die meehielp een meer in landbouwgrond te veranderen, en die nog altijd beweegt.",
+      "pl": "A 39-cent stamp from 2002 shows a round tower on a dike. Inside is the steam engine that helped turn a lake into farmland, and it still moves.",
+      "cs": "A 39-cent stamp from 2002 shows a round tower on a dike. Inside is the steam engine that helped turn a lake into farmland, and it still moves.",
+      "sk": "A 39-cent stamp from 2002 shows a round tower on a dike. Inside is the steam engine that helped turn a lake into farmland, and it still moves.",
+      "ro": "A 39-cent stamp from 2002 shows a round tower on a dike. Inside is the steam engine that helped turn a lake into farmland, and it still moves.",
+      "hu": "A 39-cent stamp from 2002 shows a round tower on a dike. Inside is the steam engine that helped turn a lake into farmland, and it still moves.",
+      "da": "A 39-cent stamp from 2002 shows a round tower on a dike. Inside is the steam engine that helped turn a lake into farmland, and it still moves."
+    },
+    "visual": {
+      "type": "stamp",
+      "stamp": {
+        "name": {
+          "en": "Cruquius Steam Pumping Station, 1849",
+          "de": "Dampfschöpfwerk Cruquius, 1849",
+          "fr": "Station de pompage à vapeur Cruquius, 1849",
+          "it": "Cruquius Steam Pumping Station, 1849",
+          "nl": "Stoomgemaal Cruquius, 1849",
+          "pl": "Cruquius Steam Pumping Station, 1849",
+          "cs": "Cruquius Steam Pumping Station, 1849",
+          "sk": "Cruquius Steam Pumping Station, 1849",
+          "ro": "Cruquius Steam Pumping Station, 1849",
+          "hu": "Cruquius Steam Pumping Station, 1849",
+          "da": "Cruquius Steam Pumping Station, 1849"
+        },
+        "year": 2002,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/80dfc776aec6296a/cruquius-stamp.png",
+          "width": 856,
+          "height": 607
+        },
+        "country": "NL",
+        "stamp_id": "SIQ-NL-2002-079"
+      }
+    },
+    "location": "Cruquius, Haarlemmermeer, Netherlands"
+  },
+  "blocks": [
+    {
+      "id": "sheet",
+      "type": "text",
+      "label": {
+        "en": "A sheet of ten",
+        "de": "Ein Bogen mit zehn Marken",
+        "fr": "Une feuille de dix",
+        "it": "A sheet of ten",
+        "nl": "Een vel van tien",
+        "pl": "A sheet of ten",
+        "cs": "A sheet of ten",
+        "sk": "A sheet of ten",
+        "ro": "A sheet of ten",
+        "hu": "A sheet of ten",
+        "da": "A sheet of ten"
+      },
+      "title": {
+        "en": "Where these places are",
+        "de": "Wo diese Orte liegen",
+        "fr": "Où se trouvent ces lieux",
+        "it": "Where these places are",
+        "nl": "Waar deze plekken liggen",
+        "pl": "Where these places are",
+        "cs": "Where these places are",
+        "sk": "Where these places are",
+        "ro": "Where these places are",
+        "hu": "Where these places are",
+        "da": "Where these places are"
+      },
+      "visual": {
+        "type": "animation",
+        "animation": {
+          "src": "https://assets.stampiq.io/blog/aa43c17b9d8e730e/cruquius-show-on-map.mp4",
+          "width": 960,
+          "height": 1706,
+          "poster": "https://assets.stampiq.io/blog/1c53fba790b324c1/cruquius-show-on-map.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "In 2002 TPG Post issued a sheet of ten stamps called \"Industrieel Erfgoed\", industrial heritage. Maybe you have it complete, maybe a few stamps from it are loose in a stock book. Each stamp shows a building or a machine, and the stamp itself does not say where it stands.",
+          "de": "2002 gab TPG Post einen Bogen mit zehn Marken heraus, „Industrieel Erfgoed“, Industriedenkmäler. Vielleicht hast du ihn vollständig, vielleicht liegen ein paar Marken daraus einzeln im Einsteckbuch. Jede Marke zeigt ein Gebäude oder eine Maschine, und auf der Marke selbst steht nicht, wo das alles steht.",
+          "fr": "En 2002, TPG Post a émis une feuille de dix timbres intitulée « Industrieel Erfgoed », le patrimoine industriel. Tu la possèdes peut-être complète, ou alors quelques timbres traînent dans un classeur. Chaque timbre montre un bâtiment ou une machine, sans jamais indiquer où il se trouve.",
+          "it": "In 2002 TPG Post issued a sheet of ten stamps called \"Industrieel Erfgoed\", industrial heritage. Maybe you have it complete, maybe a few stamps from it are loose in a stock book. Each stamp shows a building or a machine, and the stamp itself does not say where it stands.",
+          "nl": "In 2002 gaf TPG Post een vel van tien postzegels uit onder de naam „Industrieel Erfgoed”. Misschien heb je het vel compleet, misschien liggen er een paar zegels los in een insteekboek. Elke zegel toont een gebouw of een machine, en op de zegel zelf staat niet waar die staat.",
+          "pl": "In 2002 TPG Post issued a sheet of ten stamps called \"Industrieel Erfgoed\", industrial heritage. Maybe you have it complete, maybe a few stamps from it are loose in a stock book. Each stamp shows a building or a machine, and the stamp itself does not say where it stands.",
+          "cs": "In 2002 TPG Post issued a sheet of ten stamps called \"Industrieel Erfgoed\", industrial heritage. Maybe you have it complete, maybe a few stamps from it are loose in a stock book. Each stamp shows a building or a machine, and the stamp itself does not say where it stands.",
+          "sk": "In 2002 TPG Post issued a sheet of ten stamps called \"Industrieel Erfgoed\", industrial heritage. Maybe you have it complete, maybe a few stamps from it are loose in a stock book. Each stamp shows a building or a machine, and the stamp itself does not say where it stands.",
+          "ro": "In 2002 TPG Post issued a sheet of ten stamps called \"Industrieel Erfgoed\", industrial heritage. Maybe you have it complete, maybe a few stamps from it are loose in a stock book. Each stamp shows a building or a machine, and the stamp itself does not say where it stands.",
+          "hu": "In 2002 TPG Post issued a sheet of ten stamps called \"Industrieel Erfgoed\", industrial heritage. Maybe you have it complete, maybe a few stamps from it are loose in a stock book. Each stamp shows a building or a machine, and the stamp itself does not say where it stands.",
+          "da": "In 2002 TPG Post issued a sheet of ten stamps called \"Industrieel Erfgoed\", industrial heritage. Maybe you have it complete, maybe a few stamps from it are loose in a stock book. Each stamp shows a building or a machine, and the stamp itself does not say where it stands."
+        },
+        {
+          "en": "When you add the stamps to StampIQ, with a scan or from the catalogue, each one gets its record, and \"Show on map\" puts it at its place. The ten pins spread across the whole country: the botter shipyard in Spakenburg, the lime kilns in Dedemsvaart, the mine shaft in Heerlen, the salt drilling tower in Hengelo, a windmill in Weidum, the brick factory in Zevenaar, a brewery in Breda, the water purification plant in Tilburg, a pumpjack in the Schoonebeek oil field, and one pin just south of Haarlem: the Cruquius steam pumping station. It is 15 minutes by bus from Haarlem station.",
+          "de": "Wenn du die Marken in StampIQ erfasst, per Scan oder aus dem Katalog, bekommt jede ihren Eintrag, und „Auf der Karte zeigen“ setzt sie an ihren Ort. Die zehn Pins verteilen sich über das ganze Land: die Botterwerft in Spakenburg, die Kalköfen in Dedemsvaart, der Förderturm in Heerlen, der Salzbohrturm in Hengelo, eine Windmühle in Weidum, die Ziegelei in Zevenaar, eine Brauerei in Breda, die Kläranlage in Tilburg, eine Pferdekopfpumpe im Ölfeld Schoonebeek und ein Pin kurz südlich von Haarlem: das Dampfschöpfwerk Cruquius. Vom Bahnhof Haarlem sind es 15 Minuten mit dem Bus.",
+          "fr": "Quand tu ajoutes ces timbres dans StampIQ, par un scan ou depuis le catalogue, chacun reçoit sa fiche et « Afficher sur la carte » le place à son endroit réel. Les dix épingles se répartissent sur tout le pays : le chantier naval de botters à Spakenburg, les fours à chaux de Dedemsvaart, le puits de mine de Heerlen, la tour de forage de sel de Hengelo, un moulin à Weidum, la briqueterie de Zevenaar, une brasserie à Breda, la station d'épuration de Tilburg, une pompe du champ pétrolier de Schoonebeek, et une épingle juste au sud de Haarlem : la station de pompage à vapeur Cruquius. Elle est à 15 minutes en bus de la gare de Haarlem.",
+          "it": "When you add the stamps to StampIQ, with a scan or from the catalogue, each one gets its record, and \"Show on map\" puts it at its place. The ten pins spread across the whole country: the botter shipyard in Spakenburg, the lime kilns in Dedemsvaart, the mine shaft in Heerlen, the salt drilling tower in Hengelo, a windmill in Weidum, the brick factory in Zevenaar, a brewery in Breda, the water purification plant in Tilburg, a pumpjack in the Schoonebeek oil field, and one pin just south of Haarlem: the Cruquius steam pumping station. It is 15 minutes by bus from Haarlem station.",
+          "nl": "Zet je de zegels in StampIQ, met een scan of vanuit de catalogus, dan krijgt elke zegel een eigen vermelding en zet „Toon op kaart” hem op zijn plek. De tien spelden liggen verspreid over het hele land: de botterwerf in Spakenburg, de kalkovens in Dedemsvaart, de mijnschacht in Heerlen, de zoutboortoren in Hengelo, een molen in Weidum, de steenfabriek in Zevenaar, een brouwerij in Breda, de waterzuivering in Tilburg, een jaknikker in het olieveld Schoonebeek, en één speld net ten zuiden van Haarlem: het stoomgemaal Cruquius. Vanaf station Haarlem ben je er in 15 minuten met de bus.",
+          "pl": "When you add the stamps to StampIQ, with a scan or from the catalogue, each one gets its record, and \"Show on map\" puts it at its place. The ten pins spread across the whole country: the botter shipyard in Spakenburg, the lime kilns in Dedemsvaart, the mine shaft in Heerlen, the salt drilling tower in Hengelo, a windmill in Weidum, the brick factory in Zevenaar, a brewery in Breda, the water purification plant in Tilburg, a pumpjack in the Schoonebeek oil field, and one pin just south of Haarlem: the Cruquius steam pumping station. It is 15 minutes by bus from Haarlem station.",
+          "cs": "When you add the stamps to StampIQ, with a scan or from the catalogue, each one gets its record, and \"Show on map\" puts it at its place. The ten pins spread across the whole country: the botter shipyard in Spakenburg, the lime kilns in Dedemsvaart, the mine shaft in Heerlen, the salt drilling tower in Hengelo, a windmill in Weidum, the brick factory in Zevenaar, a brewery in Breda, the water purification plant in Tilburg, a pumpjack in the Schoonebeek oil field, and one pin just south of Haarlem: the Cruquius steam pumping station. It is 15 minutes by bus from Haarlem station.",
+          "sk": "When you add the stamps to StampIQ, with a scan or from the catalogue, each one gets its record, and \"Show on map\" puts it at its place. The ten pins spread across the whole country: the botter shipyard in Spakenburg, the lime kilns in Dedemsvaart, the mine shaft in Heerlen, the salt drilling tower in Hengelo, a windmill in Weidum, the brick factory in Zevenaar, a brewery in Breda, the water purification plant in Tilburg, a pumpjack in the Schoonebeek oil field, and one pin just south of Haarlem: the Cruquius steam pumping station. It is 15 minutes by bus from Haarlem station.",
+          "ro": "When you add the stamps to StampIQ, with a scan or from the catalogue, each one gets its record, and \"Show on map\" puts it at its place. The ten pins spread across the whole country: the botter shipyard in Spakenburg, the lime kilns in Dedemsvaart, the mine shaft in Heerlen, the salt drilling tower in Hengelo, a windmill in Weidum, the brick factory in Zevenaar, a brewery in Breda, the water purification plant in Tilburg, a pumpjack in the Schoonebeek oil field, and one pin just south of Haarlem: the Cruquius steam pumping station. It is 15 minutes by bus from Haarlem station.",
+          "hu": "When you add the stamps to StampIQ, with a scan or from the catalogue, each one gets its record, and \"Show on map\" puts it at its place. The ten pins spread across the whole country: the botter shipyard in Spakenburg, the lime kilns in Dedemsvaart, the mine shaft in Heerlen, the salt drilling tower in Hengelo, a windmill in Weidum, the brick factory in Zevenaar, a brewery in Breda, the water purification plant in Tilburg, a pumpjack in the Schoonebeek oil field, and one pin just south of Haarlem: the Cruquius steam pumping station. It is 15 minutes by bus from Haarlem station.",
+          "da": "When you add the stamps to StampIQ, with a scan or from the catalogue, each one gets its record, and \"Show on map\" puts it at its place. The ten pins spread across the whole country: the botter shipyard in Spakenburg, the lime kilns in Dedemsvaart, the mine shaft in Heerlen, the salt drilling tower in Hengelo, a windmill in Weidum, the brick factory in Zevenaar, a brewery in Breda, the water purification plant in Tilburg, a pumpjack in the Schoonebeek oil field, and one pin just south of Haarlem: the Cruquius steam pumping station. It is 15 minutes by bus from Haarlem station."
+        },
+        {
+          "en": "The sheet was designed by Piet Gerards with photos by Bart Sorgedrager and printed by The House of Questa. It came out on 24 September 2002, with a face value of €0.39 for each stamp.",
+          "de": "Den Bogen hat Piet Gerards gestaltet, mit Fotos von Bart Sorgedrager, gedruckt hat ihn The House of Questa. Er erschien am 24. September 2002, jede Marke mit einem Nennwert von 0,39 €.",
+          "fr": "La feuille a été dessinée par Piet Gerards, avec des photos de Bart Sorgedrager, et imprimée par The House of Questa. Elle est parue le 24 septembre 2002, chaque timbre ayant une valeur faciale de 0,39 €.",
+          "it": "The sheet was designed by Piet Gerards with photos by Bart Sorgedrager and printed by The House of Questa. It came out on 24 September 2002, with a face value of €0.39 for each stamp.",
+          "nl": "Het vel werd ontworpen door Piet Gerards met foto's van Bart Sorgedrager en gedrukt door The House of Questa. Het verscheen op 24 september 2002, met een nominale waarde van € 0,39 per zegel.",
+          "pl": "The sheet was designed by Piet Gerards with photos by Bart Sorgedrager and printed by The House of Questa. It came out on 24 September 2002, with a face value of €0.39 for each stamp.",
+          "cs": "The sheet was designed by Piet Gerards with photos by Bart Sorgedrager and printed by The House of Questa. It came out on 24 September 2002, with a face value of €0.39 for each stamp.",
+          "sk": "The sheet was designed by Piet Gerards with photos by Bart Sorgedrager and printed by The House of Questa. It came out on 24 September 2002, with a face value of €0.39 for each stamp.",
+          "ro": "The sheet was designed by Piet Gerards with photos by Bart Sorgedrager and printed by The House of Questa. It came out on 24 September 2002, with a face value of €0.39 for each stamp.",
+          "hu": "The sheet was designed by Piet Gerards with photos by Bart Sorgedrager and printed by The House of Questa. It came out on 24 September 2002, with a face value of €0.39 for each stamp.",
+          "da": "The sheet was designed by Piet Gerards with photos by Bart Sorgedrager and printed by The House of Questa. It came out on 24 September 2002, with a face value of €0.39 for each stamp."
+        }
+      ]
+    },
+    {
+      "id": "place",
+      "type": "text",
+      "label": {
+        "en": "The place",
+        "de": "Der Ort",
+        "fr": "Le lieu",
+        "it": "The place",
+        "nl": "De plek",
+        "pl": "The place",
+        "cs": "The place",
+        "sk": "The place",
+        "ro": "The place",
+        "hu": "The place",
+        "da": "The place"
+      },
+      "title": {
+        "en": "A round tower on the Ringvaart",
+        "de": "Ein runder Turm an der Ringvaart",
+        "fr": "Une tour ronde sur la Ringvaart",
+        "it": "A round tower on the Ringvaart",
+        "nl": "Een ronde toren aan de Ringvaart",
+        "pl": "A round tower on the Ringvaart",
+        "cs": "A round tower on the Ringvaart",
+        "sk": "A round tower on the Ringvaart",
+        "ro": "A round tower on the Ringvaart",
+        "hu": "A round tower on the Ringvaart",
+        "da": "A round tower on the Ringvaart"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/a7ccea4c0321f233/cruquius-tower.jpg",
+          "width": 2048,
+          "credit": "JustavanBergen, CC BY-SA 3.0",
+          "height": 1396,
+          "caption": {
+            "en": "The round tower with its beams, on the Ringvaart.",
+            "de": "Der runde Turm mit seinen Balanciers, an der Ringvaart.",
+            "fr": "La tour ronde et ses balanciers, au bord de la Ringvaart.",
+            "it": "The round tower with its beams, on the Ringvaart.",
+            "nl": "De ronde toren met zijn balansen, aan de Ringvaart.",
+            "pl": "The round tower with its beams, on the Ringvaart.",
+            "cs": "The round tower with its beams, on the Ringvaart.",
+            "sk": "The round tower with its beams, on the Ringvaart.",
+            "ro": "The round tower with its beams, on the Ringvaart.",
+            "hu": "The round tower with its beams, on the Ringvaart.",
+            "da": "The round tower with its beams, on the Ringvaart."
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:MuseumDeCruquius2015-JustJusta.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "You get off bus 340 at the Cruquiusbrug, walk a few minutes along the dike, and stand in front of a round brick tower in neo-Gothic style. Large beams stick out of its walls. The Cruquius was built from 1846 to 1849 and is now a national monument.",
+          "de": "Du steigst aus dem Bus 340 an der Cruquiusbrug, gehst ein paar Minuten am Deich entlang und stehst vor einem runden Backsteinturm im neugotischen Stil. Aus den Wänden ragen große Balanciers. Der Cruquius wurde von 1846 bis 1849 gebaut und ist heute ein staatlich geschütztes Denkmal.",
+          "fr": "Tu descends du bus 340 au Cruquiusbrug, tu marches quelques minutes le long de la digue et tu te retrouves devant une tour ronde en brique de style néogothique. De grands balanciers sortent de ses murs. Le Cruquius a été construit de 1846 à 1849 et il est aujourd'hui monument national.",
+          "it": "You get off bus 340 at the Cruquiusbrug, walk a few minutes along the dike, and stand in front of a round brick tower in neo-Gothic style. Large beams stick out of its walls. The Cruquius was built from 1846 to 1849 and is now a national monument.",
+          "nl": "Je stapt bij de Cruquiusbrug uit bus 340, loopt een paar minuten over de dijk en staat voor een ronde bakstenen toren in neogotische stijl. Uit de muren steken grote balansen. De Cruquius werd tussen 1846 en 1849 gebouwd en is nu een rijksmonument.",
+          "pl": "You get off bus 340 at the Cruquiusbrug, walk a few minutes along the dike, and stand in front of a round brick tower in neo-Gothic style. Large beams stick out of its walls. The Cruquius was built from 1846 to 1849 and is now a national monument.",
+          "cs": "You get off bus 340 at the Cruquiusbrug, walk a few minutes along the dike, and stand in front of a round brick tower in neo-Gothic style. Large beams stick out of its walls. The Cruquius was built from 1846 to 1849 and is now a national monument.",
+          "sk": "You get off bus 340 at the Cruquiusbrug, walk a few minutes along the dike, and stand in front of a round brick tower in neo-Gothic style. Large beams stick out of its walls. The Cruquius was built from 1846 to 1849 and is now a national monument.",
+          "ro": "You get off bus 340 at the Cruquiusbrug, walk a few minutes along the dike, and stand in front of a round brick tower in neo-Gothic style. Large beams stick out of its walls. The Cruquius was built from 1846 to 1849 and is now a national monument.",
+          "hu": "You get off bus 340 at the Cruquiusbrug, walk a few minutes along the dike, and stand in front of a round brick tower in neo-Gothic style. Large beams stick out of its walls. The Cruquius was built from 1846 to 1849 and is now a national monument.",
+          "da": "You get off bus 340 at the Cruquiusbrug, walk a few minutes along the dike, and stand in front of a round brick tower in neo-Gothic style. Large beams stick out of its walls. The Cruquius was built from 1846 to 1849 and is now a national monument."
+        },
+        {
+          "en": "The land behind the dike was once a lake, the Haarlemmermeer. In the 19th century it was pumped dry, and three steam pumping stations did the work: the Leeghwater, the Lynden and the Cruquius. They started in 1849, and by July 1852 the lake was dry. The new polder gave 18,000 hectares of farmland.",
+          "de": "Hinter dem Deich lag früher ein See, das Haarlemmermeer. Im 19. Jahrhundert wurde es leergepumpt, und drei Dampfschöpfwerke machten die Arbeit: Leeghwater, Lynden und Cruquius. 1849 nahmen sie den Betrieb auf, im Juli 1852 war der See trocken. Der neue Polder brachte 18.000 Hektar Ackerland.",
+          "fr": "Derrière la digue, il y avait autrefois un lac, le Haarlemmermeer. Au 19e siècle, on l'a asséché par pompage, et trois stations de pompage à vapeur ont fait le travail : le Leeghwater, le Lynden et le Cruquius. Elles ont démarré en 1849 et, en juillet 1852, le lac était à sec. Le nouveau polder a donné 18 000 hectares de terres agricoles.",
+          "it": "The land behind the dike was once a lake, the Haarlemmermeer. In the 19th century it was pumped dry, and three steam pumping stations did the work: the Leeghwater, the Lynden and the Cruquius. They started in 1849, and by July 1852 the lake was dry. The new polder gave 18,000 hectares of farmland.",
+          "nl": "Achter de dijk lag ooit een meer, de Haarlemmermeer. In de 19e eeuw werd het drooggemalen, en drie stoomgemalen deden dat werk: de Leeghwater, de Lynden en de Cruquius. Ze begonnen in 1849, en in juli 1852 was het meer droog. De nieuwe polder leverde 18.000 hectare landbouwgrond op.",
+          "pl": "The land behind the dike was once a lake, the Haarlemmermeer. In the 19th century it was pumped dry, and three steam pumping stations did the work: the Leeghwater, the Lynden and the Cruquius. They started in 1849, and by July 1852 the lake was dry. The new polder gave 18,000 hectares of farmland.",
+          "cs": "The land behind the dike was once a lake, the Haarlemmermeer. In the 19th century it was pumped dry, and three steam pumping stations did the work: the Leeghwater, the Lynden and the Cruquius. They started in 1849, and by July 1852 the lake was dry. The new polder gave 18,000 hectares of farmland.",
+          "sk": "The land behind the dike was once a lake, the Haarlemmermeer. In the 19th century it was pumped dry, and three steam pumping stations did the work: the Leeghwater, the Lynden and the Cruquius. They started in 1849, and by July 1852 the lake was dry. The new polder gave 18,000 hectares of farmland.",
+          "ro": "The land behind the dike was once a lake, the Haarlemmermeer. In the 19th century it was pumped dry, and three steam pumping stations did the work: the Leeghwater, the Lynden and the Cruquius. They started in 1849, and by July 1852 the lake was dry. The new polder gave 18,000 hectares of farmland.",
+          "hu": "The land behind the dike was once a lake, the Haarlemmermeer. In the 19th century it was pumped dry, and three steam pumping stations did the work: the Leeghwater, the Lynden and the Cruquius. They started in 1849, and by July 1852 the lake was dry. The new polder gave 18,000 hectares of farmland.",
+          "da": "The land behind the dike was once a lake, the Haarlemmermeer. In the 19th century it was pumped dry, and three steam pumping stations did the work: the Leeghwater, the Lynden and the Cruquius. They started in 1849, and by July 1852 the lake was dry. The new polder gave 18,000 hectares of farmland."
+        },
+        {
+          "en": "The Cruquius was retired in the early 1930s. At Leeghwater and Lynden the polder is still pumped dry today. In 1934 the Royal Netherlands Institute of Engineers took over the building, which is now Museum De Cruquius.",
+          "de": "Anfang der 1930er Jahre wurde der Cruquius stillgelegt. Leeghwater und Lynden pumpen den Polder bis heute trocken. 1934 übernahm das Königliche Niederländische Ingenieurinstitut das Gebäude, in dem heute das Museum De Cruquius ist.",
+          "fr": "Le Cruquius a été mis hors service au début des années 1930. À Leeghwater et à Lynden, le polder est encore pompé aujourd'hui. En 1934, l'Institut royal néerlandais des ingénieurs a repris le bâtiment, devenu le Museum De Cruquius.",
+          "it": "The Cruquius was retired in the early 1930s. At Leeghwater and Lynden the polder is still pumped dry today. In 1934 the Royal Netherlands Institute of Engineers took over the building, which is now Museum De Cruquius.",
+          "nl": "Begin jaren dertig ging de Cruquius uit bedrijf. De Leeghwater en de Lynden malen de polder vandaag nog altijd droog. In 1934 nam het Koninklijk Instituut van Ingenieurs het gebouw over. Nu is Museum De Cruquius er gevestigd.",
+          "pl": "The Cruquius was retired in the early 1930s. At Leeghwater and Lynden the polder is still pumped dry today. In 1934 the Royal Netherlands Institute of Engineers took over the building, which is now Museum De Cruquius.",
+          "cs": "The Cruquius was retired in the early 1930s. At Leeghwater and Lynden the polder is still pumped dry today. In 1934 the Royal Netherlands Institute of Engineers took over the building, which is now Museum De Cruquius.",
+          "sk": "The Cruquius was retired in the early 1930s. At Leeghwater and Lynden the polder is still pumped dry today. In 1934 the Royal Netherlands Institute of Engineers took over the building, which is now Museum De Cruquius.",
+          "ro": "The Cruquius was retired in the early 1930s. At Leeghwater and Lynden the polder is still pumped dry today. In 1934 the Royal Netherlands Institute of Engineers took over the building, which is now Museum De Cruquius.",
+          "hu": "The Cruquius was retired in the early 1930s. At Leeghwater and Lynden the polder is still pumped dry today. In 1934 the Royal Netherlands Institute of Engineers took over the building, which is now Museum De Cruquius.",
+          "da": "The Cruquius was retired in the early 1930s. At Leeghwater and Lynden the polder is still pumped dry today. In 1934 the Royal Netherlands Institute of Engineers took over the building, which is now Museum De Cruquius."
+        }
+      ]
+    },
+    {
+      "id": "figures",
+      "type": "numbers",
+      "label": {
+        "en": "In figures",
+        "de": "In Zahlen",
+        "fr": "En chiffres",
+        "it": "In figures",
+        "nl": "In cijfers",
+        "pl": "In figures",
+        "cs": "In figures",
+        "sk": "In figures",
+        "ro": "In figures",
+        "hu": "In figures",
+        "da": "In figures"
+      },
+      "title": {
+        "en": "The engine",
+        "de": "Die Maschine",
+        "fr": "La machine",
+        "it": "The engine",
+        "nl": "De machine",
+        "pl": "The engine",
+        "cs": "The engine",
+        "sk": "The engine",
+        "ro": "The engine",
+        "hu": "The engine",
+        "da": "The engine"
+      },
+      "numbers": [
+        {
+          "text": {
+            "en": "The diameter of the large cylinder, about 3.7 metres. The museum calls it the largest cylinder diameter of any steam engine in the world.",
+            "de": "Der Durchmesser des großen Zylinders, rund 3,7 Meter. Das Museum nennt das den größten Zylinderdurchmesser einer Dampfmaschine weltweit.",
+            "fr": "Le diamètre du grand cylindre, environ 3,7 mètres. Le musée y voit le plus grand diamètre de cylindre de toutes les machines à vapeur du monde.",
+            "it": "The diameter of the large cylinder, about 3.7 metres. The museum calls it the largest cylinder diameter of any steam engine in the world.",
+            "nl": "De diameter van de grote cilinder, ongeveer 3,7 meter. Volgens het museum is dat de grootste cilinderdiameter van alle stoommachines ter wereld.",
+            "pl": "The diameter of the large cylinder, about 3.7 metres. The museum calls it the largest cylinder diameter of any steam engine in the world.",
+            "cs": "The diameter of the large cylinder, about 3.7 metres. The museum calls it the largest cylinder diameter of any steam engine in the world.",
+            "sk": "The diameter of the large cylinder, about 3.7 metres. The museum calls it the largest cylinder diameter of any steam engine in the world.",
+            "ro": "The diameter of the large cylinder, about 3.7 metres. The museum calls it the largest cylinder diameter of any steam engine in the world.",
+            "hu": "The diameter of the large cylinder, about 3.7 metres. The museum calls it the largest cylinder diameter of any steam engine in the world.",
+            "da": "The diameter of the large cylinder, about 3.7 metres. The museum calls it the largest cylinder diameter of any steam engine in the world."
+          },
+          "title": {
+            "en": "Cylinder",
+            "de": "Zylinder",
+            "fr": "Cylindre",
+            "it": "Cylinder",
+            "nl": "Cilinder",
+            "pl": "Cylinder",
+            "cs": "Cylinder",
+            "sk": "Cylinder",
+            "ro": "Cylinder",
+            "hu": "Cylinder",
+            "da": "Cylinder"
+          },
+          "value": "144 in"
+        },
+        {
+          "text": {
+            "en": "Pumps around the tower, all driven by one central steam engine.",
+            "de": "Pumpen rund um den Turm, alle von einer zentralen Dampfmaschine angetrieben.",
+            "fr": "Des pompes disposées autour de la tour, toutes entraînées par une seule machine à vapeur centrale.",
+            "it": "Pumps around the tower, all driven by one central steam engine.",
+            "nl": "Pompen rond de toren, allemaal aangedreven door één centrale stoommachine.",
+            "pl": "Pumps around the tower, all driven by one central steam engine.",
+            "cs": "Pumps around the tower, all driven by one central steam engine.",
+            "sk": "Pumps around the tower, all driven by one central steam engine.",
+            "ro": "Pumps around the tower, all driven by one central steam engine.",
+            "hu": "Pumps around the tower, all driven by one central steam engine.",
+            "da": "Pumps around the tower, all driven by one central steam engine."
+          },
+          "title": {
+            "en": "Pumps",
+            "de": "Pumpen",
+            "fr": "Pompes",
+            "it": "Pumps",
+            "nl": "Pompen",
+            "pl": "Pumps",
+            "cs": "Pumps",
+            "sk": "Pumps",
+            "ro": "Pumps",
+            "hu": "Pumps",
+            "da": "Pumps"
+          },
+          "value": "8"
+        },
+        {
+          "text": {
+            "en": "Strokes a minute when the engine was pumping.",
+            "de": "Hübe pro Minute, wenn die Maschine pumpte.",
+            "fr": "Coups par minute quand la machine pompait.",
+            "it": "Strokes a minute when the engine was pumping.",
+            "nl": "Slagen per minuut als de machine maalde.",
+            "pl": "Strokes a minute when the engine was pumping.",
+            "cs": "Strokes a minute when the engine was pumping.",
+            "sk": "Strokes a minute when the engine was pumping.",
+            "ro": "Strokes a minute when the engine was pumping.",
+            "hu": "Strokes a minute when the engine was pumping.",
+            "da": "Strokes a minute when the engine was pumping."
+          },
+          "title": {
+            "en": "Strokes",
+            "de": "Hübe",
+            "fr": "Coups",
+            "it": "Strokes",
+            "nl": "Slagen",
+            "pl": "Strokes",
+            "cs": "Strokes",
+            "sk": "Strokes",
+            "ro": "Strokes",
+            "hu": "Strokes",
+            "da": "Strokes"
+          },
+          "value": "5"
+        },
+        {
+          "text": {
+            "en": "The farmland that came out of the lake.",
+            "de": "Das Ackerland, das aus dem See wurde.",
+            "fr": "Les terres agricoles sorties du lac.",
+            "it": "The farmland that came out of the lake.",
+            "nl": "De landbouwgrond die uit het meer kwam.",
+            "pl": "The farmland that came out of the lake.",
+            "cs": "The farmland that came out of the lake.",
+            "sk": "The farmland that came out of the lake.",
+            "ro": "The farmland that came out of the lake.",
+            "hu": "The farmland that came out of the lake.",
+            "da": "The farmland that came out of the lake."
+          },
+          "title": {
+            "en": "Farmland",
+            "de": "Ackerland",
+            "fr": "Terres agricoles",
+            "it": "Farmland",
+            "nl": "Landbouwgrond",
+            "pl": "Farmland",
+            "cs": "Farmland",
+            "sk": "Farmland",
+            "ro": "Farmland",
+            "hu": "Farmland",
+            "da": "Farmland"
+          },
+          "value": "18,000 ha"
+        }
+      ]
+    },
+    {
+      "id": "engine",
+      "type": "wide-photo",
+      "image": {
+        "src": "https://assets.stampiq.io/blog/a2e07d75f7bbd0f0/cruquius-aerial.jpg",
+        "width": 2400,
+        "credit": "Hanno Lans, CC BY 2.0",
+        "height": 1265,
+        "caption": {
+          "en": "The Cruquius from the air, on the Ringvaart.",
+          "de": "Der Cruquius aus der Luft, an der Ringvaart.",
+          "fr": "Le Cruquius vu du ciel, au bord de la Ringvaart.",
+          "it": "The Cruquius from the air, on the Ringvaart.",
+          "nl": "De Cruquius vanuit de lucht, aan de Ringvaart.",
+          "pl": "The Cruquius from the air, on the Ringvaart.",
+          "cs": "The Cruquius from the air, on the Ringvaart.",
+          "sk": "The Cruquius from the air, on the Ringvaart.",
+          "ro": "The Cruquius from the air, on the Ringvaart.",
+          "hu": "The Cruquius from the air, on the Ringvaart.",
+          "da": "The Cruquius from the air, on the Ringvaart."
+        },
+        "source_url": "https://commons.wikimedia.org/wiki/File:Gemaal_De_Cruquius_(19649242473).jpg"
+      }
+    },
+    {
+      "id": "visit",
+      "type": "text",
+      "label": {
+        "en": "The visit",
+        "de": "Der Besuch",
+        "fr": "La visite",
+        "it": "The visit",
+        "nl": "Het bezoek",
+        "pl": "The visit",
+        "cs": "The visit",
+        "sk": "The visit",
+        "ro": "The visit",
+        "hu": "The visit",
+        "da": "The visit"
+      },
+      "title": {
+        "en": "The engine in motion",
+        "de": "Die Maschine in Bewegung",
+        "fr": "La machine en mouvement",
+        "it": "The engine in motion",
+        "nl": "De machine in beweging",
+        "pl": "The engine in motion",
+        "cs": "The engine in motion",
+        "sk": "The engine in motion",
+        "ro": "The engine in motion",
+        "hu": "The engine in motion",
+        "da": "The engine in motion"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/4771083ac188d409/cruquius-cylinder.jpg",
+          "width": 1600,
+          "credit": "R. Hoogewoud / Rijksdienst voor het Cultureel Erfgoed, CC BY-SA 4.0",
+          "height": 2480,
+          "caption": {
+            "en": "The top of the engine's cylinder inside the tower.",
+            "de": "Der obere Teil des Zylinders im Inneren des Turms.",
+            "fr": "Le haut du cylindre de la machine, à l'intérieur de la tour.",
+            "it": "The top of the engine's cylinder inside the tower.",
+            "nl": "De bovenkant van de cilinder van de machine, binnen in de toren.",
+            "pl": "The top of the engine's cylinder inside the tower.",
+            "cs": "The top of the engine's cylinder inside the tower.",
+            "sk": "The top of the engine's cylinder inside the tower.",
+            "ro": "The top of the engine's cylinder inside the tower.",
+            "hu": "The top of the engine's cylinder inside the tower.",
+            "da": "The top of the engine's cylinder inside the tower."
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Interieur,_machinekamer_-_Cruquius_-_20356842_-_RCE.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "Inside the tower stands the engine, built by Harvey & Co in Hayle. It is a Cornish beam engine with two cylinders, 84 and 144 inches across, and it is thought to be the largest steam engine ever built. The beams you saw from outside belong to this engine.",
+          "de": "Im Turm steht die Maschine, gebaut von Harvey & Co in Hayle. Es ist eine Cornish-Balanciermaschine mit zwei Zylindern von 84 und 144 Zoll Durchmesser, und sie gilt als die größte je gebaute Dampfmaschine. Die Balanciers, die du von außen gesehen hast, gehören zu dieser Maschine.",
+          "fr": "Dans la tour se dresse la machine construite par Harvey & Co à Hayle. C'est une machine à balancier de type Cornish à deux cylindres, de 84 et 144 pouces de diamètre, considérée comme la plus grande machine à vapeur jamais construite. Les balanciers que tu as vus depuis l'extérieur appartiennent à cette machine.",
+          "it": "Inside the tower stands the engine, built by Harvey & Co in Hayle. It is a Cornish beam engine with two cylinders, 84 and 144 inches across, and it is thought to be the largest steam engine ever built. The beams you saw from outside belong to this engine.",
+          "nl": "In de toren staat de machine, gebouwd door Harvey & Co in Hayle. Het is een Cornish beam engine met twee cilinders van 84 en 144 inch, en hij geldt als de grootste stoommachine die ooit is gebouwd. De balansen die je van buiten zag, horen bij deze machine.",
+          "pl": "Inside the tower stands the engine, built by Harvey & Co in Hayle. It is a Cornish beam engine with two cylinders, 84 and 144 inches across, and it is thought to be the largest steam engine ever built. The beams you saw from outside belong to this engine.",
+          "cs": "Inside the tower stands the engine, built by Harvey & Co in Hayle. It is a Cornish beam engine with two cylinders, 84 and 144 inches across, and it is thought to be the largest steam engine ever built. The beams you saw from outside belong to this engine.",
+          "sk": "Inside the tower stands the engine, built by Harvey & Co in Hayle. It is a Cornish beam engine with two cylinders, 84 and 144 inches across, and it is thought to be the largest steam engine ever built. The beams you saw from outside belong to this engine.",
+          "ro": "Inside the tower stands the engine, built by Harvey & Co in Hayle. It is a Cornish beam engine with two cylinders, 84 and 144 inches across, and it is thought to be the largest steam engine ever built. The beams you saw from outside belong to this engine.",
+          "hu": "Inside the tower stands the engine, built by Harvey & Co in Hayle. It is a Cornish beam engine with two cylinders, 84 and 144 inches across, and it is thought to be the largest steam engine ever built. The beams you saw from outside belong to this engine.",
+          "da": "Inside the tower stands the engine, built by Harvey & Co in Hayle. It is a Cornish beam engine with two cylinders, 84 and 144 inches across, and it is thought to be the largest steam engine ever built. The beams you saw from outside belong to this engine."
+        },
+        {
+          "en": "Since 4 June 2002 the engine moves again, driven by hydraulics, a few months before the stamp came out. The museum shows it in motion to every visitor. On Sundays at 13:00 and 14:30 there are Living History tours. The Polderpaviljoen on the same site shows how the Haarlemmermeer developed after the lake was gone.",
+          "de": "Seit dem 4. Juni 2002, ein paar Monate vor dem Erscheinen der Marke, bewegt sich die Maschine wieder, angetrieben von Hydraulik. Das Museum zeigt sie jedem Besucher in Bewegung. Sonntags um 13:00 und 14:30 Uhr gibt es „Living History“-Führungen. Der Polderpaviljoen auf demselben Gelände zeigt, wie sich das Haarlemmermeer nach dem Ende des Sees entwickelt hat.",
+          "fr": "Depuis le 4 juin 2002, la machine bouge de nouveau, entraînée par un système hydraulique, quelques mois avant la sortie du timbre. Le musée la montre en mouvement à chaque visiteur. Le dimanche à 13 h et à 14 h 30, il y a des visites Living History. Le Polderpaviljoen, sur le même site, raconte comment le Haarlemmermeer s'est développé une fois le lac disparu.",
+          "it": "Since 4 June 2002 the engine moves again, driven by hydraulics, a few months before the stamp came out. The museum shows it in motion to every visitor. On Sundays at 13:00 and 14:30 there are Living History tours. The Polderpaviljoen on the same site shows how the Haarlemmermeer developed after the lake was gone.",
+          "nl": "Sinds 4 juni 2002, een paar maanden voor de zegel verscheen, beweegt de machine weer, aangedreven door hydrauliek. Het museum zet hem voor elke bezoeker in beweging. Op zondag zijn er om 13:00 en 14:30 uur Living History-rondleidingen. Het Polderpaviljoen op hetzelfde terrein laat zien hoe de Haarlemmermeer zich na het droogmalen ontwikkelde.",
+          "pl": "Since 4 June 2002 the engine moves again, driven by hydraulics, a few months before the stamp came out. The museum shows it in motion to every visitor. On Sundays at 13:00 and 14:30 there are Living History tours. The Polderpaviljoen on the same site shows how the Haarlemmermeer developed after the lake was gone.",
+          "cs": "Since 4 June 2002 the engine moves again, driven by hydraulics, a few months before the stamp came out. The museum shows it in motion to every visitor. On Sundays at 13:00 and 14:30 there are Living History tours. The Polderpaviljoen on the same site shows how the Haarlemmermeer developed after the lake was gone.",
+          "sk": "Since 4 June 2002 the engine moves again, driven by hydraulics, a few months before the stamp came out. The museum shows it in motion to every visitor. On Sundays at 13:00 and 14:30 there are Living History tours. The Polderpaviljoen on the same site shows how the Haarlemmermeer developed after the lake was gone.",
+          "ro": "Since 4 June 2002 the engine moves again, driven by hydraulics, a few months before the stamp came out. The museum shows it in motion to every visitor. On Sundays at 13:00 and 14:30 there are Living History tours. The Polderpaviljoen on the same site shows how the Haarlemmermeer developed after the lake was gone.",
+          "hu": "Since 4 June 2002 the engine moves again, driven by hydraulics, a few months before the stamp came out. The museum shows it in motion to every visitor. On Sundays at 13:00 and 14:30 there are Living History tours. The Polderpaviljoen on the same site shows how the Haarlemmermeer developed after the lake was gone.",
+          "da": "Since 4 June 2002 the engine moves again, driven by hydraulics, a few months before the stamp came out. The museum shows it in motion to every visitor. On Sundays at 13:00 and 14:30 there are Living History tours. The Polderpaviljoen on the same site shows how the Haarlemmermeer developed after the lake was gone."
+        },
+        {
+          "en": "Both buildings have lifts, so you can visit them with a wheelchair, and the museum lends wheelchairs and rollators. Theehuis Cruquius, reached from inside the museum, is open every day from 10:00 to 17:00. Dogs are not allowed, except assistance dogs.",
+          "de": "Beide Gebäude haben Aufzüge, du kannst sie also mit dem Rollstuhl besuchen, und das Museum verleiht Rollstühle und Rollatoren. Das Theehuis Cruquius, das du vom Museum aus erreichst, ist täglich von 10:00 bis 17:00 Uhr geöffnet. Hunde sind nicht erlaubt, Assistenzhunde ausgenommen.",
+          "fr": "Les deux bâtiments ont un ascenseur, donc la visite est possible en fauteuil roulant, et le musée prête des fauteuils roulants et des déambulateurs. Le Theehuis Cruquius, accessible depuis l'intérieur du musée, est ouvert tous les jours de 10 h à 17 h. Les chiens ne sont pas admis, sauf les chiens d'assistance.",
+          "it": "Both buildings have lifts, so you can visit them with a wheelchair, and the museum lends wheelchairs and rollators. Theehuis Cruquius, reached from inside the museum, is open every day from 10:00 to 17:00. Dogs are not allowed, except assistance dogs.",
+          "nl": "Beide gebouwen hebben liften, dus je kunt ze met een rolstoel bezoeken, en het museum leent rolstoelen en rollators uit. Theehuis Cruquius, dat je vanuit het museum bereikt, is elke dag open van 10:00 tot 17:00 uur. Honden mogen niet naar binnen, hulphonden wel.",
+          "pl": "Both buildings have lifts, so you can visit them with a wheelchair, and the museum lends wheelchairs and rollators. Theehuis Cruquius, reached from inside the museum, is open every day from 10:00 to 17:00. Dogs are not allowed, except assistance dogs.",
+          "cs": "Both buildings have lifts, so you can visit them with a wheelchair, and the museum lends wheelchairs and rollators. Theehuis Cruquius, reached from inside the museum, is open every day from 10:00 to 17:00. Dogs are not allowed, except assistance dogs.",
+          "sk": "Both buildings have lifts, so you can visit them with a wheelchair, and the museum lends wheelchairs and rollators. Theehuis Cruquius, reached from inside the museum, is open every day from 10:00 to 17:00. Dogs are not allowed, except assistance dogs.",
+          "ro": "Both buildings have lifts, so you can visit them with a wheelchair, and the museum lends wheelchairs and rollators. Theehuis Cruquius, reached from inside the museum, is open every day from 10:00 to 17:00. Dogs are not allowed, except assistance dogs.",
+          "hu": "Both buildings have lifts, so you can visit them with a wheelchair, and the museum lends wheelchairs and rollators. Theehuis Cruquius, reached from inside the museum, is open every day from 10:00 to 17:00. Dogs are not allowed, except assistance dogs.",
+          "da": "Both buildings have lifts, so you can visit them with a wheelchair, and the museum lends wheelchairs and rollators. Theehuis Cruquius, reached from inside the museum, is open every day from 10:00 to 17:00. Dogs are not allowed, except assistance dogs."
+        }
+      ]
+    },
+    {
+      "id": "practical",
+      "rows": [
+        {
+          "label": {
+            "en": "Address",
+            "de": "Adresse",
+            "fr": "Adresse",
+            "it": "Address",
+            "nl": "Adres",
+            "pl": "Address",
+            "cs": "Address",
+            "sk": "Address",
+            "ro": "Address",
+            "hu": "Address",
+            "da": "Address"
+          },
+          "value": {
+            "en": "Cruquiusdijk 27, 2142 ER Cruquius",
+            "de": "Cruquiusdijk 27, 2142 ER Cruquius",
+            "fr": "Cruquiusdijk 27, 2142 ER Cruquius",
+            "it": "Cruquiusdijk 27, 2142 ER Cruquius",
+            "nl": "Cruquiusdijk 27, 2142 ER Cruquius",
+            "pl": "Cruquiusdijk 27, 2142 ER Cruquius",
+            "cs": "Cruquiusdijk 27, 2142 ER Cruquius",
+            "sk": "Cruquiusdijk 27, 2142 ER Cruquius",
+            "ro": "Cruquiusdijk 27, 2142 ER Cruquius",
+            "hu": "Cruquiusdijk 27, 2142 ER Cruquius",
+            "da": "Cruquiusdijk 27, 2142 ER Cruquius"
+          }
+        },
+        {
+          "label": {
+            "en": "April to October",
+            "de": "April bis Oktober",
+            "fr": "D'avril à octobre",
+            "it": "April to October",
+            "nl": "April tot en met oktober",
+            "pl": "April to October",
+            "cs": "April to October",
+            "sk": "April to October",
+            "ro": "April to October",
+            "hu": "April to October",
+            "da": "April to October"
+          },
+          "value": {
+            "en": "Monday 13:00 to 17:00, Tuesday to Friday 10:00 to 17:00, Saturday and Sunday 11:00 to 17:00",
+            "de": "Montag 13:00 bis 17:00 Uhr, Dienstag bis Freitag 10:00 bis 17:00 Uhr, Samstag und Sonntag 11:00 bis 17:00 Uhr",
+            "fr": "Lundi de 13 h à 17 h, du mardi au vendredi de 10 h à 17 h, samedi et dimanche de 11 h à 17 h",
+            "it": "Monday 13:00 to 17:00, Tuesday to Friday 10:00 to 17:00, Saturday and Sunday 11:00 to 17:00",
+            "nl": "maandag 13:00 tot 17:00, dinsdag tot en met vrijdag 10:00 tot 17:00, zaterdag en zondag 11:00 tot 17:00",
+            "pl": "Monday 13:00 to 17:00, Tuesday to Friday 10:00 to 17:00, Saturday and Sunday 11:00 to 17:00",
+            "cs": "Monday 13:00 to 17:00, Tuesday to Friday 10:00 to 17:00, Saturday and Sunday 11:00 to 17:00",
+            "sk": "Monday 13:00 to 17:00, Tuesday to Friday 10:00 to 17:00, Saturday and Sunday 11:00 to 17:00",
+            "ro": "Monday 13:00 to 17:00, Tuesday to Friday 10:00 to 17:00, Saturday and Sunday 11:00 to 17:00",
+            "hu": "Monday 13:00 to 17:00, Tuesday to Friday 10:00 to 17:00, Saturday and Sunday 11:00 to 17:00",
+            "da": "Monday 13:00 to 17:00, Tuesday to Friday 10:00 to 17:00, Saturday and Sunday 11:00 to 17:00"
+          }
+        },
+        {
+          "label": {
+            "en": "November to March",
+            "de": "November bis März",
+            "fr": "De novembre à mars",
+            "it": "November to March",
+            "nl": "November tot en met maart",
+            "pl": "November to March",
+            "cs": "November to March",
+            "sk": "November to March",
+            "ro": "November to March",
+            "hu": "November to March",
+            "da": "November to March"
+          },
+          "value": {
+            "en": "Monday 13:00 to 17:00, Tuesday to Sunday 11:00 to 17:00",
+            "de": "Montag 13:00 bis 17:00 Uhr, Dienstag bis Sonntag 11:00 bis 17:00 Uhr",
+            "fr": "Lundi de 13 h à 17 h, du mardi au dimanche de 11 h à 17 h",
+            "it": "Monday 13:00 to 17:00, Tuesday to Sunday 11:00 to 17:00",
+            "nl": "maandag 13:00 tot 17:00, dinsdag tot en met zondag 11:00 tot 17:00",
+            "pl": "Monday 13:00 to 17:00, Tuesday to Sunday 11:00 to 17:00",
+            "cs": "Monday 13:00 to 17:00, Tuesday to Sunday 11:00 to 17:00",
+            "sk": "Monday 13:00 to 17:00, Tuesday to Sunday 11:00 to 17:00",
+            "ro": "Monday 13:00 to 17:00, Tuesday to Sunday 11:00 to 17:00",
+            "hu": "Monday 13:00 to 17:00, Tuesday to Sunday 11:00 to 17:00",
+            "da": "Monday 13:00 to 17:00, Tuesday to Sunday 11:00 to 17:00"
+          }
+        },
+        {
+          "label": {
+            "en": "Last entry",
+            "de": "Letzter Einlass",
+            "fr": "Dernière entrée",
+            "it": "Last entry",
+            "nl": "Laatste toegang",
+            "pl": "Last entry",
+            "cs": "Last entry",
+            "sk": "Last entry",
+            "ro": "Last entry",
+            "hu": "Last entry",
+            "da": "Last entry"
+          },
+          "value": {
+            "en": "16:30",
+            "de": "16:30 Uhr",
+            "fr": "16 h 30",
+            "it": "16:30",
+            "nl": "16:30",
+            "pl": "16:30",
+            "cs": "16:30",
+            "sk": "16:30",
+            "ro": "16:30",
+            "hu": "16:30",
+            "da": "16:30"
+          }
+        },
+        {
+          "label": {
+            "en": "Closed",
+            "de": "Geschlossen",
+            "fr": "Fermé",
+            "it": "Closed",
+            "nl": "Gesloten",
+            "pl": "Closed",
+            "cs": "Closed",
+            "sk": "Closed",
+            "ro": "Closed",
+            "hu": "Closed",
+            "da": "Closed"
+          },
+          "value": {
+            "en": "27 April, 5 December, 24 to 26 December, 31 December, 1 January",
+            "de": "27. April, 5. Dezember, 24. bis 26. Dezember, 31. Dezember, 1. Januar",
+            "fr": "27 avril, 5 décembre, du 24 au 26 décembre, 31 décembre, 1er janvier",
+            "it": "27 April, 5 December, 24 to 26 December, 31 December, 1 January",
+            "nl": "27 april, 5 december, 24 tot en met 26 december, 31 december, 1 januari",
+            "pl": "27 April, 5 December, 24 to 26 December, 31 December, 1 January",
+            "cs": "27 April, 5 December, 24 to 26 December, 31 December, 1 January",
+            "sk": "27 April, 5 December, 24 to 26 December, 31 December, 1 January",
+            "ro": "27 April, 5 December, 24 to 26 December, 31 December, 1 January",
+            "hu": "27 April, 5 December, 24 to 26 December, 31 December, 1 January",
+            "da": "27 April, 5 December, 24 to 26 December, 31 December, 1 January"
+          }
+        },
+        {
+          "label": {
+            "en": "Adults",
+            "de": "Erwachsene",
+            "fr": "Adultes",
+            "it": "Adults",
+            "nl": "Volwassenen",
+            "pl": "Adults",
+            "cs": "Adults",
+            "sk": "Adults",
+            "ro": "Adults",
+            "hu": "Adults",
+            "da": "Adults"
+          },
+          "value": {
+            "en": "€17.50 at the desk, €16.00 online",
+            "de": "17,50 € an der Kasse, 16,00 € online",
+            "fr": "17,50 € à la caisse, 16,00 € en ligne",
+            "it": "€17.50 at the desk, €16.00 online",
+            "nl": "€ 17,50 aan de kassa, € 16,00 online",
+            "pl": "€17.50 at the desk, €16.00 online",
+            "cs": "€17.50 at the desk, €16.00 online",
+            "sk": "€17.50 at the desk, €16.00 online",
+            "ro": "€17.50 at the desk, €16.00 online",
+            "hu": "€17.50 at the desk, €16.00 online",
+            "da": "€17.50 at the desk, €16.00 online"
+          }
+        },
+        {
+          "label": {
+            "en": "Children 5 to 12",
+            "de": "Kinder 5 bis 12",
+            "fr": "Enfants de 5 à 12 ans",
+            "it": "Children 5 to 12",
+            "nl": "Kinderen 5 tot en met 12",
+            "pl": "Children 5 to 12",
+            "cs": "Children 5 to 12",
+            "sk": "Children 5 to 12",
+            "ro": "Children 5 to 12",
+            "hu": "Children 5 to 12",
+            "da": "Children 5 to 12"
+          },
+          "value": {
+            "en": "€11.00 at the desk, €10.00 online",
+            "de": "11,00 € an der Kasse, 10,00 € online",
+            "fr": "11,00 € à la caisse, 10,00 € en ligne",
+            "it": "€11.00 at the desk, €10.00 online",
+            "nl": "€ 11,00 aan de kassa, € 10,00 online",
+            "pl": "€11.00 at the desk, €10.00 online",
+            "cs": "€11.00 at the desk, €10.00 online",
+            "sk": "€11.00 at the desk, €10.00 online",
+            "ro": "€11.00 at the desk, €10.00 online",
+            "hu": "€11.00 at the desk, €10.00 online",
+            "da": "€11.00 at the desk, €10.00 online"
+          }
+        },
+        {
+          "label": {
+            "en": "Youth 13 to 17",
+            "de": "Jugendliche 13 bis 17",
+            "fr": "Jeunes de 13 à 17 ans",
+            "it": "Youth 13 to 17",
+            "nl": "Jongeren 13 tot en met 17",
+            "pl": "Youth 13 to 17",
+            "cs": "Youth 13 to 17",
+            "sk": "Youth 13 to 17",
+            "ro": "Youth 13 to 17",
+            "hu": "Youth 13 to 17",
+            "da": "Youth 13 to 17"
+          },
+          "value": {
+            "en": "€13.00 at the desk, €12.00 online",
+            "de": "13,00 € an der Kasse, 12,00 € online",
+            "fr": "13,00 € à la caisse, 12,00 € en ligne",
+            "it": "€13.00 at the desk, €12.00 online",
+            "nl": "€ 13,00 aan de kassa, € 12,00 online",
+            "pl": "€13.00 at the desk, €12.00 online",
+            "cs": "€13.00 at the desk, €12.00 online",
+            "sk": "€13.00 at the desk, €12.00 online",
+            "ro": "€13.00 at the desk, €12.00 online",
+            "hu": "€13.00 at the desk, €12.00 online",
+            "da": "€13.00 at the desk, €12.00 online"
+          }
+        },
+        {
+          "label": {
+            "en": "Family ticket",
+            "de": "Familienticket",
+            "fr": "Billet famille",
+            "it": "Family ticket",
+            "nl": "Familieticket",
+            "pl": "Family ticket",
+            "cs": "Family ticket",
+            "sk": "Family ticket",
+            "ro": "Family ticket",
+            "hu": "Family ticket",
+            "da": "Family ticket"
+          },
+          "value": {
+            "en": "€50, online only",
+            "de": "50 €, nur online",
+            "fr": "50 €, uniquement en ligne",
+            "it": "€50, online only",
+            "nl": "€ 50, alleen online",
+            "pl": "€50, online only",
+            "cs": "€50, online only",
+            "sk": "€50, online only",
+            "ro": "€50, online only",
+            "hu": "€50, online only",
+            "da": "€50, online only"
+          }
+        },
+        {
+          "label": {
+            "en": "Museumkaart",
+            "de": "Museumkaart",
+            "fr": "Museumkaart",
+            "it": "Museumkaart",
+            "nl": "Museumkaart",
+            "pl": "Museumkaart",
+            "cs": "Museumkaart",
+            "sk": "Museumkaart",
+            "ro": "Museumkaart",
+            "hu": "Museumkaart",
+            "da": "Museumkaart"
+          },
+          "value": {
+            "en": "Free",
+            "de": "Kostenlos",
+            "fr": "Gratuit",
+            "it": "Free",
+            "nl": "Gratis",
+            "pl": "Free",
+            "cs": "Free",
+            "sk": "Free",
+            "ro": "Free",
+            "hu": "Free",
+            "da": "Free"
+          }
+        },
+        {
+          "label": {
+            "en": "Contact",
+            "de": "Kontakt",
+            "fr": "Contact",
+            "it": "Contact",
+            "nl": "Contact",
+            "pl": "Contact",
+            "cs": "Contact",
+            "sk": "Contact",
+            "ro": "Contact",
+            "hu": "Contact",
+            "da": "Contact"
+          },
+          "value": {
+            "en": "023 52 857 04",
+            "de": "023 52 857 04",
+            "fr": "023 52 857 04",
+            "it": "023 52 857 04",
+            "nl": "023 52 857 04",
+            "pl": "023 52 857 04",
+            "cs": "023 52 857 04",
+            "sk": "023 52 857 04",
+            "ro": "023 52 857 04",
+            "hu": "023 52 857 04",
+            "da": "023 52 857 04"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "Practical",
+        "de": "Praktisches",
+        "fr": "Pratique",
+        "it": "Practical",
+        "nl": "Praktisch",
+        "pl": "Practical",
+        "cs": "Practical",
+        "sk": "Practical",
+        "ro": "Practical",
+        "hu": "Practical",
+        "da": "Practical"
+      },
+      "title": {
+        "en": "What you need to know",
+        "de": "Was du wissen musst",
+        "fr": "Ce qu'il faut savoir",
+        "it": "What you need to know",
+        "nl": "Wat je moet weten",
+        "pl": "What you need to know",
+        "cs": "What you need to know",
+        "sk": "What you need to know",
+        "ro": "What you need to know",
+        "hu": "What you need to know",
+        "da": "What you need to know"
+      },
+      "buttons": [
+        {
+          "href": "https://cruquius-museum.nl/",
+          "label": {
+            "en": "Official website",
+            "de": "Offizielle Website",
+            "fr": "Site officiel",
+            "it": "Official website",
+            "nl": "Officiële website",
+            "pl": "Official website",
+            "cs": "Official website",
+            "sk": "Official website",
+            "ro": "Official website",
+            "hu": "Official website",
+            "da": "Official website"
+          }
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "type": "tiles",
+      "label": {
+        "en": "How to get there",
+        "de": "Anfahrt",
+        "fr": "Comment y aller",
+        "it": "How to get there",
+        "nl": "Zo kom je er",
+        "pl": "How to get there",
+        "cs": "How to get there",
+        "sk": "How to get there",
+        "ro": "How to get there",
+        "hu": "How to get there",
+        "da": "How to get there"
+      },
+      "tiles": [
+        {
+          "icon": "pin",
+          "text": {
+            "en": "Bus 340 from Haarlem station towards Hoofddorp and Uithoorn takes about 15 minutes to the stop Cruquiusbrug / Cruquius Museum, 250 metres from the entrance.",
+            "de": "Der Bus 340 vom Bahnhof Haarlem Richtung Hoofddorp und Uithoorn braucht etwa 15 Minuten bis zur Haltestelle Cruquiusbrug / Cruquius Museum, 250 Meter vom Eingang entfernt.",
+            "fr": "Le bus 340 au départ de la gare de Haarlem, direction Hoofddorp et Uithoorn, met environ 15 minutes jusqu'à l'arrêt Cruquiusbrug / Cruquius Museum, à 250 mètres de l'entrée.",
+            "it": "Bus 340 from Haarlem station towards Hoofddorp and Uithoorn takes about 15 minutes to the stop Cruquiusbrug / Cruquius Museum, 250 metres from the entrance.",
+            "nl": "Bus 340 vanaf station Haarlem richting Hoofddorp en Uithoorn doet er ongeveer 15 minuten over naar de halte Cruquiusbrug / Cruquius Museum, 250 meter van de ingang.",
+            "pl": "Bus 340 from Haarlem station towards Hoofddorp and Uithoorn takes about 15 minutes to the stop Cruquiusbrug / Cruquius Museum, 250 metres from the entrance.",
+            "cs": "Bus 340 from Haarlem station towards Hoofddorp and Uithoorn takes about 15 minutes to the stop Cruquiusbrug / Cruquius Museum, 250 metres from the entrance.",
+            "sk": "Bus 340 from Haarlem station towards Hoofddorp and Uithoorn takes about 15 minutes to the stop Cruquiusbrug / Cruquius Museum, 250 metres from the entrance.",
+            "ro": "Bus 340 from Haarlem station towards Hoofddorp and Uithoorn takes about 15 minutes to the stop Cruquiusbrug / Cruquius Museum, 250 metres from the entrance.",
+            "hu": "Bus 340 from Haarlem station towards Hoofddorp and Uithoorn takes about 15 minutes to the stop Cruquiusbrug / Cruquius Museum, 250 metres from the entrance.",
+            "da": "Bus 340 from Haarlem station towards Hoofddorp and Uithoorn takes about 15 minutes to the stop Cruquiusbrug / Cruquius Museum, 250 metres from the entrance."
+          },
+          "title": {
+            "en": "From Haarlem",
+            "de": "Ab Haarlem",
+            "fr": "Depuis Haarlem",
+            "it": "From Haarlem",
+            "nl": "Vanuit Haarlem",
+            "pl": "From Haarlem",
+            "cs": "From Haarlem",
+            "sk": "From Haarlem",
+            "ro": "From Haarlem",
+            "hu": "From Haarlem",
+            "da": "From Haarlem"
+          }
+        },
+        {
+          "icon": "train",
+          "text": {
+            "en": "Take the train to Hoofddorp, about 20 minutes, and then bus 340 towards Haarlem, about 15 minutes.",
+            "de": "Mit dem Zug nach Hoofddorp, etwa 20 Minuten, dann mit dem Bus 340 Richtung Haarlem, etwa 15 Minuten.",
+            "fr": "Prends le train jusqu'à Hoofddorp, environ 20 minutes, puis le bus 340 en direction de Haarlem, environ 15 minutes.",
+            "it": "Take the train to Hoofddorp, about 20 minutes, and then bus 340 towards Haarlem, about 15 minutes.",
+            "nl": "Met de trein naar Hoofddorp, ongeveer 20 minuten, en dan bus 340 richting Haarlem, ongeveer 15 minuten.",
+            "pl": "Take the train to Hoofddorp, about 20 minutes, and then bus 340 towards Haarlem, about 15 minutes.",
+            "cs": "Take the train to Hoofddorp, about 20 minutes, and then bus 340 towards Haarlem, about 15 minutes.",
+            "sk": "Take the train to Hoofddorp, about 20 minutes, and then bus 340 towards Haarlem, about 15 minutes.",
+            "ro": "Take the train to Hoofddorp, about 20 minutes, and then bus 340 towards Haarlem, about 15 minutes.",
+            "hu": "Take the train to Hoofddorp, about 20 minutes, and then bus 340 towards Haarlem, about 15 minutes.",
+            "da": "Take the train to Hoofddorp, about 20 minutes, and then bus 340 towards Haarlem, about 15 minutes."
+          },
+          "title": {
+            "en": "From Amsterdam",
+            "de": "Ab Amsterdam",
+            "fr": "Depuis Amsterdam",
+            "it": "From Amsterdam",
+            "nl": "Vanuit Amsterdam",
+            "pl": "From Amsterdam",
+            "cs": "From Amsterdam",
+            "sk": "From Amsterdam",
+            "ro": "From Amsterdam",
+            "hu": "From Amsterdam",
+            "da": "From Amsterdam"
+          }
+        },
+        {
+          "icon": "car",
+          "text": {
+            "en": "From Amsterdam take the A10, A5 and N201, from Haarlem the N208; parking behind the pumping station is free.",
+            "de": "Von Amsterdam über A10, A5 und N201, von Haarlem über die N208; die Parkplätze hinter dem Schöpfwerk sind kostenlos.",
+            "fr": "Depuis Amsterdam par l'A10, l'A5 et la N201, depuis Haarlem par la N208 ; le parking derrière la station de pompage est gratuit.",
+            "it": "From Amsterdam take the A10, A5 and N201, from Haarlem the N208; parking behind the pumping station is free.",
+            "nl": "Vanuit Amsterdam rijd je over de A10, A5 en N201, vanuit Haarlem over de N208; parkeren achter het gemaal is gratis.",
+            "pl": "From Amsterdam take the A10, A5 and N201, from Haarlem the N208; parking behind the pumping station is free.",
+            "cs": "From Amsterdam take the A10, A5 and N201, from Haarlem the N208; parking behind the pumping station is free.",
+            "sk": "From Amsterdam take the A10, A5 and N201, from Haarlem the N208; parking behind the pumping station is free.",
+            "ro": "From Amsterdam take the A10, A5 and N201, from Haarlem the N208; parking behind the pumping station is free.",
+            "hu": "From Amsterdam take the A10, A5 and N201, from Haarlem the N208; parking behind the pumping station is free.",
+            "da": "From Amsterdam take the A10, A5 and N201, from Haarlem the N208; parking behind the pumping station is free."
+          },
+          "title": {
+            "en": "By car",
+            "de": "Mit dem Auto",
+            "fr": "En voiture",
+            "it": "By car",
+            "nl": "Met de auto",
+            "pl": "By car",
+            "cs": "By car",
+            "sk": "By car",
+            "ro": "By car",
+            "hu": "By car",
+            "da": "By car"
+          }
+        },
+        {
+          "icon": "pin",
+          "text": {
+            "en": "The museum has a 15-metre jetty on the Ringvaart, which you book by phone.",
+            "de": "Das Museum hat an der Ringvaart einen 15 Meter langen Steg, den du telefonisch reservieren kannst.",
+            "fr": "Le musée dispose d'un ponton de 15 mètres sur la Ringvaart, à réserver par téléphone.",
+            "it": "The museum has a 15-metre jetty on the Ringvaart, which you book by phone.",
+            "nl": "Het museum heeft een steiger van 15 meter aan de Ringvaart, die je telefonisch reserveert.",
+            "pl": "The museum has a 15-metre jetty on the Ringvaart, which you book by phone.",
+            "cs": "The museum has a 15-metre jetty on the Ringvaart, which you book by phone.",
+            "sk": "The museum has a 15-metre jetty on the Ringvaart, which you book by phone.",
+            "ro": "The museum has a 15-metre jetty on the Ringvaart, which you book by phone.",
+            "hu": "The museum has a 15-metre jetty on the Ringvaart, which you book by phone.",
+            "da": "The museum has a 15-metre jetty on the Ringvaart, which you book by phone."
+          },
+          "title": {
+            "en": "By boat",
+            "de": "Mit dem Boot",
+            "fr": "En bateau",
+            "it": "By boat",
+            "nl": "Met de boot",
+            "pl": "By boat",
+            "cs": "By boat",
+            "sk": "By boat",
+            "ro": "By boat",
+            "hu": "By boat",
+            "da": "By boat"
+          }
+        }
+      ],
+      "title": {
+        "en": "By bus, car or boat",
+        "de": "Mit Bus, Auto oder Boot",
+        "fr": "En bus, en voiture ou en bateau",
+        "it": "By bus, car or boat",
+        "nl": "Met bus, auto of boot",
+        "pl": "By bus, car or boat",
+        "cs": "By bus, car or boat",
+        "sk": "By bus, car or boat",
+        "ro": "By bus, car or boat",
+        "hu": "By bus, car or boat",
+        "da": "By bus, car or boat"
+      }
+    },
+    {
+      "id": "after",
+      "type": "text",
+      "label": {
+        "en": "Afterwards",
+        "de": "Danach",
+        "fr": "Après la visite",
+        "it": "Afterwards",
+        "nl": "Daarna",
+        "pl": "Afterwards",
+        "cs": "Afterwards",
+        "sk": "Afterwards",
+        "ro": "Afterwards",
+        "hu": "Afterwards",
+        "da": "Afterwards"
+      },
+      "title": {
+        "en": "The next pin",
+        "de": "Der nächste Pin",
+        "fr": "L'épingle suivante",
+        "it": "The next pin",
+        "nl": "De volgende speld",
+        "pl": "The next pin",
+        "cs": "The next pin",
+        "sk": "The next pin",
+        "ro": "The next pin",
+        "hu": "The next pin",
+        "da": "The next pin"
+      },
+      "visual": {
+        "type": "animation",
+        "animation": {
+          "src": "https://assets.stampiq.io/blog/e42b6131ea4ae491/industrial-heritage-collection.mp4",
+          "width": 960,
+          "height": 1706,
+          "poster": "https://assets.stampiq.io/blog/ba6c5dd64771e6ea/industrial-heritage-collection.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "The steam pumping station De Lynden in Lijnden, built in 1849 like the Cruquius, was restored and reopened in 2015. Since June 2024 the old building has housed the restaurant Quatre Beach, so you can have lunch in the second of the three stations.",
+          "de": "Das Dampfschöpfwerk De Lynden in Lijnden, wie der Cruquius 1849 gebaut, wurde restauriert und 2015 wiedereröffnet. Seit Juni 2024 ist im alten Gebäude das Restaurant Quatre Beach, du kannst also im zweiten der drei Schöpfwerke zu Mittag essen.",
+          "fr": "La station de pompage à vapeur De Lynden, à Lijnden, construite en 1849 comme le Cruquius, a été restaurée et rouverte en 2015. Depuis juin 2024, l'ancien bâtiment abrite le restaurant Quatre Beach, ce qui te permet de déjeuner dans la deuxième des trois stations.",
+          "it": "The steam pumping station De Lynden in Lijnden, built in 1849 like the Cruquius, was restored and reopened in 2015. Since June 2024 the old building has housed the restaurant Quatre Beach, so you can have lunch in the second of the three stations.",
+          "nl": "Stoomgemaal De Lynden in Lijnden, net als de Cruquius uit 1849, werd gerestaureerd en ging in 2015 weer open. Sinds juni 2024 zit restaurant Quatre Beach in het oude gebouw, dus je kunt lunchen in het tweede van de drie gemalen.",
+          "pl": "The steam pumping station De Lynden in Lijnden, built in 1849 like the Cruquius, was restored and reopened in 2015. Since June 2024 the old building has housed the restaurant Quatre Beach, so you can have lunch in the second of the three stations.",
+          "cs": "The steam pumping station De Lynden in Lijnden, built in 1849 like the Cruquius, was restored and reopened in 2015. Since June 2024 the old building has housed the restaurant Quatre Beach, so you can have lunch in the second of the three stations.",
+          "sk": "The steam pumping station De Lynden in Lijnden, built in 1849 like the Cruquius, was restored and reopened in 2015. Since June 2024 the old building has housed the restaurant Quatre Beach, so you can have lunch in the second of the three stations.",
+          "ro": "The steam pumping station De Lynden in Lijnden, built in 1849 like the Cruquius, was restored and reopened in 2015. Since June 2024 the old building has housed the restaurant Quatre Beach, so you can have lunch in the second of the three stations.",
+          "hu": "The steam pumping station De Lynden in Lijnden, built in 1849 like the Cruquius, was restored and reopened in 2015. Since June 2024 the old building has housed the restaurant Quatre Beach, so you can have lunch in the second of the three stations.",
+          "da": "The steam pumping station De Lynden in Lijnden, built in 1849 like the Cruquius, was restored and reopened in 2015. Since June 2024 the old building has housed the restaurant Quatre Beach, so you can have lunch in the second of the three stations."
+        },
+        {
+          "en": "Back home, the map still has nine pins from the same sheet, and the badge on each stamp shows which of them are in your collection.",
+          "de": "Zu Hause liegen auf der Karte noch neun weitere Pins aus demselben Bogen, und das Abzeichen an jeder Marke zeigt, welche davon in deiner Sammlung sind.",
+          "fr": "De retour chez toi, la carte garde neuf épingles issues de la même feuille, et le badge sur chaque timbre indique lesquels sont dans ta collection.",
+          "it": "Back home, the map still has nine pins from the same sheet, and the badge on each stamp shows which of them are in your collection.",
+          "nl": "Thuis staan de negen andere zegels van hetzelfde vel als spelden op de kaart, en de badge bij elke zegel laat zien welke daarvan in je verzameling zitten.",
+          "pl": "Back home, the map still has nine pins from the same sheet, and the badge on each stamp shows which of them are in your collection.",
+          "cs": "Back home, the map still has nine pins from the same sheet, and the badge on each stamp shows which of them are in your collection.",
+          "sk": "Back home, the map still has nine pins from the same sheet, and the badge on each stamp shows which of them are in your collection.",
+          "ro": "Back home, the map still has nine pins from the same sheet, and the badge on each stamp shows which of them are in your collection.",
+          "hu": "Back home, the map still has nine pins from the same sheet, and the badge on each stamp shows which of them are in your collection.",
+          "da": "Back home, the map still has nine pins from the same sheet, and the badge on each stamp shows which of them are in your collection."
+        }
+      ]
+    }
+  ]
+}
