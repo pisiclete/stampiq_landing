@@ -1,0 +1,1041 @@
+{
+  "category": "day-trips",
+  "markets": [
+    "CH",
+    "LI",
+    "DE",
+    "AT"
+  ],
+  "langs": [
+    "en",
+    "de",
+    "fr",
+    "it"
+  ],
+  "published_at": "2026-09-25T07:00:00+00:00",
+  "thumbnail": {
+    "src": "https://assets.stampiq.io/blog/927dddf935d735be/niederfinow-stamp.png",
+    "width": 1037,
+    "height": 632
+  },
+  "languages": {
+    "en": {
+      "slug": "day-trip-niederfinow-ship-lift",
+      "title": "Day trip: the Niederfinow ship lift",
+      "description": "A GDR stamp from 1988 shows a steel frame over a canal. It is a ship lift from 1934, it still works, and you can go through it on a boat."
+    },
+    "de": {
+      "slug": "tagesausflug-schiffshebewerk-niederfinow",
+      "title": "Tagesausflug: das Schiffshebewerk Niederfinow",
+      "description": "Eine DDR-Marke von 1988 zeigt ein Stahlgerüst über einem Kanal. Es ist ein Schiffshebewerk von 1934, es arbeitet noch, und du kannst per Boot hindurchfahren."
+    },
+    "fr": {
+      "slug": "excursion-ascenseur-bateaux-niederfinow",
+      "title": "Excursion : l'ascenseur à bateaux de Niederfinow",
+      "description": "Un timbre de RDA de 1988 montre une charpente d'acier sur un canal. Cet ascenseur à bateaux de 1934 fonctionne encore et tu peux le traverser en bateau."
+    },
+    "it": {
+      "slug": "gita-al-sollevatore-di-navi-niederfinow",
+      "title": "Gita di un giorno: il sollevatore di Niederfinow",
+      "description": "Un francobollo della DDR del 1988 mostra una struttura d'acciaio sopra un canale. È un sollevatore di navi del 1934, funziona ancora e ci puoi passare in barca."
+    },
+    "nl": {
+      "slug": "day-trip-niederfinow-ship-lift",
+      "title": "Day trip: the Niederfinow ship lift",
+      "description": "A GDR stamp from 1988 shows a steel frame over a canal. It is a ship lift from 1934, it still works, and you can go through it on a boat."
+    },
+    "pl": {
+      "slug": "day-trip-niederfinow-ship-lift",
+      "title": "Day trip: the Niederfinow ship lift",
+      "description": "A GDR stamp from 1988 shows a steel frame over a canal. It is a ship lift from 1934, it still works, and you can go through it on a boat."
+    },
+    "cs": {
+      "slug": "day-trip-niederfinow-ship-lift",
+      "title": "Day trip: the Niederfinow ship lift",
+      "description": "A GDR stamp from 1988 shows a steel frame over a canal. It is a ship lift from 1934, it still works, and you can go through it on a boat."
+    },
+    "sk": {
+      "slug": "day-trip-niederfinow-ship-lift",
+      "title": "Day trip: the Niederfinow ship lift",
+      "description": "A GDR stamp from 1988 shows a steel frame over a canal. It is a ship lift from 1934, it still works, and you can go through it on a boat."
+    },
+    "ro": {
+      "slug": "day-trip-niederfinow-ship-lift",
+      "title": "Day trip: the Niederfinow ship lift",
+      "description": "A GDR stamp from 1988 shows a steel frame over a canal. It is a ship lift from 1934, it still works, and you can go through it on a boat."
+    },
+    "hu": {
+      "slug": "day-trip-niederfinow-ship-lift",
+      "title": "Day trip: the Niederfinow ship lift",
+      "description": "A GDR stamp from 1988 shows a steel frame over a canal. It is a ship lift from 1934, it still works, and you can go through it on a boat."
+    },
+    "da": {
+      "slug": "day-trip-niederfinow-ship-lift",
+      "title": "Day trip: the Niederfinow ship lift",
+      "description": "A GDR stamp from 1988 shows a steel frame over a canal. It is a ship lift from 1934, it still works, and you can go through it on a boat."
+    }
+  },
+  "header": {
+    "lead": {
+      "en": "A 35-pfennig stamp from 1988 shows a steel frame over a canal. It stands northeast of Berlin, it still lifts ships, and you can ride through it.",
+      "de": "Eine 35-Pfennig-Marke von 1988 zeigt ein Stahlgerüst über einem Kanal. Es steht nordöstlich von Berlin, es hebt noch heute Schiffe, und du kannst damit fahren.",
+      "fr": "Un timbre à 35 pfennigs de 1988 montre une charpente d'acier au-dessus d'un canal. Elle se dresse au nord-est de Berlin, elle soulève toujours des bateaux, et tu peux la traverser.",
+      "it": "Un francobollo da 35 pfennig del 1988 mostra una struttura d'acciaio sopra un canale. Si trova a nord-est di Berlino, solleva ancora le navi e la puoi attraversare in barca.",
+      "nl": "A 35-pfennig stamp from 1988 shows a steel frame over a canal. It stands northeast of Berlin, it still lifts ships, and you can ride through it.",
+      "pl": "A 35-pfennig stamp from 1988 shows a steel frame over a canal. It stands northeast of Berlin, it still lifts ships, and you can ride through it.",
+      "cs": "A 35-pfennig stamp from 1988 shows a steel frame over a canal. It stands northeast of Berlin, it still lifts ships, and you can ride through it.",
+      "sk": "A 35-pfennig stamp from 1988 shows a steel frame over a canal. It stands northeast of Berlin, it still lifts ships, and you can ride through it.",
+      "ro": "A 35-pfennig stamp from 1988 shows a steel frame over a canal. It stands northeast of Berlin, it still lifts ships, and you can ride through it.",
+      "hu": "A 35-pfennig stamp from 1988 shows a steel frame over a canal. It stands northeast of Berlin, it still lifts ships, and you can ride through it.",
+      "da": "A 35-pfennig stamp from 1988 shows a steel frame over a canal. It stands northeast of Berlin, it still lifts ships, and you can ride through it."
+    },
+    "visual": {
+      "type": "stamp",
+      "stamp": {
+        "name": {
+          "en": "Niederfinow Ship Lift, Engineering Monument",
+          "de": "Schiffshebewerk Niederfinow, Technisches Denkmal",
+          "fr": "Ascenseur à bateaux de Niederfinow, monument technique",
+          "it": "Sollevatore di navi di Niederfinow, monumento tecnico",
+          "nl": "Niederfinow Ship Lift, Engineering Monument",
+          "pl": "Niederfinow Ship Lift, Engineering Monument",
+          "cs": "Niederfinow Ship Lift, Engineering Monument",
+          "sk": "Niederfinow Ship Lift, Engineering Monument",
+          "ro": "Niederfinow Ship Lift, Engineering Monument",
+          "hu": "Niederfinow Ship Lift, Engineering Monument",
+          "da": "Niederfinow Ship Lift, Engineering Monument"
+        },
+        "year": 1988,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/927dddf935d735be/niederfinow-stamp.png",
+          "width": 1037,
+          "height": 632
+        },
+        "country": "DE",
+        "stamp_id": "SIQ-DDR-1988-066"
+      }
+    },
+    "buttons": [],
+    "location": "Niederfinow, Brandenburg, Germany"
+  },
+  "blocks": [
+    {
+      "id": "album",
+      "type": "text",
+      "label": {
+        "en": "In your album",
+        "de": "In deinem Album",
+        "fr": "Dans ton album",
+        "it": "Nel tuo album",
+        "nl": "In your album",
+        "pl": "In your album",
+        "cs": "In your album",
+        "sk": "In your album",
+        "ro": "In your album",
+        "hu": "In your album",
+        "da": "In your album"
+      },
+      "title": {
+        "en": "A steel frame on a stamp",
+        "de": "Ein Stahlgerüst auf der Marke",
+        "fr": "Une charpente d'acier sur un timbre",
+        "it": "Una struttura d'acciaio su un francobollo",
+        "nl": "A steel frame on a stamp",
+        "pl": "A steel frame on a stamp",
+        "cs": "A steel frame on a stamp",
+        "sk": "A steel frame on a stamp",
+        "ro": "A steel frame on a stamp",
+        "hu": "A steel frame on a stamp",
+        "da": "A steel frame on a stamp"
+      },
+      "visual": {
+        "type": "animation",
+        "animation": {
+          "src": "https://assets.stampiq.io/blog/0bc67ba7074b2815/niederfinow-show-on-map.mp4",
+          "width": 960,
+          "height": 1706,
+          "poster": "https://assets.stampiq.io/blog/8f35b0e44c1f7514/niederfinow-show-on-map.jpg"
+        }
+      },
+      "buttons": [],
+      "paragraphs": [
+        {
+          "en": "You are going through your GDR stamps and stop at a 35-pfennig stamp from 1988. It shows a large steel frame above a canal, and the inscription says \"Schiffshebewerk Niederfinow\". You probably know it is a technical monument. Where exactly it stands, and whether it still exists, the stamp does not tell you.",
+          "de": "Du blätterst durch deine DDR-Marken und bleibst bei einer 35-Pfennig-Marke von 1988 hängen. Sie zeigt ein großes Stahlgerüst über einem Kanal, darunter steht „Schiffshebewerk Niederfinow“. Dass es ein technisches Denkmal ist, weißt du wahrscheinlich. Wo es genau steht und ob es noch existiert, sagt dir die Marke nicht.",
+          "fr": "Tu feuillettes tes timbres de RDA et tu t'arrêtes sur un 35 pfennigs de 1988. On y voit une grande charpente d'acier au-dessus d'un canal, avec la mention « Schiffshebewerk Niederfinow ». Tu sais sans doute qu'il s'agit d'un monument technique. Mais où il se trouve exactement, et s'il existe encore, le timbre ne le dit pas.",
+          "it": "Stai sfogliando i tuoi francobolli della DDR e ti fermi su un valore da 35 pfennig del 1988. Si vede una grande struttura d'acciaio sopra un canale e la scritta dice \"Schiffshebewerk Niederfinow\". Che sia un monumento tecnico probabilmente lo sai già. Dove si trovi esattamente, e se esista ancora, il francobollo non te lo dice.",
+          "nl": "You are going through your GDR stamps and stop at a 35-pfennig stamp from 1988. It shows a large steel frame above a canal, and the inscription says \"Schiffshebewerk Niederfinow\". You probably know it is a technical monument. Where exactly it stands, and whether it still exists, the stamp does not tell you.",
+          "pl": "You are going through your GDR stamps and stop at a 35-pfennig stamp from 1988. It shows a large steel frame above a canal, and the inscription says \"Schiffshebewerk Niederfinow\". You probably know it is a technical monument. Where exactly it stands, and whether it still exists, the stamp does not tell you.",
+          "cs": "You are going through your GDR stamps and stop at a 35-pfennig stamp from 1988. It shows a large steel frame above a canal, and the inscription says \"Schiffshebewerk Niederfinow\". You probably know it is a technical monument. Where exactly it stands, and whether it still exists, the stamp does not tell you.",
+          "sk": "You are going through your GDR stamps and stop at a 35-pfennig stamp from 1988. It shows a large steel frame above a canal, and the inscription says \"Schiffshebewerk Niederfinow\". You probably know it is a technical monument. Where exactly it stands, and whether it still exists, the stamp does not tell you.",
+          "ro": "You are going through your GDR stamps and stop at a 35-pfennig stamp from 1988. It shows a large steel frame above a canal, and the inscription says \"Schiffshebewerk Niederfinow\". You probably know it is a technical monument. Where exactly it stands, and whether it still exists, the stamp does not tell you.",
+          "hu": "You are going through your GDR stamps and stop at a 35-pfennig stamp from 1988. It shows a large steel frame above a canal, and the inscription says \"Schiffshebewerk Niederfinow\". You probably know it is a technical monument. Where exactly it stands, and whether it still exists, the stamp does not tell you.",
+          "da": "You are going through your GDR stamps and stop at a 35-pfennig stamp from 1988. It shows a large steel frame above a canal, and the inscription says \"Schiffshebewerk Niederfinow\". You probably know it is a technical monument. Where exactly it stands, and whether it still exists, the stamp does not tell you."
+        },
+        {
+          "en": "In StampIQ you open the stamp and tap \"Show on map\". The pin sits in Brandenburg, about an hour northeast of Berlin, on the Oder-Havel Canal. The stamp's record gives you the series, the year and the face value, and \"Story Behind the Stamp\" tells you about the issue.",
+          "de": "In StampIQ öffnest du die Briefmarke und tippst auf „Auf Karte zeigen“. Die Nadel sitzt in Brandenburg, etwa eine Stunde nordöstlich von Berlin, am Oder-Havel-Kanal. In den Briefmarkendetails findest du Serie, Jahr und Nennwert, und „Geschichte zur Briefmarke“ erzählt dir von der Ausgabe.",
+          "fr": "Dans StampIQ, tu ouvres le timbre et tu touches « Afficher sur la carte ». Le point se place dans le Brandebourg, à environ une heure au nord-est de Berlin, sur le canal Oder-Havel. La fiche du timbre te donne la série, l'année et la valeur faciale, et la rubrique « Histoire du timbre » te raconte l'émission.",
+          "it": "In StampIQ apri il francobollo e tocchi \"Mostra sulla mappa\". Il segnaposto è nel Brandeburgo, circa un'ora a nord-est di Berlino, sul canale Oder-Havel. La scheda del francobollo ti indica la serie, l'anno e il valore nominale, e \"La storia del francobollo\" ti racconta l'emissione.",
+          "nl": "In StampIQ you open the stamp and tap \"Show on map\". The pin sits in Brandenburg, about an hour northeast of Berlin, on the Oder-Havel Canal. The stamp's record gives you the series, the year and the face value, and \"Story Behind the Stamp\" tells you about the issue.",
+          "pl": "In StampIQ you open the stamp and tap \"Show on map\". The pin sits in Brandenburg, about an hour northeast of Berlin, on the Oder-Havel Canal. The stamp's record gives you the series, the year and the face value, and \"Story Behind the Stamp\" tells you about the issue.",
+          "cs": "In StampIQ you open the stamp and tap \"Show on map\". The pin sits in Brandenburg, about an hour northeast of Berlin, on the Oder-Havel Canal. The stamp's record gives you the series, the year and the face value, and \"Story Behind the Stamp\" tells you about the issue.",
+          "sk": "In StampIQ you open the stamp and tap \"Show on map\". The pin sits in Brandenburg, about an hour northeast of Berlin, on the Oder-Havel Canal. The stamp's record gives you the series, the year and the face value, and \"Story Behind the Stamp\" tells you about the issue.",
+          "ro": "In StampIQ you open the stamp and tap \"Show on map\". The pin sits in Brandenburg, about an hour northeast of Berlin, on the Oder-Havel Canal. The stamp's record gives you the series, the year and the face value, and \"Story Behind the Stamp\" tells you about the issue.",
+          "hu": "In StampIQ you open the stamp and tap \"Show on map\". The pin sits in Brandenburg, about an hour northeast of Berlin, on the Oder-Havel Canal. The stamp's record gives you the series, the year and the face value, and \"Story Behind the Stamp\" tells you about the issue.",
+          "da": "In StampIQ you open the stamp and tap \"Show on map\". The pin sits in Brandenburg, about an hour northeast of Berlin, on the Oder-Havel Canal. The stamp's record gives you the series, the year and the face value, and \"Story Behind the Stamp\" tells you about the issue."
+        },
+        {
+          "en": "The stamp belongs to a set of five called \"Technische Denkmale\", technical monuments, issued by the GDR post on 18 October 1988. All five show structures on waterways: the lift bridge in Magdeburg, the Magdeburg-Rothensee boat lift, the drawbridge and lock at Altfriesack, the Ziegelgraben bascule bridge on the causeway to Rügen, and Niederfinow. Jochen Bertholdt designed the set, and the Niederfinow stamp was printed 3.5 million times in gravure.",
+          "de": "Die Marke gehört zu einer Serie von fünf Werten mit dem Titel „Technische Denkmale“, die die Post der DDR am 18. Oktober 1988 herausgab. Alle fünf zeigen Bauwerke an Wasserstraßen: die Hebebrücke in Magdeburg, das Schiffshebewerk Magdeburg-Rothensee, Zugbrücke und Schleuse in Altfriesack, die Ziegelgrabenbrücke auf dem Rügendamm und Niederfinow. Jochen Bertholdt gestaltete die Serie, die Niederfinow-Marke erschien in einer Auflage von 3,5 Millionen im Rastertiefdruck.",
+          "fr": "Le timbre fait partie d'une série de cinq, « Technische Denkmale », les monuments techniques, émise par la poste de RDA le 18 octobre 1988. Les cinq timbres montrent des ouvrages sur des voies d'eau : le pont levant de Magdebourg, l'ascenseur à bateaux de Magdebourg-Rothensee, le pont-levis et l'écluse d'Altfriesack, le pont basculant du Ziegelgraben sur la digue vers Rügen, et Niederfinow. Jochen Bertholdt a dessiné la série, et le timbre de Niederfinow a été imprimé à 3,5 millions d'exemplaires en héliogravure.",
+          "it": "Il francobollo fa parte di una serie di cinque valori intitolata \"Technische Denkmale\", monumenti tecnici, emessa dalla posta della DDR il 18 ottobre 1988. Tutti e cinque mostrano opere lungo le vie d'acqua: il ponte sollevabile di Magdeburgo, il sollevatore di navi di Magdeburgo-Rothensee, il ponte levatoio con la chiusa di Altfriesack, il ponte basculante sullo Ziegelgraben lungo la strada rialzata per Rügen e Niederfinow. La serie è stata disegnata da Jochen Bertholdt; il valore di Niederfinow è stato stampato in rotocalco con una tiratura di 3,5 milioni di copie.",
+          "nl": "The stamp belongs to a set of five called \"Technische Denkmale\", technical monuments, issued by the GDR post on 18 October 1988. All five show structures on waterways: the lift bridge in Magdeburg, the Magdeburg-Rothensee boat lift, the drawbridge and lock at Altfriesack, the Ziegelgraben bascule bridge on the causeway to Rügen, and Niederfinow. Jochen Bertholdt designed the set, and the Niederfinow stamp was printed 3.5 million times in gravure.",
+          "pl": "The stamp belongs to a set of five called \"Technische Denkmale\", technical monuments, issued by the GDR post on 18 October 1988. All five show structures on waterways: the lift bridge in Magdeburg, the Magdeburg-Rothensee boat lift, the drawbridge and lock at Altfriesack, the Ziegelgraben bascule bridge on the causeway to Rügen, and Niederfinow. Jochen Bertholdt designed the set, and the Niederfinow stamp was printed 3.5 million times in gravure.",
+          "cs": "The stamp belongs to a set of five called \"Technische Denkmale\", technical monuments, issued by the GDR post on 18 October 1988. All five show structures on waterways: the lift bridge in Magdeburg, the Magdeburg-Rothensee boat lift, the drawbridge and lock at Altfriesack, the Ziegelgraben bascule bridge on the causeway to Rügen, and Niederfinow. Jochen Bertholdt designed the set, and the Niederfinow stamp was printed 3.5 million times in gravure.",
+          "sk": "The stamp belongs to a set of five called \"Technische Denkmale\", technical monuments, issued by the GDR post on 18 October 1988. All five show structures on waterways: the lift bridge in Magdeburg, the Magdeburg-Rothensee boat lift, the drawbridge and lock at Altfriesack, the Ziegelgraben bascule bridge on the causeway to Rügen, and Niederfinow. Jochen Bertholdt designed the set, and the Niederfinow stamp was printed 3.5 million times in gravure.",
+          "ro": "The stamp belongs to a set of five called \"Technische Denkmale\", technical monuments, issued by the GDR post on 18 October 1988. All five show structures on waterways: the lift bridge in Magdeburg, the Magdeburg-Rothensee boat lift, the drawbridge and lock at Altfriesack, the Ziegelgraben bascule bridge on the causeway to Rügen, and Niederfinow. Jochen Bertholdt designed the set, and the Niederfinow stamp was printed 3.5 million times in gravure.",
+          "hu": "The stamp belongs to a set of five called \"Technische Denkmale\", technical monuments, issued by the GDR post on 18 October 1988. All five show structures on waterways: the lift bridge in Magdeburg, the Magdeburg-Rothensee boat lift, the drawbridge and lock at Altfriesack, the Ziegelgraben bascule bridge on the causeway to Rügen, and Niederfinow. Jochen Bertholdt designed the set, and the Niederfinow stamp was printed 3.5 million times in gravure.",
+          "da": "The stamp belongs to a set of five called \"Technische Denkmale\", technical monuments, issued by the GDR post on 18 October 1988. All five show structures on waterways: the lift bridge in Magdeburg, the Magdeburg-Rothensee boat lift, the drawbridge and lock at Altfriesack, the Ziegelgraben bascule bridge on the causeway to Rügen, and Niederfinow. Jochen Bertholdt designed the set, and the Niederfinow stamp was printed 3.5 million times in gravure."
+        }
+      ]
+    },
+    {
+      "id": "place",
+      "type": "text",
+      "label": {
+        "en": "The place",
+        "de": "Der Ort",
+        "fr": "Le lieu",
+        "it": "Il luogo",
+        "nl": "The place",
+        "pl": "The place",
+        "cs": "The place",
+        "sk": "The place",
+        "ro": "The place",
+        "hu": "The place",
+        "da": "The place"
+      },
+      "title": {
+        "en": "Two ship lifts side by side",
+        "de": "Zwei Hebewerke nebeneinander",
+        "fr": "Deux ascenseurs côte à côte",
+        "it": "Due sollevatori uno accanto all'altro",
+        "nl": "Two ship lifts side by side",
+        "pl": "Two ship lifts side by side",
+        "cs": "Two ship lifts side by side",
+        "sk": "Two ship lifts side by side",
+        "ro": "Two ship lifts side by side",
+        "hu": "Two ship lifts side by side",
+        "da": "Two ship lifts side by side"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/f5196b4df5038de1/niederfinow-aerial.jpg",
+          "width": 2400,
+          "credit": "Toniklemm, CC BY-SA 4.0",
+          "height": 1600,
+          "caption": {
+            "en": "The old lift in front, the new lift from 2022 behind it.",
+            "de": "Vorne das alte Hebewerk, dahinter das neue von 2022.",
+            "fr": "L'ancien ascenseur au premier plan, le nouveau de 2022 derrière.",
+            "it": "Davanti il vecchio sollevatore, dietro quello nuovo del 2022.",
+            "nl": "The old lift in front, the new lift from 2022 behind it.",
+            "pl": "The old lift in front, the new lift from 2022 behind it.",
+            "cs": "The old lift in front, the new lift from 2022 behind it.",
+            "sk": "The old lift in front, the new lift from 2022 behind it.",
+            "ro": "The old lift in front, the new lift from 2022 behind it.",
+            "hu": "The old lift in front, the new lift from 2022 behind it.",
+            "da": "The old lift in front, the new lift from 2022 behind it."
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Schiffshebewerk_Niederfinow_2024_Klemm.jpg"
+        }
+      },
+      "buttons": [],
+      "paragraphs": [
+        {
+          "en": "The frame on the stamp is 60 metres high and 94 metres long. A ship sails into a long trough full of water, the gates close, and the whole trough goes up or down 36 metres with the ship inside it. The lift was built from 1927 to 1934 and opened on 21 March 1934. The waterway authority calls it the oldest ship lift in Germany that is still in operation, and in 2007 it became the first building to be named a Historic Landmark of Civil Engineering in Germany.",
+          "de": "Das Gerüst auf der Marke ist 60 Meter hoch und 94 Meter lang. Ein Schiff fährt in einen langen, mit Wasser gefüllten Trog, die Tore schließen sich, und der ganze Trog fährt mit dem Schiff darin 36 Meter nach oben oder nach unten. Gebaut wurde das Hebewerk von 1927 bis 1934, eröffnet am 21. März 1934. Die Wasserstraßenverwaltung nennt es das älteste Schiffshebewerk Deutschlands, das noch in Betrieb ist, und 2007 wurde es als erstes Bauwerk in Deutschland zum Historischen Wahrzeichen der Ingenieurbaukunst erklärt.",
+          "fr": "La charpente du timbre mesure 60 mètres de haut et 94 mètres de long. Un bateau entre dans un long bac rempli d'eau, les portes se ferment, et le bac entier monte ou descend de 36 mètres avec le bateau à l'intérieur. L'ascenseur a été construit de 1927 à 1934 et mis en service le 21 mars 1934. L'administration des voies navigables le présente comme le plus ancien ascenseur à bateaux d'Allemagne encore en service, et en 2007 il a été le premier ouvrage à recevoir en Allemagne le titre de Historic Landmark of Civil Engineering.",
+          "it": "La struttura del francobollo è alta 60 metri e lunga 94. Una nave entra in una lunga vasca piena d'acqua, le porte si chiudono e tutta la vasca sale o scende di 36 metri con la nave dentro. L'impianto è stato costruito tra il 1927 e il 1934 e inaugurato il 21 marzo 1934. L'autorità delle vie navigabili lo definisce il più antico sollevatore di navi ancora in funzione in Germania, e nel 2007 è stato il primo edificio in Germania a ricevere il titolo di Historic Landmark of Civil Engineering.",
+          "nl": "The frame on the stamp is 60 metres high and 94 metres long. A ship sails into a long trough full of water, the gates close, and the whole trough goes up or down 36 metres with the ship inside it. The lift was built from 1927 to 1934 and opened on 21 March 1934. The waterway authority calls it the oldest ship lift in Germany that is still in operation, and in 2007 it became the first building to be named a Historic Landmark of Civil Engineering in Germany.",
+          "pl": "The frame on the stamp is 60 metres high and 94 metres long. A ship sails into a long trough full of water, the gates close, and the whole trough goes up or down 36 metres with the ship inside it. The lift was built from 1927 to 1934 and opened on 21 March 1934. The waterway authority calls it the oldest ship lift in Germany that is still in operation, and in 2007 it became the first building to be named a Historic Landmark of Civil Engineering in Germany.",
+          "cs": "The frame on the stamp is 60 metres high and 94 metres long. A ship sails into a long trough full of water, the gates close, and the whole trough goes up or down 36 metres with the ship inside it. The lift was built from 1927 to 1934 and opened on 21 March 1934. The waterway authority calls it the oldest ship lift in Germany that is still in operation, and in 2007 it became the first building to be named a Historic Landmark of Civil Engineering in Germany.",
+          "sk": "The frame on the stamp is 60 metres high and 94 metres long. A ship sails into a long trough full of water, the gates close, and the whole trough goes up or down 36 metres with the ship inside it. The lift was built from 1927 to 1934 and opened on 21 March 1934. The waterway authority calls it the oldest ship lift in Germany that is still in operation, and in 2007 it became the first building to be named a Historic Landmark of Civil Engineering in Germany.",
+          "ro": "The frame on the stamp is 60 metres high and 94 metres long. A ship sails into a long trough full of water, the gates close, and the whole trough goes up or down 36 metres with the ship inside it. The lift was built from 1927 to 1934 and opened on 21 March 1934. The waterway authority calls it the oldest ship lift in Germany that is still in operation, and in 2007 it became the first building to be named a Historic Landmark of Civil Engineering in Germany.",
+          "hu": "The frame on the stamp is 60 metres high and 94 metres long. A ship sails into a long trough full of water, the gates close, and the whole trough goes up or down 36 metres with the ship inside it. The lift was built from 1927 to 1934 and opened on 21 March 1934. The waterway authority calls it the oldest ship lift in Germany that is still in operation, and in 2007 it became the first building to be named a Historic Landmark of Civil Engineering in Germany.",
+          "da": "The frame on the stamp is 60 metres high and 94 metres long. A ship sails into a long trough full of water, the gates close, and the whole trough goes up or down 36 metres with the ship inside it. The lift was built from 1927 to 1934 and opened on 21 March 1934. The waterway authority calls it the oldest ship lift in Germany that is still in operation, and in 2007 it became the first building to be named a Historic Landmark of Civil Engineering in Germany."
+        },
+        {
+          "en": "When the stamp came out in 1988, the lift had been working for 54 years. Today it has a neighbour. A second, larger lift opened next to it on 4 October 2022, after 14 years of construction, because cargo ships had become too large for the old trough. The new one takes ships up to 110 metres long. The old lift stays in use until at least 2030, so you can see both working on the same day.",
+          "de": "Als die Marke 1988 erschien, arbeitete das Hebewerk seit 54 Jahren. Heute hat es einen Nachbarn. Am 4. Oktober 2022 ging nach 14 Jahren Bauzeit ein zweites, größeres Hebewerk daneben in Betrieb, weil die Frachtschiffe für den alten Trog zu groß geworden waren. Das neue nimmt Schiffe bis 110 Meter Länge auf. Das alte Hebewerk bleibt mindestens bis 2030 in Betrieb, du kannst also beide am selben Tag arbeiten sehen.",
+          "fr": "Quand le timbre est paru en 1988, l'ascenseur fonctionnait depuis 54 ans. Aujourd'hui il a un voisin. Un second ascenseur, plus grand, a été ouvert juste à côté le 4 octobre 2022, après 14 ans de travaux, parce que les bateaux de fret étaient devenus trop grands pour l'ancien bac. Le nouveau accepte des bateaux jusqu'à 110 mètres de long. L'ancien reste en service au moins jusqu'en 2030, tu peux donc voir les deux fonctionner le même jour.",
+          "it": "Quando il francobollo è uscito, nel 1988, l'impianto lavorava già da 54 anni. Oggi ha un vicino. Il 4 ottobre 2022, dopo 14 anni di lavori, al suo fianco è entrato in servizio un secondo sollevatore più grande, perché le navi da carico erano diventate troppo grandi per la vecchia vasca. Il nuovo accoglie navi fino a 110 metri di lunghezza. Il vecchio resta in funzione almeno fino al 2030, quindi puoi vederli lavorare tutti e due nello stesso giorno.",
+          "nl": "When the stamp came out in 1988, the lift had been working for 54 years. Today it has a neighbour. A second, larger lift opened next to it on 4 October 2022, after 14 years of construction, because cargo ships had become too large for the old trough. The new one takes ships up to 110 metres long. The old lift stays in use until at least 2030, so you can see both working on the same day.",
+          "pl": "When the stamp came out in 1988, the lift had been working for 54 years. Today it has a neighbour. A second, larger lift opened next to it on 4 October 2022, after 14 years of construction, because cargo ships had become too large for the old trough. The new one takes ships up to 110 metres long. The old lift stays in use until at least 2030, so you can see both working on the same day.",
+          "cs": "When the stamp came out in 1988, the lift had been working for 54 years. Today it has a neighbour. A second, larger lift opened next to it on 4 October 2022, after 14 years of construction, because cargo ships had become too large for the old trough. The new one takes ships up to 110 metres long. The old lift stays in use until at least 2030, so you can see both working on the same day.",
+          "sk": "When the stamp came out in 1988, the lift had been working for 54 years. Today it has a neighbour. A second, larger lift opened next to it on 4 October 2022, after 14 years of construction, because cargo ships had become too large for the old trough. The new one takes ships up to 110 metres long. The old lift stays in use until at least 2030, so you can see both working on the same day.",
+          "ro": "When the stamp came out in 1988, the lift had been working for 54 years. Today it has a neighbour. A second, larger lift opened next to it on 4 October 2022, after 14 years of construction, because cargo ships had become too large for the old trough. The new one takes ships up to 110 metres long. The old lift stays in use until at least 2030, so you can see both working on the same day.",
+          "hu": "When the stamp came out in 1988, the lift had been working for 54 years. Today it has a neighbour. A second, larger lift opened next to it on 4 October 2022, after 14 years of construction, because cargo ships had become too large for the old trough. The new one takes ships up to 110 metres long. The old lift stays in use until at least 2030, so you can see both working on the same day.",
+          "da": "When the stamp came out in 1988, the lift had been working for 54 years. Today it has a neighbour. A second, larger lift opened next to it on 4 October 2022, after 14 years of construction, because cargo ships had become too large for the old trough. The new one takes ships up to 110 metres long. The old lift stays in use until at least 2030, so you can see both working on the same day."
+        }
+      ]
+    },
+    {
+      "id": "figures",
+      "type": "numbers",
+      "label": {
+        "en": "In figures",
+        "de": "In Zahlen",
+        "fr": "En chiffres",
+        "it": "In cifre",
+        "nl": "In figures",
+        "pl": "In figures",
+        "cs": "In figures",
+        "sk": "In figures",
+        "ro": "In figures",
+        "hu": "In figures",
+        "da": "In figures"
+      },
+      "title": {
+        "en": "The old lift",
+        "de": "Das alte Hebewerk",
+        "fr": "L'ancien ascenseur",
+        "it": "Il vecchio sollevatore",
+        "nl": "The old lift",
+        "pl": "The old lift",
+        "cs": "The old lift",
+        "sk": "The old lift",
+        "ro": "The old lift",
+        "hu": "The old lift",
+        "da": "The old lift"
+      },
+      "numbers": [
+        {
+          "text": {
+            "en": "The height between the lower and the upper canal.",
+            "de": "Der Höhenunterschied zwischen unterem und oberem Kanal.",
+            "fr": "La différence de niveau entre le canal inférieur et le canal supérieur.",
+            "it": "Il dislivello tra il canale inferiore e quello superiore.",
+            "nl": "The height between the lower and the upper canal.",
+            "pl": "The height between the lower and the upper canal.",
+            "cs": "The height between the lower and the upper canal.",
+            "sk": "The height between the lower and the upper canal.",
+            "ro": "The height between the lower and the upper canal.",
+            "hu": "The height between the lower and the upper canal.",
+            "da": "The height between the lower and the upper canal."
+          },
+          "title": {
+            "en": "Height",
+            "de": "Höhe",
+            "fr": "Hauteur",
+            "it": "Altezza",
+            "nl": "Height",
+            "pl": "Height",
+            "cs": "Height",
+            "sk": "Height",
+            "ro": "Height",
+            "hu": "Height",
+            "da": "Height"
+          },
+          "value": "36 m"
+        },
+        {
+          "text": {
+            "en": "The weight of the trough when it is full of water.",
+            "de": "Das Gewicht des Trogs, wenn er mit Wasser gefüllt ist.",
+            "fr": "Le poids du bac quand il est rempli d'eau.",
+            "it": "Il peso della vasca quando è piena d'acqua.",
+            "nl": "The weight of the trough when it is full of water.",
+            "pl": "The weight of the trough when it is full of water.",
+            "cs": "The weight of the trough when it is full of water.",
+            "sk": "The weight of the trough when it is full of water.",
+            "ro": "The weight of the trough when it is full of water.",
+            "hu": "The weight of the trough when it is full of water.",
+            "da": "The weight of the trough when it is full of water."
+          },
+          "title": {
+            "en": "Weight",
+            "de": "Gewicht",
+            "fr": "Poids",
+            "it": "Peso",
+            "nl": "Weight",
+            "pl": "Weight",
+            "cs": "Weight",
+            "sk": "Weight",
+            "ro": "Weight",
+            "hu": "Weight",
+            "da": "Weight"
+          },
+          "value": "4,290 t"
+        },
+        {
+          "text": {
+            "en": "Concrete counterweights, together as heavy as the full trough.",
+            "de": "Betongewichte, zusammen so schwer wie der gefüllte Trog.",
+            "fr": "Des contrepoids en béton, aussi lourds à eux tous que le bac plein.",
+            "it": "Contrappesi in calcestruzzo, che insieme pesano quanto la vasca piena.",
+            "nl": "Concrete counterweights, together as heavy as the full trough.",
+            "pl": "Concrete counterweights, together as heavy as the full trough.",
+            "cs": "Concrete counterweights, together as heavy as the full trough.",
+            "sk": "Concrete counterweights, together as heavy as the full trough.",
+            "ro": "Concrete counterweights, together as heavy as the full trough.",
+            "hu": "Concrete counterweights, together as heavy as the full trough.",
+            "da": "Concrete counterweights, together as heavy as the full trough."
+          },
+          "title": {
+            "en": "Counterweights",
+            "de": "Gegengewichte",
+            "fr": "Contrepoids",
+            "it": "Contrappesi",
+            "nl": "Counterweights",
+            "pl": "Counterweights",
+            "cs": "Counterweights",
+            "sk": "Counterweights",
+            "ro": "Counterweights",
+            "hu": "Counterweights",
+            "da": "Counterweights"
+          },
+          "value": "192"
+        },
+        {
+          "text": {
+            "en": "The time the trough needs to go up or down. A full passage takes about 20 minutes.",
+            "de": "So lange braucht der Trog nach oben oder nach unten. Eine ganze Durchfahrt dauert etwa 20 Minuten.",
+            "fr": "Le temps que met le bac pour monter ou descendre. Un passage complet dure environ 20 minutes.",
+            "it": "Il tempo che la vasca impiega a salire o scendere. Un passaggio completo dura circa 20 minuti.",
+            "nl": "The time the trough needs to go up or down. A full passage takes about 20 minutes.",
+            "pl": "The time the trough needs to go up or down. A full passage takes about 20 minutes.",
+            "cs": "The time the trough needs to go up or down. A full passage takes about 20 minutes.",
+            "sk": "The time the trough needs to go up or down. A full passage takes about 20 minutes.",
+            "ro": "The time the trough needs to go up or down. A full passage takes about 20 minutes.",
+            "hu": "The time the trough needs to go up or down. A full passage takes about 20 minutes.",
+            "da": "The time the trough needs to go up or down. A full passage takes about 20 minutes."
+          },
+          "title": {
+            "en": "Travel time",
+            "de": "Fahrzeit",
+            "fr": "Durée du trajet",
+            "it": "Tempo di corsa",
+            "nl": "Travel time",
+            "pl": "Travel time",
+            "cs": "Travel time",
+            "sk": "Travel time",
+            "ro": "Travel time",
+            "hu": "Travel time",
+            "da": "Travel time"
+          },
+          "value": "5 min"
+        }
+      ]
+    },
+    {
+      "id": "both-lifts",
+      "type": "wide-photo",
+      "image": {
+        "src": "https://assets.stampiq.io/blog/6201c210b5938f40/niederfinow-old-lift-side.jpg",
+        "width": 2400,
+        "credit": "Anagoria, CC BY-SA 4.0",
+        "height": 1350,
+        "caption": {
+          "en": "The old lift from 1934.",
+          "de": "Das alte Hebewerk von 1934.",
+          "fr": "L'ancien ascenseur de 1934.",
+          "it": "Il vecchio sollevatore del 1934.",
+          "nl": "The old lift from 1934.",
+          "pl": "The old lift from 1934.",
+          "cs": "The old lift from 1934.",
+          "sk": "The old lift from 1934.",
+          "ro": "The old lift from 1934.",
+          "hu": "The old lift from 1934.",
+          "da": "The old lift from 1934."
+        },
+        "source_url": "https://commons.wikimedia.org/wiki/File:20250518_131841_Schiffshebewerk_Niederfinow_anagoria.jpg"
+      }
+    },
+    {
+      "id": "visit",
+      "type": "text",
+      "label": {
+        "en": "The visit",
+        "de": "Der Besuch",
+        "fr": "La visite",
+        "it": "La visita",
+        "nl": "The visit",
+        "pl": "The visit",
+        "cs": "The visit",
+        "sk": "The visit",
+        "ro": "The visit",
+        "hu": "The visit",
+        "da": "The visit"
+      },
+      "title": {
+        "en": "On the platform and on the water",
+        "de": "Auf der Plattform und auf dem Wasser",
+        "fr": "Sur la plateforme et sur l'eau",
+        "it": "Sulla piattaforma e sull'acqua",
+        "nl": "On the platform and on the water",
+        "pl": "On the platform and on the water",
+        "cs": "On the platform and on the water",
+        "sk": "On the platform and on the water",
+        "ro": "On the platform and on the water",
+        "hu": "On the platform and on the water",
+        "da": "On the platform and on the water"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/2a242b7b99dc2c87/niederfinow-trough.jpg",
+          "width": 1600,
+          "credit": "Steffen Zahn, CC BY 2.0",
+          "height": 2407,
+          "caption": {
+            "en": "Boats inside the trough of the old lift.",
+            "de": "Boote im Trog des alten Hebewerks.",
+            "fr": "Des bateaux dans le bac de l'ancien ascenseur.",
+            "it": "Imbarcazioni dentro la vasca del vecchio sollevatore.",
+            "nl": "Boats inside the trough of the old lift.",
+            "pl": "Boats inside the trough of the old lift.",
+            "cs": "Boats inside the trough of the old lift.",
+            "sk": "Boats inside the trough of the old lift.",
+            "ro": "Boats inside the trough of the old lift.",
+            "hu": "Boats inside the trough of the old lift.",
+            "da": "Boats inside the trough of the old lift."
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Schiffshebewerk_Niederfinow_(25992355234).jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "With a ticket for the historic lift you walk up to the upper platform on your own and watch the trough from above. The combination ticket adds a guided tour of the new lift, and in the main season up to four tours start every hour, without booking. A special tour, \"Ins Herz des Hebewerks\", costs €24.",
+          "de": "Mit einem Ticket für das historische Hebewerk gehst du ohne Führung bis zur oberen Plattform hinauf und siehst den Trog von oben. Das Kombiticket enthält zusätzlich eine Führung durch das neue Hebewerk, in der Hauptsaison starten bis zu vier Führungen pro Stunde, ohne Anmeldung. Eine Sonderführung, „Ins Herz des Hebewerks“, kostet 24 €.",
+          "fr": "Avec un billet pour l'ascenseur historique, tu montes sans guide jusqu'à la plateforme supérieure et tu observes le bac d'en haut. Le billet combiné ajoute une visite guidée du nouvel ascenseur, et en haute saison jusqu'à quatre visites partent chaque heure, sans réservation. Une visite spéciale, « Ins Herz des Hebewerks », coûte 24 €.",
+          "it": "Con il biglietto per il sollevatore storico sali fino alla piattaforma superiore senza visita guidata e guardi la vasca dall'alto. Il biglietto combinato aggiunge la visita guidata del nuovo impianto: in alta stagione partono fino a quattro visite ogni ora, senza prenotazione. La visita speciale \"Ins Herz des Hebewerks\" costa 24 €.",
+          "nl": "With a ticket for the historic lift you walk up to the upper platform on your own and watch the trough from above. The combination ticket adds a guided tour of the new lift, and in the main season up to four tours start every hour, without booking. A special tour, \"Ins Herz des Hebewerks\", costs €24.",
+          "pl": "With a ticket for the historic lift you walk up to the upper platform on your own and watch the trough from above. The combination ticket adds a guided tour of the new lift, and in the main season up to four tours start every hour, without booking. A special tour, \"Ins Herz des Hebewerks\", costs €24.",
+          "cs": "With a ticket for the historic lift you walk up to the upper platform on your own and watch the trough from above. The combination ticket adds a guided tour of the new lift, and in the main season up to four tours start every hour, without booking. A special tour, \"Ins Herz des Hebewerks\", costs €24.",
+          "sk": "With a ticket for the historic lift you walk up to the upper platform on your own and watch the trough from above. The combination ticket adds a guided tour of the new lift, and in the main season up to four tours start every hour, without booking. A special tour, \"Ins Herz des Hebewerks\", costs €24.",
+          "ro": "With a ticket for the historic lift you walk up to the upper platform on your own and watch the trough from above. The combination ticket adds a guided tour of the new lift, and in the main season up to four tours start every hour, without booking. A special tour, \"Ins Herz des Hebewerks\", costs €24.",
+          "hu": "With a ticket for the historic lift you walk up to the upper platform on your own and watch the trough from above. The combination ticket adds a guided tour of the new lift, and in the main season up to four tours start every hour, without booking. A special tour, \"Ins Herz des Hebewerks\", costs €24.",
+          "da": "With a ticket for the historic lift you walk up to the upper platform on your own and watch the trough from above. The combination ticket adds a guided tour of the new lift, and in the main season up to four tours start every hour, without booking. A special tour, \"Ins Herz des Hebewerks\", costs €24."
+        },
+        {
+          "en": "To go through the lift yourself, take the boat. SHW Fahrgastschifffahrt runs trips every day at 11:00, 13:00 and 15:00 from March to October, from the lower harbour of the old lift. They take between 45 and 90 minutes, and you sit on the boat inside the trough while it moves. The boat trips run until the end of October, and the lifts can be seen from the platform through the winter until 3 January.",
+          "de": "Wenn du selbst durch das Hebewerk fahren willst, nimmst du das Schiff. Die SHW Fahrgastschifffahrt fährt von März bis Oktober täglich um 11:00, 13:00 und 15:00 Uhr vom unteren Hafen des alten Hebewerks ab. Die Fahrten dauern zwischen 45 und 90 Minuten, und du sitzt im Boot im Trog, während er sich bewegt. Die Schiffstouren laufen bis Ende Oktober, die Hebewerke kannst du von der Plattform aus über den Winter bis zum 3. Januar sehen.",
+          "fr": "Pour traverser l'ascenseur toi-même, prends le bateau. SHW Fahrgastschifffahrt propose des sorties tous les jours à 11h00, 13h00 et 15h00, de mars à octobre, depuis le port inférieur de l'ancien ascenseur. Elles durent de 45 à 90 minutes, et tu restes à bord dans le bac pendant qu'il se déplace. Les sorties en bateau ont lieu jusqu'à fin octobre, et les ascenseurs se visitent depuis la plateforme tout l'hiver, jusqu'au 3 janvier.",
+          "it": "Per attraversare il sollevatore, prendi la barca. SHW Fahrgastschifffahrt organizza gite tutti i giorni alle 11:00, alle 13:00 e alle 15:00 da marzo a ottobre, con partenza dal porto inferiore del vecchio impianto. Durano tra 45 e 90 minuti e durante la corsa rimani a bordo, dentro la vasca che si muove. Le gite in barca proseguono fino a fine ottobre, mentre i due sollevatori si possono vedere dalla piattaforma per tutto l'inverno, fino al 3 gennaio.",
+          "nl": "To go through the lift yourself, take the boat. SHW Fahrgastschifffahrt runs trips every day at 11:00, 13:00 and 15:00 from March to October, from the lower harbour of the old lift. They take between 45 and 90 minutes, and you sit on the boat inside the trough while it moves. The boat trips run until the end of October, and the lifts can be seen from the platform through the winter until 3 January.",
+          "pl": "To go through the lift yourself, take the boat. SHW Fahrgastschifffahrt runs trips every day at 11:00, 13:00 and 15:00 from March to October, from the lower harbour of the old lift. They take between 45 and 90 minutes, and you sit on the boat inside the trough while it moves. The boat trips run until the end of October, and the lifts can be seen from the platform through the winter until 3 January.",
+          "cs": "To go through the lift yourself, take the boat. SHW Fahrgastschifffahrt runs trips every day at 11:00, 13:00 and 15:00 from March to October, from the lower harbour of the old lift. They take between 45 and 90 minutes, and you sit on the boat inside the trough while it moves. The boat trips run until the end of October, and the lifts can be seen from the platform through the winter until 3 January.",
+          "sk": "To go through the lift yourself, take the boat. SHW Fahrgastschifffahrt runs trips every day at 11:00, 13:00 and 15:00 from March to October, from the lower harbour of the old lift. They take between 45 and 90 minutes, and you sit on the boat inside the trough while it moves. The boat trips run until the end of October, and the lifts can be seen from the platform through the winter until 3 January.",
+          "ro": "To go through the lift yourself, take the boat. SHW Fahrgastschifffahrt runs trips every day at 11:00, 13:00 and 15:00 from March to October, from the lower harbour of the old lift. They take between 45 and 90 minutes, and you sit on the boat inside the trough while it moves. The boat trips run until the end of October, and the lifts can be seen from the platform through the winter until 3 January.",
+          "hu": "To go through the lift yourself, take the boat. SHW Fahrgastschifffahrt runs trips every day at 11:00, 13:00 and 15:00 from March to October, from the lower harbour of the old lift. They take between 45 and 90 minutes, and you sit on the boat inside the trough while it moves. The boat trips run until the end of October, and the lifts can be seen from the platform through the winter until 3 January.",
+          "da": "To go through the lift yourself, take the boat. SHW Fahrgastschifffahrt runs trips every day at 11:00, 13:00 and 15:00 from March to October, from the lower harbour of the old lift. They take between 45 and 90 minutes, and you sit on the boat inside the trough while it moves. The boat trips run until the end of October, and the lifts can be seen from the platform through the winter until 3 January."
+        },
+        {
+          "en": "The information centre has a free exhibition about both lifts, and the diesel engine house is free to visit as well.",
+          "de": "Im Informationszentrum gibt es eine kostenlose Ausstellung über beide Hebewerke, und auch das Dieselmaschinenhaus kannst du ohne Eintritt besichtigen.",
+          "fr": "Le centre d'information présente une exposition gratuite sur les deux ascenseurs, et la salle des moteurs diesel se visite aussi gratuitement.",
+          "it": "Nel centro informazioni c'è una mostra gratuita sui due impianti, e anche la sala dei motori diesel si visita gratuitamente.",
+          "nl": "The information centre has a free exhibition about both lifts, and the diesel engine house is free to visit as well.",
+          "pl": "The information centre has a free exhibition about both lifts, and the diesel engine house is free to visit as well.",
+          "cs": "The information centre has a free exhibition about both lifts, and the diesel engine house is free to visit as well.",
+          "sk": "The information centre has a free exhibition about both lifts, and the diesel engine house is free to visit as well.",
+          "ro": "The information centre has a free exhibition about both lifts, and the diesel engine house is free to visit as well.",
+          "hu": "The information centre has a free exhibition about both lifts, and the diesel engine house is free to visit as well.",
+          "da": "The information centre has a free exhibition about both lifts, and the diesel engine house is free to visit as well."
+        }
+      ]
+    },
+    {
+      "id": "practical",
+      "rows": [
+        {
+          "label": {
+            "en": "Address",
+            "de": "Adresse",
+            "fr": "Adresse",
+            "it": "Indirizzo",
+            "nl": "Address",
+            "pl": "Address",
+            "cs": "Address",
+            "sk": "Address",
+            "ro": "Address",
+            "hu": "Address",
+            "da": "Address"
+          },
+          "value": {
+            "en": "Hebewerkstraße 70a, 16248 Niederfinow",
+            "de": "Hebewerkstraße 70a, 16248 Niederfinow",
+            "fr": "Hebewerkstraße 70a, 16248 Niederfinow",
+            "it": "Hebewerkstraße 70a, 16248 Niederfinow",
+            "nl": "Hebewerkstraße 70a, 16248 Niederfinow",
+            "pl": "Hebewerkstraße 70a, 16248 Niederfinow",
+            "cs": "Hebewerkstraße 70a, 16248 Niederfinow",
+            "sk": "Hebewerkstraße 70a, 16248 Niederfinow",
+            "ro": "Hebewerkstraße 70a, 16248 Niederfinow",
+            "hu": "Hebewerkstraße 70a, 16248 Niederfinow",
+            "da": "Hebewerkstraße 70a, 16248 Niederfinow"
+          }
+        },
+        {
+          "label": {
+            "en": "Viewing the lifts",
+            "de": "Hebewerke ansehen",
+            "fr": "Visite des ascenseurs",
+            "it": "Visita ai sollevatori",
+            "nl": "Viewing the lifts",
+            "pl": "Viewing the lifts",
+            "cs": "Viewing the lifts",
+            "sk": "Viewing the lifts",
+            "ro": "Viewing the lifts",
+            "hu": "Viewing the lifts",
+            "da": "Viewing the lifts"
+          },
+          "value": {
+            "en": "1 March to 31 October daily 9:00 to 18:00; 1 November to 3 January daily 10:00 to 16:00",
+            "de": "1. März bis 31. Oktober täglich 9:00 bis 18:00 Uhr; 1. November bis 3. Januar täglich 10:00 bis 16:00 Uhr",
+            "fr": "Du 1er mars au 31 octobre, tous les jours de 9h00 à 18h00 ; du 1er novembre au 3 janvier, tous les jours de 10h00 à 16h00",
+            "it": "dal 1° marzo al 31 ottobre tutti i giorni 9:00-18:00; dal 1° novembre al 3 gennaio tutti i giorni 10:00-16:00",
+            "nl": "1 March to 31 October daily 9:00 to 18:00; 1 November to 3 January daily 10:00 to 16:00",
+            "pl": "1 March to 31 October daily 9:00 to 18:00; 1 November to 3 January daily 10:00 to 16:00",
+            "cs": "1 March to 31 October daily 9:00 to 18:00; 1 November to 3 January daily 10:00 to 16:00",
+            "sk": "1 March to 31 October daily 9:00 to 18:00; 1 November to 3 January daily 10:00 to 16:00",
+            "ro": "1 March to 31 October daily 9:00 to 18:00; 1 November to 3 January daily 10:00 to 16:00",
+            "hu": "1 March to 31 October daily 9:00 to 18:00; 1 November to 3 January daily 10:00 to 16:00",
+            "da": "1 March to 31 October daily 9:00 to 18:00; 1 November to 3 January daily 10:00 to 16:00"
+          }
+        },
+        {
+          "label": {
+            "en": "Closed",
+            "de": "Geschlossen",
+            "fr": "Fermeture",
+            "it": "Chiuso",
+            "nl": "Closed",
+            "pl": "Closed",
+            "cs": "Closed",
+            "sk": "Closed",
+            "ro": "Closed",
+            "hu": "Closed",
+            "da": "Closed"
+          },
+          "value": {
+            "en": "24 to 26 December, and 4 January to 1 March",
+            "de": "24. bis 26. Dezember sowie 4. Januar bis 1. März",
+            "fr": "Du 24 au 26 décembre, et du 4 janvier au 1er mars",
+            "it": "dal 24 al 26 dicembre e dal 4 gennaio al 1° marzo",
+            "nl": "24 to 26 December, and 4 January to 1 March",
+            "pl": "24 to 26 December, and 4 January to 1 March",
+            "cs": "24 to 26 December, and 4 January to 1 March",
+            "sk": "24 to 26 December, and 4 January to 1 March",
+            "ro": "24 to 26 December, and 4 January to 1 March",
+            "hu": "24 to 26 December, and 4 January to 1 March",
+            "da": "24 to 26 December, and 4 January to 1 March"
+          }
+        },
+        {
+          "label": {
+            "en": "Historic lift",
+            "de": "Historisches Hebewerk",
+            "fr": "Ascenseur historique",
+            "it": "Sollevatore storico",
+            "nl": "Historic lift",
+            "pl": "Historic lift",
+            "cs": "Historic lift",
+            "sk": "Historic lift",
+            "ro": "Historic lift",
+            "hu": "Historic lift",
+            "da": "Historic lift"
+          },
+          "value": {
+            "en": "€7, reduced €5, family €22, children under 7 free",
+            "de": "7 €, ermäßigt 5 €, Familie 22 €, Kinder unter 7 Jahren frei",
+            "fr": "7 €, tarif réduit 5 €, famille 22 €, gratuit pour les enfants de moins de 7 ans",
+            "it": "7 €, ridotto 5 €, famiglia 22 €, bambini sotto i 7 anni gratis",
+            "nl": "€7, reduced €5, family €22, children under 7 free",
+            "pl": "€7, reduced €5, family €22, children under 7 free",
+            "cs": "€7, reduced €5, family €22, children under 7 free",
+            "sk": "€7, reduced €5, family €22, children under 7 free",
+            "ro": "€7, reduced €5, family €22, children under 7 free",
+            "hu": "€7, reduced €5, family €22, children under 7 free",
+            "da": "€7, reduced €5, family €22, children under 7 free"
+          }
+        },
+        {
+          "label": {
+            "en": "With guided tour of the new lift",
+            "de": "Mit Führung durch das neue Hebewerk",
+            "fr": "Avec visite guidée du nouvel ascenseur",
+            "it": "Con visita guidata al nuovo sollevatore",
+            "nl": "With guided tour of the new lift",
+            "pl": "With guided tour of the new lift",
+            "cs": "With guided tour of the new lift",
+            "sk": "With guided tour of the new lift",
+            "ro": "With guided tour of the new lift",
+            "hu": "With guided tour of the new lift",
+            "da": "With guided tour of the new lift"
+          },
+          "value": {
+            "en": "€12, reduced €8, family €38",
+            "de": "12 €, ermäßigt 8 €, Familie 38 €",
+            "fr": "12 €, tarif réduit 8 €, famille 38 €",
+            "it": "12 €, ridotto 8 €, famiglia 38 €",
+            "nl": "€12, reduced €8, family €38",
+            "pl": "€12, reduced €8, family €38",
+            "cs": "€12, reduced €8, family €38",
+            "sk": "€12, reduced €8, family €38",
+            "ro": "€12, reduced €8, family €38",
+            "hu": "€12, reduced €8, family €38",
+            "da": "€12, reduced €8, family €38"
+          }
+        },
+        {
+          "label": {
+            "en": "Boat trip through the lift",
+            "de": "Schiffstour durch das Hebewerk",
+            "fr": "Traversée de l'ascenseur en bateau",
+            "it": "Gita in barca attraverso il sollevatore",
+            "nl": "Boat trip through the lift",
+            "pl": "Boat trip through the lift",
+            "cs": "Boat trip through the lift",
+            "sk": "Boat trip through the lift",
+            "ro": "Boat trip through the lift",
+            "hu": "Boat trip through the lift",
+            "da": "Boat trip through the lift"
+          },
+          "value": {
+            "en": "Daily 11:00, 13:00 and 15:00, March to October; adults from €16, children from 4 years from €9",
+            "de": "März bis Oktober täglich 11:00, 13:00 und 15:00 Uhr; Erwachsene ab 16 €, Kinder ab 4 Jahren ab 9 €",
+            "fr": "Tous les jours à 11h00, 13h00 et 15h00, de mars à octobre ; adultes à partir de 16 €, enfants à partir de 4 ans à partir de 9 €",
+            "it": "tutti i giorni alle 11:00, 13:00 e 15:00, da marzo a ottobre; adulti da 16 €, bambini dai 4 anni da 9 €",
+            "nl": "Daily 11:00, 13:00 and 15:00, March to October; adults from €16, children from 4 years from €9",
+            "pl": "Daily 11:00, 13:00 and 15:00, March to October; adults from €16, children from 4 years from €9",
+            "cs": "Daily 11:00, 13:00 and 15:00, March to October; adults from €16, children from 4 years from €9",
+            "sk": "Daily 11:00, 13:00 and 15:00, March to October; adults from €16, children from 4 years from €9",
+            "ro": "Daily 11:00, 13:00 and 15:00, March to October; adults from €16, children from 4 years from €9",
+            "hu": "Daily 11:00, 13:00 and 15:00, March to October; adults from €16, children from 4 years from €9",
+            "da": "Daily 11:00, 13:00 and 15:00, March to October; adults from €16, children from 4 years from €9"
+          }
+        },
+        {
+          "label": {
+            "en": "Information centre",
+            "de": "Informationszentrum",
+            "fr": "Centre d'information",
+            "it": "Centro informazioni",
+            "nl": "Information centre",
+            "pl": "Information centre",
+            "cs": "Information centre",
+            "sk": "Information centre",
+            "ro": "Information centre",
+            "hu": "Information centre",
+            "da": "Information centre"
+          },
+          "value": {
+            "en": "April to October 10:00 to 18:00, November and December 10:00 to 16:00; exhibition free",
+            "de": "April bis Oktober 10:00 bis 18:00 Uhr, November und Dezember 10:00 bis 16:00 Uhr; Ausstellung kostenlos",
+            "fr": "D'avril à octobre de 10h00 à 18h00, en novembre et décembre de 10h00 à 16h00 ; exposition gratuite",
+            "it": "da aprile a ottobre 10:00-18:00, novembre e dicembre 10:00-16:00; mostra gratuita",
+            "nl": "April to October 10:00 to 18:00, November and December 10:00 to 16:00; exhibition free",
+            "pl": "April to October 10:00 to 18:00, November and December 10:00 to 16:00; exhibition free",
+            "cs": "April to October 10:00 to 18:00, November and December 10:00 to 16:00; exhibition free",
+            "sk": "April to October 10:00 to 18:00, November and December 10:00 to 16:00; exhibition free",
+            "ro": "April to October 10:00 to 18:00, November and December 10:00 to 16:00; exhibition free",
+            "hu": "April to October 10:00 to 18:00, November and December 10:00 to 16:00; exhibition free",
+            "da": "April to October 10:00 to 18:00, November and December 10:00 to 16:00; exhibition free"
+          }
+        },
+        {
+          "label": {
+            "en": "Contact",
+            "de": "Kontakt",
+            "fr": "Contact",
+            "it": "Contatti",
+            "nl": "Contact",
+            "pl": "Contact",
+            "cs": "Contact",
+            "sk": "Contact",
+            "ro": "Contact",
+            "hu": "Contact",
+            "da": "Contact"
+          },
+          "value": {
+            "en": "visit@niederfinow.de, +49 33362 7182-50",
+            "de": "visit@niederfinow.de, +49 33362 7182-50",
+            "fr": "visit@niederfinow.de, +49 33362 7182-50",
+            "it": "visit@niederfinow.de, +49 33362 7182-50",
+            "nl": "visit@niederfinow.de, +49 33362 7182-50",
+            "pl": "visit@niederfinow.de, +49 33362 7182-50",
+            "cs": "visit@niederfinow.de, +49 33362 7182-50",
+            "sk": "visit@niederfinow.de, +49 33362 7182-50",
+            "ro": "visit@niederfinow.de, +49 33362 7182-50",
+            "hu": "visit@niederfinow.de, +49 33362 7182-50",
+            "da": "visit@niederfinow.de, +49 33362 7182-50"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "Practical",
+        "de": "Praktisches",
+        "fr": "Pratique",
+        "it": "Informazioni pratiche",
+        "nl": "Practical",
+        "pl": "Practical",
+        "cs": "Practical",
+        "sk": "Practical",
+        "ro": "Practical",
+        "hu": "Practical",
+        "da": "Practical"
+      },
+      "title": {
+        "en": "What you need to know",
+        "de": "Was du wissen musst",
+        "fr": "Ce qu'il faut savoir",
+        "it": "Quello che ti serve sapere",
+        "nl": "What you need to know",
+        "pl": "What you need to know",
+        "cs": "What you need to know",
+        "sk": "What you need to know",
+        "ro": "What you need to know",
+        "hu": "What you need to know",
+        "da": "What you need to know"
+      },
+      "buttons": [
+        {
+          "href": "https://schiffshebewerk-niederfinow.com/en/",
+          "label": {
+            "en": "Official website",
+            "de": "Offizielle Website",
+            "fr": "Site officiel",
+            "it": "Sito ufficiale",
+            "nl": "Official website",
+            "pl": "Official website",
+            "cs": "Official website",
+            "sk": "Official website",
+            "ro": "Official website",
+            "hu": "Official website",
+            "da": "Official website"
+          }
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "type": "tiles",
+      "label": {
+        "en": "How to get there",
+        "de": "Anfahrt",
+        "fr": "Pour y aller",
+        "it": "Come arrivare",
+        "nl": "How to get there",
+        "pl": "How to get there",
+        "cs": "How to get there",
+        "sk": "How to get there",
+        "ro": "How to get there",
+        "hu": "How to get there",
+        "da": "How to get there"
+      },
+      "tiles": [
+        {
+          "icon": "train",
+          "text": {
+            "en": "The RE3 runs from Berlin main station to Eberswalde, and from there the RB60 reaches Niederfinow in 11 minutes.",
+            "de": "Der RE3 fährt vom Berliner Hauptbahnhof nach Eberswalde, von dort bist du mit der RB60 in 11 Minuten in Niederfinow.",
+            "fr": "Le RE3 relie la gare centrale de Berlin à Eberswalde, puis le RB60 rejoint Niederfinow en 11 minutes.",
+            "it": "Il RE3 parte dalla stazione centrale di Berlino e arriva a Eberswalde, da dove il RB60 raggiunge Niederfinow in 11 minuti.",
+            "nl": "The RE3 runs from Berlin main station to Eberswalde, and from there the RB60 reaches Niederfinow in 11 minutes.",
+            "pl": "The RE3 runs from Berlin main station to Eberswalde, and from there the RB60 reaches Niederfinow in 11 minutes.",
+            "cs": "The RE3 runs from Berlin main station to Eberswalde, and from there the RB60 reaches Niederfinow in 11 minutes.",
+            "sk": "The RE3 runs from Berlin main station to Eberswalde, and from there the RB60 reaches Niederfinow in 11 minutes.",
+            "ro": "The RE3 runs from Berlin main station to Eberswalde, and from there the RB60 reaches Niederfinow in 11 minutes.",
+            "hu": "The RE3 runs from Berlin main station to Eberswalde, and from there the RB60 reaches Niederfinow in 11 minutes.",
+            "da": "The RE3 runs from Berlin main station to Eberswalde, and from there the RB60 reaches Niederfinow in 11 minutes."
+          },
+          "title": {
+            "en": "By train",
+            "de": "Mit der Bahn",
+            "fr": "En train",
+            "it": "In treno",
+            "nl": "By train",
+            "pl": "By train",
+            "cs": "By train",
+            "sk": "By train",
+            "ro": "By train",
+            "hu": "By train",
+            "da": "By train"
+          }
+        },
+        {
+          "icon": "walk",
+          "text": {
+            "en": "From Niederfinow station it is 1.5 to 2 kilometres to the lift, on a path along the Finow Canal and past a swing bridge.",
+            "de": "Vom Bahnhof Niederfinow sind es 1,5 bis 2 Kilometer bis zum Hebewerk, auf einem Weg am Finowkanal entlang und an einer Drehbrücke vorbei.",
+            "fr": "De la gare de Niederfinow, compte 1,5 à 2 kilomètres jusqu'à l'ascenseur, par un chemin le long du canal Finow et devant un pont tournant.",
+            "it": "Dalla stazione di Niederfinow al sollevatore ci sono da 1,5 a 2 chilometri, lungo un sentiero che costeggia il canale Finow e passa davanti a un ponte girevole.",
+            "nl": "From Niederfinow station it is 1.5 to 2 kilometres to the lift, on a path along the Finow Canal and past a swing bridge.",
+            "pl": "From Niederfinow station it is 1.5 to 2 kilometres to the lift, on a path along the Finow Canal and past a swing bridge.",
+            "cs": "From Niederfinow station it is 1.5 to 2 kilometres to the lift, on a path along the Finow Canal and past a swing bridge.",
+            "sk": "From Niederfinow station it is 1.5 to 2 kilometres to the lift, on a path along the Finow Canal and past a swing bridge.",
+            "ro": "From Niederfinow station it is 1.5 to 2 kilometres to the lift, on a path along the Finow Canal and past a swing bridge.",
+            "hu": "From Niederfinow station it is 1.5 to 2 kilometres to the lift, on a path along the Finow Canal and past a swing bridge.",
+            "da": "From Niederfinow station it is 1.5 to 2 kilometres to the lift, on a path along the Finow Canal and past a swing bridge."
+          },
+          "title": {
+            "en": "On foot",
+            "de": "Zu Fuß",
+            "fr": "À pied",
+            "it": "A piedi",
+            "nl": "On foot",
+            "pl": "On foot",
+            "cs": "On foot",
+            "sk": "On foot",
+            "ro": "On foot",
+            "hu": "On foot",
+            "da": "On foot"
+          }
+        },
+        {
+          "icon": "pin",
+          "text": {
+            "en": "Line 916 runs from Eberswalde to the lift.",
+            "de": "Die Linie 916 fährt von Eberswalde bis zum Hebewerk.",
+            "fr": "La ligne 916 va d'Eberswalde jusqu'à l'ascenseur.",
+            "it": "La linea 916 collega Eberswalde al sollevatore.",
+            "nl": "Line 916 runs from Eberswalde to the lift.",
+            "pl": "Line 916 runs from Eberswalde to the lift.",
+            "cs": "Line 916 runs from Eberswalde to the lift.",
+            "sk": "Line 916 runs from Eberswalde to the lift.",
+            "ro": "Line 916 runs from Eberswalde to the lift.",
+            "hu": "Line 916 runs from Eberswalde to the lift.",
+            "da": "Line 916 runs from Eberswalde to the lift."
+          },
+          "title": {
+            "en": "By bus",
+            "de": "Mit dem Bus",
+            "fr": "En bus",
+            "it": "In autobus",
+            "nl": "By bus",
+            "pl": "By bus",
+            "cs": "By bus",
+            "sk": "By bus",
+            "ro": "By bus",
+            "hu": "By bus",
+            "da": "By bus"
+          }
+        },
+        {
+          "icon": "car",
+          "text": {
+            "en": "The drive from Berlin takes about an hour on the A11, and the last road from Eberswalde has a sharp hairpin bend.",
+            "de": "Von Berlin fährst du etwa eine Stunde über die A11, und die letzte Straße ab Eberswalde hat eine enge Haarnadelkurve.",
+            "fr": "Depuis Berlin, compte environ une heure par l'A11, et la dernière route depuis Eberswalde comporte un virage en épingle serré.",
+            "it": "Da Berlino si guida circa un'ora sulla A11; l'ultimo tratto da Eberswalde ha un tornante stretto.",
+            "nl": "The drive from Berlin takes about an hour on the A11, and the last road from Eberswalde has a sharp hairpin bend.",
+            "pl": "The drive from Berlin takes about an hour on the A11, and the last road from Eberswalde has a sharp hairpin bend.",
+            "cs": "The drive from Berlin takes about an hour on the A11, and the last road from Eberswalde has a sharp hairpin bend.",
+            "sk": "The drive from Berlin takes about an hour on the A11, and the last road from Eberswalde has a sharp hairpin bend.",
+            "ro": "The drive from Berlin takes about an hour on the A11, and the last road from Eberswalde has a sharp hairpin bend.",
+            "hu": "The drive from Berlin takes about an hour on the A11, and the last road from Eberswalde has a sharp hairpin bend.",
+            "da": "The drive from Berlin takes about an hour on the A11, and the last road from Eberswalde has a sharp hairpin bend."
+          },
+          "title": {
+            "en": "By car",
+            "de": "Mit dem Auto",
+            "fr": "En voiture",
+            "it": "In auto",
+            "nl": "By car",
+            "pl": "By car",
+            "cs": "By car",
+            "sk": "By car",
+            "ro": "By car",
+            "hu": "By car",
+            "da": "By car"
+          }
+        }
+      ],
+      "title": {
+        "en": "From Berlin by train, bus or car",
+        "de": "Von Berlin mit Bahn, Bus oder Auto",
+        "fr": "Depuis Berlin en train, en bus ou en voiture",
+        "it": "Da Berlino in treno, in autobus o in auto",
+        "nl": "From Berlin by train, bus or car",
+        "pl": "From Berlin by train, bus or car",
+        "cs": "From Berlin by train, bus or car",
+        "sk": "From Berlin by train, bus or car",
+        "ro": "From Berlin by train, bus or car",
+        "hu": "From Berlin by train, bus or car",
+        "da": "From Berlin by train, bus or car"
+      }
+    },
+    {
+      "id": "map",
+      "type": "text",
+      "label": {
+        "en": "On the day",
+        "de": "Vor Ort",
+        "fr": "Sur place",
+        "it": "Sul posto",
+        "nl": "On the day",
+        "pl": "On the day",
+        "cs": "On the day",
+        "sk": "On the day",
+        "ro": "On the day",
+        "hu": "On the day",
+        "da": "On the day"
+      },
+      "title": {
+        "en": "The map around you",
+        "de": "Die Karte um dich herum",
+        "fr": "La carte autour de toi",
+        "it": "La mappa intorno a te",
+        "nl": "The map around you",
+        "pl": "The map around you",
+        "cs": "The map around you",
+        "sk": "The map around you",
+        "ro": "The map around you",
+        "hu": "The map around you",
+        "da": "The map around you"
+      },
+      "visual": {
+        "type": "phone",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/6013dcf77c40b1e8/map-chorin-abbey.png",
+          "width": 1290,
+          "height": 2796
+        }
+      },
+      "buttons": [],
+      "paragraphs": [
+        {
+          "en": "When you stand at the lift, open the map in StampIQ at your own position. It shows the stamps of the places around you, and each one carries a badge that says whether it is in your collection, on your wishlist or not in your collection yet. If the Niederfinow stamp is not in your collection yet, you can put it on your wishlist from here, and the next time you see it at a dealer you will know you were looking for it.",
+          "de": "Wenn du am Hebewerk stehst, öffne die Karte in StampIQ an deiner eigenen Position. Sie zeigt dir die Briefmarken der Orte um dich herum, und jede trägt ein Zeichen, das sagt, ob sie in deiner Sammlung ist, auf deiner Wunschliste steht oder dir noch fehlt. Fehlt dir die Niederfinow-Marke, kannst du sie von hier aus auf die Wunschliste setzen, und beim nächsten Händlerbesuch weißt du, dass du sie suchst.",
+          "fr": "Une fois devant l'ascenseur, ouvre la carte de StampIQ à ta propre position. Elle montre les timbres des lieux qui t'entourent, et chacun porte un badge indiquant s'il est dans ta collection, sur ta liste de souhaits ou encore absent de ta collection. Si le timbre de Niederfinow ne figure pas encore dans ta collection, tu peux l'ajouter à ta liste de souhaits directement depuis la carte, et la prochaine fois que tu le verras chez un marchand, tu sauras que tu le cherchais.",
+          "it": "Quando sei davanti al sollevatore, apri la Mappa in StampIQ sulla tua posizione. Ti mostra i francobolli dei luoghi che hai intorno, e ognuno indica se è già nella tua collezione, nella lista dei desideri o se ti manca ancora. Se il francobollo di Niederfinow non è ancora nella tua collezione, da qui lo puoi aggiungere alla lista dei desideri, e la prossima volta che lo vedi da un commerciante saprai che lo stavi cercando.",
+          "nl": "When you stand at the lift, open the map in StampIQ at your own position. It shows the stamps of the places around you, and each one carries a badge that says whether it is in your collection, on your wishlist or not in your collection yet. If the Niederfinow stamp is not in your collection yet, you can put it on your wishlist from here, and the next time you see it at a dealer you will know you were looking for it.",
+          "pl": "When you stand at the lift, open the map in StampIQ at your own position. It shows the stamps of the places around you, and each one carries a badge that says whether it is in your collection, on your wishlist or not in your collection yet. If the Niederfinow stamp is not in your collection yet, you can put it on your wishlist from here, and the next time you see it at a dealer you will know you were looking for it.",
+          "cs": "When you stand at the lift, open the map in StampIQ at your own position. It shows the stamps of the places around you, and each one carries a badge that says whether it is in your collection, on your wishlist or not in your collection yet. If the Niederfinow stamp is not in your collection yet, you can put it on your wishlist from here, and the next time you see it at a dealer you will know you were looking for it.",
+          "sk": "When you stand at the lift, open the map in StampIQ at your own position. It shows the stamps of the places around you, and each one carries a badge that says whether it is in your collection, on your wishlist or not in your collection yet. If the Niederfinow stamp is not in your collection yet, you can put it on your wishlist from here, and the next time you see it at a dealer you will know you were looking for it.",
+          "ro": "When you stand at the lift, open the map in StampIQ at your own position. It shows the stamps of the places around you, and each one carries a badge that says whether it is in your collection, on your wishlist or not in your collection yet. If the Niederfinow stamp is not in your collection yet, you can put it on your wishlist from here, and the next time you see it at a dealer you will know you were looking for it.",
+          "hu": "When you stand at the lift, open the map in StampIQ at your own position. It shows the stamps of the places around you, and each one carries a badge that says whether it is in your collection, on your wishlist or not in your collection yet. If the Niederfinow stamp is not in your collection yet, you can put it on your wishlist from here, and the next time you see it at a dealer you will know you were looking for it.",
+          "da": "When you stand at the lift, open the map in StampIQ at your own position. It shows the stamps of the places around you, and each one carries a badge that says whether it is in your collection, on your wishlist or not in your collection yet. If the Niederfinow stamp is not in your collection yet, you can put it on your wishlist from here, and the next time you see it at a dealer you will know you were looking for it."
+        },
+        {
+          "en": "One of the pins close to the lift is Chorin Abbey, on a GDR stamp from 1967. It lies about six kilometres north of the lift in a straight line: a former Cistercian abbey founded in 1258, built in Brick Gothic, and partly rebuilt in the 19th century under Karl Friedrich Schinkel. The abbey is open daily from 9:00 to 18:00 until the change to winter time and from 10:00 to 16:00 after that. Entry is €7, reduced €5, and on weekends from May to October there are open guided tours at 11:00 and 13:00.",
+          "de": "Eine der Nadeln in der Nähe des Hebewerks ist das Kloster Chorin, auf einer DDR-Marke von 1967. Es liegt in der Luftlinie etwa sechs Kilometer nördlich des Hebewerks: ein ehemaliges Zisterzienserkloster, 1258 gegründet, in Backsteingotik gebaut und im 19. Jahrhundert unter Karl Friedrich Schinkel teilweise wiederaufgebaut. Das Kloster ist bis zur Umstellung auf die Winterzeit täglich von 9:00 bis 18:00 Uhr geöffnet, danach von 10:00 bis 16:00 Uhr. Der Eintritt kostet 7 €, ermäßigt 5 €, und an den Wochenenden von Mai bis Oktober gibt es um 11:00 und 13:00 Uhr offene Führungen.",
+          "fr": "Parmi les points proches de l'ascenseur, il y a l'abbaye de Chorin, sur un timbre de RDA de 1967. Elle se trouve à environ six kilomètres au nord de l'ascenseur à vol d'oiseau : une ancienne abbaye cistercienne fondée en 1258, bâtie en gothique de brique et reconstruite en partie au XIXe siècle sous la direction de Karl Friedrich Schinkel. L'abbaye est ouverte tous les jours de 9h00 à 18h00 jusqu'au passage à l'heure d'hiver, puis de 10h00 à 16h00. L'entrée coûte 7 €, tarif réduit 5 €, et les week-ends de mai à octobre des visites guidées ouvertes à tous partent à 11h00 et 13h00.",
+          "it": "Uno dei segnaposti vicini al sollevatore è l'abbazia di Chorin, su un francobollo della DDR del 1967. Si trova a circa sei chilometri a nord del sollevatore in linea d'aria: un'ex abbazia cistercense fondata nel 1258, costruita in gotico in mattoni e in parte ricostruita nell'Ottocento sotto la direzione di Karl Friedrich Schinkel. È aperta tutti i giorni dalle 9:00 alle 18:00 fino al passaggio all'ora solare e dalle 10:00 alle 16:00 dopo. L'ingresso costa 7 €, ridotto 5 €, e da maggio a ottobre nei fine settimana ci sono visite guidate pubbliche alle 11:00 e alle 13:00.",
+          "nl": "One of the pins close to the lift is Chorin Abbey, on a GDR stamp from 1967. It lies about six kilometres north of the lift in a straight line: a former Cistercian abbey founded in 1258, built in Brick Gothic, and partly rebuilt in the 19th century under Karl Friedrich Schinkel. The abbey is open daily from 9:00 to 18:00 until the change to winter time and from 10:00 to 16:00 after that. Entry is €7, reduced €5, and on weekends from May to October there are open guided tours at 11:00 and 13:00.",
+          "pl": "One of the pins close to the lift is Chorin Abbey, on a GDR stamp from 1967. It lies about six kilometres north of the lift in a straight line: a former Cistercian abbey founded in 1258, built in Brick Gothic, and partly rebuilt in the 19th century under Karl Friedrich Schinkel. The abbey is open daily from 9:00 to 18:00 until the change to winter time and from 10:00 to 16:00 after that. Entry is €7, reduced €5, and on weekends from May to October there are open guided tours at 11:00 and 13:00.",
+          "cs": "One of the pins close to the lift is Chorin Abbey, on a GDR stamp from 1967. It lies about six kilometres north of the lift in a straight line: a former Cistercian abbey founded in 1258, built in Brick Gothic, and partly rebuilt in the 19th century under Karl Friedrich Schinkel. The abbey is open daily from 9:00 to 18:00 until the change to winter time and from 10:00 to 16:00 after that. Entry is €7, reduced €5, and on weekends from May to October there are open guided tours at 11:00 and 13:00.",
+          "sk": "One of the pins close to the lift is Chorin Abbey, on a GDR stamp from 1967. It lies about six kilometres north of the lift in a straight line: a former Cistercian abbey founded in 1258, built in Brick Gothic, and partly rebuilt in the 19th century under Karl Friedrich Schinkel. The abbey is open daily from 9:00 to 18:00 until the change to winter time and from 10:00 to 16:00 after that. Entry is €7, reduced €5, and on weekends from May to October there are open guided tours at 11:00 and 13:00.",
+          "ro": "One of the pins close to the lift is Chorin Abbey, on a GDR stamp from 1967. It lies about six kilometres north of the lift in a straight line: a former Cistercian abbey founded in 1258, built in Brick Gothic, and partly rebuilt in the 19th century under Karl Friedrich Schinkel. The abbey is open daily from 9:00 to 18:00 until the change to winter time and from 10:00 to 16:00 after that. Entry is €7, reduced €5, and on weekends from May to October there are open guided tours at 11:00 and 13:00.",
+          "hu": "One of the pins close to the lift is Chorin Abbey, on a GDR stamp from 1967. It lies about six kilometres north of the lift in a straight line: a former Cistercian abbey founded in 1258, built in Brick Gothic, and partly rebuilt in the 19th century under Karl Friedrich Schinkel. The abbey is open daily from 9:00 to 18:00 until the change to winter time and from 10:00 to 16:00 after that. Entry is €7, reduced €5, and on weekends from May to October there are open guided tours at 11:00 and 13:00.",
+          "da": "One of the pins close to the lift is Chorin Abbey, on a GDR stamp from 1967. It lies about six kilometres north of the lift in a straight line: a former Cistercian abbey founded in 1258, built in Brick Gothic, and partly rebuilt in the 19th century under Karl Friedrich Schinkel. The abbey is open daily from 9:00 to 18:00 until the change to winter time and from 10:00 to 16:00 after that. Entry is €7, reduced €5, and on weekends from May to October there are open guided tours at 11:00 and 13:00."
+        }
+      ]
+    }
+  ]
+}
