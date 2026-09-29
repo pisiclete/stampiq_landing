@@ -1,0 +1,771 @@
+{
+  "category": "feature",
+  "markets": [
+    "CH",
+    "LI",
+    "DE",
+    "AT",
+    "NL",
+    "PL"
+  ],
+  "langs": [
+    "en",
+    "de",
+    "fr",
+    "it",
+    "nl",
+    "pl"
+  ],
+  "published_at": "2026-09-29T18:51:31.953475+00:00",
+  "thumbnail": {
+    "src": "https://assets.stampiq.io/blog/7c4ee84859c88dae/8-catalog.jpg",
+    "width": 4032,
+    "height": 3024
+  },
+  "languages": {
+    "en": {
+      "slug": "how-to-photograph-a-stamp-for-recognition",
+      "title": "How to photograph a stamp for recognition",
+      "description": "What SigiVision needs from your photo: a plain background, enough distance, no glare, and for Bulk Scan the whole stockbook page behind clear foil."
+    },
+    "de": {
+      "slug": "briefmarke-fuer-die-erkennung-fotografieren",
+      "title": "So fotografierst du eine Briefmarke für die Erkennung",
+      "description": "Was SigiVision braucht: einfarbiger Untergrund, genug Abstand, keine Spiegelung, beim Mehrfach-Scan die ganze Einsteckbuchseite hinter klarer Folie."
+    },
+    "fr": {
+      "slug": "bien-photographier-un-timbre",
+      "title": "Bien photographier un timbre pour la reconnaissance",
+      "description": "Ce que SigiVision attend de ta photo : fond uni, assez de distance, aucun reflet et, en Scan multiple, toute la page du classeur sous bandes transparentes."
+    },
+    "it": {
+      "slug": "come-fotografare-un-francobollo",
+      "title": "Come fotografare un francobollo per il riconoscimento",
+      "description": "Cosa serve a SigiVision: fondo uniforme, giusta distanza, niente riflessi e, nella Scansione multipla, la pagina intera del classificatore sotto pellicola."
+    },
+    "nl": {
+      "slug": "postzegel-fotograferen-voor-herkenning",
+      "title": "Zo fotografeer je een postzegel voor de herkenning",
+      "description": "Wat SigiVision vraagt: een effen achtergrond, genoeg afstand, geen reflectie en bij Groepsscan de hele insteekboekpagina achter transparante folie."
+    },
+    "pl": {
+      "slug": "zdjecie-znaczka-do-rozpoznania",
+      "title": "Jak zrobić zdjęcie znaczka do rozpoznania",
+      "description": "Dobre zdjęcie dla SigiVision: jednobarwne tło, właściwa odległość, brak odblasków, a w skanowaniu grupowym cała strona klasera pod przezroczystą folią."
+    },
+    "cs": {
+      "slug": "how-to-photograph-a-stamp-for-recognition",
+      "title": "How to photograph a stamp for recognition",
+      "description": "What SigiVision needs from your photo: a plain background, enough distance, no glare, and for Bulk Scan the whole stockbook page behind clear foil."
+    },
+    "sk": {
+      "slug": "how-to-photograph-a-stamp-for-recognition",
+      "title": "How to photograph a stamp for recognition",
+      "description": "What SigiVision needs from your photo: a plain background, enough distance, no glare, and for Bulk Scan the whole stockbook page behind clear foil."
+    },
+    "ro": {
+      "slug": "how-to-photograph-a-stamp-for-recognition",
+      "title": "How to photograph a stamp for recognition",
+      "description": "What SigiVision needs from your photo: a plain background, enough distance, no glare, and for Bulk Scan the whole stockbook page behind clear foil."
+    },
+    "hu": {
+      "slug": "how-to-photograph-a-stamp-for-recognition",
+      "title": "How to photograph a stamp for recognition",
+      "description": "What SigiVision needs from your photo: a plain background, enough distance, no glare, and for Bulk Scan the whole stockbook page behind clear foil."
+    },
+    "da": {
+      "slug": "how-to-photograph-a-stamp-for-recognition",
+      "title": "How to photograph a stamp for recognition",
+      "description": "What SigiVision needs from your photo: a plain background, enough distance, no glare, and for Bulk Scan the whole stockbook page behind clear foil."
+    }
+  },
+  "header": {
+    "lead": {
+      "en": "You open a stockbook, hold the phone close over the first page to see every detail, and the stamps on the screen are blurred.",
+      "de": "Du schlägst ein Einsteckbuch auf, hältst das Handy dicht über die erste Seite, um jedes Detail zu sehen, und auf dem Bildschirm sind die Marken unscharf.",
+      "fr": "Tu ouvres un classeur, tu approches le téléphone de la première page pour voir chaque détail, et à l'écran les timbres sont flous.",
+      "it": "Apri un classificatore, avvicini il telefono alla prima pagina per vedere ogni dettaglio, e sullo schermo i francobolli sono sfocati.",
+      "nl": "Je slaat een insteekboek open en houdt de telefoon dicht boven de eerste pagina om elk detail te zien. De zegels op het scherm zijn wazig.",
+      "pl": "Otwierasz klaser, zbliżasz telefon do pierwszej strony, żeby zobaczyć każdy szczegół, a znaczki na ekranie są rozmyte.",
+      "cs": "You open a stockbook, hold the phone close over the first page to see every detail, and the stamps on the screen are blurred.",
+      "sk": "You open a stockbook, hold the phone close over the first page to see every detail, and the stamps on the screen are blurred.",
+      "ro": "You open a stockbook, hold the phone close over the first page to see every detail, and the stamps on the screen are blurred.",
+      "hu": "You open a stockbook, hold the phone close over the first page to see every detail, and the stamps on the screen are blurred.",
+      "da": "You open a stockbook, hold the phone close over the first page to see every detail, and the stamps on the screen are blurred."
+    },
+    "visual": {
+      "type": "phone",
+      "animation": {
+        "src": "https://assets.stampiq.io/blog/67cfb60b97a5840b/1.mp4",
+        "width": 960,
+        "height": 2080,
+        "poster": "https://assets.stampiq.io/blog/d428e3169ec65969/1.jpg"
+      }
+    }
+  },
+  "blocks": [
+    {
+      "id": "first-scan",
+      "type": "text",
+      "label": {
+        "en": "The first scan",
+        "de": "Der erste Scan",
+        "fr": "Le premier scan",
+        "it": "La prima scansione",
+        "nl": "De eerste scan",
+        "pl": "Pierwszy skan",
+        "cs": "The first scan",
+        "sk": "The first scan",
+        "ro": "The first scan",
+        "hu": "The first scan",
+        "da": "The first scan"
+      },
+      "title": {
+        "en": "A stockbook on the table",
+        "de": "Ein Einsteckbuch auf dem Tisch",
+        "fr": "Un classeur sur la table",
+        "it": "Un classificatore sul tavolo",
+        "nl": "Een insteekboek op tafel",
+        "pl": "Klaser na stole",
+        "cs": "A stockbook on the table",
+        "sk": "A stockbook on the table",
+        "ro": "A stockbook on the table",
+        "hu": "A stockbook on the table",
+        "da": "A stockbook on the table"
+      },
+      "visual": {
+        "type": "animation",
+        "animation": {
+          "src": "https://assets.stampiq.io/blog/acc7a0dc71c802b7/7.mp4",
+          "width": 960,
+          "height": 1706,
+          "poster": "https://assets.stampiq.io/blog/3b2e1aa54048b855/7.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "You go through a stockbook the way you always have, strip by strip, with the loupe in one hand. Some stamps you know at a glance. For the others you look closely at the perforation, the cancel and the small print at the bottom of the design, because that is how you tell one issue from another.",
+          "de": "Du gehst ein Einsteckbuch durch wie immer, Streifen für Streifen, die Lupe in der Hand. Manche Marken erkennst du auf den ersten Blick. Bei den anderen schaust du dir Zähnung, Stempel und die kleine Schrift am unteren Rand des Markenbilds genau an, denn daran unterscheidest du eine Ausgabe von der anderen.",
+          "fr": "Tu parcours un classeur comme tu l'as toujours fait, bande après bande, la loupe à la main. Certains timbres, tu les reconnais tout de suite. Pour les autres, tu examines de près la dentelure, l'oblitération et les petits caractères en bas du motif, car c'est à ces détails qu'on distingue une émission d'une autre.",
+          "it": "Sfogli il classificatore come hai sempre fatto, striscia dopo striscia, con la lente in mano. Alcuni francobolli li riconosci al primo sguardo. Per gli altri osservi da vicino la dentellatura, l'annullo e la piccola scritta in fondo al disegno, perché è così che distingui un'emissione dall'altra.",
+          "nl": "Je gaat een insteekboek door zoals je dat altijd doet, strook voor strook, met de loep in je hand. Sommige zegels herken je meteen. Bij de andere kijk je goed naar de tanding, de afstempeling en de kleine letters onderaan het zegelbeeld, want daaraan zie je het verschil tussen twee uitgiften.",
+          "pl": "Przeglądasz klaser tak jak zawsze, pasek po pasku, z lupą w jednej ręce. Niektóre znaczki rozpoznajesz od razu. Przy innych przyglądasz się ząbkowaniu, kasownikowi i drobnemu napisowi u dołu rysunku, bo po nich odróżniasz jedną emisję od drugiej.",
+          "cs": "You go through a stockbook the way you always have, strip by strip, with the loupe in one hand. Some stamps you know at a glance. For the others you look closely at the perforation, the cancel and the small print at the bottom of the design, because that is how you tell one issue from another.",
+          "sk": "You go through a stockbook the way you always have, strip by strip, with the loupe in one hand. Some stamps you know at a glance. For the others you look closely at the perforation, the cancel and the small print at the bottom of the design, because that is how you tell one issue from another.",
+          "ro": "You go through a stockbook the way you always have, strip by strip, with the loupe in one hand. Some stamps you know at a glance. For the others you look closely at the perforation, the cancel and the small print at the bottom of the design, because that is how you tell one issue from another.",
+          "hu": "You go through a stockbook the way you always have, strip by strip, with the loupe in one hand. Some stamps you know at a glance. For the others you look closely at the perforation, the cancel and the small print at the bottom of the design, because that is how you tell one issue from another.",
+          "da": "You go through a stockbook the way you always have, strip by strip, with the loupe in one hand. Some stamps you know at a glance. For the others you look closely at the perforation, the cancel and the small print at the bottom of the design, because that is how you tell one issue from another."
+        },
+        {
+          "en": "Now StampIQ is open on your phone, and you do the same with the camera. You bring the phone close, a few centimetres above the page, where you would hold the loupe. On the screen the stamps are blurred.",
+          "de": "Jetzt hast du StampIQ auf dem Handy geöffnet und machst dasselbe mit der Kamera. Du gehst mit dem Handy bis auf wenige Zentimeter an die Seite heran, dorthin, wo du sonst die Lupe hältst. Auf dem Bildschirm sind die Marken unscharf.",
+          "fr": "Cette fois, tu as ouvert StampIQ sur ton téléphone et tu fais la même chose avec l'appareil photo. Tu approches le téléphone à quelques centimètres de la page, là où tu tiendrais la loupe. À l'écran, les timbres sont flous.",
+          "it": "Adesso sul telefono hai aperto StampIQ e fai lo stesso con la fotocamera. Avvicini il telefono a pochi centimetri dalla pagina, dove terresti la lente. Sullo schermo i francobolli sono sfocati.",
+          "nl": "Nu heb je StampIQ open op je telefoon en doe je hetzelfde met de camera. Je houdt de telefoon een paar centimeter boven de pagina, op de plek waar je anders de loep zou houden. Op het scherm zijn de zegels wazig.",
+          "pl": "Tym razem masz na telefonie otwartą aplikację StampIQ i to samo robisz aparatem. Zbliżasz telefon na kilka centymetrów nad stronę, tam gdzie zwykle trzymasz lupę. Znaczki na ekranie są rozmyte.",
+          "cs": "Now StampIQ is open on your phone, and you do the same with the camera. You bring the phone close, a few centimetres above the page, where you would hold the loupe. On the screen the stamps are blurred.",
+          "sk": "Now StampIQ is open on your phone, and you do the same with the camera. You bring the phone close, a few centimetres above the page, where you would hold the loupe. On the screen the stamps are blurred.",
+          "ro": "Now StampIQ is open on your phone, and you do the same with the camera. You bring the phone close, a few centimetres above the page, where you would hold the loupe. On the screen the stamps are blurred.",
+          "hu": "Now StampIQ is open on your phone, and you do the same with the camera. You bring the phone close, a few centimetres above the page, where you would hold the loupe. On the screen the stamps are blurred.",
+          "da": "Now StampIQ is open on your phone, and you do the same with the camera. You bring the phone close, a few centimetres above the page, where you would hold the loupe. On the screen the stamps are blurred."
+        },
+        {
+          "en": "A phone camera cannot focus that close, and SigiVision cannot recognise a stamp from a blurred photo. Whether a scan works is decided before you tap the button, by how the photo is taken.",
+          "de": "So nah kann eine Handykamera nicht scharf stellen, und auf einem unscharfen Foto kann SigiVision keine Briefmarke erkennen. Ob ein Scan klappt, entscheidet sich deshalb schon vor dem Auslösen: daran, wie du das Foto machst.",
+          "fr": "L'appareil photo d'un téléphone ne sait pas faire la mise au point d'aussi près, et SigiVision ne peut pas reconnaître un timbre sur une photo floue. C'est donc la façon de prendre la photo qui décide si un scan fonctionne, avant même que tu touches le bouton.",
+          "it": "La fotocamera di un telefono non riesce a mettere a fuoco così da vicino, e da una foto sfocata SigiVision non può riconoscere un francobollo. Che una scansione riesca dipende da come fai la foto, quindi si decide prima ancora di toccare il pulsante.",
+          "nl": "Zo dichtbij kan een telefooncamera niet scherpstellen, en van een wazige foto kan SigiVision geen postzegel herkennen. Of een scan lukt, hangt af van de manier waarop je de foto maakt, en dat is al bepaald voordat je op de knop tikt.",
+          "pl": "Aparat w telefonie nie ustawi ostrości z tak bliska, a z rozmytego zdjęcia SigiVision nie rozpozna znaczka. O tym, czy skan się uda, decyduje sposób zrobienia zdjęcia, jeszcze zanim dotkniesz przycisku.",
+          "cs": "A phone camera cannot focus that close, and SigiVision cannot recognise a stamp from a blurred photo. Whether a scan works is decided before you tap the button, by how the photo is taken.",
+          "sk": "A phone camera cannot focus that close, and SigiVision cannot recognise a stamp from a blurred photo. Whether a scan works is decided before you tap the button, by how the photo is taken.",
+          "ro": "A phone camera cannot focus that close, and SigiVision cannot recognise a stamp from a blurred photo. Whether a scan works is decided before you tap the button, by how the photo is taken.",
+          "hu": "A phone camera cannot focus that close, and SigiVision cannot recognise a stamp from a blurred photo. Whether a scan works is decided before you tap the button, by how the photo is taken.",
+          "da": "A phone camera cannot focus that close, and SigiVision cannot recognise a stamp from a blurred photo. Whether a scan works is decided before you tap the button, by how the photo is taken."
+        }
+      ]
+    },
+    {
+      "id": "loupe",
+      "type": "text",
+      "label": {
+        "en": "Loupe and camera",
+        "de": "Lupe und Kamera",
+        "fr": "Loupe et appareil photo",
+        "it": "Lente e fotocamera",
+        "nl": "Loep en camera",
+        "pl": "Lupa i aparat",
+        "cs": "Loupe and camera",
+        "sk": "Loupe and camera",
+        "ro": "Loupe and camera",
+        "hu": "Loupe and camera",
+        "da": "Loupe and camera"
+      },
+      "title": {
+        "en": "Close up and from a distance",
+        "de": "Nah dran und mit Abstand",
+        "fr": "De près et à distance",
+        "it": "Da vicino e a distanza",
+        "nl": "Dichtbij en op afstand",
+        "pl": "Z bliska i z odległości",
+        "cs": "Close up and from a distance",
+        "sk": "Close up and from a distance",
+        "ro": "Close up and from a distance",
+        "hu": "Close up and from a distance",
+        "da": "Close up and from a distance"
+      },
+      "paragraphs": [
+        {
+          "en": "A loupe shows you more the closer you hold it. A phone camera needs distance: held at least 20 to 30 cm away, depending on the phone, it takes a sharp photo of the whole stamp at once.",
+          "de": "Eine Lupe zeigt dir umso mehr, je näher du sie an die Marke hältst. Eine Handykamera braucht Abstand. Hältst du das Handy je nach Modell mindestens 20 bis 30 cm entfernt, macht es ein scharfes Foto der ganzen Marke auf einmal.",
+          "fr": "Plus tu tiens une loupe près du timbre, plus elle te montre de détails. L'appareil photo d'un téléphone a besoin de distance : avec au moins 20 à 30 cm entre le téléphone et le timbre, selon le modèle, il prend une photo nette du timbre entier.",
+          "it": "Con la lente vedi più dettagli quanto più la avvicini. La fotocamera del telefono ha bisogno di distanza: tenuta ad almeno 20-30 cm, a seconda del telefono, fa una foto nitida di tutto il francobollo in una volta sola.",
+          "nl": "Hoe dichter je een loep bij de zegel houdt, hoe meer je ziet. Een telefooncamera heeft afstand nodig: op minstens 20 tot 30 cm, afhankelijk van het toestel, maakt hij in één keer een scherpe foto van de hele zegel.",
+          "pl": "Lupa pokazuje tym więcej, im bliżej ją trzymasz. Aparat w telefonie potrzebuje odległości: z co najmniej 20–30 cm, zależnie od telefonu, robi ostre zdjęcie całego znaczka naraz.",
+          "cs": "A loupe shows you more the closer you hold it. A phone camera needs distance: held at least 20 to 30 cm away, depending on the phone, it takes a sharp photo of the whole stamp at once.",
+          "sk": "A loupe shows you more the closer you hold it. A phone camera needs distance: held at least 20 to 30 cm away, depending on the phone, it takes a sharp photo of the whole stamp at once.",
+          "ro": "A loupe shows you more the closer you hold it. A phone camera needs distance: held at least 20 to 30 cm away, depending on the phone, it takes a sharp photo of the whole stamp at once.",
+          "hu": "A loupe shows you more the closer you hold it. A phone camera needs distance: held at least 20 to 30 cm away, depending on the phone, it takes a sharp photo of the whole stamp at once.",
+          "da": "A loupe shows you more the closer you hold it. A phone camera needs distance: held at least 20 to 30 cm away, depending on the phone, it takes a sharp photo of the whole stamp at once."
+        },
+        {
+          "en": "SigiVision compares that photo with our own images of the stamps in the catalogue. The details you check with the loupe, such as the value and the inscription, only reach SigiVision when the whole stamp is sharp in the photo.",
+          "de": "SigiVision vergleicht dieses Foto mit unseren eigenen Aufnahmen der Briefmarken im Katalog. Die Details, die du mit der Lupe prüfst, etwa Wertangabe und Inschrift, kommen bei SigiVision nur an, wenn die ganze Marke auf dem Foto scharf ist.",
+          "fr": "SigiVision compare cette photo à nos propres images des timbres du catalogue. Les détails que tu vérifies à la loupe, comme la valeur faciale ou l'inscription, SigiVision ne les voit que si tout le timbre est net sur la photo.",
+          "it": "SigiVision confronta quella foto con le nostre immagini dei francobolli del catalogo. I dettagli che controlli con la lente, come il valore facciale e la scritta, arrivano a SigiVision solo se nella foto tutto il francobollo è nitido.",
+          "nl": "SigiVision vergelijkt die foto met onze eigen afbeeldingen van de postzegels in de catalogus. De details die jij met de loep bekijkt, zoals de waarde en het opschrift, kan SigiVision alleen zien als de hele zegel scherp op de foto staat.",
+          "pl": "SigiVision porównuje to zdjęcie z naszymi własnymi skanami znaczków z katalogu. Szczegóły, które sprawdzasz pod lupą, takie jak nominał czy napis, docierają do SigiVision tylko wtedy, gdy cały znaczek jest na zdjęciu ostry.",
+          "cs": "SigiVision compares that photo with our own images of the stamps in the catalogue. The details you check with the loupe, such as the value and the inscription, only reach SigiVision when the whole stamp is sharp in the photo.",
+          "sk": "SigiVision compares that photo with our own images of the stamps in the catalogue. The details you check with the loupe, such as the value and the inscription, only reach SigiVision when the whole stamp is sharp in the photo.",
+          "ro": "SigiVision compares that photo with our own images of the stamps in the catalogue. The details you check with the loupe, such as the value and the inscription, only reach SigiVision when the whole stamp is sharp in the photo.",
+          "hu": "SigiVision compares that photo with our own images of the stamps in the catalogue. The details you check with the loupe, such as the value and the inscription, only reach SigiVision when the whole stamp is sharp in the photo.",
+          "da": "SigiVision compares that photo with our own images of the stamps in the catalogue. The details you check with the loupe, such as the value and the inscription, only reach SigiVision when the whole stamp is sharp in the photo."
+        },
+        {
+          "en": "Anything else in the picture, such as tweezers next to the stamp or a reflection on the foil, makes recognition harder and can lead to a wrong result.",
+          "de": "Alles andere im Bild, etwa eine Pinzette neben der Marke oder eine Spiegelung auf der Folie, erschwert die Erkennung und kann zu einem falschen Ergebnis führen.",
+          "fr": "Tout ce qui apparaît en plus sur l'image, comme une pince à timbres posée à côté ou un reflet sur la bande transparente, complique la reconnaissance et peut fausser le résultat.",
+          "it": "Qualsiasi altra cosa nell'inquadratura, come le pinzette accanto al francobollo o un riflesso sulla pellicola, rende più difficile il riconoscimento e può portare a un risultato sbagliato.",
+          "nl": "Alles wat verder in beeld is, zoals een pincet naast de zegel of een reflectie op de folie, maakt de herkenning moeilijker en kan tot een verkeerd resultaat leiden.",
+          "pl": "Wszystko inne w kadrze, na przykład pinceta obok znaczka albo odblask na folii, utrudnia rozpoznanie i może prowadzić do błędnego wyniku.",
+          "cs": "Anything else in the picture, such as tweezers next to the stamp or a reflection on the foil, makes recognition harder and can lead to a wrong result.",
+          "sk": "Anything else in the picture, such as tweezers next to the stamp or a reflection on the foil, makes recognition harder and can lead to a wrong result.",
+          "ro": "Anything else in the picture, such as tweezers next to the stamp or a reflection on the foil, makes recognition harder and can lead to a wrong result.",
+          "hu": "Anything else in the picture, such as tweezers next to the stamp or a reflection on the foil, makes recognition harder and can lead to a wrong result.",
+          "da": "Anything else in the picture, such as tweezers next to the stamp or a reflection on the foil, makes recognition harder and can lead to a wrong result."
+        }
+      ]
+    },
+    {
+      "id": "background",
+      "left": {
+        "note": {
+          "en": "Letters, tweezers and other stamps around it.",
+          "de": "Briefe, Pinzette und andere Marken rundherum.",
+          "fr": "Des lettres, une pince et d'autres timbres autour.",
+          "it": "Buste, pinzette e altri francobolli tutto intorno.",
+          "nl": "Brieven, een pincet en andere postzegels eromheen.",
+          "pl": "Dookoła listy, pinceta i inne znaczki.",
+          "cs": "Letters, tweezers and other stamps around it.",
+          "sk": "Letters, tweezers and other stamps around it.",
+          "ro": "Letters, tweezers and other stamps around it.",
+          "hu": "Letters, tweezers and other stamps around it.",
+          "da": "Letters, tweezers and other stamps around it."
+        },
+        "image": {
+          "src": "https://assets.stampiq.io/blog/5e72e905bb8a13d4/3-messy.png",
+          "width": 1290,
+          "height": 2796
+        },
+        "label": {
+          "en": "On a cluttered table",
+          "de": "Auf einem vollen Tisch",
+          "fr": "Sur une table encombrée",
+          "it": "Su un tavolo pieno di oggetti",
+          "nl": "Op een rommelige tafel",
+          "pl": "Na zagraconym stole",
+          "cs": "On a cluttered table",
+          "sk": "On a cluttered table",
+          "ro": "On a cluttered table",
+          "hu": "On a cluttered table",
+          "da": "On a cluttered table"
+        }
+      },
+      "type": "comparison",
+      "intro": {
+        "en": "When you sort stamps, the tweezers and other stamps lie on the table next to the one you are scanning. For the photo, put the stamp on a clear surface in one colour. White, black or grey work, and so does a bare wooden table, as long as nothing else lies around the stamp.",
+        "de": "Beim Sortieren liegen Pinzette und andere Marken direkt neben der, die du gerade scannst. Für das Foto legst du die Marke auf eine einfarbige Fläche. Weiß, Schwarz oder Grau eignen sich, ebenso ein blanker Holztisch, solange nichts anderes um die Marke herum liegt.",
+        "fr": "Quand tu tries des timbres, la pince et d'autres timbres traînent sur la table à côté de celui que tu scannes. Pour la photo, pose le timbre sur un fond uni et dégagé. Le blanc, le noir ou le gris conviennent, et une simple table en bois aussi, à condition que rien d'autre ne se trouve autour du timbre.",
+        "it": "Quando riordini i francobolli, sul tavolo accanto a quello che stai scansionando ci sono le pinzette e altri francobolli. Per la foto appoggia il francobollo su una superficie libera e in tinta unita. Vanno bene il bianco, il nero o il grigio, e anche un semplice tavolo di legno, purché intorno al francobollo non ci sia nient'altro.",
+        "nl": "Als je postzegels sorteert, liggen het pincet en andere zegels op tafel naast de zegel die je scant. Leg de postzegel voor de foto op een vrije, effen ondergrond in één kleur. Wit, zwart of grijs is goed, en een kale houten tafel ook, zolang er verder niets rond de zegel ligt.",
+        "pl": "Przy sortowaniu pinceta i inne znaczki leżą na stole obok tego, który właśnie skanujesz. Do zdjęcia połóż znaczek na gładkiej, jednobarwnej powierzchni. Sprawdzi się biała, czarna lub szara, a także zwykły drewniany stół, jeśli wokół znaczka nic nie leży.",
+        "cs": "When you sort stamps, the tweezers and other stamps lie on the table next to the one you are scanning. For the photo, put the stamp on a clear surface in one colour. White, black or grey work, and so does a bare wooden table, as long as nothing else lies around the stamp.",
+        "sk": "When you sort stamps, the tweezers and other stamps lie on the table next to the one you are scanning. For the photo, put the stamp on a clear surface in one colour. White, black or grey work, and so does a bare wooden table, as long as nothing else lies around the stamp.",
+        "ro": "When you sort stamps, the tweezers and other stamps lie on the table next to the one you are scanning. For the photo, put the stamp on a clear surface in one colour. White, black or grey work, and so does a bare wooden table, as long as nothing else lies around the stamp.",
+        "hu": "When you sort stamps, the tweezers and other stamps lie on the table next to the one you are scanning. For the photo, put the stamp on a clear surface in one colour. White, black or grey work, and so does a bare wooden table, as long as nothing else lies around the stamp.",
+        "da": "When you sort stamps, the tweezers and other stamps lie on the table next to the one you are scanning. For the photo, put the stamp on a clear surface in one colour. White, black or grey work, and so does a bare wooden table, as long as nothing else lies around the stamp."
+      },
+      "label": {
+        "en": "Background",
+        "de": "Untergrund",
+        "fr": "Fond",
+        "it": "Sfondo",
+        "nl": "Achtergrond",
+        "pl": "Tło",
+        "cs": "Background",
+        "sk": "Background",
+        "ro": "Background",
+        "hu": "Background",
+        "da": "Background"
+      },
+      "right": {
+        "note": {
+          "en": "The stamp alone, nothing else in the picture.",
+          "de": "Nur die Marke, sonst nichts im Bild.",
+          "fr": "Le timbre seul, rien d'autre sur l'image.",
+          "it": "Solo il francobollo, nient'altro nell'inquadratura.",
+          "nl": "Alleen de postzegel, verder niets in beeld.",
+          "pl": "Sam znaczek, w kadrze nic więcej.",
+          "cs": "The stamp alone, nothing else in the picture.",
+          "sk": "The stamp alone, nothing else in the picture.",
+          "ro": "The stamp alone, nothing else in the picture.",
+          "hu": "The stamp alone, nothing else in the picture.",
+          "da": "The stamp alone, nothing else in the picture."
+        },
+        "image": {
+          "src": "https://assets.stampiq.io/blog/6c4969863a361af0/3-de-clean.png",
+          "width": 1290,
+          "height": 2796
+        },
+        "label": {
+          "en": "On a plain surface",
+          "de": "Auf einfarbigem Untergrund",
+          "fr": "Sur un fond uni",
+          "it": "Su una superficie uniforme",
+          "nl": "Op een effen ondergrond",
+          "pl": "Na jednobarwnej powierzchni",
+          "cs": "On a plain surface",
+          "sk": "On a plain surface",
+          "ro": "On a plain surface",
+          "hu": "On a plain surface",
+          "da": "On a plain surface"
+        }
+      },
+      "title": {
+        "en": "A plain surface",
+        "de": "Eine einfarbige Fläche",
+        "fr": "Un fond uni",
+        "it": "Una superficie in tinta unita",
+        "nl": "Een effen ondergrond",
+        "pl": "Gładka, jednobarwna powierzchnia",
+        "cs": "A plain surface",
+        "sk": "A plain surface",
+        "ro": "A plain surface",
+        "hu": "A plain surface",
+        "da": "A plain surface"
+      }
+    },
+    {
+      "id": "distance",
+      "type": "text",
+      "label": {
+        "en": "Distance",
+        "de": "Abstand",
+        "fr": "Distance",
+        "it": "Distanza",
+        "nl": "Afstand",
+        "pl": "Odległość",
+        "cs": "Distance",
+        "sk": "Distance",
+        "ro": "Distance",
+        "hu": "Distance",
+        "da": "Distance"
+      },
+      "title": {
+        "en": "Holding the phone further away",
+        "de": "Mehr Abstand zur Marke",
+        "fr": "Le téléphone tenu plus loin",
+        "it": "Il telefono tenuto più lontano",
+        "nl": "De telefoon hoger boven de zegel",
+        "pl": "Telefon trzymany dalej od znaczka",
+        "cs": "Holding the phone further away",
+        "sk": "Holding the phone further away",
+        "ro": "Holding the phone further away",
+        "hu": "Holding the phone further away",
+        "da": "Holding the phone further away"
+      },
+      "visual": {
+        "type": "phone",
+        "animation": {
+          "src": "https://assets.stampiq.io/blog/62f91520cce85d61/4-short.mp4",
+          "width": 960,
+          "height": 2080,
+          "poster": "https://assets.stampiq.io/blog/a539b58ae1f672f6/4-short.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "A phone held a few centimetres above a stamp cannot focus. Hold it at least 20 to 30 cm away, depending on the phone, and wait until the stamp is sharp on the screen.",
+          "de": "Wenige Zentimeter über einer Briefmarke kann ein Handy nicht scharf stellen. Halte es je nach Modell mindestens 20 bis 30 cm entfernt und warte, bis die Marke auf dem Bildschirm scharf ist.",
+          "fr": "À quelques centimètres au-dessus d'un timbre, un téléphone n'arrive pas à faire la mise au point. Garde au moins 20 à 30 cm entre le téléphone et le timbre, selon le modèle, et attends que le timbre soit net à l'écran.",
+          "it": "A pochi centimetri da un francobollo il telefono non riesce a mettere a fuoco. Tienilo ad almeno 20-30 cm, a seconda del telefono, e aspetta che sullo schermo il francobollo sia nitido.",
+          "nl": "Een telefoon die een paar centimeter boven een postzegel hangt, kan niet scherpstellen. Houd hem, afhankelijk van het toestel, minstens 20 tot 30 cm van de zegel af en wacht tot de zegel scherp op het scherm staat.",
+          "pl": "Telefon trzymany kilka centymetrów nad znaczkiem nie ustawi ostrości. Trzymaj go co najmniej 20–30 cm od znaczka, zależnie od modelu, i poczekaj, aż znaczek na ekranie będzie ostry.",
+          "cs": "A phone held a few centimetres above a stamp cannot focus. Hold it at least 20 to 30 cm away, depending on the phone, and wait until the stamp is sharp on the screen.",
+          "sk": "A phone held a few centimetres above a stamp cannot focus. Hold it at least 20 to 30 cm away, depending on the phone, and wait until the stamp is sharp on the screen.",
+          "ro": "A phone held a few centimetres above a stamp cannot focus. Hold it at least 20 to 30 cm away, depending on the phone, and wait until the stamp is sharp on the screen.",
+          "hu": "A phone held a few centimetres above a stamp cannot focus. Hold it at least 20 to 30 cm away, depending on the phone, and wait until the stamp is sharp on the screen.",
+          "da": "A phone held a few centimetres above a stamp cannot focus. Hold it at least 20 to 30 cm away, depending on the phone, and wait until the stamp is sharp on the screen."
+        },
+        {
+          "en": "From that distance the stamp can look small in the frame. Tap 2x or 3x at the top of the camera, in Single Scan and in Bulk Scan, and the stamp fills more of the picture while it stays sharp. The zoom brings the stamp closer, and the phone keeps the distance the camera needs.",
+          "de": "Aus diesem Abstand wirkt die Marke im Bild manchmal klein. Tippe dann oben im Kamerabild auf 2x oder 3x, das geht im Einzelscan wie im Mehrfach-Scan. Die Marke füllt so mehr vom Bild und bleibt scharf, denn der Zoom holt sie heran, während das Handy den Abstand behält, den die Kamera braucht.",
+          "fr": "À cette distance, le timbre peut paraître petit dans le cadre. Touche 2x ou 3x en haut de l'écran de prise de vue, en Scan individuel comme en Scan multiple : le timbre occupe alors une plus grande partie de l'image et reste net. Le zoom rapproche le timbre, et le téléphone garde la distance dont l'appareil photo a besoin.",
+          "it": "Da quella distanza il francobollo può sembrare piccolo nell'inquadratura. Tocca 2x o 3x in alto nella schermata della fotocamera, sia nella Scansione singola sia nella Scansione multipla: il francobollo occupa più spazio nell'immagine e resta nitido. Lo zoom avvicina il francobollo, e il telefono resta alla distanza che serve alla fotocamera.",
+          "nl": "Van die afstand lijkt de zegel soms klein in beeld. Tik dan bovenaan het camerabeeld op 2x of 3x, bij Enkele scan en bij Groepsscan. De zegel vult dan een groter deel van het beeld en blijft scherp. Met de zoom haal je de zegel dichterbij, terwijl de telefoon op de afstand blijft die de camera nodig heeft.",
+          "pl": "Z tej odległości znaczek może wydawać się w kadrze mały. W skanowaniu pojedynczym i grupowym dotknij u góry ekranu aparatu 2x lub 3x, a znaczek zajmie większą część kadru i pozostanie ostry. Zoom przybliża znaczek, a telefon zostaje w odległości, której potrzebuje aparat.",
+          "cs": "From that distance the stamp can look small in the frame. Tap 2x or 3x at the top of the camera, in Single Scan and in Bulk Scan, and the stamp fills more of the picture while it stays sharp. The zoom brings the stamp closer, and the phone keeps the distance the camera needs.",
+          "sk": "From that distance the stamp can look small in the frame. Tap 2x or 3x at the top of the camera, in Single Scan and in Bulk Scan, and the stamp fills more of the picture while it stays sharp. The zoom brings the stamp closer, and the phone keeps the distance the camera needs.",
+          "ro": "From that distance the stamp can look small in the frame. Tap 2x or 3x at the top of the camera, in Single Scan and in Bulk Scan, and the stamp fills more of the picture while it stays sharp. The zoom brings the stamp closer, and the phone keeps the distance the camera needs.",
+          "hu": "From that distance the stamp can look small in the frame. Tap 2x or 3x at the top of the camera, in Single Scan and in Bulk Scan, and the stamp fills more of the picture while it stays sharp. The zoom brings the stamp closer, and the phone keeps the distance the camera needs.",
+          "da": "From that distance the stamp can look small in the frame. Tap 2x or 3x at the top of the camera, in Single Scan and in Bulk Scan, and the stamp fills more of the picture while it stays sharp. The zoom brings the stamp closer, and the phone keeps the distance the camera needs."
+        }
+      ]
+    },
+    {
+      "id": "light",
+      "left": {
+        "note": {
+          "en": "The reflection covers the left half of the stamp.",
+          "de": "Die Spiegelung verdeckt die linke Hälfte der Marke.",
+          "fr": "Le reflet couvre la moitié gauche du timbre.",
+          "it": "Il riflesso copre la metà sinistra del francobollo.",
+          "nl": "De reflectie bedekt de linkerhelft van de zegel.",
+          "pl": "Odblask zakrywa lewą połowę znaczka.",
+          "cs": "The reflection covers the left half of the stamp.",
+          "sk": "The reflection covers the left half of the stamp.",
+          "ro": "The reflection covers the left half of the stamp.",
+          "hu": "The reflection covers the left half of the stamp.",
+          "da": "The reflection covers the left half of the stamp."
+        },
+        "image": {
+          "src": "https://assets.stampiq.io/blog/ba7c0b362666e136/5-glare.png",
+          "width": 1290,
+          "height": 2796
+        },
+        "label": {
+          "en": "With glare",
+          "de": "Mit Spiegelung",
+          "fr": "Avec reflet",
+          "it": "Con riflesso",
+          "nl": "Met reflectie",
+          "pl": "Z odblaskiem",
+          "cs": "With glare",
+          "sk": "With glare",
+          "ro": "With glare",
+          "hu": "With glare",
+          "da": "With glare"
+        }
+      },
+      "type": "comparison",
+      "intro": {
+        "en": "The desk lamp you use to read the perforation can also reflect on the stamp, or on the foil over it, and hide half of the design. You often see the reflection only on the screen, so look there before you tap, and tilt the page or move the lamp until the whole stamp is visible.",
+        "de": "Die Schreibtischlampe, die du zum Prüfen der Zähnung brauchst, kann sich auch auf der Marke oder in der Folie darüber spiegeln und das halbe Motiv verdecken. Oft siehst du die Spiegelung erst auf dem Bildschirm. Schau deshalb vor dem Auslösen dorthin und kippe die Seite oder verschiebe die Lampe, bis die ganze Marke zu sehen ist.",
+        "fr": "La lampe de bureau qui t'aide à examiner la dentelure peut aussi se refléter sur le timbre, ou sur la bande transparente qui le couvre, et cacher la moitié du motif. Souvent, on ne voit le reflet qu'à l'écran. Regarde donc l'écran avant de déclencher, et incline la page ou déplace la lampe jusqu'à ce que le timbre soit entièrement visible.",
+        "it": "La lampada da tavolo che usi per controllare la dentellatura può riflettersi anche sul francobollo, o sulla pellicola che lo copre, e nascondere metà del disegno. Spesso il riflesso si vede solo sullo schermo: guardalo prima di scattare e inclina la pagina o sposta la lampada finché non si vede tutto il francobollo.",
+        "nl": "De bureaulamp waarbij je de tanding bekijkt, kan ook op de zegel of op de folie erover reflecteren en de helft van het zegelbeeld verbergen. Vaak zie je die reflectie pas op het scherm. Kijk dus eerst op het scherm voordat je tikt, en kantel de pagina of verplaats de lamp tot de hele zegel zichtbaar is.",
+        "pl": "Lampka biurkowa, przy której sprawdzasz ząbkowanie, może też odbijać się od znaczka albo od folii nad nim i zasłonić połowę rysunku. Odblask często widać dopiero na ekranie, więc zanim dotkniesz przycisku, spójrz na ekran. Przechyl stronę albo przesuń lampkę, aż cały znaczek będzie widoczny.",
+        "cs": "The desk lamp you use to read the perforation can also reflect on the stamp, or on the foil over it, and hide half of the design. You often see the reflection only on the screen, so look there before you tap, and tilt the page or move the lamp until the whole stamp is visible.",
+        "sk": "The desk lamp you use to read the perforation can also reflect on the stamp, or on the foil over it, and hide half of the design. You often see the reflection only on the screen, so look there before you tap, and tilt the page or move the lamp until the whole stamp is visible.",
+        "ro": "The desk lamp you use to read the perforation can also reflect on the stamp, or on the foil over it, and hide half of the design. You often see the reflection only on the screen, so look there before you tap, and tilt the page or move the lamp until the whole stamp is visible.",
+        "hu": "The desk lamp you use to read the perforation can also reflect on the stamp, or on the foil over it, and hide half of the design. You often see the reflection only on the screen, so look there before you tap, and tilt the page or move the lamp until the whole stamp is visible.",
+        "da": "The desk lamp you use to read the perforation can also reflect on the stamp, or on the foil over it, and hide half of the design. You often see the reflection only on the screen, so look there before you tap, and tilt the page or move the lamp until the whole stamp is visible."
+      },
+      "label": {
+        "en": "Light",
+        "de": "Licht",
+        "fr": "Lumière",
+        "it": "Luce",
+        "nl": "Licht",
+        "pl": "Światło",
+        "cs": "Light",
+        "sk": "Light",
+        "ro": "Light",
+        "hu": "Light",
+        "da": "Light"
+      },
+      "right": {
+        "note": {
+          "en": "The same stamp with the whole design visible.",
+          "de": "Dieselbe Marke, das ganze Motiv ist zu sehen.",
+          "fr": "Le même timbre, avec tout le motif visible.",
+          "it": "Lo stesso francobollo, con tutto il disegno visibile.",
+          "nl": "Dezelfde postzegel, met het hele zegelbeeld zichtbaar.",
+          "pl": "Ten sam znaczek, cały rysunek widoczny.",
+          "cs": "The same stamp with the whole design visible.",
+          "sk": "The same stamp with the whole design visible.",
+          "ro": "The same stamp with the whole design visible.",
+          "hu": "The same stamp with the whole design visible.",
+          "da": "The same stamp with the whole design visible."
+        },
+        "image": {
+          "src": "https://assets.stampiq.io/blog/e986cfe7c9000ac7/5-no-glare.png",
+          "width": 1290,
+          "height": 2796
+        },
+        "label": {
+          "en": "Without glare",
+          "de": "Ohne Spiegelung",
+          "fr": "Sans reflet",
+          "it": "Senza riflesso",
+          "nl": "Zonder reflectie",
+          "pl": "Bez odblasku",
+          "cs": "Without glare",
+          "sk": "Without glare",
+          "ro": "Without glare",
+          "hu": "Without glare",
+          "da": "Without glare"
+        }
+      },
+      "title": {
+        "en": "Glare on the stamp",
+        "de": "Spiegelungen auf der Marke",
+        "fr": "Un reflet sur le timbre",
+        "it": "Riflessi sul francobollo",
+        "nl": "Reflectie op de zegel",
+        "pl": "Odblask na znaczku",
+        "cs": "Glare on the stamp",
+        "sk": "Glare on the stamp",
+        "ro": "Glare on the stamp",
+        "hu": "Glare on the stamp",
+        "da": "Glare on the stamp"
+      }
+    },
+    {
+      "id": "bulk-scan",
+      "type": "text",
+      "label": {
+        "en": "Bulk Scan",
+        "de": "Mehrfach-Scan",
+        "fr": "Scan multiple",
+        "it": "Scansione multipla",
+        "nl": "Groepsscan",
+        "pl": "Skanowanie grupowe",
+        "cs": "Bulk Scan",
+        "sk": "Bulk Scan",
+        "ro": "Bulk Scan",
+        "hu": "Bulk Scan",
+        "da": "Bulk Scan"
+      },
+      "title": {
+        "en": "A whole page behind clear foil",
+        "de": "Eine ganze Seite hinter klarer Folie",
+        "fr": "Une page entière sous bandes transparentes",
+        "it": "Un'intera pagina sotto pellicola trasparente",
+        "nl": "Een hele pagina achter transparante folie",
+        "pl": "Cała strona pod przezroczystą folią",
+        "cs": "A whole page behind clear foil",
+        "sk": "A whole page behind clear foil",
+        "ro": "A whole page behind clear foil",
+        "hu": "A whole page behind clear foil",
+        "da": "A whole page behind clear foil"
+      },
+      "visual": {
+        "type": "phone",
+        "animation": {
+          "src": "https://assets.stampiq.io/blog/0cff1c623ab15ca6/6-short.mp4",
+          "width": 960,
+          "height": 2080,
+          "poster": "https://assets.stampiq.io/blog/918e28e750a15ba4/6-short.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "Scanning a full stockbook page stamp by stamp takes time. With Bulk Scan you photograph the whole page at once, and SigiVision identifies every stamp on it. You switch to it at the top of the scan screen.",
+          "de": "Eine volle Einsteckbuchseite Marke für Marke zu scannen, kostet Zeit. Mit dem Mehrfach-Scan fotografierst du die ganze Seite auf einmal, und SigiVision erkennt jede Briefmarke darauf. Umschalten kannst du oben im Scan-Bereich.",
+          "fr": "Scanner une page de classeur complète timbre par timbre prend du temps. Avec le Scan multiple, tu photographies toute la page d'un coup et SigiVision identifie chaque timbre qui s'y trouve. Tu passes à ce mode en haut de l'écran de scan.",
+          "it": "Scansionare una pagina di classificatore piena, un francobollo alla volta, richiede tempo. Con la Scansione multipla fotografi tutta la pagina in una volta e SigiVision identifica ogni francobollo che contiene. La scegli in alto nella schermata di scansione.",
+          "nl": "Een volle pagina uit een insteekboek zegel voor zegel scannen kost tijd. Met Groepsscan fotografeer je de hele pagina in één keer, en SigiVision herkent elke postzegel die erop staat. Bovenaan het scanscherm schakel je over naar Groepsscan.",
+          "pl": "Skanowanie całej strony klasera znaczek po znaczku trochę trwa. W skanowaniu grupowym robisz zdjęcie całej strony naraz, a SigiVision rozpoznaje każdy znaczek, który się na niej znajduje. Przełączasz się na nie u góry ekranu skanowania.",
+          "cs": "Scanning a full stockbook page stamp by stamp takes time. With Bulk Scan you photograph the whole page at once, and SigiVision identifies every stamp on it. You switch to it at the top of the scan screen.",
+          "sk": "Scanning a full stockbook page stamp by stamp takes time. With Bulk Scan you photograph the whole page at once, and SigiVision identifies every stamp on it. You switch to it at the top of the scan screen.",
+          "ro": "Scanning a full stockbook page stamp by stamp takes time. With Bulk Scan you photograph the whole page at once, and SigiVision identifies every stamp on it. You switch to it at the top of the scan screen.",
+          "hu": "Scanning a full stockbook page stamp by stamp takes time. With Bulk Scan you photograph the whole page at once, and SigiVision identifies every stamp on it. You switch to it at the top of the scan screen.",
+          "da": "Scanning a full stockbook page stamp by stamp takes time. With Bulk Scan you photograph the whole page at once, and SigiVision identifies every stamp on it. You switch to it at the top of the scan screen."
+        },
+        {
+          "en": "The stamps can stay in their strips, because SigiVision sees through clear foil. Dark or cloudy foil hides the stamp, and stamps behind it are better taken out and scanned on their own with Single Scan.",
+          "de": "Die Marken können in ihren Streifen bleiben, denn SigiVision sieht durch klare Folie hindurch. Dunkle oder trübe Folie verdeckt die Marke. Solche Marken nimmst du besser heraus und scannst sie einzeln mit dem Einzelscan.",
+          "fr": "Les timbres peuvent rester dans leurs bandes, car SigiVision voit à travers les bandes transparentes. Des bandes foncées ou troubles cachent les timbres : mieux vaut alors les sortir et les scanner un par un avec le Scan individuel.",
+          "it": "I francobolli possono restare nelle loro strisce, perché SigiVision vede attraverso la pellicola trasparente. Una pellicola scura o opaca nasconde il francobollo: in quel caso conviene toglierlo e scansionarlo da solo con la Scansione singola.",
+          "nl": "De zegels kunnen in hun stroken blijven, want SigiVision kijkt door transparante folie heen. Donkere of troebele folie verbergt de zegel. Zegels achter zulke folie kun je beter uit het boek halen en apart scannen met Enkele scan.",
+          "pl": "Znaczki mogą zostać w paskach, bo SigiVision widzi przez przezroczystą folię. Ciemna lub mętna folia zasłania znaczek, więc znaczki pod taką folią lepiej wyjąć i zeskanować osobno w skanowaniu pojedynczym.",
+          "cs": "The stamps can stay in their strips, because SigiVision sees through clear foil. Dark or cloudy foil hides the stamp, and stamps behind it are better taken out and scanned on their own with Single Scan.",
+          "sk": "The stamps can stay in their strips, because SigiVision sees through clear foil. Dark or cloudy foil hides the stamp, and stamps behind it are better taken out and scanned on their own with Single Scan.",
+          "ro": "The stamps can stay in their strips, because SigiVision sees through clear foil. Dark or cloudy foil hides the stamp, and stamps behind it are better taken out and scanned on their own with Single Scan.",
+          "hu": "The stamps can stay in their strips, because SigiVision sees through clear foil. Dark or cloudy foil hides the stamp, and stamps behind it are better taken out and scanned on their own with Single Scan.",
+          "da": "The stamps can stay in their strips, because SigiVision sees through clear foil. Dark or cloudy foil hides the stamp, and stamps behind it are better taken out and scanned on their own with Single Scan."
+        },
+        {
+          "en": "Keep the whole page in the picture. There is no need to go closer: if you can see a stamp clearly on the screen, SigiVision can see it too. The results list every stamp SigiVision found and mark the ones already in your collection or on your wishlist.",
+          "de": "Nimm die ganze Seite ins Bild. Näher herangehen musst du nicht: Was du auf dem Bildschirm klar erkennst, erkennt SigiVision auch. Das Ergebnis listet jede Marke auf, die SigiVision gefunden hat, und markiert die, die schon in deiner Sammlung oder auf deiner Wunschliste sind.",
+          "fr": "Garde toute la page dans le cadre. Inutile de t'approcher : si tu vois nettement un timbre à l'écran, SigiVision le voit aussi. Les résultats listent tous les timbres trouvés par SigiVision et signalent ceux qui sont déjà dans ta collection ou dans ta liste de souhaits.",
+          "it": "Tieni tutta la pagina nell'inquadratura. Non serve avvicinarsi: se sullo schermo vedi bene un francobollo, lo vede anche SigiVision. Nei risultati trovi tutti i francobolli individuati da SigiVision, e sono segnati quelli che hai già nella collezione o nella lista dei desideri.",
+          "nl": "Houd de hele pagina in beeld. Dichterbij gaan is niet nodig: als jij een zegel duidelijk op het scherm ziet, ziet SigiVision hem ook. In de resultaten staat elke postzegel die SigiVision heeft gevonden, en de zegels die al in je verzameling of op je verlanglijst staan, zijn gemarkeerd.",
+          "pl": "W kadrze powinna zmieścić się cała strona. Telefonu nie trzeba zbliżać: jeśli wyraźnie widzisz znaczek na ekranie, SigiVision też go zobaczy. W wynikach pojawia się każdy znaczek, który SigiVision znalazł, a te, które masz już w kolekcji albo na liście życzeń, są oznaczone.",
+          "cs": "Keep the whole page in the picture. There is no need to go closer: if you can see a stamp clearly on the screen, SigiVision can see it too. The results list every stamp SigiVision found and mark the ones already in your collection or on your wishlist.",
+          "sk": "Keep the whole page in the picture. There is no need to go closer: if you can see a stamp clearly on the screen, SigiVision can see it too. The results list every stamp SigiVision found and mark the ones already in your collection or on your wishlist.",
+          "ro": "Keep the whole page in the picture. There is no need to go closer: if you can see a stamp clearly on the screen, SigiVision can see it too. The results list every stamp SigiVision found and mark the ones already in your collection or on your wishlist.",
+          "hu": "Keep the whole page in the picture. There is no need to go closer: if you can see a stamp clearly on the screen, SigiVision can see it too. The results list every stamp SigiVision found and mark the ones already in your collection or on your wishlist.",
+          "da": "Keep the whole page in the picture. There is no need to go closer: if you can see a stamp clearly on the screen, SigiVision can see it too. The results list every stamp SigiVision found and mark the ones already in your collection or on your wishlist."
+        }
+      ]
+    },
+    {
+      "id": "checklist",
+      "type": "checklist",
+      "items": [
+        {
+          "en": "A plain surface in one colour, with nothing else around the stamp",
+          "de": "Eine einfarbige Fläche, auf der nichts anderes neben der Marke liegt",
+          "fr": "Un fond uni, sans rien d'autre autour du timbre",
+          "it": "Una superficie in tinta unita, senza nient'altro intorno al francobollo",
+          "nl": "Een effen ondergrond in één kleur, zonder iets anders rond de zegel",
+          "pl": "Gładka, jednobarwna powierzchnia, a wokół znaczka nic więcej",
+          "cs": "A plain surface in one colour, with nothing else around the stamp",
+          "sk": "A plain surface in one colour, with nothing else around the stamp",
+          "ro": "A plain surface in one colour, with nothing else around the stamp",
+          "hu": "A plain surface in one colour, with nothing else around the stamp",
+          "da": "A plain surface in one colour, with nothing else around the stamp"
+        },
+        {
+          "en": "At least 20 to 30 cm between phone and stamp, depending on the model, with 2x or 3x zoom if the stamp looks small",
+          "de": "Je nach Modell mindestens 20 bis 30 cm zwischen Handy und Marke, dazu 2x- oder 3x-Zoom, wenn die Marke klein wirkt",
+          "fr": "Au moins 20 à 30 cm entre le téléphone et le timbre selon le modèle, avec le zoom 2x ou 3x si le timbre paraît petit",
+          "it": "Almeno 20-30 cm tra telefono e francobollo, a seconda del modello, con zoom 2x o 3x se il francobollo sembra piccolo",
+          "nl": "Minstens 20 tot 30 cm tussen telefoon en zegel, afhankelijk van het model, met 2x of 3x zoom als de zegel klein lijkt",
+          "pl": "Co najmniej 20–30 cm między telefonem a znaczkiem, zależnie od modelu, i zoom 2x lub 3x, jeśli znaczek wydaje się mały",
+          "cs": "At least 20 to 30 cm between phone and stamp, depending on the model, with 2x or 3x zoom if the stamp looks small",
+          "sk": "At least 20 to 30 cm between phone and stamp, depending on the model, with 2x or 3x zoom if the stamp looks small",
+          "ro": "At least 20 to 30 cm between phone and stamp, depending on the model, with 2x or 3x zoom if the stamp looks small",
+          "hu": "At least 20 to 30 cm between phone and stamp, depending on the model, with 2x or 3x zoom if the stamp looks small",
+          "da": "At least 20 to 30 cm between phone and stamp, depending on the model, with 2x or 3x zoom if the stamp looks small"
+        },
+        {
+          "en": "No glare on the stamp or on the foil",
+          "de": "Keine Spiegelung auf der Marke oder auf der Folie",
+          "fr": "Aucun reflet sur le timbre ni sur la bande transparente",
+          "it": "Nessun riflesso sul francobollo o sulla pellicola",
+          "nl": "Geen reflectie op de zegel of op de folie",
+          "pl": "Żadnych odblasków na znaczku ani na folii",
+          "cs": "No glare on the stamp or on the foil",
+          "sk": "No glare on the stamp or on the foil",
+          "ro": "No glare on the stamp or on the foil",
+          "hu": "No glare on the stamp or on the foil",
+          "da": "No glare on the stamp or on the foil"
+        },
+        {
+          "en": "The stamp sharp on the screen before you tap",
+          "de": "Die Marke ist auf dem Bildschirm scharf, bevor du auslöst",
+          "fr": "Le timbre net à l'écran avant de déclencher",
+          "it": "Il francobollo nitido sullo schermo prima di scattare",
+          "nl": "De zegel scherp op het scherm voordat je tikt",
+          "pl": "Ostry znaczek na ekranie, zanim dotkniesz przycisku",
+          "cs": "The stamp sharp on the screen before you tap",
+          "sk": "The stamp sharp on the screen before you tap",
+          "ro": "The stamp sharp on the screen before you tap",
+          "hu": "The stamp sharp on the screen before you tap",
+          "da": "The stamp sharp on the screen before you tap"
+        }
+      ],
+      "label": {
+        "en": "Before the photo",
+        "de": "Vor dem Foto",
+        "fr": "Avant la photo",
+        "it": "Prima della foto",
+        "nl": "Voor de foto",
+        "pl": "Przed zdjęciem",
+        "cs": "Before the photo",
+        "sk": "Before the photo",
+        "ro": "Before the photo",
+        "hu": "Before the photo",
+        "da": "Before the photo"
+      },
+      "title": {
+        "en": "What to check on the screen",
+        "de": "Worauf du auf dem Bildschirm achtest",
+        "fr": "Les points à vérifier à l'écran",
+        "it": "Cosa controllare sullo schermo",
+        "nl": "Wat je op het scherm controleert",
+        "pl": "Co sprawdzić na ekranie",
+        "cs": "What to check on the screen",
+        "sk": "What to check on the screen",
+        "ro": "What to check on the screen",
+        "hu": "What to check on the screen",
+        "da": "What to check on the screen"
+      },
+      "columns": 1
+    },
+    {
+      "id": "connection",
+      "text": {
+        "en": "A scan needs an internet connection. SigiVision recognises stamps from Switzerland, Liechtenstein, Germany, Austria, the Netherlands and Poland.",
+        "de": "Ein Scan braucht eine Internetverbindung. SigiVision erkennt Briefmarken aus der Schweiz, Liechtenstein, Deutschland, Österreich, den Niederlanden und Polen.",
+        "fr": "Un scan a besoin d'une connexion internet. SigiVision reconnaît les timbres de Suisse, du Liechtenstein, d'Allemagne, d'Autriche, des Pays-Bas et de Pologne.",
+        "it": "Per la scansione serve una connessione a internet. SigiVision riconosce i francobolli di Svizzera, Liechtenstein, Germania, Austria, Paesi Bassi e Polonia.",
+        "nl": "Voor een scan heb je internet nodig. SigiVision herkent postzegels uit Zwitserland, Liechtenstein, Duitsland, Oostenrijk, Nederland en Polen.",
+        "pl": "Skanowanie wymaga połączenia z internetem. SigiVision rozpoznaje znaczki ze Szwajcarii, Liechtensteinu, Niemiec, Austrii, Holandii i Polski.",
+        "cs": "A scan needs an internet connection. SigiVision recognises stamps from Switzerland, Liechtenstein, Germany, Austria, the Netherlands and Poland.",
+        "sk": "A scan needs an internet connection. SigiVision recognises stamps from Switzerland, Liechtenstein, Germany, Austria, the Netherlands and Poland.",
+        "ro": "A scan needs an internet connection. SigiVision recognises stamps from Switzerland, Liechtenstein, Germany, Austria, the Netherlands and Poland.",
+        "hu": "A scan needs an internet connection. SigiVision recognises stamps from Switzerland, Liechtenstein, Germany, Austria, the Netherlands and Poland.",
+        "da": "A scan needs an internet connection. SigiVision recognises stamps from Switzerland, Liechtenstein, Germany, Austria, the Netherlands and Poland."
+      },
+      "type": "note"
+    },
+    {
+      "id": "stockbook",
+      "type": "text",
+      "label": {
+        "en": "Your stockbook",
+        "de": "Dein Einsteckbuch",
+        "fr": "Ton classeur",
+        "it": "Il tuo classificatore",
+        "nl": "Je insteekboek",
+        "pl": "Twój klaser",
+        "cs": "Your stockbook",
+        "sk": "Your stockbook",
+        "ro": "Your stockbook",
+        "hu": "Your stockbook",
+        "da": "Your stockbook"
+      },
+      "title": {
+        "en": "Nothing moves",
+        "de": "Alles bleibt an seinem Platz",
+        "fr": "Les timbres à leur place",
+        "it": "Tutto resta al suo posto",
+        "nl": "Alles blijft op zijn plek",
+        "pl": "Znaczki na swoim miejscu",
+        "cs": "Nothing moves",
+        "sk": "Nothing moves",
+        "ro": "Nothing moves",
+        "hu": "Nothing moves",
+        "da": "Nothing moves"
+      },
+      "paragraphs": [
+        {
+          "en": "The stamps stay in their strips, in the order you gave them, and the loupe stays on the desk for the details you want to check yourself. The scan takes over the first step, finding out which stamp you are holding, and the photo needs a few seconds of preparation before you tap.",
+          "de": "Die Marken stecken weiter in ihren Streifen, so geordnet, wie du sie eingesteckt hast, und die Lupe bleibt auf dem Schreibtisch für die Details, die du selbst prüfen willst. Der Scan übernimmt den ersten Schritt und findet heraus, welche Marke du vor dir hast. Dafür braucht das Foto vor dem Auslösen ein paar Sekunden Vorbereitung.",
+          "fr": "Les timbres restent dans leurs bandes, dans l'ordre où tu les as rangés, et ta loupe reste sur le bureau pour les détails que tu veux vérifier toi-même. Le scan se charge de la première étape, identifier le timbre que tu as en main, et la photo demande quelques secondes de préparation avant que tu déclenches.",
+          "it": "Nel classificatore i francobolli restano nelle loro strisce, nell'ordine che hai scelto tu, e la lente resta sulla scrivania per i dettagli che vuoi controllare di persona. La scansione si occupa del primo passo, cioè capire quale francobollo hai in mano, e la foto richiede qualche secondo di preparazione prima dello scatto.",
+          "nl": "De zegels blijven in hun stroken, in de volgorde die jij ze hebt gegeven, en de loep blijft op het bureau liggen voor de details die je zelf wilt bekijken. De scan neemt de eerste stap over: uitzoeken welke zegel je in handen hebt. Voor de foto neem je een paar seconden de tijd voordat je tikt.",
+          "pl": "Znaczki leżą w paskach w ułożonej przez Ciebie kolejności, a lupa zostaje na biurku do szczegółów, które wolisz sprawdzić samodzielnie. Skan przejmuje pierwszy krok, czyli ustalenie, jaki znaczek trzymasz, a samo zdjęcie wymaga kilku sekund przygotowania, zanim dotkniesz przycisku.",
+          "cs": "The stamps stay in their strips, in the order you gave them, and the loupe stays on the desk for the details you want to check yourself. The scan takes over the first step, finding out which stamp you are holding, and the photo needs a few seconds of preparation before you tap.",
+          "sk": "The stamps stay in their strips, in the order you gave them, and the loupe stays on the desk for the details you want to check yourself. The scan takes over the first step, finding out which stamp you are holding, and the photo needs a few seconds of preparation before you tap.",
+          "ro": "The stamps stay in their strips, in the order you gave them, and the loupe stays on the desk for the details you want to check yourself. The scan takes over the first step, finding out which stamp you are holding, and the photo needs a few seconds of preparation before you tap.",
+          "hu": "The stamps stay in their strips, in the order you gave them, and the loupe stays on the desk for the details you want to check yourself. The scan takes over the first step, finding out which stamp you are holding, and the photo needs a few seconds of preparation before you tap.",
+          "da": "The stamps stay in their strips, in the order you gave them, and the loupe stays on the desk for the details you want to check yourself. The scan takes over the first step, finding out which stamp you are holding, and the photo needs a few seconds of preparation before you tap."
+        }
+      ]
+    }
+  ]
+}
