@@ -1,0 +1,767 @@
+{
+  "category": "feature",
+  "markets": [
+    "CH",
+    "LI",
+    "DE",
+    "AT",
+    "NL",
+    "PL"
+  ],
+  "langs": [
+    "en",
+    "de",
+    "fr",
+    "it",
+    "nl",
+    "pl"
+  ],
+  "published_at": "2026-09-29T18:53:56.566971+00:00",
+  "thumbnail": {
+    "src": "https://assets.stampiq.io/blog/d668168d3a8f3b97/14-lange-anna.png",
+    "width": 1600,
+    "height": 900
+  },
+  "languages": {
+    "en": {
+      "slug": "when-the-scan-result-is-wrong",
+      "title": "When the scan result is wrong, and what to do",
+      "description": "What the result screens in StampIQ mean, how to correct a wrong result in a few taps, and how each correction improves recognition."
+    },
+    "de": {
+      "slug": "falsches-scan-ergebnis-korrigieren",
+      "title": "Wenn das Scan-Ergebnis nicht stimmt: was du tun kannst",
+      "description": "Was die Anzeigen im Scan-Ergebnis von StampIQ bedeuten, wie du ein falsches Ergebnis mit wenigen Fingertipps korrigierst und was jede Korrektur bewirkt."
+    },
+    "fr": {
+      "slug": "resultat-de-scan-faux",
+      "title": "Quand le résultat du scan est faux, et que faire",
+      "description": "Ce que signifient les écrans de résultat de StampIQ et comment corriger un résultat faux en quelques gestes, ce qui améliore aussi la reconnaissance."
+    },
+    "it": {
+      "slug": "risultato-della-scansione-sbagliato",
+      "title": "Se il risultato della scansione è sbagliato: cosa fare",
+      "description": "Cosa significano i risultati di StampIQ, come correggere un risultato sbagliato in pochi tocchi e come ogni correzione migliora il riconoscimento."
+    },
+    "nl": {
+      "slug": "scanresultaat-klopt-niet",
+      "title": "Wat je doet als het scanresultaat niet klopt",
+      "description": "Wat de resultaatschermen in StampIQ betekenen, hoe je een verkeerd resultaat met een paar tikken corrigeert en hoe elke correctie de herkenning verbetert."
+    },
+    "pl": {
+      "slug": "bledny-wynik-skanowania",
+      "title": "Błędny wynik skanowania i co wtedy zrobić",
+      "description": "Co oznaczają ekrany z wynikiem w StampIQ, jak kilkoma dotknięciami poprawić błędny wynik i jak każda poprawka ulepsza rozpoznawanie."
+    },
+    "cs": {
+      "slug": "when-the-scan-result-is-wrong",
+      "title": "When the scan result is wrong, and what to do",
+      "description": "What the result screens in StampIQ mean, how to correct a wrong result in a few taps, and how each correction improves recognition."
+    },
+    "sk": {
+      "slug": "when-the-scan-result-is-wrong",
+      "title": "When the scan result is wrong, and what to do",
+      "description": "What the result screens in StampIQ mean, how to correct a wrong result in a few taps, and how each correction improves recognition."
+    },
+    "ro": {
+      "slug": "when-the-scan-result-is-wrong",
+      "title": "When the scan result is wrong, and what to do",
+      "description": "What the result screens in StampIQ mean, how to correct a wrong result in a few taps, and how each correction improves recognition."
+    },
+    "hu": {
+      "slug": "when-the-scan-result-is-wrong",
+      "title": "When the scan result is wrong, and what to do",
+      "description": "What the result screens in StampIQ mean, how to correct a wrong result in a few taps, and how each correction improves recognition."
+    },
+    "da": {
+      "slug": "when-the-scan-result-is-wrong",
+      "title": "When the scan result is wrong, and what to do",
+      "description": "What the result screens in StampIQ mean, how to correct a wrong result in a few taps, and how each correction improves recognition."
+    }
+  },
+  "header": {
+    "lead": {
+      "en": "You scan a stamp, and the result names a stamp that looks almost the same but is a different issue.",
+      "de": "Du scannst eine Briefmarke, und das Ergebnis nennt eine Marke, die fast genauso aussieht, aber zu einer anderen Ausgabe gehört.",
+      "fr": "Tu scannes un timbre, et le résultat indique un timbre presque identique, mais d'une autre émission.",
+      "it": "Scansioni un francobollo e il risultato ne indica uno quasi uguale che appartiene a un'altra emissione.",
+      "nl": "Je scant een postzegel, en het resultaat noemt een zegel die er bijna hetzelfde uitziet, maar een andere uitgifte is.",
+      "pl": "Skanujesz znaczek, a wynik wskazuje znaczek, który wygląda prawie tak samo, ale pochodzi z innej emisji.",
+      "cs": "You scan a stamp, and the result names a stamp that looks almost the same but is a different issue.",
+      "sk": "You scan a stamp, and the result names a stamp that looks almost the same but is a different issue.",
+      "ro": "You scan a stamp, and the result names a stamp that looks almost the same but is a different issue.",
+      "hu": "You scan a stamp, and the result names a stamp that looks almost the same but is a different issue.",
+      "da": "You scan a stamp, and the result names a stamp that looks almost the same but is a different issue."
+    },
+    "visual": {
+      "type": "poster",
+      "image": {
+        "src": "https://assets.stampiq.io/blog/d668168d3a8f3b97/14-lange-anna.png",
+        "width": 1600,
+        "height": 900
+      }
+    }
+  },
+  "blocks": [
+    {
+      "id": "familiar",
+      "type": "text",
+      "label": {
+        "en": "A familiar stamp",
+        "de": "Eine bekannte Marke",
+        "fr": "Un timbre familier",
+        "it": "Un francobollo che conosci",
+        "nl": "Een bekende zegel",
+        "pl": "Znajomy znaczek",
+        "cs": "A familiar stamp",
+        "sk": "A familiar stamp",
+        "ro": "A familiar stamp",
+        "hu": "A familiar stamp",
+        "da": "A familiar stamp"
+      },
+      "title": {
+        "en": "A result you did not expect",
+        "de": "Ein unerwartetes Ergebnis",
+        "fr": "Un résultat inattendu",
+        "it": "Un risultato inatteso",
+        "nl": "Een onverwacht resultaat",
+        "pl": "Nieoczekiwany wynik",
+        "cs": "A result you did not expect",
+        "sk": "A result you did not expect",
+        "ro": "A result you did not expect",
+        "hu": "A result you did not expect",
+        "da": "A result you did not expect"
+      },
+      "paragraphs": [
+        {
+          "en": "You scan a stamp you thought you knew, and the result names a different issue with the same design and the same value. This is the moment to look at the stamp itself, the way you would compare it with the picture in a catalogue.",
+          "de": "Du scannst eine Marke, die du zu kennen glaubst, und das Ergebnis nennt eine andere Ausgabe mit demselben Motiv und derselben Wertstufe. Jetzt lohnt sich ein genauer Blick auf die Marke selbst, so wie du sie mit der Abbildung im Katalog vergleichen würdest.",
+          "fr": "Tu scannes un timbre que tu pensais connaître, et le résultat indique une autre émission, avec le même motif et la même valeur faciale. C'est le moment de regarder le timbre lui-même, comme tu le comparerais à l'image d'un catalogue.",
+          "it": "Scansioni un francobollo che pensavi di conoscere, e il risultato indica un'altra emissione con lo stesso disegno e lo stesso valore facciale. È il momento di guardare bene il francobollo, come faresti per confrontarlo con l'immagine di un catalogo.",
+          "nl": "Je scant een postzegel die je dacht te kennen, en het resultaat noemt een andere uitgifte met hetzelfde zegelbeeld en dezelfde waarde. Dat is het moment om naar de zegel zelf te kijken, zoals je hem ook met de afbeelding in een catalogus zou vergelijken.",
+          "pl": "Skanujesz znaczek, który wydaje Ci się znajomy, a wynik podaje inną emisję z tym samym rysunkiem i tym samym nominałem. To dobry moment, żeby przyjrzeć się samemu znaczkowi, tak jak przy porównywaniu go z ilustracją w katalogu.",
+          "cs": "You scan a stamp you thought you knew, and the result names a different issue with the same design and the same value. This is the moment to look at the stamp itself, the way you would compare it with the picture in a catalogue.",
+          "sk": "You scan a stamp you thought you knew, and the result names a different issue with the same design and the same value. This is the moment to look at the stamp itself, the way you would compare it with the picture in a catalogue.",
+          "ro": "You scan a stamp you thought you knew, and the result names a different issue with the same design and the same value. This is the moment to look at the stamp itself, the way you would compare it with the picture in a catalogue.",
+          "hu": "You scan a stamp you thought you knew, and the result names a different issue with the same design and the same value. This is the moment to look at the stamp itself, the way you would compare it with the picture in a catalogue.",
+          "da": "You scan a stamp you thought you knew, and the result names a different issue with the same design and the same value. This is the moment to look at the stamp itself, the way you would compare it with the picture in a catalogue."
+        },
+        {
+          "en": "Sometimes the result is right, and the stamp is not the one you thought. Sometimes SigiVision is wrong, and then you correct it in a few taps.",
+          "de": "Manchmal stimmt das Ergebnis, und die Marke ist eine andere, als du dachtest. Manchmal irrt sich SigiVision, und dann korrigierst du das mit ein paar Fingertipps.",
+          "fr": "Parfois, le résultat est juste et le timbre n'est pas celui que tu croyais. Parfois, SigiVision se trompe, et tu corriges le résultat en quelques gestes.",
+          "it": "A volte il risultato è giusto e il francobollo non è quello che pensavi. A volte sbaglia SigiVision, e lo correggi in pochi tocchi.",
+          "nl": "Soms klopt het resultaat en is de zegel een andere dan je dacht. Soms heeft SigiVision het mis, en dan corrigeer je het resultaat met een paar tikken.",
+          "pl": "Czasem wynik jest prawidłowy, a znaczek okazuje się inny, niż sądzisz. Czasem myli się SigiVision i wtedy poprawiasz wynik kilkoma dotknięciami.",
+          "cs": "Sometimes the result is right, and the stamp is not the one you thought. Sometimes SigiVision is wrong, and then you correct it in a few taps.",
+          "sk": "Sometimes the result is right, and the stamp is not the one you thought. Sometimes SigiVision is wrong, and then you correct it in a few taps.",
+          "ro": "Sometimes the result is right, and the stamp is not the one you thought. Sometimes SigiVision is wrong, and then you correct it in a few taps.",
+          "hu": "Sometimes the result is right, and the stamp is not the one you thought. Sometimes SigiVision is wrong, and then you correct it in a few taps.",
+          "da": "Sometimes the result is right, and the stamp is not the one you thought. Sometimes SigiVision is wrong, and then you correct it in a few taps."
+        }
+      ]
+    },
+    {
+      "id": "result",
+      "type": "text",
+      "label": {
+        "en": "The result",
+        "de": "Das Ergebnis",
+        "fr": "Le résultat",
+        "it": "Il risultato",
+        "nl": "Het resultaat",
+        "pl": "Wynik",
+        "cs": "The result",
+        "sk": "The result",
+        "ro": "The result",
+        "hu": "The result",
+        "da": "The result"
+      },
+      "title": {
+        "en": "What a recognised stamp shows",
+        "de": "Die Angaben zur erkannten Marke",
+        "fr": "Les informations d'un timbre reconnu",
+        "it": "La schermata di un francobollo riconosciuto",
+        "nl": "Wat een herkende postzegel laat zien",
+        "pl": "Dane rozpoznanego znaczka",
+        "cs": "What a recognised stamp shows",
+        "sk": "What a recognised stamp shows",
+        "ro": "What a recognised stamp shows",
+        "hu": "What a recognised stamp shows",
+        "da": "What a recognised stamp shows"
+      },
+      "visual": {
+        "type": "phone",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/53af46ae8608fec5/9.png",
+          "width": 1290,
+          "height": 2796
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "When SigiVision recognises a stamp, the result shows it with its StampIQ number, its country, year of issue, series and denomination, followed by the value StampIQ shows for it. A badge at the top says whether the stamp is already in your collection.",
+          "de": "Erkennt SigiVision eine Marke, zeigt das Ergebnis sie mit ihrer StampIQ-Nummer, dem Land, dem Ausgabejahr, dem Satz und der Wertstufe, darunter den Wert, den StampIQ für sie anzeigt. Ein Hinweis ganz oben sagt dir, ob die Marke schon in deiner Sammlung ist.",
+          "fr": "Quand SigiVision reconnaît un timbre, le résultat l'affiche avec son numéro StampIQ, son pays, son année d'émission, sa série et sa valeur faciale, puis la valeur que StampIQ indique pour ce timbre. Un badge en haut te dit s'il est déjà dans ta collection.",
+          "it": "Quando SigiVision riconosce un francobollo, il risultato lo mostra con il numero StampIQ, il paese, l'anno di emissione, la serie e il valore facciale, e subito dopo il valore che StampIQ indica per quel francobollo. Un badge in alto ti dice se è già nella tua collezione.",
+          "nl": "Als SigiVision een postzegel herkent, toont het resultaat de zegel met zijn StampIQ-nummer, het land, het jaar van uitgifte, de serie en de nominale waarde, en daarna de waarde die StampIQ voor de zegel aangeeft. Een label bovenaan laat zien of de zegel al in je verzameling zit.",
+          "pl": "Gdy SigiVision rozpozna znaczek, wynik pokazuje go z numerem StampIQ, krajem, rokiem wydania, serią i nominałem, a dalej wartość, jaką StampIQ dla niego wyświetla. Etykieta u góry mówi, czy masz już ten znaczek w kolekcji.",
+          "cs": "When SigiVision recognises a stamp, the result shows it with its StampIQ number, its country, year of issue, series and denomination, followed by the value StampIQ shows for it. A badge at the top says whether the stamp is already in your collection.",
+          "sk": "When SigiVision recognises a stamp, the result shows it with its StampIQ number, its country, year of issue, series and denomination, followed by the value StampIQ shows for it. A badge at the top says whether the stamp is already in your collection.",
+          "ro": "When SigiVision recognises a stamp, the result shows it with its StampIQ number, its country, year of issue, series and denomination, followed by the value StampIQ shows for it. A badge at the top says whether the stamp is already in your collection.",
+          "hu": "When SigiVision recognises a stamp, the result shows it with its StampIQ number, its country, year of issue, series and denomination, followed by the value StampIQ shows for it. A badge at the top says whether the stamp is already in your collection.",
+          "da": "When SigiVision recognises a stamp, the result shows it with its StampIQ number, its country, year of issue, series and denomination, followed by the value StampIQ shows for it. A badge at the top says whether the stamp is already in your collection."
+        },
+        {
+          "en": "SigiVision recognises a stamp when it comes from a country in our catalogue and the photo is sharp and taken from above. From a blurred photo taken from the side, nobody could tell which stamp it is, and SigiVision cannot either.",
+          "de": "SigiVision erkennt eine Marke, wenn sie aus einem Land in unserem Katalog stammt und das Foto scharf und von oben aufgenommen ist. Auf einem unscharfen, schräg aufgenommenen Foto könnte niemand sagen, welche Marke das ist, und SigiVision kann es auch nicht.",
+          "fr": "SigiVision reconnaît un timbre s'il vient d'un pays de notre catalogue et si la photo est nette et prise d'en haut. Sur une photo floue prise de côté, personne ne pourrait dire de quel timbre il s'agit, et SigiVision non plus.",
+          "it": "SigiVision riconosce un francobollo quando viene da un paese presente nel nostro catalogo e la foto è nitida e scattata dall'alto. Da una foto sfocata e ripresa di lato nessuno riuscirebbe a capire di che francobollo si tratta, nemmeno SigiVision.",
+          "nl": "SigiVision herkent een postzegel als die uit een land in onze catalogus komt en de foto scherp is en van bovenaf is genomen. Van een onscherpe foto die schuin van opzij is genomen, kan niemand zeggen welke zegel het is, en SigiVision ook niet.",
+          "pl": "SigiVision rozpoznaje znaczek, jeśli pochodzi on z kraju, który jest w naszym katalogu, a zdjęcie jest ostre i zrobione z góry. Z nieostrego zdjęcia zrobionego z boku nikt nie ustali, jaki to znaczek, i SigiVision również tego nie zrobi.",
+          "cs": "SigiVision recognises a stamp when it comes from a country in our catalogue and the photo is sharp and taken from above. From a blurred photo taken from the side, nobody could tell which stamp it is, and SigiVision cannot either.",
+          "sk": "SigiVision recognises a stamp when it comes from a country in our catalogue and the photo is sharp and taken from above. From a blurred photo taken from the side, nobody could tell which stamp it is, and SigiVision cannot either.",
+          "ro": "SigiVision recognises a stamp when it comes from a country in our catalogue and the photo is sharp and taken from above. From a blurred photo taken from the side, nobody could tell which stamp it is, and SigiVision cannot either.",
+          "hu": "SigiVision recognises a stamp when it comes from a country in our catalogue and the photo is sharp and taken from above. From a blurred photo taken from the side, nobody could tell which stamp it is, and SigiVision cannot either.",
+          "da": "SigiVision recognises a stamp when it comes from a country in our catalogue and the photo is sharp and taken from above. From a blurred photo taken from the side, nobody could tell which stamp it is, and SigiVision cannot either."
+        }
+      ]
+    },
+    {
+      "id": "similar",
+      "type": "text",
+      "label": {
+        "en": "Small differences",
+        "de": "Kleine Unterschiede",
+        "fr": "Petites différences",
+        "it": "Piccole differenze",
+        "nl": "Kleine verschillen",
+        "pl": "Drobne różnice",
+        "cs": "Small differences",
+        "sk": "Small differences",
+        "ro": "Small differences",
+        "hu": "Small differences",
+        "da": "Small differences"
+      },
+      "title": {
+        "en": "Stamps that look alike",
+        "de": "Marken, die sich sehr ähnlich sehen",
+        "fr": "Des timbres presque identiques",
+        "it": "Francobolli quasi uguali",
+        "nl": "Zegels die op elkaar lijken",
+        "pl": "Prawie identyczne emisje",
+        "cs": "Stamps that look alike",
+        "sk": "Stamps that look alike",
+        "ro": "Stamps that look alike",
+        "hu": "Stamps that look alike",
+        "da": "Stamps that look alike"
+      },
+      "visual": {
+        "type": "phone",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/36086c19d1b294a9/11.png",
+          "width": 1290,
+          "height": 2796
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "Some stamps differ from another issue only in a small detail. The Lange Anna on Helgoland at 70 pfennig exists from the Deutsche Bundespost and from the Deutsche Bundespost Berlin, with the same design and the same value. The only difference is the word BERLIN in the inscription.",
+          "de": "Manche Marken unterscheiden sich von einer anderen Ausgabe nur in einem kleinen Detail. Die Lange Anna auf Helgoland zu 70 Pfennig gibt es von der Deutschen Bundespost und von der Deutschen Bundespost Berlin, mit demselben Motiv und derselben Wertstufe. Der einzige Unterschied ist das Wort BERLIN in der Inschrift.",
+          "fr": "Certains timbres ne se distinguent d'une autre émission que par un petit détail. La Lange Anna d'Heligoland à 70 pfennigs a été émise par la Deutsche Bundespost et par la Deutsche Bundespost Berlin, avec le même motif et la même valeur faciale. Seul le mot BERLIN dans l'inscription les distingue.",
+          "it": "Alcuni francobolli si distinguono da un'altra emissione solo per un piccolo dettaglio. La Lange Anna di Helgoland da 70 pfennig è stata emessa sia dalla Deutsche Bundespost sia dalla Deutsche Bundespost Berlin, con lo stesso disegno e lo stesso valore facciale. L'unica differenza è la parola BERLIN nella scritta.",
+          "nl": "Sommige postzegels verschillen alleen in een klein detail van een andere uitgifte. De Lange Anna op Helgoland van 70 pfennig is uitgegeven door de Deutsche Bundespost en door de Deutsche Bundespost Berlin, met hetzelfde zegelbeeld en dezelfde waarde. Het enige verschil is het woord BERLIN in het opschrift.",
+          "pl": "Niektóre znaczki różnią się od innej emisji tylko drobnym szczegółem. Znaczek za 70 fenigów z Lange Anna na Helgolandzie istnieje w wydaniu Deutsche Bundespost i w wydaniu Deutsche Bundespost Berlin, z tym samym rysunkiem i tym samym nominałem. Różni je tylko słowo BERLIN w napisie.",
+          "cs": "Some stamps differ from another issue only in a small detail. The Lange Anna on Helgoland at 70 pfennig exists from the Deutsche Bundespost and from the Deutsche Bundespost Berlin, with the same design and the same value. The only difference is the word BERLIN in the inscription.",
+          "sk": "Some stamps differ from another issue only in a small detail. The Lange Anna on Helgoland at 70 pfennig exists from the Deutsche Bundespost and from the Deutsche Bundespost Berlin, with the same design and the same value. The only difference is the word BERLIN in the inscription.",
+          "ro": "Some stamps differ from another issue only in a small detail. The Lange Anna on Helgoland at 70 pfennig exists from the Deutsche Bundespost and from the Deutsche Bundespost Berlin, with the same design and the same value. The only difference is the word BERLIN in the inscription.",
+          "hu": "Some stamps differ from another issue only in a small detail. The Lange Anna on Helgoland at 70 pfennig exists from the Deutsche Bundespost and from the Deutsche Bundespost Berlin, with the same design and the same value. The only difference is the word BERLIN in the inscription.",
+          "da": "Some stamps differ from another issue only in a small detail. The Lange Anna on Helgoland at 70 pfennig exists from the Deutsche Bundespost and from the Deutsche Bundespost Berlin, with the same design and the same value. The only difference is the word BERLIN in the inscription."
+        },
+        {
+          "en": "Stamps like these exist because the same design was used by more than one postal administration, or printed again later. On a photo the difference can be a single word or a shade of colour, and the stamp in your hand settles it.",
+          "de": "Solche Marken gibt es, weil mehrere Postverwaltungen dasselbe Motiv verwendet haben oder weil es später noch einmal gedruckt wurde. Auf einem Foto kann der Unterschied ein einziges Wort oder ein Farbton sein, und Klarheit bringt dann die Marke in deiner Hand.",
+          "fr": "Ces timbres existent parce que le même motif a servi à plusieurs administrations postales, ou a été réimprimé plus tard. Sur une photo, la différence tient parfois à un seul mot ou à une nuance de couleur, et c'est le timbre que tu as en main qui permet de trancher.",
+          "it": "Francobolli così esistono perché lo stesso disegno è stato usato da più di un'amministrazione postale, oppure ristampato più tardi. In una foto la differenza può essere una sola parola o una sfumatura di colore, e a chiarire il dubbio è il francobollo che hai in mano.",
+          "nl": "Zulke zegels bestaan omdat meer dan één postadministratie hetzelfde ontwerp gebruikte, of omdat het ontwerp later opnieuw werd gedrukt. Op een foto kan het verschil één woord of een kleurnuance zijn, en dan beslist de zegel in je hand.",
+          "pl": "Takie znaczki powstają, gdy ten sam rysunek wykorzystała więcej niż jedna administracja pocztowa albo gdy znaczek później wydrukowano ponownie. Na zdjęciu różnicą może być jedno słowo albo odcień koloru, a rozstrzyga znaczek, który trzymasz w ręku.",
+          "cs": "Stamps like these exist because the same design was used by more than one postal administration, or printed again later. On a photo the difference can be a single word or a shade of colour, and the stamp in your hand settles it.",
+          "sk": "Stamps like these exist because the same design was used by more than one postal administration, or printed again later. On a photo the difference can be a single word or a shade of colour, and the stamp in your hand settles it.",
+          "ro": "Stamps like these exist because the same design was used by more than one postal administration, or printed again later. On a photo the difference can be a single word or a shade of colour, and the stamp in your hand settles it.",
+          "hu": "Stamps like these exist because the same design was used by more than one postal administration, or printed again later. On a photo the difference can be a single word or a shade of colour, and the stamp in your hand settles it.",
+          "da": "Stamps like these exist because the same design was used by more than one postal administration, or printed again later. On a photo the difference can be a single word or a shade of colour, and the stamp in your hand settles it."
+        },
+        {
+          "en": "When SigiVision finds two candidates that close, it opens \"Help Sigi decide\" with both stamps side by side and the details that differ highlighted. Check the stamp, tap yours and then \"This is my stamp\".",
+          "de": "Findet SigiVision zwei so ähnliche Kandidaten, öffnet sich „Hilf Sigi bei der Entscheidung“. Dort siehst du beide Marken nebeneinander, und die Unterschiede sind hervorgehoben. Prüfe deine Marke, tippe auf die passende und dann auf „Das ist meine Briefmarke“.",
+          "fr": "Quand SigiVision trouve deux candidats aussi proches, il ouvre « Aide Sigi à se décider » avec les deux timbres côte à côte et les détails qui diffèrent mis en évidence. Vérifie le timbre, touche le tien, puis « C'est mon timbre ».",
+          "it": "Quando SigiVision trova due candidati così simili, si apre \"Aiuta Sigi a decidere\" con i due francobolli affiancati e i dettagli diversi evidenziati. Controlla il francobollo, tocca il tuo e poi \"Questo è il mio francobollo\".",
+          "nl": "Vindt SigiVision twee kandidaten die zo sterk op elkaar lijken, dan opent „Help Sigi beslissen” met beide zegels naast elkaar en de details die verschillen gemarkeerd. Controleer de zegel, tik op de jouwe en daarna op „Dit is mijn postzegel”.",
+          "pl": "Gdy SigiVision znajdzie dwóch tak podobnych kandydatów, otwiera ekran „Pomóż Sigi podjąć decyzję”, na którym oba znaczki są obok siebie, a szczegóły, którymi się różnią, są zaznaczone. Sprawdź znaczek, dotknij swojego, a potem „To jest mój znaczek”.",
+          "cs": "When SigiVision finds two candidates that close, it opens \"Help Sigi decide\" with both stamps side by side and the details that differ highlighted. Check the stamp, tap yours and then \"This is my stamp\".",
+          "sk": "When SigiVision finds two candidates that close, it opens \"Help Sigi decide\" with both stamps side by side and the details that differ highlighted. Check the stamp, tap yours and then \"This is my stamp\".",
+          "ro": "When SigiVision finds two candidates that close, it opens \"Help Sigi decide\" with both stamps side by side and the details that differ highlighted. Check the stamp, tap yours and then \"This is my stamp\".",
+          "hu": "When SigiVision finds two candidates that close, it opens \"Help Sigi decide\" with both stamps side by side and the details that differ highlighted. Check the stamp, tap yours and then \"This is my stamp\".",
+          "da": "When SigiVision finds two candidates that close, it opens \"Help Sigi decide\" with both stamps side by side and the details that differ highlighted. Check the stamp, tap yours and then \"This is my stamp\"."
+        },
+        {
+          "en": "If you are not sure yourself, tap \"I can't tell either\". Your answer is saved, and the scan stays without an identification.",
+          "de": "Bist du selbst nicht sicher, tippe auf „Ich weiß es auch nicht“. Deine Antwort wird gespeichert, und der Scan bleibt ohne Bestimmung.",
+          "fr": "Si tu hésites toi aussi, touche « Je ne sais pas non plus ». Ta réponse est enregistrée, et le scan reste sans identification.",
+          "it": "Se hai dei dubbi anche tu, tocca \"Non saprei dire nemmeno io\". La tua risposta viene salvata e la scansione resta senza identificazione.",
+          "nl": "Weet je het zelf ook niet zeker, tik dan op „Ik weet het ook niet”. Je antwoord wordt opgeslagen en de zegel in de scan blijft onbepaald.",
+          "pl": "Jeśli i Ty nie masz pewności, dotknij „Ja też nie wiem”. Twoja odpowiedź zostanie zapisana, a znaczek w tym skanie pozostanie nierozpoznany.",
+          "cs": "If you are not sure yourself, tap \"I can't tell either\". Your answer is saved, and the scan stays without an identification.",
+          "sk": "If you are not sure yourself, tap \"I can't tell either\". Your answer is saved, and the scan stays without an identification.",
+          "ro": "If you are not sure yourself, tap \"I can't tell either\". Your answer is saved, and the scan stays without an identification.",
+          "hu": "If you are not sure yourself, tap \"I can't tell either\". Your answer is saved, and the scan stays without an identification.",
+          "da": "If you are not sure yourself, tap \"I can't tell either\". Your answer is saved, and the scan stays without an identification."
+        }
+      ]
+    },
+    {
+      "id": "correcting",
+      "type": "steps",
+      "intro": {
+        "en": "Sometimes the result is simply wrong. Correcting it takes a few taps on the result screen.",
+        "de": "Manchmal ist das Ergebnis einfach falsch. Korrigieren kannst du es mit ein paar Fingertipps im Scan-Ergebnis.",
+        "fr": "Parfois, le résultat est tout simplement faux. Pour le corriger, il suffit de quelques gestes sur l'écran de résultat.",
+        "it": "A volte il risultato è semplicemente sbagliato. Per correggerlo bastano pochi tocchi nella schermata del risultato.",
+        "nl": "Soms is het resultaat gewoon fout. Je corrigeert het met een paar tikken op het resultaatscherm.",
+        "pl": "Czasem wynik jest po prostu błędny. Poprawienie go na ekranie wyniku zajmuje kilka dotknięć.",
+        "cs": "Sometimes the result is simply wrong. Correcting it takes a few taps on the result screen.",
+        "sk": "Sometimes the result is simply wrong. Correcting it takes a few taps on the result screen.",
+        "ro": "Sometimes the result is simply wrong. Correcting it takes a few taps on the result screen.",
+        "hu": "Sometimes the result is simply wrong. Correcting it takes a few taps on the result screen.",
+        "da": "Sometimes the result is simply wrong. Correcting it takes a few taps on the result screen."
+      },
+      "label": {
+        "en": "Correcting a result",
+        "de": "Ergebnis korrigieren",
+        "fr": "Corriger un résultat",
+        "it": "La correzione",
+        "nl": "Een resultaat corrigeren",
+        "pl": "Poprawianie wyniku",
+        "cs": "Correcting a result",
+        "sk": "Correcting a result",
+        "ro": "Correcting a result",
+        "hu": "Correcting a result",
+        "da": "Correcting a result"
+      },
+      "steps": [
+        {
+          "en": "Tap \"Report Issue\" on the result.",
+          "de": "Tippe im Ergebnis auf „Problem melden“.",
+          "fr": "Touche « Signaler un problème » sur le résultat.",
+          "it": "Tocca \"Segnala un problema\" nella schermata del risultato.",
+          "nl": "Tik in het resultaat op „Probleem melden”.",
+          "pl": "Dotknij „Zgłoś problem” przy wyniku.",
+          "cs": "Tap \"Report Issue\" on the result.",
+          "sk": "Tap \"Report Issue\" on the result.",
+          "ro": "Tap \"Report Issue\" on the result.",
+          "hu": "Tap \"Report Issue\" on the result.",
+          "da": "Tap \"Report Issue\" on the result."
+        },
+        {
+          "en": "Choose \"Wrong stamp identified\" and tap \"Submit Feedback\".",
+          "de": "Wähle „Falsche Briefmarke identifiziert“ und tippe auf „Feedback senden“.",
+          "fr": "Choisis « Timbre incorrect identifié » et touche « Envoyer les commentaires ».",
+          "it": "Scegli \"Francobollo errato identificato\" e tocca \"Invia feedback\".",
+          "nl": "Kies „Verkeerde postzegel geïdentificeerd” en tik op „Feedback verzenden”.",
+          "pl": "Wybierz „Zidentyfikowano nieprawidłowy znaczek” i dotknij „Prześlij opinię”.",
+          "cs": "Choose \"Wrong stamp identified\" and tap \"Submit Feedback\".",
+          "sk": "Choose \"Wrong stamp identified\" and tap \"Submit Feedback\".",
+          "ro": "Choose \"Wrong stamp identified\" and tap \"Submit Feedback\".",
+          "hu": "Choose \"Wrong stamp identified\" and tap \"Submit Feedback\".",
+          "da": "Choose \"Wrong stamp identified\" and tap \"Submit Feedback\"."
+        },
+        {
+          "en": "\"Which stamp is this?\" shows SigiVision's first answer and up to four other candidates, three for a stamp from Bulk Scan.",
+          "de": "Unter „Welche Briefmarke ist das?“ siehst du die erste Antwort von SigiVision und bis zu vier weitere Kandidaten, bei einer Marke aus dem Mehrfach-Scan drei.",
+          "fr": "« De quel timbre s'agit-il ? » affiche la première réponse de SigiVision et jusqu'à quatre autres candidats, trois pour un timbre issu du Scan multiple.",
+          "it": "La schermata \"Di quale francobollo si tratta?\" mostra la prima risposta di SigiVision e fino ad altri quattro candidati, oppure tre se il francobollo viene da una Scansione multipla.",
+          "nl": "„Welke postzegel is dit?” toont het eerste antwoord van SigiVision en maximaal vier andere kandidaten, of drie als je de zegel met Groepsscan hebt gescand.",
+          "pl": "Ekran „Który to znaczek?” pokazuje pierwszą odpowiedź SigiVision i do czterech innych kandydatów, a przy znaczku ze skanowania grupowego do trzech.",
+          "cs": "\"Which stamp is this?\" shows SigiVision's first answer and up to four other candidates, three for a stamp from Bulk Scan.",
+          "sk": "\"Which stamp is this?\" shows SigiVision's first answer and up to four other candidates, three for a stamp from Bulk Scan.",
+          "ro": "\"Which stamp is this?\" shows SigiVision's first answer and up to four other candidates, three for a stamp from Bulk Scan.",
+          "hu": "\"Which stamp is this?\" shows SigiVision's first answer and up to four other candidates, three for a stamp from Bulk Scan.",
+          "da": "\"Which stamp is this?\" shows SigiVision's first answer and up to four other candidates, three for a stamp from Bulk Scan."
+        },
+        {
+          "en": "Tap the right one and then \"Yes, this is it\". If it is not there, tap \"None of the above\".",
+          "de": "Tippe auf die richtige und dann auf „Ja, genau das ist es“. Ist sie nicht dabei, tippe auf „Keine der oben genannten“.",
+          "fr": "Touche le bon timbre, puis « Oui, c'est celui-là ». S'il n'y est pas, touche « Aucune de ces réponses ».",
+          "it": "Tocca quello giusto e poi \"Sì, è proprio questo\". Se non c'è, tocca \"Nessuna delle precedenti\".",
+          "nl": "Tik op de juiste en daarna op „Ja, dit is het”. Staat hij er niet bij, tik dan op „Geen van bovenstaande”.",
+          "pl": "Dotknij właściwego znaczka, a potem „Tak, to jest to”. Jeśli go tam nie ma, dotknij „Żadna z powyższych”.",
+          "cs": "Tap the right one and then \"Yes, this is it\". If it is not there, tap \"None of the above\".",
+          "sk": "Tap the right one and then \"Yes, this is it\". If it is not there, tap \"None of the above\".",
+          "ro": "Tap the right one and then \"Yes, this is it\". If it is not there, tap \"None of the above\".",
+          "hu": "Tap the right one and then \"Yes, this is it\". If it is not there, tap \"None of the above\".",
+          "da": "Tap the right one and then \"Yes, this is it\". If it is not there, tap \"None of the above\"."
+        }
+      ],
+      "title": {
+        "en": "When SigiVision names the wrong stamp",
+        "de": "Wenn SigiVision die falsche Marke nennt",
+        "fr": "Une erreur de SigiVision",
+        "it": "Quando SigiVision indica il francobollo sbagliato",
+        "nl": "Een verkeerd herkende zegel",
+        "pl": "Gdy SigiVision wskaże niewłaściwy znaczek",
+        "cs": "When SigiVision names the wrong stamp",
+        "sk": "When SigiVision names the wrong stamp",
+        "ro": "When SigiVision names the wrong stamp",
+        "hu": "When SigiVision names the wrong stamp",
+        "da": "When SigiVision names the wrong stamp"
+      },
+      "visual": {
+        "type": "phone",
+        "animation": {
+          "src": "https://assets.stampiq.io/blog/a4e14fbc6f1845cf/12.mp4",
+          "width": 960,
+          "height": 2080,
+          "poster": "https://assets.stampiq.io/blog/4a663e6f0ae3d020/12.jpg"
+        }
+      }
+    },
+    {
+      "id": "corrections",
+      "type": "text",
+      "label": {
+        "en": "Your corrections",
+        "de": "Deine Korrekturen",
+        "fr": "Tes corrections",
+        "it": "Le tue correzioni",
+        "nl": "Je correcties",
+        "pl": "Twoje poprawki",
+        "cs": "Your corrections",
+        "sk": "Your corrections",
+        "ro": "Your corrections",
+        "hu": "Your corrections",
+        "da": "Your corrections"
+      },
+      "title": {
+        "en": "How recognition improves",
+        "de": "Wie die Erkennung besser wird",
+        "fr": "Les progrès de la reconnaissance",
+        "it": "Come migliora il riconoscimento",
+        "nl": "Hoe de herkenning beter wordt",
+        "pl": "Lepsze rozpoznawanie",
+        "cs": "How recognition improves",
+        "sk": "How recognition improves",
+        "ro": "How recognition improves",
+        "hu": "How recognition improves",
+        "da": "How recognition improves"
+      },
+      "paragraphs": [
+        {
+          "en": "In our tests the right stamp was among the candidates almost every time. When you pick it, the result of this scan is corrected, and the stamp can go into your collection as the stamp it is.",
+          "de": "In unseren Tests war die richtige Marke fast immer unter den Kandidaten. Wählst du sie aus, wird das Ergebnis dieses Scans korrigiert, und die Marke kommt mit den richtigen Angaben in deine Sammlung.",
+          "fr": "Dans nos tests, le bon timbre figurait presque toujours parmi les candidats. Quand tu le choisis, le résultat de ce scan est corrigé, et le timbre peut entrer dans ta collection pour ce qu'il est vraiment.",
+          "it": "Nei nostri test il francobollo giusto era quasi sempre tra i candidati. Quando lo scegli, il risultato di questa scansione viene corretto e il francobollo può entrare nella tua collezione con l'identificazione giusta.",
+          "nl": "In onze tests zat de juiste zegel bijna altijd bij de kandidaten. Kies je hem, dan wordt het resultaat van deze scan gecorrigeerd en kan de zegel met de juiste gegevens naar je verzameling.",
+          "pl": "W naszych testach właściwy znaczek prawie zawsze był wśród kandydatów. Gdy go wybierzesz, wynik tego skanu zostaje poprawiony, a znaczek może trafić do Twojej kolekcji jako ten, którym naprawdę jest.",
+          "cs": "In our tests the right stamp was among the candidates almost every time. When you pick it, the result of this scan is corrected, and the stamp can go into your collection as the stamp it is.",
+          "sk": "In our tests the right stamp was among the candidates almost every time. When you pick it, the result of this scan is corrected, and the stamp can go into your collection as the stamp it is.",
+          "ro": "In our tests the right stamp was among the candidates almost every time. When you pick it, the result of this scan is corrected, and the stamp can go into your collection as the stamp it is.",
+          "hu": "In our tests the right stamp was among the candidates almost every time. When you pick it, the result of this scan is corrected, and the stamp can go into your collection as the stamp it is.",
+          "da": "In our tests the right stamp was among the candidates almost every time. When you pick it, the result of this scan is corrected, and the stamp can go into your collection as the stamp it is."
+        },
+        {
+          "en": "We also use every correction to improve recognition. We are a small team and build every catalogue ourselves, from buying the stamps to scanning them, and the corrections collectors send show us where SigiVision still names the wrong stamp. Please send one every time a result is wrong.",
+          "de": "Außerdem nutzen wir jede Korrektur, um die Erkennung zu verbessern. Wir sind ein kleines Team und bauen jeden Katalog selbst auf, vom Kauf der Briefmarken bis zum Scannen. An den Korrekturen, die Sammler uns schicken, sehen wir, wo SigiVision noch die falsche Marke nennt. Schick uns deshalb bitte jedes Mal eine, wenn ein Ergebnis falsch ist.",
+          "fr": "Nous utilisons aussi chaque correction pour améliorer la reconnaissance. Nous sommes une petite équipe et nous réalisons chaque catalogue nous-mêmes, de l'achat des timbres à leur numérisation. Les corrections envoyées par les collectionneurs nous montrent où SigiVision se trompe encore de timbre, alors merci d'en envoyer une chaque fois qu'un résultat est faux.",
+          "it": "Ogni correzione, poi, la usiamo per migliorare il riconoscimento. Siamo un piccolo team e costruiamo noi ogni catalogo, dall'acquisto dei francobolli alla scansione, e le correzioni che ci mandano i collezionisti ci mostrano dove SigiVision indica ancora il francobollo sbagliato. Ti chiediamo di mandarcene una ogni volta che un risultato è sbagliato.",
+          "nl": "Elke correctie gebruiken we ook om de herkenning te verbeteren. We zijn een klein team en bouwen elke catalogus zelf, van het kopen van de postzegels tot het scannen ervan. Aan de correcties van verzamelaars zien we waar SigiVision nog de verkeerde zegel noemt. Stuur er alsjeblieft een elke keer dat een resultaat niet klopt.",
+          "pl": "Każdą poprawkę wykorzystujemy też do ulepszania rozpoznawania. Jesteśmy małym zespołem i każdy katalog tworzymy sami, od zakupu znaczków po ich skanowanie. Poprawki przesyłane przez kolekcjonerów pokazują nam, przy których znaczkach SigiVision nadal się myli. Prosimy, wysyłaj poprawkę za każdym razem, gdy wynik jest błędny.",
+          "cs": "We also use every correction to improve recognition. We are a small team and build every catalogue ourselves, from buying the stamps to scanning them, and the corrections collectors send show us where SigiVision still names the wrong stamp. Please send one every time a result is wrong.",
+          "sk": "We also use every correction to improve recognition. We are a small team and build every catalogue ourselves, from buying the stamps to scanning them, and the corrections collectors send show us where SigiVision still names the wrong stamp. Please send one every time a result is wrong.",
+          "ro": "We also use every correction to improve recognition. We are a small team and build every catalogue ourselves, from buying the stamps to scanning them, and the corrections collectors send show us where SigiVision still names the wrong stamp. Please send one every time a result is wrong.",
+          "hu": "We also use every correction to improve recognition. We are a small team and build every catalogue ourselves, from buying the stamps to scanning them, and the corrections collectors send show us where SigiVision still names the wrong stamp. Please send one every time a result is wrong.",
+          "da": "We also use every correction to improve recognition. We are a small team and build every catalogue ourselves, from buying the stamps to scanning them, and the corrections collectors send show us where SigiVision still names the wrong stamp. Please send one every time a result is wrong."
+        }
+      ]
+    },
+    {
+      "id": "other-countries",
+      "type": "text",
+      "label": {
+        "en": "Other countries",
+        "de": "Andere Länder",
+        "fr": "Autres pays",
+        "it": "Altri paesi",
+        "nl": "Andere landen",
+        "pl": "Inne kraje",
+        "cs": "Other countries",
+        "sk": "Other countries",
+        "ro": "Other countries",
+        "hu": "Other countries",
+        "da": "Other countries"
+      },
+      "title": {
+        "en": "A stamp outside the catalogue",
+        "de": "Eine Marke außerhalb des Katalogs",
+        "fr": "Un timbre absent du catalogue",
+        "it": "Un francobollo fuori dal catalogo",
+        "nl": "Een zegel buiten de catalogus",
+        "pl": "Znaczek spoza katalogu",
+        "cs": "A stamp outside the catalogue",
+        "sk": "A stamp outside the catalogue",
+        "ro": "A stamp outside the catalogue",
+        "hu": "A stamp outside the catalogue",
+        "da": "A stamp outside the catalogue"
+      },
+      "visual": {
+        "type": "phone",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/8be4cd242b5cdca3/10.png",
+          "width": 1290,
+          "height": 2796
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "If you scan a stamp from a country we do not cover yet, the result says \"Out of Catalog\". SigiVision names the country it detected and lists the countries in the catalogue, so you know the photo was fine and the catalogue for that country is still to come.",
+          "de": "Scannst du eine Marke aus einem Land, das wir noch nicht abdecken, steht im Ergebnis „Nicht im Katalog“. SigiVision nennt das erkannte Land und listet die Länder im Katalog auf. So weißt du, dass mit dem Foto alles in Ordnung war und der Katalog für dieses Land noch kommt.",
+          "fr": "Si tu scannes un timbre d'un pays que nous ne couvrons pas encore, le résultat affiche « Hors catalogue ». SigiVision indique le pays qu'il a détecté et affiche la liste des pays du catalogue. Tu sais ainsi que ta photo était bonne et que le catalogue de ce pays reste à venir.",
+          "it": "Se scansioni un francobollo di un paese che non copriamo ancora, nel risultato compare \"Fuori catalogo\". SigiVision indica il paese che ha rilevato ed elenca i paesi presenti nel catalogo, così sai che la foto andava bene e che il catalogo di quel paese deve ancora arrivare.",
+          "nl": "Scan je een postzegel uit een land dat nog niet in onze catalogus staat, dan staat er in het resultaat „Niet in catalogus”. SigiVision noemt het land dat het heeft herkend en toont de landen die in de catalogus staan. Zo weet je dat de foto goed was en dat de catalogus voor dat land nog moet komen.",
+          "pl": "Jeśli zeskanujesz znaczek z kraju, którego jeszcze nie obsługujemy, w wyniku pojawi się „Poza katalogiem”. SigiVision poda kraj, który wykrył, i wymieni kraje dostępne w katalogu. Wiesz wtedy, że zdjęcie było dobre, a katalog tego kraju dopiero powstaje.",
+          "cs": "If you scan a stamp from a country we do not cover yet, the result says \"Out of Catalog\". SigiVision names the country it detected and lists the countries in the catalogue, so you know the photo was fine and the catalogue for that country is still to come.",
+          "sk": "If you scan a stamp from a country we do not cover yet, the result says \"Out of Catalog\". SigiVision names the country it detected and lists the countries in the catalogue, so you know the photo was fine and the catalogue for that country is still to come.",
+          "ro": "If you scan a stamp from a country we do not cover yet, the result says \"Out of Catalog\". SigiVision names the country it detected and lists the countries in the catalogue, so you know the photo was fine and the catalogue for that country is still to come.",
+          "hu": "If you scan a stamp from a country we do not cover yet, the result says \"Out of Catalog\". SigiVision names the country it detected and lists the countries in the catalogue, so you know the photo was fine and the catalogue for that country is still to come.",
+          "da": "If you scan a stamp from a country we do not cover yet, the result says \"Out of Catalog\". SigiVision names the country it detected and lists the countries in the catalogue, so you know the photo was fine and the catalogue for that country is still to come."
+        }
+      ]
+    },
+    {
+      "id": "countries",
+      "rows": [
+        {
+          "label": {
+            "en": "Complete",
+            "de": "Fertig",
+            "fr": "Terminés",
+            "it": "Completi",
+            "nl": "Compleet",
+            "pl": "Ukończone",
+            "cs": "Complete",
+            "sk": "Complete",
+            "ro": "Complete",
+            "hu": "Complete",
+            "da": "Complete"
+          },
+          "value": {
+            "en": "Switzerland, Liechtenstein, Germany including Deutsches Reich, Austria including Altösterreich, the Netherlands, Poland",
+            "de": "Schweiz, Liechtenstein, Deutschland mit Deutschem Reich, Österreich mit Altösterreich, Niederlande, Polen",
+            "fr": "Suisse, Liechtenstein, Allemagne y compris le Deutsches Reich, Autriche y compris l'Altösterreich, Pays-Bas, Pologne",
+            "it": "Svizzera, Liechtenstein, Germania compreso il Deutsches Reich, Austria compreso l'Altösterreich, Paesi Bassi, Polonia",
+            "nl": "Zwitserland, Liechtenstein, Duitsland inclusief Deutsches Reich, Oostenrijk inclusief Altösterreich, Nederland, Polen",
+            "pl": "Szwajcaria, Liechtenstein, Niemcy wraz z Deutsches Reich, Austria wraz z Altösterreich, Holandia, Polska",
+            "cs": "Switzerland, Liechtenstein, Germany including Deutsches Reich, Austria including Altösterreich, the Netherlands, Poland",
+            "sk": "Switzerland, Liechtenstein, Germany including Deutsches Reich, Austria including Altösterreich, the Netherlands, Poland",
+            "ro": "Switzerland, Liechtenstein, Germany including Deutsches Reich, Austria including Altösterreich, the Netherlands, Poland",
+            "hu": "Switzerland, Liechtenstein, Germany including Deutsches Reich, Austria including Altösterreich, the Netherlands, Poland",
+            "da": "Switzerland, Liechtenstein, Germany including Deutsches Reich, Austria including Altösterreich, the Netherlands, Poland"
+          }
+        },
+        {
+          "label": {
+            "en": "End of 2026",
+            "de": "Ende 2026",
+            "fr": "Fin 2026",
+            "it": "Fine 2026",
+            "nl": "Eind 2026",
+            "pl": "Koniec 2026",
+            "cs": "End of 2026",
+            "sk": "End of 2026",
+            "ro": "End of 2026",
+            "hu": "End of 2026",
+            "da": "End of 2026"
+          },
+          "value": {
+            "en": "Czechia, Slovakia, Italy, France, Belgium, Romania",
+            "de": "Tschechien, Slowakei, Italien, Frankreich, Belgien, Rumänien",
+            "fr": "Tchéquie, Slovaquie, Italie, France, Belgique, Roumanie",
+            "it": "Cechia, Slovacchia, Italia, Francia, Belgio, Romania",
+            "nl": "Tsjechië, Slowakije, Italië, Frankrijk, België, Roemenië",
+            "pl": "Czechy, Słowacja, Włochy, Francja, Belgia, Rumunia",
+            "cs": "Czechia, Slovakia, Italy, France, Belgium, Romania",
+            "sk": "Czechia, Slovakia, Italy, France, Belgium, Romania",
+            "ro": "Czechia, Slovakia, Italy, France, Belgium, Romania",
+            "hu": "Czechia, Slovakia, Italy, France, Belgium, Romania",
+            "da": "Czechia, Slovakia, Italy, France, Belgium, Romania"
+          }
+        },
+        {
+          "label": {
+            "en": "Early 2027",
+            "de": "Anfang 2027",
+            "fr": "Début 2027",
+            "it": "Inizio 2027",
+            "nl": "Begin 2027",
+            "pl": "Początek 2027",
+            "cs": "Early 2027",
+            "sk": "Early 2027",
+            "ro": "Early 2027",
+            "hu": "Early 2027",
+            "da": "Early 2027"
+          },
+          "value": {
+            "en": "Luxembourg, Hungary, Denmark, the United Kingdom, the Vatican",
+            "de": "Luxemburg, Ungarn, Dänemark, Großbritannien, Vatikan",
+            "fr": "Luxembourg, Hongrie, Danemark, Royaume-Uni, Vatican",
+            "it": "Lussemburgo, Ungheria, Danimarca, Regno Unito, Vaticano",
+            "nl": "Luxemburg, Hongarije, Denemarken, het Verenigd Koninkrijk, Vaticaanstad",
+            "pl": "Luksemburg, Węgry, Dania, Wielka Brytania, Watykan",
+            "cs": "Luxembourg, Hungary, Denmark, the United Kingdom, the Vatican",
+            "sk": "Luxembourg, Hungary, Denmark, the United Kingdom, the Vatican",
+            "ro": "Luxembourg, Hungary, Denmark, the United Kingdom, the Vatican",
+            "hu": "Luxembourg, Hungary, Denmark, the United Kingdom, the Vatican",
+            "da": "Luxembourg, Hungary, Denmark, the United Kingdom, the Vatican"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "Countries",
+        "de": "Länder",
+        "fr": "Pays",
+        "it": "Paesi",
+        "nl": "Landen",
+        "pl": "Kraje",
+        "cs": "Countries",
+        "sk": "Countries",
+        "ro": "Countries",
+        "hu": "Countries",
+        "da": "Countries"
+      },
+      "title": {
+        "en": "Catalogues now and planned",
+        "de": "Vorhandene und geplante Kataloge",
+        "fr": "Catalogues disponibles et prévus",
+        "it": "Cataloghi disponibili e previsti",
+        "nl": "Beschikbare en geplande catalogi",
+        "pl": "Katalogi dostępne i planowane",
+        "cs": "Catalogues now and planned",
+        "sk": "Catalogues now and planned",
+        "ro": "Catalogues now and planned",
+        "hu": "Catalogues now and planned",
+        "da": "Catalogues now and planned"
+      }
+    },
+    {
+      "id": "cancellations",
+      "type": "text",
+      "label": {
+        "en": "Heavy cancellations",
+        "de": "Starke Entwertung",
+        "fr": "Fortes oblitérations",
+        "it": "Annulli pesanti",
+        "nl": "Zware afstempelingen",
+        "pl": "Mocne kasowniki",
+        "cs": "Heavy cancellations",
+        "sk": "Heavy cancellations",
+        "ro": "Heavy cancellations",
+        "hu": "Heavy cancellations",
+        "da": "Heavy cancellations"
+      },
+      "title": {
+        "en": "When the postmark covers the design",
+        "de": "Wenn der Stempel das Motiv verdeckt",
+        "fr": "Un cachet qui recouvre le motif",
+        "it": "Quando il timbro copre il disegno",
+        "nl": "Een poststempel over het zegelbeeld",
+        "pl": "Gdy stempel zakrywa rysunek",
+        "cs": "When the postmark covers the design",
+        "sk": "When the postmark covers the design",
+        "ro": "When the postmark covers the design",
+        "hu": "When the postmark covers the design",
+        "da": "When the postmark covers the design"
+      },
+      "visual": {
+        "type": "phone",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/e04f3900454610a9/13.png",
+          "width": 1290,
+          "height": 2796
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "A heavy cancellation covers part of the design that SigiVision compares, often the same details you would look at yourself, such as the value or the inscription. In our tests these stamps were recognised slightly less often.",
+          "de": "Ein starker Stempel verdeckt einen Teil des Motivs, das SigiVision vergleicht, oft genau die Details, auf die du selbst schauen würdest, etwa Wertangabe oder Inschrift. In unseren Tests wurden solche Marken etwas seltener erkannt.",
+          "fr": "Une forte oblitération recouvre une partie du motif que SigiVision compare, souvent les détails que tu regarderais toi-même, comme la valeur faciale ou l'inscription. Dans nos tests, ces timbres ont été reconnus un peu moins souvent.",
+          "it": "Un annullo pesante copre una parte del disegno che SigiVision confronta, spesso proprio i dettagli che guarderesti anche tu, come il valore facciale o la scritta. Nei nostri test questi francobolli sono stati riconosciuti un po' meno spesso.",
+          "nl": "Een zware afstempeling bedekt een deel van het zegelbeeld dat SigiVision vergelijkt, vaak juist de details waar je zelf ook naar zou kijken, zoals de waarde of het opschrift. In onze tests werden zulke zegels iets minder vaak herkend.",
+          "pl": "Mocny kasownik zakrywa część rysunku, którą porównuje SigiVision, często właśnie te szczegóły, na które patrzysz również Ty, takie jak nominał czy napis. W naszych testach takie znaczki były rozpoznawane nieco rzadziej.",
+          "cs": "A heavy cancellation covers part of the design that SigiVision compares, often the same details you would look at yourself, such as the value or the inscription. In our tests these stamps were recognised slightly less often.",
+          "sk": "A heavy cancellation covers part of the design that SigiVision compares, often the same details you would look at yourself, such as the value or the inscription. In our tests these stamps were recognised slightly less often.",
+          "ro": "A heavy cancellation covers part of the design that SigiVision compares, often the same details you would look at yourself, such as the value or the inscription. In our tests these stamps were recognised slightly less often.",
+          "hu": "A heavy cancellation covers part of the design that SigiVision compares, often the same details you would look at yourself, such as the value or the inscription. In our tests these stamps were recognised slightly less often.",
+          "da": "A heavy cancellation covers part of the design that SigiVision compares, often the same details you would look at yourself, such as the value or the inscription. In our tests these stamps were recognised slightly less often."
+        },
+        {
+          "en": "With fewer details visible, SigiVision sometimes narrows such a stamp down to two candidates and asks you to choose, as with this Swiss Cross with a Geneva postmark. A sharp photo, taken with the phone held still, matters even more here.",
+          "de": "Weil weniger Details zu sehen sind, grenzt SigiVision eine solche Marke manchmal auf zwei Kandidaten ein und lässt dich wählen, wie bei diesem Schweizer Kreuz mit Genfer Stempel. Ein scharfes Foto, bei dem du das Handy ruhig hältst, ist hier noch wichtiger.",
+          "fr": "Comme il voit moins de détails, SigiVision s'arrête parfois à deux candidats pour un tel timbre et te demande de choisir, comme pour cette Croix suisse oblitérée à Genève. Une photo nette, prise en tenant le téléphone bien immobile, compte ici encore plus.",
+          "it": "Con meno dettagli visibili, a volte SigiVision restringe la scelta a due candidati e ti chiede di decidere, come con questa Croce svizzera con annullo di Ginevra. Qui conta ancora di più una foto nitida, scattata tenendo fermo il telefono.",
+          "nl": "Omdat er minder details zichtbaar zijn, komt SigiVision bij zo'n zegel soms niet verder dan twee kandidaten en vraagt het jou om te kiezen, zoals bij dit Zwitserse kruis met een poststempel van Genève. Een scherpe foto, waarbij je de telefoon stilhoudt, is hier nog belangrijker.",
+          "pl": "Gdy widać mniej szczegółów, SigiVision czasem zawęża wynik do dwóch kandydatów i prosi Cię o decyzję, tak jak przy tym znaczku z krzyżem szwajcarskim i stemplem z Genewy. Ostre zdjęcie zrobione nieruchomo trzymanym telefonem ma tu jeszcze większe znaczenie.",
+          "cs": "With fewer details visible, SigiVision sometimes narrows such a stamp down to two candidates and asks you to choose, as with this Swiss Cross with a Geneva postmark. A sharp photo, taken with the phone held still, matters even more here.",
+          "sk": "With fewer details visible, SigiVision sometimes narrows such a stamp down to two candidates and asks you to choose, as with this Swiss Cross with a Geneva postmark. A sharp photo, taken with the phone held still, matters even more here.",
+          "ro": "With fewer details visible, SigiVision sometimes narrows such a stamp down to two candidates and asks you to choose, as with this Swiss Cross with a Geneva postmark. A sharp photo, taken with the phone held still, matters even more here.",
+          "hu": "With fewer details visible, SigiVision sometimes narrows such a stamp down to two candidates and asks you to choose, as with this Swiss Cross with a Geneva postmark. A sharp photo, taken with the phone held still, matters even more here.",
+          "da": "With fewer details visible, SigiVision sometimes narrows such a stamp down to two candidates and asks you to choose, as with this Swiss Cross with a Geneva postmark. A sharp photo, taken with the phone held still, matters even more here."
+        }
+      ]
+    },
+    {
+      "id": "decision",
+      "type": "text",
+      "label": {
+        "en": "Your decision",
+        "de": "Deine Entscheidung",
+        "fr": "Ta décision",
+        "it": "La tua scelta",
+        "nl": "Jouw beslissing",
+        "pl": "Twoja decyzja",
+        "cs": "Your decision",
+        "sk": "Your decision",
+        "ro": "Your decision",
+        "hu": "Your decision",
+        "da": "Your decision"
+      },
+      "title": {
+        "en": "What goes into your collection",
+        "de": "Was in deine Sammlung kommt",
+        "fr": "Ce qui entre dans ta collection",
+        "it": "Cosa entra nella tua collezione",
+        "nl": "Wat er in je verzameling komt",
+        "pl": "Co trafia do Twojej kolekcji",
+        "cs": "What goes into your collection",
+        "sk": "What goes into your collection",
+        "ro": "What goes into your collection",
+        "hu": "What goes into your collection",
+        "da": "What goes into your collection"
+      },
+      "paragraphs": [
+        {
+          "en": "SigiVision proposes a stamp, and when a photo cannot decide between two, the app asks you. You can turn the stamp, check the perforation and read the inscription, and what you choose is what goes into your collection.",
+          "de": "SigiVision schlägt eine Marke vor, und wenn das Foto allein nicht reicht, um zwischen zwei Marken zu entscheiden, fragt dich die App. Du kannst die Marke wenden, die Zähnung prüfen und die Inschrift lesen, und in deine Sammlung kommt die Marke, die du auswählst.",
+          "fr": "SigiVision propose un timbre, et quand une photo ne permet pas de trancher entre deux, l'application te pose la question. Tu peux retourner le timbre, vérifier la dentelure et lire l'inscription, et c'est ton choix qui entre dans ta collection.",
+          "it": "SigiVision propone un francobollo e, quando una foto non basta a scegliere tra due, l'app lo chiede a te. Puoi girare il francobollo, controllare la dentellatura e leggere la scritta, e nella tua collezione entra quello che scegli tu.",
+          "nl": "SigiVision stelt een zegel voor, en als een foto geen uitsluitsel geeft tussen twee zegels, vraagt de app het aan jou. Jij kunt de zegel omdraaien, de tanding controleren en het opschrift lezen, en wat jij kiest, komt in je verzameling.",
+          "pl": "SigiVision proponuje znaczek, a gdy zdjęcie nie pozwala rozstrzygnąć między dwoma, aplikacja pyta Ciebie. Możesz obrócić znaczek, sprawdzić ząbkowanie i przeczytać napis, a do kolekcji trafia ten, który wybierzesz.",
+          "cs": "SigiVision proposes a stamp, and when a photo cannot decide between two, the app asks you. You can turn the stamp, check the perforation and read the inscription, and what you choose is what goes into your collection.",
+          "sk": "SigiVision proposes a stamp, and when a photo cannot decide between two, the app asks you. You can turn the stamp, check the perforation and read the inscription, and what you choose is what goes into your collection.",
+          "ro": "SigiVision proposes a stamp, and when a photo cannot decide between two, the app asks you. You can turn the stamp, check the perforation and read the inscription, and what you choose is what goes into your collection.",
+          "hu": "SigiVision proposes a stamp, and when a photo cannot decide between two, the app asks you. You can turn the stamp, check the perforation and read the inscription, and what you choose is what goes into your collection.",
+          "da": "SigiVision proposes a stamp, and when a photo cannot decide between two, the app asks you. You can turn the stamp, check the perforation and read the inscription, and what you choose is what goes into your collection."
+        }
+      ]
+    }
+  ]
+}

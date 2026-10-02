@@ -1,0 +1,542 @@
+{
+  "category": "feature",
+  "markets": [
+    "CH",
+    "LI",
+    "DE",
+    "AT",
+    "NL",
+    "PL"
+  ],
+  "langs": [
+    "en",
+    "de",
+    "fr",
+    "it",
+    "nl",
+    "pl"
+  ],
+  "published_at": "2026-09-29T18:55:50.788465+00:00",
+  "thumbnail": {
+    "src": "https://assets.stampiq.io/blog/9f6c620b9d013802/22.jpg",
+    "width": 4032,
+    "height": 3024
+  },
+  "languages": {
+    "en": {
+      "slug": "recording-your-collection-and-wishlist",
+      "title": "Recording your stamps and the ones you are looking for",
+      "description": "How to add a stamp to your collection or your wishlist in StampIQ, what to fill in, and where the green and blue badges appear afterwards."
+    },
+    "de": {
+      "slug": "sammlung-und-wunschliste-erfassen",
+      "title": "Eigene und gesuchte Briefmarken erfassen",
+      "description": "Wie du in StampIQ Marken für Sammlung und Wunschliste erfasst, was du ausfüllst und wo danach der grüne und der blaue Hinweis erscheinen."
+    },
+    "fr": {
+      "slug": "collection-et-liste-de-souhaits",
+      "title": "Enregistrer tes timbres et ceux que tu cherches",
+      "description": "Comment ajouter un timbre à ta collection ou à ta liste de souhaits dans StampIQ, quoi remplir, et où apparaissent ensuite le badge vert et le badge bleu."
+    },
+    "it": {
+      "slug": "collezione-e-lista-dei-desideri",
+      "title": "Registrare i tuoi francobolli e quelli che cerchi",
+      "description": "Come aggiungere un francobollo alla collezione o alla lista dei desideri in StampIQ, cosa compilare e dove compaiono poi i badge verdi e blu."
+    },
+    "nl": {
+      "slug": "verzameling-en-verlanglijst-bijhouden",
+      "title": "Vastleggen wat je hebt en wat je nog zoekt",
+      "description": "Zo voeg je in StampIQ een zegel toe aan je verzameling of je verlanglijst, wat je invult en waar je daarna de groene en blauwe labels ziet."
+    },
+    "pl": {
+      "slug": "kolekcja-i-lista-zyczen",
+      "title": "Jak zapisać swoje znaczki i te, których szukasz",
+      "description": "Jak w StampIQ dodać znaczek do kolekcji lub listy życzeń, co wypełnić i gdzie potem pojawiają się zielone i niebieskie etykiety."
+    },
+    "cs": {
+      "slug": "recording-your-collection-and-wishlist",
+      "title": "Recording your stamps and the ones you are looking for",
+      "description": "How to add a stamp to your collection or your wishlist in StampIQ, what to fill in, and where the green and blue badges appear afterwards."
+    },
+    "sk": {
+      "slug": "recording-your-collection-and-wishlist",
+      "title": "Recording your stamps and the ones you are looking for",
+      "description": "How to add a stamp to your collection or your wishlist in StampIQ, what to fill in, and where the green and blue badges appear afterwards."
+    },
+    "ro": {
+      "slug": "recording-your-collection-and-wishlist",
+      "title": "Recording your stamps and the ones you are looking for",
+      "description": "How to add a stamp to your collection or your wishlist in StampIQ, what to fill in, and where the green and blue badges appear afterwards."
+    },
+    "hu": {
+      "slug": "recording-your-collection-and-wishlist",
+      "title": "Recording your stamps and the ones you are looking for",
+      "description": "How to add a stamp to your collection or your wishlist in StampIQ, what to fill in, and where the green and blue badges appear afterwards."
+    },
+    "da": {
+      "slug": "recording-your-collection-and-wishlist",
+      "title": "Recording your stamps and the ones you are looking for",
+      "description": "How to add a stamp to your collection or your wishlist in StampIQ, what to fill in, and where the green and blue badges appear afterwards."
+    }
+  },
+  "header": {
+    "lead": {
+      "en": "You go through a pile of loose stamps on the table and scan them one by one, and one result shows a blue badge.",
+      "de": "Du gehst am Tisch einen Stapel loser Marken durch, scannst eine nach der anderen, und bei einem Ergebnis erscheint ein blauer Hinweis.",
+      "fr": "Tu passes en revue un tas de timbres en vrac sur la table, tu les scannes un par un, et l'un des résultats affiche un badge bleu.",
+      "it": "Hai sul tavolo una pila di francobolli sciolti, li scansioni uno alla volta e un risultato mostra un badge blu.",
+      "nl": "Je gaat een stapel losse zegels op tafel door en scant ze één voor één, en een van de resultaten toont een blauw label.",
+      "pl": "Przeglądasz na stole stos luźnych znaczków, skanujesz je po kolei i przy jednym z wyników pojawia się niebieska etykieta.",
+      "cs": "You go through a pile of loose stamps on the table and scan them one by one, and one result shows a blue badge.",
+      "sk": "You go through a pile of loose stamps on the table and scan them one by one, and one result shows a blue badge.",
+      "ro": "You go through a pile of loose stamps on the table and scan them one by one, and one result shows a blue badge.",
+      "hu": "You go through a pile of loose stamps on the table and scan them one by one, and one result shows a blue badge.",
+      "da": "You go through a pile of loose stamps on the table and scan them one by one, and one result shows a blue badge."
+    },
+    "visual": {
+      "type": "phone",
+      "image": {
+        "src": "https://assets.stampiq.io/blog/fb346ae1eeb40e5b/16.png",
+        "width": 1290,
+        "height": 2796
+      }
+    }
+  },
+  "blocks": [
+    {
+      "id": "loose-stamps",
+      "type": "text",
+      "label": {
+        "en": "Loose stamps",
+        "de": "Lose Marken",
+        "fr": "Timbres en vrac",
+        "it": "Francobolli sciolti",
+        "nl": "Losse zegels",
+        "pl": "Znaczki luzem",
+        "cs": "Loose stamps",
+        "sk": "Loose stamps",
+        "ro": "Loose stamps",
+        "hu": "Loose stamps",
+        "da": "Loose stamps"
+      },
+      "title": {
+        "en": "A stamp from your wishlist",
+        "de": "Eine Marke von deiner Wunschliste",
+        "fr": "Un timbre de ta liste de souhaits",
+        "it": "Un francobollo della tua lista dei desideri",
+        "nl": "Een zegel van je verlanglijst",
+        "pl": "Pozycja z Twojej listy życzeń",
+        "cs": "A stamp from your wishlist",
+        "sk": "A stamp from your wishlist",
+        "ro": "A stamp from your wishlist",
+        "hu": "A stamp from your wishlist",
+        "da": "A stamp from your wishlist"
+      },
+      "visual": {
+        "type": "animation",
+        "animation": {
+          "src": "https://assets.stampiq.io/blog/b01e3a746357c420/21.mp4",
+          "width": 960,
+          "height": 1706,
+          "poster": "https://assets.stampiq.io/blog/a7b7e1bd8c1f8e0a/21.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "A wishlist on paper or in your head has one problem at a fair: you stand at the table with a stamp in your hand and try to remember whether it is on the list, and what you meant to pay for it.",
+          "de": "Eine Wunschliste auf Papier oder im Kopf hat auf einer Briefmarkenbörse einen Nachteil: Du stehst mit einer Marke in der Hand am Händlertisch und versuchst dich zu erinnern, ob sie auf der Liste steht und was du dafür zahlen wolltest.",
+          "fr": "Une liste de souhaits sur papier ou dans ta tête pose un problème au salon : tu es au stand, un timbre à la main, et tu essaies de te rappeler s'il figure sur la liste et combien tu comptais le payer.",
+          "it": "In fiera, una lista dei desideri scritta su carta o tenuta a memoria ha un problema: sei al banco con un francobollo in mano e cerchi di ricordarti se è nella lista e quanto volevi spendere.",
+          "nl": "Een verlanglijst op papier of in je hoofd heeft op een beurs één probleem: je staat aan de tafel van een handelaar met een zegel in je hand en probeert je te herinneren of hij op de lijst staat, en wat je ervoor wilde betalen.",
+          "pl": "Lista życzeń na papierze albo w głowie ma na giełdzie jedną wadę: stoisz przy stole sprzedawcy ze znaczkiem w ręku i próbujesz sobie przypomnieć, czy jest na liście i ile chcesz za niego zapłacić.",
+          "cs": "A wishlist on paper or in your head has one problem at a fair: you stand at the table with a stamp in your hand and try to remember whether it is on the list, and what you meant to pay for it.",
+          "sk": "A wishlist on paper or in your head has one problem at a fair: you stand at the table with a stamp in your hand and try to remember whether it is on the list, and what you meant to pay for it.",
+          "ro": "A wishlist on paper or in your head has one problem at a fair: you stand at the table with a stamp in your hand and try to remember whether it is on the list, and what you meant to pay for it.",
+          "hu": "A wishlist on paper or in your head has one problem at a fair: you stand at the table with a stamp in your hand and try to remember whether it is on the list, and what you meant to pay for it.",
+          "da": "A wishlist on paper or in your head has one problem at a fair: you stand at the table with a stamp in your hand and try to remember whether it is on the list, and what you meant to pay for it."
+        },
+        {
+          "en": "Now you have a pile of loose stamps on the table and scan them one after the other. Then one result shows a blue badge with a heart: \"On Wishlist\". It is a stamp you noted as one you are looking for.",
+          "de": "Jetzt liegt ein Stapel loser Marken vor dir auf dem Tisch, und du scannst sie nacheinander. Dann zeigt ein Ergebnis einen blauen Hinweis mit Herz: „Auf der Wunschliste“. Diese Marke hast du dir als gesucht notiert.",
+          "fr": "Cette fois, tu as devant toi un tas de timbres en vrac et tu les scannes l'un après l'autre. Un résultat affiche alors un badge bleu avec un cœur : « Dans la liste de souhaits ». C'est un timbre que tu as noté comme recherché.",
+          "it": "Ora scansioni uno dopo l'altro i francobolli sciolti che hai davanti. A un certo punto un risultato mostra un badge blu con un cuore: \"Nella lista dei desideri\". È un francobollo che avevi segnato tra quelli che cerchi.",
+          "nl": "Nu ligt er een stapel losse zegels op tafel en scan je ze één voor één. Een van de resultaten toont een blauw label met een hartje: „Op verlanglijst”. Het is een zegel die je hebt genoteerd omdat je hem zoekt.",
+          "pl": "Teraz masz przed sobą stos luźnych znaczków i skanujesz je jeden po drugim. Przy jednym z wyników pojawia się niebieska etykieta z serduszkiem: „Na liście życzeń”. To znaczek, który masz zapisany jako poszukiwany.",
+          "cs": "Now you have a pile of loose stamps on the table and scan them one after the other. Then one result shows a blue badge with a heart: \"On Wishlist\". It is a stamp you noted as one you are looking for.",
+          "sk": "Now you have a pile of loose stamps on the table and scan them one after the other. Then one result shows a blue badge with a heart: \"On Wishlist\". It is a stamp you noted as one you are looking for.",
+          "ro": "Now you have a pile of loose stamps on the table and scan them one after the other. Then one result shows a blue badge with a heart: \"On Wishlist\". It is a stamp you noted as one you are looking for.",
+          "hu": "Now you have a pile of loose stamps on the table and scan them one after the other. Then one result shows a blue badge with a heart: \"On Wishlist\". It is a stamp you noted as one you are looking for.",
+          "da": "Now you have a pile of loose stamps on the table and scan them one after the other. Then one result shows a blue badge with a heart: \"On Wishlist\". It is a stamp you noted as one you are looking for."
+        },
+        {
+          "en": "Under every scan result there are two buttons. \"Add to Collection\" is for a stamp you own, and \"Add to Wishlist\" for one you are still looking for. What you enter there decides what the app shows you the next time you scan the same stamp.",
+          "de": "Unter jedem Scan-Ergebnis gibt es zwei Schaltflächen. „Zur Sammlung hinzufügen“ ist für eine Marke, die du besitzt, „Zur Wunschliste hinzufügen“ für eine, die du noch suchst. Was du dort einträgst, bestimmt, was dir die App zeigt, wenn du dieselbe Marke das nächste Mal scannst.",
+          "fr": "Sous chaque résultat de scan, il y a deux boutons. « Ajouter à la collection » correspond à un timbre que tu possèdes, « Ajouter à la liste de souhaits » à un timbre que tu cherches encore. Ce que tu y saisis détermine ce que l'application t'affichera la prochaine fois que tu scanneras le même timbre.",
+          "it": "Sotto ogni risultato ci sono due pulsanti. \"Aggiungi alla collezione\" è per un francobollo che possiedi, \"Aggiungi alla lista dei desideri\" per uno che stai ancora cercando. Quello che inserisci lì decide che cosa ti mostrerà l'app la prossima volta che scansioni lo stesso francobollo.",
+          "nl": "Onder elk scanresultaat staan twee knoppen. „Toevoegen aan verzameling” is voor een zegel die je hebt, „Toevoegen aan verlanglijst” voor een zegel die je nog zoekt. Wat je daar invult, bepaalt wat de app je laat zien als je dezelfde zegel de volgende keer scant.",
+          "pl": "Pod każdym wynikiem skanowania są dwa przyciski. „Dodaj do kolekcji” wybierasz dla znaczka, który masz, a „Dodaj do listy życzeń” dla takiego, którego wciąż szukasz. To, co tam wpiszesz, decyduje o tym, co aplikacja pokaże przy następnym skanie tego samego znaczka.",
+          "cs": "Under every scan result there are two buttons. \"Add to Collection\" is for a stamp you own, and \"Add to Wishlist\" for one you are still looking for. What you enter there decides what the app shows you the next time you scan the same stamp.",
+          "sk": "Under every scan result there are two buttons. \"Add to Collection\" is for a stamp you own, and \"Add to Wishlist\" for one you are still looking for. What you enter there decides what the app shows you the next time you scan the same stamp.",
+          "ro": "Under every scan result there are two buttons. \"Add to Collection\" is for a stamp you own, and \"Add to Wishlist\" for one you are still looking for. What you enter there decides what the app shows you the next time you scan the same stamp.",
+          "hu": "Under every scan result there are two buttons. \"Add to Collection\" is for a stamp you own, and \"Add to Wishlist\" for one you are still looking for. What you enter there decides what the app shows you the next time you scan the same stamp.",
+          "da": "Under every scan result there are two buttons. \"Add to Collection\" is for a stamp you own, and \"Add to Wishlist\" for one you are still looking for. What you enter there decides what the app shows you the next time you scan the same stamp."
+        }
+      ]
+    },
+    {
+      "id": "wishlist",
+      "type": "text",
+      "label": {
+        "en": "The wishlist",
+        "de": "Die Wunschliste",
+        "fr": "La liste de souhaits",
+        "it": "La lista dei desideri",
+        "nl": "De verlanglijst",
+        "pl": "Lista życzeń",
+        "cs": "The wishlist",
+        "sk": "The wishlist",
+        "ro": "The wishlist",
+        "hu": "The wishlist",
+        "da": "The wishlist"
+      },
+      "title": {
+        "en": "Status and price limit",
+        "de": "Status und Höchstpreis",
+        "fr": "Statut et prix maximum",
+        "it": "Stato e prezzo massimo",
+        "nl": "Status en maximale prijs",
+        "pl": "Status i cena maksymalna",
+        "cs": "Status and price limit",
+        "sk": "Status and price limit",
+        "ro": "Status and price limit",
+        "hu": "Status and price limit",
+        "da": "Status and price limit"
+      },
+      "visual": {
+        "type": "phone",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/4e9ac7c8eb615613/15.png",
+          "width": 1290,
+          "height": 2796
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "In \"Add to Wishlist\" you choose the status you want (Mint, Used or Any) and the most you would pay, with its currency. The status matters when you collect only one of them: a mint copy does not fill a gap in a collection of used stamps. The stamp then appears on your wishlist with these details.",
+          "de": "Unter „Zur Wunschliste hinzufügen“ wählst du den gewünschten Status („Postfrisch“, „Gestempelt“ oder „Beliebig“) und den Höchstpreis mit Währung. Der Status ist wichtig, wenn du nur postfrisch oder nur gestempelt sammelst: Eine postfrische Marke schließt keine Lücke in einer Sammlung gestempelter Marken. Danach steht die Marke mit diesen Angaben auf deiner Wunschliste.",
+          "fr": "Dans « Ajouter à la liste de souhaits », tu choisis le statut recherché (Neuf, Oblitéré ou Peu importe) et le prix que tu ne veux pas dépasser, avec sa devise. Le statut compte si tu ne collectionnes que des timbres neufs ou que des timbres oblitérés : un exemplaire neuf ne comble pas une lacune dans une collection d'oblitérés. Le timbre apparaît ensuite dans ta liste de souhaits avec ces informations.",
+          "it": "In \"Aggiungi alla lista dei desideri\" scegli lo stato che cerchi (Nuovo, Usato o Qualsiasi) e la cifra massima che vuoi pagare, con la sua valuta. Lo stato conta se collezioni solo nuovi o solo usati: un esemplare nuovo non riempie un vuoto in una collezione di usati. Il francobollo compare poi nella tua lista dei desideri con questi dati.",
+          "nl": "In „Toevoegen aan verlanglijst” kies je de status die je zoekt (Postfris, Gestempeld of Geen voorkeur) en het bedrag dat je maximaal wilt betalen, met de valuta. De status is belangrijk als je maar één van de twee verzamelt: een postfris exemplaar vult geen gat in een verzameling gestempelde zegels. De zegel staat daarna met deze gegevens op je verlanglijst.",
+          "pl": "W „Dodaj do listy życzeń” wybierasz status, którego szukasz („Czysty”, „Kasowany” albo „Dowolny”), i najwyższą cenę, jaką chcesz zapłacić, razem z walutą. Status ma znaczenie, gdy zbierasz tylko jeden rodzaj: czysty egzemplarz nie wypełni luki w kolekcji znaczków kasowanych. Znaczek trafia potem na listę życzeń z tymi danymi.",
+          "cs": "In \"Add to Wishlist\" you choose the status you want (Mint, Used or Any) and the most you would pay, with its currency. The status matters when you collect only one of them: a mint copy does not fill a gap in a collection of used stamps. The stamp then appears on your wishlist with these details.",
+          "sk": "In \"Add to Wishlist\" you choose the status you want (Mint, Used or Any) and the most you would pay, with its currency. The status matters when you collect only one of them: a mint copy does not fill a gap in a collection of used stamps. The stamp then appears on your wishlist with these details.",
+          "ro": "In \"Add to Wishlist\" you choose the status you want (Mint, Used or Any) and the most you would pay, with its currency. The status matters when you collect only one of them: a mint copy does not fill a gap in a collection of used stamps. The stamp then appears on your wishlist with these details.",
+          "hu": "In \"Add to Wishlist\" you choose the status you want (Mint, Used or Any) and the most you would pay, with its currency. The status matters when you collect only one of them: a mint copy does not fill a gap in a collection of used stamps. The stamp then appears on your wishlist with these details.",
+          "da": "In \"Add to Wishlist\" you choose the status you want (Mint, Used or Any) and the most you would pay, with its currency. The status matters when you collect only one of them: a mint copy does not fill a gap in a collection of used stamps. The stamp then appears on your wishlist with these details."
+        },
+        {
+          "en": "The next time you scan that stamp, at a fair or at home, the result shows the blue \"On Wishlist\" badge. Your wishlist shows the most you wanted to pay. You set it at home, with time to think, and it is there when you stand at the table and ask for the price.",
+          "de": "Scannst du diese Marke das nächste Mal, auf einer Börse oder zu Hause, zeigt das Ergebnis den blauen Hinweis „Auf der Wunschliste“. In deiner Wunschliste steht der Höchstpreis, den du dir gesetzt hast. Du hast ihn zu Hause in Ruhe festgelegt, und er ist da, wenn du am Tisch nach dem Preis fragst.",
+          "fr": "La prochaine fois que tu scannes ce timbre, au salon ou chez toi, le résultat affiche le badge bleu « Dans la liste de souhaits ». Ta liste de souhaits indique le prix maximum que tu voulais payer. Tu l'as fixé chez toi, en prenant le temps d'y réfléchir, et tu l'as sous les yeux au moment de demander le prix au stand.",
+          "it": "La prossima volta che scansioni quel francobollo, in fiera o a casa, il risultato mostra il badge blu \"Nella lista dei desideri\". Nella tua lista dei desideri trovi la cifra massima che volevi pagare. L'hai decisa a casa, con calma, e la ritrovi lì quando sei al banco e chiedi il prezzo.",
+          "nl": "Scan je die zegel later opnieuw, op een beurs of thuis, dan toont het resultaat het blauwe label „Op verlanglijst”. Op je verlanglijst zie je het bedrag dat je maximaal wilde betalen. Dat heb je thuis bepaald, met tijd om na te denken, en je hebt het bij de hand als je bij de handelaar staat en naar de prijs vraagt.",
+          "pl": "Gdy następnym razem zeskanujesz ten znaczek, na giełdzie czy w domu, wynik pokaże niebieską etykietę „Na liście życzeń”. Na liście życzeń widzisz najwyższą cenę, jaką chcesz zapłacić. Ustalasz ją w domu, bez pośpiechu, a przy stole sprzedawcy, gdy pytasz o cenę, masz ją w telefonie.",
+          "cs": "The next time you scan that stamp, at a fair or at home, the result shows the blue \"On Wishlist\" badge. Your wishlist shows the most you wanted to pay. You set it at home, with time to think, and it is there when you stand at the table and ask for the price.",
+          "sk": "The next time you scan that stamp, at a fair or at home, the result shows the blue \"On Wishlist\" badge. Your wishlist shows the most you wanted to pay. You set it at home, with time to think, and it is there when you stand at the table and ask for the price.",
+          "ro": "The next time you scan that stamp, at a fair or at home, the result shows the blue \"On Wishlist\" badge. Your wishlist shows the most you wanted to pay. You set it at home, with time to think, and it is there when you stand at the table and ask for the price.",
+          "hu": "The next time you scan that stamp, at a fair or at home, the result shows the blue \"On Wishlist\" badge. Your wishlist shows the most you wanted to pay. You set it at home, with time to think, and it is there when you stand at the table and ask for the price.",
+          "da": "The next time you scan that stamp, at a fair or at home, the result shows the blue \"On Wishlist\" badge. Your wishlist shows the most you wanted to pay. You set it at home, with time to think, and it is there when you stand at the table and ask for the price."
+        }
+      ]
+    },
+    {
+      "id": "your-copy",
+      "type": "text",
+      "label": {
+        "en": "Your copy",
+        "de": "Dein Exemplar",
+        "fr": "Ton exemplaire",
+        "it": "Il tuo esemplare",
+        "nl": "Jouw exemplaar",
+        "pl": "Twój egzemplarz",
+        "cs": "Your copy",
+        "sk": "Your copy",
+        "ro": "Your copy",
+        "hu": "Your copy",
+        "da": "Your copy"
+      },
+      "title": {
+        "en": "Adding a stamp to the collection",
+        "de": "Eine Marke in die Sammlung aufnehmen",
+        "fr": "L'ajout d'un timbre à la collection",
+        "it": "L'aggiunta di un francobollo alla collezione",
+        "nl": "Een zegel aan je verzameling toevoegen",
+        "pl": "Dodawanie znaczka do kolekcji",
+        "cs": "Adding a stamp to the collection",
+        "sk": "Adding a stamp to the collection",
+        "ro": "Adding a stamp to the collection",
+        "hu": "Adding a stamp to the collection",
+        "da": "Adding a stamp to the collection"
+      },
+      "visual": {
+        "type": "phone",
+        "animation": {
+          "src": "https://assets.stampiq.io/blog/4bc6e6c9a5400585/17.mp4",
+          "width": 960,
+          "height": 2080,
+          "poster": "https://assets.stampiq.io/blog/86dd8908b27a3a7a/17.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "Status and condition are what separate one copy of a stamp from another. A mint copy and a cancelled copy of the same issue are two different copies in your collection, and the record says which one you have.",
+          "de": "Status und Zustand unterscheiden ein Exemplar einer Marke vom anderen. Ein postfrisches und ein gestempeltes Exemplar derselben Ausgabe sind in deiner Sammlung zwei verschiedene Exemplare, und der Eintrag hält fest, welches du hast.",
+          "fr": "Ce qui distingue deux exemplaires d'un même timbre, ce sont le statut et l'état. Un exemplaire neuf et un exemplaire oblitéré de la même émission sont deux exemplaires différents dans ta collection, et la fiche indique lequel tu possèdes.",
+          "it": "Stato e conservazione sono ciò che distingue un esemplare di un francobollo da un altro. Un esemplare nuovo e uno annullato della stessa emissione sono due esemplari diversi nella tua collezione, e la scheda dice quale dei due hai.",
+          "nl": "Status en conditie maken het verschil tussen het ene exemplaar van een zegel en het andere. Een postfris en een gestempeld exemplaar van dezelfde uitgifte zijn in je verzameling twee verschillende exemplaren, en wat je vastlegt, laat zien welke van de twee je hebt.",
+          "pl": "Jeden egzemplarz znaczka od drugiego odróżniają status i stan zachowania. Czysty i kasowany egzemplarz tej samej emisji to w Twojej kolekcji dwa różne egzemplarze, a wpis mówi, który z nich masz.",
+          "cs": "Status and condition are what separate one copy of a stamp from another. A mint copy and a cancelled copy of the same issue are two different copies in your collection, and the record says which one you have.",
+          "sk": "Status and condition are what separate one copy of a stamp from another. A mint copy and a cancelled copy of the same issue are two different copies in your collection, and the record says which one you have.",
+          "ro": "Status and condition are what separate one copy of a stamp from another. A mint copy and a cancelled copy of the same issue are two different copies in your collection, and the record says which one you have.",
+          "hu": "Status and condition are what separate one copy of a stamp from another. A mint copy and a cancelled copy of the same issue are two different copies in your collection, and the record says which one you have.",
+          "da": "Status and condition are what separate one copy of a stamp from another. A mint copy and a cancelled copy of the same issue are two different copies in your collection, and the record says which one you have."
+        },
+        {
+          "en": "In \"Add to Collection\" you describe the copy you own. \"Status\" records how the stamp was used, from Mint (NH) through the kinds of cancellation to Perfin/Punched. \"Condition\" grades your copy from Superb to Poor. Both are required.",
+          "de": "Unter „Zur Sammlung hinzufügen“ beschreibst du das Exemplar, das du besitzt. Beim „Status“ legst du fest, ob und wie die Marke entwertet ist, von „Postfrisch (NH)“ über die verschiedenen Stempelarten bis „Perfin/Gelocht“. Beim „Zustand“ bewertest du dein Exemplar von „Prachtstück“ bis „Mangelhaft“. Beides sind Pflichtfelder.",
+          "fr": "Dans « Ajouter à la collection », tu décris l'exemplaire que tu possèdes. Le « Statut » indique comment le timbre a été utilisé, de Neuf sans charnière jusqu'à Perforé, en passant par les différents types d'oblitération. L'« État » classe ton exemplaire de Superbe à Médiocre. Les deux champs sont obligatoires.",
+          "it": "In \"Aggiungi alla collezione\" descrivi l'esemplare che possiedi. \"Stato\" indica come è stato usato il francobollo, da Nuovo integro ai vari tipi di annullo fino a Perforato. \"Stato di conservazione\" valuta il tuo esemplare da Superbo a Mediocre. Sono obbligatori tutti e due.",
+          "nl": "In „Toevoegen aan verzameling” beschrijf je het exemplaar dat je hebt. Bij „Status” leg je vast hoe de zegel is gebruikt, van Postfris via de verschillende soorten afstempeling tot Perfin/geperforeerd. Bij „Conditie” beoordeel je je exemplaar, van Prachtig tot Slecht. Beide velden zijn verplicht.",
+          "pl": "W „Dodaj do kolekcji” opisujesz egzemplarz, który masz. „Status” określa, czy i jak znaczek był używany, od „Czysty (**)” przez rodzaje kasowania po „Perfin”. „Stan zachowania” ocenia Twój egzemplarz w skali od „Wyśmienity” do „Słaby”. Oba pola są obowiązkowe.",
+          "cs": "In \"Add to Collection\" you describe the copy you own. \"Status\" records how the stamp was used, from Mint (NH) through the kinds of cancellation to Perfin/Punched. \"Condition\" grades your copy from Superb to Poor. Both are required.",
+          "sk": "In \"Add to Collection\" you describe the copy you own. \"Status\" records how the stamp was used, from Mint (NH) through the kinds of cancellation to Perfin/Punched. \"Condition\" grades your copy from Superb to Poor. Both are required.",
+          "ro": "In \"Add to Collection\" you describe the copy you own. \"Status\" records how the stamp was used, from Mint (NH) through the kinds of cancellation to Perfin/Punched. \"Condition\" grades your copy from Superb to Poor. Both are required.",
+          "hu": "In \"Add to Collection\" you describe the copy you own. \"Status\" records how the stamp was used, from Mint (NH) through the kinds of cancellation to Perfin/Punched. \"Condition\" grades your copy from Superb to Poor. Both are required.",
+          "da": "In \"Add to Collection\" you describe the copy you own. \"Status\" records how the stamp was used, from Mint (NH) through the kinds of cancellation to Perfin/Punched. \"Condition\" grades your copy from Superb to Poor. Both are required."
+        },
+        {
+          "en": "The photo from your scan is already attached, so the record shows your own copy with its centring and its cancellation. When you confirm, the badge on the result changes from \"Not in Collection\" to the green \"In Collection\".",
+          "de": "Das Foto aus deinem Scan ist schon angehängt, der Eintrag zeigt also dein eigenes Exemplar mit seiner Zentrierung und seinem Stempel. Wenn du bestätigst, wechselt der Hinweis im Ergebnis von „Nicht in der Sammlung“ zum grünen „In der Sammlung“.",
+          "fr": "La photo de ton scan est déjà jointe : la fiche montre donc ton propre exemplaire, avec son centrage et son oblitération. Quand tu confirmes, le badge du résultat passe de « Pas dans la collection » au badge vert « Dans la collection ».",
+          "it": "La foto della scansione è già allegata, quindi la scheda mostra proprio il tuo esemplare, con la sua centratura e il suo annullo. Quando confermi, il badge sul risultato passa da \"Non presente nella collezione\" al badge verde \"In collezione\".",
+          "nl": "De foto van je scan is al toegevoegd, dus je ziet in de app je eigen exemplaar, met de centrering en de afstempeling. Als je bevestigt, verandert het label in het resultaat van „Niet in de verzameling” in het groene „In verzameling”.",
+          "pl": "Zdjęcie ze skanu jest już dołączone, więc wpis pokazuje Twój własny egzemplarz, z jego centrowaniem i kasownikiem. Po potwierdzeniu etykieta przy wyniku zmienia się z „Nie ma w kolekcji” na zieloną „W kolekcji”.",
+          "cs": "The photo from your scan is already attached, so the record shows your own copy with its centring and its cancellation. When you confirm, the badge on the result changes from \"Not in Collection\" to the green \"In Collection\".",
+          "sk": "The photo from your scan is already attached, so the record shows your own copy with its centring and its cancellation. When you confirm, the badge on the result changes from \"Not in Collection\" to the green \"In Collection\".",
+          "ro": "The photo from your scan is already attached, so the record shows your own copy with its centring and its cancellation. When you confirm, the badge on the result changes from \"Not in Collection\" to the green \"In Collection\".",
+          "hu": "The photo from your scan is already attached, so the record shows your own copy with its centring and its cancellation. When you confirm, the badge on the result changes from \"Not in Collection\" to the green \"In Collection\".",
+          "da": "The photo from your scan is already attached, so the record shows your own copy with its centring and its cancellation. When you confirm, the badge on the result changes from \"Not in Collection\" to the green \"In Collection\"."
+        }
+      ]
+    },
+    {
+      "id": "details",
+      "type": "checklist",
+      "items": [
+        {
+          "en": "Collector's notes, for anything you want to remember about this copy",
+          "de": "„Anmerkungen des Sammlers“ für alles, was du dir zu diesem Exemplar merken willst",
+          "fr": "Notes du collectionneur, pour tout ce que tu veux retenir sur cet exemplaire",
+          "it": "Note del collezionista, per tutto quello che vuoi ricordare su questo esemplare",
+          "nl": "Verzamelaarnotities, voor alles wat je over dit exemplaar wilt onthouden",
+          "pl": "Notatki kolekcjonera na wszystko, co chcesz zapamiętać o tym egzemplarzu",
+          "cs": "Collector's notes, for anything you want to remember about this copy",
+          "sk": "Collector's notes, for anything you want to remember about this copy",
+          "ro": "Collector's notes, for anything you want to remember about this copy",
+          "hu": "Collector's notes, for anything you want to remember about this copy",
+          "da": "Collector's notes, for anything you want to remember about this copy"
+        },
+        {
+          "en": "Provenance, such as previous owners or the auction the stamp came from",
+          "de": "„Herkunft“, etwa frühere Besitzer oder die Auktion, aus der die Marke stammt",
+          "fr": "Provenance, par exemple les propriétaires précédents ou la vente aux enchères d'où vient le timbre",
+          "it": "Provenienza, per esempio i proprietari precedenti o l'asta da cui viene il francobollo",
+          "nl": "Herkomst, zoals vorige eigenaren of de veiling waar de zegel vandaan komt",
+          "pl": "Pochodzenie, na przykład poprzedni właściciele albo aukcja, z której znaczek do Ciebie trafił",
+          "cs": "Provenance, such as previous owners or the auction the stamp came from",
+          "sk": "Provenance, such as previous owners or the auction the stamp came from",
+          "ro": "Provenance, such as previous owners or the auction the stamp came from",
+          "hu": "Provenance, such as previous owners or the auction the stamp came from",
+          "da": "Provenance, such as previous owners or the auction the stamp came from"
+        },
+        {
+          "en": "Purchase price and currency, so you know what you paid; left empty, StampIQ uses the value it shows for the stamp, for example in the value of your collection",
+          "de": "„Kaufpreis“ und „Währung“, damit du weißt, was du bezahlt hast; bleibt der Kaufpreis leer, rechnet StampIQ mit dem Wert, den die App für die Marke anzeigt, zum Beispiel beim Wert deiner Sammlung",
+          "fr": "Prix d'achat et devise, pour savoir ce que tu as payé ; si le champ reste vide, StampIQ utilise la valeur qu'il indique pour le timbre, par exemple dans la valeur de ta collection",
+          "it": "Prezzo di acquisto e valuta, per sapere quanto hai pagato; se lo lasci vuoto, StampIQ usa il valore che indica per il francobollo, per esempio nel valore della tua collezione",
+          "nl": "Aankoopprijs en valuta, zodat je weet wat je hebt betaald; laat je dit leeg, dan gebruikt StampIQ de waarde die het voor de zegel aangeeft, bijvoorbeeld in de waarde van je verzameling",
+          "pl": "Cenę zakupu i walutę, żeby pamiętać, ile kosztował Cię znaczek; gdy to pole jest puste, StampIQ korzysta z wartości, którą pokazuje dla znaczka, na przykład przy wartości Twojej kolekcji",
+          "cs": "Purchase price and currency, so you know what you paid; left empty, StampIQ uses the value it shows for the stamp, for example in the value of your collection",
+          "sk": "Purchase price and currency, so you know what you paid; left empty, StampIQ uses the value it shows for the stamp, for example in the value of your collection",
+          "ro": "Purchase price and currency, so you know what you paid; left empty, StampIQ uses the value it shows for the stamp, for example in the value of your collection",
+          "hu": "Purchase price and currency, so you know what you paid; left empty, StampIQ uses the value it shows for the stamp, for example in the value of your collection",
+          "da": "Purchase price and currency, so you know what you paid; left empty, StampIQ uses the value it shows for the stamp, for example in the value of your collection"
+        },
+        {
+          "en": "A certificate, if the stamp has been certified",
+          "de": "Ein Zertifikat, wenn es für die Marke eines gibt",
+          "fr": "Un certificat, si le timbre a été expertisé",
+          "it": "Un certificato, se il francobollo è stato periziato",
+          "nl": "Een certificaat, als de zegel is gekeurd",
+          "pl": "Certyfikat, jeśli znaczek go ma",
+          "cs": "A certificate, if the stamp has been certified",
+          "sk": "A certificate, if the stamp has been certified",
+          "ro": "A certificate, if the stamp has been certified",
+          "hu": "A certificate, if the stamp has been certified",
+          "da": "A certificate, if the stamp has been certified"
+        },
+        {
+          "en": "\"Has Defects\", with a list of faults such as a crease or a tear, so the record matches the stamp",
+          "de": "„Hat Mängel“ mit einer Liste der Fehler wie Knick oder Riss, damit der Eintrag zur Marke passt",
+          "fr": "« Présente des défauts », avec une liste des défauts comme un pli ou une déchirure, pour que la fiche corresponde au timbre",
+          "it": "\"Presenta difetti\", con l'elenco dei problemi, come una piega o uno strappo, così la scheda corrisponde al francobollo",
+          "nl": "„Heeft gebreken”, met een lijst van gebreken zoals een vouw of een scheur, zodat je gegevens met de zegel overeenkomen",
+          "pl": "„Ma wady” z listą usterek, takich jak zagięcie czy rozdarcie, żeby wpis zgadzał się ze znaczkiem",
+          "cs": "\"Has Defects\", with a list of faults such as a crease or a tear, so the record matches the stamp",
+          "sk": "\"Has Defects\", with a list of faults such as a crease or a tear, so the record matches the stamp",
+          "ro": "\"Has Defects\", with a list of faults such as a crease or a tear, so the record matches the stamp",
+          "hu": "\"Has Defects\", with a list of faults such as a crease or a tear, so the record matches the stamp",
+          "da": "\"Has Defects\", with a list of faults such as a crease or a tear, so the record matches the stamp"
+        }
+      ],
+      "label": {
+        "en": "Optional details",
+        "de": "Weitere Angaben",
+        "fr": "Détails facultatifs",
+        "it": "Dati facoltativi",
+        "nl": "Optionele gegevens",
+        "pl": "Dane dodatkowe",
+        "cs": "Optional details",
+        "sk": "Optional details",
+        "ro": "Optional details",
+        "hu": "Optional details",
+        "da": "Optional details"
+      },
+      "title": {
+        "en": "What else you can record",
+        "de": "Was du noch festhalten kannst",
+        "fr": "Les autres champs de la fiche",
+        "it": "Cos'altro puoi registrare",
+        "nl": "Wat je verder kunt vastleggen",
+        "pl": "Co jeszcze możesz zapisać",
+        "cs": "What else you can record",
+        "sk": "What else you can record",
+        "ro": "What else you can record",
+        "hu": "What else you can record",
+        "da": "What else you can record"
+      },
+      "columns": 1
+    },
+    {
+      "id": "copies",
+      "type": "text",
+      "label": {
+        "en": "Several copies",
+        "de": "Mehrere Exemplare",
+        "fr": "Plusieurs exemplaires",
+        "it": "Più esemplari",
+        "nl": "Meerdere exemplaren",
+        "pl": "Kolejne egzemplarze",
+        "cs": "Several copies",
+        "sk": "Several copies",
+        "ro": "Several copies",
+        "hu": "Several copies",
+        "da": "Several copies"
+      },
+      "title": {
+        "en": "The same stamp twice",
+        "de": "Dieselbe Marke zweimal",
+        "fr": "Le même timbre deux fois",
+        "it": "Lo stesso francobollo due volte",
+        "nl": "Dezelfde zegel twee keer",
+        "pl": "Ten sam znaczek dwa razy",
+        "cs": "The same stamp twice",
+        "sk": "The same stamp twice",
+        "ro": "The same stamp twice",
+        "hu": "The same stamp twice",
+        "da": "The same stamp twice"
+      },
+      "visual": {
+        "type": "phone",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/616ba8086636e4aa/20.png",
+          "width": 1290,
+          "height": 2796
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "A mint and a used copy, or the same stamp in two conditions, are separate copies with separate records in the app. Once a stamp is in your collection, the result shows \"View/add copies\" instead of \"Add to Collection\", and you add the next copy there.",
+          "de": "Ein postfrisches und ein gestempeltes Exemplar oder dieselbe Marke in zwei verschiedenen Zuständen sind getrennte Exemplare mit getrennten Einträgen in der App. Sobald eine Marke in deiner Sammlung ist, zeigt das Ergebnis statt „Zur Sammlung hinzufügen“ die Schaltfläche „Exemplare anzeigen/hinzufügen“. Dort legst du das nächste Exemplar an.",
+          "fr": "Un exemplaire neuf et un exemplaire oblitéré, ou le même timbre dans deux états différents, sont des exemplaires distincts, chacun avec sa propre fiche dans l'application. Dès qu'un timbre est dans ta collection, le résultat affiche « Afficher/Ajouter des exemplaires » à la place de « Ajouter à la collection », et c'est là que tu ajoutes l'exemplaire suivant.",
+          "it": "Un esemplare nuovo e uno usato, o lo stesso francobollo in due stati di conservazione, sono esemplari distinti, con schede distinte nell'app. Quando un francobollo è già nella tua collezione, al posto di \"Aggiungi alla collezione\" il risultato mostra \"Visualizza/Aggiungi esemplari\", e l'esemplare successivo lo aggiungi da lì.",
+          "nl": "Een postfris en een gestempeld exemplaar, of dezelfde zegel in twee verschillende condities, zijn aparte exemplaren, die je in de app elk apart vastlegt. Staat een zegel eenmaal in je verzameling, dan toont het resultaat „Exemplaren bekijken/toevoegen” in plaats van „Toevoegen aan verzameling”, en daar voeg je het volgende exemplaar toe.",
+          "pl": "Czysty i kasowany egzemplarz albo ten sam znaczek w dwóch stanach zachowania to osobne egzemplarze z osobnymi wpisami w aplikacji. Gdy znaczek jest już w kolekcji, wynik pokazuje „Wyświetl/Dodaj egzemplarze” w miejscu „Dodaj do kolekcji” i tam dodajesz kolejny egzemplarz.",
+          "cs": "A mint and a used copy, or the same stamp in two conditions, are separate copies with separate records in the app. Once a stamp is in your collection, the result shows \"View/add copies\" instead of \"Add to Collection\", and you add the next copy there.",
+          "sk": "A mint and a used copy, or the same stamp in two conditions, are separate copies with separate records in the app. Once a stamp is in your collection, the result shows \"View/add copies\" instead of \"Add to Collection\", and you add the next copy there.",
+          "ro": "A mint and a used copy, or the same stamp in two conditions, are separate copies with separate records in the app. Once a stamp is in your collection, the result shows \"View/add copies\" instead of \"Add to Collection\", and you add the next copy there.",
+          "hu": "A mint and a used copy, or the same stamp in two conditions, are separate copies with separate records in the app. Once a stamp is in your collection, the result shows \"View/add copies\" instead of \"Add to Collection\", and you add the next copy there.",
+          "da": "A mint and a used copy, or the same stamp in two conditions, are separate copies with separate records in the app. Once a stamp is in your collection, the result shows \"View/add copies\" instead of \"Add to Collection\", and you add the next copy there."
+        },
+        {
+          "en": "In your collection the stamp appears once, with the number of copies you hold, for example \"3 copies\".",
+          "de": "In deiner Sammlung erscheint die Marke einmal, zusammen mit der Zahl deiner Exemplare, zum Beispiel „3 Exemplare“.",
+          "fr": "Dans ta collection, le timbre n'apparaît qu'une fois, avec le nombre d'exemplaires que tu possèdes, par exemple « 3 Exemplaires ».",
+          "it": "Nella tua collezione il francobollo compare una volta sola, con il numero di esemplari che hai, per esempio \"3 Esemplari\".",
+          "nl": "In je verzameling staat de zegel één keer, met het aantal exemplaren dat je hebt, bijvoorbeeld „3 Exemplaren”.",
+          "pl": "W kolekcji znaczek pojawia się raz, z liczbą Twoich egzemplarzy, na przykład „3 egzemplarze”.",
+          "cs": "In your collection the stamp appears once, with the number of copies you hold, for example \"3 copies\".",
+          "sk": "In your collection the stamp appears once, with the number of copies you hold, for example \"3 copies\".",
+          "ro": "In your collection the stamp appears once, with the number of copies you hold, for example \"3 copies\".",
+          "hu": "In your collection the stamp appears once, with the number of copies you hold, for example \"3 copies\".",
+          "da": "In your collection the stamp appears once, with the number of copies you hold, for example \"3 copies\"."
+        }
+      ]
+    },
+    {
+      "id": "album",
+      "type": "text",
+      "label": {
+        "en": "Your album",
+        "de": "Dein Album",
+        "fr": "Ton album",
+        "it": "Il tuo album",
+        "nl": "Je album",
+        "pl": "Twój album",
+        "cs": "Your album",
+        "sk": "Your album",
+        "ro": "Your album",
+        "hu": "Your album",
+        "da": "Your album"
+      },
+      "title": {
+        "en": "What the app knows",
+        "de": "Was die App weiß",
+        "fr": "Ce que l'application sait",
+        "it": "Cosa sa l'app",
+        "nl": "Wat de app weet",
+        "pl": "Co wie aplikacja",
+        "cs": "What the app knows",
+        "sk": "What the app knows",
+        "ro": "What the app knows",
+        "hu": "What the app knows",
+        "da": "What the app knows"
+      },
+      "paragraphs": [
+        {
+          "en": "Your album stays where it is, and the stamps stay in it. What changes is that the app knows what is in the album: the next scan, at home or at a fair, shows you straight away whether a stamp is already in your collection or on your wishlist.",
+          "de": "Dein Album bleibt, wo es ist, und die Marken bleiben darin. Neu ist, dass die App weiß, was im Album steckt: Der nächste Scan, zu Hause oder auf einer Börse, zeigt dir sofort, ob eine Marke schon in deiner Sammlung oder auf deiner Wunschliste ist.",
+          "fr": "Ton album reste où il est, et les timbres restent dedans. Ce qui change, c'est que l'application sait ce qu'il contient : au prochain scan, chez toi ou au salon, tu vois tout de suite si un timbre est déjà dans ta collection ou dans ta liste de souhaits.",
+          "it": "L'album resta dov'è, e i francobolli restano al loro posto. La differenza è che ora l'app sa cosa c'è nell'album: alla scansione successiva, a casa o in fiera, vedi subito se un francobollo è già nella tua collezione o nella tua lista dei desideri.",
+          "nl": "Je album blijft waar het is, en de zegels blijven erin. Wat verandert, is dat de app weet wat er in het album zit: bij de volgende scan, thuis of op een beurs, zie je meteen of een zegel al in je verzameling of op je verlanglijst staat.",
+          "pl": "Album zostaje tam, gdzie jest, a znaczki w nim. Zmienia się to, że aplikacja wie, co w nim masz: przy następnym skanie, w domu czy na giełdzie, od razu widzisz, czy znaczek jest już w Twojej kolekcji albo na liście życzeń.",
+          "cs": "Your album stays where it is, and the stamps stay in it. What changes is that the app knows what is in the album: the next scan, at home or at a fair, shows you straight away whether a stamp is already in your collection or on your wishlist.",
+          "sk": "Your album stays where it is, and the stamps stay in it. What changes is that the app knows what is in the album: the next scan, at home or at a fair, shows you straight away whether a stamp is already in your collection or on your wishlist.",
+          "ro": "Your album stays where it is, and the stamps stay in it. What changes is that the app knows what is in the album: the next scan, at home or at a fair, shows you straight away whether a stamp is already in your collection or on your wishlist.",
+          "hu": "Your album stays where it is, and the stamps stay in it. What changes is that the app knows what is in the album: the next scan, at home or at a fair, shows you straight away whether a stamp is already in your collection or on your wishlist.",
+          "da": "Your album stays where it is, and the stamps stay in it. What changes is that the app knows what is in the album: the next scan, at home or at a fair, shows you straight away whether a stamp is already in your collection or on your wishlist."
+        }
+      ]
+    }
+  ]
+}

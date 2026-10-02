@@ -1,0 +1,1064 @@
+{
+  "category": "day-trips",
+  "markets": [
+    "PL"
+  ],
+  "langs": [
+    "en",
+    "pl"
+  ],
+  "published_at": "2026-09-25T07:00:00+00:00",
+  "thumbnail": {
+    "src": "https://assets.stampiq.io/blog/a410ed7e046072f4/debno-church-front.jpg",
+    "width": 3382,
+    "height": 2390
+  },
+  "languages": {
+    "en": {
+      "slug": "day-trip-debno-wooden-church",
+      "title": "Day trip: the wooden church in Dębno",
+      "description": "A Polish stamp from 1977 shows a wooden church in Podhale. Inside, the painted walls from around 1500 are still there, and it is open until 31 October."
+    },
+    "de": {
+      "slug": "day-trip-debno-wooden-church",
+      "title": "Day trip: the wooden church in Dębno",
+      "description": "A Polish stamp from 1977 shows a wooden church in Podhale. Inside, the painted walls from around 1500 are still there, and it is open until 31 October."
+    },
+    "fr": {
+      "slug": "day-trip-debno-wooden-church",
+      "title": "Day trip: the wooden church in Dębno",
+      "description": "A Polish stamp from 1977 shows a wooden church in Podhale. Inside, the painted walls from around 1500 are still there, and it is open until 31 October."
+    },
+    "it": {
+      "slug": "day-trip-debno-wooden-church",
+      "title": "Day trip: the wooden church in Dębno",
+      "description": "A Polish stamp from 1977 shows a wooden church in Podhale. Inside, the painted walls from around 1500 are still there, and it is open until 31 October."
+    },
+    "nl": {
+      "slug": "day-trip-debno-wooden-church",
+      "title": "Day trip: the wooden church in Dębno",
+      "description": "A Polish stamp from 1977 shows a wooden church in Podhale. Inside, the painted walls from around 1500 are still there, and it is open until 31 October."
+    },
+    "pl": {
+      "slug": "wycieczka-debno-drewniany-kosciol",
+      "title": "Wycieczka: drewniany kościół w Dębnie",
+      "description": "Polski znaczek z 1977 roku pokazuje drewniany kościół na Podhalu. W środku wciąż są malowidła z około 1500 roku, a wejść można do 31 października."
+    },
+    "cs": {
+      "slug": "day-trip-debno-wooden-church",
+      "title": "Day trip: the wooden church in Dębno",
+      "description": "A Polish stamp from 1977 shows a wooden church in Podhale. Inside, the painted walls from around 1500 are still there, and it is open until 31 October."
+    },
+    "sk": {
+      "slug": "day-trip-debno-wooden-church",
+      "title": "Day trip: the wooden church in Dębno",
+      "description": "A Polish stamp from 1977 shows a wooden church in Podhale. Inside, the painted walls from around 1500 are still there, and it is open until 31 October."
+    },
+    "ro": {
+      "slug": "day-trip-debno-wooden-church",
+      "title": "Day trip: the wooden church in Dębno",
+      "description": "A Polish stamp from 1977 shows a wooden church in Podhale. Inside, the painted walls from around 1500 are still there, and it is open until 31 October."
+    },
+    "hu": {
+      "slug": "day-trip-debno-wooden-church",
+      "title": "Day trip: the wooden church in Dębno",
+      "description": "A Polish stamp from 1977 shows a wooden church in Podhale. Inside, the painted walls from around 1500 are still there, and it is open until 31 October."
+    },
+    "da": {
+      "slug": "day-trip-debno-wooden-church",
+      "title": "Day trip: the wooden church in Dębno",
+      "description": "A Polish stamp from 1977 shows a wooden church in Podhale. Inside, the painted walls from around 1500 are still there, and it is open until 31 October."
+    }
+  },
+  "header": {
+    "lead": {
+      "en": "A 1-złoty stamp from 1977 shows a small wooden church between Nowy Targ and the Pieniny. Visitors can go inside until 31 October.",
+      "de": "A 1-złoty stamp from 1977 shows a small wooden church between Nowy Targ and the Pieniny. Visitors can go inside until 31 October.",
+      "fr": "A 1-złoty stamp from 1977 shows a small wooden church between Nowy Targ and the Pieniny. Visitors can go inside until 31 October.",
+      "it": "A 1-złoty stamp from 1977 shows a small wooden church between Nowy Targ and the Pieniny. Visitors can go inside until 31 October.",
+      "nl": "A 1-złoty stamp from 1977 shows a small wooden church between Nowy Targ and the Pieniny. Visitors can go inside until 31 October.",
+      "pl": "Znaczek za 1 złoty z 1977 roku przedstawia mały drewniany kościółek między Nowym Targiem a Pieninami. Do 31 października można wejść do środka.",
+      "cs": "A 1-złoty stamp from 1977 shows a small wooden church between Nowy Targ and the Pieniny. Visitors can go inside until 31 October.",
+      "sk": "A 1-złoty stamp from 1977 shows a small wooden church between Nowy Targ and the Pieniny. Visitors can go inside until 31 October.",
+      "ro": "A 1-złoty stamp from 1977 shows a small wooden church between Nowy Targ and the Pieniny. Visitors can go inside until 31 October.",
+      "hu": "A 1-złoty stamp from 1977 shows a small wooden church between Nowy Targ and the Pieniny. Visitors can go inside until 31 October.",
+      "da": "A 1-złoty stamp from 1977 shows a small wooden church between Nowy Targ and the Pieniny. Visitors can go inside until 31 October."
+    },
+    "visual": {
+      "type": "stamp",
+      "stamp": {
+        "name": {
+          "en": "Dębno Church, 15th Century",
+          "de": "Dębno Church, 15th Century",
+          "fr": "Dębno Church, 15th Century",
+          "it": "Dębno Church, 15th Century",
+          "nl": "Dębno Church, 15th Century",
+          "pl": "Dębno, kościółek z XV wieku",
+          "cs": "Dębno Church, 15th Century",
+          "sk": "Dębno Church, 15th Century",
+          "ro": "Dębno Church, 15th Century",
+          "hu": "Dębno Church, 15th Century",
+          "da": "Dębno Church, 15th Century"
+        },
+        "year": 1977,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/7225ed773ecd3c9c/debno-stamp.png",
+          "width": 770,
+          "height": 1049
+        },
+        "country": "PL",
+        "stamp_id": "SIQ-PL-1977-048"
+      }
+    },
+    "buttons": [],
+    "location": "Dębno Podhalańskie, Poland"
+  },
+  "blocks": [
+    {
+      "id": "near",
+      "type": "text",
+      "label": {
+        "en": "Near you",
+        "de": "Near you",
+        "fr": "Near you",
+        "it": "Near you",
+        "nl": "Near you",
+        "pl": "W pobliżu",
+        "cs": "Near you",
+        "sk": "Near you",
+        "ro": "Near you",
+        "hu": "Near you",
+        "da": "Near you"
+      },
+      "title": {
+        "en": "A stamp on the map",
+        "de": "A stamp on the map",
+        "fr": "A stamp on the map",
+        "it": "A stamp on the map",
+        "nl": "A stamp on the map",
+        "pl": "Znaczek na mapie",
+        "cs": "A stamp on the map",
+        "sk": "A stamp on the map",
+        "ro": "A stamp on the map",
+        "hu": "A stamp on the map",
+        "da": "A stamp on the map"
+      },
+      "visual": {
+        "type": "phone",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/0c345b811accd4ef/map-debno-church.png",
+          "width": 1290,
+          "height": 2796
+        }
+      },
+      "buttons": [],
+      "paragraphs": [
+        {
+          "en": "You are spending a few days in Zakopane or in the Pieniny, and one afternoon is free. In StampIQ you open the map at your own position. The pins around you are stamps of places in the region, and one of them, east of Nowy Targ, is a 1-złoty stamp from 1977 with a small wooden church. The inscription says \"DĘBNO-KOŚCIÓŁEK XVw\", the little 15th-century church in Dębno.",
+          "de": "You are spending a few days in Zakopane or in the Pieniny, and one afternoon is free. In StampIQ you open the map at your own position. The pins around you are stamps of places in the region, and one of them, east of Nowy Targ, is a 1-złoty stamp from 1977 with a small wooden church. The inscription says \"DĘBNO-KOŚCIÓŁEK XVw\", the little 15th-century church in Dębno.",
+          "fr": "You are spending a few days in Zakopane or in the Pieniny, and one afternoon is free. In StampIQ you open the map at your own position. The pins around you are stamps of places in the region, and one of them, east of Nowy Targ, is a 1-złoty stamp from 1977 with a small wooden church. The inscription says \"DĘBNO-KOŚCIÓŁEK XVw\", the little 15th-century church in Dębno.",
+          "it": "You are spending a few days in Zakopane or in the Pieniny, and one afternoon is free. In StampIQ you open the map at your own position. The pins around you are stamps of places in the region, and one of them, east of Nowy Targ, is a 1-złoty stamp from 1977 with a small wooden church. The inscription says \"DĘBNO-KOŚCIÓŁEK XVw\", the little 15th-century church in Dębno.",
+          "nl": "You are spending a few days in Zakopane or in the Pieniny, and one afternoon is free. In StampIQ you open the map at your own position. The pins around you are stamps of places in the region, and one of them, east of Nowy Targ, is a 1-złoty stamp from 1977 with a small wooden church. The inscription says \"DĘBNO-KOŚCIÓŁEK XVw\", the little 15th-century church in Dębno.",
+          "pl": "Spędzasz kilka dni w Zakopanem albo w Pieninach i masz wolne popołudnie. W StampIQ otwierasz Mapę w miejscu, w którym jesteś. Pinezki dookoła to znaczki z miejscami w regionie, a jedna z nich, na wschód od Nowego Targu, to znaczek za 1 złoty z 1977 roku z małym drewnianym kościołem. Napis brzmi „DĘBNO-KOŚCIÓŁEK XVw”, czyli kościółek z XV wieku w Dębnie.",
+          "cs": "You are spending a few days in Zakopane or in the Pieniny, and one afternoon is free. In StampIQ you open the map at your own position. The pins around you are stamps of places in the region, and one of them, east of Nowy Targ, is a 1-złoty stamp from 1977 with a small wooden church. The inscription says \"DĘBNO-KOŚCIÓŁEK XVw\", the little 15th-century church in Dębno.",
+          "sk": "You are spending a few days in Zakopane or in the Pieniny, and one afternoon is free. In StampIQ you open the map at your own position. The pins around you are stamps of places in the region, and one of them, east of Nowy Targ, is a 1-złoty stamp from 1977 with a small wooden church. The inscription says \"DĘBNO-KOŚCIÓŁEK XVw\", the little 15th-century church in Dębno.",
+          "ro": "You are spending a few days in Zakopane or in the Pieniny, and one afternoon is free. In StampIQ you open the map at your own position. The pins around you are stamps of places in the region, and one of them, east of Nowy Targ, is a 1-złoty stamp from 1977 with a small wooden church. The inscription says \"DĘBNO-KOŚCIÓŁEK XVw\", the little 15th-century church in Dębno.",
+          "hu": "You are spending a few days in Zakopane or in the Pieniny, and one afternoon is free. In StampIQ you open the map at your own position. The pins around you are stamps of places in the region, and one of them, east of Nowy Targ, is a 1-złoty stamp from 1977 with a small wooden church. The inscription says \"DĘBNO-KOŚCIÓŁEK XVw\", the little 15th-century church in Dębno.",
+          "da": "You are spending a few days in Zakopane or in the Pieniny, and one afternoon is free. In StampIQ you open the map at your own position. The pins around you are stamps of places in the region, and one of them, east of Nowy Targ, is a 1-złoty stamp from 1977 with a small wooden church. The inscription says \"DĘBNO-KOŚCIÓŁEK XVw\", the little 15th-century church in Dębno."
+        },
+        {
+          "en": "Dębno is 44 kilometres from Zakopane, about 50 minutes by car. The stamp's record tells you the year, the series and the face value, and \"Story Behind the Stamp\" tells you about the issue. The badge on the stamp shows whether it is already in your collection.",
+          "de": "Dębno is 44 kilometres from Zakopane, about 50 minutes by car. The stamp's record tells you the year, the series and the face value, and \"Story Behind the Stamp\" tells you about the issue. The badge on the stamp shows whether it is already in your collection.",
+          "fr": "Dębno is 44 kilometres from Zakopane, about 50 minutes by car. The stamp's record tells you the year, the series and the face value, and \"Story Behind the Stamp\" tells you about the issue. The badge on the stamp shows whether it is already in your collection.",
+          "it": "Dębno is 44 kilometres from Zakopane, about 50 minutes by car. The stamp's record tells you the year, the series and the face value, and \"Story Behind the Stamp\" tells you about the issue. The badge on the stamp shows whether it is already in your collection.",
+          "nl": "Dębno is 44 kilometres from Zakopane, about 50 minutes by car. The stamp's record tells you the year, the series and the face value, and \"Story Behind the Stamp\" tells you about the issue. The badge on the stamp shows whether it is already in your collection.",
+          "pl": "Z Zakopanego do Dębna jest 44 kilometry, samochodem około 50 minut. W szczegółach znaczka znajdziesz rok, serię i nominał, a „Historia znaczka” opowiada o samej emisji. Oznaczenie przy znaczku pokazuje, czy masz go już w kolekcji.",
+          "cs": "Dębno is 44 kilometres from Zakopane, about 50 minutes by car. The stamp's record tells you the year, the series and the face value, and \"Story Behind the Stamp\" tells you about the issue. The badge on the stamp shows whether it is already in your collection.",
+          "sk": "Dębno is 44 kilometres from Zakopane, about 50 minutes by car. The stamp's record tells you the year, the series and the face value, and \"Story Behind the Stamp\" tells you about the issue. The badge on the stamp shows whether it is already in your collection.",
+          "ro": "Dębno is 44 kilometres from Zakopane, about 50 minutes by car. The stamp's record tells you the year, the series and the face value, and \"Story Behind the Stamp\" tells you about the issue. The badge on the stamp shows whether it is already in your collection.",
+          "hu": "Dębno is 44 kilometres from Zakopane, about 50 minutes by car. The stamp's record tells you the year, the series and the face value, and \"Story Behind the Stamp\" tells you about the issue. The badge on the stamp shows whether it is already in your collection.",
+          "da": "Dębno is 44 kilometres from Zakopane, about 50 minutes by car. The stamp's record tells you the year, the series and the face value, and \"Story Behind the Stamp\" tells you about the issue. The badge on the stamp shows whether it is already in your collection."
+        }
+      ]
+    },
+    {
+      "id": "place",
+      "type": "text",
+      "label": {
+        "en": "The place",
+        "de": "The place",
+        "fr": "The place",
+        "it": "The place",
+        "nl": "The place",
+        "pl": "Miejsce",
+        "cs": "The place",
+        "sk": "The place",
+        "ro": "The place",
+        "hu": "The place",
+        "da": "The place"
+      },
+      "title": {
+        "en": "A church of larch and fir",
+        "de": "A church of larch and fir",
+        "fr": "A church of larch and fir",
+        "it": "A church of larch and fir",
+        "nl": "A church of larch and fir",
+        "pl": "Kościół z modrzewia i jodły",
+        "cs": "A church of larch and fir",
+        "sk": "A church of larch and fir",
+        "ro": "A church of larch and fir",
+        "hu": "A church of larch and fir",
+        "da": "A church of larch and fir"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/a410ed7e046072f4/debno-church-front.jpg",
+          "width": 3382,
+          "credit": "Henryk Bielamowicz, CC BY-SA 4.0",
+          "height": 2390,
+          "caption": {
+            "en": "The church of St. Michael the Archangel from the front, with its tower on the left.",
+            "de": "The church of St. Michael the Archangel from the front, with its tower on the left.",
+            "fr": "The church of St. Michael the Archangel from the front, with its tower on the left.",
+            "it": "The church of St. Michael the Archangel from the front, with its tower on the left.",
+            "nl": "The church of St. Michael the Archangel from the front, with its tower on the left.",
+            "pl": "Kościół św. Michała Archanioła od frontu, z wieżą po lewej stronie.",
+            "cs": "The church of St. Michael the Archangel from the front, with its tower on the left.",
+            "sk": "The church of St. Michael the Archangel from the front, with its tower on the left.",
+            "ro": "The church of St. Michael the Archangel from the front, with its tower on the left.",
+            "hu": "The church of St. Michael the Archangel from the front, with its tower on the left.",
+            "da": "The church of St. Michael the Archangel from the front, with its tower on the left."
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:D%C4%99bno,_ko%C5%9Bci%C3%B3%C5%82_%C5%9Bw._Micha%C5%82a_Archanio%C5%82a_(HB1).jpg"
+        }
+      },
+      "buttons": [],
+      "paragraphs": [
+        {
+          "en": "The church of St. Michael the Archangel was built in the second half of the 15th century, in the place of an older church. It is a log building of larch and fir, put together without nails and held by wooden pegs. The nave is only 7 by 8.3 metres. The tower, 15 metres high and built as a timber frame, was added in 1601. Since 2003 the church has been on the UNESCO World Heritage list, as one of the wooden churches of southern Małopolska.",
+          "de": "The church of St. Michael the Archangel was built in the second half of the 15th century, in the place of an older church. It is a log building of larch and fir, put together without nails and held by wooden pegs. The nave is only 7 by 8.3 metres. The tower, 15 metres high and built as a timber frame, was added in 1601. Since 2003 the church has been on the UNESCO World Heritage list, as one of the wooden churches of southern Małopolska.",
+          "fr": "The church of St. Michael the Archangel was built in the second half of the 15th century, in the place of an older church. It is a log building of larch and fir, put together without nails and held by wooden pegs. The nave is only 7 by 8.3 metres. The tower, 15 metres high and built as a timber frame, was added in 1601. Since 2003 the church has been on the UNESCO World Heritage list, as one of the wooden churches of southern Małopolska.",
+          "it": "The church of St. Michael the Archangel was built in the second half of the 15th century, in the place of an older church. It is a log building of larch and fir, put together without nails and held by wooden pegs. The nave is only 7 by 8.3 metres. The tower, 15 metres high and built as a timber frame, was added in 1601. Since 2003 the church has been on the UNESCO World Heritage list, as one of the wooden churches of southern Małopolska.",
+          "nl": "The church of St. Michael the Archangel was built in the second half of the 15th century, in the place of an older church. It is a log building of larch and fir, put together without nails and held by wooden pegs. The nave is only 7 by 8.3 metres. The tower, 15 metres high and built as a timber frame, was added in 1601. Since 2003 the church has been on the UNESCO World Heritage list, as one of the wooden churches of southern Małopolska.",
+          "pl": "Kościół św. Michała Archanioła powstał w drugiej połowie XV wieku, w miejscu starszej świątyni. To budowla zrębowa z modrzewia i jodły, złożona bez gwoździ i spięta drewnianymi kołkami. Nawa ma tylko 7 na 8,3 metra. Wieżę o konstrukcji słupowej, wysoką na 15 metrów, dobudowano w 1601 roku. Od 2003 roku kościół jest na liście światowego dziedzictwa UNESCO, jako jeden z drewnianych kościołów południowej Małopolski.",
+          "cs": "The church of St. Michael the Archangel was built in the second half of the 15th century, in the place of an older church. It is a log building of larch and fir, put together without nails and held by wooden pegs. The nave is only 7 by 8.3 metres. The tower, 15 metres high and built as a timber frame, was added in 1601. Since 2003 the church has been on the UNESCO World Heritage list, as one of the wooden churches of southern Małopolska.",
+          "sk": "The church of St. Michael the Archangel was built in the second half of the 15th century, in the place of an older church. It is a log building of larch and fir, put together without nails and held by wooden pegs. The nave is only 7 by 8.3 metres. The tower, 15 metres high and built as a timber frame, was added in 1601. Since 2003 the church has been on the UNESCO World Heritage list, as one of the wooden churches of southern Małopolska.",
+          "ro": "The church of St. Michael the Archangel was built in the second half of the 15th century, in the place of an older church. It is a log building of larch and fir, put together without nails and held by wooden pegs. The nave is only 7 by 8.3 metres. The tower, 15 metres high and built as a timber frame, was added in 1601. Since 2003 the church has been on the UNESCO World Heritage list, as one of the wooden churches of southern Małopolska.",
+          "hu": "The church of St. Michael the Archangel was built in the second half of the 15th century, in the place of an older church. It is a log building of larch and fir, put together without nails and held by wooden pegs. The nave is only 7 by 8.3 metres. The tower, 15 metres high and built as a timber frame, was added in 1601. Since 2003 the church has been on the UNESCO World Heritage list, as one of the wooden churches of southern Małopolska.",
+          "da": "The church of St. Michael the Archangel was built in the second half of the 15th century, in the place of an older church. It is a log building of larch and fir, put together without nails and held by wooden pegs. The nave is only 7 by 8.3 metres. The tower, 15 metres high and built as a timber frame, was added in 1601. Since 2003 the church has been on the UNESCO World Heritage list, as one of the wooden churches of southern Małopolska."
+        },
+        {
+          "en": "It is still the parish church of the village, with mass on weekdays and Sundays, and visitors come between the services. When you step inside, you see that the walls and the ceiling are painted with patterns in many colours.",
+          "de": "It is still the parish church of the village, with mass on weekdays and Sundays, and visitors come between the services. When you step inside, you see that the walls and the ceiling are painted with patterns in many colours.",
+          "fr": "It is still the parish church of the village, with mass on weekdays and Sundays, and visitors come between the services. When you step inside, you see that the walls and the ceiling are painted with patterns in many colours.",
+          "it": "It is still the parish church of the village, with mass on weekdays and Sundays, and visitors come between the services. When you step inside, you see that the walls and the ceiling are painted with patterns in many colours.",
+          "nl": "It is still the parish church of the village, with mass on weekdays and Sundays, and visitors come between the services. When you step inside, you see that the walls and the ceiling are painted with patterns in many colours.",
+          "pl": "To nadal kościół parafialny wsi, z mszami w dni powszednie i w niedziele, a zwiedzający wchodzą między nabożeństwami. Kiedy staniesz w środku, zobaczysz ściany i strop pokryte wielobarwnymi wzorami.",
+          "cs": "It is still the parish church of the village, with mass on weekdays and Sundays, and visitors come between the services. When you step inside, you see that the walls and the ceiling are painted with patterns in many colours.",
+          "sk": "It is still the parish church of the village, with mass on weekdays and Sundays, and visitors come between the services. When you step inside, you see that the walls and the ceiling are painted with patterns in many colours.",
+          "ro": "It is still the parish church of the village, with mass on weekdays and Sundays, and visitors come between the services. When you step inside, you see that the walls and the ceiling are painted with patterns in many colours.",
+          "hu": "It is still the parish church of the village, with mass on weekdays and Sundays, and visitors come between the services. When you step inside, you see that the walls and the ceiling are painted with patterns in many colours.",
+          "da": "It is still the parish church of the village, with mass on weekdays and Sundays, and visitors come between the services. When you step inside, you see that the walls and the ceiling are painted with patterns in many colours."
+        }
+      ]
+    },
+    {
+      "id": "stamp",
+      "type": "text",
+      "label": {
+        "en": "The stamp",
+        "de": "The stamp",
+        "fr": "The stamp",
+        "it": "The stamp",
+        "nl": "The stamp",
+        "pl": "Znaczek",
+        "cs": "The stamp",
+        "sk": "The stamp",
+        "ro": "The stamp",
+        "hu": "The stamp",
+        "da": "The stamp"
+      },
+      "title": {
+        "en": "Monuments of architecture",
+        "de": "Monuments of architecture",
+        "fr": "Monuments of architecture",
+        "it": "Monuments of architecture",
+        "nl": "Monuments of architecture",
+        "pl": "Zabytki architektury",
+        "cs": "Monuments of architecture",
+        "sk": "Monuments of architecture",
+        "ro": "Monuments of architecture",
+        "hu": "Monuments of architecture",
+        "da": "Monuments of architecture"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/65b93476abe1d5f2/debno-interior.jpg",
+          "width": 2816,
+          "credit": "Andrzej Otrębski, CC BY-SA 3.0",
+          "height": 2112,
+          "caption": {
+            "en": "The painted ceiling and walls, with the triptych in the main altar.",
+            "de": "The painted ceiling and walls, with the triptych in the main altar.",
+            "fr": "The painted ceiling and walls, with the triptych in the main altar.",
+            "it": "The painted ceiling and walls, with the triptych in the main altar.",
+            "nl": "The painted ceiling and walls, with the triptych in the main altar.",
+            "pl": "Malowany strop i ściany, z tryptykiem w ołtarzu głównym.",
+            "cs": "The painted ceiling and walls, with the triptych in the main altar.",
+            "sk": "The painted ceiling and walls, with the triptych in the main altar.",
+            "ro": "The painted ceiling and walls, with the triptych in the main altar.",
+            "hu": "The painted ceiling and walls, with the triptych in the main altar.",
+            "da": "The painted ceiling and walls, with the triptych in the main altar."
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Debno_kosciol_4.jpg"
+        }
+      },
+      "buttons": [],
+      "paragraphs": [
+        {
+          "en": "The Polish post issued the stamp on 21 November 1977. It belongs to a set of six called \"Zabytki architektury\", monuments of architecture. The other five show the Wolin Gate in Kamień Pomorski, the monastery in Przasnysz, the cathedral in Płock, Kórnik Castle and Wilanów Palace.",
+          "de": "The Polish post issued the stamp on 21 November 1977. It belongs to a set of six called \"Zabytki architektury\", monuments of architecture. The other five show the Wolin Gate in Kamień Pomorski, the monastery in Przasnysz, the cathedral in Płock, Kórnik Castle and Wilanów Palace.",
+          "fr": "The Polish post issued the stamp on 21 November 1977. It belongs to a set of six called \"Zabytki architektury\", monuments of architecture. The other five show the Wolin Gate in Kamień Pomorski, the monastery in Przasnysz, the cathedral in Płock, Kórnik Castle and Wilanów Palace.",
+          "it": "The Polish post issued the stamp on 21 November 1977. It belongs to a set of six called \"Zabytki architektury\", monuments of architecture. The other five show the Wolin Gate in Kamień Pomorski, the monastery in Przasnysz, the cathedral in Płock, Kórnik Castle and Wilanów Palace.",
+          "nl": "The Polish post issued the stamp on 21 November 1977. It belongs to a set of six called \"Zabytki architektury\", monuments of architecture. The other five show the Wolin Gate in Kamień Pomorski, the monastery in Przasnysz, the cathedral in Płock, Kórnik Castle and Wilanów Palace.",
+          "pl": "Poczta Polska wprowadziła ten znaczek do obiegu 21 listopada 1977 roku. Należy do sześcioznaczkowej serii „Zabytki architektury”. Pozostałe pięć znaczków przedstawia Bramę Wolińską w Kamieniu Pomorskim, klasztor w Przasnyszu, katedrę w Płocku, zamek w Kórniku i pałac w Wilanowie.",
+          "cs": "The Polish post issued the stamp on 21 November 1977. It belongs to a set of six called \"Zabytki architektury\", monuments of architecture. The other five show the Wolin Gate in Kamień Pomorski, the monastery in Przasnysz, the cathedral in Płock, Kórnik Castle and Wilanów Palace.",
+          "sk": "The Polish post issued the stamp on 21 November 1977. It belongs to a set of six called \"Zabytki architektury\", monuments of architecture. The other five show the Wolin Gate in Kamień Pomorski, the monastery in Przasnysz, the cathedral in Płock, Kórnik Castle and Wilanów Palace.",
+          "ro": "The Polish post issued the stamp on 21 November 1977. It belongs to a set of six called \"Zabytki architektury\", monuments of architecture. The other five show the Wolin Gate in Kamień Pomorski, the monastery in Przasnysz, the cathedral in Płock, Kórnik Castle and Wilanów Palace.",
+          "hu": "The Polish post issued the stamp on 21 November 1977. It belongs to a set of six called \"Zabytki architektury\", monuments of architecture. The other five show the Wolin Gate in Kamień Pomorski, the monastery in Przasnysz, the cathedral in Płock, Kórnik Castle and Wilanów Palace.",
+          "da": "The Polish post issued the stamp on 21 November 1977. It belongs to a set of six called \"Zabytki architektury\", monuments of architecture. The other five show the Wolin Gate in Kamień Pomorski, the monastery in Przasnysz, the cathedral in Płock, Kórnik Castle and Wilanów Palace."
+        },
+        {
+          "en": "Jacek Brodowski designed the set, and PWPW printed it in rotogravure, in sheets of 50. The Dębno stamp had a print run of 10,590,000 and is perforated 11½ by 11¼, which you can check with a perforation gauge.",
+          "de": "Jacek Brodowski designed the set, and PWPW printed it in rotogravure, in sheets of 50. The Dębno stamp had a print run of 10,590,000 and is perforated 11½ by 11¼, which you can check with a perforation gauge.",
+          "fr": "Jacek Brodowski designed the set, and PWPW printed it in rotogravure, in sheets of 50. The Dębno stamp had a print run of 10,590,000 and is perforated 11½ by 11¼, which you can check with a perforation gauge.",
+          "it": "Jacek Brodowski designed the set, and PWPW printed it in rotogravure, in sheets of 50. The Dębno stamp had a print run of 10,590,000 and is perforated 11½ by 11¼, which you can check with a perforation gauge.",
+          "nl": "Jacek Brodowski designed the set, and PWPW printed it in rotogravure, in sheets of 50. The Dębno stamp had a print run of 10,590,000 and is perforated 11½ by 11¼, which you can check with a perforation gauge.",
+          "pl": "Serię zaprojektował Jacek Brodowski, a wydrukowała ją PWPW techniką rotograwiury, w arkuszach po 50 sztuk. Znaczek z Dębnem miał nakład 10 590 000 sztuk i ząbkowanie 11½ × 11¼, które możesz sprawdzić ząbkomierzem.",
+          "cs": "Jacek Brodowski designed the set, and PWPW printed it in rotogravure, in sheets of 50. The Dębno stamp had a print run of 10,590,000 and is perforated 11½ by 11¼, which you can check with a perforation gauge.",
+          "sk": "Jacek Brodowski designed the set, and PWPW printed it in rotogravure, in sheets of 50. The Dębno stamp had a print run of 10,590,000 and is perforated 11½ by 11¼, which you can check with a perforation gauge.",
+          "ro": "Jacek Brodowski designed the set, and PWPW printed it in rotogravure, in sheets of 50. The Dębno stamp had a print run of 10,590,000 and is perforated 11½ by 11¼, which you can check with a perforation gauge.",
+          "hu": "Jacek Brodowski designed the set, and PWPW printed it in rotogravure, in sheets of 50. The Dębno stamp had a print run of 10,590,000 and is perforated 11½ by 11¼, which you can check with a perforation gauge.",
+          "da": "Jacek Brodowski designed the set, and PWPW printed it in rotogravure, in sheets of 50. The Dębno stamp had a print run of 10,590,000 and is perforated 11½ by 11¼, which you can check with a perforation gauge."
+        }
+      ]
+    },
+    {
+      "id": "figures",
+      "type": "numbers",
+      "label": {
+        "en": "In figures",
+        "de": "In figures",
+        "fr": "In figures",
+        "it": "In figures",
+        "nl": "In figures",
+        "pl": "W liczbach",
+        "cs": "In figures",
+        "sk": "In figures",
+        "ro": "In figures",
+        "hu": "In figures",
+        "da": "In figures"
+      },
+      "title": {
+        "en": "The paintings",
+        "de": "The paintings",
+        "fr": "The paintings",
+        "it": "The paintings",
+        "nl": "The paintings",
+        "pl": "Malowidła",
+        "cs": "The paintings",
+        "sk": "The paintings",
+        "ro": "The paintings",
+        "hu": "The paintings",
+        "da": "The paintings"
+      },
+      "numbers": [
+        {
+          "text": {
+            "en": "Different motifs in the painted patterns, from plants and geometric shapes to people and animals.",
+            "de": "Different motifs in the painted patterns, from plants and geometric shapes to people and animals.",
+            "fr": "Different motifs in the painted patterns, from plants and geometric shapes to people and animals.",
+            "it": "Different motifs in the painted patterns, from plants and geometric shapes to people and animals.",
+            "nl": "Different motifs in the painted patterns, from plants and geometric shapes to people and animals.",
+            "pl": "Tyle różnych motywów mają malowane wzory, od roślin i figur geometrycznych po ludzi i zwierzęta.",
+            "cs": "Different motifs in the painted patterns, from plants and geometric shapes to people and animals.",
+            "sk": "Different motifs in the painted patterns, from plants and geometric shapes to people and animals.",
+            "ro": "Different motifs in the painted patterns, from plants and geometric shapes to people and animals.",
+            "hu": "Different motifs in the painted patterns, from plants and geometric shapes to people and animals.",
+            "da": "Different motifs in the painted patterns, from plants and geometric shapes to people and animals."
+          },
+          "title": {
+            "en": "Motifs",
+            "de": "Motifs",
+            "fr": "Motifs",
+            "it": "Motifs",
+            "nl": "Motifs",
+            "pl": "Motywy",
+            "cs": "Motifs",
+            "sk": "Motifs",
+            "ro": "Motifs",
+            "hu": "Motifs",
+            "da": "Motifs"
+          },
+          "value": "77"
+        },
+        {
+          "text": {
+            "en": "Colour variants of these motifs.",
+            "de": "Colour variants of these motifs.",
+            "fr": "Colour variants of these motifs.",
+            "it": "Colour variants of these motifs.",
+            "nl": "Colour variants of these motifs.",
+            "pl": "Tyle jest wariantów kolorystycznych tych motywów.",
+            "cs": "Colour variants of these motifs.",
+            "sk": "Colour variants of these motifs.",
+            "ro": "Colour variants of these motifs.",
+            "hu": "Colour variants of these motifs.",
+            "da": "Colour variants of these motifs."
+          },
+          "title": {
+            "en": "Colour variants",
+            "de": "Colour variants",
+            "fr": "Colour variants",
+            "it": "Colour variants",
+            "nl": "Colour variants",
+            "pl": "Warianty kolorystyczne",
+            "cs": "Colour variants",
+            "sk": "Colour variants",
+            "ro": "Colour variants",
+            "hu": "Colour variants",
+            "da": "Colour variants"
+          },
+          "value": "33"
+        },
+        {
+          "text": {
+            "en": "The year the wooden tower was added.",
+            "de": "The year the wooden tower was added.",
+            "fr": "The year the wooden tower was added.",
+            "it": "The year the wooden tower was added.",
+            "nl": "The year the wooden tower was added.",
+            "pl": "Rok dobudowania drewnianej wieży.",
+            "cs": "The year the wooden tower was added.",
+            "sk": "The year the wooden tower was added.",
+            "ro": "The year the wooden tower was added.",
+            "hu": "The year the wooden tower was added.",
+            "da": "The year the wooden tower was added."
+          },
+          "title": {
+            "en": "Tower",
+            "de": "Tower",
+            "fr": "Tower",
+            "it": "Tower",
+            "nl": "Tower",
+            "pl": "Wieża",
+            "cs": "Tower",
+            "sk": "Tower",
+            "ro": "Tower",
+            "hu": "Tower",
+            "da": "Tower"
+          },
+          "value": "1601"
+        },
+        {
+          "text": {
+            "en": "The year the church was added to the UNESCO World Heritage list.",
+            "de": "The year the church was added to the UNESCO World Heritage list.",
+            "fr": "The year the church was added to the UNESCO World Heritage list.",
+            "it": "The year the church was added to the UNESCO World Heritage list.",
+            "nl": "The year the church was added to the UNESCO World Heritage list.",
+            "pl": "Rok wpisania kościoła na listę światowego dziedzictwa UNESCO.",
+            "cs": "The year the church was added to the UNESCO World Heritage list.",
+            "sk": "The year the church was added to the UNESCO World Heritage list.",
+            "ro": "The year the church was added to the UNESCO World Heritage list.",
+            "hu": "The year the church was added to the UNESCO World Heritage list.",
+            "da": "The year the church was added to the UNESCO World Heritage list."
+          },
+          "title": {
+            "en": "UNESCO",
+            "de": "UNESCO",
+            "fr": "UNESCO",
+            "it": "UNESCO",
+            "nl": "UNESCO",
+            "pl": "UNESCO",
+            "cs": "UNESCO",
+            "sk": "UNESCO",
+            "ro": "UNESCO",
+            "hu": "UNESCO",
+            "da": "UNESCO"
+          },
+          "value": "2003"
+        }
+      ]
+    },
+    {
+      "id": "paintings",
+      "type": "wide-photo",
+      "image": {
+        "src": "https://assets.stampiq.io/blog/0c0f42fa3d07ffe4/debno-nave.jpg",
+        "width": 2048,
+        "credit": "Mimikla, CC BY-SA 3.0",
+        "height": 1536,
+        "caption": {
+          "en": "The painted walls and ceiling, with the main altar on the right.",
+          "de": "The painted walls and ceiling, with the main altar on the right.",
+          "fr": "The painted walls and ceiling, with the main altar on the right.",
+          "it": "The painted walls and ceiling, with the main altar on the right.",
+          "nl": "The painted walls and ceiling, with the main altar on the right.",
+          "pl": "Malowane ściany i strop, po prawej ołtarz główny.",
+          "cs": "The painted walls and ceiling, with the main altar on the right.",
+          "sk": "The painted walls and ceiling, with the main altar on the right.",
+          "ro": "The painted walls and ceiling, with the main altar on the right.",
+          "hu": "The painted walls and ceiling, with the main altar on the right.",
+          "da": "The painted walls and ceiling, with the main altar on the right."
+        },
+        "source_url": "https://commons.wikimedia.org/wiki/File:D%C4%99bno_Podhala%C5%84skie_Wn%C4%99trze_Ko%C5%9Bcio%C5%82a.jpg"
+      }
+    },
+    {
+      "id": "visit",
+      "type": "text",
+      "label": {
+        "en": "The visit",
+        "de": "The visit",
+        "fr": "The visit",
+        "it": "The visit",
+        "nl": "The visit",
+        "pl": "Zwiedzanie",
+        "cs": "The visit",
+        "sk": "The visit",
+        "ro": "The visit",
+        "hu": "The visit",
+        "da": "The visit"
+      },
+      "title": {
+        "en": "Inside the church",
+        "de": "Inside the church",
+        "fr": "Inside the church",
+        "it": "Inside the church",
+        "nl": "Inside the church",
+        "pl": "Wnętrze kościoła",
+        "cs": "Inside the church",
+        "sk": "Inside the church",
+        "ro": "Inside the church",
+        "hu": "Inside the church",
+        "da": "Inside the church"
+      },
+      "visual": {
+        "link": "https://www.google.com/maps/place/Parafia+św.+Michała+Archanioła+w+Dębnie/@49.4659278,20.2113733,17z/data=!3m1!4b1!4m6!3m5!1s0x4715f948d69d085d:0xfe425d71db3c4798!8m2!3d49.4659278!4d20.2113733!16s%2Fg%2F121y50vv?entry=ttu&g_ep=EgoyMDI2MDkyMS4wIKXMDSoASAFQAw%3D%3D",
+        "type": "map",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/5e894569889f9561/map-4458587175.jpg",
+          "width": 900,
+          "credit": "© OpenStreetMap contributors",
+          "height": 675,
+          "source_url": "https://www.openstreetmap.org/copyright"
+        },
+        "query": "Kościelna 42, 34-434 Dębno, Poland"
+      },
+      "paragraphs": [
+        {
+          "en": "The paintings date from around 1500. They were made with stencils, and the Medieval Heritage website describes them as the oldest fully preserved paintings of this kind. Look for the deer among the animals. In the main altar stands a triptych from the early 16th century with the Madonna, St. Michael with his scales and sword, and St. Catherine. The crucifix is from about 1380, and the church also keeps a painted Gothic tabernacle from the 14th century and a statue of St. Nicholas from 1420.",
+          "de": "The paintings date from around 1500. They were made with stencils, and the Medieval Heritage website describes them as the oldest fully preserved paintings of this kind. Look for the deer among the animals. In the main altar stands a triptych from the early 16th century with the Madonna, St. Michael with his scales and sword, and St. Catherine. The crucifix is from about 1380, and the church also keeps a painted Gothic tabernacle from the 14th century and a statue of St. Nicholas from 1420.",
+          "fr": "The paintings date from around 1500. They were made with stencils, and the Medieval Heritage website describes them as the oldest fully preserved paintings of this kind. Look for the deer among the animals. In the main altar stands a triptych from the early 16th century with the Madonna, St. Michael with his scales and sword, and St. Catherine. The crucifix is from about 1380, and the church also keeps a painted Gothic tabernacle from the 14th century and a statue of St. Nicholas from 1420.",
+          "it": "The paintings date from around 1500. They were made with stencils, and the Medieval Heritage website describes them as the oldest fully preserved paintings of this kind. Look for the deer among the animals. In the main altar stands a triptych from the early 16th century with the Madonna, St. Michael with his scales and sword, and St. Catherine. The crucifix is from about 1380, and the church also keeps a painted Gothic tabernacle from the 14th century and a statue of St. Nicholas from 1420.",
+          "nl": "The paintings date from around 1500. They were made with stencils, and the Medieval Heritage website describes them as the oldest fully preserved paintings of this kind. Look for the deer among the animals. In the main altar stands a triptych from the early 16th century with the Madonna, St. Michael with his scales and sword, and St. Catherine. The crucifix is from about 1380, and the church also keeps a painted Gothic tabernacle from the 14th century and a statue of St. Nicholas from 1420.",
+          "pl": "Malowidła pochodzą z około 1500 roku. Wykonano je przy użyciu szablonów, a serwis Medieval Heritage opisuje je jako najstarsze w pełni zachowane malowidła tego rodzaju. Poszukaj jelenia wśród zwierząt. W ołtarzu głównym stoi tryptyk z początku XVI wieku z Madonną, św. Michałem z wagą i mieczem oraz św. Katarzyną. Krucyfiks pochodzi z około 1380 roku, a w kościele zachowały się też malowane gotyckie tabernakulum z XIV wieku i figura św. Mikołaja z 1420 roku.",
+          "cs": "The paintings date from around 1500. They were made with stencils, and the Medieval Heritage website describes them as the oldest fully preserved paintings of this kind. Look for the deer among the animals. In the main altar stands a triptych from the early 16th century with the Madonna, St. Michael with his scales and sword, and St. Catherine. The crucifix is from about 1380, and the church also keeps a painted Gothic tabernacle from the 14th century and a statue of St. Nicholas from 1420.",
+          "sk": "The paintings date from around 1500. They were made with stencils, and the Medieval Heritage website describes them as the oldest fully preserved paintings of this kind. Look for the deer among the animals. In the main altar stands a triptych from the early 16th century with the Madonna, St. Michael with his scales and sword, and St. Catherine. The crucifix is from about 1380, and the church also keeps a painted Gothic tabernacle from the 14th century and a statue of St. Nicholas from 1420.",
+          "ro": "The paintings date from around 1500. They were made with stencils, and the Medieval Heritage website describes them as the oldest fully preserved paintings of this kind. Look for the deer among the animals. In the main altar stands a triptych from the early 16th century with the Madonna, St. Michael with his scales and sword, and St. Catherine. The crucifix is from about 1380, and the church also keeps a painted Gothic tabernacle from the 14th century and a statue of St. Nicholas from 1420.",
+          "hu": "The paintings date from around 1500. They were made with stencils, and the Medieval Heritage website describes them as the oldest fully preserved paintings of this kind. Look for the deer among the animals. In the main altar stands a triptych from the early 16th century with the Madonna, St. Michael with his scales and sword, and St. Catherine. The crucifix is from about 1380, and the church also keeps a painted Gothic tabernacle from the 14th century and a statue of St. Nicholas from 1420.",
+          "da": "The paintings date from around 1500. They were made with stencils, and the Medieval Heritage website describes them as the oldest fully preserved paintings of this kind. Look for the deer among the animals. In the main altar stands a triptych from the early 16th century with the Madonna, St. Michael with his scales and sword, and St. Catherine. The crucifix is from about 1380, and the church also keeps a painted Gothic tabernacle from the 14th century and a statue of St. Nicholas from 1420."
+        },
+        {
+          "en": "The church is closed on rainy days, because damp air is dangerous for the paintings, so check the weather before you leave. It is also closed during mass: on weekdays in September and October mass is at 18:00, on Tuesdays also at 7:00, and on Sundays at 8:00 and 11:00. Flash photography is not allowed.",
+          "de": "The church is closed on rainy days, because damp air is dangerous for the paintings, so check the weather before you leave. It is also closed during mass: on weekdays in September and October mass is at 18:00, on Tuesdays also at 7:00, and on Sundays at 8:00 and 11:00. Flash photography is not allowed.",
+          "fr": "The church is closed on rainy days, because damp air is dangerous for the paintings, so check the weather before you leave. It is also closed during mass: on weekdays in September and October mass is at 18:00, on Tuesdays also at 7:00, and on Sundays at 8:00 and 11:00. Flash photography is not allowed.",
+          "it": "The church is closed on rainy days, because damp air is dangerous for the paintings, so check the weather before you leave. It is also closed during mass: on weekdays in September and October mass is at 18:00, on Tuesdays also at 7:00, and on Sundays at 8:00 and 11:00. Flash photography is not allowed.",
+          "nl": "The church is closed on rainy days, because damp air is dangerous for the paintings, so check the weather before you leave. It is also closed during mass: on weekdays in September and October mass is at 18:00, on Tuesdays also at 7:00, and on Sundays at 8:00 and 11:00. Flash photography is not allowed.",
+          "pl": "W deszczowe dni kościół jest zamknięty, bo wilgotne powietrze szkodzi malowidłom, więc przed wyjazdem sprawdź pogodę. Zamknięty jest też w czasie mszy: we wrześniu i październiku w dni powszednie msza jest o 18:00, we wtorki dodatkowo o 7:00, a w niedziele o 8:00 i 11:00. Nie wolno robić zdjęć z lampą błyskową.",
+          "cs": "The church is closed on rainy days, because damp air is dangerous for the paintings, so check the weather before you leave. It is also closed during mass: on weekdays in September and October mass is at 18:00, on Tuesdays also at 7:00, and on Sundays at 8:00 and 11:00. Flash photography is not allowed.",
+          "sk": "The church is closed on rainy days, because damp air is dangerous for the paintings, so check the weather before you leave. It is also closed during mass: on weekdays in September and October mass is at 18:00, on Tuesdays also at 7:00, and on Sundays at 8:00 and 11:00. Flash photography is not allowed.",
+          "ro": "The church is closed on rainy days, because damp air is dangerous for the paintings, so check the weather before you leave. It is also closed during mass: on weekdays in September and October mass is at 18:00, on Tuesdays also at 7:00, and on Sundays at 8:00 and 11:00. Flash photography is not allowed.",
+          "hu": "The church is closed on rainy days, because damp air is dangerous for the paintings, so check the weather before you leave. It is also closed during mass: on weekdays in September and October mass is at 18:00, on Tuesdays also at 7:00, and on Sundays at 8:00 and 11:00. Flash photography is not allowed.",
+          "da": "The church is closed on rainy days, because damp air is dangerous for the paintings, so check the weather before you leave. It is also closed during mass: on weekdays in September and October mass is at 18:00, on Tuesdays also at 7:00, and on Sundays at 8:00 and 11:00. Flash photography is not allowed."
+        },
+        {
+          "en": "Entry is free, and the parish asks for a donation for the conservation of the church. Guided visits can be arranged by phone. After 31 October the church can only be visited by appointment.",
+          "de": "Entry is free, and the parish asks for a donation for the conservation of the church. Guided visits can be arranged by phone. After 31 October the church can only be visited by appointment.",
+          "fr": "Entry is free, and the parish asks for a donation for the conservation of the church. Guided visits can be arranged by phone. After 31 October the church can only be visited by appointment.",
+          "it": "Entry is free, and the parish asks for a donation for the conservation of the church. Guided visits can be arranged by phone. After 31 October the church can only be visited by appointment.",
+          "nl": "Entry is free, and the parish asks for a donation for the conservation of the church. Guided visits can be arranged by phone. After 31 October the church can only be visited by appointment.",
+          "pl": "Wstęp jest bezpłatny, parafia prosi o datek na konserwację kościoła. Zwiedzanie z przewodnikiem można umówić telefonicznie. Po 31 października kościół zwiedza się tylko po wcześniejszym umówieniu.",
+          "cs": "Entry is free, and the parish asks for a donation for the conservation of the church. Guided visits can be arranged by phone. After 31 October the church can only be visited by appointment.",
+          "sk": "Entry is free, and the parish asks for a donation for the conservation of the church. Guided visits can be arranged by phone. After 31 October the church can only be visited by appointment.",
+          "ro": "Entry is free, and the parish asks for a donation for the conservation of the church. Guided visits can be arranged by phone. After 31 October the church can only be visited by appointment.",
+          "hu": "Entry is free, and the parish asks for a donation for the conservation of the church. Guided visits can be arranged by phone. After 31 October the church can only be visited by appointment.",
+          "da": "Entry is free, and the parish asks for a donation for the conservation of the church. Guided visits can be arranged by phone. After 31 October the church can only be visited by appointment."
+        }
+      ]
+    },
+    {
+      "id": "practical",
+      "rows": [
+        {
+          "label": {
+            "en": "Address",
+            "de": "Address",
+            "fr": "Address",
+            "it": "Address",
+            "nl": "Address",
+            "pl": "Adres",
+            "cs": "Address",
+            "sk": "Address",
+            "ro": "Address",
+            "hu": "Address",
+            "da": "Address"
+          },
+          "value": {
+            "en": "ul. Kościelna 42, 34-434 Dębno",
+            "de": "ul. Kościelna 42, 34-434 Dębno",
+            "fr": "ul. Kościelna 42, 34-434 Dębno",
+            "it": "ul. Kościelna 42, 34-434 Dębno",
+            "nl": "ul. Kościelna 42, 34-434 Dębno",
+            "pl": "ul. Kościelna 42, 34-434 Dębno",
+            "cs": "ul. Kościelna 42, 34-434 Dębno",
+            "sk": "ul. Kościelna 42, 34-434 Dębno",
+            "ro": "ul. Kościelna 42, 34-434 Dębno",
+            "hu": "ul. Kościelna 42, 34-434 Dębno",
+            "da": "ul. Kościelna 42, 34-434 Dębno"
+          }
+        },
+        {
+          "label": {
+            "en": "Season",
+            "de": "Season",
+            "fr": "Season",
+            "it": "Season",
+            "nl": "Season",
+            "pl": "Sezon",
+            "cs": "Season",
+            "sk": "Season",
+            "ro": "Season",
+            "hu": "Season",
+            "da": "Season"
+          },
+          "value": {
+            "en": "1 May to 31 October",
+            "de": "1 May to 31 October",
+            "fr": "1 May to 31 October",
+            "it": "1 May to 31 October",
+            "nl": "1 May to 31 October",
+            "pl": "od 1 maja do 31 października",
+            "cs": "1 May to 31 October",
+            "sk": "1 May to 31 October",
+            "ro": "1 May to 31 October",
+            "hu": "1 May to 31 October",
+            "da": "1 May to 31 October"
+          }
+        },
+        {
+          "label": {
+            "en": "Monday to Friday",
+            "de": "Monday to Friday",
+            "fr": "Monday to Friday",
+            "it": "Monday to Friday",
+            "nl": "Monday to Friday",
+            "pl": "Poniedziałek do piątku",
+            "cs": "Monday to Friday",
+            "sk": "Monday to Friday",
+            "ro": "Monday to Friday",
+            "hu": "Monday to Friday",
+            "da": "Monday to Friday"
+          },
+          "value": {
+            "en": "9:00 to 12:00 and 13:00 to 17:00",
+            "de": "9:00 to 12:00 and 13:00 to 17:00",
+            "fr": "9:00 to 12:00 and 13:00 to 17:00",
+            "it": "9:00 to 12:00 and 13:00 to 17:00",
+            "nl": "9:00 to 12:00 and 13:00 to 17:00",
+            "pl": "9:00 do 12:00 i 13:00 do 17:00",
+            "cs": "9:00 to 12:00 and 13:00 to 17:00",
+            "sk": "9:00 to 12:00 and 13:00 to 17:00",
+            "ro": "9:00 to 12:00 and 13:00 to 17:00",
+            "hu": "9:00 to 12:00 and 13:00 to 17:00",
+            "da": "9:00 to 12:00 and 13:00 to 17:00"
+          }
+        },
+        {
+          "label": {
+            "en": "Saturday",
+            "de": "Saturday",
+            "fr": "Saturday",
+            "it": "Saturday",
+            "nl": "Saturday",
+            "pl": "Sobota",
+            "cs": "Saturday",
+            "sk": "Saturday",
+            "ro": "Saturday",
+            "hu": "Saturday",
+            "da": "Saturday"
+          },
+          "value": {
+            "en": "9:00 to 12:00",
+            "de": "9:00 to 12:00",
+            "fr": "9:00 to 12:00",
+            "it": "9:00 to 12:00",
+            "nl": "9:00 to 12:00",
+            "pl": "9:00 do 12:00",
+            "cs": "9:00 to 12:00",
+            "sk": "9:00 to 12:00",
+            "ro": "9:00 to 12:00",
+            "hu": "9:00 to 12:00",
+            "da": "9:00 to 12:00"
+          }
+        },
+        {
+          "label": {
+            "en": "Sunday",
+            "de": "Sunday",
+            "fr": "Sunday",
+            "it": "Sunday",
+            "nl": "Sunday",
+            "pl": "Niedziela",
+            "cs": "Sunday",
+            "sk": "Sunday",
+            "ro": "Sunday",
+            "hu": "Sunday",
+            "da": "Sunday"
+          },
+          "value": {
+            "en": "12:00 to 17:00",
+            "de": "12:00 to 17:00",
+            "fr": "12:00 to 17:00",
+            "it": "12:00 to 17:00",
+            "nl": "12:00 to 17:00",
+            "pl": "12:00 do 17:00",
+            "cs": "12:00 to 17:00",
+            "sk": "12:00 to 17:00",
+            "ro": "12:00 to 17:00",
+            "hu": "12:00 to 17:00",
+            "da": "12:00 to 17:00"
+          }
+        },
+        {
+          "label": {
+            "en": "Closed",
+            "de": "Closed",
+            "fr": "Closed",
+            "it": "Closed",
+            "nl": "Closed",
+            "pl": "Zamknięte",
+            "cs": "Closed",
+            "sk": "Closed",
+            "ro": "Closed",
+            "hu": "Closed",
+            "da": "Closed"
+          },
+          "value": {
+            "en": "On rainy days, and during mass",
+            "de": "On rainy days, and during mass",
+            "fr": "On rainy days, and during mass",
+            "it": "On rainy days, and during mass",
+            "nl": "On rainy days, and during mass",
+            "pl": "W deszczowe dni i w czasie mszy",
+            "cs": "On rainy days, and during mass",
+            "sk": "On rainy days, and during mass",
+            "ro": "On rainy days, and during mass",
+            "hu": "On rainy days, and during mass",
+            "da": "On rainy days, and during mass"
+          }
+        },
+        {
+          "label": {
+            "en": "Entry",
+            "de": "Entry",
+            "fr": "Entry",
+            "it": "Entry",
+            "nl": "Entry",
+            "pl": "Wstęp",
+            "cs": "Entry",
+            "sk": "Entry",
+            "ro": "Entry",
+            "hu": "Entry",
+            "da": "Entry"
+          },
+          "value": {
+            "en": "Free, donation for conservation",
+            "de": "Free, donation for conservation",
+            "fr": "Free, donation for conservation",
+            "it": "Free, donation for conservation",
+            "nl": "Free, donation for conservation",
+            "pl": "Bezpłatny, datek na konserwację",
+            "cs": "Free, donation for conservation",
+            "sk": "Free, donation for conservation",
+            "ro": "Free, donation for conservation",
+            "hu": "Free, donation for conservation",
+            "da": "Free, donation for conservation"
+          }
+        },
+        {
+          "label": {
+            "en": "Guided visits",
+            "de": "Guided visits",
+            "fr": "Guided visits",
+            "it": "Guided visits",
+            "nl": "Guided visits",
+            "pl": "Zwiedzanie z przewodnikiem",
+            "cs": "Guided visits",
+            "sk": "Guided visits",
+            "ro": "Guided visits",
+            "hu": "Guided visits",
+            "da": "Guided visits"
+          },
+          "value": {
+            "en": "By phone, +48 519 079 871; outside the season by appointment only",
+            "de": "By phone, +48 519 079 871; outside the season by appointment only",
+            "fr": "By phone, +48 519 079 871; outside the season by appointment only",
+            "it": "By phone, +48 519 079 871; outside the season by appointment only",
+            "nl": "By phone, +48 519 079 871; outside the season by appointment only",
+            "pl": "Telefonicznie, +48 519 079 871; poza sezonem tylko po umówieniu",
+            "cs": "By phone, +48 519 079 871; outside the season by appointment only",
+            "sk": "By phone, +48 519 079 871; outside the season by appointment only",
+            "ro": "By phone, +48 519 079 871; outside the season by appointment only",
+            "hu": "By phone, +48 519 079 871; outside the season by appointment only",
+            "da": "By phone, +48 519 079 871; outside the season by appointment only"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "Practical",
+        "de": "Practical",
+        "fr": "Practical",
+        "it": "Practical",
+        "nl": "Practical",
+        "pl": "Praktycznie",
+        "cs": "Practical",
+        "sk": "Practical",
+        "ro": "Practical",
+        "hu": "Practical",
+        "da": "Practical"
+      },
+      "title": {
+        "en": "What you need to know",
+        "de": "What you need to know",
+        "fr": "What you need to know",
+        "it": "What you need to know",
+        "nl": "What you need to know",
+        "pl": "Co warto wiedzieć",
+        "cs": "What you need to know",
+        "sk": "What you need to know",
+        "ro": "What you need to know",
+        "hu": "What you need to know",
+        "da": "What you need to know"
+      },
+      "buttons": [
+        {
+          "href": "https://debno-podhalanskie.pl/page/zwiedzanie-kosciola",
+          "label": {
+            "en": "Parish website",
+            "de": "Parish website",
+            "fr": "Parish website",
+            "it": "Parish website",
+            "nl": "Parish website",
+            "pl": "Strona parafii",
+            "cs": "Parish website",
+            "sk": "Parish website",
+            "ro": "Parish website",
+            "hu": "Parish website",
+            "da": "Parish website"
+          }
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "type": "tiles",
+      "label": {
+        "en": "How to get there",
+        "de": "How to get there",
+        "fr": "How to get there",
+        "it": "How to get there",
+        "nl": "How to get there",
+        "pl": "Dojazd",
+        "cs": "How to get there",
+        "sk": "How to get there",
+        "ro": "How to get there",
+        "hu": "How to get there",
+        "da": "How to get there"
+      },
+      "tiles": [
+        {
+          "icon": "car",
+          "text": {
+            "en": "It is 44 kilometres through Nowy Targ, or 40 kilometres through Bukowina Tatrzańska and Białka, about 50 minutes.",
+            "de": "It is 44 kilometres through Nowy Targ, or 40 kilometres through Bukowina Tatrzańska and Białka, about 50 minutes.",
+            "fr": "It is 44 kilometres through Nowy Targ, or 40 kilometres through Bukowina Tatrzańska and Białka, about 50 minutes.",
+            "it": "It is 44 kilometres through Nowy Targ, or 40 kilometres through Bukowina Tatrzańska and Białka, about 50 minutes.",
+            "nl": "It is 44 kilometres through Nowy Targ, or 40 kilometres through Bukowina Tatrzańska and Białka, about 50 minutes.",
+            "pl": "Przez Nowy Targ jest 44 kilometry, przez Bukowinę Tatrzańską i Białkę 40 kilometrów, około 50 minut.",
+            "cs": "It is 44 kilometres through Nowy Targ, or 40 kilometres through Bukowina Tatrzańska and Białka, about 50 minutes.",
+            "sk": "It is 44 kilometres through Nowy Targ, or 40 kilometres through Bukowina Tatrzańska and Białka, about 50 minutes.",
+            "ro": "It is 44 kilometres through Nowy Targ, or 40 kilometres through Bukowina Tatrzańska and Białka, about 50 minutes.",
+            "hu": "It is 44 kilometres through Nowy Targ, or 40 kilometres through Bukowina Tatrzańska and Białka, about 50 minutes.",
+            "da": "It is 44 kilometres through Nowy Targ, or 40 kilometres through Bukowina Tatrzańska and Białka, about 50 minutes."
+          },
+          "title": {
+            "en": "From Zakopane by car",
+            "de": "From Zakopane by car",
+            "fr": "From Zakopane by car",
+            "it": "From Zakopane by car",
+            "nl": "From Zakopane by car",
+            "pl": "Z Zakopanego samochodem",
+            "cs": "From Zakopane by car",
+            "sk": "From Zakopane by car",
+            "ro": "From Zakopane by car",
+            "hu": "From Zakopane by car",
+            "da": "From Zakopane by car"
+          }
+        },
+        {
+          "icon": "car",
+          "text": {
+            "en": "It is 92 kilometres, on the S7 to Nowy Targ and then east on road 969, about an hour and a half.",
+            "de": "It is 92 kilometres, on the S7 to Nowy Targ and then east on road 969, about an hour and a half.",
+            "fr": "It is 92 kilometres, on the S7 to Nowy Targ and then east on road 969, about an hour and a half.",
+            "it": "It is 92 kilometres, on the S7 to Nowy Targ and then east on road 969, about an hour and a half.",
+            "nl": "It is 92 kilometres, on the S7 to Nowy Targ and then east on road 969, about an hour and a half.",
+            "pl": "To 92 kilometry, drogą S7 do Nowego Targu i dalej na wschód drogą 969, około półtorej godziny.",
+            "cs": "It is 92 kilometres, on the S7 to Nowy Targ and then east on road 969, about an hour and a half.",
+            "sk": "It is 92 kilometres, on the S7 to Nowy Targ and then east on road 969, about an hour and a half.",
+            "ro": "It is 92 kilometres, on the S7 to Nowy Targ and then east on road 969, about an hour and a half.",
+            "hu": "It is 92 kilometres, on the S7 to Nowy Targ and then east on road 969, about an hour and a half.",
+            "da": "It is 92 kilometres, on the S7 to Nowy Targ and then east on road 969, about an hour and a half."
+          },
+          "title": {
+            "en": "From Kraków by car",
+            "de": "From Kraków by car",
+            "fr": "From Kraków by car",
+            "it": "From Kraków by car",
+            "nl": "From Kraków by car",
+            "pl": "Z Krakowa samochodem",
+            "cs": "From Kraków by car",
+            "sk": "From Kraków by car",
+            "ro": "From Kraków by car",
+            "hu": "From Kraków by car",
+            "da": "From Kraków by car"
+          }
+        },
+        {
+          "icon": "pin",
+          "text": {
+            "en": "FlixBus runs from Kraków MDA to Nowy Targ in about 1 hour 10 minutes, and a local line runs from Nowy Targ through Dębno towards Niedzica; the timetable is on transit.podhale.pl.",
+            "de": "FlixBus runs from Kraków MDA to Nowy Targ in about 1 hour 10 minutes, and a local line runs from Nowy Targ through Dębno towards Niedzica; the timetable is on transit.podhale.pl.",
+            "fr": "FlixBus runs from Kraków MDA to Nowy Targ in about 1 hour 10 minutes, and a local line runs from Nowy Targ through Dębno towards Niedzica; the timetable is on transit.podhale.pl.",
+            "it": "FlixBus runs from Kraków MDA to Nowy Targ in about 1 hour 10 minutes, and a local line runs from Nowy Targ through Dębno towards Niedzica; the timetable is on transit.podhale.pl.",
+            "nl": "FlixBus runs from Kraków MDA to Nowy Targ in about 1 hour 10 minutes, and a local line runs from Nowy Targ through Dębno towards Niedzica; the timetable is on transit.podhale.pl.",
+            "pl": "FlixBus jedzie z dworca Kraków MDA do Nowego Targu około 1 godziny 10 minut, a lokalna linia z Nowego Targu przez Dębno w stronę Niedzicy ma rozkład na transit.podhale.pl.",
+            "cs": "FlixBus runs from Kraków MDA to Nowy Targ in about 1 hour 10 minutes, and a local line runs from Nowy Targ through Dębno towards Niedzica; the timetable is on transit.podhale.pl.",
+            "sk": "FlixBus runs from Kraków MDA to Nowy Targ in about 1 hour 10 minutes, and a local line runs from Nowy Targ through Dębno towards Niedzica; the timetable is on transit.podhale.pl.",
+            "ro": "FlixBus runs from Kraków MDA to Nowy Targ in about 1 hour 10 minutes, and a local line runs from Nowy Targ through Dębno towards Niedzica; the timetable is on transit.podhale.pl.",
+            "hu": "FlixBus runs from Kraków MDA to Nowy Targ in about 1 hour 10 minutes, and a local line runs from Nowy Targ through Dębno towards Niedzica; the timetable is on transit.podhale.pl.",
+            "da": "FlixBus runs from Kraków MDA to Nowy Targ in about 1 hour 10 minutes, and a local line runs from Nowy Targ through Dębno towards Niedzica; the timetable is on transit.podhale.pl."
+          },
+          "title": {
+            "en": "By bus",
+            "de": "By bus",
+            "fr": "By bus",
+            "it": "By bus",
+            "nl": "By bus",
+            "pl": "Autobusem",
+            "cs": "By bus",
+            "sk": "By bus",
+            "ro": "By bus",
+            "hu": "By bus",
+            "da": "By bus"
+          }
+        }
+      ],
+      "title": {
+        "en": "From Zakopane or Kraków",
+        "de": "From Zakopane or Kraków",
+        "fr": "From Zakopane or Kraków",
+        "it": "From Zakopane or Kraków",
+        "nl": "From Zakopane or Kraków",
+        "pl": "Z Zakopanego albo z Krakowa",
+        "cs": "From Zakopane or Kraków",
+        "sk": "From Zakopane or Kraków",
+        "ro": "From Zakopane or Kraków",
+        "hu": "From Zakopane or Kraków",
+        "da": "From Zakopane or Kraków"
+      }
+    },
+    {
+      "id": "after",
+      "type": "text",
+      "label": {
+        "en": "Afterwards",
+        "de": "Afterwards",
+        "fr": "Afterwards",
+        "it": "Afterwards",
+        "nl": "Afterwards",
+        "pl": "Potem",
+        "cs": "Afterwards",
+        "sk": "Afterwards",
+        "ro": "Afterwards",
+        "hu": "Afterwards",
+        "da": "Afterwards"
+      },
+      "title": {
+        "en": "Along the lake to Niedzica",
+        "de": "Along the lake to Niedzica",
+        "fr": "Along the lake to Niedzica",
+        "it": "Along the lake to Niedzica",
+        "nl": "Along the lake to Niedzica",
+        "pl": "Brzegiem jeziora do Niedzicy",
+        "cs": "Along the lake to Niedzica",
+        "sk": "Along the lake to Niedzica",
+        "ro": "Along the lake to Niedzica",
+        "hu": "Along the lake to Niedzica",
+        "da": "Along the lake to Niedzica"
+      },
+      "visual": {
+        "type": "phone",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/9a6abe1c3e93296d/map-czorsztyn-castle.png",
+          "width": 1290,
+          "height": 2796
+        }
+      },
+      "buttons": [],
+      "paragraphs": [
+        {
+          "en": "From Dębno the Velo Dunajec cycle path follows the south shore of Lake Czorsztyn to Niedzica, about 15 kilometres. On the way you see the ruins of Czorsztyn Castle, and Niedzica Castle is in the village at the end of the path. From Niedzica it is about 15 kilometres further to Sromowce Wyżne-Kąty, where the rafting trips on the Dunajec start.",
+          "de": "From Dębno the Velo Dunajec cycle path follows the south shore of Lake Czorsztyn to Niedzica, about 15 kilometres. On the way you see the ruins of Czorsztyn Castle, and Niedzica Castle is in the village at the end of the path. From Niedzica it is about 15 kilometres further to Sromowce Wyżne-Kąty, where the rafting trips on the Dunajec start.",
+          "fr": "From Dębno the Velo Dunajec cycle path follows the south shore of Lake Czorsztyn to Niedzica, about 15 kilometres. On the way you see the ruins of Czorsztyn Castle, and Niedzica Castle is in the village at the end of the path. From Niedzica it is about 15 kilometres further to Sromowce Wyżne-Kąty, where the rafting trips on the Dunajec start.",
+          "it": "From Dębno the Velo Dunajec cycle path follows the south shore of Lake Czorsztyn to Niedzica, about 15 kilometres. On the way you see the ruins of Czorsztyn Castle, and Niedzica Castle is in the village at the end of the path. From Niedzica it is about 15 kilometres further to Sromowce Wyżne-Kąty, where the rafting trips on the Dunajec start.",
+          "nl": "From Dębno the Velo Dunajec cycle path follows the south shore of Lake Czorsztyn to Niedzica, about 15 kilometres. On the way you see the ruins of Czorsztyn Castle, and Niedzica Castle is in the village at the end of the path. From Niedzica it is about 15 kilometres further to Sromowce Wyżne-Kąty, where the rafting trips on the Dunajec start.",
+          "pl": "Z Dębna trasa rowerowa Velo Dunajec biegnie południowym brzegiem Jeziora Czorsztyńskiego do Niedzicy, około 15 kilometrów. Po drodze widać ruiny zamku w Czorsztynie, a zamek w Niedzicy stoi we wsi na końcu trasy. Z Niedzicy jest jeszcze około 15 kilometrów do Sromowiec Wyżnych-Kątów, skąd wyruszają spływy Dunajcem.",
+          "cs": "From Dębno the Velo Dunajec cycle path follows the south shore of Lake Czorsztyn to Niedzica, about 15 kilometres. On the way you see the ruins of Czorsztyn Castle, and Niedzica Castle is in the village at the end of the path. From Niedzica it is about 15 kilometres further to Sromowce Wyżne-Kąty, where the rafting trips on the Dunajec start.",
+          "sk": "From Dębno the Velo Dunajec cycle path follows the south shore of Lake Czorsztyn to Niedzica, about 15 kilometres. On the way you see the ruins of Czorsztyn Castle, and Niedzica Castle is in the village at the end of the path. From Niedzica it is about 15 kilometres further to Sromowce Wyżne-Kąty, where the rafting trips on the Dunajec start.",
+          "ro": "From Dębno the Velo Dunajec cycle path follows the south shore of Lake Czorsztyn to Niedzica, about 15 kilometres. On the way you see the ruins of Czorsztyn Castle, and Niedzica Castle is in the village at the end of the path. From Niedzica it is about 15 kilometres further to Sromowce Wyżne-Kąty, where the rafting trips on the Dunajec start.",
+          "hu": "From Dębno the Velo Dunajec cycle path follows the south shore of Lake Czorsztyn to Niedzica, about 15 kilometres. On the way you see the ruins of Czorsztyn Castle, and Niedzica Castle is in the village at the end of the path. From Niedzica it is about 15 kilometres further to Sromowce Wyżne-Kąty, where the rafting trips on the Dunajec start.",
+          "da": "From Dębno the Velo Dunajec cycle path follows the south shore of Lake Czorsztyn to Niedzica, about 15 kilometres. On the way you see the ruins of Czorsztyn Castle, and Niedzica Castle is in the village at the end of the path. From Niedzica it is about 15 kilometres further to Sromowce Wyżne-Kąty, where the rafting trips on the Dunajec start."
+        },
+        {
+          "en": "Both castles are on Polish stamps as well, Czorsztyn from 1935 and 2025, Niedzica from 1952, 1969 and 1971. If you open the map in StampIQ on the way, you see them on their pins, with the badge that tells you which of them you already have.",
+          "de": "Both castles are on Polish stamps as well, Czorsztyn from 1935 and 2025, Niedzica from 1952, 1969 and 1971. If you open the map in StampIQ on the way, you see them on their pins, with the badge that tells you which of them you already have.",
+          "fr": "Both castles are on Polish stamps as well, Czorsztyn from 1935 and 2025, Niedzica from 1952, 1969 and 1971. If you open the map in StampIQ on the way, you see them on their pins, with the badge that tells you which of them you already have.",
+          "it": "Both castles are on Polish stamps as well, Czorsztyn from 1935 and 2025, Niedzica from 1952, 1969 and 1971. If you open the map in StampIQ on the way, you see them on their pins, with the badge that tells you which of them you already have.",
+          "nl": "Both castles are on Polish stamps as well, Czorsztyn from 1935 and 2025, Niedzica from 1952, 1969 and 1971. If you open the map in StampIQ on the way, you see them on their pins, with the badge that tells you which of them you already have.",
+          "pl": "Oba zamki też są na polskich znaczkach: Czorsztyn z 1935 i 2025 roku, Niedzica z 1952, 1969 i 1971 roku. Jeśli po drodze otworzysz Mapę w StampIQ, zobaczysz je na pinezkach, razem z oznaczeniem, które z nich już masz.",
+          "cs": "Both castles are on Polish stamps as well, Czorsztyn from 1935 and 2025, Niedzica from 1952, 1969 and 1971. If you open the map in StampIQ on the way, you see them on their pins, with the badge that tells you which of them you already have.",
+          "sk": "Both castles are on Polish stamps as well, Czorsztyn from 1935 and 2025, Niedzica from 1952, 1969 and 1971. If you open the map in StampIQ on the way, you see them on their pins, with the badge that tells you which of them you already have.",
+          "ro": "Both castles are on Polish stamps as well, Czorsztyn from 1935 and 2025, Niedzica from 1952, 1969 and 1971. If you open the map in StampIQ on the way, you see them on their pins, with the badge that tells you which of them you already have.",
+          "hu": "Both castles are on Polish stamps as well, Czorsztyn from 1935 and 2025, Niedzica from 1952, 1969 and 1971. If you open the map in StampIQ on the way, you see them on their pins, with the badge that tells you which of them you already have.",
+          "da": "Both castles are on Polish stamps as well, Czorsztyn from 1935 and 2025, Niedzica from 1952, 1969 and 1971. If you open the map in StampIQ on the way, you see them on their pins, with the badge that tells you which of them you already have."
+        }
+      ]
+    }
+  ]
+}
