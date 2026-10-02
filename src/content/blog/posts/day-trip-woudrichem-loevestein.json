@@ -1,0 +1,1066 @@
+{
+  "category": "day-trips",
+  "markets": [
+    "NL",
+    "BE",
+    "LU"
+  ],
+  "langs": [
+    "en",
+    "de",
+    "fr",
+    "nl"
+  ],
+  "published_at": "2026-10-02T10:00:00+00:00",
+  "thumbnail": {
+    "src": "https://assets.stampiq.io/blog/74086502d8acdbf0/wd-harbour.jpg",
+    "width": 2400,
+    "height": 1490
+  },
+  "languages": {
+    "en": {
+      "slug": "day-trip-woudrichem-loevestein",
+      "title": "Day trip: Woudrichem and Slot Loevestein",
+      "description": "A 1983 stamp of Hugo de Groot leads to Slot Loevestein, where he escaped in a book chest, and across the water to the fortified town of Woudrichem."
+    },
+    "de": {
+      "slug": "tagesausflug-woudrichem-und-loevestein",
+      "title": "Tagesausflug: Woudrichem und Slot Loevestein",
+      "description": "Eine Marke von 1983 mit Hugo de Groot führt zu Slot Loevestein, aus dem er in einer Bücherkiste floh, und über das Wasser zur Festungsstadt Woudrichem."
+    },
+    "fr": {
+      "slug": "excursion-woudrichem-loevestein",
+      "title": "Excursion : Woudrichem et Slot Loevestein",
+      "description": "Un timbre de 1983 montrant Hugo de Groot mène à Slot Loevestein, d'où il s'est évadé dans un coffre à livres, puis à Woudrichem, ville fortifiée en face."
+    },
+    "it": {
+      "slug": "day-trip-woudrichem-loevestein",
+      "title": "Day trip: Woudrichem and Slot Loevestein",
+      "description": "A 1983 stamp of Hugo de Groot leads to Slot Loevestein, where he escaped in a book chest, and across the water to the fortified town of Woudrichem."
+    },
+    "nl": {
+      "slug": "dagtrip-woudrichem-slot-loevestein",
+      "title": "Dagtrip: Woudrichem en Slot Loevestein",
+      "description": "Een zegel uit 1983 met Hugo de Groot leidt naar Slot Loevestein, waar hij in een boekenkist ontsnapte, en over het water naar vestingstadje Woudrichem."
+    },
+    "pl": {
+      "slug": "day-trip-woudrichem-loevestein",
+      "title": "Day trip: Woudrichem and Slot Loevestein",
+      "description": "A 1983 stamp of Hugo de Groot leads to Slot Loevestein, where he escaped in a book chest, and across the water to the fortified town of Woudrichem."
+    },
+    "cs": {
+      "slug": "day-trip-woudrichem-loevestein",
+      "title": "Day trip: Woudrichem and Slot Loevestein",
+      "description": "A 1983 stamp of Hugo de Groot leads to Slot Loevestein, where he escaped in a book chest, and across the water to the fortified town of Woudrichem."
+    },
+    "sk": {
+      "slug": "day-trip-woudrichem-loevestein",
+      "title": "Day trip: Woudrichem and Slot Loevestein",
+      "description": "A 1983 stamp of Hugo de Groot leads to Slot Loevestein, where he escaped in a book chest, and across the water to the fortified town of Woudrichem."
+    },
+    "ro": {
+      "slug": "day-trip-woudrichem-loevestein",
+      "title": "Day trip: Woudrichem and Slot Loevestein",
+      "description": "A 1983 stamp of Hugo de Groot leads to Slot Loevestein, where he escaped in a book chest, and across the water to the fortified town of Woudrichem."
+    },
+    "hu": {
+      "slug": "day-trip-woudrichem-loevestein",
+      "title": "Day trip: Woudrichem and Slot Loevestein",
+      "description": "A 1983 stamp of Hugo de Groot leads to Slot Loevestein, where he escaped in a book chest, and across the water to the fortified town of Woudrichem."
+    },
+    "da": {
+      "slug": "day-trip-woudrichem-loevestein",
+      "title": "Day trip: Woudrichem and Slot Loevestein",
+      "description": "A 1983 stamp of Hugo de Groot leads to Slot Loevestein, where he escaped in a book chest, and across the water to the fortified town of Woudrichem."
+    }
+  },
+  "header": {
+    "lead": {
+      "en": "A stamp from 1983 shows Hugo de Groot with a small chest beside his portrait. Its pin lands on the castle he escaped from, and across the water lies Woudrichem.",
+      "de": "Eine Marke von 1983 zeigt Hugo de Groot und neben seinem Porträt eine kleine Kiste. Ihr Pin sitzt auf dem Schloss, aus dem er geflohen ist, und auf der anderen Seite des Wassers liegt Woudrichem.",
+      "fr": "Un timbre de 1983 montre Hugo de Groot, avec un petit coffre à côté de son portrait. Son épingle se pose sur le château dont il s'est évadé, et Woudrichem se trouve de l'autre côté de l'eau.",
+      "it": "A stamp from 1983 shows Hugo de Groot with a small chest beside his portrait. Its pin lands on the castle he escaped from, and across the water lies Woudrichem.",
+      "nl": "Op een postzegel uit 1983 staat naast het portret van Hugo de Groot een klein kistje. De speld op de kaart valt op het kasteel waaruit hij ontsnapte, en aan de overkant van het water ligt Woudrichem.",
+      "pl": "A stamp from 1983 shows Hugo de Groot with a small chest beside his portrait. Its pin lands on the castle he escaped from, and across the water lies Woudrichem.",
+      "cs": "A stamp from 1983 shows Hugo de Groot with a small chest beside his portrait. Its pin lands on the castle he escaped from, and across the water lies Woudrichem.",
+      "sk": "A stamp from 1983 shows Hugo de Groot with a small chest beside his portrait. Its pin lands on the castle he escaped from, and across the water lies Woudrichem.",
+      "ro": "A stamp from 1983 shows Hugo de Groot with a small chest beside his portrait. Its pin lands on the castle he escaped from, and across the water lies Woudrichem.",
+      "hu": "A stamp from 1983 shows Hugo de Groot with a small chest beside his portrait. Its pin lands on the castle he escaped from, and across the water lies Woudrichem.",
+      "da": "A stamp from 1983 shows Hugo de Groot with a small chest beside his portrait. Its pin lands on the castle he escaped from, and across the water lies Woudrichem."
+    },
+    "visual": {
+      "type": "stamp",
+      "stamp": {
+        "name": {
+          "en": "Hugo Grotius",
+          "de": "Hugo Grotius",
+          "fr": "Hugo Grotius",
+          "it": "Hugo Grotius",
+          "nl": "Hugo Grotius",
+          "pl": "Hugo Grotius",
+          "cs": "Hugo Grotius",
+          "sk": "Hugo Grotius",
+          "ro": "Hugo Grotius",
+          "hu": "Hugo Grotius",
+          "da": "Hugo Grotius"
+        },
+        "year": 1983,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/04599964064c19be/wd-stamp-hugo.png",
+          "width": 1100,
+          "height": 766
+        },
+        "country": "NL",
+        "stamp_id": "SIQ-NL-1983-004"
+      }
+    },
+    "buttons": [],
+    "location": "Woudrichem and Slot Loevestein, Netherlands"
+  },
+  "blocks": [
+    {
+      "id": "album",
+      "type": "text",
+      "label": {
+        "en": "In your album",
+        "de": "In deinem Album",
+        "fr": "Dans ton album",
+        "it": "In your album",
+        "nl": "In je album",
+        "pl": "In your album",
+        "cs": "In your album",
+        "sk": "In your album",
+        "ro": "In your album",
+        "hu": "In your album",
+        "da": "In your album"
+      },
+      "title": {
+        "en": "A portrait with a chest",
+        "de": "Ein Porträt mit einer Kiste",
+        "fr": "Un portrait et un coffre",
+        "it": "A portrait with a chest",
+        "nl": "Een portret met een kist",
+        "pl": "A portrait with a chest",
+        "cs": "A portrait with a chest",
+        "sk": "A portrait with a chest",
+        "ro": "A portrait with a chest",
+        "hu": "A portrait with a chest",
+        "da": "A portrait with a chest"
+      },
+      "visual": {
+        "type": "phone",
+        "animation": {
+          "src": "https://assets.stampiq.io/blog/97885f01da000aaa/day-trip-hugo-de-groot-recording.mp4",
+          "width": 960,
+          "height": 2080,
+          "poster": "https://assets.stampiq.io/blog/d555c18ef56d63e6/day-trip-hugo-de-groot-recording.jpg"
+        }
+      },
+      "buttons": [],
+      "paragraphs": [
+        {
+          "en": "Among the Dutch summer stamps of 1983 there is a 65+25 cent value with the portrait of Hugo de Groot, 1583 to 1645. Next to his face, above the value, is a small drawn chest with iron bands.",
+          "de": "Unter den niederländischen Sommermarken von 1983 ist ein Wert zu 65+25 Cent mit dem Porträt von Hugo de Groot, 1583 bis 1645. Neben seinem Gesicht, über der Wertangabe, ist eine kleine Kiste mit Eisenbändern gezeichnet.",
+          "fr": "Parmi les timbres d'été néerlandais de 1983, il y a une valeur à 65+25 cents avec le portrait de Hugo de Groot (1583-1645). À côté de son visage, au-dessus de la valeur, est dessiné un petit coffre cerclé de fer.",
+          "it": "Among the Dutch summer stamps of 1983 there is a 65+25 cent value with the portrait of Hugo de Groot, 1583 to 1645. Next to his face, above the value, is a small drawn chest with iron bands.",
+          "nl": "Bij de Nederlandse zomerzegels van 1983 hoort een zegel van 65+25 cent met het portret van Hugo de Groot (1583 tot 1645). Naast zijn gezicht, boven de waarde, is een kistje met ijzeren banden getekend.",
+          "pl": "Among the Dutch summer stamps of 1983 there is a 65+25 cent value with the portrait of Hugo de Groot, 1583 to 1645. Next to his face, above the value, is a small drawn chest with iron bands.",
+          "cs": "Among the Dutch summer stamps of 1983 there is a 65+25 cent value with the portrait of Hugo de Groot, 1583 to 1645. Next to his face, above the value, is a small drawn chest with iron bands.",
+          "sk": "Among the Dutch summer stamps of 1983 there is a 65+25 cent value with the portrait of Hugo de Groot, 1583 to 1645. Next to his face, above the value, is a small drawn chest with iron bands.",
+          "ro": "Among the Dutch summer stamps of 1983 there is a 65+25 cent value with the portrait of Hugo de Groot, 1583 to 1645. Next to his face, above the value, is a small drawn chest with iron bands.",
+          "hu": "Among the Dutch summer stamps of 1983 there is a 65+25 cent value with the portrait of Hugo de Groot, 1583 to 1645. Next to his face, above the value, is a small drawn chest with iron bands.",
+          "da": "Among the Dutch summer stamps of 1983 there is a 65+25 cent value with the portrait of Hugo de Groot, 1583 to 1645. Next to his face, above the value, is a small drawn chest with iron bands."
+        },
+        {
+          "en": "In StampIQ you open the stamp and tap \"Show on map\". The pin lands on a castle between the rivers near Gorinchem: Slot Loevestein, where he was a prisoner. Across the water, 1.2 kilometres away, there is a second pin, a stamp from 2006 with a town gate, a flat church tower and two large fish. That is Woudrichem, and a small ferry connects the two.",
+          "de": "In StampIQ öffnest du die Marke und tippst auf „Auf Karte anzeigen“. Der Pin erscheint auf einem Schloss zwischen den Flüssen bei Gorinchem: Slot Loevestein, wo er gefangen saß. Auf der anderen Seite des Wassers, 1,2 Kilometer entfernt, steht ein zweiter Pin. Er gehört zu einer Marke von 2006 mit einem Stadttor, einem flachen Kirchturm und zwei großen Fischen. Das ist Woudrichem, und eine kleine Fähre verbindet die beiden Orte.",
+          "fr": "Dans StampIQ, tu ouvres le timbre et tu touches « Voir sur la carte ». L'épingle se pose sur un château entre les rivières, près de Gorinchem : Slot Loevestein, où il a été prisonnier. De l'autre côté de l'eau, à 1,2 kilomètre, il y a une deuxième épingle. C'est un timbre de 2006 avec une porte de ville, une tour d'église au sommet plat et deux grands poissons. Il s'agit de Woudrichem, et un petit bac relie les deux endroits.",
+          "it": "In StampIQ you open the stamp and tap \"Show on map\". The pin lands on a castle between the rivers near Gorinchem: Slot Loevestein, where he was a prisoner. Across the water, 1.2 kilometres away, there is a second pin, a stamp from 2006 with a town gate, a flat church tower and two large fish. That is Woudrichem, and a small ferry connects the two.",
+          "nl": "Open de zegel in StampIQ en tik op „Op kaart tonen”. De speld komt terecht op een kasteel tussen de rivieren bij Gorinchem: Slot Loevestein, waar hij gevangenzat. Aan de overkant van het water, 1,2 kilometer verderop, staat een tweede speld. Die hoort bij een zegel uit 2006 met een stadspoort, een platte kerktoren en twee grote vissen. Dat is Woudrichem, en tussen de twee plaatsen vaart een klein veer.",
+          "pl": "In StampIQ you open the stamp and tap \"Show on map\". The pin lands on a castle between the rivers near Gorinchem: Slot Loevestein, where he was a prisoner. Across the water, 1.2 kilometres away, there is a second pin, a stamp from 2006 with a town gate, a flat church tower and two large fish. That is Woudrichem, and a small ferry connects the two.",
+          "cs": "In StampIQ you open the stamp and tap \"Show on map\". The pin lands on a castle between the rivers near Gorinchem: Slot Loevestein, where he was a prisoner. Across the water, 1.2 kilometres away, there is a second pin, a stamp from 2006 with a town gate, a flat church tower and two large fish. That is Woudrichem, and a small ferry connects the two.",
+          "sk": "In StampIQ you open the stamp and tap \"Show on map\". The pin lands on a castle between the rivers near Gorinchem: Slot Loevestein, where he was a prisoner. Across the water, 1.2 kilometres away, there is a second pin, a stamp from 2006 with a town gate, a flat church tower and two large fish. That is Woudrichem, and a small ferry connects the two.",
+          "ro": "In StampIQ you open the stamp and tap \"Show on map\". The pin lands on a castle between the rivers near Gorinchem: Slot Loevestein, where he was a prisoner. Across the water, 1.2 kilometres away, there is a second pin, a stamp from 2006 with a town gate, a flat church tower and two large fish. That is Woudrichem, and a small ferry connects the two.",
+          "hu": "In StampIQ you open the stamp and tap \"Show on map\". The pin lands on a castle between the rivers near Gorinchem: Slot Loevestein, where he was a prisoner. Across the water, 1.2 kilometres away, there is a second pin, a stamp from 2006 with a town gate, a flat church tower and two large fish. That is Woudrichem, and a small ferry connects the two.",
+          "da": "In StampIQ you open the stamp and tap \"Show on map\". The pin lands on a castle between the rivers near Gorinchem: Slot Loevestein, where he was a prisoner. Across the water, 1.2 kilometres away, there is a second pin, a stamp from 2006 with a town gate, a flat church tower and two large fish. That is Woudrichem, and a small ferry connects the two."
+        }
+      ]
+    },
+    {
+      "id": "escape",
+      "type": "text",
+      "label": {
+        "en": "The story",
+        "de": "Die Geschichte",
+        "fr": "L'histoire",
+        "it": "The story",
+        "nl": "Het verhaal",
+        "pl": "The story",
+        "cs": "The story",
+        "sk": "The story",
+        "ro": "The story",
+        "hu": "The story",
+        "da": "The story"
+      },
+      "title": {
+        "en": "The escape in the book chest",
+        "de": "Die Flucht in der Bücherkiste",
+        "fr": "L'évasion dans le coffre à livres",
+        "it": "The escape in the book chest",
+        "nl": "De ontsnapping in de boekenkist",
+        "pl": "The escape in the book chest",
+        "cs": "The escape in the book chest",
+        "sk": "The escape in the book chest",
+        "ro": "The escape in the book chest",
+        "hu": "The escape in the book chest",
+        "da": "The escape in the book chest"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/aa0e01f3c0edbbb9/wd-loevestein.jpg",
+          "width": 2400,
+          "credit": "Johan Bakker, CC BY-SA 4.0",
+          "height": 1600,
+          "caption": {
+            "en": "Slot Loevestein from the moat.",
+            "de": "Slot Loevestein, vom Graben aus gesehen.",
+            "fr": "Slot Loevestein vu depuis les douves.",
+            "it": "Slot Loevestein from the moat.",
+            "nl": "Slot Loevestein, gezien vanaf de gracht.",
+            "pl": "Slot Loevestein from the moat.",
+            "cs": "Slot Loevestein from the moat.",
+            "sk": "Slot Loevestein from the moat.",
+            "ro": "Slot Loevestein from the moat.",
+            "hu": "Slot Loevestein from the moat.",
+            "da": "Slot Loevestein from the moat."
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:10081_slot_loevestein_(2).jpg"
+        }
+      },
+      "buttons": [],
+      "paragraphs": [
+        {
+          "en": "Hugo de Groot was arrested in 1618 and sentenced to life in prison at Loevestein. He was allowed to study, and his books came and went in a large chest. At first the guards checked it, later less often. His wife Maria van Reigersberg and the maid Elsje worked out a plan, and on 22 March 1621 he lay down in the chest and was carried out of the castle and across the water to Gorinchem. There he dressed as a mason, walked out of the town and got away to Paris.",
+          "de": "Hugo de Groot wurde 1618 verhaftet und zu lebenslanger Haft auf Loevestein verurteilt. Er durfte studieren, und seine Bücher kamen und gingen in einer großen Kiste. Anfangs kontrollierten die Wächter sie, später seltener. Seine Frau Maria van Reigersberg und die Magd Elsje dachten sich einen Plan aus. Am 22. März 1621 legte er sich in die Kiste und wurde aus dem Schloss und über das Wasser nach Gorinchem getragen. Dort verkleidete er sich als Maurer, ging zu Fuß aus der Stadt und entkam nach Paris.",
+          "fr": "Hugo de Groot est arrêté en 1618 et condamné à la prison à vie à Loevestein. Il a le droit d'étudier, et ses livres vont et viennent dans un grand coffre. Au début, les gardiens le fouillent, puis de moins en moins souvent. Sa femme, Maria van Reigersberg, et la servante Elsje préparent un plan. Le 22 mars 1621, il se couche dans le coffre, qu'on porte hors du château puis de l'autre côté de l'eau jusqu'à Gorinchem. Là, il s'habille en maçon, sort de la ville à pied et s'enfuit jusqu'à Paris.",
+          "it": "Hugo de Groot was arrested in 1618 and sentenced to life in prison at Loevestein. He was allowed to study, and his books came and went in a large chest. At first the guards checked it, later less often. His wife Maria van Reigersberg and the maid Elsje worked out a plan, and on 22 March 1621 he lay down in the chest and was carried out of the castle and across the water to Gorinchem. There he dressed as a mason, walked out of the town and got away to Paris.",
+          "nl": "Hugo de Groot werd in 1618 gearresteerd en kreeg levenslang op Loevestein. Hij mocht studeren, en zijn boeken gingen in een grote kist heen en weer. In het begin controleerden de bewakers die kist, later steeds minder vaak. Zijn vrouw Maria van Reigersberg en de dienstmeid Elsje bedachten een plan. Op 22 maart 1621 ging hij in de kist liggen, en zo werd hij het kasteel uit gedragen en over het water naar Gorinchem gebracht. Daar verkleedde hij zich als metselaar, liep de stad uit en wist naar Parijs te ontkomen.",
+          "pl": "Hugo de Groot was arrested in 1618 and sentenced to life in prison at Loevestein. He was allowed to study, and his books came and went in a large chest. At first the guards checked it, later less often. His wife Maria van Reigersberg and the maid Elsje worked out a plan, and on 22 March 1621 he lay down in the chest and was carried out of the castle and across the water to Gorinchem. There he dressed as a mason, walked out of the town and got away to Paris.",
+          "cs": "Hugo de Groot was arrested in 1618 and sentenced to life in prison at Loevestein. He was allowed to study, and his books came and went in a large chest. At first the guards checked it, later less often. His wife Maria van Reigersberg and the maid Elsje worked out a plan, and on 22 March 1621 he lay down in the chest and was carried out of the castle and across the water to Gorinchem. There he dressed as a mason, walked out of the town and got away to Paris.",
+          "sk": "Hugo de Groot was arrested in 1618 and sentenced to life in prison at Loevestein. He was allowed to study, and his books came and went in a large chest. At first the guards checked it, later less often. His wife Maria van Reigersberg and the maid Elsje worked out a plan, and on 22 March 1621 he lay down in the chest and was carried out of the castle and across the water to Gorinchem. There he dressed as a mason, walked out of the town and got away to Paris.",
+          "ro": "Hugo de Groot was arrested in 1618 and sentenced to life in prison at Loevestein. He was allowed to study, and his books came and went in a large chest. At first the guards checked it, later less often. His wife Maria van Reigersberg and the maid Elsje worked out a plan, and on 22 March 1621 he lay down in the chest and was carried out of the castle and across the water to Gorinchem. There he dressed as a mason, walked out of the town and got away to Paris.",
+          "hu": "Hugo de Groot was arrested in 1618 and sentenced to life in prison at Loevestein. He was allowed to study, and his books came and went in a large chest. At first the guards checked it, later less often. His wife Maria van Reigersberg and the maid Elsje worked out a plan, and on 22 March 1621 he lay down in the chest and was carried out of the castle and across the water to Gorinchem. There he dressed as a mason, walked out of the town and got away to Paris.",
+          "da": "Hugo de Groot was arrested in 1618 and sentenced to life in prison at Loevestein. He was allowed to study, and his books came and went in a large chest. At first the guards checked it, later less often. His wife Maria van Reigersberg and the maid Elsje worked out a plan, and on 22 March 1621 he lay down in the chest and was carried out of the castle and across the water to Gorinchem. There he dressed as a mason, walked out of the town and got away to Paris."
+        },
+        {
+          "en": "The castle calls it the most spectacular escape in Dutch history. You can look for the chest yourself, but there are three: one at Loevestein, one at the Rijksmuseum and one at Museum Prinsenhof in Delft. Research in 2013 found that very probably none of them is the original.",
+          "de": "Das Schloss nennt es die spektakulärste Flucht der niederländischen Geschichte. Du kannst selbst nach der Kiste suchen, allerdings gibt es drei davon: eine auf Loevestein, eine im Rijksmuseum und eine im Museum Prinsenhof in Delft. Eine Untersuchung von 2013 kam zu dem Ergebnis, dass sehr wahrscheinlich keine davon das Original ist.",
+          "fr": "Le château la présente comme l'évasion la plus spectaculaire de l'histoire des Pays-Bas. Tu peux aller voir le coffre toi-même, et tu en trouveras trois : un à Loevestein, un au Rijksmuseum et un au Museum Prinsenhof de Delft. Une étude de 2013 a conclu que, très probablement, aucun des trois n'est l'original.",
+          "it": "The castle calls it the most spectacular escape in Dutch history. You can look for the chest yourself, but there are three: one at Loevestein, one at the Rijksmuseum and one at Museum Prinsenhof in Delft. Research in 2013 found that very probably none of them is the original.",
+          "nl": "Slot Loevestein noemt het zelf de spectaculairste ontsnapping uit de Nederlandse geschiedenis. Wil je de kist met eigen ogen zien, dan heb je de keus uit drie: een op Loevestein, een in het Rijksmuseum en een in Museum Prinsenhof in Delft. Uit onderzoek in 2013 bleek dat zeer waarschijnlijk geen van de drie de originele kist is.",
+          "pl": "The castle calls it the most spectacular escape in Dutch history. You can look for the chest yourself, but there are three: one at Loevestein, one at the Rijksmuseum and one at Museum Prinsenhof in Delft. Research in 2013 found that very probably none of them is the original.",
+          "cs": "The castle calls it the most spectacular escape in Dutch history. You can look for the chest yourself, but there are three: one at Loevestein, one at the Rijksmuseum and one at Museum Prinsenhof in Delft. Research in 2013 found that very probably none of them is the original.",
+          "sk": "The castle calls it the most spectacular escape in Dutch history. You can look for the chest yourself, but there are three: one at Loevestein, one at the Rijksmuseum and one at Museum Prinsenhof in Delft. Research in 2013 found that very probably none of them is the original.",
+          "ro": "The castle calls it the most spectacular escape in Dutch history. You can look for the chest yourself, but there are three: one at Loevestein, one at the Rijksmuseum and one at Museum Prinsenhof in Delft. Research in 2013 found that very probably none of them is the original.",
+          "hu": "The castle calls it the most spectacular escape in Dutch history. You can look for the chest yourself, but there are three: one at Loevestein, one at the Rijksmuseum and one at Museum Prinsenhof in Delft. Research in 2013 found that very probably none of them is the original.",
+          "da": "The castle calls it the most spectacular escape in Dutch history. You can look for the chest yourself, but there are three: one at Loevestein, one at the Rijksmuseum and one at Museum Prinsenhof in Delft. Research in 2013 found that very probably none of them is the original."
+        },
+        {
+          "en": "The castle itself was built around 1360 by the knight Dirc Loef van Horne. After 1572 it was given ramparts, a moat and bastions and became a state prison for political and religious prisoners.",
+          "de": "Gebaut hat das Schloss um 1360 der Ritter Dirc Loef van Horne. Nach 1572 bekam es Wälle, einen Graben und Bastionen und wurde zum Staatsgefängnis für politische und religiöse Gefangene.",
+          "fr": "Le château lui-même a été construit vers 1360 par le chevalier Dirc Loef van Horne. Après 1572, il a reçu des remparts, des douves et des bastions, et il est devenu une prison d'État pour les prisonniers politiques et religieux.",
+          "it": "The castle itself was built around 1360 by the knight Dirc Loef van Horne. After 1572 it was given ramparts, a moat and bastions and became a state prison for political and religious prisoners.",
+          "nl": "Het kasteel zelf werd rond 1360 gebouwd door ridder Dirc Loef van Horne. Na 1572 kreeg het wallen, een gracht en bastions, en werd het een staatsgevangenis voor politieke en religieuze gevangenen.",
+          "pl": "The castle itself was built around 1360 by the knight Dirc Loef van Horne. After 1572 it was given ramparts, a moat and bastions and became a state prison for political and religious prisoners.",
+          "cs": "The castle itself was built around 1360 by the knight Dirc Loef van Horne. After 1572 it was given ramparts, a moat and bastions and became a state prison for political and religious prisoners.",
+          "sk": "The castle itself was built around 1360 by the knight Dirc Loef van Horne. After 1572 it was given ramparts, a moat and bastions and became a state prison for political and religious prisoners.",
+          "ro": "The castle itself was built around 1360 by the knight Dirc Loef van Horne. After 1572 it was given ramparts, a moat and bastions and became a state prison for political and religious prisoners.",
+          "hu": "The castle itself was built around 1360 by the knight Dirc Loef van Horne. After 1572 it was given ramparts, a moat and bastions and became a state prison for political and religious prisoners.",
+          "da": "The castle itself was built around 1360 by the knight Dirc Loef van Horne. After 1572 it was given ramparts, a moat and bastions and became a state prison for political and religious prisoners."
+        }
+      ]
+    },
+    {
+      "id": "place",
+      "type": "text",
+      "label": {
+        "en": "The place",
+        "de": "Der Ort",
+        "fr": "Le lieu",
+        "it": "The place",
+        "nl": "De plek",
+        "pl": "The place",
+        "cs": "The place",
+        "sk": "The place",
+        "ro": "The place",
+        "hu": "The place",
+        "da": "The place"
+      },
+      "title": {
+        "en": "Woudrichem and its gate",
+        "de": "Woudrichem und sein Tor",
+        "fr": "Woudrichem et sa porte",
+        "it": "Woudrichem and its gate",
+        "nl": "Woudrichem en zijn poort",
+        "pl": "Woudrichem and its gate",
+        "cs": "Woudrichem and its gate",
+        "sk": "Woudrichem and its gate",
+        "ro": "Woudrichem and its gate",
+        "hu": "Woudrichem and its gate",
+        "da": "Woudrichem and its gate"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/0891c574af27a322/wd-gevangenpoort.jpg",
+          "width": 1069,
+          "credit": "G.Lanting, CC BY 4.0",
+          "height": 1600,
+          "caption": {
+            "en": "The Gevangenpoort, with the church tower seen through the arch.",
+            "de": "Die Gevangenpoort mit dem Kirchturm im Torbogen.",
+            "fr": "La Gevangenpoort, avec la tour de l'église vue à travers l'arche.",
+            "it": "The Gevangenpoort, with the church tower seen through the arch.",
+            "nl": "De Gevangenpoort, met de kerktoren door de boog.",
+            "pl": "The Gevangenpoort, with the church tower seen through the arch.",
+            "cs": "The Gevangenpoort, with the church tower seen through the arch.",
+            "sk": "The Gevangenpoort, with the church tower seen through the arch.",
+            "ro": "The Gevangenpoort, with the church tower seen through the arch.",
+            "hu": "The Gevangenpoort, with the church tower seen through the arch.",
+            "da": "The Gevangenpoort, with the church tower seen through the arch."
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Gevangenpoort,_Woudrichem_P1390808.jpg"
+        }
+      },
+      "buttons": [],
+      "paragraphs": [
+        {
+          "en": "You arrive by boat from Gorinchem. The Riveer ferry lands below the Gevangenpoort, the only gate of the fortification that still stands, and through its arch you see the tower from the stamp. The tower of the Sint-Martinuskerk is 34 metres high and has been flat on top since a storm in 1717. In the town it is called De Mosterdpot, the mustard pot.",
+          "de": "Nach Woudrichem kommst du mit dem Boot aus Gorinchem. Die Riveer-Fähre legt unterhalb der Gevangenpoort an. Sie ist das einzige Tor der Befestigung, das noch steht, und durch ihren Bogen siehst du den Turm von der Marke. Der Turm der Sint-Martinuskerk ist 34 Meter hoch und seit einem Sturm im Jahr 1717 oben flach. In der Stadt heißt er De Mosterdpot, der Senftopf.",
+          "fr": "Tu arrives en bateau depuis Gorinchem. Le bac Riveer accoste au pied de la Gevangenpoort, la seule porte des fortifications encore debout, et à travers son arche tu vois la tour du timbre. La tour de la Sint-Martinuskerk mesure 34 mètres, et son sommet est plat depuis une tempête en 1717. En ville, on l'appelle De Mosterdpot, le pot à moutarde.",
+          "it": "You arrive by boat from Gorinchem. The Riveer ferry lands below the Gevangenpoort, the only gate of the fortification that still stands, and through its arch you see the tower from the stamp. The tower of the Sint-Martinuskerk is 34 metres high and has been flat on top since a storm in 1717. In the town it is called De Mosterdpot, the mustard pot.",
+          "nl": "Je komt met de boot uit Gorinchem. De veerboot van Riveer legt aan onder de Gevangenpoort, de enige poort van de vesting die nog overeind staat, en door de boog zie je de toren van de zegel. De toren van de Sint-Martinuskerk is 34 meter hoog en is sinds een storm in 1717 plat van boven. In het stadje heet hij De Mosterdpot.",
+          "pl": "You arrive by boat from Gorinchem. The Riveer ferry lands below the Gevangenpoort, the only gate of the fortification that still stands, and through its arch you see the tower from the stamp. The tower of the Sint-Martinuskerk is 34 metres high and has been flat on top since a storm in 1717. In the town it is called De Mosterdpot, the mustard pot.",
+          "cs": "You arrive by boat from Gorinchem. The Riveer ferry lands below the Gevangenpoort, the only gate of the fortification that still stands, and through its arch you see the tower from the stamp. The tower of the Sint-Martinuskerk is 34 metres high and has been flat on top since a storm in 1717. In the town it is called De Mosterdpot, the mustard pot.",
+          "sk": "You arrive by boat from Gorinchem. The Riveer ferry lands below the Gevangenpoort, the only gate of the fortification that still stands, and through its arch you see the tower from the stamp. The tower of the Sint-Martinuskerk is 34 metres high and has been flat on top since a storm in 1717. In the town it is called De Mosterdpot, the mustard pot.",
+          "ro": "You arrive by boat from Gorinchem. The Riveer ferry lands below the Gevangenpoort, the only gate of the fortification that still stands, and through its arch you see the tower from the stamp. The tower of the Sint-Martinuskerk is 34 metres high and has been flat on top since a storm in 1717. In the town it is called De Mosterdpot, the mustard pot.",
+          "hu": "You arrive by boat from Gorinchem. The Riveer ferry lands below the Gevangenpoort, the only gate of the fortification that still stands, and through its arch you see the tower from the stamp. The tower of the Sint-Martinuskerk is 34 metres high and has been flat on top since a storm in 1717. In the town it is called De Mosterdpot, the mustard pot.",
+          "da": "You arrive by boat from Gorinchem. The Riveer ferry lands below the Gevangenpoort, the only gate of the fortification that still stands, and through its arch you see the tower from the stamp. The tower of the Sint-Martinuskerk is 34 metres high and has been flat on top since a storm in 1717. In the town it is called De Mosterdpot, the mustard pot."
+        },
+        {
+          "en": "Walk up onto the rampart. Below you the Afgedamde Maas flows into the Waal, and from here the river continues as the Boven-Merwede. Three provinces meet on the water: Zuid-Holland, Noord-Brabant and Gelderland. Inside the walls are about 300 houses, some with named stones on their fronts, such as In den gulden Engel from 1593.",
+          "de": "Steig auf den Wall. Unter dir mündet die Afgedamde Maas in die Waal, und von hier an fließt der Fluss als Boven-Merwede weiter. Auf dem Wasser treffen drei Provinzen aufeinander: Zuid-Holland, Noord-Brabant und Gelderland. Innerhalb der Mauern stehen etwa 300 Häuser, manche mit Namenssteinen an der Fassade, zum Beispiel In den gulden Engel von 1593.",
+          "fr": "Monte sur le rempart. En contrebas, l'Afgedamde Maas se jette dans le Waal, et à partir d'ici la rivière continue sous le nom de Boven-Merwede. Trois provinces se rejoignent sur l'eau : Zuid-Holland, Noord-Brabant et Gelderland. À l'intérieur des murs, il y a environ 300 maisons, et certaines portent sur leur façade une pierre avec un nom, comme In den gulden Engel, de 1593.",
+          "it": "Walk up onto the rampart. Below you the Afgedamde Maas flows into the Waal, and from here the river continues as the Boven-Merwede. Three provinces meet on the water: Zuid-Holland, Noord-Brabant and Gelderland. Inside the walls are about 300 houses, some with named stones on their fronts, such as In den gulden Engel from 1593.",
+          "nl": "Loop de wal op. Onder je stroomt de Afgedamde Maas in de Waal, en vanaf hier gaat de rivier verder als de Boven-Merwede. Op het water komen drie provincies samen: Zuid-Holland, Noord-Brabant en Gelderland. Binnen de wallen staan zo'n 300 huizen, sommige met een gevelsteen, zoals „In den gulden Engel” uit 1593.",
+          "pl": "Walk up onto the rampart. Below you the Afgedamde Maas flows into the Waal, and from here the river continues as the Boven-Merwede. Three provinces meet on the water: Zuid-Holland, Noord-Brabant and Gelderland. Inside the walls are about 300 houses, some with named stones on their fronts, such as In den gulden Engel from 1593.",
+          "cs": "Walk up onto the rampart. Below you the Afgedamde Maas flows into the Waal, and from here the river continues as the Boven-Merwede. Three provinces meet on the water: Zuid-Holland, Noord-Brabant and Gelderland. Inside the walls are about 300 houses, some with named stones on their fronts, such as In den gulden Engel from 1593.",
+          "sk": "Walk up onto the rampart. Below you the Afgedamde Maas flows into the Waal, and from here the river continues as the Boven-Merwede. Three provinces meet on the water: Zuid-Holland, Noord-Brabant and Gelderland. Inside the walls are about 300 houses, some with named stones on their fronts, such as In den gulden Engel from 1593.",
+          "ro": "Walk up onto the rampart. Below you the Afgedamde Maas flows into the Waal, and from here the river continues as the Boven-Merwede. Three provinces meet on the water: Zuid-Holland, Noord-Brabant and Gelderland. Inside the walls are about 300 houses, some with named stones on their fronts, such as In den gulden Engel from 1593.",
+          "hu": "Walk up onto the rampart. Below you the Afgedamde Maas flows into the Waal, and from here the river continues as the Boven-Merwede. Three provinces meet on the water: Zuid-Holland, Noord-Brabant and Gelderland. Inside the walls are about 300 houses, some with named stones on their fronts, such as In den gulden Engel from 1593.",
+          "da": "Walk up onto the rampart. Below you the Afgedamde Maas flows into the Waal, and from here the river continues as the Boven-Merwede. Three provinces meet on the water: Zuid-Holland, Noord-Brabant and Gelderland. Inside the walls are about 300 houses, some with named stones on their fronts, such as In den gulden Engel from 1593."
+        }
+      ]
+    },
+    {
+      "id": "stamp",
+      "type": "text",
+      "label": {
+        "en": "The stamp",
+        "de": "Die Marke",
+        "fr": "Le timbre",
+        "it": "The stamp",
+        "nl": "De postzegel",
+        "pl": "The stamp",
+        "cs": "The stamp",
+        "sk": "The stamp",
+        "ro": "The stamp",
+        "hu": "The stamp",
+        "da": "The stamp"
+      },
+      "title": {
+        "en": "Mooi Nederland",
+        "de": "Mooi Nederland",
+        "fr": "Mooi Nederland",
+        "it": "Mooi Nederland",
+        "nl": "Mooi Nederland",
+        "pl": "Mooi Nederland",
+        "cs": "Mooi Nederland",
+        "sk": "Mooi Nederland",
+        "ro": "Mooi Nederland",
+        "hu": "Mooi Nederland",
+        "da": "Mooi Nederland"
+      },
+      "visual": {
+        "type": "stamp",
+        "stamp": {
+          "name": {
+            "en": "Woudrichem, Historic Tower and Fish",
+            "de": "Woudrichem, Historischer Turm und Fisch",
+            "fr": "Woudrichem, Tour historique et poisson",
+            "it": "Woudrichem, Historic Tower and Fish",
+            "nl": "Woudrichem, Historische Toren en Vis",
+            "pl": "Woudrichem, Historic Tower and Fish",
+            "cs": "Woudrichem, Historic Tower and Fish",
+            "sk": "Woudrichem, Historic Tower and Fish",
+            "ro": "Woudrichem, Historic Tower and Fish",
+            "hu": "Woudrichem, Historic Tower and Fish",
+            "da": "Woudrichem, Historic Tower and Fish"
+          },
+          "year": 2006,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/b8df9831ac7e83f5/wd-stamp.png",
+            "width": 904,
+            "height": 1100
+          },
+          "country": "NL",
+          "stamp_id": "SIQ-NL-2006-039"
+        }
+      },
+      "buttons": [],
+      "paragraphs": [
+        {
+          "en": "The Woudrichem stamp is a €0.39 value from Mooi Nederland, the series of Dutch towns that the Dutch post issued in sheets of five identical stamps. Woudrichem is number 14 of the series, from 2006, designed by Ping-Pong Design. The upper half shows the Gevangenpoort and the Mosterdpot above the town wall.",
+          "de": "Die Woudrichem-Marke ist ein Wert zu 0,39 € aus Mooi Nederland, der Serie über niederländische Städte, die die niederländische Post in Bogen mit fünf gleichen Marken herausgab. Woudrichem ist Nummer 14 der Serie, erschienen 2006 und gestaltet von Ping-Pong Design. Die obere Hälfte zeigt die Gevangenpoort und den Mosterdpot über der Stadtmauer.",
+          "fr": "Le timbre de Woudrichem est une valeur à 0,39 € de Mooi Nederland, la série consacrée aux villes néerlandaises que la poste néerlandaise a émise en feuilles de cinq timbres identiques. Woudrichem est le numéro 14 de la série. Il est paru en 2006 et a été dessiné par Ping-Pong Design. La moitié supérieure montre la Gevangenpoort et le Mosterdpot au-dessus du mur d'enceinte.",
+          "it": "The Woudrichem stamp is a €0.39 value from Mooi Nederland, the series of Dutch towns that the Dutch post issued in sheets of five identical stamps. Woudrichem is number 14 of the series, from 2006, designed by Ping-Pong Design. The upper half shows the Gevangenpoort and the Mosterdpot above the town wall.",
+          "nl": "De zegel van Woudrichem is een waarde van € 0,39 uit Mooi Nederland, de reeks over Nederlandse steden die de Nederlandse post uitgaf in velletjes van vijf gelijke zegels. Woudrichem is nummer 14 van de reeks. De zegel verscheen in 2006 en werd ontworpen door Ping-Pong Design. Op de bovenste helft staan de Gevangenpoort en de Mosterdpot boven de stadsmuur.",
+          "pl": "The Woudrichem stamp is a €0.39 value from Mooi Nederland, the series of Dutch towns that the Dutch post issued in sheets of five identical stamps. Woudrichem is number 14 of the series, from 2006, designed by Ping-Pong Design. The upper half shows the Gevangenpoort and the Mosterdpot above the town wall.",
+          "cs": "The Woudrichem stamp is a €0.39 value from Mooi Nederland, the series of Dutch towns that the Dutch post issued in sheets of five identical stamps. Woudrichem is number 14 of the series, from 2006, designed by Ping-Pong Design. The upper half shows the Gevangenpoort and the Mosterdpot above the town wall.",
+          "sk": "The Woudrichem stamp is a €0.39 value from Mooi Nederland, the series of Dutch towns that the Dutch post issued in sheets of five identical stamps. Woudrichem is number 14 of the series, from 2006, designed by Ping-Pong Design. The upper half shows the Gevangenpoort and the Mosterdpot above the town wall.",
+          "ro": "The Woudrichem stamp is a €0.39 value from Mooi Nederland, the series of Dutch towns that the Dutch post issued in sheets of five identical stamps. Woudrichem is number 14 of the series, from 2006, designed by Ping-Pong Design. The upper half shows the Gevangenpoort and the Mosterdpot above the town wall.",
+          "hu": "The Woudrichem stamp is a €0.39 value from Mooi Nederland, the series of Dutch towns that the Dutch post issued in sheets of five identical stamps. Woudrichem is number 14 of the series, from 2006, designed by Ping-Pong Design. The upper half shows the Gevangenpoort and the Mosterdpot above the town wall.",
+          "da": "The Woudrichem stamp is a €0.39 value from Mooi Nederland, the series of Dutch towns that the Dutch post issued in sheets of five identical stamps. Woudrichem is number 14 of the series, from 2006, designed by Ping-Pong Design. The upper half shows the Gevangenpoort and the Mosterdpot above the town wall."
+        },
+        {
+          "en": "The lower half shows two large fish. Two salmon are in the arms of Woudrichem, the town has had fishing rights since 1362, and fishing for salmon and shad on the rivers was an important trade until pollution ended it in the 1950s. The harbour where the fishing boats were pulled ashore is still called Boven 't Gat, and from there the foot ferry leaves for Loevestein. You ring the bell, the ferryman comes over, and the crossing costs €1.90. On the other side it is about ten minutes on foot through the Munnikenland, where cattle and horses graze freely, to the castle gate.",
+          "de": "In der unteren Hälfte sind zwei große Fische zu sehen. Zwei Lachse stehen im Wappen von Woudrichem, und die Stadt hat seit 1362 Fischereirechte. Der Fang von Lachs und Maifisch auf den Flüssen war ein wichtiges Gewerbe, bis die Verschmutzung ihn in den 1950er Jahren beendete. Der Hafen, an dem die Fischerboote an Land gezogen wurden, heißt bis heute Boven 't Gat, und von dort fährt die Fußgängerfähre nach Loevestein. Du läutest die Glocke, der Fährmann kommt herüber, und die Überfahrt kostet 1,90 €. Auf der anderen Seite gehst du etwa zehn Minuten durch das Munnikenland, wo Rinder und Pferde frei weiden, bis zum Schlosstor.",
+          "fr": "La moitié inférieure montre deux grands poissons. Les armoiries de Woudrichem portent deux saumons. La ville a des droits de pêche depuis 1362, et la pêche au saumon et à l'alose sur les rivières a été une activité importante jusqu'à ce que la pollution y mette fin dans les années 1950. Le port où l'on tirait les bateaux de pêche à terre s'appelle toujours Boven 't Gat, et c'est de là que part le bac pour piétons vers Loevestein. Tu sonnes la cloche, le passeur traverse pour venir te chercher, et la traversée coûte 1,90 €. De l'autre côté, compte environ dix minutes à pied à travers le Munnikenland, où bovins et chevaux paissent en liberté, jusqu'à la porte du château.",
+          "it": "The lower half shows two large fish. Two salmon are in the arms of Woudrichem, the town has had fishing rights since 1362, and fishing for salmon and shad on the rivers was an important trade until pollution ended it in the 1950s. The harbour where the fishing boats were pulled ashore is still called Boven 't Gat, and from there the foot ferry leaves for Loevestein. You ring the bell, the ferryman comes over, and the crossing costs €1.90. On the other side it is about ten minutes on foot through the Munnikenland, where cattle and horses graze freely, to the castle gate.",
+          "nl": "Op de onderste helft zie je twee grote vissen. In het wapen van Woudrichem staan twee zalmen, de stad heeft sinds 1362 visrecht, en de vangst van zalm en elft op de rivieren was een belangrijke bedrijfstak, tot de vervuiling er in de jaren vijftig een eind aan maakte. De haven waar de vissersboten op de kant werden getrokken, heet nog altijd Boven 't Gat, en daar vertrekt het voetveer naar Loevestein. Je luidt de bel, de veerman vaart naar je toe, en de overtocht kost € 1,90. Aan de overkant loop je in ongeveer tien minuten door het Munnikenland, waar runderen en paarden vrij grazen, naar de poort van het kasteel.",
+          "pl": "The lower half shows two large fish. Two salmon are in the arms of Woudrichem, the town has had fishing rights since 1362, and fishing for salmon and shad on the rivers was an important trade until pollution ended it in the 1950s. The harbour where the fishing boats were pulled ashore is still called Boven 't Gat, and from there the foot ferry leaves for Loevestein. You ring the bell, the ferryman comes over, and the crossing costs €1.90. On the other side it is about ten minutes on foot through the Munnikenland, where cattle and horses graze freely, to the castle gate.",
+          "cs": "The lower half shows two large fish. Two salmon are in the arms of Woudrichem, the town has had fishing rights since 1362, and fishing for salmon and shad on the rivers was an important trade until pollution ended it in the 1950s. The harbour where the fishing boats were pulled ashore is still called Boven 't Gat, and from there the foot ferry leaves for Loevestein. You ring the bell, the ferryman comes over, and the crossing costs €1.90. On the other side it is about ten minutes on foot through the Munnikenland, where cattle and horses graze freely, to the castle gate.",
+          "sk": "The lower half shows two large fish. Two salmon are in the arms of Woudrichem, the town has had fishing rights since 1362, and fishing for salmon and shad on the rivers was an important trade until pollution ended it in the 1950s. The harbour where the fishing boats were pulled ashore is still called Boven 't Gat, and from there the foot ferry leaves for Loevestein. You ring the bell, the ferryman comes over, and the crossing costs €1.90. On the other side it is about ten minutes on foot through the Munnikenland, where cattle and horses graze freely, to the castle gate.",
+          "ro": "The lower half shows two large fish. Two salmon are in the arms of Woudrichem, the town has had fishing rights since 1362, and fishing for salmon and shad on the rivers was an important trade until pollution ended it in the 1950s. The harbour where the fishing boats were pulled ashore is still called Boven 't Gat, and from there the foot ferry leaves for Loevestein. You ring the bell, the ferryman comes over, and the crossing costs €1.90. On the other side it is about ten minutes on foot through the Munnikenland, where cattle and horses graze freely, to the castle gate.",
+          "hu": "The lower half shows two large fish. Two salmon are in the arms of Woudrichem, the town has had fishing rights since 1362, and fishing for salmon and shad on the rivers was an important trade until pollution ended it in the 1950s. The harbour where the fishing boats were pulled ashore is still called Boven 't Gat, and from there the foot ferry leaves for Loevestein. You ring the bell, the ferryman comes over, and the crossing costs €1.90. On the other side it is about ten minutes on foot through the Munnikenland, where cattle and horses graze freely, to the castle gate.",
+          "da": "The lower half shows two large fish. Two salmon are in the arms of Woudrichem, the town has had fishing rights since 1362, and fishing for salmon and shad on the rivers was an important trade until pollution ended it in the 1950s. The harbour where the fishing boats were pulled ashore is still called Boven 't Gat, and from there the foot ferry leaves for Loevestein. You ring the bell, the ferryman comes over, and the crossing costs €1.90. On the other side it is about ten minutes on foot through the Munnikenland, where cattle and horses graze freely, to the castle gate."
+        }
+      ]
+    },
+    {
+      "id": "figures",
+      "type": "numbers",
+      "label": {
+        "en": "In figures",
+        "de": "In Zahlen",
+        "fr": "En chiffres",
+        "it": "In figures",
+        "nl": "In cijfers",
+        "pl": "In figures",
+        "cs": "In figures",
+        "sk": "In figures",
+        "ro": "In figures",
+        "hu": "In figures",
+        "da": "In figures"
+      },
+      "title": {
+        "en": "Woudrichem and Loevestein",
+        "de": "Woudrichem und Loevestein",
+        "fr": "Woudrichem et Loevestein",
+        "it": "Woudrichem and Loevestein",
+        "nl": "Woudrichem en Loevestein",
+        "pl": "Woudrichem and Loevestein",
+        "cs": "Woudrichem and Loevestein",
+        "sk": "Woudrichem and Loevestein",
+        "ro": "Woudrichem and Loevestein",
+        "hu": "Woudrichem and Loevestein",
+        "da": "Woudrichem and Loevestein"
+      },
+      "numbers": [
+        {
+          "text": {
+            "en": "Woudrichem received its city rights in 1356.",
+            "de": "1356 bekam Woudrichem die Stadtrechte.",
+            "fr": "Woudrichem a obtenu ses droits de cité en 1356.",
+            "it": "Woudrichem received its city rights in 1356.",
+            "nl": "Woudrichem kreeg in 1356 stadsrechten.",
+            "pl": "Woudrichem received its city rights in 1356.",
+            "cs": "Woudrichem received its city rights in 1356.",
+            "sk": "Woudrichem received its city rights in 1356.",
+            "ro": "Woudrichem received its city rights in 1356.",
+            "hu": "Woudrichem received its city rights in 1356.",
+            "da": "Woudrichem received its city rights in 1356."
+          },
+          "title": {
+            "en": "City rights",
+            "de": "Stadtrechte",
+            "fr": "Statut de ville",
+            "it": "City rights",
+            "nl": "Stadsrechten",
+            "pl": "City rights",
+            "cs": "City rights",
+            "sk": "City rights",
+            "ro": "City rights",
+            "hu": "City rights",
+            "da": "City rights"
+          },
+          "value": "1356"
+        },
+        {
+          "text": {
+            "en": "The tower of the Sint-Martinuskerk, flat on top since 1717.",
+            "de": "Der Turm der Sint-Martinuskerk, seit 1717 oben flach.",
+            "fr": "La tour de la Sint-Martinuskerk, au sommet plat depuis 1717.",
+            "it": "The tower of the Sint-Martinuskerk, flat on top since 1717.",
+            "nl": "De toren van de Sint-Martinuskerk, sinds 1717 plat van boven.",
+            "pl": "The tower of the Sint-Martinuskerk, flat on top since 1717.",
+            "cs": "The tower of the Sint-Martinuskerk, flat on top since 1717.",
+            "sk": "The tower of the Sint-Martinuskerk, flat on top since 1717.",
+            "ro": "The tower of the Sint-Martinuskerk, flat on top since 1717.",
+            "hu": "The tower of the Sint-Martinuskerk, flat on top since 1717.",
+            "da": "The tower of the Sint-Martinuskerk, flat on top since 1717."
+          },
+          "title": {
+            "en": "The church tower",
+            "de": "Der Kirchturm",
+            "fr": "Le clocher",
+            "it": "The church tower",
+            "nl": "De kerktoren",
+            "pl": "The church tower",
+            "cs": "The church tower",
+            "sk": "The church tower",
+            "ro": "The church tower",
+            "hu": "The church tower",
+            "da": "The church tower"
+          },
+          "value": "34 m"
+        },
+        {
+          "text": {
+            "en": "Hugo de Groot left Loevestein in a book chest on 22 March 1621.",
+            "de": "Am 22. März 1621 verließ Hugo de Groot Loevestein in einer Bücherkiste.",
+            "fr": "Hugo de Groot a quitté Loevestein dans un coffre à livres le 22 mars 1621.",
+            "it": "Hugo de Groot left Loevestein in a book chest on 22 March 1621.",
+            "nl": "Op 22 maart 1621 verliet Hugo de Groot Loevestein in een boekenkist.",
+            "pl": "Hugo de Groot left Loevestein in a book chest on 22 March 1621.",
+            "cs": "Hugo de Groot left Loevestein in a book chest on 22 March 1621.",
+            "sk": "Hugo de Groot left Loevestein in a book chest on 22 March 1621.",
+            "ro": "Hugo de Groot left Loevestein in a book chest on 22 March 1621.",
+            "hu": "Hugo de Groot left Loevestein in a book chest on 22 March 1621.",
+            "da": "Hugo de Groot left Loevestein in a book chest on 22 March 1621."
+          },
+          "title": {
+            "en": "The escape",
+            "de": "Die Flucht",
+            "fr": "L'évasion",
+            "it": "The escape",
+            "nl": "De ontsnapping",
+            "pl": "The escape",
+            "cs": "The escape",
+            "sk": "The escape",
+            "ro": "The escape",
+            "hu": "The escape",
+            "da": "The escape"
+          },
+          "value": "1621"
+        },
+        {
+          "text": {
+            "en": "One way on the foot ferry from Woudrichem to Loevestein.",
+            "de": "Einfache Fahrt mit der Fußgängerfähre von Woudrichem nach Loevestein.",
+            "fr": "L'aller simple en bac pour piétons, de Woudrichem à Loevestein.",
+            "it": "One way on the foot ferry from Woudrichem to Loevestein.",
+            "nl": "Enkele reis met het voetveer van Woudrichem naar Loevestein.",
+            "pl": "One way on the foot ferry from Woudrichem to Loevestein.",
+            "cs": "One way on the foot ferry from Woudrichem to Loevestein.",
+            "sk": "One way on the foot ferry from Woudrichem to Loevestein.",
+            "ro": "One way on the foot ferry from Woudrichem to Loevestein.",
+            "hu": "One way on the foot ferry from Woudrichem to Loevestein.",
+            "da": "One way on the foot ferry from Woudrichem to Loevestein."
+          },
+          "title": {
+            "en": "The crossing",
+            "de": "Die Überfahrt",
+            "fr": "La traversée",
+            "it": "The crossing",
+            "nl": "De overtocht",
+            "pl": "The crossing",
+            "cs": "The crossing",
+            "sk": "The crossing",
+            "ro": "The crossing",
+            "hu": "The crossing",
+            "da": "The crossing"
+          },
+          "value": "€1.90"
+        }
+      ]
+    },
+    {
+      "id": "harbour",
+      "type": "wide-photo",
+      "image": {
+        "src": "https://assets.stampiq.io/blog/74086502d8acdbf0/wd-harbour.jpg",
+        "width": 2400,
+        "credit": "Michielverbeek, CC BY-SA 4.0",
+        "height": 1490,
+        "caption": {
+          "en": "The historic harbour of Woudrichem, with the river behind.",
+          "de": "Der historische Hafen von Woudrichem, dahinter der Fluss.",
+          "fr": "Le port historique de Woudrichem, avec la rivière à l'arrière-plan.",
+          "it": "The historic harbour of Woudrichem, with the river behind.",
+          "nl": "De historische haven van Woudrichem, met de rivier erachter.",
+          "pl": "The historic harbour of Woudrichem, with the river behind.",
+          "cs": "The historic harbour of Woudrichem, with the river behind.",
+          "sk": "The historic harbour of Woudrichem, with the river behind.",
+          "ro": "The historic harbour of Woudrichem, with the river behind.",
+          "hu": "The historic harbour of Woudrichem, with the river behind.",
+          "da": "The historic harbour of Woudrichem, with the river behind."
+        },
+        "source_url": "https://commons.wikimedia.org/wiki/File:Woudrichem,_historische_haven_met_kanon_bij_de_Stadshaven-Rijkswal_foto7_2016-06-19_12.47.jpg"
+      }
+    },
+    {
+      "id": "practical",
+      "rows": [
+        {
+          "label": {
+            "en": "Slot Loevestein",
+            "de": "Slot Loevestein",
+            "fr": "Slot Loevestein",
+            "it": "Slot Loevestein",
+            "nl": "Slot Loevestein",
+            "pl": "Slot Loevestein",
+            "cs": "Slot Loevestein",
+            "sk": "Slot Loevestein",
+            "ro": "Slot Loevestein",
+            "hu": "Slot Loevestein",
+            "da": "Slot Loevestein"
+          },
+          "value": {
+            "en": "Loevestein 1, 5307 TG Poederoijen",
+            "de": "Loevestein 1, 5307 TG Poederoijen",
+            "fr": "Loevestein 1, 5307 TG Poederoijen",
+            "it": "Loevestein 1, 5307 TG Poederoijen",
+            "nl": "Loevestein 1, 5307 TG Poederoijen",
+            "pl": "Loevestein 1, 5307 TG Poederoijen",
+            "cs": "Loevestein 1, 5307 TG Poederoijen",
+            "sk": "Loevestein 1, 5307 TG Poederoijen",
+            "ro": "Loevestein 1, 5307 TG Poederoijen",
+            "hu": "Loevestein 1, 5307 TG Poederoijen",
+            "da": "Loevestein 1, 5307 TG Poederoijen"
+          }
+        },
+        {
+          "label": {
+            "en": "Open",
+            "de": "Geöffnet",
+            "fr": "Ouverture",
+            "it": "Open",
+            "nl": "Open",
+            "pl": "Open",
+            "cs": "Open",
+            "sk": "Open",
+            "ro": "Open",
+            "hu": "Open",
+            "da": "Open"
+          },
+          "value": {
+            "en": "Daily 10:00 to 17:00; closed 25 and 31 December and 1 January",
+            "de": "Täglich 10:00 bis 17:00 Uhr; geschlossen am 25. und 31. Dezember und am 1. Januar",
+            "fr": "Tous les jours de 10 h à 17 h ; fermé les 25 et 31 décembre et le 1er janvier",
+            "it": "Daily 10:00 to 17:00; closed 25 and 31 December and 1 January",
+            "nl": "Elke dag 10:00 tot 17:00; gesloten op 25 en 31 december en 1 januari",
+            "pl": "Daily 10:00 to 17:00; closed 25 and 31 December and 1 January",
+            "cs": "Daily 10:00 to 17:00; closed 25 and 31 December and 1 January",
+            "sk": "Daily 10:00 to 17:00; closed 25 and 31 December and 1 January",
+            "ro": "Daily 10:00 to 17:00; closed 25 and 31 December and 1 January",
+            "hu": "Daily 10:00 to 17:00; closed 25 and 31 December and 1 January",
+            "da": "Daily 10:00 to 17:00; closed 25 and 31 December and 1 January"
+          }
+        },
+        {
+          "label": {
+            "en": "Tickets",
+            "de": "Eintritt",
+            "fr": "Billets",
+            "it": "Tickets",
+            "nl": "Toegang",
+            "pl": "Tickets",
+            "cs": "Tickets",
+            "sk": "Tickets",
+            "ro": "Tickets",
+            "hu": "Tickets",
+            "da": "Tickets"
+          },
+          "value": {
+            "en": "Adults €18.00, children 4 to 12 €12.50, free with the Museumkaart. The fortress and the exhibition can be visited in a wheelchair; the castle itself has steep stairs.",
+            "de": "Erwachsene 18,00 €, Kinder von 4 bis 12 Jahren 12,50 €, mit der Museumkaart kostenlos. Die Festung und die Ausstellung kannst du mit dem Rollstuhl besuchen, das Schloss selbst hat steile Treppen und ist dafür nicht zugänglich.",
+            "fr": "Adultes 18,00 €, enfants de 4 à 12 ans 12,50 €, gratuit avec la Museumkaart. La forteresse et l'exposition se visitent en fauteuil roulant ; le château lui-même a des escaliers raides.",
+            "it": "Adults €18.00, children 4 to 12 €12.50, free with the Museumkaart. The fortress and the exhibition can be visited in a wheelchair; the castle itself has steep stairs.",
+            "nl": "Volwassenen € 18,00, kinderen van 4 tot en met 12 jaar € 12,50, gratis met de Museumkaart. Met een rolstoel kun je de vesting en de tentoonstelling bezoeken; het kasteel zelf heeft steile trappen en is met een rolstoel niet te bezoeken.",
+            "pl": "Adults €18.00, children 4 to 12 €12.50, free with the Museumkaart. The fortress and the exhibition can be visited in a wheelchair; the castle itself has steep stairs.",
+            "cs": "Adults €18.00, children 4 to 12 €12.50, free with the Museumkaart. The fortress and the exhibition can be visited in a wheelchair; the castle itself has steep stairs.",
+            "sk": "Adults €18.00, children 4 to 12 €12.50, free with the Museumkaart. The fortress and the exhibition can be visited in a wheelchair; the castle itself has steep stairs.",
+            "ro": "Adults €18.00, children 4 to 12 €12.50, free with the Museumkaart. The fortress and the exhibition can be visited in a wheelchair; the castle itself has steep stairs.",
+            "hu": "Adults €18.00, children 4 to 12 €12.50, free with the Museumkaart. The fortress and the exhibition can be visited in a wheelchair; the castle itself has steep stairs.",
+            "da": "Adults €18.00, children 4 to 12 €12.50, free with the Museumkaart. The fortress and the exhibition can be visited in a wheelchair; the castle itself has steep stairs."
+          }
+        },
+        {
+          "label": {
+            "en": "In October",
+            "de": "Im Oktober",
+            "fr": "En octobre",
+            "it": "In October",
+            "nl": "In oktober",
+            "pl": "In October",
+            "cs": "In October",
+            "sk": "In October",
+            "ro": "In October",
+            "hu": "In October",
+            "da": "In October"
+          },
+          "value": {
+            "en": "Knights' tournament on 17 and 18 October (adults €21.00, children €15.50), autumn programme 10 to 25 October",
+            "de": "Ritterturnier am 17. und 18. Oktober (Erwachsene 21,00 €, Kinder 15,50 €), Herbstprogramm vom 10. bis 25. Oktober",
+            "fr": "Tournoi de chevaliers les 17 et 18 octobre (adultes 21,00 €, enfants 15,50 €), programme d'automne du 10 au 25 octobre",
+            "it": "Knights' tournament on 17 and 18 October (adults €21.00, children €15.50), autumn programme 10 to 25 October",
+            "nl": "Riddertoernooi op 17 en 18 oktober (volwassenen € 21,00, kinderen € 15,50), herfstprogramma van 10 tot en met 25 oktober",
+            "pl": "Knights' tournament on 17 and 18 October (adults €21.00, children €15.50), autumn programme 10 to 25 October",
+            "cs": "Knights' tournament on 17 and 18 October (adults €21.00, children €15.50), autumn programme 10 to 25 October",
+            "sk": "Knights' tournament on 17 and 18 October (adults €21.00, children €15.50), autumn programme 10 to 25 October",
+            "ro": "Knights' tournament on 17 and 18 October (adults €21.00, children €15.50), autumn programme 10 to 25 October",
+            "hu": "Knights' tournament on 17 and 18 October (adults €21.00, children €15.50), autumn programme 10 to 25 October",
+            "da": "Knights' tournament on 17 and 18 October (adults €21.00, children €15.50), autumn programme 10 to 25 October"
+          }
+        },
+        {
+          "label": {
+            "en": "Foot ferry Woudrichem to Loevestein",
+            "de": "Fußgängerfähre von Woudrichem nach Loevestein",
+            "fr": "Bac piéton de Woudrichem à Loevestein",
+            "it": "Foot ferry Woudrichem to Loevestein",
+            "nl": "Voetveer van Woudrichem naar Loevestein",
+            "pl": "Foot ferry Woudrichem to Loevestein",
+            "cs": "Foot ferry Woudrichem to Loevestein",
+            "sk": "Foot ferry Woudrichem to Loevestein",
+            "ro": "Foot ferry Woudrichem to Loevestein",
+            "hu": "Foot ferry Woudrichem to Loevestein",
+            "da": "Foot ferry Woudrichem to Loevestein"
+          },
+          "value": {
+            "en": "Daily 10:00 to 17:30 until 31 October, then on Saturdays and Sundays, and daily again from 19 December to 3 January; €1.90 one way, under 12 €1.00",
+            "de": "Bis 31. Oktober täglich 10:00 bis 17:30 Uhr, danach samstags und sonntags, vom 19. Dezember bis 3. Januar wieder täglich; einfache Fahrt 1,90 €, unter 12 Jahren 1,00 €",
+            "fr": "Tous les jours de 10 h à 17 h 30 jusqu'au 31 octobre, ensuite le samedi et le dimanche, et de nouveau tous les jours du 19 décembre au 3 janvier ; 1,90 € l'aller simple, 1,00 € pour les moins de 12 ans",
+            "it": "Daily 10:00 to 17:30 until 31 October, then on Saturdays and Sundays, and daily again from 19 December to 3 January; €1.90 one way, under 12 €1.00",
+            "nl": "Tot en met 31 oktober elke dag 10:00 tot 17:30, daarna op zaterdag en zondag, en van 19 december tot en met 3 januari weer elke dag; € 1,90 enkele reis, onder 12 jaar € 1,00",
+            "pl": "Daily 10:00 to 17:30 until 31 October, then on Saturdays and Sundays, and daily again from 19 December to 3 January; €1.90 one way, under 12 €1.00",
+            "cs": "Daily 10:00 to 17:30 until 31 October, then on Saturdays and Sundays, and daily again from 19 December to 3 January; €1.90 one way, under 12 €1.00",
+            "sk": "Daily 10:00 to 17:30 until 31 October, then on Saturdays and Sundays, and daily again from 19 December to 3 January; €1.90 one way, under 12 €1.00",
+            "ro": "Daily 10:00 to 17:30 until 31 October, then on Saturdays and Sundays, and daily again from 19 December to 3 January; €1.90 one way, under 12 €1.00",
+            "hu": "Daily 10:00 to 17:30 until 31 October, then on Saturdays and Sundays, and daily again from 19 December to 3 January; €1.90 one way, under 12 €1.00",
+            "da": "Daily 10:00 to 17:30 until 31 October, then on Saturdays and Sundays, and daily again from 19 December to 3 January; €1.90 one way, under 12 €1.00"
+          }
+        },
+        {
+          "label": {
+            "en": "Contact",
+            "de": "Kontakt",
+            "fr": "Contact",
+            "it": "Contact",
+            "nl": "Contact",
+            "pl": "Contact",
+            "cs": "Contact",
+            "sk": "Contact",
+            "ro": "Contact",
+            "hu": "Contact",
+            "da": "Contact"
+          },
+          "value": {
+            "en": "0183 44 71 71",
+            "de": "0183 44 71 71",
+            "fr": "0183 44 71 71",
+            "it": "0183 44 71 71",
+            "nl": "0183 44 71 71",
+            "pl": "0183 44 71 71",
+            "cs": "0183 44 71 71",
+            "sk": "0183 44 71 71",
+            "ro": "0183 44 71 71",
+            "hu": "0183 44 71 71",
+            "da": "0183 44 71 71"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "Practical",
+        "de": "Praktisches",
+        "fr": "Pratique",
+        "it": "Practical",
+        "nl": "Praktisch",
+        "pl": "Practical",
+        "cs": "Practical",
+        "sk": "Practical",
+        "ro": "Practical",
+        "hu": "Practical",
+        "da": "Practical"
+      },
+      "title": {
+        "en": "Castle, ferry and times",
+        "de": "Schloss, Fähre und Zeiten",
+        "fr": "Château, bac et horaires",
+        "it": "Castle, ferry and times",
+        "nl": "Kasteel, veer en openingstijden",
+        "pl": "Castle, ferry and times",
+        "cs": "Castle, ferry and times",
+        "sk": "Castle, ferry and times",
+        "ro": "Castle, ferry and times",
+        "hu": "Castle, ferry and times",
+        "da": "Castle, ferry and times"
+      },
+      "buttons": [
+        {
+          "href": "https://www.slotloevestein.nl/openingstijden-tickets/",
+          "label": {
+            "en": "Official website",
+            "de": "Offizielle Website",
+            "fr": "Site officiel",
+            "it": "Sito ufficiale",
+            "nl": "Officiële website",
+            "pl": "Oficjalna strona",
+            "cs": "Official website",
+            "sk": "Official website",
+            "ro": "Official website",
+            "hu": "Official website",
+            "da": "Official website"
+          }
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "type": "tiles",
+      "label": {
+        "en": "How to get there",
+        "de": "Anfahrt",
+        "fr": "Comment y aller",
+        "it": "How to get there",
+        "nl": "Zo kom je er",
+        "pl": "How to get there",
+        "cs": "How to get there",
+        "sk": "How to get there",
+        "ro": "How to get there",
+        "hu": "How to get there",
+        "da": "How to get there"
+      },
+      "tiles": [
+        {
+          "icon": "train",
+          "text": {
+            "en": "Take the train to Gorinchem; from the station it is about 20 minutes on foot to the Riveer landing Buiten de Waterpoort.",
+            "de": "Fahr mit dem Zug nach Gorinchem, vom Bahnhof gehst du etwa 20 Minuten bis zum Riveer-Anleger Buiten de Waterpoort.",
+            "fr": "Prends le train jusqu'à Gorinchem ; de la gare, compte environ 20 minutes à pied jusqu'à l'embarcadère Riveer Buiten de Waterpoort.",
+            "it": "Take the train to Gorinchem; from the station it is about 20 minutes on foot to the Riveer landing Buiten de Waterpoort.",
+            "nl": "Neem de trein naar Gorinchem; vanaf het station loop je in ongeveer 20 minuten naar de aanlegplaats van Riveer aan Buiten de Waterpoort.",
+            "pl": "Take the train to Gorinchem; from the station it is about 20 minutes on foot to the Riveer landing Buiten de Waterpoort.",
+            "cs": "Take the train to Gorinchem; from the station it is about 20 minutes on foot to the Riveer landing Buiten de Waterpoort.",
+            "sk": "Take the train to Gorinchem; from the station it is about 20 minutes on foot to the Riveer landing Buiten de Waterpoort.",
+            "ro": "Take the train to Gorinchem; from the station it is about 20 minutes on foot to the Riveer landing Buiten de Waterpoort.",
+            "hu": "Take the train to Gorinchem; from the station it is about 20 minutes on foot to the Riveer landing Buiten de Waterpoort.",
+            "da": "Take the train to Gorinchem; from the station it is about 20 minutes on foot to the Riveer landing Buiten de Waterpoort."
+          },
+          "title": {
+            "en": "By train",
+            "de": "Mit dem Zug",
+            "fr": "En train",
+            "it": "By train",
+            "nl": "Met de trein",
+            "pl": "By train",
+            "cs": "By train",
+            "sk": "By train",
+            "ro": "By train",
+            "hu": "By train",
+            "da": "By train"
+          }
+        },
+        {
+          "icon": "pin",
+          "text": {
+            "en": "The Riveer ferry crosses from Gorinchem to Woudrichem daily from May to September and Monday to Saturday from October to April; tickets are bought in the Riveer app.",
+            "de": "Die Riveer-Fähre fährt von Mai bis September täglich und von Oktober bis April montags bis samstags von Gorinchem nach Woudrichem. Die Tickets kaufst du in der Riveer-App.",
+            "fr": "Le bac Riveer relie Gorinchem à Woudrichem tous les jours de mai à septembre et du lundi au samedi d'octobre à avril. Les billets s'achètent dans l'appli Riveer.",
+            "it": "The Riveer ferry crosses from Gorinchem to Woudrichem daily from May to September and Monday to Saturday from October to April; tickets are bought in the Riveer app.",
+            "nl": "De veerboot van Riveer vaart van mei tot en met september elke dag en van oktober tot en met april van maandag tot en met zaterdag van Gorinchem naar Woudrichem. Een kaartje koop je in de Riveer-app.",
+            "pl": "The Riveer ferry crosses from Gorinchem to Woudrichem daily from May to September and Monday to Saturday from October to April; tickets are bought in the Riveer app.",
+            "cs": "The Riveer ferry crosses from Gorinchem to Woudrichem daily from May to September and Monday to Saturday from October to April; tickets are bought in the Riveer app.",
+            "sk": "The Riveer ferry crosses from Gorinchem to Woudrichem daily from May to September and Monday to Saturday from October to April; tickets are bought in the Riveer app.",
+            "ro": "The Riveer ferry crosses from Gorinchem to Woudrichem daily from May to September and Monday to Saturday from October to April; tickets are bought in the Riveer app.",
+            "hu": "The Riveer ferry crosses from Gorinchem to Woudrichem daily from May to September and Monday to Saturday from October to April; tickets are bought in the Riveer app.",
+            "da": "The Riveer ferry crosses from Gorinchem to Woudrichem daily from May to September and Monday to Saturday from October to April; tickets are bought in the Riveer app."
+          },
+          "title": {
+            "en": "By boat",
+            "de": "Mit dem Boot",
+            "fr": "En bateau",
+            "it": "By boat",
+            "nl": "Met de boot",
+            "pl": "By boat",
+            "cs": "By boat",
+            "sk": "By boat",
+            "ro": "By boat",
+            "hu": "By boat",
+            "da": "By boat"
+          }
+        },
+        {
+          "icon": "car",
+          "text": {
+            "en": "Take the A27 to exit 22 Nieuwendijk/Woudrichem and park outside the walls on the Schapendam or at the Stadshaven, about five minutes on foot from the ferry landings.",
+            "de": "Über die A27 bis zur Ausfahrt 22 Nieuwendijk/Woudrichem, dann parkst du außerhalb der Mauern am Schapendam oder am Stadshaven, etwa fünf Minuten zu Fuß von den Fähranlegern.",
+            "fr": "Prends l'A27 jusqu'à la sortie 22 Nieuwendijk/Woudrichem et gare-toi hors des remparts, sur le Schapendam ou au Stadshaven, à environ cinq minutes à pied des embarcadères.",
+            "it": "Take the A27 to exit 22 Nieuwendijk/Woudrichem and park outside the walls on the Schapendam or at the Stadshaven, about five minutes on foot from the ferry landings.",
+            "nl": "Neem de A27 tot afrit 22 Nieuwendijk/Woudrichem en parkeer buiten de wallen op de Schapendam of bij de Stadshaven, ongeveer vijf minuten lopen van de aanlegplaatsen.",
+            "pl": "Take the A27 to exit 22 Nieuwendijk/Woudrichem and park outside the walls on the Schapendam or at the Stadshaven, about five minutes on foot from the ferry landings.",
+            "cs": "Take the A27 to exit 22 Nieuwendijk/Woudrichem and park outside the walls on the Schapendam or at the Stadshaven, about five minutes on foot from the ferry landings.",
+            "sk": "Take the A27 to exit 22 Nieuwendijk/Woudrichem and park outside the walls on the Schapendam or at the Stadshaven, about five minutes on foot from the ferry landings.",
+            "ro": "Take the A27 to exit 22 Nieuwendijk/Woudrichem and park outside the walls on the Schapendam or at the Stadshaven, about five minutes on foot from the ferry landings.",
+            "hu": "Take the A27 to exit 22 Nieuwendijk/Woudrichem and park outside the walls on the Schapendam or at the Stadshaven, about five minutes on foot from the ferry landings.",
+            "da": "Take the A27 to exit 22 Nieuwendijk/Woudrichem and park outside the walls on the Schapendam or at the Stadshaven, about five minutes on foot from the ferry landings."
+          },
+          "title": {
+            "en": "By car",
+            "de": "Mit dem Auto",
+            "fr": "En voiture",
+            "it": "By car",
+            "nl": "Met de auto",
+            "pl": "By car",
+            "cs": "By car",
+            "sk": "By car",
+            "ro": "By car",
+            "hu": "By car",
+            "da": "By car"
+          }
+        },
+        {
+          "icon": "walk",
+          "text": {
+            "en": "From the ferry landing on the Loevestein side, the castle is about ten minutes on foot.",
+            "de": "Vom Fähranleger auf der Seite von Loevestein bist du in etwa zehn Minuten am Schloss.",
+            "fr": "Depuis l'embarcadère côté Loevestein, le château est à environ dix minutes à pied.",
+            "it": "From the ferry landing on the Loevestein side, the castle is about ten minutes on foot.",
+            "nl": "Vanaf de aanlegplaats aan de kant van Loevestein loop je in ongeveer tien minuten naar het kasteel.",
+            "pl": "From the ferry landing on the Loevestein side, the castle is about ten minutes on foot.",
+            "cs": "From the ferry landing on the Loevestein side, the castle is about ten minutes on foot.",
+            "sk": "From the ferry landing on the Loevestein side, the castle is about ten minutes on foot.",
+            "ro": "From the ferry landing on the Loevestein side, the castle is about ten minutes on foot.",
+            "hu": "From the ferry landing on the Loevestein side, the castle is about ten minutes on foot.",
+            "da": "From the ferry landing on the Loevestein side, the castle is about ten minutes on foot."
+          },
+          "title": {
+            "en": "On foot",
+            "de": "Zu Fuß",
+            "fr": "À pied",
+            "it": "On foot",
+            "nl": "Te voet",
+            "pl": "On foot",
+            "cs": "On foot",
+            "sk": "On foot",
+            "ro": "On foot",
+            "hu": "On foot",
+            "da": "On foot"
+          }
+        }
+      ],
+      "title": {
+        "en": "By train and ferry, or by car",
+        "de": "Mit Zug und Fähre oder mit dem Auto",
+        "fr": "En train et en bac, ou en voiture",
+        "it": "By train and ferry, or by car",
+        "nl": "Met trein en veerboot, of met de auto",
+        "pl": "By train and ferry, or by car",
+        "cs": "By train and ferry, or by car",
+        "sk": "By train and ferry, or by car",
+        "ro": "By train and ferry, or by car",
+        "hu": "By train and ferry, or by car",
+        "da": "By train and ferry, or by car"
+      }
+    },
+    {
+      "id": "season",
+      "text": {
+        "en": "From October the Riveer boats do not go to Loevestein; there is only a water taxi on request. The fishing museum in Woudrichem is closed for all of 2026. From 1 November the foot ferry runs on Saturdays and Sundays only, and daily again from 19 December to 3 January.",
+        "de": "Ab Oktober fahren die Riveer-Boote nicht nach Loevestein, es gibt dann nur ein Wassertaxi auf Anfrage. Das Fischereimuseum in Woudrichem ist das ganze Jahr 2026 geschlossen. Ab 1. November fährt die Fußgängerfähre nur samstags und sonntags, vom 19. Dezember bis 3. Januar wieder täglich.",
+        "fr": "À partir d'octobre, les bateaux Riveer ne desservent plus Loevestein, et il n'y a qu'un bateau-taxi sur demande. Le musée de la pêche de Woudrichem est fermé pendant toute l'année 2026. À partir du 1er novembre, le bac pour piétons ne circule que le samedi et le dimanche, puis de nouveau tous les jours du 19 décembre au 3 janvier.",
+        "it": "From October the Riveer boats do not go to Loevestein; there is only a water taxi on request. The fishing museum in Woudrichem is closed for all of 2026. From 1 November the foot ferry runs on Saturdays and Sundays only, and daily again from 19 December to 3 January.",
+        "nl": "Vanaf oktober varen de boten van Riveer niet naar Loevestein; er is dan alleen een watertaxi op aanvraag. Het visserijmuseum in Woudrichem is heel 2026 gesloten. Vanaf 1 november vaart het voetveer alleen op zaterdag en zondag, en van 19 december tot en met 3 januari weer elke dag.",
+        "pl": "From October the Riveer boats do not go to Loevestein; there is only a water taxi on request. The fishing museum in Woudrichem is closed for all of 2026. From 1 November the foot ferry runs on Saturdays and Sundays only, and daily again from 19 December to 3 January.",
+        "cs": "From October the Riveer boats do not go to Loevestein; there is only a water taxi on request. The fishing museum in Woudrichem is closed for all of 2026. From 1 November the foot ferry runs on Saturdays and Sundays only, and daily again from 19 December to 3 January.",
+        "sk": "From October the Riveer boats do not go to Loevestein; there is only a water taxi on request. The fishing museum in Woudrichem is closed for all of 2026. From 1 November the foot ferry runs on Saturdays and Sundays only, and daily again from 19 December to 3 January.",
+        "ro": "From October the Riveer boats do not go to Loevestein; there is only a water taxi on request. The fishing museum in Woudrichem is closed for all of 2026. From 1 November the foot ferry runs on Saturdays and Sundays only, and daily again from 19 December to 3 January.",
+        "hu": "From October the Riveer boats do not go to Loevestein; there is only a water taxi on request. The fishing museum in Woudrichem is closed for all of 2026. From 1 November the foot ferry runs on Saturdays and Sundays only, and daily again from 19 December to 3 January.",
+        "da": "From October the Riveer boats do not go to Loevestein; there is only a water taxi on request. The fishing museum in Woudrichem is closed for all of 2026. From 1 November the foot ferry runs on Saturdays and Sundays only, and daily again from 19 December to 3 January."
+      },
+      "type": "note"
+    },
+    {
+      "id": "afterwards",
+      "type": "text",
+      "label": {
+        "en": "Afterwards",
+        "de": "Danach",
+        "fr": "Après la visite",
+        "it": "Afterwards",
+        "nl": "Daarna",
+        "pl": "Afterwards",
+        "cs": "Afterwards",
+        "sk": "Afterwards",
+        "ro": "Afterwards",
+        "hu": "Afterwards",
+        "da": "Afterwards"
+      },
+      "title": {
+        "en": "Gorinchem and the rivers",
+        "de": "Gorinchem und die Flüsse",
+        "fr": "Gorinchem et les fleuves",
+        "it": "Gorinchem and the rivers",
+        "nl": "Gorinchem en de rivieren",
+        "pl": "Gorinchem and the rivers",
+        "cs": "Gorinchem and the rivers",
+        "sk": "Gorinchem and the rivers",
+        "ro": "Gorinchem and the rivers",
+        "hu": "Gorinchem and the rivers",
+        "da": "Gorinchem and the rivers"
+      },
+      "buttons": [],
+      "paragraphs": [
+        {
+          "en": "In Gorinchem the chest was carried into the town, and De Groot walked out of the town through a small gate, today called the Hugo de Grootpoortje. On your way to the station you walk through the same fortified town.",
+          "de": "In Gorinchem wurde die Kiste damals in die Stadt getragen, und De Groot verließ die Stadt zu Fuß durch ein kleines Tor, das heute Hugo de Grootpoortje heißt. Auf dem Weg zum Bahnhof gehst du durch die Festungsstadt.",
+          "fr": "Le coffre a été porté jusque dans Gorinchem, et De Groot a quitté la ville à pied par une petite porte, appelée aujourd'hui Hugo de Grootpoortje. Sur le chemin de la gare, tu traverses cette ville fortifiée.",
+          "it": "In Gorinchem the chest was carried into the town, and De Groot walked out of the town through a small gate, today called the Hugo de Grootpoortje. On your way to the station you walk through the same fortified town.",
+          "nl": "In Gorinchem werd de kist de stad in gedragen. De Groot liep de stad weer uit door een kleine poort, die nu het Hugo de Grootpoortje heet. Op weg naar het station loop je door deze vestingstad.",
+          "pl": "In Gorinchem the chest was carried into the town, and De Groot walked out of the town through a small gate, today called the Hugo de Grootpoortje. On your way to the station you walk through the same fortified town.",
+          "cs": "In Gorinchem the chest was carried into the town, and De Groot walked out of the town through a small gate, today called the Hugo de Grootpoortje. On your way to the station you walk through the same fortified town.",
+          "sk": "In Gorinchem the chest was carried into the town, and De Groot walked out of the town through a small gate, today called the Hugo de Grootpoortje. On your way to the station you walk through the same fortified town.",
+          "ro": "In Gorinchem the chest was carried into the town, and De Groot walked out of the town through a small gate, today called the Hugo de Grootpoortje. On your way to the station you walk through the same fortified town.",
+          "hu": "In Gorinchem the chest was carried into the town, and De Groot walked out of the town through a small gate, today called the Hugo de Grootpoortje. On your way to the station you walk through the same fortified town.",
+          "da": "In Gorinchem the chest was carried into the town, and De Groot walked out of the town through a small gate, today called the Hugo de Grootpoortje. On your way to the station you walk through the same fortified town."
+        },
+        {
+          "en": "Open the map in StampIQ on the way. Along the rivers there are more pins: the ferry between Brakel and Herwijnen, on a stamp from 2019, the fortified town of Heusden with its cable-stayed bridge, and the Oudendijkse Molen at Hoornaar. The badge on each tells you which of them you already have. The 2011 stamp for 650 years of Slot Loevestein is on the castle pin too, with only lettering and the year 1361.",
+          "de": "Öffne unterwegs die Karte in StampIQ. Entlang der Flüsse gibt es weitere Pins: die Fähre zwischen Brakel und Herwijnen auf einer Marke von 2019, die Festungsstadt Heusden mit ihrer Schrägseilbrücke und die Oudendijkse Molen bei Hoornaar. Am Abzeichen jeder Marke siehst du, welche davon du schon hast. Auf dem Pin des Schlosses liegt auch die Marke von 2011 zu 650 Jahren Slot Loevestein, nur mit Schrift und der Jahreszahl 1361.",
+          "fr": "Ouvre la carte de StampIQ en route. Le long des rivières, il y a d'autres épingles : le bac entre Brakel et Herwijnen sur un timbre de 2019, la ville fortifiée de Heusden avec son pont à haubans, et l'Oudendijkse Molen à Hoornaar. Le badge de chaque timbre t'indique lesquels tu possèdes déjà. Le timbre de 2011 pour les 650 ans de Slot Loevestein se trouve aussi sur l'épingle du château, avec pour seul décor du texte et l'année 1361.",
+          "it": "Open the map in StampIQ on the way. Along the rivers there are more pins: the ferry between Brakel and Herwijnen, on a stamp from 2019, the fortified town of Heusden with its cable-stayed bridge, and the Oudendijkse Molen at Hoornaar. The badge on each tells you which of them you already have. The 2011 stamp for 650 years of Slot Loevestein is on the castle pin too, with only lettering and the year 1361.",
+          "nl": "Open onderweg de kaart in StampIQ. Langs de rivieren staan meer spelden: het veer tussen Brakel en Herwijnen op een zegel uit 2019, het vestingstadje Heusden met zijn tuibrug, en de Oudendijkse Molen bij Hoornaar. De badge bij elke zegel laat zien welke je al hebt. Ook de zegel uit 2011 voor 650 jaar Slot Loevestein staat bij de speld van het kasteel. Daarop staan alleen letters en het jaartal 1361.",
+          "pl": "Open the map in StampIQ on the way. Along the rivers there are more pins: the ferry between Brakel and Herwijnen, on a stamp from 2019, the fortified town of Heusden with its cable-stayed bridge, and the Oudendijkse Molen at Hoornaar. The badge on each tells you which of them you already have. The 2011 stamp for 650 years of Slot Loevestein is on the castle pin too, with only lettering and the year 1361.",
+          "cs": "Open the map in StampIQ on the way. Along the rivers there are more pins: the ferry between Brakel and Herwijnen, on a stamp from 2019, the fortified town of Heusden with its cable-stayed bridge, and the Oudendijkse Molen at Hoornaar. The badge on each tells you which of them you already have. The 2011 stamp for 650 years of Slot Loevestein is on the castle pin too, with only lettering and the year 1361.",
+          "sk": "Open the map in StampIQ on the way. Along the rivers there are more pins: the ferry between Brakel and Herwijnen, on a stamp from 2019, the fortified town of Heusden with its cable-stayed bridge, and the Oudendijkse Molen at Hoornaar. The badge on each tells you which of them you already have. The 2011 stamp for 650 years of Slot Loevestein is on the castle pin too, with only lettering and the year 1361.",
+          "ro": "Open the map in StampIQ on the way. Along the rivers there are more pins: the ferry between Brakel and Herwijnen, on a stamp from 2019, the fortified town of Heusden with its cable-stayed bridge, and the Oudendijkse Molen at Hoornaar. The badge on each tells you which of them you already have. The 2011 stamp for 650 years of Slot Loevestein is on the castle pin too, with only lettering and the year 1361.",
+          "hu": "Open the map in StampIQ on the way. Along the rivers there are more pins: the ferry between Brakel and Herwijnen, on a stamp from 2019, the fortified town of Heusden with its cable-stayed bridge, and the Oudendijkse Molen at Hoornaar. The badge on each tells you which of them you already have. The 2011 stamp for 650 years of Slot Loevestein is on the castle pin too, with only lettering and the year 1361.",
+          "da": "Open the map in StampIQ on the way. Along the rivers there are more pins: the ferry between Brakel and Herwijnen, on a stamp from 2019, the fortified town of Heusden with its cable-stayed bridge, and the Oudendijkse Molen at Hoornaar. The badge on each tells you which of them you already have. The 2011 stamp for 650 years of Slot Loevestein is on the castle pin too, with only lettering and the year 1361."
+        }
+      ]
+    }
+  ]
+}
