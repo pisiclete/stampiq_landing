@@ -1,0 +1,1026 @@
+{
+  "category": "day-trips",
+  "markets": [
+    "PL"
+  ],
+  "langs": [
+    "en",
+    "pl"
+  ],
+  "published_at": "2026-10-02T10:00:00+00:00",
+  "thumbnail": {
+    "src": "https://assets.stampiq.io/blog/f0f041a04cbfc9ca/mz-bridge-side.jpg",
+    "width": 2400,
+    "height": 1600
+  },
+  "languages": {
+    "en": {
+      "slug": "day-trip-maurzyce-welded-bridge",
+      "title": "Day trip: the welded bridge at Maurzyce",
+      "description": "A 3 zł stamp from 2008 reads \"Most spawany, Maurzyce\". How to visit the welded bridge near Łowicz, the open-air museum beside it and the town."
+    },
+    "de": {
+      "slug": "day-trip-maurzyce-welded-bridge",
+      "title": "Day trip: the welded bridge at Maurzyce",
+      "description": "A 3 zł stamp from 2008 reads \"Most spawany, Maurzyce\". How to visit the welded bridge near Łowicz, the open-air museum beside it and the town."
+    },
+    "fr": {
+      "slug": "day-trip-maurzyce-welded-bridge",
+      "title": "Day trip: the welded bridge at Maurzyce",
+      "description": "A 3 zł stamp from 2008 reads \"Most spawany, Maurzyce\". How to visit the welded bridge near Łowicz, the open-air museum beside it and the town."
+    },
+    "it": {
+      "slug": "day-trip-maurzyce-welded-bridge",
+      "title": "Day trip: the welded bridge at Maurzyce",
+      "description": "A 3 zł stamp from 2008 reads \"Most spawany, Maurzyce\". How to visit the welded bridge near Łowicz, the open-air museum beside it and the town."
+    },
+    "nl": {
+      "slug": "day-trip-maurzyce-welded-bridge",
+      "title": "Day trip: the welded bridge at Maurzyce",
+      "description": "A 3 zł stamp from 2008 reads \"Most spawany, Maurzyce\". How to visit the welded bridge near Łowicz, the open-air museum beside it and the town."
+    },
+    "pl": {
+      "slug": "wycieczka-maurzyce-most-spawany",
+      "title": "Wycieczka: most spawany w Maurzycach",
+      "description": "Znaczek za 3 zł z 2008 roku ma napis „Most spawany, Maurzyce”. Jak dotrzeć do mostu pod Łowiczem, do skansenu obok niego i do samego miasta."
+    },
+    "cs": {
+      "slug": "day-trip-maurzyce-welded-bridge",
+      "title": "Day trip: the welded bridge at Maurzyce",
+      "description": "A 3 zł stamp from 2008 reads \"Most spawany, Maurzyce\". How to visit the welded bridge near Łowicz, the open-air museum beside it and the town."
+    },
+    "sk": {
+      "slug": "day-trip-maurzyce-welded-bridge",
+      "title": "Day trip: the welded bridge at Maurzyce",
+      "description": "A 3 zł stamp from 2008 reads \"Most spawany, Maurzyce\". How to visit the welded bridge near Łowicz, the open-air museum beside it and the town."
+    },
+    "ro": {
+      "slug": "day-trip-maurzyce-welded-bridge",
+      "title": "Day trip: the welded bridge at Maurzyce",
+      "description": "A 3 zł stamp from 2008 reads \"Most spawany, Maurzyce\". How to visit the welded bridge near Łowicz, the open-air museum beside it and the town."
+    },
+    "hu": {
+      "slug": "day-trip-maurzyce-welded-bridge",
+      "title": "Day trip: the welded bridge at Maurzyce",
+      "description": "A 3 zł stamp from 2008 reads \"Most spawany, Maurzyce\". How to visit the welded bridge near Łowicz, the open-air museum beside it and the town."
+    },
+    "da": {
+      "slug": "day-trip-maurzyce-welded-bridge",
+      "title": "Day trip: the welded bridge at Maurzyce",
+      "description": "A 3 zł stamp from 2008 reads \"Most spawany, Maurzyce\". How to visit the welded bridge near Łowicz, the open-air museum beside it and the town."
+    }
+  },
+  "header": {
+    "lead": {
+      "en": "A 3 zł stamp from 2008 reads \"Most spawany, Maurzyce\". The welded bridge stands on a country road near Łowicz, next to an open-air museum.",
+      "de": "A 3 zł stamp from 2008 reads \"Most spawany, Maurzyce\". The welded bridge stands on a country road near Łowicz, next to an open-air museum.",
+      "fr": "A 3 zł stamp from 2008 reads \"Most spawany, Maurzyce\". The welded bridge stands on a country road near Łowicz, next to an open-air museum.",
+      "it": "A 3 zł stamp from 2008 reads \"Most spawany, Maurzyce\". The welded bridge stands on a country road near Łowicz, next to an open-air museum.",
+      "nl": "A 3 zł stamp from 2008 reads \"Most spawany, Maurzyce\". The welded bridge stands on a country road near Łowicz, next to an open-air museum.",
+      "pl": "Znaczek za 3 zł z 2008 roku ma napis „Most spawany, Maurzyce”. Ten most stoi przy wiejskiej drodze pod Łowiczem, tuż obok skansenu.",
+      "cs": "A 3 zł stamp from 2008 reads \"Most spawany, Maurzyce\". The welded bridge stands on a country road near Łowicz, next to an open-air museum.",
+      "sk": "A 3 zł stamp from 2008 reads \"Most spawany, Maurzyce\". The welded bridge stands on a country road near Łowicz, next to an open-air museum.",
+      "ro": "A 3 zł stamp from 2008 reads \"Most spawany, Maurzyce\". The welded bridge stands on a country road near Łowicz, next to an open-air museum.",
+      "hu": "A 3 zł stamp from 2008 reads \"Most spawany, Maurzyce\". The welded bridge stands on a country road near Łowicz, next to an open-air museum.",
+      "da": "A 3 zł stamp from 2008 reads \"Most spawany, Maurzyce\". The welded bridge stands on a country road near Łowicz, next to an open-air museum."
+    },
+    "visual": {
+      "type": "stamp",
+      "stamp": {
+        "name": {
+          "en": "Maurzyce Bridge, Poland",
+          "de": "Maurzyce Bridge, Poland",
+          "fr": "Maurzyce Bridge, Poland",
+          "it": "Maurzyce Bridge, Poland",
+          "nl": "Maurzyce Bridge, Poland",
+          "pl": "Most w Maurzycach, Polska",
+          "cs": "Maurzyce Bridge, Poland",
+          "sk": "Maurzyce Bridge, Poland",
+          "ro": "Maurzyce Bridge, Poland",
+          "hu": "Maurzyce Bridge, Poland",
+          "da": "Maurzyce Bridge, Poland"
+        },
+        "year": 2008,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/b767153b1b2b007b/mz-stamp.png",
+          "width": 1100,
+          "height": 810
+        },
+        "country": "PL",
+        "stamp_id": "SIQ-PL-2008-031"
+      }
+    },
+    "buttons": [],
+    "location": "Maurzyce, Łódź Voivodeship, Poland"
+  },
+  "blocks": [
+    {
+      "id": "album",
+      "type": "text",
+      "label": {
+        "en": "In your album",
+        "de": "In your album",
+        "fr": "In your album",
+        "it": "In your album",
+        "nl": "In your album",
+        "pl": "W klaserze",
+        "cs": "In your album",
+        "sk": "In your album",
+        "ro": "In your album",
+        "hu": "In your album",
+        "da": "In your album"
+      },
+      "title": {
+        "en": "An unknown place on a stamp",
+        "de": "An unknown place on a stamp",
+        "fr": "An unknown place on a stamp",
+        "it": "An unknown place on a stamp",
+        "nl": "An unknown place on a stamp",
+        "pl": "Nieznana miejscowość na znaczku",
+        "cs": "An unknown place on a stamp",
+        "sk": "An unknown place on a stamp",
+        "ro": "An unknown place on a stamp",
+        "hu": "An unknown place on a stamp",
+        "da": "An unknown place on a stamp"
+      },
+      "visual": {
+        "type": "phone",
+        "animation": {
+          "src": "https://assets.stampiq.io/blog/08e9ec125864c79c/day-trip-maurzyce-show-on-map.mp4",
+          "width": 960,
+          "height": 2080,
+          "poster": "https://assets.stampiq.io/blog/dc99b39d78975306/day-trip-maurzyce-show-on-map.jpg"
+        }
+      },
+      "buttons": [],
+      "paragraphs": [
+        {
+          "en": "You are scanning Polish stamps from the 2000s, one after the other. One result is a 3 zł stamp from 2008 with a short steel bridge, from the set \"Mosty w Polsce\", bridges in Poland. The other stamps of the set show two bridges in Warsaw and the Ernest Malinowski bridge in Toruń. This one reads \"Most spawany, Maurzyce\", the welded bridge at Maurzyce.",
+          "de": "You are scanning Polish stamps from the 2000s, one after the other. One result is a 3 zł stamp from 2008 with a short steel bridge, from the set \"Mosty w Polsce\", bridges in Poland. The other stamps of the set show two bridges in Warsaw and the Ernest Malinowski bridge in Toruń. This one reads \"Most spawany, Maurzyce\", the welded bridge at Maurzyce.",
+          "fr": "You are scanning Polish stamps from the 2000s, one after the other. One result is a 3 zł stamp from 2008 with a short steel bridge, from the set \"Mosty w Polsce\", bridges in Poland. The other stamps of the set show two bridges in Warsaw and the Ernest Malinowski bridge in Toruń. This one reads \"Most spawany, Maurzyce\", the welded bridge at Maurzyce.",
+          "it": "You are scanning Polish stamps from the 2000s, one after the other. One result is a 3 zł stamp from 2008 with a short steel bridge, from the set \"Mosty w Polsce\", bridges in Poland. The other stamps of the set show two bridges in Warsaw and the Ernest Malinowski bridge in Toruń. This one reads \"Most spawany, Maurzyce\", the welded bridge at Maurzyce.",
+          "nl": "You are scanning Polish stamps from the 2000s, one after the other. One result is a 3 zł stamp from 2008 with a short steel bridge, from the set \"Mosty w Polsce\", bridges in Poland. The other stamps of the set show two bridges in Warsaw and the Ernest Malinowski bridge in Toruń. This one reads \"Most spawany, Maurzyce\", the welded bridge at Maurzyce.",
+          "pl": "Skanujesz po kolei polskie znaczki z lat dwutysięcznych. Jeden z wyników to znaczek za 3 zł z 2008 roku z krótkim stalowym mostem, z serii „Mosty w Polsce”. Na pozostałych znaczkach tej serii są dwa mosty w Warszawie i most im. Ernesta Malinowskiego w Toruniu. Na tym widnieje napis „Most spawany, Maurzyce”.",
+          "cs": "You are scanning Polish stamps from the 2000s, one after the other. One result is a 3 zł stamp from 2008 with a short steel bridge, from the set \"Mosty w Polsce\", bridges in Poland. The other stamps of the set show two bridges in Warsaw and the Ernest Malinowski bridge in Toruń. This one reads \"Most spawany, Maurzyce\", the welded bridge at Maurzyce.",
+          "sk": "You are scanning Polish stamps from the 2000s, one after the other. One result is a 3 zł stamp from 2008 with a short steel bridge, from the set \"Mosty w Polsce\", bridges in Poland. The other stamps of the set show two bridges in Warsaw and the Ernest Malinowski bridge in Toruń. This one reads \"Most spawany, Maurzyce\", the welded bridge at Maurzyce.",
+          "ro": "You are scanning Polish stamps from the 2000s, one after the other. One result is a 3 zł stamp from 2008 with a short steel bridge, from the set \"Mosty w Polsce\", bridges in Poland. The other stamps of the set show two bridges in Warsaw and the Ernest Malinowski bridge in Toruń. This one reads \"Most spawany, Maurzyce\", the welded bridge at Maurzyce.",
+          "hu": "You are scanning Polish stamps from the 2000s, one after the other. One result is a 3 zł stamp from 2008 with a short steel bridge, from the set \"Mosty w Polsce\", bridges in Poland. The other stamps of the set show two bridges in Warsaw and the Ernest Malinowski bridge in Toruń. This one reads \"Most spawany, Maurzyce\", the welded bridge at Maurzyce.",
+          "da": "You are scanning Polish stamps from the 2000s, one after the other. One result is a 3 zł stamp from 2008 with a short steel bridge, from the set \"Mosty w Polsce\", bridges in Poland. The other stamps of the set show two bridges in Warsaw and the Ernest Malinowski bridge in Toruń. This one reads \"Most spawany, Maurzyce\", the welded bridge at Maurzyce."
+        },
+        {
+          "en": "You add the stamp to your collection, open it and tap \"Show on map\". The pin lands on a small river, the Słudwia, 4 kilometres beyond Łowicz on the old road from Warsaw to Poznań. Right next to it is an open-air museum.",
+          "de": "You add the stamp to your collection, open it and tap \"Show on map\". The pin lands on a small river, the Słudwia, 4 kilometres beyond Łowicz on the old road from Warsaw to Poznań. Right next to it is an open-air museum.",
+          "fr": "You add the stamp to your collection, open it and tap \"Show on map\". The pin lands on a small river, the Słudwia, 4 kilometres beyond Łowicz on the old road from Warsaw to Poznań. Right next to it is an open-air museum.",
+          "it": "You add the stamp to your collection, open it and tap \"Show on map\". The pin lands on a small river, the Słudwia, 4 kilometres beyond Łowicz on the old road from Warsaw to Poznań. Right next to it is an open-air museum.",
+          "nl": "You add the stamp to your collection, open it and tap \"Show on map\". The pin lands on a small river, the Słudwia, 4 kilometres beyond Łowicz on the old road from Warsaw to Poznań. Right next to it is an open-air museum.",
+          "pl": "Dodajesz znaczek do kolekcji, otwierasz go i wybierasz „Pokaż na mapie”. Pinezka wskazuje małą rzekę Słudwię, 4 kilometry za Łowiczem, przy starej drodze z Warszawy do Poznania. Tuż obok jest skansen.",
+          "cs": "You add the stamp to your collection, open it and tap \"Show on map\". The pin lands on a small river, the Słudwia, 4 kilometres beyond Łowicz on the old road from Warsaw to Poznań. Right next to it is an open-air museum.",
+          "sk": "You add the stamp to your collection, open it and tap \"Show on map\". The pin lands on a small river, the Słudwia, 4 kilometres beyond Łowicz on the old road from Warsaw to Poznań. Right next to it is an open-air museum.",
+          "ro": "You add the stamp to your collection, open it and tap \"Show on map\". The pin lands on a small river, the Słudwia, 4 kilometres beyond Łowicz on the old road from Warsaw to Poznań. Right next to it is an open-air museum.",
+          "hu": "You add the stamp to your collection, open it and tap \"Show on map\". The pin lands on a small river, the Słudwia, 4 kilometres beyond Łowicz on the old road from Warsaw to Poznań. Right next to it is an open-air museum.",
+          "da": "You add the stamp to your collection, open it and tap \"Show on map\". The pin lands on a small river, the Słudwia, 4 kilometres beyond Łowicz on the old road from Warsaw to Poznań. Right next to it is an open-air museum."
+        },
+        {
+          "en": "The set came out on 29 August 2008 in sheets of 16, four strips with all four values in each. Andrzej Gosik designed it, PWPW printed it, and 500,000 copies of each value were printed.",
+          "de": "The set came out on 29 August 2008 in sheets of 16, four strips with all four values in each. Andrzej Gosik designed it, PWPW printed it, and 500,000 copies of each value were printed.",
+          "fr": "The set came out on 29 August 2008 in sheets of 16, four strips with all four values in each. Andrzej Gosik designed it, PWPW printed it, and 500,000 copies of each value were printed.",
+          "it": "The set came out on 29 August 2008 in sheets of 16, four strips with all four values in each. Andrzej Gosik designed it, PWPW printed it, and 500,000 copies of each value were printed.",
+          "nl": "The set came out on 29 August 2008 in sheets of 16, four strips with all four values in each. Andrzej Gosik designed it, PWPW printed it, and 500,000 copies of each value were printed.",
+          "pl": "Seria weszła do obiegu 29 sierpnia 2008 roku w arkuszach po 16 znaczków, czyli w czterech paskach z kompletem czterech wartości w każdym. Zaprojektował ją Andrzej Gosik, wydrukowała PWPW, a każdą wartość wydano w nakładzie 500 000 sztuk.",
+          "cs": "The set came out on 29 August 2008 in sheets of 16, four strips with all four values in each. Andrzej Gosik designed it, PWPW printed it, and 500,000 copies of each value were printed.",
+          "sk": "The set came out on 29 August 2008 in sheets of 16, four strips with all four values in each. Andrzej Gosik designed it, PWPW printed it, and 500,000 copies of each value were printed.",
+          "ro": "The set came out on 29 August 2008 in sheets of 16, four strips with all four values in each. Andrzej Gosik designed it, PWPW printed it, and 500,000 copies of each value were printed.",
+          "hu": "The set came out on 29 August 2008 in sheets of 16, four strips with all four values in each. Andrzej Gosik designed it, PWPW printed it, and 500,000 copies of each value were printed.",
+          "da": "The set came out on 29 August 2008 in sheets of 16, four strips with all four values in each. Andrzej Gosik designed it, PWPW printed it, and 500,000 copies of each value were printed."
+        }
+      ]
+    },
+    {
+      "id": "bridge",
+      "type": "text",
+      "label": {
+        "en": "The bridge",
+        "de": "The bridge",
+        "fr": "The bridge",
+        "it": "The bridge",
+        "nl": "The bridge",
+        "pl": "Most",
+        "cs": "The bridge",
+        "sk": "The bridge",
+        "ro": "The bridge",
+        "hu": "The bridge",
+        "da": "The bridge"
+      },
+      "title": {
+        "en": "Steel joined by welding",
+        "de": "Steel joined by welding",
+        "fr": "Steel joined by welding",
+        "it": "Steel joined by welding",
+        "nl": "Steel joined by welding",
+        "pl": "Połączenia spawane",
+        "cs": "Steel joined by welding",
+        "sk": "Steel joined by welding",
+        "ro": "Steel joined by welding",
+        "hu": "Steel joined by welding",
+        "da": "Steel joined by welding"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/f8ab9b49a21b0203/mz-underside.jpg",
+          "width": 2400,
+          "credit": "M Z Wojalski, CC BY-SA 3.0 pl",
+          "height": 1600,
+          "caption": {
+            "en": "The trusses and cross-girders under the deck.",
+            "de": "The trusses and cross-girders under the deck.",
+            "fr": "The trusses and cross-girders under the deck.",
+            "it": "The trusses and cross-girders under the deck.",
+            "nl": "The trusses and cross-girders under the deck.",
+            "pl": "Kratownice i poprzecznice pod pomostem.",
+            "cs": "The trusses and cross-girders under the deck.",
+            "sk": "The trusses and cross-girders under the deck.",
+            "ro": "The trusses and cross-girders under the deck.",
+            "hu": "The trusses and cross-girders under the deck.",
+            "da": "The trusses and cross-girders under the deck."
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Maurzyce_Spawany_most_na_S%C5%82udwi_MZW3295.JPG"
+        }
+      },
+      "buttons": [],
+      "paragraphs": [
+        {
+          "en": "From the car park a paved path leads to the bridge, past a boulder with a plaque and a board with the portrait of the man who designed it, Stefan Bryła. The bridge is 27 metres long. Look at the joints between the steel parts: in the 1920s they were held together with rivets or bolts, and here they are welded. According to the road authority GDDKiA, welding brought the weight of the bridge down from 70 to 56 tonnes, and engineers came from all over the world to see it after it was built in 1928.",
+          "de": "From the car park a paved path leads to the bridge, past a boulder with a plaque and a board with the portrait of the man who designed it, Stefan Bryła. The bridge is 27 metres long. Look at the joints between the steel parts: in the 1920s they were held together with rivets or bolts, and here they are welded. According to the road authority GDDKiA, welding brought the weight of the bridge down from 70 to 56 tonnes, and engineers came from all over the world to see it after it was built in 1928.",
+          "fr": "From the car park a paved path leads to the bridge, past a boulder with a plaque and a board with the portrait of the man who designed it, Stefan Bryła. The bridge is 27 metres long. Look at the joints between the steel parts: in the 1920s they were held together with rivets or bolts, and here they are welded. According to the road authority GDDKiA, welding brought the weight of the bridge down from 70 to 56 tonnes, and engineers came from all over the world to see it after it was built in 1928.",
+          "it": "From the car park a paved path leads to the bridge, past a boulder with a plaque and a board with the portrait of the man who designed it, Stefan Bryła. The bridge is 27 metres long. Look at the joints between the steel parts: in the 1920s they were held together with rivets or bolts, and here they are welded. According to the road authority GDDKiA, welding brought the weight of the bridge down from 70 to 56 tonnes, and engineers came from all over the world to see it after it was built in 1928.",
+          "nl": "From the car park a paved path leads to the bridge, past a boulder with a plaque and a board with the portrait of the man who designed it, Stefan Bryła. The bridge is 27 metres long. Look at the joints between the steel parts: in the 1920s they were held together with rivets or bolts, and here they are welded. According to the road authority GDDKiA, welding brought the weight of the bridge down from 70 to 56 tonnes, and engineers came from all over the world to see it after it was built in 1928.",
+          "pl": "Z parkingu do mostu prowadzi utwardzona ścieżka. Mija się po drodze głaz z tablicą i planszę z portretem projektanta mostu, Stefana Bryły. Most ma 27 metrów długości. Przyjrzyj się połączeniom stalowych elementów: w latach 20. XX wieku łączono je nitami albo śrubami, tutaj są spawane. Według GDDKiA dzięki spawaniu masa mostu spadła z 70 do 56 ton, a po budowie w 1928 roku przyjeżdżali go oglądać inżynierowie z całego świata.",
+          "cs": "From the car park a paved path leads to the bridge, past a boulder with a plaque and a board with the portrait of the man who designed it, Stefan Bryła. The bridge is 27 metres long. Look at the joints between the steel parts: in the 1920s they were held together with rivets or bolts, and here they are welded. According to the road authority GDDKiA, welding brought the weight of the bridge down from 70 to 56 tonnes, and engineers came from all over the world to see it after it was built in 1928.",
+          "sk": "From the car park a paved path leads to the bridge, past a boulder with a plaque and a board with the portrait of the man who designed it, Stefan Bryła. The bridge is 27 metres long. Look at the joints between the steel parts: in the 1920s they were held together with rivets or bolts, and here they are welded. According to the road authority GDDKiA, welding brought the weight of the bridge down from 70 to 56 tonnes, and engineers came from all over the world to see it after it was built in 1928.",
+          "ro": "From the car park a paved path leads to the bridge, past a boulder with a plaque and a board with the portrait of the man who designed it, Stefan Bryła. The bridge is 27 metres long. Look at the joints between the steel parts: in the 1920s they were held together with rivets or bolts, and here they are welded. According to the road authority GDDKiA, welding brought the weight of the bridge down from 70 to 56 tonnes, and engineers came from all over the world to see it after it was built in 1928.",
+          "hu": "From the car park a paved path leads to the bridge, past a boulder with a plaque and a board with the portrait of the man who designed it, Stefan Bryła. The bridge is 27 metres long. Look at the joints between the steel parts: in the 1920s they were held together with rivets or bolts, and here they are welded. According to the road authority GDDKiA, welding brought the weight of the bridge down from 70 to 56 tonnes, and engineers came from all over the world to see it after it was built in 1928.",
+          "da": "From the car park a paved path leads to the bridge, past a boulder with a plaque and a board with the portrait of the man who designed it, Stefan Bryła. The bridge is 27 metres long. Look at the joints between the steel parts: in the 1920s they were held together with rivets or bolts, and here they are welded. According to the road authority GDDKiA, welding brought the weight of the bridge down from 70 to 56 tonnes, and engineers came from all over the world to see it after it was built in 1928."
+        },
+        {
+          "en": "GDDKiA calls it the world's first welded road bridge. The English Wikipedia names a shorter welded railway bridge in Turtle Creek, Pennsylvania, built a few months earlier, and calls Maurzyce the first entirely welded road bridge. Road traffic used it until the late 1970s. In 1977 it was moved about 20 metres to the north, and a new bridge took its place on the road.",
+          "de": "GDDKiA calls it the world's first welded road bridge. The English Wikipedia names a shorter welded railway bridge in Turtle Creek, Pennsylvania, built a few months earlier, and calls Maurzyce the first entirely welded road bridge. Road traffic used it until the late 1970s. In 1977 it was moved about 20 metres to the north, and a new bridge took its place on the road.",
+          "fr": "GDDKiA calls it the world's first welded road bridge. The English Wikipedia names a shorter welded railway bridge in Turtle Creek, Pennsylvania, built a few months earlier, and calls Maurzyce the first entirely welded road bridge. Road traffic used it until the late 1970s. In 1977 it was moved about 20 metres to the north, and a new bridge took its place on the road.",
+          "it": "GDDKiA calls it the world's first welded road bridge. The English Wikipedia names a shorter welded railway bridge in Turtle Creek, Pennsylvania, built a few months earlier, and calls Maurzyce the first entirely welded road bridge. Road traffic used it until the late 1970s. In 1977 it was moved about 20 metres to the north, and a new bridge took its place on the road.",
+          "nl": "GDDKiA calls it the world's first welded road bridge. The English Wikipedia names a shorter welded railway bridge in Turtle Creek, Pennsylvania, built a few months earlier, and calls Maurzyce the first entirely welded road bridge. Road traffic used it until the late 1970s. In 1977 it was moved about 20 metres to the north, and a new bridge took its place on the road.",
+          "pl": "GDDKiA nazywa go pierwszym na świecie spawanym mostem drogowym. Angielska Wikipedia podaje krótszy spawany most kolejowy w Turtle Creek w Pensylwanii, zbudowany kilka miesięcy wcześniej, a most w Maurzycach nazywa pierwszym w całości spawanym mostem drogowym. Samochody jeździły po nim do końca lat 70. W 1977 roku przesunięto go o około 20 metrów na północ, a w ciągu drogi stanął na jego miejscu nowy most.",
+          "cs": "GDDKiA calls it the world's first welded road bridge. The English Wikipedia names a shorter welded railway bridge in Turtle Creek, Pennsylvania, built a few months earlier, and calls Maurzyce the first entirely welded road bridge. Road traffic used it until the late 1970s. In 1977 it was moved about 20 metres to the north, and a new bridge took its place on the road.",
+          "sk": "GDDKiA calls it the world's first welded road bridge. The English Wikipedia names a shorter welded railway bridge in Turtle Creek, Pennsylvania, built a few months earlier, and calls Maurzyce the first entirely welded road bridge. Road traffic used it until the late 1970s. In 1977 it was moved about 20 metres to the north, and a new bridge took its place on the road.",
+          "ro": "GDDKiA calls it the world's first welded road bridge. The English Wikipedia names a shorter welded railway bridge in Turtle Creek, Pennsylvania, built a few months earlier, and calls Maurzyce the first entirely welded road bridge. Road traffic used it until the late 1970s. In 1977 it was moved about 20 metres to the north, and a new bridge took its place on the road.",
+          "hu": "GDDKiA calls it the world's first welded road bridge. The English Wikipedia names a shorter welded railway bridge in Turtle Creek, Pennsylvania, built a few months earlier, and calls Maurzyce the first entirely welded road bridge. Road traffic used it until the late 1970s. In 1977 it was moved about 20 metres to the north, and a new bridge took its place on the road.",
+          "da": "GDDKiA calls it the world's first welded road bridge. The English Wikipedia names a shorter welded railway bridge in Turtle Creek, Pennsylvania, built a few months earlier, and calls Maurzyce the first entirely welded road bridge. Road traffic used it until the late 1970s. In 1977 it was moved about 20 metres to the north, and a new bridge took its place on the road."
+        },
+        {
+          "en": "Bryła also designed the Prudential building in Warsaw. During the German occupation he taught at the underground Faculty of Architecture, and on 3 December 1943 he was shot in a street execution in Warsaw.",
+          "de": "Bryła also designed the Prudential building in Warsaw. During the German occupation he taught at the underground Faculty of Architecture, and on 3 December 1943 he was shot in a street execution in Warsaw.",
+          "fr": "Bryła also designed the Prudential building in Warsaw. During the German occupation he taught at the underground Faculty of Architecture, and on 3 December 1943 he was shot in a street execution in Warsaw.",
+          "it": "Bryła also designed the Prudential building in Warsaw. During the German occupation he taught at the underground Faculty of Architecture, and on 3 December 1943 he was shot in a street execution in Warsaw.",
+          "nl": "Bryła also designed the Prudential building in Warsaw. During the German occupation he taught at the underground Faculty of Architecture, and on 3 December 1943 he was shot in a street execution in Warsaw.",
+          "pl": "Bryła zaprojektował też gmach Prudentialu w Warszawie. W czasie okupacji niemieckiej wykładał na tajnym Wydziale Architektury. 3 grudnia 1943 roku zginął rozstrzelany w egzekucji ulicznej w Warszawie.",
+          "cs": "Bryła also designed the Prudential building in Warsaw. During the German occupation he taught at the underground Faculty of Architecture, and on 3 December 1943 he was shot in a street execution in Warsaw.",
+          "sk": "Bryła also designed the Prudential building in Warsaw. During the German occupation he taught at the underground Faculty of Architecture, and on 3 December 1943 he was shot in a street execution in Warsaw.",
+          "ro": "Bryła also designed the Prudential building in Warsaw. During the German occupation he taught at the underground Faculty of Architecture, and on 3 December 1943 he was shot in a street execution in Warsaw.",
+          "hu": "Bryła also designed the Prudential building in Warsaw. During the German occupation he taught at the underground Faculty of Architecture, and on 3 December 1943 he was shot in a street execution in Warsaw.",
+          "da": "Bryła also designed the Prudential building in Warsaw. During the German occupation he taught at the underground Faculty of Architecture, and on 3 December 1943 he was shot in a street execution in Warsaw."
+        }
+      ]
+    },
+    {
+      "id": "figures",
+      "type": "numbers",
+      "label": {
+        "en": "In figures",
+        "de": "In figures",
+        "fr": "In figures",
+        "it": "In figures",
+        "nl": "In figures",
+        "pl": "W liczbach",
+        "cs": "In figures",
+        "sk": "In figures",
+        "ro": "In figures",
+        "hu": "In figures",
+        "da": "In figures"
+      },
+      "title": {
+        "en": "The bridge over the Słudwia",
+        "de": "The bridge over the Słudwia",
+        "fr": "The bridge over the Słudwia",
+        "it": "The bridge over the Słudwia",
+        "nl": "The bridge over the Słudwia",
+        "pl": "Most na Słudwi",
+        "cs": "The bridge over the Słudwia",
+        "sk": "The bridge over the Słudwia",
+        "ro": "The bridge over the Słudwia",
+        "hu": "The bridge over the Słudwia",
+        "da": "The bridge over the Słudwia"
+      },
+      "numbers": [
+        {
+          "text": {
+            "en": "The bridge crosses the Słudwia in one span of 27 metres.",
+            "de": "The bridge crosses the Słudwia in one span of 27 metres.",
+            "fr": "The bridge crosses the Słudwia in one span of 27 metres.",
+            "it": "The bridge crosses the Słudwia in one span of 27 metres.",
+            "nl": "The bridge crosses the Słudwia in one span of 27 metres.",
+            "pl": "Most przekracza Słudwię jednym przęsłem o długości 27 metrów.",
+            "cs": "The bridge crosses the Słudwia in one span of 27 metres.",
+            "sk": "The bridge crosses the Słudwia in one span of 27 metres.",
+            "ro": "The bridge crosses the Słudwia in one span of 27 metres.",
+            "hu": "The bridge crosses the Słudwia in one span of 27 metres.",
+            "da": "The bridge crosses the Słudwia in one span of 27 metres."
+          },
+          "title": {
+            "en": "Length",
+            "de": "Length",
+            "fr": "Length",
+            "it": "Length",
+            "nl": "Length",
+            "pl": "Długość",
+            "cs": "Length",
+            "sk": "Length",
+            "ro": "Length",
+            "hu": "Length",
+            "da": "Length"
+          },
+          "value": "27 m"
+        },
+        {
+          "text": {
+            "en": "According to GDDKiA, welding brought the weight of the bridge down from 70 tonnes.",
+            "de": "According to GDDKiA, welding brought the weight of the bridge down from 70 tonnes.",
+            "fr": "According to GDDKiA, welding brought the weight of the bridge down from 70 tonnes.",
+            "it": "According to GDDKiA, welding brought the weight of the bridge down from 70 tonnes.",
+            "nl": "According to GDDKiA, welding brought the weight of the bridge down from 70 tonnes.",
+            "pl": "Według GDDKiA dzięki spawaniu masa mostu spadła z 70 ton.",
+            "cs": "According to GDDKiA, welding brought the weight of the bridge down from 70 tonnes.",
+            "sk": "According to GDDKiA, welding brought the weight of the bridge down from 70 tonnes.",
+            "ro": "According to GDDKiA, welding brought the weight of the bridge down from 70 tonnes.",
+            "hu": "According to GDDKiA, welding brought the weight of the bridge down from 70 tonnes.",
+            "da": "According to GDDKiA, welding brought the weight of the bridge down from 70 tonnes."
+          },
+          "title": {
+            "en": "Weight",
+            "de": "Weight",
+            "fr": "Weight",
+            "it": "Weight",
+            "nl": "Weight",
+            "pl": "Masa",
+            "cs": "Weight",
+            "sk": "Weight",
+            "ro": "Weight",
+            "hu": "Weight",
+            "da": "Weight"
+          },
+          "value": "56 t"
+        },
+        {
+          "text": {
+            "en": "Designed by Stefan Bryła and built in 1928.",
+            "de": "Designed by Stefan Bryła and built in 1928.",
+            "fr": "Designed by Stefan Bryła and built in 1928.",
+            "it": "Designed by Stefan Bryła and built in 1928.",
+            "nl": "Designed by Stefan Bryła and built in 1928.",
+            "pl": "Most zaprojektował Stefan Bryła, a zbudowano go w 1928 roku.",
+            "cs": "Designed by Stefan Bryła and built in 1928.",
+            "sk": "Designed by Stefan Bryła and built in 1928.",
+            "ro": "Designed by Stefan Bryła and built in 1928.",
+            "hu": "Designed by Stefan Bryła and built in 1928.",
+            "da": "Designed by Stefan Bryła and built in 1928."
+          },
+          "title": {
+            "en": "Year built",
+            "de": "Year built",
+            "fr": "Year built",
+            "it": "Year built",
+            "nl": "Year built",
+            "pl": "Rok budowy",
+            "cs": "Year built",
+            "sk": "Year built",
+            "ro": "Year built",
+            "hu": "Year built",
+            "da": "Year built"
+          },
+          "value": "1928"
+        },
+        {
+          "text": {
+            "en": "The number of 3 zł Maurzyce stamps printed in 2008.",
+            "de": "The number of 3 zł Maurzyce stamps printed in 2008.",
+            "fr": "The number of 3 zł Maurzyce stamps printed in 2008.",
+            "it": "The number of 3 zł Maurzyce stamps printed in 2008.",
+            "nl": "The number of 3 zł Maurzyce stamps printed in 2008.",
+            "pl": "Tyle egzemplarzy znaczka za 3 zł z Maurzycami wydrukowano w 2008 roku.",
+            "cs": "The number of 3 zł Maurzyce stamps printed in 2008.",
+            "sk": "The number of 3 zł Maurzyce stamps printed in 2008.",
+            "ro": "The number of 3 zł Maurzyce stamps printed in 2008.",
+            "hu": "The number of 3 zł Maurzyce stamps printed in 2008.",
+            "da": "The number of 3 zł Maurzyce stamps printed in 2008."
+          },
+          "title": {
+            "en": "Print run",
+            "de": "Print run",
+            "fr": "Print run",
+            "it": "Print run",
+            "nl": "Print run",
+            "pl": "Nakład",
+            "cs": "Print run",
+            "sk": "Print run",
+            "ro": "Print run",
+            "hu": "Print run",
+            "da": "Print run"
+          },
+          "value": "500,000"
+        }
+      ]
+    },
+    {
+      "id": "bridge-side",
+      "type": "wide-photo",
+      "image": {
+        "src": "https://assets.stampiq.io/blog/f0f041a04cbfc9ca/mz-bridge-side.jpg",
+        "width": 2400,
+        "credit": "Krzysztof Popławski, CC BY-SA 4.0",
+        "height": 1600,
+        "caption": {
+          "en": "The welded bridge over the Słudwia.",
+          "de": "The welded bridge over the Słudwia.",
+          "fr": "The welded bridge over the Słudwia.",
+          "it": "The welded bridge over the Słudwia.",
+          "nl": "The welded bridge over the Słudwia.",
+          "pl": "Most spawany na Słudwi.",
+          "cs": "The welded bridge over the Słudwia.",
+          "sk": "The welded bridge over the Słudwia.",
+          "ro": "The welded bridge over the Słudwia.",
+          "hu": "The welded bridge over the Słudwia.",
+          "da": "The welded bridge over the Słudwia."
+        },
+        "source_url": "https://commons.wikimedia.org/wiki/File:Pierwszy_na_%C5%9Bwiecie_drogowy_most_spawany,_most_w_Maurzycach_na_rzece_S%C5%82udwi_pod_%C5%81owiczem,_2025,_KsP_0392.jpg"
+      }
+    },
+    {
+      "id": "skansen",
+      "type": "text",
+      "label": {
+        "en": "Next door",
+        "de": "Next door",
+        "fr": "Next door",
+        "it": "Next door",
+        "nl": "Next door",
+        "pl": "Obok",
+        "cs": "Next door",
+        "sk": "Next door",
+        "ro": "Next door",
+        "hu": "Next door",
+        "da": "Next door"
+      },
+      "title": {
+        "en": "The open-air museum in Maurzyce",
+        "de": "The open-air museum in Maurzyce",
+        "fr": "The open-air museum in Maurzyce",
+        "it": "The open-air museum in Maurzyce",
+        "nl": "The open-air museum in Maurzyce",
+        "pl": "Skansen w Maurzycach",
+        "cs": "The open-air museum in Maurzyce",
+        "sk": "The open-air museum in Maurzyce",
+        "ro": "The open-air museum in Maurzyce",
+        "hu": "The open-air museum in Maurzyce",
+        "da": "The open-air museum in Maurzyce"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/592f5b6ecec1d46b/mz-wysokienice-church.jpg",
+          "width": 2400,
+          "credit": "MOs810, CC BY-SA 4.0",
+          "height": 1800,
+          "caption": {
+            "en": "The wooden church from Wysokienice, with its belfry.",
+            "de": "The wooden church from Wysokienice, with its belfry.",
+            "fr": "The wooden church from Wysokienice, with its belfry.",
+            "it": "The wooden church from Wysokienice, with its belfry.",
+            "nl": "The wooden church from Wysokienice, with its belfry.",
+            "pl": "Drewniany kościół z Wysokienic razem z dzwonnicą.",
+            "cs": "The wooden church from Wysokienice, with its belfry.",
+            "sk": "The wooden church from Wysokienice, with its belfry.",
+            "ro": "The wooden church from Wysokienice, with its belfry.",
+            "hu": "The wooden church from Wysokienice, with its belfry.",
+            "da": "The wooden church from Wysokienice, with its belfry."
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Skansen_Maurzyce_(19).jpg"
+        }
+      },
+      "buttons": [],
+      "paragraphs": [
+        {
+          "en": "Next to the bridge is the Łowicki Park Etnograficzny, the open-air museum of the Muzeum w Łowiczu. More than 40 buildings from the old Księstwo Łowickie stand there, laid out as two villages: an older one around a village green, and a newer one along a street.",
+          "de": "Next to the bridge is the Łowicki Park Etnograficzny, the open-air museum of the Muzeum w Łowiczu. More than 40 buildings from the old Księstwo Łowickie stand there, laid out as two villages: an older one around a village green, and a newer one along a street.",
+          "fr": "Next to the bridge is the Łowicki Park Etnograficzny, the open-air museum of the Muzeum w Łowiczu. More than 40 buildings from the old Księstwo Łowickie stand there, laid out as two villages: an older one around a village green, and a newer one along a street.",
+          "it": "Next to the bridge is the Łowicki Park Etnograficzny, the open-air museum of the Muzeum w Łowiczu. More than 40 buildings from the old Księstwo Łowickie stand there, laid out as two villages: an older one around a village green, and a newer one along a street.",
+          "nl": "Next to the bridge is the Łowicki Park Etnograficzny, the open-air museum of the Muzeum w Łowiczu. More than 40 buildings from the old Księstwo Łowickie stand there, laid out as two villages: an older one around a village green, and a newer one along a street.",
+          "pl": "Tuż przy moście leży Łowicki Park Etnograficzny, czyli skansen Muzeum w Łowiczu. Stoi w nim ponad 40 budynków z dawnego Księstwa Łowickiego, ustawionych w dwie wsie: starszą wokół placu i nowszą wzdłuż ulicy.",
+          "cs": "Next to the bridge is the Łowicki Park Etnograficzny, the open-air museum of the Muzeum w Łowiczu. More than 40 buildings from the old Księstwo Łowickie stand there, laid out as two villages: an older one around a village green, and a newer one along a street.",
+          "sk": "Next to the bridge is the Łowicki Park Etnograficzny, the open-air museum of the Muzeum w Łowiczu. More than 40 buildings from the old Księstwo Łowickie stand there, laid out as two villages: an older one around a village green, and a newer one along a street.",
+          "ro": "Next to the bridge is the Łowicki Park Etnograficzny, the open-air museum of the Muzeum w Łowiczu. More than 40 buildings from the old Księstwo Łowickie stand there, laid out as two villages: an older one around a village green, and a newer one along a street.",
+          "hu": "Next to the bridge is the Łowicki Park Etnograficzny, the open-air museum of the Muzeum w Łowiczu. More than 40 buildings from the old Księstwo Łowickie stand there, laid out as two villages: an older one around a village green, and a newer one along a street.",
+          "da": "Next to the bridge is the Łowicki Park Etnograficzny, the open-air museum of the Muzeum w Łowiczu. More than 40 buildings from the old Księstwo Łowickie stand there, laid out as two villages: an older one around a village green, and a newer one along a street."
+        },
+        {
+          "en": "Go inside the cottages and look up. The rooms are decorated with paper cut-outs, paper bouquets and hanging decorations. One cottage, from Złaków Borowy, belonged to the paper-cut artist Justyna Grzegory, and you see the place where she worked. There is also a village school with the teacher's flat, a forge and a post mill.",
+          "de": "Go inside the cottages and look up. The rooms are decorated with paper cut-outs, paper bouquets and hanging decorations. One cottage, from Złaków Borowy, belonged to the paper-cut artist Justyna Grzegory, and you see the place where she worked. There is also a village school with the teacher's flat, a forge and a post mill.",
+          "fr": "Go inside the cottages and look up. The rooms are decorated with paper cut-outs, paper bouquets and hanging decorations. One cottage, from Złaków Borowy, belonged to the paper-cut artist Justyna Grzegory, and you see the place where she worked. There is also a village school with the teacher's flat, a forge and a post mill.",
+          "it": "Go inside the cottages and look up. The rooms are decorated with paper cut-outs, paper bouquets and hanging decorations. One cottage, from Złaków Borowy, belonged to the paper-cut artist Justyna Grzegory, and you see the place where she worked. There is also a village school with the teacher's flat, a forge and a post mill.",
+          "nl": "Go inside the cottages and look up. The rooms are decorated with paper cut-outs, paper bouquets and hanging decorations. One cottage, from Złaków Borowy, belonged to the paper-cut artist Justyna Grzegory, and you see the place where she worked. There is also a village school with the teacher's flat, a forge and a post mill.",
+          "pl": "Wejdź do chałup i spójrz w górę. Izby zdobią wycinanki, bukiety z bibuły i wiszące pająki. Jedna z chałup, ze Złakowa Borowego, należała do wycinankarki Justyny Grzegory i można w niej zobaczyć miejsce, w którym pracowała. Jest tu też wiejska szkoła z mieszkaniem nauczyciela, kuźnia i wiatrak koźlak.",
+          "cs": "Go inside the cottages and look up. The rooms are decorated with paper cut-outs, paper bouquets and hanging decorations. One cottage, from Złaków Borowy, belonged to the paper-cut artist Justyna Grzegory, and you see the place where she worked. There is also a village school with the teacher's flat, a forge and a post mill.",
+          "sk": "Go inside the cottages and look up. The rooms are decorated with paper cut-outs, paper bouquets and hanging decorations. One cottage, from Złaków Borowy, belonged to the paper-cut artist Justyna Grzegory, and you see the place where she worked. There is also a village school with the teacher's flat, a forge and a post mill.",
+          "ro": "Go inside the cottages and look up. The rooms are decorated with paper cut-outs, paper bouquets and hanging decorations. One cottage, from Złaków Borowy, belonged to the paper-cut artist Justyna Grzegory, and you see the place where she worked. There is also a village school with the teacher's flat, a forge and a post mill.",
+          "hu": "Go inside the cottages and look up. The rooms are decorated with paper cut-outs, paper bouquets and hanging decorations. One cottage, from Złaków Borowy, belonged to the paper-cut artist Justyna Grzegory, and you see the place where she worked. There is also a village school with the teacher's flat, a forge and a post mill.",
+          "da": "Go inside the cottages and look up. The rooms are decorated with paper cut-outs, paper bouquets and hanging decorations. One cottage, from Złaków Borowy, belonged to the paper-cut artist Justyna Grzegory, and you see the place where she worked. There is also a village school with the teacher's flat, a forge and a post mill."
+        },
+        {
+          "en": "The wooden church of St Martin comes from Wysokienice. It was built in 1758, its belfry in 1774, and inside are its original altars, pulpit and font.",
+          "de": "The wooden church of St Martin comes from Wysokienice. It was built in 1758, its belfry in 1774, and inside are its original altars, pulpit and font.",
+          "fr": "The wooden church of St Martin comes from Wysokienice. It was built in 1758, its belfry in 1774, and inside are its original altars, pulpit and font.",
+          "it": "The wooden church of St Martin comes from Wysokienice. It was built in 1758, its belfry in 1774, and inside are its original altars, pulpit and font.",
+          "nl": "The wooden church of St Martin comes from Wysokienice. It was built in 1758, its belfry in 1774, and inside are its original altars, pulpit and font.",
+          "pl": "Drewniany kościół św. Marcina pochodzi z Wysokienic. Zbudowano go w 1758 roku, a dzwonnicę w 1774 roku. W środku zachowały się oryginalne ołtarze, ambona i chrzcielnica.",
+          "cs": "The wooden church of St Martin comes from Wysokienice. It was built in 1758, its belfry in 1774, and inside are its original altars, pulpit and font.",
+          "sk": "The wooden church of St Martin comes from Wysokienice. It was built in 1758, its belfry in 1774, and inside are its original altars, pulpit and font.",
+          "ro": "The wooden church of St Martin comes from Wysokienice. It was built in 1758, its belfry in 1774, and inside are its original altars, pulpit and font.",
+          "hu": "The wooden church of St Martin comes from Wysokienice. It was built in 1758, its belfry in 1774, and inside are its original altars, pulpit and font.",
+          "da": "The wooden church of St Martin comes from Wysokienice. It was built in 1758, its belfry in 1774, and inside are its original altars, pulpit and font."
+        }
+      ]
+    },
+    {
+      "id": "practical",
+      "rows": [
+        {
+          "label": {
+            "en": "Open-air museum",
+            "de": "Open-air museum",
+            "fr": "Open-air museum",
+            "it": "Open-air museum",
+            "nl": "Open-air museum",
+            "pl": "Skansen",
+            "cs": "Open-air museum",
+            "sk": "Open-air museum",
+            "ro": "Open-air museum",
+            "hu": "Open-air museum",
+            "da": "Open-air museum"
+          },
+          "value": {
+            "en": "Maurzyce, 99-440 Zduny, free parking",
+            "de": "Maurzyce, 99-440 Zduny, free parking",
+            "fr": "Maurzyce, 99-440 Zduny, free parking",
+            "it": "Maurzyce, 99-440 Zduny, free parking",
+            "nl": "Maurzyce, 99-440 Zduny, free parking",
+            "pl": "Maurzyce, 99-440 Zduny, bezpłatny parking",
+            "cs": "Maurzyce, 99-440 Zduny, free parking",
+            "sk": "Maurzyce, 99-440 Zduny, free parking",
+            "ro": "Maurzyce, 99-440 Zduny, free parking",
+            "hu": "Maurzyce, 99-440 Zduny, free parking",
+            "da": "Maurzyce, 99-440 Zduny, free parking"
+          }
+        },
+        {
+          "label": {
+            "en": "Open",
+            "de": "Open",
+            "fr": "Open",
+            "it": "Open",
+            "nl": "Open",
+            "pl": "Otwarte",
+            "cs": "Open",
+            "sk": "Open",
+            "ro": "Open",
+            "hu": "Open",
+            "da": "Open"
+          },
+          "value": {
+            "en": "In October daily 10:00 to 17:00; from 1 November on Saturdays, Sundays and holidays 10:00 to 15:30, buildings from outside only",
+            "de": "In October daily 10:00 to 17:00; from 1 November on Saturdays, Sundays and holidays 10:00 to 15:30, buildings from outside only",
+            "fr": "In October daily 10:00 to 17:00; from 1 November on Saturdays, Sundays and holidays 10:00 to 15:30, buildings from outside only",
+            "it": "In October daily 10:00 to 17:00; from 1 November on Saturdays, Sundays and holidays 10:00 to 15:30, buildings from outside only",
+            "nl": "In October daily 10:00 to 17:00; from 1 November on Saturdays, Sundays and holidays 10:00 to 15:30, buildings from outside only",
+            "pl": "W październiku codziennie od 10:00 do 17:00; od 1 listopada w soboty, niedziele i święta od 10:00 do 15:30, budynki tylko z zewnątrz",
+            "cs": "In October daily 10:00 to 17:00; from 1 November on Saturdays, Sundays and holidays 10:00 to 15:30, buildings from outside only",
+            "sk": "In October daily 10:00 to 17:00; from 1 November on Saturdays, Sundays and holidays 10:00 to 15:30, buildings from outside only",
+            "ro": "In October daily 10:00 to 17:00; from 1 November on Saturdays, Sundays and holidays 10:00 to 15:30, buildings from outside only",
+            "hu": "In October daily 10:00 to 17:00; from 1 November on Saturdays, Sundays and holidays 10:00 to 15:30, buildings from outside only",
+            "da": "In October daily 10:00 to 17:00; from 1 November on Saturdays, Sundays and holidays 10:00 to 15:30, buildings from outside only"
+          }
+        },
+        {
+          "label": {
+            "en": "Tickets",
+            "de": "Tickets",
+            "fr": "Tickets",
+            "it": "Tickets",
+            "nl": "Tickets",
+            "pl": "Bilety",
+            "cs": "Tickets",
+            "sk": "Tickets",
+            "ro": "Tickets",
+            "hu": "Tickets",
+            "da": "Tickets"
+          },
+          "value": {
+            "en": "23 zł, reduced 15 zł, family 65 zł",
+            "de": "23 zł, reduced 15 zł, family 65 zł",
+            "fr": "23 zł, reduced 15 zł, family 65 zł",
+            "it": "23 zł, reduced 15 zł, family 65 zł",
+            "nl": "23 zł, reduced 15 zł, family 65 zł",
+            "pl": "23 zł, ulgowy 15 zł, rodzinny 65 zł",
+            "cs": "23 zł, reduced 15 zł, family 65 zł",
+            "sk": "23 zł, reduced 15 zł, family 65 zł",
+            "ro": "23 zł, reduced 15 zł, family 65 zł",
+            "hu": "23 zł, reduced 15 zł, family 65 zł",
+            "da": "23 zł, reduced 15 zł, family 65 zł"
+          }
+        },
+        {
+          "label": {
+            "en": "Combined ticket for the museum in Łowicz and the open-air museum",
+            "de": "Combined ticket for the museum in Łowicz and the open-air museum",
+            "fr": "Combined ticket for the museum in Łowicz and the open-air museum",
+            "it": "Combined ticket for the museum in Łowicz and the open-air museum",
+            "nl": "Combined ticket for the museum in Łowicz and the open-air museum",
+            "pl": "Bilet łączony do muzeum w Łowiczu i skansenu",
+            "cs": "Combined ticket for the museum in Łowicz and the open-air museum",
+            "sk": "Combined ticket for the museum in Łowicz and the open-air museum",
+            "ro": "Combined ticket for the museum in Łowicz and the open-air museum",
+            "hu": "Combined ticket for the museum in Łowicz and the open-air museum",
+            "da": "Combined ticket for the museum in Łowicz and the open-air museum"
+          },
+          "value": {
+            "en": "55 zł, reduced 35 zł, family 150 zł, sold only at the museum desk in Łowicz",
+            "de": "55 zł, reduced 35 zł, family 150 zł, sold only at the museum desk in Łowicz",
+            "fr": "55 zł, reduced 35 zł, family 150 zł, sold only at the museum desk in Łowicz",
+            "it": "55 zł, reduced 35 zł, family 150 zł, sold only at the museum desk in Łowicz",
+            "nl": "55 zł, reduced 35 zł, family 150 zł, sold only at the museum desk in Łowicz",
+            "pl": "55 zł, ulgowy 35 zł, rodzinny 150 zł, do kupienia tylko w kasie muzeum w Łowiczu",
+            "cs": "55 zł, reduced 35 zł, family 150 zł, sold only at the museum desk in Łowicz",
+            "sk": "55 zł, reduced 35 zł, family 150 zł, sold only at the museum desk in Łowicz",
+            "ro": "55 zł, reduced 35 zł, family 150 zł, sold only at the museum desk in Łowicz",
+            "hu": "55 zł, reduced 35 zł, family 150 zł, sold only at the museum desk in Łowicz",
+            "da": "55 zł, reduced 35 zł, family 150 zł, sold only at the museum desk in Łowicz"
+          }
+        },
+        {
+          "label": {
+            "en": "Muzeum w Łowiczu",
+            "de": "Muzeum w Łowiczu",
+            "fr": "Muzeum w Łowiczu",
+            "it": "Muzeum w Łowiczu",
+            "nl": "Muzeum w Łowiczu",
+            "pl": "Muzeum w Łowiczu",
+            "cs": "Muzeum w Łowiczu",
+            "sk": "Muzeum w Łowiczu",
+            "ro": "Muzeum w Łowiczu",
+            "hu": "Muzeum w Łowiczu",
+            "da": "Muzeum w Łowiczu"
+          },
+          "value": {
+            "en": "Stary Rynek 5/7, Tuesday to Sunday 10:00 to 16:00, 25 zł, reduced 18 zł; permanent exhibitions free on Tuesdays, except holidays and long weekends",
+            "de": "Stary Rynek 5/7, Tuesday to Sunday 10:00 to 16:00, 25 zł, reduced 18 zł; permanent exhibitions free on Tuesdays, except holidays and long weekends",
+            "fr": "Stary Rynek 5/7, Tuesday to Sunday 10:00 to 16:00, 25 zł, reduced 18 zł; permanent exhibitions free on Tuesdays, except holidays and long weekends",
+            "it": "Stary Rynek 5/7, Tuesday to Sunday 10:00 to 16:00, 25 zł, reduced 18 zł; permanent exhibitions free on Tuesdays, except holidays and long weekends",
+            "nl": "Stary Rynek 5/7, Tuesday to Sunday 10:00 to 16:00, 25 zł, reduced 18 zł; permanent exhibitions free on Tuesdays, except holidays and long weekends",
+            "pl": "Stary Rynek 5/7, od wtorku do niedzieli od 10:00 do 16:00, 25 zł, ulgowy 18 zł; we wtorki wystawy stałe bezpłatnie, z wyjątkiem świąt i długich weekendów",
+            "cs": "Stary Rynek 5/7, Tuesday to Sunday 10:00 to 16:00, 25 zł, reduced 18 zł; permanent exhibitions free on Tuesdays, except holidays and long weekends",
+            "sk": "Stary Rynek 5/7, Tuesday to Sunday 10:00 to 16:00, 25 zł, reduced 18 zł; permanent exhibitions free on Tuesdays, except holidays and long weekends",
+            "ro": "Stary Rynek 5/7, Tuesday to Sunday 10:00 to 16:00, 25 zł, reduced 18 zł; permanent exhibitions free on Tuesdays, except holidays and long weekends",
+            "hu": "Stary Rynek 5/7, Tuesday to Sunday 10:00 to 16:00, 25 zł, reduced 18 zł; permanent exhibitions free on Tuesdays, except holidays and long weekends",
+            "da": "Stary Rynek 5/7, Tuesday to Sunday 10:00 to 16:00, 25 zł, reduced 18 zł; permanent exhibitions free on Tuesdays, except holidays and long weekends"
+          }
+        },
+        {
+          "label": {
+            "en": "Contact",
+            "de": "Contact",
+            "fr": "Contact",
+            "it": "Contact",
+            "nl": "Contact",
+            "pl": "Kontakt",
+            "cs": "Contact",
+            "sk": "Contact",
+            "ro": "Contact",
+            "hu": "Contact",
+            "da": "Contact"
+          },
+          "value": {
+            "en": "+48 46 837 39 28",
+            "de": "+48 46 837 39 28",
+            "fr": "+48 46 837 39 28",
+            "it": "+48 46 837 39 28",
+            "nl": "+48 46 837 39 28",
+            "pl": "+48 46 837 39 28",
+            "cs": "+48 46 837 39 28",
+            "sk": "+48 46 837 39 28",
+            "ro": "+48 46 837 39 28",
+            "hu": "+48 46 837 39 28",
+            "da": "+48 46 837 39 28"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "Practical",
+        "de": "Practical",
+        "fr": "Practical",
+        "it": "Practical",
+        "nl": "Practical",
+        "pl": "Praktycznie",
+        "cs": "Practical",
+        "sk": "Practical",
+        "ro": "Practical",
+        "hu": "Practical",
+        "da": "Practical"
+      },
+      "title": {
+        "en": "Opening times and tickets",
+        "de": "Opening times and tickets",
+        "fr": "Opening times and tickets",
+        "it": "Opening times and tickets",
+        "nl": "Opening times and tickets",
+        "pl": "Godziny otwarcia i bilety",
+        "cs": "Opening times and tickets",
+        "sk": "Opening times and tickets",
+        "ro": "Opening times and tickets",
+        "hu": "Opening times and tickets",
+        "da": "Opening times and tickets"
+      },
+      "buttons": [
+        {
+          "href": "http://muzeumlowicz.pl/skansen_w_maurzycach/",
+          "label": {
+            "en": "Official website",
+            "de": "Offizielle Website",
+            "fr": "Site officiel",
+            "it": "Sito ufficiale",
+            "nl": "Officiële website",
+            "pl": "Oficjalna strona",
+            "cs": "Official website",
+            "sk": "Official website",
+            "ro": "Official website",
+            "hu": "Official website",
+            "da": "Official website"
+          }
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "type": "tiles",
+      "label": {
+        "en": "How to get there",
+        "de": "How to get there",
+        "fr": "How to get there",
+        "it": "How to get there",
+        "nl": "How to get there",
+        "pl": "Dojazd",
+        "cs": "How to get there",
+        "sk": "How to get there",
+        "ro": "How to get there",
+        "hu": "How to get there",
+        "da": "How to get there"
+      },
+      "tiles": [
+        {
+          "icon": "train",
+          "text": {
+            "en": "The RE31 of Koleje Mazowieckie runs from Warszawa Wschodnia to Łowicz Główny in 56 minutes to just over an hour.",
+            "de": "The RE31 of Koleje Mazowieckie runs from Warszawa Wschodnia to Łowicz Główny in 56 minutes to just over an hour.",
+            "fr": "The RE31 of Koleje Mazowieckie runs from Warszawa Wschodnia to Łowicz Główny in 56 minutes to just over an hour.",
+            "it": "The RE31 of Koleje Mazowieckie runs from Warszawa Wschodnia to Łowicz Główny in 56 minutes to just over an hour.",
+            "nl": "The RE31 of Koleje Mazowieckie runs from Warszawa Wschodnia to Łowicz Główny in 56 minutes to just over an hour.",
+            "pl": "Pociąg RE31 Kolei Mazowieckich jedzie z Warszawy Wschodniej do Łowicza Głównego od 56 minut do nieco ponad godziny.",
+            "cs": "The RE31 of Koleje Mazowieckie runs from Warszawa Wschodnia to Łowicz Główny in 56 minutes to just over an hour.",
+            "sk": "The RE31 of Koleje Mazowieckie runs from Warszawa Wschodnia to Łowicz Główny in 56 minutes to just over an hour.",
+            "ro": "The RE31 of Koleje Mazowieckie runs from Warszawa Wschodnia to Łowicz Główny in 56 minutes to just over an hour.",
+            "hu": "The RE31 of Koleje Mazowieckie runs from Warszawa Wschodnia to Łowicz Główny in 56 minutes to just over an hour.",
+            "da": "The RE31 of Koleje Mazowieckie runs from Warszawa Wschodnia to Łowicz Główny in 56 minutes to just over an hour."
+          },
+          "title": {
+            "en": "By train",
+            "de": "By train",
+            "fr": "By train",
+            "it": "By train",
+            "nl": "By train",
+            "pl": "Pociągiem",
+            "cs": "By train",
+            "sk": "By train",
+            "ro": "By train",
+            "hu": "By train",
+            "da": "By train"
+          }
+        },
+        {
+          "icon": "pin",
+          "text": {
+            "en": "From Łowicz, PKS buses stop at Maurzyce, 10 to 15 minutes on foot from the open-air museum.",
+            "de": "From Łowicz, PKS buses stop at Maurzyce, 10 to 15 minutes on foot from the open-air museum.",
+            "fr": "From Łowicz, PKS buses stop at Maurzyce, 10 to 15 minutes on foot from the open-air museum.",
+            "it": "From Łowicz, PKS buses stop at Maurzyce, 10 to 15 minutes on foot from the open-air museum.",
+            "nl": "From Łowicz, PKS buses stop at Maurzyce, 10 to 15 minutes on foot from the open-air museum.",
+            "pl": "Autobusy PKS z Łowicza zatrzymują się w Maurzycach, skąd do skansenu idzie się 10 do 15 minut.",
+            "cs": "From Łowicz, PKS buses stop at Maurzyce, 10 to 15 minutes on foot from the open-air museum.",
+            "sk": "From Łowicz, PKS buses stop at Maurzyce, 10 to 15 minutes on foot from the open-air museum.",
+            "ro": "From Łowicz, PKS buses stop at Maurzyce, 10 to 15 minutes on foot from the open-air museum.",
+            "hu": "From Łowicz, PKS buses stop at Maurzyce, 10 to 15 minutes on foot from the open-air museum.",
+            "da": "From Łowicz, PKS buses stop at Maurzyce, 10 to 15 minutes on foot from the open-air museum."
+          },
+          "title": {
+            "en": "By bus",
+            "de": "By bus",
+            "fr": "By bus",
+            "it": "By bus",
+            "nl": "By bus",
+            "pl": "Autobusem",
+            "cs": "By bus",
+            "sk": "By bus",
+            "ro": "By bus",
+            "hu": "By bus",
+            "da": "By bus"
+          }
+        },
+        {
+          "icon": "walk",
+          "text": {
+            "en": "Some trains stop at Niedźwiada, 20 to 30 minutes on foot from the open-air museum.",
+            "de": "Some trains stop at Niedźwiada, 20 to 30 minutes on foot from the open-air museum.",
+            "fr": "Some trains stop at Niedźwiada, 20 to 30 minutes on foot from the open-air museum.",
+            "it": "Some trains stop at Niedźwiada, 20 to 30 minutes on foot from the open-air museum.",
+            "nl": "Some trains stop at Niedźwiada, 20 to 30 minutes on foot from the open-air museum.",
+            "pl": "Niektóre pociągi zatrzymują się w Niedźwiadzie. Stamtąd do skansenu idzie się 20 do 30 minut.",
+            "cs": "Some trains stop at Niedźwiada, 20 to 30 minutes on foot from the open-air museum.",
+            "sk": "Some trains stop at Niedźwiada, 20 to 30 minutes on foot from the open-air museum.",
+            "ro": "Some trains stop at Niedźwiada, 20 to 30 minutes on foot from the open-air museum.",
+            "hu": "Some trains stop at Niedźwiada, 20 to 30 minutes on foot from the open-air museum.",
+            "da": "Some trains stop at Niedźwiada, 20 to 30 minutes on foot from the open-air museum."
+          },
+          "title": {
+            "en": "On foot",
+            "de": "On foot",
+            "fr": "On foot",
+            "it": "On foot",
+            "nl": "On foot",
+            "pl": "Pieszo",
+            "cs": "On foot",
+            "sk": "On foot",
+            "ro": "On foot",
+            "hu": "On foot",
+            "da": "On foot"
+          }
+        },
+        {
+          "icon": "car",
+          "text": {
+            "en": "From Warsaw take the A2 to the Skierniewice exit and the DK70 to Łowicz, then the DK92 towards Poznań.",
+            "de": "From Warsaw take the A2 to the Skierniewice exit and the DK70 to Łowicz, then the DK92 towards Poznań.",
+            "fr": "From Warsaw take the A2 to the Skierniewice exit and the DK70 to Łowicz, then the DK92 towards Poznań.",
+            "it": "From Warsaw take the A2 to the Skierniewice exit and the DK70 to Łowicz, then the DK92 towards Poznań.",
+            "nl": "From Warsaw take the A2 to the Skierniewice exit and the DK70 to Łowicz, then the DK92 towards Poznań.",
+            "pl": "Z Warszawy autostradą A2 do węzła Skierniewice, dalej DK70 do Łowicza, a stamtąd DK92 w stronę Poznania.",
+            "cs": "From Warsaw take the A2 to the Skierniewice exit and the DK70 to Łowicz, then the DK92 towards Poznań.",
+            "sk": "From Warsaw take the A2 to the Skierniewice exit and the DK70 to Łowicz, then the DK92 towards Poznań.",
+            "ro": "From Warsaw take the A2 to the Skierniewice exit and the DK70 to Łowicz, then the DK92 towards Poznań.",
+            "hu": "From Warsaw take the A2 to the Skierniewice exit and the DK70 to Łowicz, then the DK92 towards Poznań.",
+            "da": "From Warsaw take the A2 to the Skierniewice exit and the DK70 to Łowicz, then the DK92 towards Poznań."
+          },
+          "title": {
+            "en": "By car",
+            "de": "By car",
+            "fr": "By car",
+            "it": "By car",
+            "nl": "By car",
+            "pl": "Samochodem",
+            "cs": "By car",
+            "sk": "By car",
+            "ro": "By car",
+            "hu": "By car",
+            "da": "By car"
+          }
+        }
+      ],
+      "title": {
+        "en": "From Warsaw by train or car",
+        "de": "From Warsaw by train or car",
+        "fr": "From Warsaw by train or car",
+        "it": "From Warsaw by train or car",
+        "nl": "From Warsaw by train or car",
+        "pl": "Z Warszawy pociągiem albo samochodem",
+        "cs": "From Warsaw by train or car",
+        "sk": "From Warsaw by train or car",
+        "ro": "From Warsaw by train or car",
+        "hu": "From Warsaw by train or car",
+        "da": "From Warsaw by train or car"
+      }
+    },
+    {
+      "id": "season",
+      "text": {
+        "en": "From 1 November the open-air museum opens only on Saturdays, Sundays and holidays, from 10:00 to 15:30, and the buildings can be seen from outside only.",
+        "de": "From 1 November the open-air museum opens only on Saturdays, Sundays and holidays, from 10:00 to 15:30, and the buildings can be seen from outside only.",
+        "fr": "From 1 November the open-air museum opens only on Saturdays, Sundays and holidays, from 10:00 to 15:30, and the buildings can be seen from outside only.",
+        "it": "From 1 November the open-air museum opens only on Saturdays, Sundays and holidays, from 10:00 to 15:30, and the buildings can be seen from outside only.",
+        "nl": "From 1 November the open-air museum opens only on Saturdays, Sundays and holidays, from 10:00 to 15:30, and the buildings can be seen from outside only.",
+        "pl": "Od 1 listopada skansen jest otwarty tylko w soboty, niedziele i święta, od 10:00 do 15:30, a budynki można wtedy oglądać wyłącznie z zewnątrz.",
+        "cs": "From 1 November the open-air museum opens only on Saturdays, Sundays and holidays, from 10:00 to 15:30, and the buildings can be seen from outside only.",
+        "sk": "From 1 November the open-air museum opens only on Saturdays, Sundays and holidays, from 10:00 to 15:30, and the buildings can be seen from outside only.",
+        "ro": "From 1 November the open-air museum opens only on Saturdays, Sundays and holidays, from 10:00 to 15:30, and the buildings can be seen from outside only.",
+        "hu": "From 1 November the open-air museum opens only on Saturdays, Sundays and holidays, from 10:00 to 15:30, and the buildings can be seen from outside only.",
+        "da": "From 1 November the open-air museum opens only on Saturdays, Sundays and holidays, from 10:00 to 15:30, and the buildings can be seen from outside only."
+      },
+      "type": "note"
+    },
+    {
+      "id": "afterwards",
+      "type": "text",
+      "label": {
+        "en": "Afterwards",
+        "de": "Afterwards",
+        "fr": "Afterwards",
+        "it": "Afterwards",
+        "nl": "Afterwards",
+        "pl": "Potem",
+        "cs": "Afterwards",
+        "sk": "Afterwards",
+        "ro": "Afterwards",
+        "hu": "Afterwards",
+        "da": "Afterwards"
+      },
+      "title": {
+        "en": "The town of Łowicz",
+        "de": "The town of Łowicz",
+        "fr": "The town of Łowicz",
+        "it": "The town of Łowicz",
+        "nl": "The town of Łowicz",
+        "pl": "Miasto Łowicz",
+        "cs": "The town of Łowicz",
+        "sk": "The town of Łowicz",
+        "ro": "The town of Łowicz",
+        "hu": "The town of Łowicz",
+        "da": "The town of Łowicz"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/b021d41b2c096a15/mz-lowicz-cathedral.jpg",
+          "width": 2400,
+          "credit": "Pko, CC BY-SA 4.0",
+          "height": 1807,
+          "caption": {
+            "en": "The cathedral of Łowicz.",
+            "de": "The cathedral of Łowicz.",
+            "fr": "The cathedral of Łowicz.",
+            "it": "The cathedral of Łowicz.",
+            "nl": "The cathedral of Łowicz.",
+            "pl": "Katedra w Łowiczu.",
+            "cs": "The cathedral of Łowicz.",
+            "sk": "The cathedral of Łowicz.",
+            "ro": "The cathedral of Łowicz.",
+            "hu": "The cathedral of Łowicz.",
+            "da": "The cathedral of Łowicz."
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Katedra_w_Lowiczu_2012_05_05_14538.jpg"
+        }
+      },
+      "buttons": [],
+      "paragraphs": [
+        {
+          "en": "Łowicz was for centuries a residence of the archbishops of Gniezno. On the Stary Rynek stands the cathedral, a baroque basilica from 1652 to 1654. In the Battle of the Bzura in September 1939, artillery fire set it alight and badly damaged the roof and the towers. The church is open outside the services, and a guide takes you to the crypts and the viewing terrace if you arrange it in advance. Across the square, the Muzeum w Łowiczu has an exhibition on the folk culture of the Księstwo Łowickie.",
+          "de": "Łowicz was for centuries a residence of the archbishops of Gniezno. On the Stary Rynek stands the cathedral, a baroque basilica from 1652 to 1654. In the Battle of the Bzura in September 1939, artillery fire set it alight and badly damaged the roof and the towers. The church is open outside the services, and a guide takes you to the crypts and the viewing terrace if you arrange it in advance. Across the square, the Muzeum w Łowiczu has an exhibition on the folk culture of the Księstwo Łowickie.",
+          "fr": "Łowicz was for centuries a residence of the archbishops of Gniezno. On the Stary Rynek stands the cathedral, a baroque basilica from 1652 to 1654. In the Battle of the Bzura in September 1939, artillery fire set it alight and badly damaged the roof and the towers. The church is open outside the services, and a guide takes you to the crypts and the viewing terrace if you arrange it in advance. Across the square, the Muzeum w Łowiczu has an exhibition on the folk culture of the Księstwo Łowickie.",
+          "it": "Łowicz was for centuries a residence of the archbishops of Gniezno. On the Stary Rynek stands the cathedral, a baroque basilica from 1652 to 1654. In the Battle of the Bzura in September 1939, artillery fire set it alight and badly damaged the roof and the towers. The church is open outside the services, and a guide takes you to the crypts and the viewing terrace if you arrange it in advance. Across the square, the Muzeum w Łowiczu has an exhibition on the folk culture of the Księstwo Łowickie.",
+          "nl": "Łowicz was for centuries a residence of the archbishops of Gniezno. On the Stary Rynek stands the cathedral, a baroque basilica from 1652 to 1654. In the Battle of the Bzura in September 1939, artillery fire set it alight and badly damaged the roof and the towers. The church is open outside the services, and a guide takes you to the crypts and the viewing terrace if you arrange it in advance. Across the square, the Muzeum w Łowiczu has an exhibition on the folk culture of the Księstwo Łowickie.",
+          "pl": "Łowicz przez stulecia był siedzibą arcybiskupów gnieźnieńskich. Przy Starym Rynku stoi katedra, barokowa bazylika zbudowana w latach 1652–1654. We wrześniu 1939 roku, w czasie bitwy nad Bzurą, ostrzał artyleryjski wywołał w niej pożar, który mocno zniszczył dach i wieże. Poza nabożeństwami kościół jest otwarty, a po wcześniejszym umówieniu przewodnik zaprowadzi Cię do krypt i na taras widokowy. Po drugiej stronie rynku Muzeum w Łowiczu ma wystawę o kulturze ludowej Księstwa Łowickiego.",
+          "cs": "Łowicz was for centuries a residence of the archbishops of Gniezno. On the Stary Rynek stands the cathedral, a baroque basilica from 1652 to 1654. In the Battle of the Bzura in September 1939, artillery fire set it alight and badly damaged the roof and the towers. The church is open outside the services, and a guide takes you to the crypts and the viewing terrace if you arrange it in advance. Across the square, the Muzeum w Łowiczu has an exhibition on the folk culture of the Księstwo Łowickie.",
+          "sk": "Łowicz was for centuries a residence of the archbishops of Gniezno. On the Stary Rynek stands the cathedral, a baroque basilica from 1652 to 1654. In the Battle of the Bzura in September 1939, artillery fire set it alight and badly damaged the roof and the towers. The church is open outside the services, and a guide takes you to the crypts and the viewing terrace if you arrange it in advance. Across the square, the Muzeum w Łowiczu has an exhibition on the folk culture of the Księstwo Łowickie.",
+          "ro": "Łowicz was for centuries a residence of the archbishops of Gniezno. On the Stary Rynek stands the cathedral, a baroque basilica from 1652 to 1654. In the Battle of the Bzura in September 1939, artillery fire set it alight and badly damaged the roof and the towers. The church is open outside the services, and a guide takes you to the crypts and the viewing terrace if you arrange it in advance. Across the square, the Muzeum w Łowiczu has an exhibition on the folk culture of the Księstwo Łowickie.",
+          "hu": "Łowicz was for centuries a residence of the archbishops of Gniezno. On the Stary Rynek stands the cathedral, a baroque basilica from 1652 to 1654. In the Battle of the Bzura in September 1939, artillery fire set it alight and badly damaged the roof and the towers. The church is open outside the services, and a guide takes you to the crypts and the viewing terrace if you arrange it in advance. Across the square, the Muzeum w Łowiczu has an exhibition on the folk culture of the Księstwo Łowickie.",
+          "da": "Łowicz was for centuries a residence of the archbishops of Gniezno. On the Stary Rynek stands the cathedral, a baroque basilica from 1652 to 1654. In the Battle of the Bzura in September 1939, artillery fire set it alight and badly damaged the roof and the towers. The church is open outside the services, and a guide takes you to the crypts and the viewing terrace if you arrange it in advance. Across the square, the Muzeum w Łowiczu has an exhibition on the folk culture of the Księstwo Łowickie."
+        },
+        {
+          "en": "Open the map in StampIQ in Łowicz, and the pins show where this folk culture is on stamps: the two 2 zł stamps \"Strój łowicki\" from 1960, the Łowicz costumes of 1969 and three roses in Łowicz embroidery from 2005. The 1984 stamp for the Battle of the Bzura is there as well. The badge on each shows whether it is already in your collection, and the other three bridges of the 2008 set are on their pins in Warsaw and Toruń.",
+          "de": "Open the map in StampIQ in Łowicz, and the pins show where this folk culture is on stamps: the two 2 zł stamps \"Strój łowicki\" from 1960, the Łowicz costumes of 1969 and three roses in Łowicz embroidery from 2005. The 1984 stamp for the Battle of the Bzura is there as well. The badge on each shows whether it is already in your collection, and the other three bridges of the 2008 set are on their pins in Warsaw and Toruń.",
+          "fr": "Open the map in StampIQ in Łowicz, and the pins show where this folk culture is on stamps: the two 2 zł stamps \"Strój łowicki\" from 1960, the Łowicz costumes of 1969 and three roses in Łowicz embroidery from 2005. The 1984 stamp for the Battle of the Bzura is there as well. The badge on each shows whether it is already in your collection, and the other three bridges of the 2008 set are on their pins in Warsaw and Toruń.",
+          "it": "Open the map in StampIQ in Łowicz, and the pins show where this folk culture is on stamps: the two 2 zł stamps \"Strój łowicki\" from 1960, the Łowicz costumes of 1969 and three roses in Łowicz embroidery from 2005. The 1984 stamp for the Battle of the Bzura is there as well. The badge on each shows whether it is already in your collection, and the other three bridges of the 2008 set are on their pins in Warsaw and Toruń.",
+          "nl": "Open the map in StampIQ in Łowicz, and the pins show where this folk culture is on stamps: the two 2 zł stamps \"Strój łowicki\" from 1960, the Łowicz costumes of 1969 and three roses in Łowicz embroidery from 2005. The 1984 stamp for the Battle of the Bzura is there as well. The badge on each shows whether it is already in your collection, and the other three bridges of the 2008 set are on their pins in Warsaw and Toruń.",
+          "pl": "Kiedy otworzysz Mapę w StampIQ w Łowiczu, pinezki pokażą, gdzie ta kultura ludowa pojawia się na znaczkach: dwa znaczki za 2 zł „Strój łowicki” z 1960 roku, stroje łowickie z 1969 roku i trzy róże haftowane po łowicku z 2005 roku. Jest tam też znaczek z 1984 roku upamiętniający bitwę nad Bzurą. Oznaczenie przy każdym z nich pokazuje, czy masz go już w kolekcji, a trzy pozostałe mosty z serii z 2008 roku znajdziesz na ich pinezkach w Warszawie i Toruniu.",
+          "cs": "Open the map in StampIQ in Łowicz, and the pins show where this folk culture is on stamps: the two 2 zł stamps \"Strój łowicki\" from 1960, the Łowicz costumes of 1969 and three roses in Łowicz embroidery from 2005. The 1984 stamp for the Battle of the Bzura is there as well. The badge on each shows whether it is already in your collection, and the other three bridges of the 2008 set are on their pins in Warsaw and Toruń.",
+          "sk": "Open the map in StampIQ in Łowicz, and the pins show where this folk culture is on stamps: the two 2 zł stamps \"Strój łowicki\" from 1960, the Łowicz costumes of 1969 and three roses in Łowicz embroidery from 2005. The 1984 stamp for the Battle of the Bzura is there as well. The badge on each shows whether it is already in your collection, and the other three bridges of the 2008 set are on their pins in Warsaw and Toruń.",
+          "ro": "Open the map in StampIQ in Łowicz, and the pins show where this folk culture is on stamps: the two 2 zł stamps \"Strój łowicki\" from 1960, the Łowicz costumes of 1969 and three roses in Łowicz embroidery from 2005. The 1984 stamp for the Battle of the Bzura is there as well. The badge on each shows whether it is already in your collection, and the other three bridges of the 2008 set are on their pins in Warsaw and Toruń.",
+          "hu": "Open the map in StampIQ in Łowicz, and the pins show where this folk culture is on stamps: the two 2 zł stamps \"Strój łowicki\" from 1960, the Łowicz costumes of 1969 and three roses in Łowicz embroidery from 2005. The 1984 stamp for the Battle of the Bzura is there as well. The badge on each shows whether it is already in your collection, and the other three bridges of the 2008 set are on their pins in Warsaw and Toruń.",
+          "da": "Open the map in StampIQ in Łowicz, and the pins show where this folk culture is on stamps: the two 2 zł stamps \"Strój łowicki\" from 1960, the Łowicz costumes of 1969 and three roses in Łowicz embroidery from 2005. The 1984 stamp for the Battle of the Bzura is there as well. The badge on each shows whether it is already in your collection, and the other three bridges of the 2008 set are on their pins in Warsaw and Toruń."
+        }
+      ]
+    }
+  ]
+}
