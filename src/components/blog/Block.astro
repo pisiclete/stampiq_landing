@@ -183,12 +183,12 @@ const bandClass = `band band--${background}`;
           <div class="eyebrow">{b.date[lang]}</div>
           <h2 class="headline">{b.title[lang]}</h2>
           <div class="prose">{b.paragraphs.map((p) => <p set:html={renderMarkdown(p[lang])} />)}</div>
-          <div class="formats">
+          <div class:list={['formats', { 'formats--no-number': !b.formats.some((f) => f.number) }]}>
             <div class="formats__row formats__row--head">
-              <span>{tFor(lang, 'blog.format')}</span><span>{tFor(lang, 'blog.face_value')}</span><span>{tFor(lang, 'blog.catalog_no')}</span>
+              <span>{tFor(lang, 'blog.format')}</span><span>{tFor(lang, 'blog.face_value')}</span>{b.formats.some((f) => f.number) && <span>{tFor(lang, 'blog.catalog_no')}</span>}
             </div>
             {b.formats.map((f) => (
-              <div class="formats__row"><span>{f.format[lang]}</span><span>{f.value}</span><span>{f.number}</span></div>
+              <div class="formats__row"><span>{f.format[lang]}</span><span>{f.value}</span>{b.formats.some((g) => g.number) && <span>{f.number}</span>}</div>
             ))}
           </div>
           <Buttons buttons={b.buttons} lang={lang} />

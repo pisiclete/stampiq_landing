@@ -345,9 +345,11 @@
 .formats__row--head { font-size: 12px; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: #888; padding-bottom: 8px; }
 .formats__row--head span { color: #888 !important; }
 .formats__row:last-child { border-bottom: 0; }
+.formats--no-number .formats__row { grid-template-columns: 1.4fr 0.8fr; }
 @media (max-width: 640px) {
   .formats__row { grid-template-columns: 1fr auto; row-gap: 2px; }
   .formats__row span:nth-child(3) { grid-column: 1 / -1; text-align: left; font-size: 13px; }
+  .formats--no-number .formats__row { grid-template-columns: 1fr auto; }
 }
 
 /* Two images compared side by side */

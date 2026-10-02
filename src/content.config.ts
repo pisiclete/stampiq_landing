@@ -159,7 +159,7 @@ const block = z.discriminatedUnion('type', [
     paragraphs: z.array(localized),
     stamp,
     formats: z
-      .array(z.object({ format: localized, value: z.string(), number: z.string() })),
+      .array(z.object({ format: localized, value: z.string(), number: z.string().optional() })),
     side,
     buttons: z.array(button).optional(),
     background,
