@@ -10,6 +10,7 @@ StampIQ Landing is the static marketing site and legal pages for stampiq.io, bui
 The site is active and shipping frequently. The 2026-09-24 batch addressed blog card layout, button support across multiple block types, privacy policy wording corrections, and native-speaker quality revisions for German and French copy. One open issue remains: final pricing and producibility confirmation from DDM for the DBZ 22 insert.
 
 ## Recent activity
+- 2026-10-02: Catalogue issue format number column made optional (addc857)
 - 2026-09-24: Blog card layout fixes, centred text block, button support on steps/checklist/tiles/specs/issue blocks, privacy withdrawal clause and EEA authority wording corrected, German and French copy revised for native-speaker quality (6 commits)
 - 2026-09-23: Scan data paragraph added to privacy section (15d2b3e)
 - 2026-09-22: Eleven-language rollout, waitlist form with Turnstile, ops cockpit privacy/terms pages, store badges from stampiq.io, blog categories in five required languages (19 commits)
@@ -39,7 +40,6 @@ The site is active and shipping frequently. The 2026-09-24 batch addressed blog 
 - 2026-07-09: Sync CLAUDE.md (c686630)
 - 2026-07-08: sync CLAUDE.md (5c6daba)
 - 2026-07-07: synced CLAUDE.md (4491475)
-- 2026-07-06: sync CLAUDE.md (90e7526)
 
 ## Open issues
 - Obtain final pricing and producibility confirmation from DDM for DBZ 22 insert.
