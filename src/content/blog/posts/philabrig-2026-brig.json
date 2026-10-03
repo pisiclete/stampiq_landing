@@ -1,0 +1,1065 @@
+{
+  "category": "event",
+  "markets": [
+    "CH",
+    "LI",
+    "DE",
+    "AT"
+  ],
+  "langs": [
+    "en",
+    "de",
+    "fr",
+    "it"
+  ],
+  "published_at": "2026-10-03T07:00:00+00:00",
+  "thumbnail": {
+    "src": "https://assets.stampiq.io/blog/1e778af51c206de1/philabrig-2026-card.png",
+    "width": 1981,
+    "height": 700
+  },
+  "languages": {
+    "en": {
+      "slug": "philabrig-2026-brig",
+      "title": "PhilaBrig26 and the Tag der Briefmarke in Brig",
+      "description": "A visitor's guide to PhilaBrig26 and the Tag der Briefmarke in Brig, 19 to 21 November 2026. StampIQ has a stand at the bourse."
+    },
+    "de": {
+      "slug": "philabrig-2026-brig",
+      "title": "PhilaBrig26 und der Tag der Briefmarke in Brig",
+      "description": "Ein Besucherführer zur PhilaBrig26 und zum Tag der Briefmarke in Brig, 19. bis 21. November 2026. StampIQ ist mit einem Stand an der Börse dabei."
+    },
+    "fr": {
+      "slug": "philabrig-2026-brig",
+      "title": "PhilaBrig26 et la Journée du timbre à Brigue",
+      "description": "Guide de visite de PhilaBrig26 et de la Journée du timbre à Brigue, du 19 au 21 novembre 2026. StampIQ tient un stand à la bourse aux timbres."
+    },
+    "it": {
+      "slug": "philabrig-2026-brig",
+      "title": "PhilaBrig26 e la Giornata del francobollo a Briga",
+      "description": "Guida a PhilaBrig26 e alla Giornata del francobollo a Briga, dal 19 al 21 novembre 2026. StampIQ ha uno stand alla borsa."
+    },
+    "nl": {
+      "slug": "philabrig-2026-brig",
+      "title": "PhilaBrig26 and the Tag der Briefmarke in Brig",
+      "description": "A visitor's guide to PhilaBrig26 and the Tag der Briefmarke in Brig, 19 to 21 November 2026. StampIQ has a stand at the bourse."
+    },
+    "pl": {
+      "slug": "philabrig-2026-brig",
+      "title": "PhilaBrig26 and the Tag der Briefmarke in Brig",
+      "description": "A visitor's guide to PhilaBrig26 and the Tag der Briefmarke in Brig, 19 to 21 November 2026. StampIQ has a stand at the bourse."
+    },
+    "cs": {
+      "slug": "philabrig-2026-brig",
+      "title": "PhilaBrig26 and the Tag der Briefmarke in Brig",
+      "description": "A visitor's guide to PhilaBrig26 and the Tag der Briefmarke in Brig, 19 to 21 November 2026. StampIQ has a stand at the bourse."
+    },
+    "sk": {
+      "slug": "philabrig-2026-brig",
+      "title": "PhilaBrig26 and the Tag der Briefmarke in Brig",
+      "description": "A visitor's guide to PhilaBrig26 and the Tag der Briefmarke in Brig, 19 to 21 November 2026. StampIQ has a stand at the bourse."
+    },
+    "ro": {
+      "slug": "philabrig-2026-brig",
+      "title": "PhilaBrig26 and the Tag der Briefmarke in Brig",
+      "description": "A visitor's guide to PhilaBrig26 and the Tag der Briefmarke in Brig, 19 to 21 November 2026. StampIQ has a stand at the bourse."
+    },
+    "hu": {
+      "slug": "philabrig-2026-brig",
+      "title": "PhilaBrig26 and the Tag der Briefmarke in Brig",
+      "description": "A visitor's guide to PhilaBrig26 and the Tag der Briefmarke in Brig, 19 to 21 November 2026. StampIQ has a stand at the bourse."
+    },
+    "da": {
+      "slug": "philabrig-2026-brig",
+      "title": "PhilaBrig26 and the Tag der Briefmarke in Brig",
+      "description": "A visitor's guide to PhilaBrig26 and the Tag der Briefmarke in Brig, 19 to 21 November 2026. StampIQ has a stand at the bourse."
+    }
+  },
+  "header": {
+    "lead": {
+      "en": "The Tag der Briefmarke 2026 is in Brig from 19 to 21 November, with about 100 collections in the Simplonhalle and a block each from Swiss Post and Philatelie Liechtenstein. StampIQ has a stand at the bourse.",
+      "de": "Der Tag der Briefmarke 2026 findet vom 19. bis 21. November in Brig statt, mit rund 100 Sammlungen in der Simplonhalle und je einem Block der Schweizerischen Post und von Philatelie Liechtenstein. StampIQ ist mit einem Stand an der Börse dabei.",
+      "fr": "La Journée du timbre 2026 se tient à Brigue du 19 au 21 novembre, avec une centaine de collections dans la Simplonhalle, un bloc de la Poste suisse et un bloc de Philatelie Liechtenstein. StampIQ tient un stand à la bourse aux timbres.",
+      "it": "La Giornata del francobollo 2026 si tiene a Briga dal 19 al 21 novembre, con un centinaio di collezioni nella Simplonhalle, un foglietto della Posta svizzera e uno di Philatelie Liechtenstein. StampIQ ha uno stand alla borsa.",
+      "nl": "The Tag der Briefmarke 2026 is in Brig from 19 to 21 November, with about 100 collections in the Simplonhalle and a block each from Swiss Post and Philatelie Liechtenstein. StampIQ has a stand at the bourse.",
+      "pl": "The Tag der Briefmarke 2026 is in Brig from 19 to 21 November, with about 100 collections in the Simplonhalle and a block each from Swiss Post and Philatelie Liechtenstein. StampIQ has a stand at the bourse.",
+      "cs": "The Tag der Briefmarke 2026 is in Brig from 19 to 21 November, with about 100 collections in the Simplonhalle and a block each from Swiss Post and Philatelie Liechtenstein. StampIQ has a stand at the bourse.",
+      "sk": "The Tag der Briefmarke 2026 is in Brig from 19 to 21 November, with about 100 collections in the Simplonhalle and a block each from Swiss Post and Philatelie Liechtenstein. StampIQ has a stand at the bourse.",
+      "ro": "The Tag der Briefmarke 2026 is in Brig from 19 to 21 November, with about 100 collections in the Simplonhalle and a block each from Swiss Post and Philatelie Liechtenstein. StampIQ has a stand at the bourse.",
+      "hu": "The Tag der Briefmarke 2026 is in Brig from 19 to 21 November, with about 100 collections in the Simplonhalle and a block each from Swiss Post and Philatelie Liechtenstein. StampIQ has a stand at the bourse.",
+      "da": "The Tag der Briefmarke 2026 is in Brig from 19 to 21 November, with about 100 collections in the Simplonhalle and a block each from Swiss Post and Philatelie Liechtenstein. StampIQ has a stand at the bourse."
+    },
+    "visual": {
+      "type": "poster",
+      "image": {
+        "src": "https://assets.stampiq.io/blog/dc07247e32b591f3/philabrig-2026-poster.png",
+        "width": 980,
+        "height": 1066
+      }
+    },
+    "location": "Simplonhalle, Brig",
+    "date_label": {
+      "en": "19 to 21 November 2026",
+      "de": "19. bis 21. November 2026",
+      "fr": "du 19 au 21 novembre 2026",
+      "it": "dal 19 al 21 novembre 2026",
+      "nl": "19 to 21 November 2026",
+      "pl": "19 to 21 November 2026",
+      "cs": "19 to 21 November 2026",
+      "sk": "19 to 21 November 2026",
+      "ro": "19 to 21 November 2026",
+      "hu": "19 to 21 November 2026",
+      "da": "19 to 21 November 2026"
+    }
+  },
+  "blocks": [
+    {
+      "id": "plan",
+      "type": "text",
+      "label": {
+        "en": "Planning your day",
+        "de": "Deinen Tag planen",
+        "fr": "Préparer ta visite",
+        "it": "Come organizzarsi",
+        "nl": "Planning your day",
+        "pl": "Planning your day",
+        "cs": "Planning your day",
+        "sk": "Planning your day",
+        "ro": "Planning your day",
+        "hu": "Planning your day",
+        "da": "Planning your day"
+      },
+      "title": {
+        "en": "PhilaBrig26 in the Simplonhalle",
+        "de": "PhilaBrig26 in der Simplonhalle",
+        "fr": "PhilaBrig26 à la Simplonhalle",
+        "it": "PhilaBrig26 nella Simplonhalle",
+        "nl": "PhilaBrig26 in the Simplonhalle",
+        "pl": "PhilaBrig26 in the Simplonhalle",
+        "cs": "PhilaBrig26 in the Simplonhalle",
+        "sk": "PhilaBrig26 in the Simplonhalle",
+        "ro": "PhilaBrig26 in the Simplonhalle",
+        "hu": "PhilaBrig26 in the Simplonhalle",
+        "da": "PhilaBrig26 in the Simplonhalle"
+      },
+      "paragraphs": [
+        {
+          "en": "PhilaBrig26 is a national exhibition with about 100 collections, a bourse with 13 dealers and the stands of Swiss Post and Philatelie Liechtenstein, all in the Simplonhalle, a few minutes' walk from Brig station. Entry is free, and every visitor gets the exhibition catalogue while stocks last.",
+          "de": "Die PhilaBrig26 ist eine nationale Ausstellung mit rund 100 Sammlungen, einer Börse mit 13 Händlern und den Ständen der Schweizerischen Post und von Philatelie Liechtenstein. Alles steht in der Simplonhalle, ein paar Gehminuten vom Bahnhof Brig. Der Eintritt ist frei, und jeder Besucher bekommt den Ausstellungskatalog, solange der Vorrat reicht.",
+          "fr": "PhilaBrig26 est une exposition nationale qui réunit une centaine de collections, une bourse avec 13 négociants et les stands de la Poste suisse et de Philatelie Liechtenstein, le tout dans la Simplonhalle, à quelques minutes à pied de la gare de Brigue. L'entrée est libre et chaque visiteur reçoit le catalogue de l'exposition, jusqu'à épuisement du stock.",
+          "it": "PhilaBrig26 è un'esposizione nazionale con un centinaio di collezioni, una borsa con 13 commercianti e gli stand della Posta svizzera e di Philatelie Liechtenstein, tutto nella Simplonhalle, a pochi minuti a piedi dalla stazione di Briga. L'ingresso è libero e ogni visitatore riceve il catalogo dell'esposizione fino a esaurimento.",
+          "nl": "PhilaBrig26 is a national exhibition with about 100 collections, a bourse with 13 dealers and the stands of Swiss Post and Philatelie Liechtenstein, all in the Simplonhalle, a few minutes' walk from Brig station. Entry is free, and every visitor gets the exhibition catalogue while stocks last.",
+          "pl": "PhilaBrig26 is a national exhibition with about 100 collections, a bourse with 13 dealers and the stands of Swiss Post and Philatelie Liechtenstein, all in the Simplonhalle, a few minutes' walk from Brig station. Entry is free, and every visitor gets the exhibition catalogue while stocks last.",
+          "cs": "PhilaBrig26 is a national exhibition with about 100 collections, a bourse with 13 dealers and the stands of Swiss Post and Philatelie Liechtenstein, all in the Simplonhalle, a few minutes' walk from Brig station. Entry is free, and every visitor gets the exhibition catalogue while stocks last.",
+          "sk": "PhilaBrig26 is a national exhibition with about 100 collections, a bourse with 13 dealers and the stands of Swiss Post and Philatelie Liechtenstein, all in the Simplonhalle, a few minutes' walk from Brig station. Entry is free, and every visitor gets the exhibition catalogue while stocks last.",
+          "ro": "PhilaBrig26 is a national exhibition with about 100 collections, a bourse with 13 dealers and the stands of Swiss Post and Philatelie Liechtenstein, all in the Simplonhalle, a few minutes' walk from Brig station. Entry is free, and every visitor gets the exhibition catalogue while stocks last.",
+          "hu": "PhilaBrig26 is a national exhibition with about 100 collections, a bourse with 13 dealers and the stands of Swiss Post and Philatelie Liechtenstein, all in the Simplonhalle, a few minutes' walk from Brig station. Entry is free, and every visitor gets the exhibition catalogue while stocks last.",
+          "da": "PhilaBrig26 is a national exhibition with about 100 collections, a bourse with 13 dealers and the stands of Swiss Post and Philatelie Liechtenstein, all in the Simplonhalle, a few minutes' walk from Brig station. Entry is free, and every visitor gets the exhibition catalogue while stocks last."
+        },
+        {
+          "en": "The Philatelistenverein Oberwallis, founded in Brig in 1966, organises it. Last year the Tag der Briefmarke was in Döttingen.",
+          "de": "Veranstalter ist der Philatelistenverein Oberwallis, der 1966 in Brig gegründet wurde. Letztes Jahr war der Tag der Briefmarke in Döttingen.",
+          "fr": "L'organisation est assurée par le Philatelistenverein Oberwallis, fondé à Brigue en 1966. L'an dernier, la Journée du timbre se tenait à Döttingen.",
+          "it": "L'organizzazione è del Philatelistenverein Oberwallis, fondato a Briga nel 1966. L'anno scorso la Giornata del francobollo si è svolta a Döttingen.",
+          "nl": "The Philatelistenverein Oberwallis, founded in Brig in 1966, organises it. Last year the Tag der Briefmarke was in Döttingen.",
+          "pl": "The Philatelistenverein Oberwallis, founded in Brig in 1966, organises it. Last year the Tag der Briefmarke was in Döttingen.",
+          "cs": "The Philatelistenverein Oberwallis, founded in Brig in 1966, organises it. Last year the Tag der Briefmarke was in Döttingen.",
+          "sk": "The Philatelistenverein Oberwallis, founded in Brig in 1966, organises it. Last year the Tag der Briefmarke was in Döttingen.",
+          "ro": "The Philatelistenverein Oberwallis, founded in Brig in 1966, organises it. Last year the Tag der Briefmarke was in Döttingen.",
+          "hu": "The Philatelistenverein Oberwallis, founded in Brig in 1966, organises it. Last year the Tag der Briefmarke was in Döttingen.",
+          "da": "The Philatelistenverein Oberwallis, founded in Brig in 1966, organises it. Last year the Tag der Briefmarke was in Döttingen."
+        },
+        {
+          "en": "The hall serves Valais dishes and drinks, and the restaurant Sukhothai-Brigerhof is at the same address.",
+          "de": "In der Halle gibt es Walliser Gerichte und Getränke, und an derselben Adresse liegt das Restaurant Sukhothai-Brigerhof.",
+          "fr": "On y sert des plats et des boissons du Valais, et le restaurant Sukhothai-Brigerhof se trouve à la même adresse.",
+          "it": "Nella sala si servono piatti e bevande del Vallese, e allo stesso indirizzo c'è il ristorante Sukhothai-Brigerhof.",
+          "nl": "The hall serves Valais dishes and drinks, and the restaurant Sukhothai-Brigerhof is at the same address.",
+          "pl": "The hall serves Valais dishes and drinks, and the restaurant Sukhothai-Brigerhof is at the same address.",
+          "cs": "The hall serves Valais dishes and drinks, and the restaurant Sukhothai-Brigerhof is at the same address.",
+          "sk": "The hall serves Valais dishes and drinks, and the restaurant Sukhothai-Brigerhof is at the same address.",
+          "ro": "The hall serves Valais dishes and drinks, and the restaurant Sukhothai-Brigerhof is at the same address.",
+          "hu": "The hall serves Valais dishes and drinks, and the restaurant Sukhothai-Brigerhof is at the same address.",
+          "da": "The hall serves Valais dishes and drinks, and the restaurant Sukhothai-Brigerhof is at the same address."
+        }
+      ]
+    },
+    {
+      "id": "swiss-block",
+      "date": {
+        "en": "Swiss Post, 5 November 2026",
+        "de": "Schweizerische Post, 5. November 2026",
+        "fr": "Poste suisse, 5 novembre 2026",
+        "it": "Posta svizzera, 5 novembre 2026",
+        "nl": "Swiss Post, 5 November 2026",
+        "pl": "Swiss Post, 5 November 2026",
+        "cs": "Swiss Post, 5 November 2026",
+        "sk": "Swiss Post, 5 November 2026",
+        "ro": "Swiss Post, 5 November 2026",
+        "hu": "Swiss Post, 5 November 2026",
+        "da": "Swiss Post, 5 November 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Tag der Briefmarke 2026 Brig, souvenir sheet",
+          "de": "Tag der Briefmarke 2026 Brig, Block",
+          "fr": "Journée du timbre 2026 Brigue, bloc-feuillet",
+          "it": "Giornata del francobollo 2026 Briga, foglietto",
+          "nl": "Tag der Briefmarke 2026 Brig, souvenir sheet",
+          "pl": "Tag der Briefmarke 2026 Brig, souvenir sheet",
+          "cs": "Tag der Briefmarke 2026 Brig, souvenir sheet",
+          "sk": "Tag der Briefmarke 2026 Brig, souvenir sheet",
+          "ro": "Tag der Briefmarke 2026 Brig, souvenir sheet",
+          "hu": "Tag der Briefmarke 2026 Brig, souvenir sheet",
+          "da": "Tag der Briefmarke 2026 Brig, souvenir sheet"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/8f90c8effe6d7407/ch-2026-brig-block.png",
+          "width": 1170,
+          "height": 453
+        },
+        "country": "CH",
+        "stamp_id": "ch-post-893010"
+      },
+      "title": {
+        "en": "The Swiss Post block and its postmarks",
+        "de": "Der Block der Post und seine Stempel",
+        "fr": "Le bloc de la Poste suisse et ses cachets",
+        "it": "Il foglietto della Posta svizzera e i suoi annulli",
+        "nl": "The Swiss Post block and its postmarks",
+        "pl": "The Swiss Post block and its postmarks",
+        "cs": "The Swiss Post block and its postmarks",
+        "sk": "The Swiss Post block and its postmarks",
+        "ro": "The Swiss Post block and its postmarks",
+        "hu": "The Swiss Post block and its postmarks",
+        "da": "The Swiss Post block and its postmarks"
+      },
+      "formats": [
+        {
+          "value": "CHF 1.80",
+          "format": {
+            "en": "Souvenir sheet with two stamps",
+            "de": "Block mit zwei Briefmarken",
+            "fr": "Bloc-feuillet de deux timbres",
+            "it": "Foglietto con due francobolli",
+            "nl": "Souvenir sheet with two stamps",
+            "pl": "Souvenir sheet with two stamps",
+            "cs": "Souvenir sheet with two stamps",
+            "sk": "Souvenir sheet with two stamps",
+            "ro": "Souvenir sheet with two stamps",
+            "hu": "Souvenir sheet with two stamps",
+            "da": "Souvenir sheet with two stamps"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "Sybille Eyer from Brig drew the block. One stamp shows the Sebastiansplatz and the other the Stockalper Palace, and the stone eagle of the Simplon Pass stands in the margin. Each stamp is 60 centimes with a 30-centime surcharge, and the block is gummed and perforated 12:12.",
+          "de": "Gezeichnet hat den Block Sybille Eyer aus Brig. Eine Marke zeigt den Sebastiansplatz, die andere den Stockalperpalast, im Blockrand steht der steinerne Adler vom Simplonpass. Jede Marke hat einen Nennwert von 60 Rappen plus 30 Rappen Zuschlag, der Block ist gummiert und hat die Zähnung 12:12.",
+          "fr": "Le bloc est dessiné par Sybille Eyer, de Brigue. Un timbre montre la Sebastiansplatz, l'autre le palais Stockalper, et l'aigle de pierre du col du Simplon occupe la marge. Chaque timbre vaut 60 centimes avec une surtaxe de 30 centimes. Le bloc est gommé et dentelé 12:12.",
+          "it": "Il foglietto è opera di Sybille Eyer, di Briga. Un francobollo mostra la Sebastiansplatz, l'altro il Palazzo Stockalper, e nel bordo compare l'aquila di pietra del Passo del Sempione. Ogni francobollo ha un valore nominale di 60 centesimi più 30 centesimi di sovrattassa; il foglietto è gommato e ha dentellatura 12:12.",
+          "nl": "Sybille Eyer from Brig drew the block. One stamp shows the Sebastiansplatz and the other the Stockalper Palace, and the stone eagle of the Simplon Pass stands in the margin. Each stamp is 60 centimes with a 30-centime surcharge, and the block is gummed and perforated 12:12.",
+          "pl": "Sybille Eyer from Brig drew the block. One stamp shows the Sebastiansplatz and the other the Stockalper Palace, and the stone eagle of the Simplon Pass stands in the margin. Each stamp is 60 centimes with a 30-centime surcharge, and the block is gummed and perforated 12:12.",
+          "cs": "Sybille Eyer from Brig drew the block. One stamp shows the Sebastiansplatz and the other the Stockalper Palace, and the stone eagle of the Simplon Pass stands in the margin. Each stamp is 60 centimes with a 30-centime surcharge, and the block is gummed and perforated 12:12.",
+          "sk": "Sybille Eyer from Brig drew the block. One stamp shows the Sebastiansplatz and the other the Stockalper Palace, and the stone eagle of the Simplon Pass stands in the margin. Each stamp is 60 centimes with a 30-centime surcharge, and the block is gummed and perforated 12:12.",
+          "ro": "Sybille Eyer from Brig drew the block. One stamp shows the Sebastiansplatz and the other the Stockalper Palace, and the stone eagle of the Simplon Pass stands in the margin. Each stamp is 60 centimes with a 30-centime surcharge, and the block is gummed and perforated 12:12.",
+          "hu": "Sybille Eyer from Brig drew the block. One stamp shows the Sebastiansplatz and the other the Stockalper Palace, and the stone eagle of the Simplon Pass stands in the margin. Each stamp is 60 centimes with a 30-centime surcharge, and the block is gummed and perforated 12:12.",
+          "da": "Sybille Eyer from Brig drew the block. One stamp shows the Sebastiansplatz and the other the Stockalper Palace, and the stone eagle of the Simplon Pass stands in the margin. Each stamp is 60 centimes with a 30-centime surcharge, and the block is gummed and perforated 12:12."
+        },
+        {
+          "en": "At the exhibition the Swiss Post stand cancels mail with a special postmark that shows the same stone eagle. The sculptor Erwin Friedrich Baumann built it on the pass during the Second World War, as a memorial to the soldiers of the mountain brigade 11.",
+          "de": "Auf der Ausstellung stempelt der Stand der Post die Belege mit einem Sonderstempel, der denselben steinernen Adler zeigt. Der Bildhauer Erwin Friedrich Baumann errichtete ihn im Zweiten Weltkrieg auf dem Pass, als Denkmal für die Soldaten der Gebirgsbrigade 11.",
+          "fr": "Pendant l'exposition, le stand de la Poste suisse oblitère le courrier avec un cachet spécial qui reprend ce même aigle de pierre. Le sculpteur Erwin Friedrich Baumann l'a érigé sur le col pendant la Seconde Guerre mondiale, en mémoire des soldats de la brigade de montagne 11.",
+          "it": "Durante l'esposizione lo stand della Posta svizzera annulla la corrispondenza con un annullo speciale che riporta la stessa aquila di pietra. La scultura è di Erwin Friedrich Baumann, che la realizzò sul passo durante la Seconda guerra mondiale in ricordo dei soldati della brigata di montagna 11.",
+          "nl": "At the exhibition the Swiss Post stand cancels mail with a special postmark that shows the same stone eagle. The sculptor Erwin Friedrich Baumann built it on the pass during the Second World War, as a memorial to the soldiers of the mountain brigade 11.",
+          "pl": "At the exhibition the Swiss Post stand cancels mail with a special postmark that shows the same stone eagle. The sculptor Erwin Friedrich Baumann built it on the pass during the Second World War, as a memorial to the soldiers of the mountain brigade 11.",
+          "cs": "At the exhibition the Swiss Post stand cancels mail with a special postmark that shows the same stone eagle. The sculptor Erwin Friedrich Baumann built it on the pass during the Second World War, as a memorial to the soldiers of the mountain brigade 11.",
+          "sk": "At the exhibition the Swiss Post stand cancels mail with a special postmark that shows the same stone eagle. The sculptor Erwin Friedrich Baumann built it on the pass during the Second World War, as a memorial to the soldiers of the mountain brigade 11.",
+          "ro": "At the exhibition the Swiss Post stand cancels mail with a special postmark that shows the same stone eagle. The sculptor Erwin Friedrich Baumann built it on the pass during the Second World War, as a memorial to the soldiers of the mountain brigade 11.",
+          "hu": "At the exhibition the Swiss Post stand cancels mail with a special postmark that shows the same stone eagle. The sculptor Erwin Friedrich Baumann built it on the pass during the Second World War, as a memorial to the soldiers of the mountain brigade 11.",
+          "da": "At the exhibition the Swiss Post stand cancels mail with a special postmark that shows the same stone eagle. The sculptor Erwin Friedrich Baumann built it on the pass during the Second World War, as a memorial to the soldiers of the mountain brigade 11."
+        },
+        {
+          "en": "Swiss Post issues the block on 5 November, and Brig has two postmarks for that day: a first-day postmark with a fountain, and a local postmark with the Stockalper Palace and the words \"am Simplon\". The block also comes on a first-day cover for CHF 2.95, and a picture postcard of the Stockalper Palace costs CHF 3.05. Sybille Eyer signs on Saturday from 10:00 to 11:00.",
+          "de": "Die Post gibt den Block am 5. November heraus, und für diesen Tag hat Brig zwei Stempel: einen Ersttagsstempel mit einem Brunnen und einen Ortsstempel mit dem Stockalperpalast und den Worten „am Simplon“. Den Block gibt es auch auf einem Ersttagsbrief für CHF 2.95, eine Bildpostkarte mit dem Stockalperpalast kostet CHF 3.05. Sybille Eyer signiert am Samstag von 10.00 bis 11.00 Uhr.",
+          "fr": "La Poste suisse émet le bloc le 5 novembre, et Brigue dispose de deux cachets pour ce jour-là, un cachet premier jour avec une fontaine et un cachet local avec le palais Stockalper et la mention « am Simplon ». Le bloc existe aussi sur pli premier jour à CHF 2.95, et la carte postale illustrée du palais Stockalper coûte CHF 3.05. Sybille Eyer dédicace le samedi de 10h00 à 11h00.",
+          "it": "La Posta svizzera emette il foglietto il 5 novembre e per quel giorno a Briga sono previsti due annulli: un annullo primo giorno con una fontana e un annullo locale con il Palazzo Stockalper e la scritta \"am Simplon\". Il foglietto è disponibile anche su busta primo giorno a CHF 2.95, mentre una cartolina illustrata con il Palazzo Stockalper costa CHF 3.05. Sabato, dalle 10.00 alle 11.00, Sybille Eyer firma autografi.",
+          "nl": "Swiss Post issues the block on 5 November, and Brig has two postmarks for that day: a first-day postmark with a fountain, and a local postmark with the Stockalper Palace and the words \"am Simplon\". The block also comes on a first-day cover for CHF 2.95, and a picture postcard of the Stockalper Palace costs CHF 3.05. Sybille Eyer signs on Saturday from 10:00 to 11:00.",
+          "pl": "Swiss Post issues the block on 5 November, and Brig has two postmarks for that day: a first-day postmark with a fountain, and a local postmark with the Stockalper Palace and the words \"am Simplon\". The block also comes on a first-day cover for CHF 2.95, and a picture postcard of the Stockalper Palace costs CHF 3.05. Sybille Eyer signs on Saturday from 10:00 to 11:00.",
+          "cs": "Swiss Post issues the block on 5 November, and Brig has two postmarks for that day: a first-day postmark with a fountain, and a local postmark with the Stockalper Palace and the words \"am Simplon\". The block also comes on a first-day cover for CHF 2.95, and a picture postcard of the Stockalper Palace costs CHF 3.05. Sybille Eyer signs on Saturday from 10:00 to 11:00.",
+          "sk": "Swiss Post issues the block on 5 November, and Brig has two postmarks for that day: a first-day postmark with a fountain, and a local postmark with the Stockalper Palace and the words \"am Simplon\". The block also comes on a first-day cover for CHF 2.95, and a picture postcard of the Stockalper Palace costs CHF 3.05. Sybille Eyer signs on Saturday from 10:00 to 11:00.",
+          "ro": "Swiss Post issues the block on 5 November, and Brig has two postmarks for that day: a first-day postmark with a fountain, and a local postmark with the Stockalper Palace and the words \"am Simplon\". The block also comes on a first-day cover for CHF 2.95, and a picture postcard of the Stockalper Palace costs CHF 3.05. Sybille Eyer signs on Saturday from 10:00 to 11:00.",
+          "hu": "Swiss Post issues the block on 5 November, and Brig has two postmarks for that day: a first-day postmark with a fountain, and a local postmark with the Stockalper Palace and the words \"am Simplon\". The block also comes on a first-day cover for CHF 2.95, and a picture postcard of the Stockalper Palace costs CHF 3.05. Sybille Eyer signs on Saturday from 10:00 to 11:00.",
+          "da": "Swiss Post issues the block on 5 November, and Brig has two postmarks for that day: a first-day postmark with a fountain, and a local postmark with the Stockalper Palace and the words \"am Simplon\". The block also comes on a first-day cover for CHF 2.95, and a picture postcard of the Stockalper Palace costs CHF 3.05. Sybille Eyer signs on Saturday from 10:00 to 11:00."
+        },
+        {
+          "en": "If you cannot come, send your covers to Post CH Netz AG, Retaillogistik, Stempeldienst, «TdBM2026», Werkstrasse 41, 3250 Lyss. Swiss Post gives 19 November as the last day.",
+          "de": "Wenn du nicht kommen kannst, schick deine Belege an Post CH Netz AG, Retaillogistik, Stempeldienst, „TdBM2026“, Werkstrasse 41, 3250 Lyss. Die Post nennt den 19. November als letzten Tag.",
+          "fr": "Si tu ne peux pas venir, envoie tes plis à Post CH Netz AG, Retaillogistik, Stempeldienst, « TdBM2026 », Werkstrasse 41, 3250 Lyss. La Poste suisse indique le 19 novembre comme dernier délai.",
+          "it": "Se non puoi venire, invia le tue buste a Post CH Netz AG, Retaillogistik, Stempeldienst, \"TdBM2026\", Werkstrasse 41, 3250 Lyss. La Posta svizzera indica il 19 novembre come termine ultimo.",
+          "nl": "If you cannot come, send your covers to Post CH Netz AG, Retaillogistik, Stempeldienst, «TdBM2026», Werkstrasse 41, 3250 Lyss. Swiss Post gives 19 November as the last day.",
+          "pl": "If you cannot come, send your covers to Post CH Netz AG, Retaillogistik, Stempeldienst, «TdBM2026», Werkstrasse 41, 3250 Lyss. Swiss Post gives 19 November as the last day.",
+          "cs": "If you cannot come, send your covers to Post CH Netz AG, Retaillogistik, Stempeldienst, «TdBM2026», Werkstrasse 41, 3250 Lyss. Swiss Post gives 19 November as the last day.",
+          "sk": "If you cannot come, send your covers to Post CH Netz AG, Retaillogistik, Stempeldienst, «TdBM2026», Werkstrasse 41, 3250 Lyss. Swiss Post gives 19 November as the last day.",
+          "ro": "If you cannot come, send your covers to Post CH Netz AG, Retaillogistik, Stempeldienst, «TdBM2026», Werkstrasse 41, 3250 Lyss. Swiss Post gives 19 November as the last day.",
+          "hu": "If you cannot come, send your covers to Post CH Netz AG, Retaillogistik, Stempeldienst, «TdBM2026», Werkstrasse 41, 3250 Lyss. Swiss Post gives 19 November as the last day.",
+          "da": "If you cannot come, send your covers to Post CH Netz AG, Retaillogistik, Stempeldienst, «TdBM2026», Werkstrasse 41, 3250 Lyss. Swiss Post gives 19 November as the last day."
+        }
+      ]
+    },
+    {
+      "id": "liechtenstein-block",
+      "date": {
+        "en": "Philatelie Liechtenstein",
+        "de": "Philatelie Liechtenstein",
+        "fr": "Philatelie Liechtenstein",
+        "it": "Philatelie Liechtenstein",
+        "nl": "Philatelie Liechtenstein",
+        "pl": "Philatelie Liechtenstein",
+        "cs": "Philatelie Liechtenstein",
+        "sk": "Philatelie Liechtenstein",
+        "ro": "Philatelie Liechtenstein",
+        "hu": "Philatelie Liechtenstein",
+        "da": "Philatelie Liechtenstein"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "PhilaBrig 2026, fair block",
+          "de": "PhilaBrig 2026, Messeblock",
+          "fr": "PhilaBrig 2026, bloc d'exposition",
+          "it": "PhilaBrig 2026, foglietto fieristico",
+          "nl": "PhilaBrig 2026, fair block",
+          "pl": "PhilaBrig 2026, fair block",
+          "cs": "PhilaBrig 2026, fair block",
+          "sk": "PhilaBrig 2026, fair block",
+          "ro": "PhilaBrig 2026, fair block",
+          "hu": "PhilaBrig 2026, fair block",
+          "da": "PhilaBrig 2026, fair block"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/7bff3fed19568220/li-2026-philabrig-block.png",
+          "width": 976,
+          "height": 649
+        },
+        "country": "LI",
+        "stamp_id": "li-post-297.26.26"
+      },
+      "title": {
+        "en": "Greetings from Brig, from Liechtenstein",
+        "de": "Grüsse aus Brig, aus Liechtenstein",
+        "fr": "Salutations de Brigue, depuis le Liechtenstein",
+        "it": "Saluti da Briga, dal Liechtenstein",
+        "nl": "Greetings from Brig, from Liechtenstein",
+        "pl": "Greetings from Brig, from Liechtenstein",
+        "cs": "Greetings from Brig, from Liechtenstein",
+        "sk": "Greetings from Brig, from Liechtenstein",
+        "ro": "Greetings from Brig, from Liechtenstein",
+        "hu": "Greetings from Brig, from Liechtenstein",
+        "da": "Greetings from Brig, from Liechtenstein"
+      },
+      "formats": [
+        {
+          "value": "CHF 4.30",
+          "format": {
+            "en": "Fair block with three stamps, sold at CHF 7.20",
+            "de": "Messeblock mit drei Briefmarken, Verkaufspreis CHF 7.20",
+            "fr": "Bloc d'exposition de trois timbres, vendu CHF 7.20",
+            "it": "Foglietto fieristico con tre francobolli, in vendita a CHF 7.20",
+            "nl": "Fair block with three stamps, sold at CHF 7.20",
+            "pl": "Fair block with three stamps, sold at CHF 7.20",
+            "cs": "Fair block with three stamps, sold at CHF 7.20",
+            "sk": "Fair block with three stamps, sold at CHF 7.20",
+            "ro": "Fair block with three stamps, sold at CHF 7.20",
+            "hu": "Fair block with three stamps, sold at CHF 7.20",
+            "da": "Fair block with three stamps, sold at CHF 7.20"
+          }
+        },
+        {
+          "value": "CHF 1.20",
+          "format": {
+            "en": "Fair cover with one stamp, sold at CHF 2.40",
+            "de": "Messebrief mit einer Briefmarke, Verkaufspreis CHF 2.40",
+            "fr": "Pli d'exposition avec un timbre, vendu CHF 2.40",
+            "it": "Busta fieristica con un francobollo, in vendita a CHF 2.40",
+            "nl": "Fair cover with one stamp, sold at CHF 2.40",
+            "pl": "Fair cover with one stamp, sold at CHF 2.40",
+            "cs": "Fair cover with one stamp, sold at CHF 2.40",
+            "sk": "Fair cover with one stamp, sold at CHF 2.40",
+            "ro": "Fair cover with one stamp, sold at CHF 2.40",
+            "hu": "Fair cover with one stamp, sold at CHF 2.40",
+            "da": "Fair cover with one stamp, sold at CHF 2.40"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "Philatelie Liechtenstein brings its own block for PhilaBrig26, with the words \"Grüsse aus Brig\". It shows the Stockalper Palace on a 1.20, a marmot on the 1.90 and Schloss Vaduz on the second 1.20. The block costs CHF 7.20 for CHF 4.30 of postage, and a block with the same values came out for the IBB in Ulm in October.",
+          "de": "Philatelie Liechtenstein bringt zur PhilaBrig26 einen eigenen Block mit, er trägt die Worte „Grüsse aus Brig“. Zu sehen sind der Stockalperpalast auf einer 1.20, ein Murmeltier auf der 1.90 und Schloss Vaduz auf der zweiten 1.20. Der Block kostet CHF 7.20 bei einem Frankaturwert von CHF 4.30, und im Oktober ist ein Block mit denselben Werten zur IBB in Ulm erschienen.",
+          "fr": "Philatelie Liechtenstein apporte son propre bloc pour PhilaBrig26, avec la mention « Grüsse aus Brig ». On y voit le palais Stockalper sur un 1.20, une marmotte sur le 1.90 et le château de Vaduz sur le second 1.20. Le bloc coûte CHF 7.20 pour CHF 4.30 d'affranchissement, et un bloc aux mêmes valeurs est paru en octobre pour l'IBB d'Ulm.",
+          "it": "Philatelie Liechtenstein porta a PhilaBrig26 un foglietto suo, con la scritta \"Grüsse aus Brig\". Sul valore da 1.20 c'è il Palazzo Stockalper, su quello da 1.90 una marmotta e sul secondo 1.20 il Castello di Vaduz. Il foglietto costa CHF 7.20 a fronte di CHF 4.30 di affrancatura, e a ottobre è uscito un foglietto con gli stessi valori per l'IBB di Ulm.",
+          "nl": "Philatelie Liechtenstein brings its own block for PhilaBrig26, with the words \"Grüsse aus Brig\". It shows the Stockalper Palace on a 1.20, a marmot on the 1.90 and Schloss Vaduz on the second 1.20. The block costs CHF 7.20 for CHF 4.30 of postage, and a block with the same values came out for the IBB in Ulm in October.",
+          "pl": "Philatelie Liechtenstein brings its own block for PhilaBrig26, with the words \"Grüsse aus Brig\". It shows the Stockalper Palace on a 1.20, a marmot on the 1.90 and Schloss Vaduz on the second 1.20. The block costs CHF 7.20 for CHF 4.30 of postage, and a block with the same values came out for the IBB in Ulm in October.",
+          "cs": "Philatelie Liechtenstein brings its own block for PhilaBrig26, with the words \"Grüsse aus Brig\". It shows the Stockalper Palace on a 1.20, a marmot on the 1.90 and Schloss Vaduz on the second 1.20. The block costs CHF 7.20 for CHF 4.30 of postage, and a block with the same values came out for the IBB in Ulm in October.",
+          "sk": "Philatelie Liechtenstein brings its own block for PhilaBrig26, with the words \"Grüsse aus Brig\". It shows the Stockalper Palace on a 1.20, a marmot on the 1.90 and Schloss Vaduz on the second 1.20. The block costs CHF 7.20 for CHF 4.30 of postage, and a block with the same values came out for the IBB in Ulm in October.",
+          "ro": "Philatelie Liechtenstein brings its own block for PhilaBrig26, with the words \"Grüsse aus Brig\". It shows the Stockalper Palace on a 1.20, a marmot on the 1.90 and Schloss Vaduz on the second 1.20. The block costs CHF 7.20 for CHF 4.30 of postage, and a block with the same values came out for the IBB in Ulm in October.",
+          "hu": "Philatelie Liechtenstein brings its own block for PhilaBrig26, with the words \"Grüsse aus Brig\". It shows the Stockalper Palace on a 1.20, a marmot on the 1.90 and Schloss Vaduz on the second 1.20. The block costs CHF 7.20 for CHF 4.30 of postage, and a block with the same values came out for the IBB in Ulm in October.",
+          "da": "Philatelie Liechtenstein brings its own block for PhilaBrig26, with the words \"Grüsse aus Brig\". It shows the Stockalper Palace on a 1.20, a marmot on the 1.90 and Schloss Vaduz on the second 1.20. The block costs CHF 7.20 for CHF 4.30 of postage, and a block with the same values came out for the IBB in Ulm in October."
+        },
+        {
+          "en": "Its stand has its own postmark, «PhilaBrig '26», with the prince's hat, designed by Armin Hoop. A fair cover with this postmark and a 1.20 stamp of the lady's slipper orchid costs CHF 2.40.",
+          "de": "Am Stand gibt es einen eigenen Stempel, „PhilaBrig '26“, mit dem Fürstenhut, gestaltet von Armin Hoop. Ein Messebrief mit diesem Stempel und einer 1.20 mit dem Frauenschuh kostet CHF 2.40.",
+          "fr": "Son stand a son propre cachet, « PhilaBrig '26 », avec le chapeau princier, dessiné par Armin Hoop. Un pli d'exposition avec ce cachet et un timbre à 1.20 au sabot de Vénus coûte CHF 2.40.",
+          "it": "Lo stand ha un annullo proprio, \"PhilaBrig '26\", con il cappello principesco, disegnato da Armin Hoop. La busta fieristica con questo annullo e il francobollo da 1.20 con la scarpetta di Venere costa CHF 2.40.",
+          "nl": "Its stand has its own postmark, «PhilaBrig '26», with the prince's hat, designed by Armin Hoop. A fair cover with this postmark and a 1.20 stamp of the lady's slipper orchid costs CHF 2.40.",
+          "pl": "Its stand has its own postmark, «PhilaBrig '26», with the prince's hat, designed by Armin Hoop. A fair cover with this postmark and a 1.20 stamp of the lady's slipper orchid costs CHF 2.40.",
+          "cs": "Its stand has its own postmark, «PhilaBrig '26», with the prince's hat, designed by Armin Hoop. A fair cover with this postmark and a 1.20 stamp of the lady's slipper orchid costs CHF 2.40.",
+          "sk": "Its stand has its own postmark, «PhilaBrig '26», with the prince's hat, designed by Armin Hoop. A fair cover with this postmark and a 1.20 stamp of the lady's slipper orchid costs CHF 2.40.",
+          "ro": "Its stand has its own postmark, «PhilaBrig '26», with the prince's hat, designed by Armin Hoop. A fair cover with this postmark and a 1.20 stamp of the lady's slipper orchid costs CHF 2.40.",
+          "hu": "Its stand has its own postmark, «PhilaBrig '26», with the prince's hat, designed by Armin Hoop. A fair cover with this postmark and a 1.20 stamp of the lady's slipper orchid costs CHF 2.40.",
+          "da": "Its stand has its own postmark, «PhilaBrig '26», with the prince's hat, designed by Armin Hoop. A fair cover with this postmark and a 1.20 stamp of the lady's slipper orchid costs CHF 2.40."
+        }
+      ]
+    },
+    {
+      "id": "exhibition",
+      "type": "text",
+      "label": {
+        "en": "The exhibition",
+        "de": "Die Ausstellung",
+        "fr": "L'exposition",
+        "it": "L'esposizione",
+        "nl": "The exhibition",
+        "pl": "The exhibition",
+        "cs": "The exhibition",
+        "sk": "The exhibition",
+        "ro": "The exhibition",
+        "hu": "The exhibition",
+        "da": "The exhibition"
+      },
+      "title": {
+        "en": "Valais postal history and the flight of Geo Chavez",
+        "de": "Walliser Postgeschichte und der Flug von Geo Chavez",
+        "fr": "Histoire postale valaisanne et le vol de Geo Chavez",
+        "it": "Storia postale vallesana e il volo di Geo Chavez",
+        "nl": "Valais postal history and the flight of Geo Chavez",
+        "pl": "Valais postal history and the flight of Geo Chavez",
+        "cs": "Valais postal history and the flight of Geo Chavez",
+        "sk": "Valais postal history and the flight of Geo Chavez",
+        "ro": "Valais postal history and the flight of Geo Chavez",
+        "hu": "Valais postal history and the flight of Geo Chavez",
+        "da": "Valais postal history and the flight of Geo Chavez"
+      },
+      "paragraphs": [
+        {
+          "en": "Two special exhibitions show the postal history of the Valais, from the beginnings in 1459 to the federal post of 1849 and on to 1863. Both won Grossgold at BERNABA 2025, and the second one also the Grand Prix Suisse.",
+          "de": "Zwei Sonderausstellungen zeigen die Postgeschichte des Wallis, von den Anfängen 1459 über die eidgenössische Post von 1849 bis 1863. Beide haben an der BERNABA 2025 Großgold gewonnen, die zweite dazu den Grand Prix Suisse.",
+          "fr": "Deux expositions spéciales retracent l'histoire postale du Valais, des débuts en 1459 à la poste fédérale de 1849, puis jusqu'en 1863. Toutes deux ont obtenu le grand or à BERNABA 2025, et la seconde également le Grand Prix Suisse.",
+          "it": "Due esposizioni speciali raccontano la storia postale del Vallese, dagli inizi nel 1459 alla posta federale del 1849 e fino al 1863. Entrambe hanno ottenuto un Oro Grande alla BERNABA 2025, e la seconda anche il Grand Prix Suisse.",
+          "nl": "Two special exhibitions show the postal history of the Valais, from the beginnings in 1459 to the federal post of 1849 and on to 1863. Both won Grossgold at BERNABA 2025, and the second one also the Grand Prix Suisse.",
+          "pl": "Two special exhibitions show the postal history of the Valais, from the beginnings in 1459 to the federal post of 1849 and on to 1863. Both won Grossgold at BERNABA 2025, and the second one also the Grand Prix Suisse.",
+          "cs": "Two special exhibitions show the postal history of the Valais, from the beginnings in 1459 to the federal post of 1849 and on to 1863. Both won Grossgold at BERNABA 2025, and the second one also the Grand Prix Suisse.",
+          "sk": "Two special exhibitions show the postal history of the Valais, from the beginnings in 1459 to the federal post of 1849 and on to 1863. Both won Grossgold at BERNABA 2025, and the second one also the Grand Prix Suisse.",
+          "ro": "Two special exhibitions show the postal history of the Valais, from the beginnings in 1459 to the federal post of 1849 and on to 1863. Both won Grossgold at BERNABA 2025, and the second one also the Grand Prix Suisse.",
+          "hu": "Two special exhibitions show the postal history of the Valais, from the beginnings in 1459 to the federal post of 1849 and on to 1863. Both won Grossgold at BERNABA 2025, and the second one also the Grand Prix Suisse.",
+          "da": "Two special exhibitions show the postal history of the Valais, from the beginnings in 1459 to the federal post of 1849 and on to 1863. Both won Grossgold at BERNABA 2025, and the second one also the Grand Prix Suisse."
+        },
+        {
+          "en": "Another special exhibition follows Geo Chavez. On 23 September 1910 he took off from Ried-Brig in a Blériot monoplane, crossed the Simplon Pass and reached Domodossola 51 minutes later, where his plane broke up on landing. He died four days later. The exhibit shows covers from his flying meetings of 1910 and from Juan Bielovucic, who took off from Ried-Brig in January 1913 and landed near the field where Chavez had crashed.",
+          "de": "Eine weitere Sonderausstellung folgt Geo Chavez. Am 23. September 1910 startete er in Ried-Brig mit einem Blériot-Eindecker, überflog den Simplonpass und erreichte Domodossola 51 Minuten später, wo sein Flugzeug bei der Landung zerbrach. Vier Tage später starb er. Zu sehen sind Belege von seinen Flugmeetings 1910 und von Juan Bielovucic, der im Januar 1913 in Ried-Brig startete und in der Nähe des Feldes landete, auf dem Chavez abgestürzt war.",
+          "fr": "Une autre exposition spéciale suit Geo Chavez. Le 23 septembre 1910, il décolle de Ried-Brig sur un monoplan Blériot, franchit le col du Simplon et atteint Domodossola 51 minutes plus tard, où son appareil se brise à l'atterrissage. Il meurt quatre jours plus tard. La présentation montre des plis de ses meetings aériens de 1910 et de Juan Bielovucic, parti de Ried-Brig en janvier 1913, qui s'est posé près du champ où Chavez s'était écrasé.",
+          "it": "Un'altra esposizione speciale segue Geo Chavez. Il 23 settembre 1910 decollò da Ried-Brig con un monoplano Blériot, superò il Passo del Sempione e raggiunse Domodossola 51 minuti dopo, dove l'aereo andò distrutto all'atterraggio. Morì quattro giorni più tardi. La collezione presenta buste dei suoi meeting aerei del 1910 e di Juan Bielovucic, che decollò da Ried-Brig nel gennaio 1913 e atterrò vicino al campo dove Chavez era precipitato.",
+          "nl": "Another special exhibition follows Geo Chavez. On 23 September 1910 he took off from Ried-Brig in a Blériot monoplane, crossed the Simplon Pass and reached Domodossola 51 minutes later, where his plane broke up on landing. He died four days later. The exhibit shows covers from his flying meetings of 1910 and from Juan Bielovucic, who took off from Ried-Brig in January 1913 and landed near the field where Chavez had crashed.",
+          "pl": "Another special exhibition follows Geo Chavez. On 23 September 1910 he took off from Ried-Brig in a Blériot monoplane, crossed the Simplon Pass and reached Domodossola 51 minutes later, where his plane broke up on landing. He died four days later. The exhibit shows covers from his flying meetings of 1910 and from Juan Bielovucic, who took off from Ried-Brig in January 1913 and landed near the field where Chavez had crashed.",
+          "cs": "Another special exhibition follows Geo Chavez. On 23 September 1910 he took off from Ried-Brig in a Blériot monoplane, crossed the Simplon Pass and reached Domodossola 51 minutes later, where his plane broke up on landing. He died four days later. The exhibit shows covers from his flying meetings of 1910 and from Juan Bielovucic, who took off from Ried-Brig in January 1913 and landed near the field where Chavez had crashed.",
+          "sk": "Another special exhibition follows Geo Chavez. On 23 September 1910 he took off from Ried-Brig in a Blériot monoplane, crossed the Simplon Pass and reached Domodossola 51 minutes later, where his plane broke up on landing. He died four days later. The exhibit shows covers from his flying meetings of 1910 and from Juan Bielovucic, who took off from Ried-Brig in January 1913 and landed near the field where Chavez had crashed.",
+          "ro": "Another special exhibition follows Geo Chavez. On 23 September 1910 he took off from Ried-Brig in a Blériot monoplane, crossed the Simplon Pass and reached Domodossola 51 minutes later, where his plane broke up on landing. He died four days later. The exhibit shows covers from his flying meetings of 1910 and from Juan Bielovucic, who took off from Ried-Brig in January 1913 and landed near the field where Chavez had crashed.",
+          "hu": "Another special exhibition follows Geo Chavez. On 23 September 1910 he took off from Ried-Brig in a Blériot monoplane, crossed the Simplon Pass and reached Domodossola 51 minutes later, where his plane broke up on landing. He died four days later. The exhibit shows covers from his flying meetings of 1910 and from Juan Bielovucic, who took off from Ried-Brig in January 1913 and landed near the field where Chavez had crashed.",
+          "da": "Another special exhibition follows Geo Chavez. On 23 September 1910 he took off from Ried-Brig in a Blériot monoplane, crossed the Simplon Pass and reached Domodossola 51 minutes later, where his plane broke up on landing. He died four days later. The exhibit shows covers from his flying meetings of 1910 and from Juan Bielovucic, who took off from Ried-Brig in January 1913 and landed near the field where Chavez had crashed."
+        },
+        {
+          "en": "Picture postcards and covers show the building of the Simplon tunnel and the Simplon pass road. The Helvetia shades exhibition lays out the colours of the perforated Sitzende Helvetia from private collections of well over 100,000 copies, and on Friday at 11:00 Roland Kohli and Miklos Toth present their book on them.",
+          "de": "Bildpostkarten und Belege zeigen den Bau des Simplontunnels und die Simplon-Passstraße. Die Ausstellung zu den Helvetia-Farben zeigt die Farbtöne der gezähnten Sitzenden Helvetia aus privaten Sammlungen mit weit über 100.000 Stück, und am Freitag um 11.00 Uhr stellen Roland Kohli und Miklos Toth ihr Buch dazu vor.",
+          "fr": "Des cartes postales illustrées et des plis montrent la construction du tunnel du Simplon et de la route du col. L'exposition « Helvetia shades » montre les nuances de l'Helvétie assise dentelée, tirées de collections privées de bien plus de 100 000 exemplaires, et vendredi à 11h00 Roland Kohli et Miklos Toth présentent leur livre sur le sujet.",
+          "it": "Cartoline illustrate e buste mostrano la costruzione del traforo del Sempione e della strada del passo. L'esposizione sulle tonalità dell'Helvetia mostra i colori dell'Helvetia seduta dentellata, da collezioni private con ben oltre 100.000 esemplari, e venerdì alle 11.00 Roland Kohli e Miklos Toth presentano il libro che vi hanno dedicato.",
+          "nl": "Picture postcards and covers show the building of the Simplon tunnel and the Simplon pass road. The Helvetia shades exhibition lays out the colours of the perforated Sitzende Helvetia from private collections of well over 100,000 copies, and on Friday at 11:00 Roland Kohli and Miklos Toth present their book on them.",
+          "pl": "Picture postcards and covers show the building of the Simplon tunnel and the Simplon pass road. The Helvetia shades exhibition lays out the colours of the perforated Sitzende Helvetia from private collections of well over 100,000 copies, and on Friday at 11:00 Roland Kohli and Miklos Toth present their book on them.",
+          "cs": "Picture postcards and covers show the building of the Simplon tunnel and the Simplon pass road. The Helvetia shades exhibition lays out the colours of the perforated Sitzende Helvetia from private collections of well over 100,000 copies, and on Friday at 11:00 Roland Kohli and Miklos Toth present their book on them.",
+          "sk": "Picture postcards and covers show the building of the Simplon tunnel and the Simplon pass road. The Helvetia shades exhibition lays out the colours of the perforated Sitzende Helvetia from private collections of well over 100,000 copies, and on Friday at 11:00 Roland Kohli and Miklos Toth present their book on them.",
+          "ro": "Picture postcards and covers show the building of the Simplon tunnel and the Simplon pass road. The Helvetia shades exhibition lays out the colours of the perforated Sitzende Helvetia from private collections of well over 100,000 copies, and on Friday at 11:00 Roland Kohli and Miklos Toth present their book on them.",
+          "hu": "Picture postcards and covers show the building of the Simplon tunnel and the Simplon pass road. The Helvetia shades exhibition lays out the colours of the perforated Sitzende Helvetia from private collections of well over 100,000 copies, and on Friday at 11:00 Roland Kohli and Miklos Toth present their book on them.",
+          "da": "Picture postcards and covers show the building of the Simplon tunnel and the Simplon pass road. The Helvetia shades exhibition lays out the colours of the perforated Sitzende Helvetia from private collections of well over 100,000 copies, and on Friday at 11:00 Roland Kohli and Miklos Toth present their book on them."
+        },
+        {
+          "en": "The competition is a level II exhibition and qualifies collections for level I. The awards hang on the frames from Friday afternoon, the palmarès is on Friday at 18:30 in the Pfarreiheim Brig, and exhibitors can book a talk with the jury on Saturday.",
+          "de": "Der Wettbewerb ist eine Ausstellung der Stufe II und qualifiziert Sammlungen für die Stufe I. Die Auszeichnungen hängen ab Freitagnachmittag an den Rahmen, das Palmarès ist am Freitag um 18.30 Uhr im Pfarreiheim Brig, und Aussteller können am Samstag ein Gespräch mit der Jury buchen.",
+          "fr": "Le concours est une exposition de niveau II et qualifie les collections pour le niveau I. Les distinctions sont affichées sur les cadres dès vendredi après-midi, le palmarès a lieu vendredi à 18h30 au Pfarreiheim Brig, et les exposants peuvent réserver un entretien avec le jury le samedi.",
+          "it": "La parte competitiva è un'esposizione di livello II e qualifica le collezioni per il livello I. I premi sono esposti sui quadri dal pomeriggio di venerdì, il palmarès è venerdì alle 18.30 nel Pfarreiheim di Briga e gli espositori possono prenotare un colloquio con la giuria per sabato.",
+          "nl": "The competition is a level II exhibition and qualifies collections for level I. The awards hang on the frames from Friday afternoon, the palmarès is on Friday at 18:30 in the Pfarreiheim Brig, and exhibitors can book a talk with the jury on Saturday.",
+          "pl": "The competition is a level II exhibition and qualifies collections for level I. The awards hang on the frames from Friday afternoon, the palmarès is on Friday at 18:30 in the Pfarreiheim Brig, and exhibitors can book a talk with the jury on Saturday.",
+          "cs": "The competition is a level II exhibition and qualifies collections for level I. The awards hang on the frames from Friday afternoon, the palmarès is on Friday at 18:30 in the Pfarreiheim Brig, and exhibitors can book a talk with the jury on Saturday.",
+          "sk": "The competition is a level II exhibition and qualifies collections for level I. The awards hang on the frames from Friday afternoon, the palmarès is on Friday at 18:30 in the Pfarreiheim Brig, and exhibitors can book a talk with the jury on Saturday.",
+          "ro": "The competition is a level II exhibition and qualifies collections for level I. The awards hang on the frames from Friday afternoon, the palmarès is on Friday at 18:30 in the Pfarreiheim Brig, and exhibitors can book a talk with the jury on Saturday.",
+          "hu": "The competition is a level II exhibition and qualifies collections for level I. The awards hang on the frames from Friday afternoon, the palmarès is on Friday at 18:30 in the Pfarreiheim Brig, and exhibitors can book a talk with the jury on Saturday.",
+          "da": "The competition is a level II exhibition and qualifies collections for level I. The awards hang on the frames from Friday afternoon, the palmarès is on Friday at 18:30 in the Pfarreiheim Brig, and exhibitors can book a talk with the jury on Saturday."
+        },
+        {
+          "en": "The 7e Journée Philatélique Romande adds two talks in French: on Friday at 14:00 Roberto Lopez, president of the Swiss federation of philatelic societies, asks whether exhibiting must always be about gold, and on Saturday at 14:00 Frédéric Bouchet talks about the first NHORA airmail from Basel to La Chaux-de-Fonds and Le Locle in 1926. On Saturday at 11:30 the town of Brig-Glis offers a drink.",
+          "de": "Die 7e Journée Philatélique Romande bringt zwei Vorträge auf Französisch: Am Freitag um 14.00 Uhr fragt Roberto Lopez, Präsident des Verbands Schweizerischer Philatelisten-Vereine, ob es beim Ausstellen immer um Gold gehen muss, und am Samstag um 14.00 Uhr spricht Frédéric Bouchet über die erste NHORA-Luftpost von Basel nach La Chaux-de-Fonds und Le Locle im Jahr 1926. Am Samstag um 11.30 Uhr lädt die Stadt Brig-Glis zu einem Apéro ein.",
+          "fr": "La 7e Journée Philatélique Romande ajoute deux conférences en français. Vendredi à 14h00, Roberto Lopez, président de la Fédération des Sociétés Philatéliques Suisses, se demande s'il faut toujours exposer pour l'or. Samedi à 14h00, Frédéric Bouchet parle du premier vol postal NHORA de Bâle vers La Chaux-de-Fonds et Le Locle en 1926. Samedi à 11h30, la commune de Brigue-Glis offre l'apéritif.",
+          "it": "La 7e Journée Philatélique Romande aggiunge due conferenze in francese: venerdì alle 14.00 Roberto Lopez, presidente della Federazione delle Società Filateliche Svizzere, si chiede se esporre debba sempre puntare all'oro, e sabato alle 14.00 Frédéric Bouchet parla del primo volo postale NHORA da Basilea a La Chaux-de-Fonds e Le Locle nel 1926. Sabato alle 11.30 il comune di Briga-Glis offre un aperitivo.",
+          "nl": "The 7e Journée Philatélique Romande adds two talks in French: on Friday at 14:00 Roberto Lopez, president of the Swiss federation of philatelic societies, asks whether exhibiting must always be about gold, and on Saturday at 14:00 Frédéric Bouchet talks about the first NHORA airmail from Basel to La Chaux-de-Fonds and Le Locle in 1926. On Saturday at 11:30 the town of Brig-Glis offers a drink.",
+          "pl": "The 7e Journée Philatélique Romande adds two talks in French: on Friday at 14:00 Roberto Lopez, president of the Swiss federation of philatelic societies, asks whether exhibiting must always be about gold, and on Saturday at 14:00 Frédéric Bouchet talks about the first NHORA airmail from Basel to La Chaux-de-Fonds and Le Locle in 1926. On Saturday at 11:30 the town of Brig-Glis offers a drink.",
+          "cs": "The 7e Journée Philatélique Romande adds two talks in French: on Friday at 14:00 Roberto Lopez, president of the Swiss federation of philatelic societies, asks whether exhibiting must always be about gold, and on Saturday at 14:00 Frédéric Bouchet talks about the first NHORA airmail from Basel to La Chaux-de-Fonds and Le Locle in 1926. On Saturday at 11:30 the town of Brig-Glis offers a drink.",
+          "sk": "The 7e Journée Philatélique Romande adds two talks in French: on Friday at 14:00 Roberto Lopez, president of the Swiss federation of philatelic societies, asks whether exhibiting must always be about gold, and on Saturday at 14:00 Frédéric Bouchet talks about the first NHORA airmail from Basel to La Chaux-de-Fonds and Le Locle in 1926. On Saturday at 11:30 the town of Brig-Glis offers a drink.",
+          "ro": "The 7e Journée Philatélique Romande adds two talks in French: on Friday at 14:00 Roberto Lopez, president of the Swiss federation of philatelic societies, asks whether exhibiting must always be about gold, and on Saturday at 14:00 Frédéric Bouchet talks about the first NHORA airmail from Basel to La Chaux-de-Fonds and Le Locle in 1926. On Saturday at 11:30 the town of Brig-Glis offers a drink.",
+          "hu": "The 7e Journée Philatélique Romande adds two talks in French: on Friday at 14:00 Roberto Lopez, president of the Swiss federation of philatelic societies, asks whether exhibiting must always be about gold, and on Saturday at 14:00 Frédéric Bouchet talks about the first NHORA airmail from Basel to La Chaux-de-Fonds and Le Locle in 1926. On Saturday at 11:30 the town of Brig-Glis offers a drink.",
+          "da": "The 7e Journée Philatélique Romande adds two talks in French: on Friday at 14:00 Roberto Lopez, president of the Swiss federation of philatelic societies, asks whether exhibiting must always be about gold, and on Saturday at 14:00 Frédéric Bouchet talks about the first NHORA airmail from Basel to La Chaux-de-Fonds and Le Locle in 1926. On Saturday at 11:30 the town of Brig-Glis offers a drink."
+        }
+      ]
+    },
+    {
+      "id": "brig-and-post",
+      "type": "text",
+      "label": {
+        "en": "Brig and the post",
+        "de": "Brig und die Post",
+        "fr": "Brigue et la poste",
+        "it": "Briga e la posta",
+        "nl": "Brig and the post",
+        "pl": "Brig and the post",
+        "cs": "Brig and the post",
+        "sk": "Brig and the post",
+        "ro": "Brig and the post",
+        "hu": "Brig and the post",
+        "da": "Brig and the post"
+      },
+      "title": {
+        "en": "From mule track to Postauto",
+        "de": "Vom Saumweg zum Postauto",
+        "fr": "Du chemin muletier au car postal",
+        "it": "Dalla mulattiera all'AutoPostale",
+        "nl": "From mule track to Postauto",
+        "pl": "From mule track to Postauto",
+        "cs": "From mule track to Postauto",
+        "sk": "From mule track to Postauto",
+        "ro": "From mule track to Postauto",
+        "hu": "From mule track to Postauto",
+        "da": "From mule track to Postauto"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/aa68b92c83606fff/stockalper-palace-clwacker.jpg",
+          "width": 2000,
+          "credit": "Photo: Clwacker, CC BY-SA 4.0",
+          "height": 1125,
+          "caption": {
+            "en": "The Stockalper Palace in Brig",
+            "de": "Der Stockalperpalast in Brig",
+            "fr": "Le palais Stockalper à Brigue",
+            "it": "Il Palazzo Stockalper a Briga",
+            "nl": "The Stockalper Palace in Brig",
+            "pl": "The Stockalper Palace in Brig",
+            "cs": "The Stockalper Palace in Brig",
+            "sk": "The Stockalper Palace in Brig",
+            "ro": "The Stockalper Palace in Brig",
+            "hu": "The Stockalper Palace in Brig",
+            "da": "The Stockalper Palace in Brig"
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_et_jardin_Stockalper.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "In the 17th century Kaspar Stockalper improved the mule track over the Simplon and ran a weekly courier between Milan and Geneva. His palace, with its three towers Kaspar, Melchior and Balthasar, is on both blocks and today holds the town administration and a museum on the Simplon.",
+          "de": "Im 17. Jahrhundert baute Kaspar Stockalper den Saumweg über den Simplon aus und ließ einen wöchentlichen Kurier zwischen Mailand und Genf verkehren. Sein Palast mit den drei Türmen Kaspar, Melchior und Balthasar steht auf beiden Blocks und beherbergt heute die Stadtverwaltung und ein Museum zum Simplon.",
+          "fr": "Au 17e siècle, Kaspar Stockalper améliore le chemin muletier du Simplon et fait circuler un courrier hebdomadaire entre Milan et Genève. Son palais, avec ses trois tours Kaspar, Melchior et Balthasar, figure sur les deux blocs et abrite aujourd'hui l'administration communale ainsi qu'un musée consacré au Simplon.",
+          "it": "Nel Seicento Kaspar Stockalper migliorò la mulattiera del Sempione e istituì un corriere settimanale tra Milano e Ginevra. Il suo palazzo, con le tre torri Kaspar, Melchior e Balthasar, compare su entrambi i foglietti e oggi ospita l'amministrazione comunale e un museo sul Sempione.",
+          "nl": "In the 17th century Kaspar Stockalper improved the mule track over the Simplon and ran a weekly courier between Milan and Geneva. His palace, with its three towers Kaspar, Melchior and Balthasar, is on both blocks and today holds the town administration and a museum on the Simplon.",
+          "pl": "In the 17th century Kaspar Stockalper improved the mule track over the Simplon and ran a weekly courier between Milan and Geneva. His palace, with its three towers Kaspar, Melchior and Balthasar, is on both blocks and today holds the town administration and a museum on the Simplon.",
+          "cs": "In the 17th century Kaspar Stockalper improved the mule track over the Simplon and ran a weekly courier between Milan and Geneva. His palace, with its three towers Kaspar, Melchior and Balthasar, is on both blocks and today holds the town administration and a museum on the Simplon.",
+          "sk": "In the 17th century Kaspar Stockalper improved the mule track over the Simplon and ran a weekly courier between Milan and Geneva. His palace, with its three towers Kaspar, Melchior and Balthasar, is on both blocks and today holds the town administration and a museum on the Simplon.",
+          "ro": "In the 17th century Kaspar Stockalper improved the mule track over the Simplon and ran a weekly courier between Milan and Geneva. His palace, with its three towers Kaspar, Melchior and Balthasar, is on both blocks and today holds the town administration and a museum on the Simplon.",
+          "hu": "In the 17th century Kaspar Stockalper improved the mule track over the Simplon and ran a weekly courier between Milan and Geneva. His palace, with its three towers Kaspar, Melchior and Balthasar, is on both blocks and today holds the town administration and a museum on the Simplon.",
+          "da": "In the 17th century Kaspar Stockalper improved the mule track over the Simplon and ran a weekly courier between Milan and Geneva. His palace, with its three towers Kaspar, Melchior and Balthasar, is on both blocks and today holds the town administration and a museum on the Simplon."
+        },
+        {
+          "en": "Napoleon had a road built over the pass from 1801 to 1805, and the first stagecoach crossed it in 1806. In 1876 alone the coaches between Brig and Domodossola carried 28,190 passengers. In 1906 the Simplon tunnel opened, 19,803 m long and until the late 1970s the longest mountain tunnel in the world, and in 1919 the line over the Simplon became the first Postauto line over a Swiss Alpine pass.",
+          "de": "Napoleon ließ von 1801 bis 1805 eine Straße über den Pass bauen, 1806 fuhr die erste Postkutsche darüber. Allein 1876 beförderten die Kutschen zwischen Brig und Domodossola 28.190 Passagiere. 1906 wurde der Simplontunnel eröffnet, 19.803 m lang und bis Ende der 1970er-Jahre der längste Gebirgstunnel der Welt, und 1919 wurde die Strecke über den Simplon die erste Postautolinie über einen Schweizer Alpenpass.",
+          "fr": "Napoléon fait construire une route sur le col de 1801 à 1805, et la première diligence le franchit en 1806. Rien qu'en 1876, les diligences entre Brigue et Domodossola transportent 28 190 voyageurs. Le tunnel du Simplon ouvre en 1906. Long de 19 803 m, il reste le plus long tunnel de montagne du monde jusqu'à la fin des années 1970, et en 1919 la ligne du Simplon devient la première ligne de car postal à franchir un col alpin suisse.",
+          "it": "Napoleone fece costruire la strada del passo tra il 1801 e il 1805, e nel 1806 vi transitò la prima diligenza. Nel solo 1876 le diligenze tra Briga e Domodossola trasportarono 28.190 passeggeri. Nel 1906 fu aperto il traforo del Sempione, lungo 19.803 m, che fino alla fine degli anni Settanta è stato il traforo di montagna più lungo del mondo. Nel 1919 la linea del Sempione divenne la prima linea di AutoPostale su un passo alpino svizzero.",
+          "nl": "Napoleon had a road built over the pass from 1801 to 1805, and the first stagecoach crossed it in 1806. In 1876 alone the coaches between Brig and Domodossola carried 28,190 passengers. In 1906 the Simplon tunnel opened, 19,803 m long and until the late 1970s the longest mountain tunnel in the world, and in 1919 the line over the Simplon became the first Postauto line over a Swiss Alpine pass.",
+          "pl": "Napoleon had a road built over the pass from 1801 to 1805, and the first stagecoach crossed it in 1806. In 1876 alone the coaches between Brig and Domodossola carried 28,190 passengers. In 1906 the Simplon tunnel opened, 19,803 m long and until the late 1970s the longest mountain tunnel in the world, and in 1919 the line over the Simplon became the first Postauto line over a Swiss Alpine pass.",
+          "cs": "Napoleon had a road built over the pass from 1801 to 1805, and the first stagecoach crossed it in 1806. In 1876 alone the coaches between Brig and Domodossola carried 28,190 passengers. In 1906 the Simplon tunnel opened, 19,803 m long and until the late 1970s the longest mountain tunnel in the world, and in 1919 the line over the Simplon became the first Postauto line over a Swiss Alpine pass.",
+          "sk": "Napoleon had a road built over the pass from 1801 to 1805, and the first stagecoach crossed it in 1806. In 1876 alone the coaches between Brig and Domodossola carried 28,190 passengers. In 1906 the Simplon tunnel opened, 19,803 m long and until the late 1970s the longest mountain tunnel in the world, and in 1919 the line over the Simplon became the first Postauto line over a Swiss Alpine pass.",
+          "ro": "Napoleon had a road built over the pass from 1801 to 1805, and the first stagecoach crossed it in 1806. In 1876 alone the coaches between Brig and Domodossola carried 28,190 passengers. In 1906 the Simplon tunnel opened, 19,803 m long and until the late 1970s the longest mountain tunnel in the world, and in 1919 the line over the Simplon became the first Postauto line over a Swiss Alpine pass.",
+          "hu": "Napoleon had a road built over the pass from 1801 to 1805, and the first stagecoach crossed it in 1806. In 1876 alone the coaches between Brig and Domodossola carried 28,190 passengers. In 1906 the Simplon tunnel opened, 19,803 m long and until the late 1970s the longest mountain tunnel in the world, and in 1919 the line over the Simplon became the first Postauto line over a Swiss Alpine pass.",
+          "da": "Napoleon had a road built over the pass from 1801 to 1805, and the first stagecoach crossed it in 1806. In 1876 alone the coaches between Brig and Domodossola carried 28,190 passengers. In 1906 the Simplon tunnel opened, 19,803 m long and until the late 1970s the longest mountain tunnel in the world, and in 1919 the line over the Simplon became the first Postauto line over a Swiss Alpine pass."
+        },
+        {
+          "en": "In Brig itself the former main post office of 1900 to 1902 still stands at the Stadtplatz. If you have time, the Alte Kaserne of the Ecomuseum Simplon in the Gondo gorge is open all year, with free entry.",
+          "de": "In Brig selbst steht die frühere Hauptpost, gebaut von 1900 bis 1902, noch am Stadtplatz. Wenn du Zeit hast: Die Alte Kaserne des Ecomuseums Simplon in der Gondoschlucht ist das ganze Jahr offen, der Eintritt ist frei.",
+          "fr": "À Brigue même, l'ancienne poste principale, construite de 1900 à 1902, se dresse toujours sur la Stadtplatz. Si tu as le temps, l'Alte Kaserne de l'Ecomuseum Simplon, dans les gorges de Gondo, est ouverte toute l'année, avec entrée libre.",
+          "it": "A Briga, sulla Stadtplatz, c'è ancora l'ex ufficio postale principale del 1900-1902. Se hai tempo, l'Alte Kaserne dell'Ecomuseum Simplon, nella gola di Gondo, è aperta tutto l'anno con ingresso libero.",
+          "nl": "In Brig itself the former main post office of 1900 to 1902 still stands at the Stadtplatz. If you have time, the Alte Kaserne of the Ecomuseum Simplon in the Gondo gorge is open all year, with free entry.",
+          "pl": "In Brig itself the former main post office of 1900 to 1902 still stands at the Stadtplatz. If you have time, the Alte Kaserne of the Ecomuseum Simplon in the Gondo gorge is open all year, with free entry.",
+          "cs": "In Brig itself the former main post office of 1900 to 1902 still stands at the Stadtplatz. If you have time, the Alte Kaserne of the Ecomuseum Simplon in the Gondo gorge is open all year, with free entry.",
+          "sk": "In Brig itself the former main post office of 1900 to 1902 still stands at the Stadtplatz. If you have time, the Alte Kaserne of the Ecomuseum Simplon in the Gondo gorge is open all year, with free entry.",
+          "ro": "In Brig itself the former main post office of 1900 to 1902 still stands at the Stadtplatz. If you have time, the Alte Kaserne of the Ecomuseum Simplon in the Gondo gorge is open all year, with free entry.",
+          "hu": "In Brig itself the former main post office of 1900 to 1902 still stands at the Stadtplatz. If you have time, the Alte Kaserne of the Ecomuseum Simplon in the Gondo gorge is open all year, with free entry.",
+          "da": "In Brig itself the former main post office of 1900 to 1902 still stands at the Stadtplatz. If you have time, the Alte Kaserne of the Ecomuseum Simplon in the Gondo gorge is open all year, with free entry."
+        }
+      ]
+    },
+    {
+      "id": "children",
+      "type": "text",
+      "label": {
+        "en": "With children",
+        "de": "Mit Kindern",
+        "fr": "Avec des enfants",
+        "it": "Con i bambini",
+        "nl": "With children",
+        "pl": "With children",
+        "cs": "With children",
+        "sk": "With children",
+        "ro": "With children",
+        "hu": "With children",
+        "da": "With children"
+      },
+      "title": {
+        "en": "Free stamps and a treasure map",
+        "de": "Gratis-Briefmarken und eine Schatzkarte",
+        "fr": "Timbres gratuits et carte au trésor",
+        "it": "Francobolli gratis e una mappa del tesoro",
+        "nl": "Free stamps and a treasure map",
+        "pl": "Free stamps and a treasure map",
+        "cs": "Free stamps and a treasure map",
+        "sk": "Free stamps and a treasure map",
+        "ro": "Free stamps and a treasure map",
+        "hu": "Free stamps and a treasure map",
+        "da": "Free stamps and a treasure map"
+      },
+      "paragraphs": [
+        {
+          "en": "The organisers of PhilaBrig26 welcome children with free stamps to start a collection. Young visitors explore the exhibition with a treasure map, school classes get guided tours, and the youth prizes are given on Saturday at 11:00.",
+          "de": "Die Organisatoren der PhilaBrig26 empfangen Kinder mit Gratis-Briefmarken für den Start einer eigenen Sammlung. Junge Besucher erkunden die Ausstellung mit einer Schatzkarte, Schulklassen bekommen Führungen, und die Jugendpreise werden am Samstag um 11.00 Uhr vergeben.",
+          "fr": "Les organisateurs de PhilaBrig26 accueillent les enfants avec des timbres gratuits pour commencer une collection. Les jeunes visiteurs parcourent l'exposition avec une carte au trésor, les classes profitent de visites guidées, et les prix jeunesse sont remis samedi à 11h00.",
+          "it": "Gli organizzatori di PhilaBrig26 accolgono i bambini con francobolli gratuiti per iniziare una collezione. I più giovani visitano l'esposizione con una mappa del tesoro, per le classi scolastiche ci sono visite guidate e i premi per i giovani vengono consegnati sabato alle 11.00.",
+          "nl": "The organisers of PhilaBrig26 welcome children with free stamps to start a collection. Young visitors explore the exhibition with a treasure map, school classes get guided tours, and the youth prizes are given on Saturday at 11:00.",
+          "pl": "The organisers of PhilaBrig26 welcome children with free stamps to start a collection. Young visitors explore the exhibition with a treasure map, school classes get guided tours, and the youth prizes are given on Saturday at 11:00.",
+          "cs": "The organisers of PhilaBrig26 welcome children with free stamps to start a collection. Young visitors explore the exhibition with a treasure map, school classes get guided tours, and the youth prizes are given on Saturday at 11:00.",
+          "sk": "The organisers of PhilaBrig26 welcome children with free stamps to start a collection. Young visitors explore the exhibition with a treasure map, school classes get guided tours, and the youth prizes are given on Saturday at 11:00.",
+          "ro": "The organisers of PhilaBrig26 welcome children with free stamps to start a collection. Young visitors explore the exhibition with a treasure map, school classes get guided tours, and the youth prizes are given on Saturday at 11:00.",
+          "hu": "The organisers of PhilaBrig26 welcome children with free stamps to start a collection. Young visitors explore the exhibition with a treasure map, school classes get guided tours, and the youth prizes are given on Saturday at 11:00.",
+          "da": "The organisers of PhilaBrig26 welcome children with free stamps to start a collection. Young visitors explore the exhibition with a treasure map, school classes get guided tours, and the youth prizes are given on Saturday at 11:00."
+        }
+      ]
+    },
+    {
+      "id": "visiting",
+      "rows": [
+        {
+          "label": {
+            "en": "Place",
+            "de": "Ort",
+            "fr": "Lieu",
+            "it": "Luogo",
+            "nl": "Place",
+            "pl": "Place",
+            "cs": "Place",
+            "sk": "Place",
+            "ro": "Place",
+            "hu": "Place",
+            "da": "Place"
+          },
+          "value": {
+            "en": "Simplonhalle, Rhonesandstrasse 18, 3900 Brig",
+            "de": "Simplonhalle, Rhonesandstrasse 18, 3900 Brig",
+            "fr": "Simplonhalle, Rhonesandstrasse 18, 3900 Brig",
+            "it": "Simplonhalle, Rhonesandstrasse 18, 3900 Brig",
+            "nl": "Simplonhalle, Rhonesandstrasse 18, 3900 Brig",
+            "pl": "Simplonhalle, Rhonesandstrasse 18, 3900 Brig",
+            "cs": "Simplonhalle, Rhonesandstrasse 18, 3900 Brig",
+            "sk": "Simplonhalle, Rhonesandstrasse 18, 3900 Brig",
+            "ro": "Simplonhalle, Rhonesandstrasse 18, 3900 Brig",
+            "hu": "Simplonhalle, Rhonesandstrasse 18, 3900 Brig",
+            "da": "Simplonhalle, Rhonesandstrasse 18, 3900 Brig"
+          }
+        },
+        {
+          "label": {
+            "en": "Thursday and Friday",
+            "de": "Donnerstag und Freitag",
+            "fr": "Jeudi et vendredi",
+            "it": "Giovedì e venerdì",
+            "nl": "Thursday and Friday",
+            "pl": "Thursday and Friday",
+            "cs": "Thursday and Friday",
+            "sk": "Thursday and Friday",
+            "ro": "Thursday and Friday",
+            "hu": "Thursday and Friday",
+            "da": "Thursday and Friday"
+          },
+          "value": {
+            "en": "9:30 to 17:00",
+            "de": "9.30 bis 17.00 Uhr",
+            "fr": "de 9h30 à 17h00",
+            "it": "dalle 9.30 alle 17.00",
+            "nl": "9:30 to 17:00",
+            "pl": "9:30 to 17:00",
+            "cs": "9:30 to 17:00",
+            "sk": "9:30 to 17:00",
+            "ro": "9:30 to 17:00",
+            "hu": "9:30 to 17:00",
+            "da": "9:30 to 17:00"
+          }
+        },
+        {
+          "label": {
+            "en": "Saturday",
+            "de": "Samstag",
+            "fr": "Samedi",
+            "it": "Sabato",
+            "nl": "Saturday",
+            "pl": "Saturday",
+            "cs": "Saturday",
+            "sk": "Saturday",
+            "ro": "Saturday",
+            "hu": "Saturday",
+            "da": "Saturday"
+          },
+          "value": {
+            "en": "from 9:30",
+            "de": "ab 9.30 Uhr",
+            "fr": "dès 9h30",
+            "it": "dalle 9.30",
+            "nl": "from 9:30",
+            "pl": "from 9:30",
+            "cs": "from 9:30",
+            "sk": "from 9:30",
+            "ro": "from 9:30",
+            "hu": "from 9:30",
+            "da": "from 9:30"
+          }
+        },
+        {
+          "label": {
+            "en": "Entry",
+            "de": "Eintritt",
+            "fr": "Entrée",
+            "it": "Ingresso",
+            "nl": "Entry",
+            "pl": "Entry",
+            "cs": "Entry",
+            "sk": "Entry",
+            "ro": "Entry",
+            "hu": "Entry",
+            "da": "Entry"
+          },
+          "value": {
+            "en": "free, with a free catalogue",
+            "de": "frei, mit Gratis-Katalog",
+            "fr": "libre, avec un catalogue gratuit",
+            "it": "libero, con catalogo gratuito",
+            "nl": "free, with a free catalogue",
+            "pl": "free, with a free catalogue",
+            "cs": "free, with a free catalogue",
+            "sk": "free, with a free catalogue",
+            "ro": "free, with a free catalogue",
+            "hu": "free, with a free catalogue",
+            "da": "free, with a free catalogue"
+          }
+        },
+        {
+          "label": {
+            "en": "By train from Bern",
+            "de": "Mit dem Zug ab Bern",
+            "fr": "En train depuis Berne",
+            "it": "In treno da Berna",
+            "nl": "By train from Bern",
+            "pl": "By train from Bern",
+            "cs": "By train from Bern",
+            "sk": "By train from Bern",
+            "ro": "By train from Bern",
+            "hu": "By train from Bern",
+            "da": "By train from Bern"
+          },
+          "value": {
+            "en": "1 hour 6 minutes",
+            "de": "1 Stunde 6 Minuten",
+            "fr": "1 heure 6 minutes",
+            "it": "1 ora e 6 minuti",
+            "nl": "1 hour 6 minutes",
+            "pl": "1 hour 6 minutes",
+            "cs": "1 hour 6 minutes",
+            "sk": "1 hour 6 minutes",
+            "ro": "1 hour 6 minutes",
+            "hu": "1 hour 6 minutes",
+            "da": "1 hour 6 minutes"
+          }
+        },
+        {
+          "label": {
+            "en": "By train from Zürich or Basel",
+            "de": "Mit dem Zug ab Zürich oder Basel",
+            "fr": "En train depuis Zurich ou Bâle",
+            "it": "In treno da Zurigo o Basilea",
+            "nl": "By train from Zürich or Basel",
+            "pl": "By train from Zürich or Basel",
+            "cs": "By train from Zürich or Basel",
+            "sk": "By train from Zürich or Basel",
+            "ro": "By train from Zürich or Basel",
+            "hu": "By train from Zürich or Basel",
+            "da": "By train from Zürich or Basel"
+          },
+          "value": {
+            "en": "about 2 hours 10 minutes",
+            "de": "rund 2 Stunden 10 Minuten",
+            "fr": "environ 2 heures 10 minutes",
+            "it": "circa 2 ore e 10 minuti",
+            "nl": "about 2 hours 10 minutes",
+            "pl": "about 2 hours 10 minutes",
+            "cs": "about 2 hours 10 minutes",
+            "sk": "about 2 hours 10 minutes",
+            "ro": "about 2 hours 10 minutes",
+            "hu": "about 2 hours 10 minutes",
+            "da": "about 2 hours 10 minutes"
+          }
+        },
+        {
+          "label": {
+            "en": "By train from Lausanne or Geneva",
+            "de": "Mit dem Zug ab Lausanne oder Genf",
+            "fr": "En train depuis Lausanne ou Genève",
+            "it": "In treno da Losanna o Ginevra",
+            "nl": "By train from Lausanne or Geneva",
+            "pl": "By train from Lausanne or Geneva",
+            "cs": "By train from Lausanne or Geneva",
+            "sk": "By train from Lausanne or Geneva",
+            "ro": "By train from Lausanne or Geneva",
+            "hu": "By train from Lausanne or Geneva",
+            "da": "By train from Lausanne or Geneva"
+          },
+          "value": {
+            "en": "about 1 hour 30 minutes or 2 hours 15 minutes",
+            "de": "rund 1 Stunde 30 Minuten oder 2 Stunden 15 Minuten",
+            "fr": "environ 1 heure 30 minutes ou 2 heures 15 minutes",
+            "it": "circa 1 ora e 30 minuti o 2 ore e 15 minuti",
+            "nl": "about 1 hour 30 minutes or 2 hours 15 minutes",
+            "pl": "about 1 hour 30 minutes or 2 hours 15 minutes",
+            "cs": "about 1 hour 30 minutes or 2 hours 15 minutes",
+            "sk": "about 1 hour 30 minutes or 2 hours 15 minutes",
+            "ro": "about 1 hour 30 minutes or 2 hours 15 minutes",
+            "hu": "about 1 hour 30 minutes or 2 hours 15 minutes",
+            "da": "about 1 hour 30 minutes or 2 hours 15 minutes"
+          }
+        },
+        {
+          "label": {
+            "en": "By train from Domodossola",
+            "de": "Mit dem Zug ab Domodossola",
+            "fr": "En train depuis Domodossola",
+            "it": "In treno da Domodossola",
+            "nl": "By train from Domodossola",
+            "pl": "By train from Domodossola",
+            "cs": "By train from Domodossola",
+            "sk": "By train from Domodossola",
+            "ro": "By train from Domodossola",
+            "hu": "By train from Domodossola",
+            "da": "By train from Domodossola"
+          },
+          "value": {
+            "en": "about 30 minutes",
+            "de": "rund 30 Minuten",
+            "fr": "environ 30 minutes",
+            "it": "circa 30 minuti",
+            "nl": "about 30 minutes",
+            "pl": "about 30 minutes",
+            "cs": "about 30 minutes",
+            "sk": "about 30 minutes",
+            "ro": "about 30 minutes",
+            "hu": "about 30 minutes",
+            "da": "about 30 minutes"
+          }
+        },
+        {
+          "label": {
+            "en": "Parking",
+            "de": "Parken",
+            "fr": "Parking",
+            "it": "Parcheggio",
+            "nl": "Parking",
+            "pl": "Parking",
+            "cs": "Parking",
+            "sk": "Parking",
+            "ro": "Parking",
+            "hu": "Parking",
+            "da": "Parking"
+          },
+          "value": {
+            "en": "Parkplatz Rhonesand, 5 minutes' walk, first hour free, then CHF 0.60 an hour",
+            "de": "Parkplatz Rhonesand, 5 Gehminuten, erste Stunde frei, danach CHF 0.60 pro Stunde",
+            "fr": "Parkplatz Rhonesand, à 5 minutes à pied, première heure gratuite, puis CHF 0.60 par heure",
+            "it": "Parkplatz Rhonesand, 5 minuti a piedi, prima ora gratuita, poi CHF 0.60 all'ora",
+            "nl": "Parkplatz Rhonesand, 5 minutes' walk, first hour free, then CHF 0.60 an hour",
+            "pl": "Parkplatz Rhonesand, 5 minutes' walk, first hour free, then CHF 0.60 an hour",
+            "cs": "Parkplatz Rhonesand, 5 minutes' walk, first hour free, then CHF 0.60 an hour",
+            "sk": "Parkplatz Rhonesand, 5 minutes' walk, first hour free, then CHF 0.60 an hour",
+            "ro": "Parkplatz Rhonesand, 5 minutes' walk, first hour free, then CHF 0.60 an hour",
+            "hu": "Parkplatz Rhonesand, 5 minutes' walk, first hour free, then CHF 0.60 an hour",
+            "da": "Parkplatz Rhonesand, 5 minutes' walk, first hour free, then CHF 0.60 an hour"
+          }
+        },
+        {
+          "label": {
+            "en": "Hotels",
+            "de": "Hotels",
+            "fr": "Hôtels",
+            "it": "Hotel",
+            "nl": "Hotels",
+            "pl": "Hotels",
+            "cs": "Hotels",
+            "sk": "Hotels",
+            "ro": "Hotels",
+            "hu": "Hotels",
+            "da": "Hotels"
+          },
+          "value": {
+            "en": "Brig Simplon Tourismus, +41 27 921 60 30",
+            "de": "Brig Simplon Tourismus, +41 27 921 60 30",
+            "fr": "Brig Simplon Tourismus, +41 27 921 60 30",
+            "it": "Brig Simplon Tourismus, +41 27 921 60 30",
+            "nl": "Brig Simplon Tourismus, +41 27 921 60 30",
+            "pl": "Brig Simplon Tourismus, +41 27 921 60 30",
+            "cs": "Brig Simplon Tourismus, +41 27 921 60 30",
+            "sk": "Brig Simplon Tourismus, +41 27 921 60 30",
+            "ro": "Brig Simplon Tourismus, +41 27 921 60 30",
+            "hu": "Brig Simplon Tourismus, +41 27 921 60 30",
+            "da": "Brig Simplon Tourismus, +41 27 921 60 30"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "Visiting",
+        "de": "Besuch",
+        "fr": "Infos pratiques",
+        "it": "Informazioni pratiche",
+        "nl": "Visiting",
+        "pl": "Visiting",
+        "cs": "Visiting",
+        "sk": "Visiting",
+        "ro": "Visiting",
+        "hu": "Visiting",
+        "da": "Visiting"
+      },
+      "title": {
+        "en": "Opening hours and getting there",
+        "de": "Öffnungszeiten und Anfahrt",
+        "fr": "Horaires et accès",
+        "it": "Orari e come arrivare",
+        "nl": "Opening hours and getting there",
+        "pl": "Opening hours and getting there",
+        "cs": "Opening hours and getting there",
+        "sk": "Opening hours and getting there",
+        "ro": "Opening hours and getting there",
+        "hu": "Opening hours and getting there",
+        "da": "Opening hours and getting there"
+      },
+      "buttons": [
+        {
+          "href": "https://philabrig26.ch",
+          "label": {
+            "en": "PhilaBrig26",
+            "de": "PhilaBrig26",
+            "fr": "PhilaBrig26",
+            "it": "PhilaBrig26",
+            "nl": "PhilaBrig26",
+            "pl": "PhilaBrig26",
+            "cs": "PhilaBrig26",
+            "sk": "PhilaBrig26",
+            "ro": "PhilaBrig26",
+            "hu": "PhilaBrig26",
+            "da": "PhilaBrig26"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stand",
+      "type": "text",
+      "label": {
+        "en": "At our stand",
+        "de": "An unserem Stand",
+        "fr": "À notre stand",
+        "it": "Al nostro stand",
+        "nl": "At our stand",
+        "pl": "At our stand",
+        "cs": "At our stand",
+        "sk": "At our stand",
+        "ro": "At our stand",
+        "hu": "At our stand",
+        "da": "At our stand"
+      },
+      "title": {
+        "en": "StampIQ at the bourse",
+        "de": "StampIQ an der Börse",
+        "fr": "StampIQ à la bourse aux timbres",
+        "it": "StampIQ alla borsa",
+        "nl": "StampIQ at the bourse",
+        "pl": "StampIQ at the bourse",
+        "cs": "StampIQ at the bourse",
+        "sk": "StampIQ at the bourse",
+        "ro": "StampIQ at the bourse",
+        "hu": "StampIQ at the bourse",
+        "da": "StampIQ at the bourse"
+      },
+      "paragraphs": [
+        {
+          "en": "At our stand you can try StampIQ on our iPhones, Samsung phones, iPads and laptop and see how it works. We bring stamps to scan, and you can also scan your own if they come from Switzerland, Liechtenstein, Germany, Austria, the Netherlands or Poland. We talk with you about the app: why we built it, how it is built and what it covers today.",
+          "de": "An unserem Stand kannst du StampIQ auf unseren iPhones, Samsung-Handys, iPads und dem Laptop ausprobieren und sehen, wie es funktioniert. Briefmarken zum Scannen bringen wir mit, du kannst auch eigene scannen, wenn sie aus der Schweiz, Liechtenstein, Deutschland, Österreich, den Niederlanden oder Polen stammen. Wir reden mit dir über die App: warum wir sie entwickelt haben, wie sie aufgebaut ist und was sie heute abdeckt.",
+          "fr": "À notre stand, tu peux essayer StampIQ sur nos iPhone, nos téléphones Samsung, nos iPad et notre ordinateur portable, et voir comment il fonctionne. Nous apportons des timbres à scanner, et tu peux aussi scanner les tiens s'ils viennent de Suisse, du Liechtenstein, d'Allemagne, d'Autriche, des Pays-Bas ou de Pologne. Nous parlons de l'application avec toi, de la raison pour laquelle nous l'avons faite, de la façon dont elle est construite et de ce qu'elle couvre aujourd'hui.",
+          "it": "Al nostro stand puoi provare StampIQ sui nostri iPhone, telefoni Samsung, iPad e laptop e vedere come funziona. Portiamo francobolli da scansionare, e puoi scansionare anche i tuoi se vengono da Svizzera, Liechtenstein, Germania, Austria, Paesi Bassi o Polonia. Parliamo con te dell'app: perché l'abbiamo creata, com'è fatta e che cosa copre oggi.",
+          "nl": "At our stand you can try StampIQ on our iPhones, Samsung phones, iPads and laptop and see how it works. We bring stamps to scan, and you can also scan your own if they come from Switzerland, Liechtenstein, Germany, Austria, the Netherlands or Poland. We talk with you about the app: why we built it, how it is built and what it covers today.",
+          "pl": "At our stand you can try StampIQ on our iPhones, Samsung phones, iPads and laptop and see how it works. We bring stamps to scan, and you can also scan your own if they come from Switzerland, Liechtenstein, Germany, Austria, the Netherlands or Poland. We talk with you about the app: why we built it, how it is built and what it covers today.",
+          "cs": "At our stand you can try StampIQ on our iPhones, Samsung phones, iPads and laptop and see how it works. We bring stamps to scan, and you can also scan your own if they come from Switzerland, Liechtenstein, Germany, Austria, the Netherlands or Poland. We talk with you about the app: why we built it, how it is built and what it covers today.",
+          "sk": "At our stand you can try StampIQ on our iPhones, Samsung phones, iPads and laptop and see how it works. We bring stamps to scan, and you can also scan your own if they come from Switzerland, Liechtenstein, Germany, Austria, the Netherlands or Poland. We talk with you about the app: why we built it, how it is built and what it covers today.",
+          "ro": "At our stand you can try StampIQ on our iPhones, Samsung phones, iPads and laptop and see how it works. We bring stamps to scan, and you can also scan your own if they come from Switzerland, Liechtenstein, Germany, Austria, the Netherlands or Poland. We talk with you about the app: why we built it, how it is built and what it covers today.",
+          "hu": "At our stand you can try StampIQ on our iPhones, Samsung phones, iPads and laptop and see how it works. We bring stamps to scan, and you can also scan your own if they come from Switzerland, Liechtenstein, Germany, Austria, the Netherlands or Poland. We talk with you about the app: why we built it, how it is built and what it covers today.",
+          "da": "At our stand you can try StampIQ on our iPhones, Samsung phones, iPads and laptop and see how it works. We bring stamps to scan, and you can also scan your own if they come from Switzerland, Liechtenstein, Germany, Austria, the Netherlands or Poland. We talk with you about the app: why we built it, how it is built and what it covers today."
+        },
+        {
+          "en": "If you want StampIQ on your own phone, we help you install and set it up and stay with you for your first scans. We show you tips for good scans and explain every part of the app.",
+          "de": "Wenn du StampIQ auf deinem eigenen Handy willst, helfen wir dir bei der Installation und der Einrichtung und begleiten dich bei den ersten Scans. Wir zeigen dir Tipps für gute Scans und erklären dir jeden Teil der App.",
+          "fr": "Si tu veux StampIQ sur ton propre téléphone, nous t'aidons à l'installer et à le configurer, et nous restons avec toi pour tes premiers scans. Nous te montrons comment réussir tes scans et nous t'expliquons chaque partie de l'application.",
+          "it": "Se vuoi StampIQ sul tuo telefono, ti aiutiamo a installarlo e a configurarlo e restiamo con te per le prime scansioni. Ti mostriamo come ottenere buone scansioni e ti spieghiamo ogni parte dell'app.",
+          "nl": "If you want StampIQ on your own phone, we help you install and set it up and stay with you for your first scans. We show you tips for good scans and explain every part of the app.",
+          "pl": "If you want StampIQ on your own phone, we help you install and set it up and stay with you for your first scans. We show you tips for good scans and explain every part of the app.",
+          "cs": "If you want StampIQ on your own phone, we help you install and set it up and stay with you for your first scans. We show you tips for good scans and explain every part of the app.",
+          "sk": "If you want StampIQ on your own phone, we help you install and set it up and stay with you for your first scans. We show you tips for good scans and explain every part of the app.",
+          "ro": "If you want StampIQ on your own phone, we help you install and set it up and stay with you for your first scans. We show you tips for good scans and explain every part of the app.",
+          "hu": "If you want StampIQ on your own phone, we help you install and set it up and stay with you for your first scans. We show you tips for good scans and explain every part of the app.",
+          "da": "If you want StampIQ on your own phone, we help you install and set it up and stay with you for your first scans. We show you tips for good scans and explain every part of the app."
+        },
+        {
+          "en": "There is a game with prizes at the stand. Ask us for a free month of Professional, to try StampIQ in peace at home or at a dealer's stand.",
+          "de": "Am Stand gibt es ein Spiel mit Preisen. Frag uns nach einem Gratismonat Professional, um StampIQ in Ruhe zu Hause oder am Stand eines Händlers auszuprobieren.",
+          "fr": "Un jeu avec des prix t'attend au stand. Demande-nous un mois gratuit de Professional, pour essayer StampIQ tranquillement à la maison ou au stand d'un négociant.",
+          "it": "Allo stand c'è un gioco con premi. Chiedici un mese gratuito di Professional, per provare StampIQ con calma a casa o allo stand di un commerciante.",
+          "nl": "There is a game with prizes at the stand. Ask us for a free month of Professional, to try StampIQ in peace at home or at a dealer's stand.",
+          "pl": "There is a game with prizes at the stand. Ask us for a free month of Professional, to try StampIQ in peace at home or at a dealer's stand.",
+          "cs": "There is a game with prizes at the stand. Ask us for a free month of Professional, to try StampIQ in peace at home or at a dealer's stand.",
+          "sk": "There is a game with prizes at the stand. Ask us for a free month of Professional, to try StampIQ in peace at home or at a dealer's stand.",
+          "ro": "There is a game with prizes at the stand. Ask us for a free month of Professional, to try StampIQ in peace at home or at a dealer's stand.",
+          "hu": "There is a game with prizes at the stand. Ask us for a free month of Professional, to try StampIQ in peace at home or at a dealer's stand.",
+          "da": "There is a game with prizes at the stand. Ask us for a free month of Professional, to try StampIQ in peace at home or at a dealer's stand."
+        }
+      ]
+    }
+  ]
+}
