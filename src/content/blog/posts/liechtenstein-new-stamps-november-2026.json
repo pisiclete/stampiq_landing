@@ -1,0 +1,1394 @@
+{
+  "category": "new-issues",
+  "markets": [
+    "CH",
+    "LI",
+    "DE",
+    "AT"
+  ],
+  "langs": [
+    "en",
+    "de",
+    "fr",
+    "it"
+  ],
+  "published_at": "2026-10-13T07:00:00+00:00",
+  "thumbnail": {
+    "src": "https://assets.stampiq.io/blog/0d20379a9954f754/li-new-issues-2026-11-card.png",
+    "width": 1920,
+    "height": 960
+  },
+  "languages": {
+    "en": {
+      "slug": "liechtenstein-new-stamps-november-2026",
+      "title": "New Liechtenstein stamps for 9 November 2026",
+      "description": "Philatelie Liechtenstein brings out five issues on 9 November 2026. Pre-orders are open now."
+    },
+    "de": {
+      "slug": "liechtenstein-neue-briefmarken-november-2026",
+      "title": "Neue Briefmarken aus Liechtenstein am 9. November 2026",
+      "description": "Philatelie Liechtenstein gibt am 9. November 2026 fünf Ausgaben heraus. Die Vorbestellung läuft bereits."
+    },
+    "fr": {
+      "slug": "nouveaux-timbres-liechtenstein-novembre-2026",
+      "title": "Nouveaux timbres du Liechtenstein, 9 novembre 2026",
+      "description": "Philatelie Liechtenstein émet cinq nouveautés le 9 novembre 2026. Les précommandes sont déjà ouvertes."
+    },
+    "it": {
+      "slug": "liechtenstein-nuovi-francobolli-novembre-2026",
+      "title": "Nuovi francobolli del Liechtenstein del 9 novembre 2026",
+      "description": "Philatelie Liechtenstein emette cinque novità il 9 novembre 2026. La prevendita è già aperta."
+    },
+    "nl": {
+      "slug": "liechtenstein-new-stamps-november-2026",
+      "title": "New Liechtenstein stamps for 9 November 2026",
+      "description": "Philatelie Liechtenstein brings out five issues on 9 November 2026. Pre-orders are open now."
+    },
+    "pl": {
+      "slug": "liechtenstein-new-stamps-november-2026",
+      "title": "New Liechtenstein stamps for 9 November 2026",
+      "description": "Philatelie Liechtenstein brings out five issues on 9 November 2026. Pre-orders are open now."
+    },
+    "cs": {
+      "slug": "liechtenstein-new-stamps-november-2026",
+      "title": "New Liechtenstein stamps for 9 November 2026",
+      "description": "Philatelie Liechtenstein brings out five issues on 9 November 2026. Pre-orders are open now."
+    },
+    "sk": {
+      "slug": "liechtenstein-new-stamps-november-2026",
+      "title": "New Liechtenstein stamps for 9 November 2026",
+      "description": "Philatelie Liechtenstein brings out five issues on 9 November 2026. Pre-orders are open now."
+    },
+    "ro": {
+      "slug": "liechtenstein-new-stamps-november-2026",
+      "title": "New Liechtenstein stamps for 9 November 2026",
+      "description": "Philatelie Liechtenstein brings out five issues on 9 November 2026. Pre-orders are open now."
+    },
+    "hu": {
+      "slug": "liechtenstein-new-stamps-november-2026",
+      "title": "New Liechtenstein stamps for 9 November 2026",
+      "description": "Philatelie Liechtenstein brings out five issues on 9 November 2026. Pre-orders are open now."
+    },
+    "da": {
+      "slug": "liechtenstein-new-stamps-november-2026",
+      "title": "New Liechtenstein stamps for 9 November 2026",
+      "description": "Philatelie Liechtenstein brings out five issues on 9 November 2026. Pre-orders are open now."
+    }
+  },
+  "header": {
+    "lead": {
+      "en": "On 9 November 2026 Philatelie Liechtenstein brings out five issues. Pre-orders are open in its online shop now. The stamps ship from the end of October.",
+      "de": "Am 9. November 2026 gibt Philatelie Liechtenstein fünf Ausgaben heraus. Im Online-Shop läuft die Vorbestellung bereits. Versendet wird ab Ende Oktober.",
+      "fr": "Le 9 novembre 2026, Philatelie Liechtenstein émet cinq nouveautés. Les précommandes sont déjà ouvertes dans sa boutique en ligne. Les envois partent dès fin octobre.",
+      "it": "Il 9 novembre 2026 Philatelie Liechtenstein emette cinque novità. La prevendita nel negozio online è già aperta. La spedizione parte da fine ottobre.",
+      "nl": "On 9 November 2026 Philatelie Liechtenstein brings out five issues. Pre-orders are open in its online shop now. The stamps ship from the end of October.",
+      "pl": "On 9 November 2026 Philatelie Liechtenstein brings out five issues. Pre-orders are open in its online shop now. The stamps ship from the end of October.",
+      "cs": "On 9 November 2026 Philatelie Liechtenstein brings out five issues. Pre-orders are open in its online shop now. The stamps ship from the end of October.",
+      "sk": "On 9 November 2026 Philatelie Liechtenstein brings out five issues. Pre-orders are open in its online shop now. The stamps ship from the end of October.",
+      "ro": "On 9 November 2026 Philatelie Liechtenstein brings out five issues. Pre-orders are open in its online shop now. The stamps ship from the end of October.",
+      "hu": "On 9 November 2026 Philatelie Liechtenstein brings out five issues. Pre-orders are open in its online shop now. The stamps ship from the end of October.",
+      "da": "On 9 November 2026 Philatelie Liechtenstein brings out five issues. Pre-orders are open in its online shop now. The stamps ship from the end of October."
+    },
+    "visual": {
+      "type": "stamp-fan",
+      "stamps": [
+        {
+          "name": {
+            "en": "Wilhelm Beck, 2.50",
+            "de": "Wilhelm Beck, 2.50",
+            "fr": "Wilhelm Beck, 2.50",
+            "it": "Wilhelm Beck, 2.50",
+            "nl": "Wilhelm Beck, 2.50",
+            "pl": "Wilhelm Beck, 2.50",
+            "cs": "Wilhelm Beck, 2.50",
+            "sk": "Wilhelm Beck, 2.50",
+            "ro": "Wilhelm Beck, 2.50",
+            "hu": "Wilhelm Beck, 2.50",
+            "da": "Wilhelm Beck, 2.50"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/d8304fbc39e2d327/li-2026-226-14-03.png",
+            "width": 511,
+            "height": 765
+          },
+          "country": "LI",
+          "stamp_id": "li-philatelie-226.14.03"
+        },
+        {
+          "name": {
+            "en": "Anton Frommelt, 2.50",
+            "de": "Anton Frommelt, 2.50",
+            "fr": "Anton Frommelt, 2.50",
+            "it": "Anton Frommelt, 2.50",
+            "nl": "Anton Frommelt, 2.50",
+            "pl": "Anton Frommelt, 2.50",
+            "cs": "Anton Frommelt, 2.50",
+            "sk": "Anton Frommelt, 2.50",
+            "ro": "Anton Frommelt, 2.50",
+            "hu": "Anton Frommelt, 2.50",
+            "da": "Anton Frommelt, 2.50"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/244d8dfe27fa2048/li-2026-226-15-02.png",
+            "width": 535,
+            "height": 762
+          },
+          "country": "LI",
+          "stamp_id": "li-philatelie-226.15.02"
+        },
+        {
+          "name": {
+            "en": "Christmas, ice rink, 1.20",
+            "de": "Weihnachten, Eisbahn, 1.20",
+            "fr": "Noël, patinoire, 1.20",
+            "it": "Natale, pista di ghiaccio, 1.20",
+            "nl": "Christmas, ice rink, 1.20",
+            "pl": "Christmas, ice rink, 1.20",
+            "cs": "Christmas, ice rink, 1.20",
+            "sk": "Christmas, ice rink, 1.20",
+            "ro": "Christmas, ice rink, 1.20",
+            "hu": "Christmas, ice rink, 1.20",
+            "da": "Christmas, ice rink, 1.20"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/d095a0a9212ee720/li-2026-226-17-02.png",
+            "width": 764,
+            "height": 764
+          },
+          "country": "LI",
+          "stamp_id": "li-philatelie-226.17.02"
+        },
+        {
+          "name": {
+            "en": "Year of the Goat, 2.50",
+            "de": "Jahr der Ziege, 2.50",
+            "fr": "Année de la Chèvre, 2.50",
+            "it": "Anno della Capra, 2.50",
+            "nl": "Year of the Goat, 2.50",
+            "pl": "Year of the Goat, 2.50",
+            "cs": "Year of the Goat, 2.50",
+            "sk": "Year of the Goat, 2.50",
+            "ro": "Year of the Goat, 2.50",
+            "hu": "Year of the Goat, 2.50",
+            "da": "Year of the Goat, 2.50"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/84bb141d0141bc2c/li-2026-226-18-30.png",
+            "width": 562,
+            "height": 764
+          },
+          "country": "LI",
+          "stamp_id": "li-philatelie-226.18.30"
+        }
+      ]
+    },
+    "date_label": {
+      "en": "9 November 2026",
+      "de": "9. November 2026",
+      "fr": "9 novembre 2026",
+      "it": "9 novembre 2026",
+      "nl": "9 November 2026",
+      "pl": "9 November 2026",
+      "cs": "9 November 2026",
+      "sk": "9 November 2026",
+      "ro": "9 November 2026",
+      "hu": "9 November 2026",
+      "da": "9 November 2026"
+    }
+  },
+  "blocks": [
+    {
+      "id": "issue-day",
+      "type": "text",
+      "label": {
+        "en": "Before you order",
+        "de": "Vor dem Kauf",
+        "fr": "Avant de commander",
+        "it": "Prima di ordinare",
+        "nl": "Before you order",
+        "pl": "Before you order",
+        "cs": "Before you order",
+        "sk": "Before you order",
+        "ro": "Before you order",
+        "hu": "Before you order",
+        "da": "Before you order"
+      },
+      "title": {
+        "en": "Pre-orders and the issue day",
+        "de": "Vorbestellung und Ausgabetag",
+        "fr": "Précommandes et jour d'émission",
+        "it": "La prevendita e il giorno di emissione",
+        "nl": "Pre-orders and the issue day",
+        "pl": "Pre-orders and the issue day",
+        "cs": "Pre-orders and the issue day",
+        "sk": "Pre-orders and the issue day",
+        "ro": "Pre-orders and the issue day",
+        "hu": "Pre-orders and the issue day",
+        "da": "Pre-orders and the issue day"
+      },
+      "paragraphs": [
+        {
+          "en": "Philatelie Liechtenstein already takes orders for its November stamps and ships them from the end of October. They come out on 9 November, with first-day cancels from Vaduz.",
+          "de": "Philatelie Liechtenstein nimmt die Bestellungen für die Novembermarken schon entgegen und versendet sie ab Ende Oktober. Herausgegeben werden sie am 9. November, mit Ersttagsstempel aus Vaduz.",
+          "fr": "Philatelie Liechtenstein prend déjà les commandes de ses timbres de novembre et les expédie dès fin octobre. L'émission a lieu le 9 novembre, avec l'oblitération premier jour de Vaduz.",
+          "it": "Philatelie Liechtenstein accetta già gli ordini per i francobolli di novembre e li spedisce da fine ottobre. L'emissione è il 9 novembre, con annullo primo giorno di Vaduz.",
+          "nl": "Philatelie Liechtenstein already takes orders for its November stamps and ships them from the end of October. They come out on 9 November, with first-day cancels from Vaduz.",
+          "pl": "Philatelie Liechtenstein already takes orders for its November stamps and ships them from the end of October. They come out on 9 November, with first-day cancels from Vaduz.",
+          "cs": "Philatelie Liechtenstein already takes orders for its November stamps and ships them from the end of October. They come out on 9 November, with first-day cancels from Vaduz.",
+          "sk": "Philatelie Liechtenstein already takes orders for its November stamps and ships them from the end of October. They come out on 9 November, with first-day cancels from Vaduz.",
+          "ro": "Philatelie Liechtenstein already takes orders for its November stamps and ships them from the end of October. They come out on 9 November, with first-day cancels from Vaduz.",
+          "hu": "Philatelie Liechtenstein already takes orders for its November stamps and ships them from the end of October. They come out on 9 November, with first-day cancels from Vaduz.",
+          "da": "Philatelie Liechtenstein already takes orders for its November stamps and ships them from the end of October. They come out on 9 November, with first-day cancels from Vaduz."
+        },
+        {
+          "en": "The stamps for the law, the photographs and the goat are gummed. The dance and Christmas stamps are self-adhesive. Every issue is sold in blocks of four, in full sheets, on first-day covers and on maximum cards.",
+          "de": "Die Marken zum Gesetz, zu den Fotografien und zur Ziege sind gummiert, die Tanz- und die Weihnachtsmarken selbstklebend. Jede Ausgabe gibt es im Viererblock, im ganzen Bogen, auf Ersttagsbrief und auf Maximumkarte.",
+          "fr": "Les timbres du PGR, des photographies et de la chèvre sont gommés. Ceux de la danse et de Noël sont autocollants. Chaque émission est vendue en blocs de quatre, en feuilles complètes, sur plis premier jour et sur cartes maximum.",
+          "it": "I francobolli del PGR, delle fotografie e della capra sono gommati. Quelli della danza e del Natale sono autoadesivi. Ogni emissione è in vendita in quartine, in fogli interi, su busta primo giorno e su cartoline maximum.",
+          "nl": "The stamps for the law, the photographs and the goat are gummed. The dance and Christmas stamps are self-adhesive. Every issue is sold in blocks of four, in full sheets, on first-day covers and on maximum cards.",
+          "pl": "The stamps for the law, the photographs and the goat are gummed. The dance and Christmas stamps are self-adhesive. Every issue is sold in blocks of four, in full sheets, on first-day covers and on maximum cards.",
+          "cs": "The stamps for the law, the photographs and the goat are gummed. The dance and Christmas stamps are self-adhesive. Every issue is sold in blocks of four, in full sheets, on first-day covers and on maximum cards.",
+          "sk": "The stamps for the law, the photographs and the goat are gummed. The dance and Christmas stamps are self-adhesive. Every issue is sold in blocks of four, in full sheets, on first-day covers and on maximum cards.",
+          "ro": "The stamps for the law, the photographs and the goat are gummed. The dance and Christmas stamps are self-adhesive. Every issue is sold in blocks of four, in full sheets, on first-day covers and on maximum cards.",
+          "hu": "The stamps for the law, the photographs and the goat are gummed. The dance and Christmas stamps are self-adhesive. Every issue is sold in blocks of four, in full sheets, on first-day covers and on maximum cards.",
+          "da": "The stamps for the law, the photographs and the goat are gummed. The dance and Christmas stamps are self-adhesive. Every issue is sold in blocks of four, in full sheets, on first-day covers and on maximum cards."
+        }
+      ]
+    },
+    {
+      "id": "pgr",
+      "date": {
+        "en": "9 November 2026",
+        "de": "9. November 2026",
+        "fr": "9 novembre 2026",
+        "it": "9 novembre 2026",
+        "nl": "9 November 2026",
+        "pl": "9 November 2026",
+        "cs": "9 November 2026",
+        "sk": "9 November 2026",
+        "ro": "9 November 2026",
+        "hu": "9 November 2026",
+        "da": "9 November 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "100 Jahre PGR, set",
+          "de": "100 Jahre PGR, Satz",
+          "fr": "100 ans du PGR, série",
+          "it": "100 Jahre PGR, serie",
+          "nl": "100 Jahre PGR, set",
+          "pl": "100 Jahre PGR, set",
+          "cs": "100 Jahre PGR, set",
+          "sk": "100 Jahre PGR, set",
+          "ro": "100 Jahre PGR, set",
+          "hu": "100 Jahre PGR, set",
+          "da": "100 Jahre PGR, set"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/6ada15e7987d175d/li-2026-pgr-set.png",
+          "width": 1653,
+          "height": 805
+        },
+        "country": "LI",
+        "stamp_id": "li-philatelie-226.14.30"
+      },
+      "title": {
+        "en": "100 years of the Persons and Companies Act",
+        "de": "100 Jahre Personen- und Gesellschaftsrecht",
+        "fr": "100 ans du droit des personnes et des sociétés",
+        "it": "100 anni del diritto delle persone e delle società",
+        "nl": "100 years of the Persons and Companies Act",
+        "pl": "100 years of the Persons and Companies Act",
+        "cs": "100 years of the Persons and Companies Act",
+        "sk": "100 years of the Persons and Companies Act",
+        "ro": "100 years of the Persons and Companies Act",
+        "hu": "100 years of the Persons and Companies Act",
+        "da": "100 years of the Persons and Companies Act"
+      },
+      "formats": [
+        {
+          "value": "CHF 5.60",
+          "format": {
+            "en": "Set of three",
+            "de": "Satz mit drei Marken",
+            "fr": "Série de trois",
+            "it": "Serie di tre valori",
+            "nl": "Set of three",
+            "pl": "Set of three",
+            "cs": "Set of three",
+            "sk": "Set of three",
+            "ro": "Set of three",
+            "hu": "Set of three",
+            "da": "Set of three"
+          }
+        },
+        {
+          "value": "CHF 22.40",
+          "format": {
+            "en": "Set in blocks of four",
+            "de": "Satz im Viererblock",
+            "fr": "Série en blocs de quatre",
+            "it": "Serie in quartine",
+            "nl": "Set in blocks of four",
+            "pl": "Set in blocks of four",
+            "cs": "Set in blocks of four",
+            "sk": "Set in blocks of four",
+            "ro": "Set in blocks of four",
+            "hu": "Set in blocks of four",
+            "da": "Set in blocks of four"
+          }
+        },
+        {
+          "value": "CHF 67.20",
+          "format": {
+            "en": "Three sheets of 12, one per value",
+            "de": "Drei Bogen zu 12 Marken, je einer pro Wert",
+            "fr": "Trois feuilles de 12, une par valeur",
+            "it": "Tre fogli da 12, uno per valore",
+            "nl": "Three sheets of 12, one per value",
+            "pl": "Three sheets of 12, one per value",
+            "cs": "Three sheets of 12, one per value",
+            "sk": "Three sheets of 12, one per value",
+            "ro": "Three sheets of 12, one per value",
+            "hu": "Three sheets of 12, one per value",
+            "da": "Three sheets of 12, one per value"
+          }
+        },
+        {
+          "value": "CHF 6.80",
+          "format": {
+            "en": "Set on first-day cover",
+            "de": "Satz auf Ersttagsbrief",
+            "fr": "Série sur pli premier jour",
+            "it": "Serie su busta primo giorno",
+            "nl": "Set on first-day cover",
+            "pl": "Set on first-day cover",
+            "cs": "Set on first-day cover",
+            "sk": "Set on first-day cover",
+            "ro": "Set on first-day cover",
+            "hu": "Set on first-day cover",
+            "da": "Set on first-day cover"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "Liechtenstein published its Personen- und Gesellschaftsrecht, the PGR, on 19 February 1926. The law came into force on the day of publication. The Landtag had passed it almost unchanged on 5 November 1925, after nearly four years of work by its two authors, Emil Beck and Wilhelm Beck.",
+          "de": "Liechtenstein veröffentlichte sein Personen- und Gesellschaftsrecht, kurz PGR, am 19. Februar 1926. Damit trat es in Kraft. Der Landtag hatte es am 5. November 1925 fast unverändert verabschiedet, nach knapp vier Jahren Arbeit seiner beiden Verfasser Emil Beck und Wilhelm Beck.",
+          "fr": "Le Liechtenstein a publié son Personen- und Gesellschaftsrecht, le PGR, le 19 février 1926. La loi est entrée en vigueur le jour même de sa publication. Le Landtag l'avait adoptée presque sans changement le 5 novembre 1925, au terme de près de quatre ans de travail de ses deux auteurs, Emil Beck et Wilhelm Beck.",
+          "it": "Il Liechtenstein pubblicò il suo Personen- und Gesellschaftsrecht, il PGR, il 19 febbraio 1926. La legge entrò in vigore il giorno stesso della pubblicazione. Il Landtag l'aveva approvata quasi senza modifiche il 5 novembre 1925, dopo quattro anni scarsi di lavoro dei due autori, Emil Beck e Wilhelm Beck.",
+          "nl": "Liechtenstein published its Personen- und Gesellschaftsrecht, the PGR, on 19 February 1926. The law came into force on the day of publication. The Landtag had passed it almost unchanged on 5 November 1925, after nearly four years of work by its two authors, Emil Beck and Wilhelm Beck.",
+          "pl": "Liechtenstein published its Personen- und Gesellschaftsrecht, the PGR, on 19 February 1926. The law came into force on the day of publication. The Landtag had passed it almost unchanged on 5 November 1925, after nearly four years of work by its two authors, Emil Beck and Wilhelm Beck.",
+          "cs": "Liechtenstein published its Personen- und Gesellschaftsrecht, the PGR, on 19 February 1926. The law came into force on the day of publication. The Landtag had passed it almost unchanged on 5 November 1925, after nearly four years of work by its two authors, Emil Beck and Wilhelm Beck.",
+          "sk": "Liechtenstein published its Personen- und Gesellschaftsrecht, the PGR, on 19 February 1926. The law came into force on the day of publication. The Landtag had passed it almost unchanged on 5 November 1925, after nearly four years of work by its two authors, Emil Beck and Wilhelm Beck.",
+          "ro": "Liechtenstein published its Personen- und Gesellschaftsrecht, the PGR, on 19 February 1926. The law came into force on the day of publication. The Landtag had passed it almost unchanged on 5 November 1925, after nearly four years of work by its two authors, Emil Beck and Wilhelm Beck.",
+          "hu": "Liechtenstein published its Personen- und Gesellschaftsrecht, the PGR, on 19 February 1926. The law came into force on the day of publication. The Landtag had passed it almost unchanged on 5 November 1925, after nearly four years of work by its two authors, Emil Beck and Wilhelm Beck.",
+          "da": "Liechtenstein published its Personen- und Gesellschaftsrecht, the PGR, on 19 February 1926. The law came into force on the day of publication. The Landtag had passed it almost unchanged on 5 November 1925, after nearly four years of work by its two authors, Emil Beck and Wilhelm Beck."
+        },
+        {
+          "en": "Most of its rules follow Swiss law; for the Treuhänderschaft the authors took the Anglo-American trust as the model. Together with the liberal tax system, the law drew foreign investors to Liechtenstein. In the second half of the 20th century it became the base of the country's trust business.",
+          "de": "Die meisten Bestimmungen folgen dem Schweizer Recht, für die Treuhänderschaft nahmen die Verfasser den angloamerikanischen Trust als Vorbild. Zusammen mit dem liberalen Steuersystem brachte das Gesetz ausländische Investoren nach Liechtenstein. In der zweiten Hälfte des 20. Jahrhunderts wurde es zur Grundlage des liechtensteinischen Treuhandwesens.",
+          "fr": "La plupart de ses règles suivent le droit suisse ; pour la Treuhänderschaft, les auteurs ont pris comme modèle le trust anglo-américain. Combinée à un régime fiscal libéral, cette loi a attiré des investisseurs étrangers au Liechtenstein. Dans la seconde moitié du XXe siècle, elle est devenue la base de l'activité fiduciaire du pays.",
+          "it": "La maggior parte delle norme segue il diritto svizzero; per la Treuhänderschaft gli autori presero a modello il trust anglo-americano. Insieme al sistema fiscale liberale, la legge attirò nel Liechtenstein investitori stranieri. Nella seconda metà del Novecento divenne la base dell'attività fiduciaria del Paese.",
+          "nl": "Most of its rules follow Swiss law; for the Treuhänderschaft the authors took the Anglo-American trust as the model. Together with the liberal tax system, the law drew foreign investors to Liechtenstein. In the second half of the 20th century it became the base of the country's trust business.",
+          "pl": "Most of its rules follow Swiss law; for the Treuhänderschaft the authors took the Anglo-American trust as the model. Together with the liberal tax system, the law drew foreign investors to Liechtenstein. In the second half of the 20th century it became the base of the country's trust business.",
+          "cs": "Most of its rules follow Swiss law; for the Treuhänderschaft the authors took the Anglo-American trust as the model. Together with the liberal tax system, the law drew foreign investors to Liechtenstein. In the second half of the 20th century it became the base of the country's trust business.",
+          "sk": "Most of its rules follow Swiss law; for the Treuhänderschaft the authors took the Anglo-American trust as the model. Together with the liberal tax system, the law drew foreign investors to Liechtenstein. In the second half of the 20th century it became the base of the country's trust business.",
+          "ro": "Most of its rules follow Swiss law; for the Treuhänderschaft the authors took the Anglo-American trust as the model. Together with the liberal tax system, the law drew foreign investors to Liechtenstein. In the second half of the 20th century it became the base of the country's trust business.",
+          "hu": "Most of its rules follow Swiss law; for the Treuhänderschaft the authors took the Anglo-American trust as the model. Together with the liberal tax system, the law drew foreign investors to Liechtenstein. In the second half of the 20th century it became the base of the country's trust business.",
+          "da": "Most of its rules follow Swiss law; for the Treuhänderschaft the authors took the Anglo-American trust as the model. Together with the liberal tax system, the law drew foreign investors to Liechtenstein. In the second half of the 20th century it became the base of the country's trust business."
+        },
+        {
+          "en": "René Wolfinger from Balzers built the three pictures from small crosses, squares and diamonds: the law book with a § on the 1.20, Emil Beck on the 1.90 and Wilhelm Beck on the 2.50. The stamps are printed by Cartor in France, in sheets of 12.",
+          "de": "René Wolfinger aus Balzers hat die drei Bilder aus kleinen Kreuzen, Quadraten und Rauten aufgebaut: das Gesetzbuch mit einem § auf der 1.20, Emil Beck auf der 1.90 und Wilhelm Beck auf der 2.50. Gedruckt werden die Marken bei Cartor in Frankreich, in Bogen zu 12 Stück.",
+          "fr": "René Wolfinger, de Balzers, a composé les trois dessins à partir de petites croix, de carrés et de losanges : le recueil de lois avec un § sur le 1.20, Emil Beck sur le 1.90 et Wilhelm Beck sur le 2.50. Les timbres sont imprimés par Cartor, en France, en feuilles de 12.",
+          "it": "René Wolfinger di Balzers ha composto le tre immagini con piccole croci, quadrati e rombi: il codice con il § sull'1.20, Emil Beck sull'1.90 e Wilhelm Beck sul 2.50. I francobolli sono stampati da Cartor in Francia, in fogli da 12.",
+          "nl": "René Wolfinger from Balzers built the three pictures from small crosses, squares and diamonds: the law book with a § on the 1.20, Emil Beck on the 1.90 and Wilhelm Beck on the 2.50. The stamps are printed by Cartor in France, in sheets of 12.",
+          "pl": "René Wolfinger from Balzers built the three pictures from small crosses, squares and diamonds: the law book with a § on the 1.20, Emil Beck on the 1.90 and Wilhelm Beck on the 2.50. The stamps are printed by Cartor in France, in sheets of 12.",
+          "cs": "René Wolfinger from Balzers built the three pictures from small crosses, squares and diamonds: the law book with a § on the 1.20, Emil Beck on the 1.90 and Wilhelm Beck on the 2.50. The stamps are printed by Cartor in France, in sheets of 12.",
+          "sk": "René Wolfinger from Balzers built the three pictures from small crosses, squares and diamonds: the law book with a § on the 1.20, Emil Beck on the 1.90 and Wilhelm Beck on the 2.50. The stamps are printed by Cartor in France, in sheets of 12.",
+          "ro": "René Wolfinger from Balzers built the three pictures from small crosses, squares and diamonds: the law book with a § on the 1.20, Emil Beck on the 1.90 and Wilhelm Beck on the 2.50. The stamps are printed by Cartor in France, in sheets of 12.",
+          "hu": "René Wolfinger from Balzers built the three pictures from small crosses, squares and diamonds: the law book with a § on the 1.20, Emil Beck on the 1.90 and Wilhelm Beck on the 2.50. The stamps are printed by Cartor in France, in sheets of 12.",
+          "da": "René Wolfinger from Balzers built the three pictures from small crosses, squares and diamonds: the law book with a § on the 1.20, Emil Beck on the 1.90 and Wilhelm Beck on the 2.50. The stamps are printed by Cartor in France, in sheets of 12."
+        }
+      ]
+    },
+    {
+      "id": "becks",
+      "type": "text",
+      "label": {
+        "en": "The authors",
+        "de": "Die Verfasser",
+        "fr": "Les auteurs",
+        "it": "Gli autori",
+        "nl": "The authors",
+        "pl": "The authors",
+        "cs": "The authors",
+        "sk": "The authors",
+        "ro": "The authors",
+        "hu": "The authors",
+        "da": "The authors"
+      },
+      "title": {
+        "en": "Emil and Wilhelm Beck in Bern",
+        "de": "Emil und Wilhelm Beck in Bern",
+        "fr": "Emil et Wilhelm Beck à Berne",
+        "it": "Emil e Wilhelm Beck a Berna",
+        "nl": "Emil and Wilhelm Beck in Bern",
+        "pl": "Emil and Wilhelm Beck in Bern",
+        "cs": "Emil and Wilhelm Beck in Bern",
+        "sk": "Emil and Wilhelm Beck in Bern",
+        "ro": "Emil and Wilhelm Beck in Bern",
+        "hu": "Emil and Wilhelm Beck in Bern",
+        "da": "Emil and Wilhelm Beck in Bern"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/3c27235939738db9/emil-wilhelm-beck-bern-1920.jpg",
+          "width": 475,
+          "credit": "Photo: unknown photographer, Liechtensteinisches Landesarchiv, public domain",
+          "height": 680,
+          "caption": {
+            "en": "Emil Beck and Wilhelm Beck at the Federal Palace in Bern, 1920",
+            "de": "Emil Beck und Wilhelm Beck am Bundeshaus in Bern, 1920",
+            "fr": "Emil Beck et Wilhelm Beck au Palais fédéral à Berne, en 1920",
+            "it": "Emil Beck e Wilhelm Beck davanti al Palazzo federale a Berna, 1920",
+            "nl": "Emil Beck and Wilhelm Beck at the Federal Palace in Bern, 1920",
+            "pl": "Emil Beck and Wilhelm Beck at the Federal Palace in Bern, 1920",
+            "cs": "Emil Beck and Wilhelm Beck at the Federal Palace in Bern, 1920",
+            "sk": "Emil Beck and Wilhelm Beck at the Federal Palace in Bern, 1920",
+            "ro": "Emil Beck and Wilhelm Beck at the Federal Palace in Bern, 1920",
+            "hu": "Emil Beck and Wilhelm Beck at the Federal Palace in Bern, 1920",
+            "da": "Emil Beck and Wilhelm Beck at the Federal Palace in Bern, 1920"
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Emil_Beck_%26_Wilhelm_Beck_Bundeshaus.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "Wilhelm Beck founded Liechtenstein's first political party in 1918 and was president of the Landtag from 1922 to 1928. His draft of 1920 was the basis of the constitution of 5 October 1921.",
+          "de": "Wilhelm Beck gründete 1918 die erste politische Partei Liechtensteins und war von 1922 bis 1928 Landtagspräsident. Sein Entwurf von 1920 wurde zur Grundlage der Verfassung vom 5. Oktober 1921.",
+          "fr": "Wilhelm Beck a fondé le premier parti politique du Liechtenstein en 1918 et a présidé le Landtag de 1922 à 1928. Son projet de 1920 a servi de base à la constitution du 5 octobre 1921.",
+          "it": "Wilhelm Beck fondò nel 1918 il primo partito politico del Liechtenstein e dal 1922 al 1928 fu presidente del Landtag. La sua bozza del 1920 fu la base della costituzione del 5 ottobre 1921.",
+          "nl": "Wilhelm Beck founded Liechtenstein's first political party in 1918 and was president of the Landtag from 1922 to 1928. His draft of 1920 was the basis of the constitution of 5 October 1921.",
+          "pl": "Wilhelm Beck founded Liechtenstein's first political party in 1918 and was president of the Landtag from 1922 to 1928. His draft of 1920 was the basis of the constitution of 5 October 1921.",
+          "cs": "Wilhelm Beck founded Liechtenstein's first political party in 1918 and was president of the Landtag from 1922 to 1928. His draft of 1920 was the basis of the constitution of 5 October 1921.",
+          "sk": "Wilhelm Beck founded Liechtenstein's first political party in 1918 and was president of the Landtag from 1922 to 1928. His draft of 1920 was the basis of the constitution of 5 October 1921.",
+          "ro": "Wilhelm Beck founded Liechtenstein's first political party in 1918 and was president of the Landtag from 1922 to 1928. His draft of 1920 was the basis of the constitution of 5 October 1921.",
+          "hu": "Wilhelm Beck founded Liechtenstein's first political party in 1918 and was president of the Landtag from 1922 to 1928. His draft of 1920 was the basis of the constitution of 5 October 1921.",
+          "da": "Wilhelm Beck founded Liechtenstein's first political party in 1918 and was president of the Landtag from 1922 to 1928. His draft of 1920 was the basis of the constitution of 5 October 1921."
+        },
+        {
+          "en": "Emil Beck worked at Liechtenstein's legation in Bern from 1919 to 1933. He signed the postal treaty with Switzerland in 1920 and the customs treaty in 1923. From 1933 he taught Swiss and international private law at the University of Bern.",
+          "de": "Emil Beck arbeitete von 1919 bis 1933 an der liechtensteinischen Gesandtschaft in Bern. Er unterzeichnete 1920 den Postvertrag mit der Schweiz und 1923 den Zollvertrag. Ab 1933 lehrte er schweizerisches und internationales Privatrecht an der Universität Bern.",
+          "fr": "Emil Beck a travaillé à la légation du Liechtenstein à Berne de 1919 à 1933. Il a signé le traité postal avec la Suisse en 1920 et le traité douanier en 1923. À partir de 1933, il a enseigné le droit privé suisse et international à l'Université de Berne.",
+          "it": "Emil Beck lavorò dal 1919 al 1933 alla legazione del Liechtenstein a Berna. Nel 1920 firmò il trattato postale con la Svizzera e nel 1923 quello doganale. Dal 1933 insegnò diritto privato svizzero e internazionale all'Università di Berna.",
+          "nl": "Emil Beck worked at Liechtenstein's legation in Bern from 1919 to 1933. He signed the postal treaty with Switzerland in 1920 and the customs treaty in 1923. From 1933 he taught Swiss and international private law at the University of Bern.",
+          "pl": "Emil Beck worked at Liechtenstein's legation in Bern from 1919 to 1933. He signed the postal treaty with Switzerland in 1920 and the customs treaty in 1923. From 1933 he taught Swiss and international private law at the University of Bern.",
+          "cs": "Emil Beck worked at Liechtenstein's legation in Bern from 1919 to 1933. He signed the postal treaty with Switzerland in 1920 and the customs treaty in 1923. From 1933 he taught Swiss and international private law at the University of Bern.",
+          "sk": "Emil Beck worked at Liechtenstein's legation in Bern from 1919 to 1933. He signed the postal treaty with Switzerland in 1920 and the customs treaty in 1923. From 1933 he taught Swiss and international private law at the University of Bern.",
+          "ro": "Emil Beck worked at Liechtenstein's legation in Bern from 1919 to 1933. He signed the postal treaty with Switzerland in 1920 and the customs treaty in 1923. From 1933 he taught Swiss and international private law at the University of Bern.",
+          "hu": "Emil Beck worked at Liechtenstein's legation in Bern from 1919 to 1933. He signed the postal treaty with Switzerland in 1920 and the customs treaty in 1923. From 1933 he taught Swiss and international private law at the University of Bern.",
+          "da": "Emil Beck worked at Liechtenstein's legation in Bern from 1919 to 1933. He signed the postal treaty with Switzerland in 1920 and the customs treaty in 1923. From 1933 he taught Swiss and international private law at the University of Bern."
+        }
+      ]
+    },
+    {
+      "id": "photographs",
+      "date": {
+        "en": "9 November 2026",
+        "de": "9. November 2026",
+        "fr": "9 novembre 2026",
+        "it": "9 novembre 2026",
+        "nl": "9 November 2026",
+        "pl": "9 November 2026",
+        "cs": "9 November 2026",
+        "sk": "9 November 2026",
+        "ro": "9 November 2026",
+        "hu": "9 November 2026",
+        "da": "9 November 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Fotografien, set",
+          "de": "Fotografien, Satz",
+          "fr": "Photographies, série",
+          "it": "Fotografien, serie",
+          "nl": "Fotografien, set",
+          "pl": "Fotografien, set",
+          "cs": "Fotografien, set",
+          "sk": "Fotografien, set",
+          "ro": "Fotografien, set",
+          "hu": "Fotografien, set",
+          "da": "Fotografien, set"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/493a6f4682e85071/li-2026-fotografien-set.png",
+          "width": 1150,
+          "height": 802
+        },
+        "country": "LI",
+        "stamp_id": "li-philatelie-226.15.30"
+      },
+      "title": {
+        "en": "The priests Tschugmell and Frommelt",
+        "de": "Die Pfarrer Tschugmell und Frommelt",
+        "fr": "Les prêtres Tschugmell et Frommelt",
+        "it": "I sacerdoti Tschugmell e Frommelt",
+        "nl": "The priests Tschugmell and Frommelt",
+        "pl": "The priests Tschugmell and Frommelt",
+        "cs": "The priests Tschugmell and Frommelt",
+        "sk": "The priests Tschugmell and Frommelt",
+        "ro": "The priests Tschugmell and Frommelt",
+        "hu": "The priests Tschugmell and Frommelt",
+        "da": "The priests Tschugmell and Frommelt"
+      },
+      "formats": [
+        {
+          "value": "CHF 4.40",
+          "format": {
+            "en": "Set of two",
+            "de": "Satz mit zwei Marken",
+            "fr": "Série de deux",
+            "it": "Serie di due valori",
+            "nl": "Set of two",
+            "pl": "Set of two",
+            "cs": "Set of two",
+            "sk": "Set of two",
+            "ro": "Set of two",
+            "hu": "Set of two",
+            "da": "Set of two"
+          }
+        },
+        {
+          "value": "CHF 17.60",
+          "format": {
+            "en": "Set in blocks of four",
+            "de": "Satz im Viererblock",
+            "fr": "Série en blocs de quatre",
+            "it": "Serie in quartine",
+            "nl": "Set in blocks of four",
+            "pl": "Set in blocks of four",
+            "cs": "Set in blocks of four",
+            "sk": "Set in blocks of four",
+            "ro": "Set in blocks of four",
+            "hu": "Set in blocks of four",
+            "da": "Set in blocks of four"
+          }
+        },
+        {
+          "value": "CHF 70.40",
+          "format": {
+            "en": "Two sheets of 16, one per value",
+            "de": "Zwei Bogen zu 16 Marken, je einer pro Wert",
+            "fr": "Deux feuilles de 16, une par valeur",
+            "it": "Due fogli da 16, uno per valore",
+            "nl": "Two sheets of 16, one per value",
+            "pl": "Two sheets of 16, one per value",
+            "cs": "Two sheets of 16, one per value",
+            "sk": "Two sheets of 16, one per value",
+            "ro": "Two sheets of 16, one per value",
+            "hu": "Two sheets of 16, one per value",
+            "da": "Two sheets of 16, one per value"
+          }
+        },
+        {
+          "value": "CHF 3.10",
+          "format": {
+            "en": "Picture postcard, Tschugmell",
+            "de": "Bildpostkarte, Tschugmell",
+            "fr": "Carte postale illustrée, Tschugmell",
+            "it": "Cartolina illustrata, Tschugmell",
+            "nl": "Picture postcard, Tschugmell",
+            "pl": "Picture postcard, Tschugmell",
+            "cs": "Picture postcard, Tschugmell",
+            "sk": "Picture postcard, Tschugmell",
+            "ro": "Picture postcard, Tschugmell",
+            "hu": "Picture postcard, Tschugmell",
+            "da": "Picture postcard, Tschugmell"
+          }
+        },
+        {
+          "value": "CHF 3.70",
+          "format": {
+            "en": "Picture postcard, Frommelt",
+            "de": "Bildpostkarte, Frommelt",
+            "fr": "Carte postale illustrée, Frommelt",
+            "it": "Cartolina illustrata, Frommelt",
+            "nl": "Picture postcard, Frommelt",
+            "pl": "Picture postcard, Frommelt",
+            "cs": "Picture postcard, Frommelt",
+            "sk": "Picture postcard, Frommelt",
+            "ro": "Picture postcard, Frommelt",
+            "hu": "Picture postcard, Frommelt",
+            "da": "Picture postcard, Frommelt"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "The 1.90 shows Fridolin Tschugmell in 1936 with the workers who built the bell frame of the Theresienkirche in Schaanwald. Tschugmell, parish priest of Mauren from 1925 to 1937, was the first professional genealogist in Liechtenstein. He also photographed the people and village life of Mauren.",
+          "de": "Die 1.90 zeigt Fridolin Tschugmell im Jahr 1936 mit den Arbeitern, die den Glockenstuhl der Theresienkirche in Schaanwald gebaut haben. Tschugmell war von 1925 bis 1937 Pfarrer in Mauren und der erste Berufsgenealoge Liechtensteins. Er fotografierte auch die Menschen und das Dorfleben in Mauren.",
+          "fr": "Le 1.90 montre Fridolin Tschugmell en 1936 avec les ouvriers qui ont construit le beffroi de la Theresienkirche à Schaanwald. Curé de Mauren de 1925 à 1937, Tschugmell a été le premier généalogiste professionnel du Liechtenstein. Il a aussi photographié les habitants et la vie du village de Mauren.",
+          "it": "Sull'1.90 si vede Fridolin Tschugmell nel 1936 con gli operai che costruirono il castello delle campane della Theresienkirche a Schaanwald. Tschugmell, parroco di Mauren dal 1925 al 1937, fu il primo genealogista di professione del Liechtenstein. Fotografò anche la gente e la vita di paese a Mauren.",
+          "nl": "The 1.90 shows Fridolin Tschugmell in 1936 with the workers who built the bell frame of the Theresienkirche in Schaanwald. Tschugmell, parish priest of Mauren from 1925 to 1937, was the first professional genealogist in Liechtenstein. He also photographed the people and village life of Mauren.",
+          "pl": "The 1.90 shows Fridolin Tschugmell in 1936 with the workers who built the bell frame of the Theresienkirche in Schaanwald. Tschugmell, parish priest of Mauren from 1925 to 1937, was the first professional genealogist in Liechtenstein. He also photographed the people and village life of Mauren.",
+          "cs": "The 1.90 shows Fridolin Tschugmell in 1936 with the workers who built the bell frame of the Theresienkirche in Schaanwald. Tschugmell, parish priest of Mauren from 1925 to 1937, was the first professional genealogist in Liechtenstein. He also photographed the people and village life of Mauren.",
+          "sk": "The 1.90 shows Fridolin Tschugmell in 1936 with the workers who built the bell frame of the Theresienkirche in Schaanwald. Tschugmell, parish priest of Mauren from 1925 to 1937, was the first professional genealogist in Liechtenstein. He also photographed the people and village life of Mauren.",
+          "ro": "The 1.90 shows Fridolin Tschugmell in 1936 with the workers who built the bell frame of the Theresienkirche in Schaanwald. Tschugmell, parish priest of Mauren from 1925 to 1937, was the first professional genealogist in Liechtenstein. He also photographed the people and village life of Mauren.",
+          "hu": "The 1.90 shows Fridolin Tschugmell in 1936 with the workers who built the bell frame of the Theresienkirche in Schaanwald. Tschugmell, parish priest of Mauren from 1925 to 1937, was the first professional genealogist in Liechtenstein. He also photographed the people and village life of Mauren.",
+          "da": "The 1.90 shows Fridolin Tschugmell in 1936 with the workers who built the bell frame of the Theresienkirche in Schaanwald. Tschugmell, parish priest of Mauren from 1925 to 1937, was the first professional genealogist in Liechtenstein. He also photographed the people and village life of Mauren."
+        },
+        {
+          "en": "The 2.50 comes from Anton Frommelt's years as parish priest of Triesen in the 1920s: a haymaker on Tuass sharpening his scythe on a steep slope. Frommelt left about 1,700 photographs, many of them of work and village life in Triesen and of the Rhine flood of 1927. He was president of the Landtag until 1945. From 1951 to 1958 he designed most of Liechtenstein's stamps himself.",
+          "de": "Die 2.50 stammt aus Anton Frommelts Zeit als Pfarrer von Triesen in den 1920er-Jahren: ein Bergheuer auf Tuass, der an einem steilen Hang seine Sense wetzt. Frommelt hinterließ rund 1700 Fotografien, viele davon von der Arbeit und vom Dorfleben in Triesen und vom Rheinhochwasser 1927. Bis 1945 war er Landtagspräsident. Von 1951 bis 1958 gestaltete er die meisten Briefmarken Liechtensteins selbst.",
+          "fr": "La photo du 2.50 remonte aux années 1920, quand Anton Frommelt était curé de Triesen : un faucheur aiguise sa faux sur une pente raide, à Tuass. Frommelt a laissé environ 1 700 photographies, dont beaucoup sur le travail et la vie du village à Triesen et sur la crue du Rhin de 1927. Il a présidé le Landtag jusqu'en 1945. De 1951 à 1958, il a dessiné lui-même la plupart des timbres du Liechtenstein.",
+          "it": "Il 2.50 risale agli anni Venti, quando Anton Frommelt era parroco di Triesen: un falciatore sul Tuass affila la falce su un pendio ripido. Frommelt lasciò circa 1.700 fotografie, molte sul lavoro e sulla vita di paese a Triesen e sull'alluvione del Reno del 1927. Fu presidente del Landtag fino al 1945. Dal 1951 al 1958 disegnò personalmente la maggior parte dei francobolli del Liechtenstein.",
+          "nl": "The 2.50 comes from Anton Frommelt's years as parish priest of Triesen in the 1920s: a haymaker on Tuass sharpening his scythe on a steep slope. Frommelt left about 1,700 photographs, many of them of work and village life in Triesen and of the Rhine flood of 1927. He was president of the Landtag until 1945. From 1951 to 1958 he designed most of Liechtenstein's stamps himself.",
+          "pl": "The 2.50 comes from Anton Frommelt's years as parish priest of Triesen in the 1920s: a haymaker on Tuass sharpening his scythe on a steep slope. Frommelt left about 1,700 photographs, many of them of work and village life in Triesen and of the Rhine flood of 1927. He was president of the Landtag until 1945. From 1951 to 1958 he designed most of Liechtenstein's stamps himself.",
+          "cs": "The 2.50 comes from Anton Frommelt's years as parish priest of Triesen in the 1920s: a haymaker on Tuass sharpening his scythe on a steep slope. Frommelt left about 1,700 photographs, many of them of work and village life in Triesen and of the Rhine flood of 1927. He was president of the Landtag until 1945. From 1951 to 1958 he designed most of Liechtenstein's stamps himself.",
+          "sk": "The 2.50 comes from Anton Frommelt's years as parish priest of Triesen in the 1920s: a haymaker on Tuass sharpening his scythe on a steep slope. Frommelt left about 1,700 photographs, many of them of work and village life in Triesen and of the Rhine flood of 1927. He was president of the Landtag until 1945. From 1951 to 1958 he designed most of Liechtenstein's stamps himself.",
+          "ro": "The 2.50 comes from Anton Frommelt's years as parish priest of Triesen in the 1920s: a haymaker on Tuass sharpening his scythe on a steep slope. Frommelt left about 1,700 photographs, many of them of work and village life in Triesen and of the Rhine flood of 1927. He was president of the Landtag until 1945. From 1951 to 1958 he designed most of Liechtenstein's stamps himself.",
+          "hu": "The 2.50 comes from Anton Frommelt's years as parish priest of Triesen in the 1920s: a haymaker on Tuass sharpening his scythe on a steep slope. Frommelt left about 1,700 photographs, many of them of work and village life in Triesen and of the Rhine flood of 1927. He was president of the Landtag until 1945. From 1951 to 1958 he designed most of Liechtenstein's stamps himself.",
+          "da": "The 2.50 comes from Anton Frommelt's years as parish priest of Triesen in the 1920s: a haymaker on Tuass sharpening his scythe on a steep slope. Frommelt left about 1,700 photographs, many of them of work and village life in Triesen and of the Rhine flood of 1927. He was president of the Landtag until 1945. From 1951 to 1958 he designed most of Liechtenstein's stamps himself."
+        },
+        {
+          "en": "Armin Hoop from Ruggell designed the two stamps, which are printed by Gutenberg in Schaan in sheets of 16. Both photographs also come as picture postcards with the stamp printed on.",
+          "de": "Armin Hoop aus Ruggell hat die beiden Marken entworfen. Gutenberg in Schaan druckt sie in Bogen zu 16 Stück. Beide Fotografien gibt es auch als Bildpostkarte mit eingedruckter Marke.",
+          "fr": "Armin Hoop, de Ruggell, a conçu les deux timbres, imprimés par Gutenberg à Schaan en feuilles de 16. Les deux photographies existent aussi en cartes postales illustrées, sur lesquelles le timbre est déjà imprimé.",
+          "it": "Armin Hoop di Ruggell ha disegnato i due francobolli, stampati da Gutenberg a Schaan in fogli da 16. Entrambe le fotografie escono anche come cartoline illustrate con il francobollo già stampato.",
+          "nl": "Armin Hoop from Ruggell designed the two stamps, which are printed by Gutenberg in Schaan in sheets of 16. Both photographs also come as picture postcards with the stamp printed on.",
+          "pl": "Armin Hoop from Ruggell designed the two stamps, which are printed by Gutenberg in Schaan in sheets of 16. Both photographs also come as picture postcards with the stamp printed on.",
+          "cs": "Armin Hoop from Ruggell designed the two stamps, which are printed by Gutenberg in Schaan in sheets of 16. Both photographs also come as picture postcards with the stamp printed on.",
+          "sk": "Armin Hoop from Ruggell designed the two stamps, which are printed by Gutenberg in Schaan in sheets of 16. Both photographs also come as picture postcards with the stamp printed on.",
+          "ro": "Armin Hoop from Ruggell designed the two stamps, which are printed by Gutenberg in Schaan in sheets of 16. Both photographs also come as picture postcards with the stamp printed on.",
+          "hu": "Armin Hoop from Ruggell designed the two stamps, which are printed by Gutenberg in Schaan in sheets of 16. Both photographs also come as picture postcards with the stamp printed on.",
+          "da": "Armin Hoop from Ruggell designed the two stamps, which are printed by Gutenberg in Schaan in sheets of 16. Both photographs also come as picture postcards with the stamp printed on."
+        }
+      ]
+    },
+    {
+      "id": "dance",
+      "date": {
+        "en": "9 November 2026",
+        "de": "9. November 2026",
+        "fr": "9 novembre 2026",
+        "it": "9 novembre 2026",
+        "nl": "9 November 2026",
+        "pl": "9 November 2026",
+        "cs": "9 November 2026",
+        "sk": "9 November 2026",
+        "ro": "9 November 2026",
+        "hu": "9 November 2026",
+        "da": "9 November 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Tanz-Theater, set",
+          "de": "Tanz-Theater, Satz",
+          "fr": "Tanz-Theater, série",
+          "it": "Tanz-Theater, serie",
+          "nl": "Tanz-Theater, set",
+          "pl": "Tanz-Theater, set",
+          "cs": "Tanz-Theater, set",
+          "sk": "Tanz-Theater, set",
+          "ro": "Tanz-Theater, set",
+          "hu": "Tanz-Theater, set",
+          "da": "Tanz-Theater, set"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/e4d76cab4f7722a5/li-2026-tanz-theater-set.png",
+          "width": 1368,
+          "height": 1606
+        },
+        "country": "LI",
+        "stamp_id": "li-philatelie-226.16.30"
+      },
+      "title": {
+        "en": "New definitives with dancers",
+        "de": "Neue Dauermarken mit Tänzerinnen und Tänzern",
+        "fr": "Nouveaux timbres courants avec des danseurs",
+        "it": "Nuovi francobolli ordinari con ballerini",
+        "nl": "New definitives with dancers",
+        "pl": "New definitives with dancers",
+        "cs": "New definitives with dancers",
+        "sk": "New definitives with dancers",
+        "ro": "New definitives with dancers",
+        "hu": "New definitives with dancers",
+        "da": "New definitives with dancers"
+      },
+      "formats": [
+        {
+          "value": "CHF 8.70",
+          "format": {
+            "en": "Set of four",
+            "de": "Satz mit vier Marken",
+            "fr": "Série de quatre",
+            "it": "Serie di quattro valori",
+            "nl": "Set of four",
+            "pl": "Set of four",
+            "cs": "Set of four",
+            "sk": "Set of four",
+            "ro": "Set of four",
+            "hu": "Set of four",
+            "da": "Set of four"
+          }
+        },
+        {
+          "value": "CHF 34.80",
+          "format": {
+            "en": "Set in blocks of four",
+            "de": "Satz im Viererblock",
+            "fr": "Série en blocs de quatre",
+            "it": "Serie in quartine",
+            "nl": "Set in blocks of four",
+            "pl": "Set in blocks of four",
+            "cs": "Set in blocks of four",
+            "sk": "Set in blocks of four",
+            "ro": "Set in blocks of four",
+            "hu": "Set in blocks of four",
+            "da": "Set in blocks of four"
+          }
+        },
+        {
+          "value": "CHF 174.00",
+          "format": {
+            "en": "Four sheets of 20, one per value",
+            "de": "Vier Bogen zu 20 Marken, je einer pro Wert",
+            "fr": "Quatre feuilles de 20, une par valeur",
+            "it": "Quattro fogli da 20, uno per valore",
+            "nl": "Four sheets of 20, one per value",
+            "pl": "Four sheets of 20, one per value",
+            "cs": "Four sheets of 20, one per value",
+            "sk": "Four sheets of 20, one per value",
+            "ro": "Four sheets of 20, one per value",
+            "hu": "Four sheets of 20, one per value",
+            "da": "Four sheets of 20, one per value"
+          }
+        },
+        {
+          "value": "CHF 9.90",
+          "format": {
+            "en": "Set on first-day cover",
+            "de": "Satz auf Ersttagsbrief",
+            "fr": "Série sur pli premier jour",
+            "it": "Serie su busta primo giorno",
+            "nl": "Set on first-day cover",
+            "pl": "Set on first-day cover",
+            "cs": "Set on first-day cover",
+            "sk": "Set on first-day cover",
+            "ro": "Set on first-day cover",
+            "hu": "Set on first-day cover",
+            "da": "Set on first-day cover"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "Jacqueline Beck from Schaan designed four new definitives about contemporary dance. Each stamp shows a dancer in costume, with the word TANZ across the lower half in the colour of the value.",
+          "de": "Jacqueline Beck aus Schaan hat vier neue Dauermarken zum zeitgenössischen Tanz gestaltet. Jede Marke zeigt eine tanzende Person im Kostüm, über die untere Hälfte läuft das Wort TANZ in der Farbe des Nennwerts.",
+          "fr": "Jacqueline Beck, de Schaan, a conçu quatre nouveaux timbres courants sur la danse contemporaine. Chaque timbre montre un danseur en costume, le mot TANZ occupant la moitié inférieure, dans la couleur de la valeur.",
+          "it": "Jacqueline Beck di Schaan ha disegnato quattro nuovi francobolli ordinari dedicati alla danza contemporanea. Ogni francobollo mostra un ballerino o una ballerina in costume, con la parola TANZ che attraversa la metà inferiore nel colore del valore.",
+          "nl": "Jacqueline Beck from Schaan designed four new definitives about contemporary dance. Each stamp shows a dancer in costume, with the word TANZ across the lower half in the colour of the value.",
+          "pl": "Jacqueline Beck from Schaan designed four new definitives about contemporary dance. Each stamp shows a dancer in costume, with the word TANZ across the lower half in the colour of the value.",
+          "cs": "Jacqueline Beck from Schaan designed four new definitives about contemporary dance. Each stamp shows a dancer in costume, with the word TANZ across the lower half in the colour of the value.",
+          "sk": "Jacqueline Beck from Schaan designed four new definitives about contemporary dance. Each stamp shows a dancer in costume, with the word TANZ across the lower half in the colour of the value.",
+          "ro": "Jacqueline Beck from Schaan designed four new definitives about contemporary dance. Each stamp shows a dancer in costume, with the word TANZ across the lower half in the colour of the value.",
+          "hu": "Jacqueline Beck from Schaan designed four new definitives about contemporary dance. Each stamp shows a dancer in costume, with the word TANZ across the lower half in the colour of the value.",
+          "da": "Jacqueline Beck from Schaan designed four new definitives about contemporary dance. Each stamp shows a dancer in costume, with the word TANZ across the lower half in the colour of the value."
+        },
+        {
+          "en": "On the 1.20, «Felsenrauschen», a grey-haired man in a blue suit with red cuffs leans back on a heap of rocks. «La Principessa» on the 1.90 holds one bare leg high in an empty greenhouse. On the 2.50, «Barfuss & Brokat», a girl in a long gold brocade dress dances barefoot on wet rocks. «In Green» on the 3.10 is a young man in a flowered jacket and black boots in front of a green wall.",
+          "de": "Auf der 1.20, „Felsenrauschen“, lehnt sich ein grauhaariger Mann im blauen Anzug mit roten Manschetten auf einem Haufen Felsbrocken zurück. „La Principessa“ auf der 1.90 streckt in einem leeren Gewächshaus ein nacktes Bein in die Höhe. Auf der 2.50 tanzt bei „Barfuss & Brokat“ ein Mädchen im langen Kleid aus Goldbrokat barfuß über nasse Felsen. „In Green“ auf der 3.10 zeigt einen jungen Mann im geblümten Jackett und in schwarzen Stiefeln vor einer grünen Wand.",
+          "fr": "Sur le 1.20, « Felsenrauschen », un homme aux cheveux gris, en costume bleu à poignets rouges, se penche en arrière sur un amas de rochers. Sur le 1.90, « La Principessa » lève haut une jambe nue dans une serre vide. Sur le 2.50, « Barfuss & Brokat », une jeune fille en longue robe de brocart doré danse pieds nus sur des rochers mouillés. Le 3.10, « In Green », montre un jeune homme en veste à fleurs et bottes noires devant un mur vert.",
+          "it": "Sull'1.20, \"Felsenrauschen\", un uomo dai capelli grigi in abito blu con i polsini rossi si piega all'indietro su un cumulo di rocce. \"La Principessa\" sull'1.90 tiene alta una gamba nuda in una serra vuota. Sul 2.50, \"Barfuss & Brokat\", una ragazza con un lungo abito di broccato dorato danza scalza su rocce bagnate. \"In Green\" sul 3.10 è un giovane con una giacca a fiori e stivali neri davanti a una parete verde.",
+          "nl": "On the 1.20, «Felsenrauschen», a grey-haired man in a blue suit with red cuffs leans back on a heap of rocks. «La Principessa» on the 1.90 holds one bare leg high in an empty greenhouse. On the 2.50, «Barfuss & Brokat», a girl in a long gold brocade dress dances barefoot on wet rocks. «In Green» on the 3.10 is a young man in a flowered jacket and black boots in front of a green wall.",
+          "pl": "On the 1.20, «Felsenrauschen», a grey-haired man in a blue suit with red cuffs leans back on a heap of rocks. «La Principessa» on the 1.90 holds one bare leg high in an empty greenhouse. On the 2.50, «Barfuss & Brokat», a girl in a long gold brocade dress dances barefoot on wet rocks. «In Green» on the 3.10 is a young man in a flowered jacket and black boots in front of a green wall.",
+          "cs": "On the 1.20, «Felsenrauschen», a grey-haired man in a blue suit with red cuffs leans back on a heap of rocks. «La Principessa» on the 1.90 holds one bare leg high in an empty greenhouse. On the 2.50, «Barfuss & Brokat», a girl in a long gold brocade dress dances barefoot on wet rocks. «In Green» on the 3.10 is a young man in a flowered jacket and black boots in front of a green wall.",
+          "sk": "On the 1.20, «Felsenrauschen», a grey-haired man in a blue suit with red cuffs leans back on a heap of rocks. «La Principessa» on the 1.90 holds one bare leg high in an empty greenhouse. On the 2.50, «Barfuss & Brokat», a girl in a long gold brocade dress dances barefoot on wet rocks. «In Green» on the 3.10 is a young man in a flowered jacket and black boots in front of a green wall.",
+          "ro": "On the 1.20, «Felsenrauschen», a grey-haired man in a blue suit with red cuffs leans back on a heap of rocks. «La Principessa» on the 1.90 holds one bare leg high in an empty greenhouse. On the 2.50, «Barfuss & Brokat», a girl in a long gold brocade dress dances barefoot on wet rocks. «In Green» on the 3.10 is a young man in a flowered jacket and black boots in front of a green wall.",
+          "hu": "On the 1.20, «Felsenrauschen», a grey-haired man in a blue suit with red cuffs leans back on a heap of rocks. «La Principessa» on the 1.90 holds one bare leg high in an empty greenhouse. On the 2.50, «Barfuss & Brokat», a girl in a long gold brocade dress dances barefoot on wet rocks. «In Green» on the 3.10 is a young man in a flowered jacket and black boots in front of a green wall.",
+          "da": "On the 1.20, «Felsenrauschen», a grey-haired man in a blue suit with red cuffs leans back on a heap of rocks. «La Principessa» on the 1.90 holds one bare leg high in an empty greenhouse. On the 2.50, «Barfuss & Brokat», a girl in a long gold brocade dress dances barefoot on wet rocks. «In Green» on the 3.10 is a young man in a flowered jacket and black boots in front of a green wall."
+        },
+        {
+          "en": "Gutenberg in Schaan prints the stamps in sheets of 20. They are valid for postage from 9 November.",
+          "de": "Gutenberg in Schaan druckt die Marken in Bogen zu 20 Stück. Frankaturgültig sind sie ab dem 9. November.",
+          "fr": "Gutenberg, à Schaan, imprime les timbres en feuilles de 20. Ils sont valables pour l'affranchissement à partir du 9 novembre.",
+          "it": "Gutenberg a Schaan stampa i francobolli in fogli da 20. Sono validi per l'affrancatura dal 9 novembre.",
+          "nl": "Gutenberg in Schaan prints the stamps in sheets of 20. They are valid for postage from 9 November.",
+          "pl": "Gutenberg in Schaan prints the stamps in sheets of 20. They are valid for postage from 9 November.",
+          "cs": "Gutenberg in Schaan prints the stamps in sheets of 20. They are valid for postage from 9 November.",
+          "sk": "Gutenberg in Schaan prints the stamps in sheets of 20. They are valid for postage from 9 November.",
+          "ro": "Gutenberg in Schaan prints the stamps in sheets of 20. They are valid for postage from 9 November.",
+          "hu": "Gutenberg in Schaan prints the stamps in sheets of 20. They are valid for postage from 9 November.",
+          "da": "Gutenberg in Schaan prints the stamps in sheets of 20. They are valid for postage from 9 November."
+        }
+      ]
+    },
+    {
+      "id": "christmas",
+      "date": {
+        "en": "9 November 2026",
+        "de": "9. November 2026",
+        "fr": "9 novembre 2026",
+        "it": "9 novembre 2026",
+        "nl": "9 November 2026",
+        "pl": "9 November 2026",
+        "cs": "9 November 2026",
+        "sk": "9 November 2026",
+        "ro": "9 November 2026",
+        "hu": "9 November 2026",
+        "da": "9 November 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Christmas 2026, set",
+          "de": "Weihnachten 2026, Satz",
+          "fr": "Noël 2026, série",
+          "it": "Natale 2026, serie",
+          "nl": "Christmas 2026, set",
+          "pl": "Christmas 2026, set",
+          "cs": "Christmas 2026, set",
+          "sk": "Christmas 2026, set",
+          "ro": "Christmas 2026, set",
+          "hu": "Christmas 2026, set",
+          "da": "Christmas 2026, set"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/e762d63971fb6638/li-2026-weihnachten-set.png",
+          "width": 1608,
+          "height": 1608
+        },
+        "country": "LI",
+        "stamp_id": "li-philatelie-226.17.30"
+      },
+      "title": {
+        "en": "Christmas in the snow",
+        "de": "Weihnachten im Schnee",
+        "fr": "Noël sous la neige",
+        "it": "Natale sulla neve",
+        "nl": "Christmas in the snow",
+        "pl": "Christmas in the snow",
+        "cs": "Christmas in the snow",
+        "sk": "Christmas in the snow",
+        "ro": "Christmas in the snow",
+        "hu": "Christmas in the snow",
+        "da": "Christmas in the snow"
+      },
+      "formats": [
+        {
+          "value": "CHF 6.60",
+          "format": {
+            "en": "Set of four",
+            "de": "Satz mit vier Marken",
+            "fr": "Série de quatre",
+            "it": "Serie di quattro valori",
+            "nl": "Set of four",
+            "pl": "Set of four",
+            "cs": "Set of four",
+            "sk": "Set of four",
+            "ro": "Set of four",
+            "hu": "Set of four",
+            "da": "Set of four"
+          }
+        },
+        {
+          "value": "CHF 26.40",
+          "format": {
+            "en": "Set in blocks of four",
+            "de": "Satz im Viererblock",
+            "fr": "Série en blocs de quatre",
+            "it": "Serie in quartine",
+            "nl": "Set in blocks of four",
+            "pl": "Set in blocks of four",
+            "cs": "Set in blocks of four",
+            "sk": "Set in blocks of four",
+            "ro": "Set in blocks of four",
+            "hu": "Set in blocks of four",
+            "da": "Set in blocks of four"
+          }
+        },
+        {
+          "value": "CHF 132.00",
+          "format": {
+            "en": "Four sheets of 20 with stickers, one per value",
+            "de": "Vier Bogen zu 20 Marken mit Stickern, je einer pro Wert",
+            "fr": "Quatre feuilles de 20 avec autocollants, une par valeur",
+            "it": "Quattro fogli da 20 con adesivi, uno per valore",
+            "nl": "Four sheets of 20 with stickers, one per value",
+            "pl": "Four sheets of 20 with stickers, one per value",
+            "cs": "Four sheets of 20 with stickers, one per value",
+            "sk": "Four sheets of 20 with stickers, one per value",
+            "ro": "Four sheets of 20 with stickers, one per value",
+            "hu": "Four sheets of 20 with stickers, one per value",
+            "da": "Four sheets of 20 with stickers, one per value"
+          }
+        },
+        {
+          "value": "CHF 7.80",
+          "format": {
+            "en": "Set on first-day cover",
+            "de": "Satz auf Ersttagsbrief",
+            "fr": "Série sur pli premier jour",
+            "it": "Serie su busta primo giorno",
+            "nl": "Set on first-day cover",
+            "pl": "Set on first-day cover",
+            "cs": "Set on first-day cover",
+            "sk": "Set on first-day cover",
+            "ro": "Set on first-day cover",
+            "hu": "Set on first-day cover",
+            "da": "Set on first-day cover"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "Isabella Hutter from Diepoldsau drew four winter scenes. The 1.00 shows a fir branch with a robin and baubles, the 1.20 children and an adult skating below a row of lit houses, the 1.90 a deer next to a decorated tree in the forest, and the 2.50 a cabin in the snow with smoke rising from the chimney.",
+          "de": "Isabella Hutter aus Diepoldsau hat vier Winterbilder gezeichnet. Die 1.00 zeigt einen Tannenzweig mit einem Rotkehlchen und Christbaumkugeln, die 1.20 Kinder und eine erwachsene Person beim Schlittschuhlaufen unter einer Reihe erleuchteter Häuser. Die 1.90 zeigt ein Reh neben einem geschmückten Baum im Wald, die 2.50 eine Hütte im Schnee, aus deren Kamin Rauch aufsteigt.",
+          "fr": "Isabella Hutter, de Diepoldsau, a dessiné quatre scènes d'hiver. Le 1.00 montre une branche de sapin avec un rouge-gorge et des boules, le 1.20 des enfants et un adulte qui patinent au pied d'une rangée de maisons éclairées, le 1.90 un chevreuil à côté d'un arbre décoré en forêt, et le 2.50 un chalet dans la neige avec de la fumée qui sort de la cheminée.",
+          "it": "Isabella Hutter di Diepoldsau ha disegnato quattro scene invernali. Sull'1.00 c'è un ramo di abete con un pettirosso e alcune palline, sull'1.20 dei bambini e un adulto che pattinano sotto una fila di case illuminate, sull'1.90 un capriolo accanto a un albero addobbato nel bosco e sul 2.50 una baita nella neve con il fumo che esce dal camino.",
+          "nl": "Isabella Hutter from Diepoldsau drew four winter scenes. The 1.00 shows a fir branch with a robin and baubles, the 1.20 children and an adult skating below a row of lit houses, the 1.90 a deer next to a decorated tree in the forest, and the 2.50 a cabin in the snow with smoke rising from the chimney.",
+          "pl": "Isabella Hutter from Diepoldsau drew four winter scenes. The 1.00 shows a fir branch with a robin and baubles, the 1.20 children and an adult skating below a row of lit houses, the 1.90 a deer next to a decorated tree in the forest, and the 2.50 a cabin in the snow with smoke rising from the chimney.",
+          "cs": "Isabella Hutter from Diepoldsau drew four winter scenes. The 1.00 shows a fir branch with a robin and baubles, the 1.20 children and an adult skating below a row of lit houses, the 1.90 a deer next to a decorated tree in the forest, and the 2.50 a cabin in the snow with smoke rising from the chimney.",
+          "sk": "Isabella Hutter from Diepoldsau drew four winter scenes. The 1.00 shows a fir branch with a robin and baubles, the 1.20 children and an adult skating below a row of lit houses, the 1.90 a deer next to a decorated tree in the forest, and the 2.50 a cabin in the snow with smoke rising from the chimney.",
+          "ro": "Isabella Hutter from Diepoldsau drew four winter scenes. The 1.00 shows a fir branch with a robin and baubles, the 1.20 children and an adult skating below a row of lit houses, the 1.90 a deer next to a decorated tree in the forest, and the 2.50 a cabin in the snow with smoke rising from the chimney.",
+          "hu": "Isabella Hutter from Diepoldsau drew four winter scenes. The 1.00 shows a fir branch with a robin and baubles, the 1.20 children and an adult skating below a row of lit houses, the 1.90 a deer next to a decorated tree in the forest, and the 2.50 a cabin in the snow with smoke rising from the chimney.",
+          "da": "Isabella Hutter from Diepoldsau drew four winter scenes. The 1.00 shows a fir branch with a robin and baubles, the 1.20 children and an adult skating below a row of lit houses, the 1.90 a deer next to a decorated tree in the forest, and the 2.50 a cabin in the snow with smoke rising from the chimney."
+        },
+        {
+          "en": "Gutenberg in Schaan prints the stamps. Each sheet of 20 comes with Christmas stickers. From 1 to 31 December the Christkind cancels Christmas mail: Philatelie Liechtenstein sells it with a Christmas stamp and a sticker, at CHF 2.20 with the 1.20, CHF 2.90 with the 1.90 and CHF 3.50 with the 2.50.",
+          "de": "Gedruckt werden die Marken bei Gutenberg in Schaan. Zu jedem Bogen mit 20 Marken gehören Weihnachtssticker. Vom 1. bis 31. Dezember stempelt das Christkind die Weihnachtspost: Philatelie Liechtenstein verkauft sie mit Weihnachtsmarke und Sticker, für CHF 2.20 mit der 1.20, CHF 2.90 mit der 1.90 und CHF 3.50 mit der 2.50.",
+          "fr": "Gutenberg, à Schaan, imprime les timbres. Chaque feuille de 20 est accompagnée d'autocollants de Noël. Du 1er au 31 décembre, le Christkind oblitère le courrier de Noël : Philatelie Liechtenstein le vend avec un timbre de Noël et un autocollant, à CHF 2.20 avec le 1.20, CHF 2.90 avec le 1.90 et CHF 3.50 avec le 2.50.",
+          "it": "I francobolli sono stampati da Gutenberg a Schaan. Ogni foglio da 20 contiene adesivi natalizi. Dal 1° al 31 dicembre il Christkind annulla la posta di Natale: Philatelie Liechtenstein la vende con un francobollo natalizio e un adesivo, a CHF 2.20 con l'1.20, CHF 2.90 con l'1.90 e CHF 3.50 con il 2.50.",
+          "nl": "Gutenberg in Schaan prints the stamps. Each sheet of 20 comes with Christmas stickers. From 1 to 31 December the Christkind cancels Christmas mail: Philatelie Liechtenstein sells it with a Christmas stamp and a sticker, at CHF 2.20 with the 1.20, CHF 2.90 with the 1.90 and CHF 3.50 with the 2.50.",
+          "pl": "Gutenberg in Schaan prints the stamps. Each sheet of 20 comes with Christmas stickers. From 1 to 31 December the Christkind cancels Christmas mail: Philatelie Liechtenstein sells it with a Christmas stamp and a sticker, at CHF 2.20 with the 1.20, CHF 2.90 with the 1.90 and CHF 3.50 with the 2.50.",
+          "cs": "Gutenberg in Schaan prints the stamps. Each sheet of 20 comes with Christmas stickers. From 1 to 31 December the Christkind cancels Christmas mail: Philatelie Liechtenstein sells it with a Christmas stamp and a sticker, at CHF 2.20 with the 1.20, CHF 2.90 with the 1.90 and CHF 3.50 with the 2.50.",
+          "sk": "Gutenberg in Schaan prints the stamps. Each sheet of 20 comes with Christmas stickers. From 1 to 31 December the Christkind cancels Christmas mail: Philatelie Liechtenstein sells it with a Christmas stamp and a sticker, at CHF 2.20 with the 1.20, CHF 2.90 with the 1.90 and CHF 3.50 with the 2.50.",
+          "ro": "Gutenberg in Schaan prints the stamps. Each sheet of 20 comes with Christmas stickers. From 1 to 31 December the Christkind cancels Christmas mail: Philatelie Liechtenstein sells it with a Christmas stamp and a sticker, at CHF 2.20 with the 1.20, CHF 2.90 with the 1.90 and CHF 3.50 with the 2.50.",
+          "hu": "Gutenberg in Schaan prints the stamps. Each sheet of 20 comes with Christmas stickers. From 1 to 31 December the Christkind cancels Christmas mail: Philatelie Liechtenstein sells it with a Christmas stamp and a sticker, at CHF 2.20 with the 1.20, CHF 2.90 with the 1.90 and CHF 3.50 with the 2.50.",
+          "da": "Gutenberg in Schaan prints the stamps. Each sheet of 20 comes with Christmas stickers. From 1 to 31 December the Christkind cancels Christmas mail: Philatelie Liechtenstein sells it with a Christmas stamp and a sticker, at CHF 2.20 with the 1.20, CHF 2.90 with the 1.90 and CHF 3.50 with the 2.50."
+        }
+      ]
+    },
+    {
+      "id": "goat",
+      "date": {
+        "en": "9 November 2026",
+        "de": "9. November 2026",
+        "fr": "9 novembre 2026",
+        "it": "9 novembre 2026",
+        "nl": "9 November 2026",
+        "pl": "9 November 2026",
+        "cs": "9 November 2026",
+        "sk": "9 November 2026",
+        "ro": "9 November 2026",
+        "hu": "9 November 2026",
+        "da": "9 November 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Year of the Goat, 2.50",
+          "de": "Jahr der Ziege, 2.50",
+          "fr": "Année de la Chèvre, 2.50",
+          "it": "Anno della Capra, 2.50",
+          "nl": "Year of the Goat, 2.50",
+          "pl": "Year of the Goat, 2.50",
+          "cs": "Year of the Goat, 2.50",
+          "sk": "Year of the Goat, 2.50",
+          "ro": "Year of the Goat, 2.50",
+          "hu": "Year of the Goat, 2.50",
+          "da": "Year of the Goat, 2.50"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/84bb141d0141bc2c/li-2026-226-18-30.png",
+          "width": 562,
+          "height": 764
+        },
+        "country": "LI",
+        "stamp_id": "li-philatelie-226.18.30"
+      },
+      "title": {
+        "en": "The Year of the Goat by Han Meilin",
+        "de": "Das Jahr der Ziege von Han Meilin",
+        "fr": "L'année de la Chèvre par Han Meilin",
+        "it": "L'Anno della Capra di Han Meilin",
+        "nl": "The Year of the Goat by Han Meilin",
+        "pl": "The Year of the Goat by Han Meilin",
+        "cs": "The Year of the Goat by Han Meilin",
+        "sk": "The Year of the Goat by Han Meilin",
+        "ro": "The Year of the Goat by Han Meilin",
+        "hu": "The Year of the Goat by Han Meilin",
+        "da": "The Year of the Goat by Han Meilin"
+      },
+      "formats": [
+        {
+          "value": "CHF 2.50",
+          "format": {
+            "en": "Single stamp",
+            "de": "Einzelmarke",
+            "fr": "Timbre seul",
+            "it": "Francobollo singolo",
+            "nl": "Single stamp",
+            "pl": "Single stamp",
+            "cs": "Single stamp",
+            "sk": "Single stamp",
+            "ro": "Single stamp",
+            "hu": "Single stamp",
+            "da": "Single stamp"
+          }
+        },
+        {
+          "value": "CHF 10.00",
+          "format": {
+            "en": "Sheet of four",
+            "de": "Bogen mit vier Marken",
+            "fr": "Feuille de quatre",
+            "it": "Foglietto da quattro",
+            "nl": "Sheet of four",
+            "pl": "Sheet of four",
+            "cs": "Sheet of four",
+            "sk": "Sheet of four",
+            "ro": "Sheet of four",
+            "hu": "Sheet of four",
+            "da": "Sheet of four"
+          }
+        },
+        {
+          "value": "CHF 3.70",
+          "format": {
+            "en": "Stamp on first-day cover",
+            "de": "Marke auf Ersttagsbrief",
+            "fr": "Timbre sur pli premier jour",
+            "it": "Francobollo su busta primo giorno",
+            "nl": "Stamp on first-day cover",
+            "pl": "Stamp on first-day cover",
+            "cs": "Stamp on first-day cover",
+            "sk": "Stamp on first-day cover",
+            "ro": "Stamp on first-day cover",
+            "hu": "Stamp on first-day cover",
+            "da": "Stamp on first-day cover"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "At the end of each year Philatelie Liechtenstein issues a stamp for the coming year of the Chinese zodiac. The Year of the Goat begins on 6 February 2027. Since 2023 each stamp has come from a different artist: Leng Bingchuan drew the dragon, Tiger Pan the snake and Kan Tai-keung the horse.",
+          "de": "Zum Jahresende gibt Philatelie Liechtenstein jeweils eine Marke zum kommenden Tierkreiszeichen des chinesischen Kalenders heraus. Das Jahr der Ziege beginnt am 6. Februar 2027. Seit 2023 stammt jede Marke von einem anderen Künstler: Leng Bingchuan zeichnete den Drachen, Tiger Pan die Schlange und Kan Tai-keung das Pferd.",
+          "fr": "Chaque fin d'année, Philatelie Liechtenstein émet un timbre pour l'année à venir du zodiaque chinois. L'année de la Chèvre commence le 6 février 2027. Depuis 2023, chaque timbre vient d'un artiste différent : Leng Bingchuan a dessiné le dragon, Tiger Pan le serpent et Kan Tai-keung le cheval.",
+          "it": "Alla fine di ogni anno Philatelie Liechtenstein emette un francobollo per l'anno dello zodiaco cinese che sta per cominciare. L'Anno della Capra inizia il 6 febbraio 2027. Dal 2023 ogni francobollo è opera di un artista diverso: Leng Bingchuan ha disegnato il drago, Tiger Pan il serpente e Kan Tai-keung il cavallo.",
+          "nl": "At the end of each year Philatelie Liechtenstein issues a stamp for the coming year of the Chinese zodiac. The Year of the Goat begins on 6 February 2027. Since 2023 each stamp has come from a different artist: Leng Bingchuan drew the dragon, Tiger Pan the snake and Kan Tai-keung the horse.",
+          "pl": "At the end of each year Philatelie Liechtenstein issues a stamp for the coming year of the Chinese zodiac. The Year of the Goat begins on 6 February 2027. Since 2023 each stamp has come from a different artist: Leng Bingchuan drew the dragon, Tiger Pan the snake and Kan Tai-keung the horse.",
+          "cs": "At the end of each year Philatelie Liechtenstein issues a stamp for the coming year of the Chinese zodiac. The Year of the Goat begins on 6 February 2027. Since 2023 each stamp has come from a different artist: Leng Bingchuan drew the dragon, Tiger Pan the snake and Kan Tai-keung the horse.",
+          "sk": "At the end of each year Philatelie Liechtenstein issues a stamp for the coming year of the Chinese zodiac. The Year of the Goat begins on 6 February 2027. Since 2023 each stamp has come from a different artist: Leng Bingchuan drew the dragon, Tiger Pan the snake and Kan Tai-keung the horse.",
+          "ro": "At the end of each year Philatelie Liechtenstein issues a stamp for the coming year of the Chinese zodiac. The Year of the Goat begins on 6 February 2027. Since 2023 each stamp has come from a different artist: Leng Bingchuan drew the dragon, Tiger Pan the snake and Kan Tai-keung the horse.",
+          "hu": "At the end of each year Philatelie Liechtenstein issues a stamp for the coming year of the Chinese zodiac. The Year of the Goat begins on 6 February 2027. Since 2023 each stamp has come from a different artist: Leng Bingchuan drew the dragon, Tiger Pan the snake and Kan Tai-keung the horse.",
+          "da": "At the end of each year Philatelie Liechtenstein issues a stamp for the coming year of the Chinese zodiac. The Year of the Goat begins on 6 February 2027. Since 2023 each stamp has come from a different artist: Leng Bingchuan drew the dragon, Tiger Pan the snake and Kan Tai-keung the horse."
+        },
+        {
+          "en": "Han Meilin was born in Jinan in 1936 and designed the Fuwa, the mascots of the 2008 Olympic Games in Beijing. In 1983 he drew China's stamp for the Year of the Pig.",
+          "de": "Han Meilin wurde 1936 in Jinan geboren und gestaltete die Fuwa, die Maskottchen der Olympischen Spiele 2008 in Peking. 1983 zeichnete er Chinas Marke zum Jahr des Schweins.",
+          "fr": "Han Meilin est né à Jinan en 1936 et a créé les Fuwa, les mascottes des Jeux olympiques de 2008 à Pékin. En 1983, il a dessiné le timbre chinois de l'année du Cochon.",
+          "it": "Han Meilin è nato a Jinan nel 1936 e ha creato i Fuwa, le mascotte dei Giochi olimpici di Pechino del 2008. Nel 1983 ha disegnato il francobollo cinese per l'Anno del Maiale.",
+          "nl": "Han Meilin was born in Jinan in 1936 and designed the Fuwa, the mascots of the 2008 Olympic Games in Beijing. In 1983 he drew China's stamp for the Year of the Pig.",
+          "pl": "Han Meilin was born in Jinan in 1936 and designed the Fuwa, the mascots of the 2008 Olympic Games in Beijing. In 1983 he drew China's stamp for the Year of the Pig.",
+          "cs": "Han Meilin was born in Jinan in 1936 and designed the Fuwa, the mascots of the 2008 Olympic Games in Beijing. In 1983 he drew China's stamp for the Year of the Pig.",
+          "sk": "Han Meilin was born in Jinan in 1936 and designed the Fuwa, the mascots of the 2008 Olympic Games in Beijing. In 1983 he drew China's stamp for the Year of the Pig.",
+          "ro": "Han Meilin was born in Jinan in 1936 and designed the Fuwa, the mascots of the 2008 Olympic Games in Beijing. In 1983 he drew China's stamp for the Year of the Pig.",
+          "hu": "Han Meilin was born in Jinan in 1936 and designed the Fuwa, the mascots of the 2008 Olympic Games in Beijing. In 1983 he drew China's stamp for the Year of the Pig.",
+          "da": "Han Meilin was born in Jinan in 1936 and designed the Fuwa, the mascots of the 2008 Olympic Games in Beijing. In 1983 he drew China's stamp for the Year of the Pig."
+        },
+        {
+          "en": "On the stamp a goat painted in ink with a pale green wash stands in front of the character 羊, the Chinese sign for goat and sheep. It is printed by Cartor in France and sold in a sheet of four. The previous stamp for this sign came out in 2014, under the name Sheep.",
+          "de": "Auf der Marke steht eine mit Tusche gemalte, blassgrün lavierte Ziege vor dem Zeichen 羊, dem chinesischen Zeichen für Ziege und Schaf. Sie wird bei Cartor in Frankreich gedruckt und im Bogen zu vier Marken verkauft. Die vorige Marke zu diesem Tierkreiszeichen erschien 2014, unter dem Namen Schaf.",
+          "fr": "Sur le timbre, une chèvre peinte à l'encre, rehaussée d'un lavis vert pâle, se tient devant le caractère 羊, le signe chinois de la chèvre et du mouton. Le timbre est imprimé par Cartor, en France, et vendu en feuille de quatre. Le précédent timbre pour ce signe est paru en 2014, sous le nom de Mouton.",
+          "it": "Sul francobollo una capra dipinta a inchiostro con un velo di verde chiaro è davanti al carattere 羊, il segno cinese per capra e pecora. La stampa è di Cartor in Francia e il francobollo si vende in foglietto da quattro. Il francobollo precedente per questo segno è uscito nel 2014, con il nome Pecora.",
+          "nl": "On the stamp a goat painted in ink with a pale green wash stands in front of the character 羊, the Chinese sign for goat and sheep. It is printed by Cartor in France and sold in a sheet of four. The previous stamp for this sign came out in 2014, under the name Sheep.",
+          "pl": "On the stamp a goat painted in ink with a pale green wash stands in front of the character 羊, the Chinese sign for goat and sheep. It is printed by Cartor in France and sold in a sheet of four. The previous stamp for this sign came out in 2014, under the name Sheep.",
+          "cs": "On the stamp a goat painted in ink with a pale green wash stands in front of the character 羊, the Chinese sign for goat and sheep. It is printed by Cartor in France and sold in a sheet of four. The previous stamp for this sign came out in 2014, under the name Sheep.",
+          "sk": "On the stamp a goat painted in ink with a pale green wash stands in front of the character 羊, the Chinese sign for goat and sheep. It is printed by Cartor in France and sold in a sheet of four. The previous stamp for this sign came out in 2014, under the name Sheep.",
+          "ro": "On the stamp a goat painted in ink with a pale green wash stands in front of the character 羊, the Chinese sign for goat and sheep. It is printed by Cartor in France and sold in a sheet of four. The previous stamp for this sign came out in 2014, under the name Sheep.",
+          "hu": "On the stamp a goat painted in ink with a pale green wash stands in front of the character 羊, the Chinese sign for goat and sheep. It is printed by Cartor in France and sold in a sheet of four. The previous stamp for this sign came out in 2014, under the name Sheep.",
+          "da": "On the stamp a goat painted in ink with a pale green wash stands in front of the character 羊, the Chinese sign for goat and sheep. It is printed by Cartor in France and sold in a sheet of four. The previous stamp for this sign came out in 2014, under the name Sheep."
+        }
+      ]
+    },
+    {
+      "id": "ordering",
+      "rows": [
+        {
+          "label": {
+            "en": "Online",
+            "de": "Online",
+            "fr": "En ligne",
+            "it": "Online",
+            "nl": "Online",
+            "pl": "Online",
+            "cs": "Online",
+            "sk": "Online",
+            "ro": "Online",
+            "hu": "Online",
+            "da": "Online"
+          },
+          "value": {
+            "en": "philatelie.li, pre-orders open now",
+            "de": "philatelie.li, Vorbestellung läuft",
+            "fr": "philatelie.li, précommandes ouvertes dès maintenant",
+            "it": "philatelie.li, prevendita già aperta",
+            "nl": "philatelie.li, pre-orders open now",
+            "pl": "philatelie.li, pre-orders open now",
+            "cs": "philatelie.li, pre-orders open now",
+            "sk": "philatelie.li, pre-orders open now",
+            "ro": "philatelie.li, pre-orders open now",
+            "hu": "philatelie.li, pre-orders open now",
+            "da": "philatelie.li, pre-orders open now"
+          }
+        },
+        {
+          "label": {
+            "en": "Post branches",
+            "de": "Postfilialen",
+            "fr": "Offices de poste",
+            "it": "Filiali postali",
+            "nl": "Post branches",
+            "pl": "Post branches",
+            "cs": "Post branches",
+            "sk": "Post branches",
+            "ro": "Post branches",
+            "hu": "Post branches",
+            "da": "Post branches"
+          },
+          "value": {
+            "en": "Schaan and Vaduz",
+            "de": "Schaan und Vaduz",
+            "fr": "Schaan et Vaduz",
+            "it": "Schaan e Vaduz",
+            "nl": "Schaan and Vaduz",
+            "pl": "Schaan and Vaduz",
+            "cs": "Schaan and Vaduz",
+            "sk": "Schaan and Vaduz",
+            "ro": "Schaan and Vaduz",
+            "hu": "Schaan and Vaduz",
+            "da": "Schaan and Vaduz"
+          }
+        },
+        {
+          "label": {
+            "en": "Collect an order",
+            "de": "Abholung",
+            "fr": "Retrait d'une commande",
+            "it": "Ritiro dell'ordine",
+            "nl": "Collect an order",
+            "pl": "Collect an order",
+            "cs": "Collect an order",
+            "sk": "Collect an order",
+            "ro": "Collect an order",
+            "hu": "Collect an order",
+            "da": "Collect an order"
+          },
+          "value": {
+            "en": "Alte Zollstrasse 11, 9494 Schaan, after calling one day ahead",
+            "de": "Alte Zollstrasse 11, 9494 Schaan, nach telefonischer Anmeldung einen Tag vorher",
+            "fr": "Alte Zollstrasse 11, 9494 Schaan, après un appel la veille",
+            "it": "Alte Zollstrasse 11, 9494 Schaan, previa telefonata il giorno prima",
+            "nl": "Alte Zollstrasse 11, 9494 Schaan, after calling one day ahead",
+            "pl": "Alte Zollstrasse 11, 9494 Schaan, after calling one day ahead",
+            "cs": "Alte Zollstrasse 11, 9494 Schaan, after calling one day ahead",
+            "sk": "Alte Zollstrasse 11, 9494 Schaan, after calling one day ahead",
+            "ro": "Alte Zollstrasse 11, 9494 Schaan, after calling one day ahead",
+            "hu": "Alte Zollstrasse 11, 9494 Schaan, after calling one day ahead",
+            "da": "Alte Zollstrasse 11, 9494 Schaan, after calling one day ahead"
+          }
+        },
+        {
+          "label": {
+            "en": "Phone",
+            "de": "Telefon",
+            "fr": "Téléphone",
+            "it": "Telefono",
+            "nl": "Phone",
+            "pl": "Phone",
+            "cs": "Phone",
+            "sk": "Phone",
+            "ro": "Phone",
+            "hu": "Phone",
+            "da": "Phone"
+          },
+          "value": {
+            "en": "+423 399 44 66",
+            "de": "+423 399 44 66",
+            "fr": "+423 399 44 66",
+            "it": "+423 399 44 66",
+            "nl": "+423 399 44 66",
+            "pl": "+423 399 44 66",
+            "cs": "+423 399 44 66",
+            "sk": "+423 399 44 66",
+            "ro": "+423 399 44 66",
+            "hu": "+423 399 44 66",
+            "da": "+423 399 44 66"
+          }
+        },
+        {
+          "label": {
+            "en": "Shipping",
+            "de": "Versand",
+            "fr": "Expédition",
+            "it": "Spedizione",
+            "nl": "Shipping",
+            "pl": "Shipping",
+            "cs": "Shipping",
+            "sk": "Shipping",
+            "ro": "Shipping",
+            "hu": "Shipping",
+            "da": "Shipping"
+          },
+          "value": {
+            "en": "from the end of October 2026",
+            "de": "ab Ende Oktober 2026",
+            "fr": "dès fin octobre 2026",
+            "it": "da fine ottobre 2026",
+            "nl": "from the end of October 2026",
+            "pl": "from the end of October 2026",
+            "cs": "from the end of October 2026",
+            "sk": "from the end of October 2026",
+            "ro": "from the end of October 2026",
+            "hu": "from the end of October 2026",
+            "da": "from the end of October 2026"
+          }
+        },
+        {
+          "label": {
+            "en": "Issue day",
+            "de": "Ausgabetag",
+            "fr": "Jour d'émission",
+            "it": "Giorno di emissione",
+            "nl": "Issue day",
+            "pl": "Issue day",
+            "cs": "Issue day",
+            "sk": "Issue day",
+            "ro": "Issue day",
+            "hu": "Issue day",
+            "da": "Issue day"
+          },
+          "value": {
+            "en": "9 November 2026",
+            "de": "9. November 2026",
+            "fr": "9 novembre 2026",
+            "it": "9 novembre 2026",
+            "nl": "9 November 2026",
+            "pl": "9 November 2026",
+            "cs": "9 November 2026",
+            "sk": "9 November 2026",
+            "ro": "9 November 2026",
+            "hu": "9 November 2026",
+            "da": "9 November 2026"
+          }
+        },
+        {
+          "label": {
+            "en": "Christkind cancel",
+            "de": "Christkind-Stempel",
+            "fr": "Oblitération du Christkind",
+            "it": "Annullo del Christkind",
+            "nl": "Christkind cancel",
+            "pl": "Christkind cancel",
+            "cs": "Christkind cancel",
+            "sk": "Christkind cancel",
+            "ro": "Christkind cancel",
+            "hu": "Christkind cancel",
+            "da": "Christkind cancel"
+          },
+          "value": {
+            "en": "1 to 31 December 2026",
+            "de": "1. bis 31. Dezember 2026",
+            "fr": "du 1er au 31 décembre 2026",
+            "it": "dal 1° al 31 dicembre 2026",
+            "nl": "1 to 31 December 2026",
+            "pl": "1 to 31 December 2026",
+            "cs": "1 to 31 December 2026",
+            "sk": "1 to 31 December 2026",
+            "ro": "1 to 31 December 2026",
+            "hu": "1 to 31 December 2026",
+            "da": "1 to 31 December 2026"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "Ordering",
+        "de": "Bestellen",
+        "fr": "Commander",
+        "it": "Acquisto",
+        "nl": "Ordering",
+        "pl": "Ordering",
+        "cs": "Ordering",
+        "sk": "Ordering",
+        "ro": "Ordering",
+        "hu": "Ordering",
+        "da": "Ordering"
+      },
+      "title": {
+        "en": "Where to buy the stamps",
+        "de": "Wo es die Marken gibt",
+        "fr": "Où acheter les timbres",
+        "it": "Dove comprare i francobolli",
+        "nl": "Where to buy the stamps",
+        "pl": "Where to buy the stamps",
+        "cs": "Where to buy the stamps",
+        "sk": "Where to buy the stamps",
+        "ro": "Where to buy the stamps",
+        "hu": "Where to buy the stamps",
+        "da": "Where to buy the stamps"
+      },
+      "buttons": [
+        {
+          "href": "https://www.philatelie.li",
+          "label": {
+            "en": "Philatelie Liechtenstein shop",
+            "de": "Shop von Philatelie Liechtenstein",
+            "fr": "Boutique Philatelie Liechtenstein",
+            "it": "Negozio di Philatelie Liechtenstein",
+            "nl": "Philatelie Liechtenstein shop",
+            "pl": "Philatelie Liechtenstein shop",
+            "cs": "Philatelie Liechtenstein shop",
+            "sk": "Philatelie Liechtenstein shop",
+            "ro": "Philatelie Liechtenstein shop",
+            "hu": "Philatelie Liechtenstein shop",
+            "da": "Philatelie Liechtenstein shop"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stampiq",
+      "text": {
+        "en": "The November stamps from Liechtenstein are not in StampIQ yet. We add them to the catalogue after the issue day.",
+        "de": "Die Novemberausgaben aus Liechtenstein sind noch nicht in StampIQ. Wir nehmen sie nach dem Ausgabetag in den Katalog auf.",
+        "fr": "Les timbres de novembre du Liechtenstein ne sont pas encore dans StampIQ. Nous les ajoutons au catalogue après le jour d'émission.",
+        "it": "I francobolli di novembre del Liechtenstein non sono ancora in StampIQ. Li inseriamo nel catalogo dopo il giorno di emissione.",
+        "nl": "The November stamps from Liechtenstein are not in StampIQ yet. We add them to the catalogue after the issue day.",
+        "pl": "The November stamps from Liechtenstein are not in StampIQ yet. We add them to the catalogue after the issue day.",
+        "cs": "The November stamps from Liechtenstein are not in StampIQ yet. We add them to the catalogue after the issue day.",
+        "sk": "The November stamps from Liechtenstein are not in StampIQ yet. We add them to the catalogue after the issue day.",
+        "ro": "The November stamps from Liechtenstein are not in StampIQ yet. We add them to the catalogue after the issue day.",
+        "hu": "The November stamps from Liechtenstein are not in StampIQ yet. We add them to the catalogue after the issue day.",
+        "da": "The November stamps from Liechtenstein are not in StampIQ yet. We add them to the catalogue after the issue day."
+      },
+      "type": "note"
+    }
+  ]
+}
