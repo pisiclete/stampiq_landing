@@ -1,0 +1,913 @@
+{
+  "category": "new-issues",
+  "markets": [
+    "NL",
+    "BE",
+    "LU"
+  ],
+  "langs": [
+    "en",
+    "de",
+    "fr",
+    "nl"
+  ],
+  "published_at": "2026-10-17T07:00:00+00:00",
+  "thumbnail": {
+    "src": "https://assets.stampiq.io/blog/4323cbd2a341bd25/nl-2026-zilver-card-v3.png",
+    "width": 1920,
+    "height": 960
+  },
+  "languages": {
+    "en": {
+      "slug": "postnl-silver-stamps-2026",
+      "title": "PostNL's silver stamps of 2026: ships and nijntje",
+      "description": "Four Dutch ships on stamps with silver, from the tug Zwarte Zee to the Oranje Nassau, and the first PostNL sheet with two silver stamps."
+    },
+    "de": {
+      "slug": "postnl-silberbriefmarken-2026",
+      "title": "PostNL Silberbriefmarken 2026: Schiffe und nijntje",
+      "description": "Vier niederländische Schiffe auf Briefmarken mit Silber, vom Schlepper Zwarte Zee bis zur Oranje Nassau, dazu der erste PostNL-Bogen mit zwei Silbermarken."
+    },
+    "fr": {
+      "slug": "timbres-argent-postnl-2026",
+      "title": "Les timbres en argent de PostNL 2026 : navires et nijntje",
+      "description": "Quatre navires néerlandais sur des timbres en argent, du remorqueur Zwarte Zee à l'Oranje Nassau, et le premier feuillet PostNL à deux timbres en argent."
+    },
+    "it": {
+      "slug": "postnl-silver-stamps-2026",
+      "title": "PostNL's silver stamps of 2026: ships and nijntje",
+      "description": "Four Dutch ships on stamps with silver, from the tug Zwarte Zee to the Oranje Nassau, and the first PostNL sheet with two silver stamps."
+    },
+    "nl": {
+      "slug": "postnl-zilveren-postzegels-2026",
+      "title": "Zilveren postzegels van PostNL 2026: schepen en nijntje",
+      "description": "Vier Nederlandse schepen op postzegels met zilver, van sleepboot Zwarte Zee tot Oranje Nassau, en het eerste PostNL-velletje met twee zilveren postzegels."
+    },
+    "pl": {
+      "slug": "postnl-silver-stamps-2026",
+      "title": "PostNL's silver stamps of 2026: ships and nijntje",
+      "description": "Four Dutch ships on stamps with silver, from the tug Zwarte Zee to the Oranje Nassau, and the first PostNL sheet with two silver stamps."
+    },
+    "cs": {
+      "slug": "postnl-silver-stamps-2026",
+      "title": "PostNL's silver stamps of 2026: ships and nijntje",
+      "description": "Four Dutch ships on stamps with silver, from the tug Zwarte Zee to the Oranje Nassau, and the first PostNL sheet with two silver stamps."
+    },
+    "sk": {
+      "slug": "postnl-silver-stamps-2026",
+      "title": "PostNL's silver stamps of 2026: ships and nijntje",
+      "description": "Four Dutch ships on stamps with silver, from the tug Zwarte Zee to the Oranje Nassau, and the first PostNL sheet with two silver stamps."
+    },
+    "ro": {
+      "slug": "postnl-silver-stamps-2026",
+      "title": "PostNL's silver stamps of 2026: ships and nijntje",
+      "description": "Four Dutch ships on stamps with silver, from the tug Zwarte Zee to the Oranje Nassau, and the first PostNL sheet with two silver stamps."
+    },
+    "hu": {
+      "slug": "postnl-silver-stamps-2026",
+      "title": "PostNL's silver stamps of 2026: ships and nijntje",
+      "description": "Four Dutch ships on stamps with silver, from the tug Zwarte Zee to the Oranje Nassau, and the first PostNL sheet with two silver stamps."
+    },
+    "da": {
+      "slug": "postnl-silver-stamps-2026",
+      "title": "PostNL's silver stamps of 2026: ships and nijntje",
+      "description": "Four Dutch ships on stamps with silver, from the tug Zwarte Zee to the Oranje Nassau, and the first PostNL sheet with two silver stamps."
+    }
+  },
+  "header": {
+    "lead": {
+      "en": "In 2026 PostNL issues four stamps with silver, each showing a ship built in the Netherlands. In August it added its first sheet with two silver stamps: nijntje and nina on holiday.",
+      "de": "2026 gibt PostNL vier Briefmarken mit Silber heraus. Jede zeigt ein Schiff, das in den Niederlanden gebaut wurde. Im August kam der erste Bogen mit zwei Silbermarken dazu: nijntje en nina op vakantie.",
+      "fr": "En 2026, PostNL émet quatre timbres en argent, chacun consacré à un navire construit aux Pays-Bas. En août, PostNL y a ajouté son premier feuillet de deux timbres en argent : nijntje en nina op vakantie.",
+      "it": "In 2026 PostNL issues four stamps with silver, each showing a ship built in the Netherlands. In August it added its first sheet with two silver stamps: nijntje and nina on holiday.",
+      "nl": "In 2026 geeft PostNL vier postzegels met zilver uit, elk met een schip dat in Nederland is gebouwd. In augustus kwam daar het eerste velletje met twee zilveren postzegels bij: nijntje en nina op vakantie.",
+      "pl": "In 2026 PostNL issues four stamps with silver, each showing a ship built in the Netherlands. In August it added its first sheet with two silver stamps: nijntje and nina on holiday.",
+      "cs": "In 2026 PostNL issues four stamps with silver, each showing a ship built in the Netherlands. In August it added its first sheet with two silver stamps: nijntje and nina on holiday.",
+      "sk": "In 2026 PostNL issues four stamps with silver, each showing a ship built in the Netherlands. In August it added its first sheet with two silver stamps: nijntje and nina on holiday.",
+      "ro": "In 2026 PostNL issues four stamps with silver, each showing a ship built in the Netherlands. In August it added its first sheet with two silver stamps: nijntje and nina on holiday.",
+      "hu": "In 2026 PostNL issues four stamps with silver, each showing a ship built in the Netherlands. In August it added its first sheet with two silver stamps: nijntje and nina on holiday.",
+      "da": "In 2026 PostNL issues four stamps with silver, each showing a ship built in the Netherlands. In August it added its first sheet with two silver stamps: nijntje and nina on holiday."
+    },
+    "visual": {
+      "type": "stamp-fan",
+      "stamps": [
+        {
+          "name": {
+            "en": "Zwarte Zee, stamp with silver",
+            "de": "Zwarte Zee, Briefmarke mit Silber",
+            "fr": "Zwarte Zee, timbre en argent",
+            "it": "Zwarte Zee, stamp with silver",
+            "nl": "Zwarte Zee, postzegel met zilver",
+            "pl": "Zwarte Zee, stamp with silver",
+            "cs": "Zwarte Zee, stamp with silver",
+            "sk": "Zwarte Zee, stamp with silver",
+            "ro": "Zwarte Zee, stamp with silver",
+            "hu": "Zwarte Zee, stamp with silver",
+            "da": "Zwarte Zee, stamp with silver"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/661a143776165940/nl-2026-zilver-zwarte-zee-v3.png",
+            "width": 348,
+            "height": 459
+          },
+          "country": "NL",
+          "stamp_id": "nl-postnl-860025"
+        },
+        {
+          "name": {
+            "en": "Willem Ruys, stamp with silver",
+            "de": "Willem Ruys, Briefmarke mit Silber",
+            "fr": "Willem Ruys, timbre en argent",
+            "it": "Willem Ruys, stamp with silver",
+            "nl": "Willem Ruys, postzegel met zilver",
+            "pl": "Willem Ruys, stamp with silver",
+            "cs": "Willem Ruys, stamp with silver",
+            "sk": "Willem Ruys, stamp with silver",
+            "ro": "Willem Ruys, stamp with silver",
+            "hu": "Willem Ruys, stamp with silver",
+            "da": "Willem Ruys, stamp with silver"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/04f87850335a24d1/nl-2026-zilver-willem-ruys-v3.png",
+            "width": 341,
+            "height": 450
+          },
+          "country": "NL",
+          "stamp_id": "nl-postnl-860026"
+        },
+        {
+          "name": {
+            "en": "Oranje Nassau, stamp with silver",
+            "de": "Oranje Nassau, Briefmarke mit Silber",
+            "fr": "Oranje Nassau, timbre en argent",
+            "it": "Oranje Nassau, stamp with silver",
+            "nl": "Oranje Nassau, postzegel met zilver",
+            "pl": "Oranje Nassau, stamp with silver",
+            "cs": "Oranje Nassau, stamp with silver",
+            "sk": "Oranje Nassau, stamp with silver",
+            "ro": "Oranje Nassau, stamp with silver",
+            "hu": "Oranje Nassau, stamp with silver",
+            "da": "Oranje Nassau, stamp with silver"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/226b5312ff20bdcf/nl-2026-zilver-oranje-nassau-v3.png",
+            "width": 348,
+            "height": 459
+          },
+          "country": "NL",
+          "stamp_id": "nl-postnl-860027"
+        },
+        {
+          "name": {
+            "en": "nijntje en nina op vakantie, sheet with silver",
+            "de": "nijntje en nina op vakantie, Bogen mit Silber",
+            "fr": "nijntje en nina op vakantie, feuillet en argent",
+            "it": "nijntje en nina op vakantie, sheet with silver",
+            "nl": "nijntje en nina op vakantie, velletje met zilver",
+            "pl": "nijntje en nina op vakantie, sheet with silver",
+            "cs": "nijntje en nina op vakantie, sheet with silver",
+            "sk": "nijntje en nina op vakantie, sheet with silver",
+            "ro": "nijntje en nina op vakantie, sheet with silver",
+            "hu": "nijntje en nina op vakantie, sheet with silver",
+            "da": "nijntje en nina op vakantie, sheet with silver"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/67d891483ba2b469/nl-2026-zilver-nijntje-nina-vel.png",
+            "width": 1000,
+            "height": 709
+          },
+          "country": "NL",
+          "stamp_id": "nl-postnl-860020"
+        }
+      ]
+    },
+    "date_label": {
+      "en": "2026",
+      "de": "2026",
+      "fr": "2026",
+      "it": "2026",
+      "nl": "2026",
+      "pl": "2026",
+      "cs": "2026",
+      "sk": "2026",
+      "ro": "2026",
+      "hu": "2026",
+      "da": "2026"
+    }
+  },
+  "blocks": [
+    {
+      "id": "series",
+      "type": "text",
+      "label": {
+        "en": "The series",
+        "de": "Die Serie",
+        "fr": "La série",
+        "it": "The series",
+        "nl": "De serie",
+        "pl": "The series",
+        "cs": "The series",
+        "sk": "The series",
+        "ro": "The series",
+        "hu": "The series",
+        "da": "The series"
+      },
+      "title": {
+        "en": "Dutch ships in silver",
+        "de": "Niederländische Schiffe in Silber",
+        "fr": "Navires néerlandais en argent",
+        "it": "Dutch ships in silver",
+        "nl": "Nederlandse schepen in zilver",
+        "pl": "Dutch ships in silver",
+        "cs": "Dutch ships in silver",
+        "sk": "Dutch ships in silver",
+        "ro": "Dutch ships in silver",
+        "hu": "Dutch ships in silver",
+        "da": "Dutch ships in silver"
+      },
+      "paragraphs": [
+        {
+          "en": "PostNL's series Nederlandse schepen shows four ships built in the Netherlands in the 20th century: the tug Zwarte Zee, the passenger ship Willem Ruys, the Oranje Nassau and the Noord Hinder. Zwarte Zee came out in spring, Willem Ruys in June and Oranje Nassau on 25 August. Noord Hinder follows on 10 November.",
+          "de": "Die Serie Nederlandse schepen von PostNL zeigt vier Schiffe, die im 20. Jahrhundert in den Niederlanden gebaut wurden: den Schlepper Zwarte Zee, das Passagierschiff Willem Ruys, die Oranje Nassau und die Noord Hinder. Die Zwarte Zee erschien im Frühjahr, die Willem Ruys im Juni, die Oranje Nassau am 25. August. Die Noord Hinder folgt am 10. November.",
+          "fr": "La série Nederlandse schepen de PostNL présente quatre navires construits aux Pays-Bas au XXe siècle : le remorqueur Zwarte Zee, le paquebot Willem Ruys, l'Oranje Nassau et le Noord Hinder. Le Zwarte Zee est paru au printemps, le Willem Ruys en juin et l'Oranje Nassau le 25 août. Le Noord Hinder suivra le 10 novembre.",
+          "it": "PostNL's series Nederlandse schepen shows four ships built in the Netherlands in the 20th century: the tug Zwarte Zee, the passenger ship Willem Ruys, the Oranje Nassau and the Noord Hinder. Zwarte Zee came out in spring, Willem Ruys in June and Oranje Nassau on 25 August. Noord Hinder follows on 10 November.",
+          "nl": "De serie Nederlandse schepen van PostNL toont vier schepen die in de 20e eeuw in Nederland zijn gebouwd: de sleepboot Zwarte Zee, het passagiersschip Willem Ruys, de Oranje Nassau en de Noord Hinder. De Zwarte Zee verscheen in het voorjaar, de Willem Ruys in juni en de Oranje Nassau op 25 augustus. De Noord Hinder volgt op 10 november.",
+          "pl": "PostNL's series Nederlandse schepen shows four ships built in the Netherlands in the 20th century: the tug Zwarte Zee, the passenger ship Willem Ruys, the Oranje Nassau and the Noord Hinder. Zwarte Zee came out in spring, Willem Ruys in June and Oranje Nassau on 25 August. Noord Hinder follows on 10 November.",
+          "cs": "PostNL's series Nederlandse schepen shows four ships built in the Netherlands in the 20th century: the tug Zwarte Zee, the passenger ship Willem Ruys, the Oranje Nassau and the Noord Hinder. Zwarte Zee came out in spring, Willem Ruys in June and Oranje Nassau on 25 August. Noord Hinder follows on 10 November.",
+          "sk": "PostNL's series Nederlandse schepen shows four ships built in the Netherlands in the 20th century: the tug Zwarte Zee, the passenger ship Willem Ruys, the Oranje Nassau and the Noord Hinder. Zwarte Zee came out in spring, Willem Ruys in June and Oranje Nassau on 25 August. Noord Hinder follows on 10 November.",
+          "ro": "PostNL's series Nederlandse schepen shows four ships built in the Netherlands in the 20th century: the tug Zwarte Zee, the passenger ship Willem Ruys, the Oranje Nassau and the Noord Hinder. Zwarte Zee came out in spring, Willem Ruys in June and Oranje Nassau on 25 August. Noord Hinder follows on 10 November.",
+          "hu": "PostNL's series Nederlandse schepen shows four ships built in the Netherlands in the 20th century: the tug Zwarte Zee, the passenger ship Willem Ruys, the Oranje Nassau and the Noord Hinder. Zwarte Zee came out in spring, Willem Ruys in June and Oranje Nassau on 25 August. Noord Hinder follows on 10 November.",
+          "da": "PostNL's series Nederlandse schepen shows four ships built in the Netherlands in the 20th century: the tug Zwarte Zee, the passenger ship Willem Ruys, the Oranje Nassau and the Noord Hinder. Zwarte Zee came out in spring, Willem Ruys in June and Oranje Nassau on 25 August. Noord Hinder follows on 10 November."
+        },
+        {
+          "en": "Each stamp costs €25 and comes in a passe-partout cover. PostNL sells them through its Collect Club while stock lasts. The edition is limited, without a published number.",
+          "de": "Jede Briefmarke kostet 25 € und liegt in einem Passepartout-Umschlag. PostNL verkauft sie über den Collect Club, solange der Vorrat reicht. Die Auflage ist begrenzt. Eine Stückzahl wird nicht genannt.",
+          "fr": "Chaque timbre coûte 25 € et est livré sous passe-partout. PostNL les vend via son Collect Club jusqu'à épuisement des stocks. Le tirage est limité, sans chiffre communiqué.",
+          "it": "Each stamp costs €25 and comes in a passe-partout cover. PostNL sells them through its Collect Club while stock lasts. The edition is limited, without a published number.",
+          "nl": "Elke postzegel kost € 25 en wordt geleverd in een passe-partout. PostNL verkoopt ze via de Collect Club, zolang de voorraad strekt. De oplage is beperkt. Een aantal is niet bekendgemaakt.",
+          "pl": "Each stamp costs €25 and comes in a passe-partout cover. PostNL sells them through its Collect Club while stock lasts. The edition is limited, without a published number.",
+          "cs": "Each stamp costs €25 and comes in a passe-partout cover. PostNL sells them through its Collect Club while stock lasts. The edition is limited, without a published number.",
+          "sk": "Each stamp costs €25 and comes in a passe-partout cover. PostNL sells them through its Collect Club while stock lasts. The edition is limited, without a published number.",
+          "ro": "Each stamp costs €25 and comes in a passe-partout cover. PostNL sells them through its Collect Club while stock lasts. The edition is limited, without a published number.",
+          "hu": "Each stamp costs €25 and comes in a passe-partout cover. PostNL sells them through its Collect Club while stock lasts. The edition is limited, without a published number.",
+          "da": "Each stamp costs €25 and comes in a passe-partout cover. PostNL sells them through its Collect Club while stock lasts. The edition is limited, without a published number."
+        }
+      ]
+    },
+    {
+      "id": "zwarte-zee",
+      "date": {
+        "en": "Spring 2026",
+        "de": "Frühjahr 2026",
+        "fr": "Printemps 2026",
+        "it": "Spring 2026",
+        "nl": "Voorjaar 2026",
+        "pl": "Spring 2026",
+        "cs": "Spring 2026",
+        "sk": "Spring 2026",
+        "ro": "Spring 2026",
+        "hu": "Spring 2026",
+        "da": "Spring 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Zwarte Zee, stamp with silver",
+          "de": "Zwarte Zee, Briefmarke mit Silber",
+          "fr": "Zwarte Zee, timbre en argent",
+          "it": "Zwarte Zee, stamp with silver",
+          "nl": "Zwarte Zee, postzegel met zilver",
+          "pl": "Zwarte Zee, stamp with silver",
+          "cs": "Zwarte Zee, stamp with silver",
+          "sk": "Zwarte Zee, stamp with silver",
+          "ro": "Zwarte Zee, stamp with silver",
+          "hu": "Zwarte Zee, stamp with silver",
+          "da": "Zwarte Zee, stamp with silver"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/661a143776165940/nl-2026-zilver-zwarte-zee-v3.png",
+          "width": 348,
+          "height": 459
+        },
+        "country": "NL",
+        "stamp_id": "nl-postnl-860025"
+      },
+      "title": {
+        "en": "Zwarte Zee, the tug of 1933",
+        "de": "Zwarte Zee, der Schlepper von 1933",
+        "fr": "Zwarte Zee, le remorqueur de 1933",
+        "it": "Zwarte Zee, the tug of 1933",
+        "nl": "Zwarte Zee, de sleepboot uit 1933",
+        "pl": "Zwarte Zee, the tug of 1933",
+        "cs": "Zwarte Zee, the tug of 1933",
+        "sk": "Zwarte Zee, the tug of 1933",
+        "ro": "Zwarte Zee, the tug of 1933",
+        "hu": "Zwarte Zee, the tug of 1933",
+        "da": "Zwarte Zee, the tug of 1933"
+      },
+      "formats": [
+        {
+          "value": "€25.00",
+          "format": {
+            "en": "Stamp with silver in passe-partout",
+            "de": "Briefmarke mit Silber im Passepartout",
+            "fr": "Timbre en argent sous passe-partout",
+            "it": "Stamp with silver in passe-partout",
+            "nl": "Postzegel met zilver in passe-partout",
+            "pl": "Stamp with silver in passe-partout",
+            "cs": "Stamp with silver in passe-partout",
+            "sk": "Stamp with silver in passe-partout",
+            "ro": "Stamp with silver in passe-partout",
+            "hu": "Stamp with silver in passe-partout",
+            "da": "Stamp with silver in passe-partout"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "L. Smit & Zoon in Kinderdijk built the Zwarte Zee for Smit's international towing company. She was launched on 2 June 1933. Princess Juliana was on board for the first official trial trip on 3 October. She was Smit's first diesel tug: two Werkspoor engines with 4,200 horsepower together drove one propeller.",
+          "de": "L. Smit & Zoon in Kinderdijk baute die Zwarte Zee für Smits internationale Schleppreederei. Der Stapellauf war am 2. Juni 1933. Bei der ersten offiziellen Probefahrt am 3. Oktober war Prinzessin Juliana an Bord. Es war Smits erster Dieselschlepper: zwei Werkspoor-Motoren mit zusammen 4.200 PS trieben eine Schraube an.",
+          "fr": "L. Smit & Zoon, à Kinderdijk, a construit le Zwarte Zee pour la compagnie de remorquage international de Smit. Il a été lancé le 2 juin 1933. La princesse Juliana était à bord lors du premier essai officiel, le 3 octobre. C'était le premier remorqueur diesel de Smit : deux moteurs Werkspoor totalisant 4 200 chevaux entraînaient une seule hélice.",
+          "it": "L. Smit & Zoon in Kinderdijk built the Zwarte Zee for Smit's international towing company. She was launched on 2 June 1933. Princess Juliana was on board for the first official trial trip on 3 October. She was Smit's first diesel tug: two Werkspoor engines with 4,200 horsepower together drove one propeller.",
+          "nl": "L. Smit & Zoon in Kinderdijk bouwde de Zwarte Zee voor de internationale sleepdienst van Smit. Op 2 juni 1933 liep ze van stapel. Prinses Juliana was op 3 oktober aan boord tijdens de eerste officiële proefvaart. Het was de eerste dieselsleepboot van Smit: twee Werkspoor-motoren met samen 4.200 pk dreven één schroef aan.",
+          "pl": "L. Smit & Zoon in Kinderdijk built the Zwarte Zee for Smit's international towing company. She was launched on 2 June 1933. Princess Juliana was on board for the first official trial trip on 3 October. She was Smit's first diesel tug: two Werkspoor engines with 4,200 horsepower together drove one propeller.",
+          "cs": "L. Smit & Zoon in Kinderdijk built the Zwarte Zee for Smit's international towing company. She was launched on 2 June 1933. Princess Juliana was on board for the first official trial trip on 3 October. She was Smit's first diesel tug: two Werkspoor engines with 4,200 horsepower together drove one propeller.",
+          "sk": "L. Smit & Zoon in Kinderdijk built the Zwarte Zee for Smit's international towing company. She was launched on 2 June 1933. Princess Juliana was on board for the first official trial trip on 3 October. She was Smit's first diesel tug: two Werkspoor engines with 4,200 horsepower together drove one propeller.",
+          "ro": "L. Smit & Zoon in Kinderdijk built the Zwarte Zee for Smit's international towing company. She was launched on 2 June 1933. Princess Juliana was on board for the first official trial trip on 3 October. She was Smit's first diesel tug: two Werkspoor engines with 4,200 horsepower together drove one propeller.",
+          "hu": "L. Smit & Zoon in Kinderdijk built the Zwarte Zee for Smit's international towing company. She was launched on 2 June 1933. Princess Juliana was on board for the first official trial trip on 3 October. She was Smit's first diesel tug: two Werkspoor engines with 4,200 horsepower together drove one propeller.",
+          "da": "L. Smit & Zoon in Kinderdijk built the Zwarte Zee for Smit's international towing company. She was launched on 2 June 1933. Princess Juliana was on board for the first official trial trip on 3 October. She was Smit's first diesel tug: two Werkspoor engines with 4,200 horsepower together drove one propeller."
+        },
+        {
+          "en": "In May 1940 she towed the unfinished destroyer Isaac Sweers from Vlissingen to England. From February 1941 she served in the British rescue tug service as W 163. Captain Teun Vet commanded her almost without a break from 1933 to 1957.",
+          "de": "Im Mai 1940 schleppte sie den unfertigen Zerstörer Isaac Sweers von Vlissingen nach England. Ab Februar 1941 fuhr sie als W 163 im britischen Rettungsschlepperdienst. Kapitän Teun Vet führte sie von 1933 bis 1957 fast ohne Unterbrechung.",
+          "fr": "En mai 1940, il a remorqué le destroyer inachevé Isaac Sweers de Flessingue jusqu'en Angleterre. À partir de février 1941, il a servi au sein du service britannique des remorqueurs de sauvetage sous le nom de W 163. Le capitaine Teun Vet l'a commandé presque sans interruption de 1933 à 1957.",
+          "it": "In May 1940 she towed the unfinished destroyer Isaac Sweers from Vlissingen to England. From February 1941 she served in the British rescue tug service as W 163. Captain Teun Vet commanded her almost without a break from 1933 to 1957.",
+          "nl": "In mei 1940 sleepte ze de onafgebouwde torpedobootjager Isaac Sweers van Vlissingen naar Engeland. Vanaf februari 1941 voer ze als W 163 bij de Britse reddingssleepdienst. Kapitein Teun Vet voerde van 1933 tot 1957 vrijwel onafgebroken het bevel.",
+          "pl": "In May 1940 she towed the unfinished destroyer Isaac Sweers from Vlissingen to England. From February 1941 she served in the British rescue tug service as W 163. Captain Teun Vet commanded her almost without a break from 1933 to 1957.",
+          "cs": "In May 1940 she towed the unfinished destroyer Isaac Sweers from Vlissingen to England. From February 1941 she served in the British rescue tug service as W 163. Captain Teun Vet commanded her almost without a break from 1933 to 1957.",
+          "sk": "In May 1940 she towed the unfinished destroyer Isaac Sweers from Vlissingen to England. From February 1941 she served in the British rescue tug service as W 163. Captain Teun Vet commanded her almost without a break from 1933 to 1957.",
+          "ro": "In May 1940 she towed the unfinished destroyer Isaac Sweers from Vlissingen to England. From February 1941 she served in the British rescue tug service as W 163. Captain Teun Vet commanded her almost without a break from 1933 to 1957.",
+          "hu": "In May 1940 she towed the unfinished destroyer Isaac Sweers from Vlissingen to England. From February 1941 she served in the British rescue tug service as W 163. Captain Teun Vet commanded her almost without a break from 1933 to 1957.",
+          "da": "In May 1940 she towed the unfinished destroyer Isaac Sweers from Vlissingen to England. From February 1941 she served in the British rescue tug service as W 163. Captain Teun Vet commanded her almost without a break from 1933 to 1957."
+        },
+        {
+          "en": "In 1962 she was renamed Ierse Zee. The fourth Smit tug with the name Zwarte Zee, with 9,000 horsepower, followed in 1963.",
+          "de": "1962 wurde sie in Ierse Zee umbenannt. 1963 folgte der vierte Smit-Schlepper mit dem Namen Zwarte Zee, mit 9.000 PS.",
+          "fr": "En 1962, il a été rebaptisé Ierse Zee. Le quatrième remorqueur Smit portant le nom de Zwarte Zee, de 9 000 chevaux, a suivi en 1963.",
+          "it": "In 1962 she was renamed Ierse Zee. The fourth Smit tug with the name Zwarte Zee, with 9,000 horsepower, followed in 1963.",
+          "nl": "In 1962 kreeg ze de naam Ierse Zee. De vierde sleepboot van Smit met de naam Zwarte Zee, met 9.000 pk, volgde in 1963.",
+          "pl": "In 1962 she was renamed Ierse Zee. The fourth Smit tug with the name Zwarte Zee, with 9,000 horsepower, followed in 1963.",
+          "cs": "In 1962 she was renamed Ierse Zee. The fourth Smit tug with the name Zwarte Zee, with 9,000 horsepower, followed in 1963.",
+          "sk": "In 1962 she was renamed Ierse Zee. The fourth Smit tug with the name Zwarte Zee, with 9,000 horsepower, followed in 1963.",
+          "ro": "In 1962 she was renamed Ierse Zee. The fourth Smit tug with the name Zwarte Zee, with 9,000 horsepower, followed in 1963.",
+          "hu": "In 1962 she was renamed Ierse Zee. The fourth Smit tug with the name Zwarte Zee, with 9,000 horsepower, followed in 1963.",
+          "da": "In 1962 she was renamed Ierse Zee. The fourth Smit tug with the name Zwarte Zee, with 9,000 horsepower, followed in 1963."
+        }
+      ]
+    },
+    {
+      "id": "photo-1933",
+      "type": "wide-photo",
+      "image": {
+        "src": "https://assets.stampiq.io/blog/54ce6d42cf720037/zwarte-zee-1933.jpg",
+        "width": 2400,
+        "credit": "Photo: Willem van de Poll, Nationaal Archief, CC0",
+        "height": 1805,
+        "caption": {
+          "en": "The Zwarte Zee in 1933, probably on the North Sea Canal",
+          "de": "Die Zwarte Zee 1933, vermutlich auf dem Nordseekanal",
+          "fr": "Le Zwarte Zee en 1933, probablement sur le canal de la mer du Nord",
+          "it": "The Zwarte Zee in 1933, probably on the North Sea Canal",
+          "nl": "De Zwarte Zee in 1933, waarschijnlijk op het Noordzeekanaal",
+          "pl": "The Zwarte Zee in 1933, probably on the North Sea Canal",
+          "cs": "The Zwarte Zee in 1933, probably on the North Sea Canal",
+          "sk": "The Zwarte Zee in 1933, probably on the North Sea Canal",
+          "ro": "The Zwarte Zee in 1933, probably on the North Sea Canal",
+          "hu": "The Zwarte Zee in 1933, probably on the North Sea Canal",
+          "da": "The Zwarte Zee in 1933, probably on the North Sea Canal"
+        },
+        "source_url": "https://commons.wikimedia.org/wiki/File:Sleepboot_Zwarte_Zee,_waarschijnlijk_op_het_Noordzeekanaal,_Bestanddeelnr_189-0850.jpg"
+      }
+    },
+    {
+      "id": "willem-ruys",
+      "date": {
+        "en": "June 2026",
+        "de": "Juni 2026",
+        "fr": "Juin 2026",
+        "it": "June 2026",
+        "nl": "Juni 2026",
+        "pl": "June 2026",
+        "cs": "June 2026",
+        "sk": "June 2026",
+        "ro": "June 2026",
+        "hu": "June 2026",
+        "da": "June 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Willem Ruys, stamp with silver",
+          "de": "Willem Ruys, Briefmarke mit Silber",
+          "fr": "Willem Ruys, timbre en argent",
+          "it": "Willem Ruys, stamp with silver",
+          "nl": "Willem Ruys, postzegel met zilver",
+          "pl": "Willem Ruys, stamp with silver",
+          "cs": "Willem Ruys, stamp with silver",
+          "sk": "Willem Ruys, stamp with silver",
+          "ro": "Willem Ruys, stamp with silver",
+          "hu": "Willem Ruys, stamp with silver",
+          "da": "Willem Ruys, stamp with silver"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/04f87850335a24d1/nl-2026-zilver-willem-ruys-v3.png",
+          "width": 341,
+          "height": 450
+        },
+        "country": "NL",
+        "stamp_id": "nl-postnl-860026"
+      },
+      "title": {
+        "en": "Willem Ruys, built in Vlissingen",
+        "de": "Willem Ruys, gebaut in Vlissingen",
+        "fr": "Willem Ruys, construit à Flessingue",
+        "it": "Willem Ruys, built in Vlissingen",
+        "nl": "Willem Ruys, gebouwd in Vlissingen",
+        "pl": "Willem Ruys, built in Vlissingen",
+        "cs": "Willem Ruys, built in Vlissingen",
+        "sk": "Willem Ruys, built in Vlissingen",
+        "ro": "Willem Ruys, built in Vlissingen",
+        "hu": "Willem Ruys, built in Vlissingen",
+        "da": "Willem Ruys, built in Vlissingen"
+      },
+      "formats": [
+        {
+          "value": "€25.00",
+          "format": {
+            "en": "Stamp with silver in passe-partout",
+            "de": "Briefmarke mit Silber im Passepartout",
+            "fr": "Timbre en argent sous passe-partout",
+            "it": "Stamp with silver in passe-partout",
+            "nl": "Postzegel met zilver in passe-partout",
+            "pl": "Stamp with silver in passe-partout",
+            "cs": "Stamp with silver in passe-partout",
+            "sk": "Stamp with silver in passe-partout",
+            "ro": "Stamp with silver in passe-partout",
+            "hu": "Stamp with silver in passe-partout",
+            "da": "Stamp with silver in passe-partout"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "The Rotterdamsche Lloyd ordered the passenger ship in 1938 from the De Schelde yard in Vlissingen. The war stopped the work. The hull stood on the slipway in the middle of Vlissingen for seven and a half years. When the dikes of Walcheren were bombed in 1944 and much of the island flooded, her lifeboats were used for transport across the water.",
+          "de": "Der Rotterdamsche Lloyd bestellte das Passagierschiff 1938 bei der Werft De Schelde in Vlissingen. Der Krieg stoppte die Arbeiten. Siebeneinhalb Jahre stand der Rumpf mitten in Vlissingen auf der Helling. Als 1944 die Deiche von Walcheren bombardiert wurden und große Teile der Insel unter Wasser standen, wurden ihre Rettungsboote zum Transport über das Wasser eingesetzt.",
+          "fr": "La Rotterdamsche Lloyd a commandé le paquebot en 1938 au chantier De Schelde, à Flessingue. La guerre a interrompu les travaux. La coque est restée sept ans et demi sur la cale, en plein centre de Flessingue. Quand les digues de Walcheren ont été bombardées en 1944 et qu'une grande partie de l'île s'est retrouvée sous l'eau, ses canots de sauvetage ont servi aux transports sur l'eau.",
+          "it": "The Rotterdamsche Lloyd ordered the passenger ship in 1938 from the De Schelde yard in Vlissingen. The war stopped the work. The hull stood on the slipway in the middle of Vlissingen for seven and a half years. When the dikes of Walcheren were bombed in 1944 and much of the island flooded, her lifeboats were used for transport across the water.",
+          "nl": "De Rotterdamsche Lloyd bestelde het passagiersschip in 1938 bij werf De Schelde in Vlissingen. Door de oorlog viel het werk stil. De romp stond zeven en een half jaar op de helling midden in Vlissingen. Toen de dijken van Walcheren in 1944 werden gebombardeerd en een groot deel van het eiland onder water liep, werden haar reddingsboten gebruikt voor vervoer over water.",
+          "pl": "The Rotterdamsche Lloyd ordered the passenger ship in 1938 from the De Schelde yard in Vlissingen. The war stopped the work. The hull stood on the slipway in the middle of Vlissingen for seven and a half years. When the dikes of Walcheren were bombed in 1944 and much of the island flooded, her lifeboats were used for transport across the water.",
+          "cs": "The Rotterdamsche Lloyd ordered the passenger ship in 1938 from the De Schelde yard in Vlissingen. The war stopped the work. The hull stood on the slipway in the middle of Vlissingen for seven and a half years. When the dikes of Walcheren were bombed in 1944 and much of the island flooded, her lifeboats were used for transport across the water.",
+          "sk": "The Rotterdamsche Lloyd ordered the passenger ship in 1938 from the De Schelde yard in Vlissingen. The war stopped the work. The hull stood on the slipway in the middle of Vlissingen for seven and a half years. When the dikes of Walcheren were bombed in 1944 and much of the island flooded, her lifeboats were used for transport across the water.",
+          "ro": "The Rotterdamsche Lloyd ordered the passenger ship in 1938 from the De Schelde yard in Vlissingen. The war stopped the work. The hull stood on the slipway in the middle of Vlissingen for seven and a half years. When the dikes of Walcheren were bombed in 1944 and much of the island flooded, her lifeboats were used for transport across the water.",
+          "hu": "The Rotterdamsche Lloyd ordered the passenger ship in 1938 from the De Schelde yard in Vlissingen. The war stopped the work. The hull stood on the slipway in the middle of Vlissingen for seven and a half years. When the dikes of Walcheren were bombed in 1944 and much of the island flooded, her lifeboats were used for transport across the water.",
+          "da": "The Rotterdamsche Lloyd ordered the passenger ship in 1938 from the De Schelde yard in Vlissingen. The war stopped the work. The hull stood on the slipway in the middle of Vlissingen for seven and a half years. When the dikes of Walcheren were bombed in 1944 and much of the island flooded, her lifeboats were used for transport across the water."
+        },
+        {
+          "en": "She was launched on 1 July 1946. Her name honours Willem Ruys, a director of the Lloyd who was in the resistance and was executed in 1942.",
+          "de": "Der Stapellauf war am 1. Juli 1946. Der Name erinnert an Willem Ruys, einen Direktor des Lloyd, der im Widerstand war und 1942 hingerichtet wurde.",
+          "fr": "Le lancement a eu lieu le 1er juillet 1946. Son nom rend hommage à Willem Ruys, un directeur de la Lloyd entré dans la résistance et exécuté en 1942.",
+          "it": "She was launched on 1 July 1946. Her name honours Willem Ruys, a director of the Lloyd who was in the resistance and was executed in 1942.",
+          "nl": "Op 1 juli 1946 liep ze van stapel. Haar naam verwijst naar Willem Ruys, directeur van de Lloyd, die in het verzet zat en in 1942 werd geëxecuteerd.",
+          "pl": "She was launched on 1 July 1946. Her name honours Willem Ruys, a director of the Lloyd who was in the resistance and was executed in 1942.",
+          "cs": "She was launched on 1 July 1946. Her name honours Willem Ruys, a director of the Lloyd who was in the resistance and was executed in 1942.",
+          "sk": "She was launched on 1 July 1946. Her name honours Willem Ruys, a director of the Lloyd who was in the resistance and was executed in 1942.",
+          "ro": "She was launched on 1 July 1946. Her name honours Willem Ruys, a director of the Lloyd who was in the resistance and was executed in 1942.",
+          "hu": "She was launched on 1 July 1946. Her name honours Willem Ruys, a director of the Lloyd who was in the resistance and was executed in 1942.",
+          "da": "She was launched on 1 July 1946. Her name honours Willem Ruys, a director of the Lloyd who was in the resistance and was executed in 1942."
+        },
+        {
+          "en": "In 1964 she was rebuilt and renamed Achille Lauro. She sank off Somalia on 2 December 1994.",
+          "de": "1964 wurde sie umgebaut und in Achille Lauro umbenannt. Am 2. Dezember 1994 sank sie vor Somalia.",
+          "fr": "En 1964, il a été transformé et rebaptisé Achille Lauro. Il a coulé au large de la Somalie le 2 décembre 1994.",
+          "it": "In 1964 she was rebuilt and renamed Achille Lauro. She sank off Somalia on 2 December 1994.",
+          "nl": "In 1964 werd ze verbouwd en omgedoopt tot Achille Lauro. Op 2 december 1994 zonk ze voor de kust van Somalië.",
+          "pl": "In 1964 she was rebuilt and renamed Achille Lauro. She sank off Somalia on 2 December 1994.",
+          "cs": "In 1964 she was rebuilt and renamed Achille Lauro. She sank off Somalia on 2 December 1994.",
+          "sk": "In 1964 she was rebuilt and renamed Achille Lauro. She sank off Somalia on 2 December 1994.",
+          "ro": "In 1964 she was rebuilt and renamed Achille Lauro. She sank off Somalia on 2 December 1994.",
+          "hu": "In 1964 she was rebuilt and renamed Achille Lauro. She sank off Somalia on 2 December 1994.",
+          "da": "In 1964 she was rebuilt and renamed Achille Lauro. She sank off Somalia on 2 December 1994."
+        }
+      ]
+    },
+    {
+      "id": "oranje-nassau",
+      "date": {
+        "en": "25 August 2026",
+        "de": "25. August 2026",
+        "fr": "25 août 2026",
+        "it": "25 August 2026",
+        "nl": "25 augustus 2026",
+        "pl": "25 August 2026",
+        "cs": "25 August 2026",
+        "sk": "25 August 2026",
+        "ro": "25 August 2026",
+        "hu": "25 August 2026",
+        "da": "25 August 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Oranje Nassau, stamp with silver",
+          "de": "Oranje Nassau, Briefmarke mit Silber",
+          "fr": "Oranje Nassau, timbre en argent",
+          "it": "Oranje Nassau, stamp with silver",
+          "nl": "Oranje Nassau, postzegel met zilver",
+          "pl": "Oranje Nassau, stamp with silver",
+          "cs": "Oranje Nassau, stamp with silver",
+          "sk": "Oranje Nassau, stamp with silver",
+          "ro": "Oranje Nassau, stamp with silver",
+          "hu": "Oranje Nassau, stamp with silver",
+          "da": "Oranje Nassau, stamp with silver"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/226b5312ff20bdcf/nl-2026-zilver-oranje-nassau-v3.png",
+          "width": 348,
+          "height": 459
+        },
+        "country": "NL",
+        "stamp_id": "nl-postnl-860027"
+      },
+      "title": {
+        "en": "Oranje Nassau, to the Caribbean and Suriname",
+        "de": "Oranje Nassau, in die Karibik und nach Suriname",
+        "fr": "Oranje Nassau, vers les Caraïbes et le Suriname",
+        "it": "Oranje Nassau, to the Caribbean and Suriname",
+        "nl": "Oranje Nassau, naar de Caraïben en Suriname",
+        "pl": "Oranje Nassau, to the Caribbean and Suriname",
+        "cs": "Oranje Nassau, to the Caribbean and Suriname",
+        "sk": "Oranje Nassau, to the Caribbean and Suriname",
+        "ro": "Oranje Nassau, to the Caribbean and Suriname",
+        "hu": "Oranje Nassau, to the Caribbean and Suriname",
+        "da": "Oranje Nassau, to the Caribbean and Suriname"
+      },
+      "formats": [
+        {
+          "value": "€25.00",
+          "format": {
+            "en": "Stamp with silver in passe-partout",
+            "de": "Briefmarke mit Silber im Passepartout",
+            "fr": "Timbre en argent sous passe-partout",
+            "it": "Stamp with silver in passe-partout",
+            "nl": "Postzegel met zilver in passe-partout",
+            "pl": "Stamp with silver in passe-partout",
+            "cs": "Stamp with silver in passe-partout",
+            "sk": "Stamp with silver in passe-partout",
+            "ro": "Stamp with silver in passe-partout",
+            "hu": "Stamp with silver in passe-partout",
+            "da": "Stamp with silver in passe-partout"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "The Gebroeders Pot yard in Bolnes, near Rotterdam, launched the Oranje Nassau on 26 January 1957. She went to the Koninklijke Nederlandse Stoomboot Maatschappij, the KNSM, in August of that year. The ship carried cargo and passengers, with a saloon of 94 seats and a deck for children.",
+          "de": "Bei der Werft Gebroeders Pot in Bolnes bei Rotterdam lief die Oranje Nassau am 26. Januar 1957 vom Stapel. Im August desselben Jahres ging sie an die Koninklijke Nederlandse Stoomboot Maatschappij, die KNSM. Das Schiff nahm Fracht und Passagiere mit. An Bord gab es einen Salon für 94 Personen und ein Deck für Kinder.",
+          "fr": "Le chantier Gebroeders Pot, à Bolnes près de Rotterdam, a lancé l'Oranje Nassau le 26 janvier 1957. En août de la même année, le navire est entré en service pour la Koninklijke Nederlandse Stoomboot Maatschappij, la KNSM. Il transportait du fret et des passagers, avec un salon de 94 places et un pont pour les enfants.",
+          "it": "The Gebroeders Pot yard in Bolnes, near Rotterdam, launched the Oranje Nassau on 26 January 1957. She went to the Koninklijke Nederlandse Stoomboot Maatschappij, the KNSM, in August of that year. The ship carried cargo and passengers, with a saloon of 94 seats and a deck for children.",
+          "nl": "Werf Gebroeders Pot in Bolnes bij Rotterdam liet de Oranje Nassau op 26 januari 1957 te water. In augustus van dat jaar ging ze naar de Koninklijke Nederlandse Stoomboot Maatschappij, de KNSM. Het schip vervoerde vracht en passagiers. Aan boord waren een salon met 94 zitplaatsen en een dek voor kinderen.",
+          "pl": "The Gebroeders Pot yard in Bolnes, near Rotterdam, launched the Oranje Nassau on 26 January 1957. She went to the Koninklijke Nederlandse Stoomboot Maatschappij, the KNSM, in August of that year. The ship carried cargo and passengers, with a saloon of 94 seats and a deck for children.",
+          "cs": "The Gebroeders Pot yard in Bolnes, near Rotterdam, launched the Oranje Nassau on 26 January 1957. She went to the Koninklijke Nederlandse Stoomboot Maatschappij, the KNSM, in August of that year. The ship carried cargo and passengers, with a saloon of 94 seats and a deck for children.",
+          "sk": "The Gebroeders Pot yard in Bolnes, near Rotterdam, launched the Oranje Nassau on 26 January 1957. She went to the Koninklijke Nederlandse Stoomboot Maatschappij, the KNSM, in August of that year. The ship carried cargo and passengers, with a saloon of 94 seats and a deck for children.",
+          "ro": "The Gebroeders Pot yard in Bolnes, near Rotterdam, launched the Oranje Nassau on 26 January 1957. She went to the Koninklijke Nederlandse Stoomboot Maatschappij, the KNSM, in August of that year. The ship carried cargo and passengers, with a saloon of 94 seats and a deck for children.",
+          "hu": "The Gebroeders Pot yard in Bolnes, near Rotterdam, launched the Oranje Nassau on 26 January 1957. She went to the Koninklijke Nederlandse Stoomboot Maatschappij, the KNSM, in August of that year. The ship carried cargo and passengers, with a saloon of 94 seats and a deck for children.",
+          "da": "The Gebroeders Pot yard in Bolnes, near Rotterdam, launched the Oranje Nassau on 26 January 1957. She went to the Koninklijke Nederlandse Stoomboot Maatschappij, the KNSM, in August of that year. The ship carried cargo and passengers, with a saloon of 94 seats and a deck for children."
+        },
+        {
+          "en": "She sailed from Amsterdam to the Caribbean and to Suriname, calling at Curaçao, Aruba, Paramaribo and Georgetown among other ports. Her sister ship was the Prins der Nederlanden. In winter she was often booked for a cruise of 34 days.",
+          "de": "Sie fuhr von Amsterdam in die Karibik und nach Suriname, unter anderem nach Curaçao, Aruba, Paramaribo und Georgetown. Ihr Schwesterschiff war die Prins der Nederlanden. Im Winter war sie oft für eine Kreuzfahrt von 34 Tagen gebucht.",
+          "fr": "Il reliait Amsterdam aux Caraïbes et au Suriname, avec des escales à Curaçao, Aruba, Paramaribo et Georgetown, entre autres. Son navire jumeau était le Prins der Nederlanden. En hiver, il était souvent réservé pour une croisière de 34 jours.",
+          "it": "She sailed from Amsterdam to the Caribbean and to Suriname, calling at Curaçao, Aruba, Paramaribo and Georgetown among other ports. Her sister ship was the Prins der Nederlanden. In winter she was often booked for a cruise of 34 days.",
+          "nl": "Ze voer van Amsterdam naar de Caraïben en naar Suriname, met aanloophavens als Curaçao, Aruba, Paramaribo en Georgetown. Haar zusterschip was de Prins der Nederlanden. In de winter werd ze vaak ingezet voor een cruise van 34 dagen.",
+          "pl": "She sailed from Amsterdam to the Caribbean and to Suriname, calling at Curaçao, Aruba, Paramaribo and Georgetown among other ports. Her sister ship was the Prins der Nederlanden. In winter she was often booked for a cruise of 34 days.",
+          "cs": "She sailed from Amsterdam to the Caribbean and to Suriname, calling at Curaçao, Aruba, Paramaribo and Georgetown among other ports. Her sister ship was the Prins der Nederlanden. In winter she was often booked for a cruise of 34 days.",
+          "sk": "She sailed from Amsterdam to the Caribbean and to Suriname, calling at Curaçao, Aruba, Paramaribo and Georgetown among other ports. Her sister ship was the Prins der Nederlanden. In winter she was often booked for a cruise of 34 days.",
+          "ro": "She sailed from Amsterdam to the Caribbean and to Suriname, calling at Curaçao, Aruba, Paramaribo and Georgetown among other ports. Her sister ship was the Prins der Nederlanden. In winter she was often booked for a cruise of 34 days.",
+          "hu": "She sailed from Amsterdam to the Caribbean and to Suriname, calling at Curaçao, Aruba, Paramaribo and Georgetown among other ports. Her sister ship was the Prins der Nederlanden. In winter she was often booked for a cruise of 34 days.",
+          "da": "She sailed from Amsterdam to the Caribbean and to Suriname, calling at Curaçao, Aruba, Paramaribo and Georgetown among other ports. Her sister ship was the Prins der Nederlanden. In winter she was often booked for a cruise of 34 days."
+        },
+        {
+          "en": "In 1973 she was sold to Cuba and renamed XX Aniversario. She was broken up at Alang in India in 1990.",
+          "de": "1973 wurde sie nach Kuba verkauft und in XX Aniversario umbenannt. 1990 wurde sie in Alang in Indien abgewrackt.",
+          "fr": "En 1973, il a été vendu à Cuba et rebaptisé XX Aniversario. Il a été démoli à Alang, en Inde, en 1990.",
+          "it": "In 1973 she was sold to Cuba and renamed XX Aniversario. She was broken up at Alang in India in 1990.",
+          "nl": "In 1973 werd ze verkocht aan Cuba en omgedoopt tot XX Aniversario. In 1990 werd ze gesloopt in Alang in India.",
+          "pl": "In 1973 she was sold to Cuba and renamed XX Aniversario. She was broken up at Alang in India in 1990.",
+          "cs": "In 1973 she was sold to Cuba and renamed XX Aniversario. She was broken up at Alang in India in 1990.",
+          "sk": "In 1973 she was sold to Cuba and renamed XX Aniversario. She was broken up at Alang in India in 1990.",
+          "ro": "In 1973 she was sold to Cuba and renamed XX Aniversario. She was broken up at Alang in India in 1990.",
+          "hu": "In 1973 she was sold to Cuba and renamed XX Aniversario. She was broken up at Alang in India in 1990.",
+          "da": "In 1973 she was sold to Cuba and renamed XX Aniversario. She was broken up at Alang in India in 1990."
+        }
+      ]
+    },
+    {
+      "id": "nijntje",
+      "date": {
+        "en": "12 August 2026",
+        "de": "12. August 2026",
+        "fr": "12 août 2026",
+        "it": "12 August 2026",
+        "nl": "12 augustus 2026",
+        "pl": "12 August 2026",
+        "cs": "12 August 2026",
+        "sk": "12 August 2026",
+        "ro": "12 August 2026",
+        "hu": "12 August 2026",
+        "da": "12 August 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "nijntje en nina op vakantie, sheet with silver",
+          "de": "nijntje en nina op vakantie, Bogen mit Silber",
+          "fr": "nijntje en nina op vakantie, feuillet en argent",
+          "it": "nijntje en nina op vakantie, sheet with silver",
+          "nl": "nijntje en nina op vakantie, velletje met zilver",
+          "pl": "nijntje en nina op vakantie, sheet with silver",
+          "cs": "nijntje en nina op vakantie, sheet with silver",
+          "sk": "nijntje en nina op vakantie, sheet with silver",
+          "ro": "nijntje en nina op vakantie, sheet with silver",
+          "hu": "nijntje en nina op vakantie, sheet with silver",
+          "da": "nijntje en nina op vakantie, sheet with silver"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/67d891483ba2b469/nl-2026-zilver-nijntje-nina-vel.png",
+          "width": 1000,
+          "height": 709
+        },
+        "country": "NL",
+        "stamp_id": "nl-postnl-860020"
+      },
+      "title": {
+        "en": "nijntje and nina in silver",
+        "de": "nijntje und nina in Silber",
+        "fr": "nijntje et nina en argent",
+        "it": "nijntje and nina in silver",
+        "nl": "nijntje en nina in zilver",
+        "pl": "nijntje and nina in silver",
+        "cs": "nijntje and nina in silver",
+        "sk": "nijntje and nina in silver",
+        "ro": "nijntje and nina in silver",
+        "hu": "nijntje and nina in silver",
+        "da": "nijntje and nina in silver"
+      },
+      "formats": [
+        {
+          "value": "€75.00",
+          "format": {
+            "en": "Sheet of two silver stamps, in packaging with certificate",
+            "de": "Bogen mit zwei Silbermarken, in Verpackung mit Zertifikat",
+            "fr": "Feuillet de deux timbres en argent, sous emballage avec certificat",
+            "it": "Sheet of two silver stamps, in packaging with certificate",
+            "nl": "Velletje met twee zilveren postzegels, in verpakking met certificaat",
+            "pl": "Sheet of two silver stamps, in packaging with certificate",
+            "cs": "Sheet of two silver stamps, in packaging with certificate",
+            "sk": "Sheet of two silver stamps, in packaging with certificate",
+            "ro": "Sheet of two silver stamps, in packaging with certificate",
+            "hu": "Sheet of two silver stamps, in packaging with certificate",
+            "da": "Sheet of two silver stamps, in packaging with certificate"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "This is the first PostNL sheet with two stamps with silver. Until now PostNL had issued only single silver stamps. The edition is limited, without a published number.",
+          "de": "Es ist der erste PostNL-Bogen mit zwei Silbermarken. Bisher hatte PostNL nur einzelne Silbermarken herausgegeben. Die Auflage ist begrenzt. Eine Stückzahl wird nicht genannt.",
+          "fr": "C'est le premier feuillet de PostNL avec deux timbres en argent. Jusque-là, PostNL n'avait émis des timbres en argent qu'à l'unité. Le tirage est limité, sans chiffre communiqué.",
+          "it": "This is the first PostNL sheet with two stamps with silver. Until now PostNL had issued only single silver stamps. The edition is limited, without a published number.",
+          "nl": "Dit is het eerste velletje van PostNL met twee zilveren postzegels. Tot nu toe gaf PostNL alleen losse postzegels met zilver uit. De oplage is beperkt. Een aantal is niet bekendgemaakt.",
+          "pl": "This is the first PostNL sheet with two stamps with silver. Until now PostNL had issued only single silver stamps. The edition is limited, without a published number.",
+          "cs": "This is the first PostNL sheet with two stamps with silver. Until now PostNL had issued only single silver stamps. The edition is limited, without a published number.",
+          "sk": "This is the first PostNL sheet with two stamps with silver. Until now PostNL had issued only single silver stamps. The edition is limited, without a published number.",
+          "ro": "This is the first PostNL sheet with two stamps with silver. Until now PostNL had issued only single silver stamps. The edition is limited, without a published number.",
+          "hu": "This is the first PostNL sheet with two stamps with silver. Until now PostNL had issued only single silver stamps. The edition is limited, without a published number.",
+          "da": "This is the first PostNL sheet with two stamps with silver. Until now PostNL had issued only single silver stamps. The edition is limited, without a published number."
+        },
+        {
+          "en": "Mariëlla Ostendorf of Mercis, which looks after more than 4,000 drawings by Dick Bruna, chose summer pictures because the sheet came out at the start of the summer. nijntje with her spade and bucket, the shells and the kites come from the book \"nijntje aan zee\" of 1963. nina, the brown rabbit, comes from \"nijntje en nina\" of 1999.",
+          "de": "Mariëlla Ostendorf von Mercis, wo über 4.000 Zeichnungen von Dick Bruna betreut werden, wählte Sommermotive, weil der Bogen zum Sommeranfang erschien. nijntje mit Schaufel und Eimer, die Muscheln und die Drachen stammen aus dem Buch „nijntje aan zee“ von 1963. nina, das braune Kaninchen, kommt aus „nijntje en nina“ von 1999.",
+          "fr": "Mariëlla Ostendorf, de Mercis, qui veille sur plus de 4 000 dessins de Dick Bruna, a choisi des images d'été parce que le feuillet paraissait au début de l'été. nijntje avec sa pelle et son seau, les coquillages et les cerfs-volants viennent du livre « nijntje aan zee » de 1963. nina, le lapin brun, vient de « nijntje en nina » de 1999.",
+          "it": "Mariëlla Ostendorf of Mercis, which looks after more than 4,000 drawings by Dick Bruna, chose summer pictures because the sheet came out at the start of the summer. nijntje with her spade and bucket, the shells and the kites come from the book \"nijntje aan zee\" of 1963. nina, the brown rabbit, comes from \"nijntje en nina\" of 1999.",
+          "nl": "Mariëlla Ostendorf van Mercis, dat meer dan 4.000 tekeningen van Dick Bruna beheert, koos zomerse prenten, omdat het velletje aan het begin van de zomer verscheen. nijntje met haar schepje en emmertje, de schelpen en de vliegers komen uit het boek „nijntje aan zee” uit 1963. nina, het bruine konijn, komt uit „nijntje en nina” uit 1999.",
+          "pl": "Mariëlla Ostendorf of Mercis, which looks after more than 4,000 drawings by Dick Bruna, chose summer pictures because the sheet came out at the start of the summer. nijntje with her spade and bucket, the shells and the kites come from the book \"nijntje aan zee\" of 1963. nina, the brown rabbit, comes from \"nijntje en nina\" of 1999.",
+          "cs": "Mariëlla Ostendorf of Mercis, which looks after more than 4,000 drawings by Dick Bruna, chose summer pictures because the sheet came out at the start of the summer. nijntje with her spade and bucket, the shells and the kites come from the book \"nijntje aan zee\" of 1963. nina, the brown rabbit, comes from \"nijntje en nina\" of 1999.",
+          "sk": "Mariëlla Ostendorf of Mercis, which looks after more than 4,000 drawings by Dick Bruna, chose summer pictures because the sheet came out at the start of the summer. nijntje with her spade and bucket, the shells and the kites come from the book \"nijntje aan zee\" of 1963. nina, the brown rabbit, comes from \"nijntje en nina\" of 1999.",
+          "ro": "Mariëlla Ostendorf of Mercis, which looks after more than 4,000 drawings by Dick Bruna, chose summer pictures because the sheet came out at the start of the summer. nijntje with her spade and bucket, the shells and the kites come from the book \"nijntje aan zee\" of 1963. nina, the brown rabbit, comes from \"nijntje en nina\" of 1999.",
+          "hu": "Mariëlla Ostendorf of Mercis, which looks after more than 4,000 drawings by Dick Bruna, chose summer pictures because the sheet came out at the start of the summer. nijntje with her spade and bucket, the shells and the kites come from the book \"nijntje aan zee\" of 1963. nina, the brown rabbit, comes from \"nijntje en nina\" of 1999.",
+          "da": "Mariëlla Ostendorf of Mercis, which looks after more than 4,000 drawings by Dick Bruna, chose summer pictures because the sheet came out at the start of the summer. nijntje with her spade and bucket, the shells and the kites come from the book \"nijntje aan zee\" of 1963. nina, the brown rabbit, comes from \"nijntje en nina\" of 1999."
+        },
+        {
+          "en": "Frank Janse used matte silver for the stamps. Only the word Nederland, the 1, the small hook in the corner and the copyright line are in glossy silver. In 2020 PostNL issued a stamp in gold for 65 years of nijntje.",
+          "de": "Frank Janse verwendete für die Marken mattes Silber. Nur das Wort Nederland, die 1, der kleine Haken in der Ecke und die Copyright-Zeile sind in glänzendem Silber. Zum 65. Jubiläum von nijntje gab PostNL 2020 eine Briefmarke in Gold heraus.",
+          "fr": "Frank Janse a utilisé un argent mat pour les timbres. Seuls le mot Nederland, le 1, le petit crochet dans le coin et la ligne de copyright sont en argent brillant. En 2020, PostNL avait émis un timbre en or pour les 65 ans de nijntje.",
+          "it": "Frank Janse used matte silver for the stamps. Only the word Nederland, the 1, the small hook in the corner and the copyright line are in glossy silver. In 2020 PostNL issued a stamp in gold for 65 years of nijntje.",
+          "nl": "Frank Janse gebruikte mat zilver voor de postzegels. Alleen het woord Nederland, de 1, het kleine haakje in de hoek en de copyrightregel zijn in glanzend zilver. In 2020 gaf PostNL een postzegel in goud uit voor 65 jaar nijntje.",
+          "pl": "Frank Janse used matte silver for the stamps. Only the word Nederland, the 1, the small hook in the corner and the copyright line are in glossy silver. In 2020 PostNL issued a stamp in gold for 65 years of nijntje.",
+          "cs": "Frank Janse used matte silver for the stamps. Only the word Nederland, the 1, the small hook in the corner and the copyright line are in glossy silver. In 2020 PostNL issued a stamp in gold for 65 years of nijntje.",
+          "sk": "Frank Janse used matte silver for the stamps. Only the word Nederland, the 1, the small hook in the corner and the copyright line are in glossy silver. In 2020 PostNL issued a stamp in gold for 65 years of nijntje.",
+          "ro": "Frank Janse used matte silver for the stamps. Only the word Nederland, the 1, the small hook in the corner and the copyright line are in glossy silver. In 2020 PostNL issued a stamp in gold for 65 years of nijntje.",
+          "hu": "Frank Janse used matte silver for the stamps. Only the word Nederland, the 1, the small hook in the corner and the copyright line are in glossy silver. In 2020 PostNL issued a stamp in gold for 65 years of nijntje.",
+          "da": "Frank Janse used matte silver for the stamps. Only the word Nederland, the 1, the small hook in the corner and the copyright line are in glossy silver. In 2020 PostNL issued a stamp in gold for 65 years of nijntje."
+        }
+      ]
+    },
+    {
+      "id": "ordering",
+      "rows": [
+        {
+          "label": {
+            "en": "Online",
+            "de": "Online",
+            "fr": "En ligne",
+            "it": "Online",
+            "nl": "Online",
+            "pl": "Online",
+            "cs": "Online",
+            "sk": "Online",
+            "ro": "Online",
+            "hu": "Online",
+            "da": "Online"
+          },
+          "value": {
+            "en": "PostNL Collect Club shop",
+            "de": "Shop des PostNL Collect Club",
+            "fr": "Boutique Collect Club de PostNL",
+            "it": "PostNL Collect Club shop",
+            "nl": "Webshop van de PostNL Collect Club",
+            "pl": "PostNL Collect Club shop",
+            "cs": "PostNL Collect Club shop",
+            "sk": "PostNL Collect Club shop",
+            "ro": "PostNL Collect Club shop",
+            "hu": "PostNL Collect Club shop",
+            "da": "PostNL Collect Club shop"
+          }
+        },
+        {
+          "label": {
+            "en": "By phone",
+            "de": "Telefonisch",
+            "fr": "Par téléphone",
+            "it": "By phone",
+            "nl": "Telefonisch",
+            "pl": "By phone",
+            "cs": "By phone",
+            "sk": "By phone",
+            "ro": "By phone",
+            "hu": "By phone",
+            "da": "By phone"
+          },
+          "value": {
+            "en": "Collect Club, 088 868 99 00",
+            "de": "Collect Club, 088 868 99 00",
+            "fr": "Collect Club, 088 868 99 00",
+            "it": "Collect Club, 088 868 99 00",
+            "nl": "Collect Club, 088 868 99 00",
+            "pl": "Collect Club, 088 868 99 00",
+            "cs": "Collect Club, 088 868 99 00",
+            "sk": "Collect Club, 088 868 99 00",
+            "ro": "Collect Club, 088 868 99 00",
+            "hu": "Collect Club, 088 868 99 00",
+            "da": "Collect Club, 088 868 99 00"
+          }
+        },
+        {
+          "label": {
+            "en": "Ship stamps",
+            "de": "Schiffsmarken",
+            "fr": "Timbres de navires",
+            "it": "Ship stamps",
+            "nl": "Scheepspostzegels",
+            "pl": "Ship stamps",
+            "cs": "Ship stamps",
+            "sk": "Ship stamps",
+            "ro": "Ship stamps",
+            "hu": "Ship stamps",
+            "da": "Ship stamps"
+          },
+          "value": {
+            "en": "€25 each, while stock lasts",
+            "de": "je 25 €, solange der Vorrat reicht",
+            "fr": "25 € pièce, jusqu'à épuisement des stocks",
+            "it": "€25 each, while stock lasts",
+            "nl": "€ 25 per stuk, zolang de voorraad strekt",
+            "pl": "€25 each, while stock lasts",
+            "cs": "€25 each, while stock lasts",
+            "sk": "€25 each, while stock lasts",
+            "ro": "€25 each, while stock lasts",
+            "hu": "€25 each, while stock lasts",
+            "da": "€25 each, while stock lasts"
+          }
+        },
+        {
+          "label": {
+            "en": "Noord Hinder",
+            "de": "Noord Hinder",
+            "fr": "Noord Hinder",
+            "it": "Noord Hinder",
+            "nl": "Noord Hinder",
+            "pl": "Noord Hinder",
+            "cs": "Noord Hinder",
+            "sk": "Noord Hinder",
+            "ro": "Noord Hinder",
+            "hu": "Noord Hinder",
+            "da": "Noord Hinder"
+          },
+          "value": {
+            "en": "10 November 2026",
+            "de": "10. November 2026",
+            "fr": "10 novembre 2026",
+            "it": "10 November 2026",
+            "nl": "10 november 2026",
+            "pl": "10 November 2026",
+            "cs": "10 November 2026",
+            "sk": "10 November 2026",
+            "ro": "10 November 2026",
+            "hu": "10 November 2026",
+            "da": "10 November 2026"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "Ordering",
+        "de": "Bestellen",
+        "fr": "Commander",
+        "it": "Ordering",
+        "nl": "Bestellen",
+        "pl": "Ordering",
+        "cs": "Ordering",
+        "sk": "Ordering",
+        "ro": "Ordering",
+        "hu": "Ordering",
+        "da": "Ordering"
+      },
+      "title": {
+        "en": "Where to buy the silver stamps",
+        "de": "Wo es die Silbermarken gibt",
+        "fr": "Où acheter les timbres en argent",
+        "it": "Where to buy the silver stamps",
+        "nl": "Waar je de zilveren postzegels koopt",
+        "pl": "Where to buy the silver stamps",
+        "cs": "Where to buy the silver stamps",
+        "sk": "Where to buy the silver stamps",
+        "ro": "Where to buy the silver stamps",
+        "hu": "Where to buy the silver stamps",
+        "da": "Where to buy the silver stamps"
+      },
+      "buttons": [
+        {
+          "href": "https://shop.postnl.nl/webshop/collect-club",
+          "label": {
+            "en": "PostNL Collect Club shop",
+            "de": "Shop des PostNL Collect Club",
+            "fr": "Boutique Collect Club de PostNL",
+            "it": "PostNL Collect Club shop",
+            "nl": "Webshop van de PostNL Collect Club",
+            "pl": "PostNL Collect Club shop",
+            "cs": "PostNL Collect Club shop",
+            "sk": "PostNL Collect Club shop",
+            "ro": "PostNL Collect Club shop",
+            "hu": "PostNL Collect Club shop",
+            "da": "PostNL Collect Club shop"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stampiq",
+      "text": {
+        "en": "The Zwarte Zee stamp is already in the StampIQ catalogue. Willem Ruys, Oranje Nassau and the nijntje sheet are added later.",
+        "de": "Die Zwarte Zee steht schon im StampIQ-Katalog. Willem Ruys, Oranje Nassau und der nijntje-Bogen kommen später dazu.",
+        "fr": "Le timbre Zwarte Zee figure déjà dans le catalogue StampIQ. Willem Ruys, Oranje Nassau et le feuillet nijntje y seront ajoutés plus tard.",
+        "it": "The Zwarte Zee stamp is already in the StampIQ catalogue. Willem Ruys, Oranje Nassau and the nijntje sheet are added later.",
+        "nl": "De postzegel Zwarte Zee staat al in de StampIQ-catalogus. De Willem Ruys, de Oranje Nassau en het nijntje-velletje komen er later bij.",
+        "pl": "The Zwarte Zee stamp is already in the StampIQ catalogue. Willem Ruys, Oranje Nassau and the nijntje sheet are added later.",
+        "cs": "The Zwarte Zee stamp is already in the StampIQ catalogue. Willem Ruys, Oranje Nassau and the nijntje sheet are added later.",
+        "sk": "The Zwarte Zee stamp is already in the StampIQ catalogue. Willem Ruys, Oranje Nassau and the nijntje sheet are added later.",
+        "ro": "The Zwarte Zee stamp is already in the StampIQ catalogue. Willem Ruys, Oranje Nassau and the nijntje sheet are added later.",
+        "hu": "The Zwarte Zee stamp is already in the StampIQ catalogue. Willem Ruys, Oranje Nassau and the nijntje sheet are added later.",
+        "da": "The Zwarte Zee stamp is already in the StampIQ catalogue. Willem Ruys, Oranje Nassau and the nijntje sheet are added later."
+      },
+      "type": "note"
+    }
+  ]
+}
