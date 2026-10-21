@@ -1,0 +1,901 @@
+{
+  "category": "new-issues",
+  "markets": [
+    "NL",
+    "BE",
+    "LU"
+  ],
+  "langs": [
+    "en",
+    "de",
+    "fr",
+    "nl"
+  ],
+  "published_at": "2026-10-21T07:00:00+00:00",
+  "thumbnail": {
+    "src": "https://assets.stampiq.io/blog/afa0ac338e289a1f/nl-2026-kaderpostzegels-card-v2.png",
+    "width": 1920,
+    "height": 960
+  },
+  "languages": {
+    "en": {
+      "slug": "postnl-kaderpostzegels-2026",
+      "title": "PostNL's kaderpostzegels of summer 2026",
+      "description": "Four kaderpostzegel sheets from PostNL, July to September 2026: North Sea shells, congratulations, garden herbs and five steam locomotives."
+    },
+    "de": {
+      "slug": "postnl-kaderpostzegels-2026",
+      "title": "Die kaderpostzegels von PostNL im Sommer 2026",
+      "description": "Vier Bogen kaderpostzegels von PostNL, Juli bis September 2026: Nordseemuscheln, Glückwünsche, Gartenkräuter und fünf Dampflokomotiven."
+    },
+    "fr": {
+      "slug": "timbres-a-cadre-postnl-ete-2026",
+      "title": "Les kaderpostzegels de PostNL, été 2026",
+      "description": "Quatre feuillets kaderpostzegels de PostNL, de juillet à septembre 2026 : coquillages, félicitations, herbes du potager et cinq locomotives à vapeur."
+    },
+    "it": {
+      "slug": "postnl-kaderpostzegels-2026",
+      "title": "PostNL's kaderpostzegels of summer 2026",
+      "description": "Four kaderpostzegel sheets from PostNL, July to September 2026: North Sea shells, congratulations, garden herbs and five steam locomotives."
+    },
+    "nl": {
+      "slug": "postnl-kaderpostzegels-2026",
+      "title": "De kaderpostzegels van PostNL in de zomer van 2026",
+      "description": "Vier vellen kaderpostzegels van PostNL, van juli tot en met september 2026: Noordzeeschelpen, Gefeliciteerd, Tuinkruiden en vijf stoomlocomotieven."
+    },
+    "pl": {
+      "slug": "postnl-kaderpostzegels-2026",
+      "title": "PostNL's kaderpostzegels of summer 2026",
+      "description": "Four kaderpostzegel sheets from PostNL, July to September 2026: North Sea shells, congratulations, garden herbs and five steam locomotives."
+    },
+    "cs": {
+      "slug": "postnl-kaderpostzegels-2026",
+      "title": "PostNL's kaderpostzegels of summer 2026",
+      "description": "Four kaderpostzegel sheets from PostNL, July to September 2026: North Sea shells, congratulations, garden herbs and five steam locomotives."
+    },
+    "sk": {
+      "slug": "postnl-kaderpostzegels-2026",
+      "title": "PostNL's kaderpostzegels of summer 2026",
+      "description": "Four kaderpostzegel sheets from PostNL, July to September 2026: North Sea shells, congratulations, garden herbs and five steam locomotives."
+    },
+    "ro": {
+      "slug": "postnl-kaderpostzegels-2026",
+      "title": "PostNL's kaderpostzegels of summer 2026",
+      "description": "Four kaderpostzegel sheets from PostNL, July to September 2026: North Sea shells, congratulations, garden herbs and five steam locomotives."
+    },
+    "hu": {
+      "slug": "postnl-kaderpostzegels-2026",
+      "title": "PostNL's kaderpostzegels of summer 2026",
+      "description": "Four kaderpostzegel sheets from PostNL, July to September 2026: North Sea shells, congratulations, garden herbs and five steam locomotives."
+    },
+    "da": {
+      "slug": "postnl-kaderpostzegels-2026",
+      "title": "PostNL's kaderpostzegels of summer 2026",
+      "description": "Four kaderpostzegel sheets from PostNL, July to September 2026: North Sea shells, congratulations, garden herbs and five steam locomotives."
+    }
+  },
+  "header": {
+    "lead": {
+      "en": "Next to its official programme PostNL issues sheets in small runs, with a white frame around every stamp. Four of them came out between July and September.",
+      "de": "Neben dem offiziellen Programm gibt PostNL Bogen in kleiner Auflage heraus, mit einem weißen Rahmen um jede Marke. Vier davon sind zwischen Juli und September erschienen.",
+      "fr": "À côté de son programme officiel, PostNL émet des feuillets à petit tirage, où chaque timbre est entouré d'un cadre blanc. Quatre d'entre eux sont parus entre juillet et septembre.",
+      "it": "Next to its official programme PostNL issues sheets in small runs, with a white frame around every stamp. Four of them came out between July and September.",
+      "nl": "Naast het officiële programma geeft PostNL vellen in kleine oplagen uit, met een wit kader om elke postzegel. Tussen juli en september verschenen er vier.",
+      "pl": "Next to its official programme PostNL issues sheets in small runs, with a white frame around every stamp. Four of them came out between July and September.",
+      "cs": "Next to its official programme PostNL issues sheets in small runs, with a white frame around every stamp. Four of them came out between July and September.",
+      "sk": "Next to its official programme PostNL issues sheets in small runs, with a white frame around every stamp. Four of them came out between July and September.",
+      "ro": "Next to its official programme PostNL issues sheets in small runs, with a white frame around every stamp. Four of them came out between July and September.",
+      "hu": "Next to its official programme PostNL issues sheets in small runs, with a white frame around every stamp. Four of them came out between July and September.",
+      "da": "Next to its official programme PostNL issues sheets in small runs, with a white frame around every stamp. Four of them came out between July and September."
+    },
+    "visual": {
+      "type": "stamp-fan",
+      "stamps": [
+        {
+          "name": {
+            "en": "Noordzeeschelpen, wenteltrapje",
+            "de": "Noordzeeschelpen, wenteltrapje",
+            "fr": "Noordzeeschelpen, wenteltrapje",
+            "it": "Noordzeeschelpen, wenteltrapje",
+            "nl": "Noordzeeschelpen, wenteltrapje",
+            "pl": "Noordzeeschelpen, wenteltrapje",
+            "cs": "Noordzeeschelpen, wenteltrapje",
+            "sk": "Noordzeeschelpen, wenteltrapje",
+            "ro": "Noordzeeschelpen, wenteltrapje",
+            "hu": "Noordzeeschelpen, wenteltrapje",
+            "da": "Noordzeeschelpen, wenteltrapje"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/03d9a614652eacb6/nl-2026-noordzeeschelpen-wenteltrapje.png",
+            "width": 361,
+            "height": 480
+          },
+          "country": "NL",
+          "stamp_id": "nl-postnl-860042-1"
+        },
+        {
+          "name": {
+            "en": "Gefeliciteerd, cat with cake",
+            "de": "Gefeliciteerd, Katze mit Torte",
+            "fr": "Gefeliciteerd, chat et gâteau",
+            "it": "Gefeliciteerd, cat with cake",
+            "nl": "Gefeliciteerd, kat met taart",
+            "pl": "Gefeliciteerd, cat with cake",
+            "cs": "Gefeliciteerd, cat with cake",
+            "sk": "Gefeliciteerd, cat with cake",
+            "ro": "Gefeliciteerd, cat with cake",
+            "hu": "Gefeliciteerd, cat with cake",
+            "da": "Gefeliciteerd, cat with cake"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/9e317838284b70bf/nl-2026-gefeliciteerd-poes.png",
+            "width": 359,
+            "height": 477
+          },
+          "country": "NL",
+          "stamp_id": "nl-postnl-860040-2"
+        },
+        {
+          "name": {
+            "en": "Tuinkruiden, basilicum",
+            "de": "Tuinkruiden, basilicum",
+            "fr": "Tuinkruiden, basilicum",
+            "it": "Tuinkruiden, basilicum",
+            "nl": "Tuinkruiden, basilicum",
+            "pl": "Tuinkruiden, basilicum",
+            "cs": "Tuinkruiden, basilicum",
+            "sk": "Tuinkruiden, basilicum",
+            "ro": "Tuinkruiden, basilicum",
+            "hu": "Tuinkruiden, basilicum",
+            "da": "Tuinkruiden, basilicum"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/4ce8842c75155faa/nl-2026-tuinkruiden-basilicum.png",
+            "width": 361,
+            "height": 480
+          },
+          "country": "NL",
+          "stamp_id": "nl-postnl-860043-1"
+        },
+        {
+          "name": {
+            "en": "Stoomlocomotieven, De Blauwe Brabander",
+            "de": "Stoomlocomotieven, De Blauwe Brabander",
+            "fr": "Stoomlocomotieven, De Blauwe Brabander",
+            "it": "Stoomlocomotieven, De Blauwe Brabander",
+            "nl": "Stoomlocomotieven, De Blauwe Brabander",
+            "pl": "Stoomlocomotieven, De Blauwe Brabander",
+            "cs": "Stoomlocomotieven, De Blauwe Brabander",
+            "sk": "Stoomlocomotieven, De Blauwe Brabander",
+            "ro": "Stoomlocomotieven, De Blauwe Brabander",
+            "hu": "Stoomlocomotieven, De Blauwe Brabander",
+            "da": "Stoomlocomotieven, De Blauwe Brabander"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/6e6f1a8573e42097/nl-2026-stoomlocomotieven-blauwe-brabander-v2.png",
+            "width": 481,
+            "height": 362
+          },
+          "country": "NL",
+          "stamp_id": "nl-postnl-860041-1"
+        }
+      ]
+    },
+    "date_label": {
+      "en": "July to September 2026",
+      "de": "Juli bis September 2026",
+      "fr": "Juillet à septembre 2026",
+      "it": "July to September 2026",
+      "nl": "juli tot en met september 2026",
+      "pl": "July to September 2026",
+      "cs": "July to September 2026",
+      "sk": "July to September 2026",
+      "ro": "July to September 2026",
+      "hu": "July to September 2026",
+      "da": "July to September 2026"
+    }
+  },
+  "blocks": [
+    {
+      "id": "kader",
+      "type": "text",
+      "label": {
+        "en": "Kaderpostzegels",
+        "de": "Kaderpostzegels",
+        "fr": "Kaderpostzegels",
+        "it": "Kaderpostzegels",
+        "nl": "Kaderpostzegels",
+        "pl": "Kaderpostzegels",
+        "cs": "Kaderpostzegels",
+        "sk": "Kaderpostzegels",
+        "ro": "Kaderpostzegels",
+        "hu": "Kaderpostzegels",
+        "da": "Kaderpostzegels"
+      },
+      "title": {
+        "en": "Stamps in a white frame",
+        "de": "Marken im weißen Rahmen",
+        "fr": "Des timbres dans un cadre blanc",
+        "it": "Stamps in a white frame",
+        "nl": "Postzegels in een wit kader",
+        "pl": "Stamps in a white frame",
+        "cs": "Stamps in a white frame",
+        "sk": "Stamps in a white frame",
+        "ro": "Stamps in a white frame",
+        "hu": "Stamps in a white frame",
+        "da": "Stamps in a white frame"
+      },
+      "paragraphs": [
+        {
+          "en": "Until 31 March 2024 PostNL called these sheets persoonlijke postzegels. The new name, kaderpostzegels, separates the sheets PostNL designs itself from the stamps customers design on its website. PostNL issued its first sheet of this kind in 2003.",
+          "de": "Bis zum 31. März 2024 hießen diese Bogen bei PostNL persoonlijke postzegels. Der neue Name kaderpostzegels trennt die Bogen, die PostNL selbst gestaltet, von den Marken, die Kunden auf der Website von PostNL gestalten. Den ersten Bogen dieser Art gab PostNL 2003 heraus.",
+          "fr": "Jusqu'au 31 mars 2024, PostNL appelait ces feuillets persoonlijke postzegels. Le nouveau nom, kaderpostzegels, distingue les feuillets que PostNL conçoit lui-même des timbres que les clients composent sur son site. PostNL a émis son premier feuillet de ce type en 2003.",
+          "it": "Until 31 March 2024 PostNL called these sheets persoonlijke postzegels. The new name, kaderpostzegels, separates the sheets PostNL designs itself from the stamps customers design on its website. PostNL issued its first sheet of this kind in 2003.",
+          "nl": "Tot 31 maart 2024 noemde PostNL deze vellen persoonlijke postzegels. Met de nieuwe naam kaderpostzegels staan de vellen die PostNL zelf ontwerpt los van de postzegels die klanten op de website van PostNL maken. Het eerste vel van dit type gaf PostNL in 2003 uit.",
+          "pl": "Until 31 March 2024 PostNL called these sheets persoonlijke postzegels. The new name, kaderpostzegels, separates the sheets PostNL designs itself from the stamps customers design on its website. PostNL issued its first sheet of this kind in 2003.",
+          "cs": "Until 31 March 2024 PostNL called these sheets persoonlijke postzegels. The new name, kaderpostzegels, separates the sheets PostNL designs itself from the stamps customers design on its website. PostNL issued its first sheet of this kind in 2003.",
+          "sk": "Until 31 March 2024 PostNL called these sheets persoonlijke postzegels. The new name, kaderpostzegels, separates the sheets PostNL designs itself from the stamps customers design on its website. PostNL issued its first sheet of this kind in 2003.",
+          "ro": "Until 31 March 2024 PostNL called these sheets persoonlijke postzegels. The new name, kaderpostzegels, separates the sheets PostNL designs itself from the stamps customers design on its website. PostNL issued its first sheet of this kind in 2003.",
+          "hu": "Until 31 March 2024 PostNL called these sheets persoonlijke postzegels. The new name, kaderpostzegels, separates the sheets PostNL designs itself from the stamps customers design on its website. PostNL issued its first sheet of this kind in 2003.",
+          "da": "Until 31 March 2024 PostNL called these sheets persoonlijke postzegels. The new name, kaderpostzegels, separates the sheets PostNL designs itself from the stamps customers design on its website. PostNL issued its first sheet of this kind in 2003."
+        },
+        {
+          "en": "Every stamp sits in the same white frame with the 1, the word Nederland and the small hook in the corner. The typeface of the frame is by Martin Majoor, from 2018. The sheets have their own yearly programme next to the official one. The four sheets below were printed in runs of 6,000 to 8,000.",
+          "de": "Jede Marke steht im gleichen weißen Rahmen mit der 1, dem Wort Nederland und dem kleinen Haken in der Ecke. Die Schrift des Rahmens stammt von Martin Majoor aus dem Jahr 2018. Die Bogen haben ein eigenes Jahresprogramm neben dem offiziellen. Die vier folgenden Bogen wurden in Auflagen von 6.000 bis 8.000 Stück gedruckt.",
+          "fr": "Chaque timbre occupe le même cadre blanc, avec le chiffre 1, le mot Nederland et le petit crochet dans l'angle. La typographie du cadre est de Martin Majoor et date de 2018. Ces feuillets ont leur propre programme annuel, à côté du programme officiel. Le tirage des quatre feuillets ci-dessous se situe entre 6 000 et 8 000 exemplaires.",
+          "it": "Every stamp sits in the same white frame with the 1, the word Nederland and the small hook in the corner. The typeface of the frame is by Martin Majoor, from 2018. The sheets have their own yearly programme next to the official one. The four sheets below were printed in runs of 6,000 to 8,000.",
+          "nl": "Elke postzegel staat in hetzelfde witte kader, met de 1, het woord Nederland en het kleine haakje in de hoek. Het lettertype van het kader is van Martin Majoor, uit 2018. De vellen hebben een eigen jaarprogramma naast het officiële programma. De vier vellen hieronder verschenen in oplagen van 6.000 tot 8.000.",
+          "pl": "Every stamp sits in the same white frame with the 1, the word Nederland and the small hook in the corner. The typeface of the frame is by Martin Majoor, from 2018. The sheets have their own yearly programme next to the official one. The four sheets below were printed in runs of 6,000 to 8,000.",
+          "cs": "Every stamp sits in the same white frame with the 1, the word Nederland and the small hook in the corner. The typeface of the frame is by Martin Majoor, from 2018. The sheets have their own yearly programme next to the official one. The four sheets below were printed in runs of 6,000 to 8,000.",
+          "sk": "Every stamp sits in the same white frame with the 1, the word Nederland and the small hook in the corner. The typeface of the frame is by Martin Majoor, from 2018. The sheets have their own yearly programme next to the official one. The four sheets below were printed in runs of 6,000 to 8,000.",
+          "ro": "Every stamp sits in the same white frame with the 1, the word Nederland and the small hook in the corner. The typeface of the frame is by Martin Majoor, from 2018. The sheets have their own yearly programme next to the official one. The four sheets below were printed in runs of 6,000 to 8,000.",
+          "hu": "Every stamp sits in the same white frame with the 1, the word Nederland and the small hook in the corner. The typeface of the frame is by Martin Majoor, from 2018. The sheets have their own yearly programme next to the official one. The four sheets below were printed in runs of 6,000 to 8,000.",
+          "da": "Every stamp sits in the same white frame with the 1, the word Nederland and the small hook in the corner. The typeface of the frame is by Martin Majoor, from 2018. The sheets have their own yearly programme next to the official one. The four sheets below were printed in runs of 6,000 to 8,000."
+        }
+      ]
+    },
+    {
+      "id": "schelpen",
+      "date": {
+        "en": "14 July 2026",
+        "de": "14. Juli 2026",
+        "fr": "14 juillet 2026",
+        "it": "14 July 2026",
+        "nl": "14 juli 2026",
+        "pl": "14 July 2026",
+        "cs": "14 July 2026",
+        "sk": "14 July 2026",
+        "ro": "14 July 2026",
+        "hu": "14 July 2026",
+        "da": "14 July 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Noordzeeschelpen, sheet of ten",
+          "de": "Noordzeeschelpen, Bogen mit zehn Marken",
+          "fr": "Noordzeeschelpen, feuillet de dix",
+          "it": "Noordzeeschelpen, sheet of ten",
+          "nl": "Noordzeeschelpen, vel van tien",
+          "pl": "Noordzeeschelpen, sheet of ten",
+          "cs": "Noordzeeschelpen, sheet of ten",
+          "sk": "Noordzeeschelpen, sheet of ten",
+          "ro": "Noordzeeschelpen, sheet of ten",
+          "hu": "Noordzeeschelpen, sheet of ten",
+          "da": "Noordzeeschelpen, sheet of ten"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/1a24e3480f3c4653/nl-2026-noordzeeschelpen-vel-v4.png",
+          "width": 1000,
+          "height": 780
+        },
+        "country": "NL",
+        "stamp_id": "nl-postnl-860042"
+      },
+      "title": {
+        "en": "Noordzeeschelpen, shells from the beach",
+        "de": "Noordzeeschelpen, Muscheln vom Strand",
+        "fr": "Noordzeeschelpen, les coquillages de la plage",
+        "it": "Noordzeeschelpen, shells from the beach",
+        "nl": "Noordzeeschelpen, schelpen van het strand",
+        "pl": "Noordzeeschelpen, shells from the beach",
+        "cs": "Noordzeeschelpen, shells from the beach",
+        "sk": "Noordzeeschelpen, shells from the beach",
+        "ro": "Noordzeeschelpen, shells from the beach",
+        "hu": "Noordzeeschelpen, shells from the beach",
+        "da": "Noordzeeschelpen, shells from the beach"
+      },
+      "formats": [
+        {
+          "value": "€14.00",
+          "format": {
+            "en": "Sheet of ten",
+            "de": "Bogen mit zehn Marken",
+            "fr": "Feuillet de dix",
+            "it": "Sheet of ten",
+            "nl": "Vel van tien",
+            "pl": "Sheet of ten",
+            "cs": "Sheet of ten",
+            "sk": "Sheet of ten",
+            "ro": "Sheet of ten",
+            "hu": "Sheet of ten",
+            "da": "Sheet of ten"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "Maartje Bodt painted the ten shells in watercolour and wrote each name by hand: wenteltrapje, schaalhoren, wijde mantel, tapijtschelp, wulk, boormossel, scheermesje, tepelhoorn, ovale strandschelp and kokkel. She usually paints tropical shells with strong colours. She made this sheet while working on Mallorca.",
+          "de": "Maartje Bodt hat die zehn Muscheln in Aquarell gemalt und jeden Namen von Hand geschrieben: wenteltrapje, schaalhoren, wijde mantel, tapijtschelp, wulk, boormossel, scheermesje, tepelhoorn, ovale strandschelp und kokkel. Sonst malt sie tropische Muscheln in kräftigen Farben. Diesen Bogen hat sie während eines Arbeitsaufenthalts auf Mallorca gestaltet.",
+          "fr": "Maartje Bodt a peint les dix coquillages à l'aquarelle et a écrit chaque nom à la main : wenteltrapje, schaalhoren, wijde mantel, tapijtschelp, wulk, boormossel, scheermesje, tepelhoorn, ovale strandschelp et kokkel. Elle peint d'habitude des coquillages tropicaux aux couleurs vives. Ce feuillet, elle l'a réalisé pendant un séjour de travail à Majorque.",
+          "it": "Maartje Bodt painted the ten shells in watercolour and wrote each name by hand: wenteltrapje, schaalhoren, wijde mantel, tapijtschelp, wulk, boormossel, scheermesje, tepelhoorn, ovale strandschelp and kokkel. She usually paints tropical shells with strong colours. She made this sheet while working on Mallorca.",
+          "nl": "Maartje Bodt schilderde de tien schelpen in aquarel en schreef elke naam met de hand: wenteltrapje, schaalhoren, wijde mantel, tapijtschelp, wulk, boormossel, scheermesje, tepelhoorn, ovale strandschelp en kokkel. Meestal schildert ze tropische schelpen in sterke kleuren. Dit vel maakte ze tijdens haar werk op Mallorca.",
+          "pl": "Maartje Bodt painted the ten shells in watercolour and wrote each name by hand: wenteltrapje, schaalhoren, wijde mantel, tapijtschelp, wulk, boormossel, scheermesje, tepelhoorn, ovale strandschelp and kokkel. She usually paints tropical shells with strong colours. She made this sheet while working on Mallorca.",
+          "cs": "Maartje Bodt painted the ten shells in watercolour and wrote each name by hand: wenteltrapje, schaalhoren, wijde mantel, tapijtschelp, wulk, boormossel, scheermesje, tepelhoorn, ovale strandschelp and kokkel. She usually paints tropical shells with strong colours. She made this sheet while working on Mallorca.",
+          "sk": "Maartje Bodt painted the ten shells in watercolour and wrote each name by hand: wenteltrapje, schaalhoren, wijde mantel, tapijtschelp, wulk, boormossel, scheermesje, tepelhoorn, ovale strandschelp and kokkel. She usually paints tropical shells with strong colours. She made this sheet while working on Mallorca.",
+          "ro": "Maartje Bodt painted the ten shells in watercolour and wrote each name by hand: wenteltrapje, schaalhoren, wijde mantel, tapijtschelp, wulk, boormossel, scheermesje, tepelhoorn, ovale strandschelp and kokkel. She usually paints tropical shells with strong colours. She made this sheet while working on Mallorca.",
+          "hu": "Maartje Bodt painted the ten shells in watercolour and wrote each name by hand: wenteltrapje, schaalhoren, wijde mantel, tapijtschelp, wulk, boormossel, scheermesje, tepelhoorn, ovale strandschelp and kokkel. She usually paints tropical shells with strong colours. She made this sheet while working on Mallorca.",
+          "da": "Maartje Bodt painted the ten shells in watercolour and wrote each name by hand: wenteltrapje, schaalhoren, wijde mantel, tapijtschelp, wulk, boormossel, scheermesje, tepelhoorn, ovale strandschelp and kokkel. She usually paints tropical shells with strong colours. She made this sheet while working on Mallorca."
+        },
+        {
+          "en": "For a Dutch summer she chose soft pastels and a grey-blue sky. A wave drawn along the margin seems to lift the block of stamps.",
+          "de": "Für einen niederländischen Sommer hat sie weiche Pastelltöne und einen graublauen Himmel gewählt. Eine Welle am Bogenrand lässt den Markenblock wie angehoben wirken.",
+          "fr": "Pour un été néerlandais, elle a choisi des teintes pastel douces et un ciel gris-bleu. Une vague dessinée le long de la marge semble soulever le bloc de timbres.",
+          "it": "For a Dutch summer she chose soft pastels and a grey-blue sky. A wave drawn along the margin seems to lift the block of stamps.",
+          "nl": "Voor een Nederlandse zomer koos ze zachte pasteltinten en een grijsblauwe lucht. Een golf langs de rand van het vel lijkt het blok postzegels op te tillen.",
+          "pl": "For a Dutch summer she chose soft pastels and a grey-blue sky. A wave drawn along the margin seems to lift the block of stamps.",
+          "cs": "For a Dutch summer she chose soft pastels and a grey-blue sky. A wave drawn along the margin seems to lift the block of stamps.",
+          "sk": "For a Dutch summer she chose soft pastels and a grey-blue sky. A wave drawn along the margin seems to lift the block of stamps.",
+          "ro": "For a Dutch summer she chose soft pastels and a grey-blue sky. A wave drawn along the margin seems to lift the block of stamps.",
+          "hu": "For a Dutch summer she chose soft pastels and a grey-blue sky. A wave drawn along the margin seems to lift the block of stamps.",
+          "da": "For a Dutch summer she chose soft pastels and a grey-blue sky. A wave drawn along the margin seems to lift the block of stamps."
+        },
+        {
+          "en": "On 21 March 2026 volunteers counted more than 108,000 shells on Dutch beaches for the fifth Schelpenteldag. The halfgeknotte and the ovale strandschelp were the most common shells on the Holland coast, the kokkel in Zeeland and on the Wadden islands. In Flanders 1,500 people counted a record 65,000 shells on the same day.",
+          "de": "Am 21. März 2026 haben Freiwillige an niederländischen Stränden mehr als 108.000 Muscheln gezählt, beim fünften Schelpenteldag. An der Küste von Holland waren die halfgeknotte und die ovale strandschelp am häufigsten, in Zeeland und auf den Watteninseln die kokkel. In Flandern zählten 1.500 Menschen am selben Tag 65.000 Muscheln, so viele wie nie zuvor.",
+          "fr": "Le 21 mars 2026, des bénévoles ont compté plus de 108 000 coquillages sur les plages néerlandaises lors de la cinquième Schelpenteldag. La halfgeknotte et l'ovale strandschelp étaient les plus fréquentes sur la côte de Hollande, la kokkel en Zélande et sur les îles des Wadden. En Flandre, 1 500 personnes ont compté 65 000 coquillages le même jour, un record.",
+          "it": "On 21 March 2026 volunteers counted more than 108,000 shells on Dutch beaches for the fifth Schelpenteldag. The halfgeknotte and the ovale strandschelp were the most common shells on the Holland coast, the kokkel in Zeeland and on the Wadden islands. In Flanders 1,500 people counted a record 65,000 shells on the same day.",
+          "nl": "Op 21 maart 2026 telden vrijwilligers op de Nederlandse stranden ruim 108.000 schelpen tijdens de vijfde Schelpenteldag. Aan de Hollandse kust kwamen de halfgeknotte en de ovale strandschelp het meeste voor, in Zeeland en op de Waddeneilanden de kokkel. In Vlaanderen telden 1.500 mensen op dezelfde dag een record van 65.000 schelpen.",
+          "pl": "On 21 March 2026 volunteers counted more than 108,000 shells on Dutch beaches for the fifth Schelpenteldag. The halfgeknotte and the ovale strandschelp were the most common shells on the Holland coast, the kokkel in Zeeland and on the Wadden islands. In Flanders 1,500 people counted a record 65,000 shells on the same day.",
+          "cs": "On 21 March 2026 volunteers counted more than 108,000 shells on Dutch beaches for the fifth Schelpenteldag. The halfgeknotte and the ovale strandschelp were the most common shells on the Holland coast, the kokkel in Zeeland and on the Wadden islands. In Flanders 1,500 people counted a record 65,000 shells on the same day.",
+          "sk": "On 21 March 2026 volunteers counted more than 108,000 shells on Dutch beaches for the fifth Schelpenteldag. The halfgeknotte and the ovale strandschelp were the most common shells on the Holland coast, the kokkel in Zeeland and on the Wadden islands. In Flanders 1,500 people counted a record 65,000 shells on the same day.",
+          "ro": "On 21 March 2026 volunteers counted more than 108,000 shells on Dutch beaches for the fifth Schelpenteldag. The halfgeknotte and the ovale strandschelp were the most common shells on the Holland coast, the kokkel in Zeeland and on the Wadden islands. In Flanders 1,500 people counted a record 65,000 shells on the same day.",
+          "hu": "On 21 March 2026 volunteers counted more than 108,000 shells on Dutch beaches for the fifth Schelpenteldag. The halfgeknotte and the ovale strandschelp were the most common shells on the Holland coast, the kokkel in Zeeland and on the Wadden islands. In Flanders 1,500 people counted a record 65,000 shells on the same day.",
+          "da": "On 21 March 2026 volunteers counted more than 108,000 shells on Dutch beaches for the fifth Schelpenteldag. The halfgeknotte and the ovale strandschelp were the most common shells on the Holland coast, the kokkel in Zeeland and on the Wadden islands. In Flanders 1,500 people counted a record 65,000 shells on the same day."
+        }
+      ]
+    },
+    {
+      "id": "gefeliciteerd",
+      "date": {
+        "en": "10 August 2026",
+        "de": "10. August 2026",
+        "fr": "10 août 2026",
+        "it": "10 August 2026",
+        "nl": "10 augustus 2026",
+        "pl": "10 August 2026",
+        "cs": "10 August 2026",
+        "sk": "10 August 2026",
+        "ro": "10 August 2026",
+        "hu": "10 August 2026",
+        "da": "10 August 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Gefeliciteerd, sheet of five",
+          "de": "Gefeliciteerd, Bogen mit fünf Marken",
+          "fr": "Gefeliciteerd, feuillet de cinq",
+          "it": "Gefeliciteerd, sheet of five",
+          "nl": "Gefeliciteerd, vel van vijf",
+          "pl": "Gefeliciteerd, sheet of five",
+          "cs": "Gefeliciteerd, sheet of five",
+          "sk": "Gefeliciteerd, sheet of five",
+          "ro": "Gefeliciteerd, sheet of five",
+          "hu": "Gefeliciteerd, sheet of five",
+          "da": "Gefeliciteerd, sheet of five"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/89af7f0e662e475b/nl-2026-gefeliciteerd-vel-v4.png",
+          "width": 1022,
+          "height": 745
+        },
+        "country": "NL",
+        "stamp_id": "nl-postnl-860040"
+      },
+      "title": {
+        "en": "Gefeliciteerd, stamps for cards",
+        "de": "Gefeliciteerd, Marken für Karten",
+        "fr": "Gefeliciteerd, des timbres pour les cartes",
+        "it": "Gefeliciteerd, stamps for cards",
+        "nl": "Gefeliciteerd, postzegels voor kaarten",
+        "pl": "Gefeliciteerd, stamps for cards",
+        "cs": "Gefeliciteerd, stamps for cards",
+        "sk": "Gefeliciteerd, stamps for cards",
+        "ro": "Gefeliciteerd, stamps for cards",
+        "hu": "Gefeliciteerd, stamps for cards",
+        "da": "Gefeliciteerd, stamps for cards"
+      },
+      "formats": [
+        {
+          "value": "€7.00",
+          "format": {
+            "en": "Sheet of five",
+            "de": "Bogen mit fünf Marken",
+            "fr": "Feuillet de cinq",
+            "it": "Sheet of five",
+            "nl": "Vel van vijf",
+            "pl": "Sheet of five",
+            "cs": "Sheet of five",
+            "sk": "Sheet of five",
+            "ro": "Sheet of five",
+            "hu": "Sheet of five",
+            "da": "Sheet of five"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "PostNL asked for a sheet for every kind of congratulation: a birthday, a move, a birth. Matia Heesakkers from Nijmegen drew cake, presents, hearts, flowers, drinks and stars, with a dog, a cat, ladybirds and a bird among them. Her drawing of a postman did not make it onto the sheet.",
+          "de": "PostNL wollte einen Bogen für jede Art von Glückwunsch: Geburtstag, Umzug, Geburt. Matia Heesakkers aus Nijmegen hat Torte, Geschenke, Herzen, Blumen, Getränke und Sterne gezeichnet, dazu einen Hund, eine Katze, Marienkäfer und einen Vogel. Ihre Zeichnung eines Briefträgers kam nicht auf den Bogen.",
+          "fr": "PostNL voulait un feuillet pour toutes les félicitations : un anniversaire, un déménagement, une naissance. Matia Heesakkers, de Nimègue, a dessiné un gâteau, des cadeaux, des cœurs, des fleurs, des boissons et des étoiles, avec un chien, un chat, des coccinelles et un oiseau au milieu. Son dessin de facteur n'a pas été retenu.",
+          "it": "PostNL asked for a sheet for every kind of congratulation: a birthday, a move, a birth. Matia Heesakkers from Nijmegen drew cake, presents, hearts, flowers, drinks and stars, with a dog, a cat, ladybirds and a bird among them. Her drawing of a postman did not make it onto the sheet.",
+          "nl": "PostNL vroeg om een vel voor elke felicitatie: een verjaardag, een verhuizing, een geboorte. Matia Heesakkers uit Nijmegen tekende taart, cadeaus, hartjes, bloemen, drankjes en sterren, met daartussen een hond, een kat, lieveheersbeestjes en een vogel. Haar tekening van een postbode haalde het vel niet.",
+          "pl": "PostNL asked for a sheet for every kind of congratulation: a birthday, a move, a birth. Matia Heesakkers from Nijmegen drew cake, presents, hearts, flowers, drinks and stars, with a dog, a cat, ladybirds and a bird among them. Her drawing of a postman did not make it onto the sheet.",
+          "cs": "PostNL asked for a sheet for every kind of congratulation: a birthday, a move, a birth. Matia Heesakkers from Nijmegen drew cake, presents, hearts, flowers, drinks and stars, with a dog, a cat, ladybirds and a bird among them. Her drawing of a postman did not make it onto the sheet.",
+          "sk": "PostNL asked for a sheet for every kind of congratulation: a birthday, a move, a birth. Matia Heesakkers from Nijmegen drew cake, presents, hearts, flowers, drinks and stars, with a dog, a cat, ladybirds and a bird among them. Her drawing of a postman did not make it onto the sheet.",
+          "ro": "PostNL asked for a sheet for every kind of congratulation: a birthday, a move, a birth. Matia Heesakkers from Nijmegen drew cake, presents, hearts, flowers, drinks and stars, with a dog, a cat, ladybirds and a bird among them. Her drawing of a postman did not make it onto the sheet.",
+          "hu": "PostNL asked for a sheet for every kind of congratulation: a birthday, a move, a birth. Matia Heesakkers from Nijmegen drew cake, presents, hearts, flowers, drinks and stars, with a dog, a cat, ladybirds and a bird among them. Her drawing of a postman did not make it onto the sheet.",
+          "da": "PostNL asked for a sheet for every kind of congratulation: a birthday, a move, a birth. Matia Heesakkers from Nijmegen drew cake, presents, hearts, flowers, drinks and stars, with a dog, a cat, ladybirds and a bird among them. Her drawing of a postman did not make it onto the sheet."
+        },
+        {
+          "en": "The striped margin copies the border of an airmail envelope. She wrote \"Gefeliciteerd!\" and the article number in her own handwriting. It is her first sheet for PostNL; for Hallmark she has drawn a collection of more than 250 cards, diaries and gifts.",
+          "de": "Der gestreifte Rand nimmt die Umrandung eines Luftpostumschlags auf. „Gefeliciteerd!“ und die Artikelnummer hat sie in ihrer eigenen Handschrift geschrieben. Es ist ihr erster Bogen für PostNL; für Hallmark hat sie eine Kollektion von mehr als 250 Karten, Terminkalendern und Geschenkartikeln gezeichnet.",
+          "fr": "La marge rayée reprend le bord d'une enveloppe de poste aérienne. Elle a écrit « Gefeliciteerd ! » et le numéro d'article de sa main. C'est son premier feuillet pour PostNL ; pour Hallmark, elle a dessiné une collection de plus de 250 cartes, agendas et cadeaux.",
+          "it": "The striped margin copies the border of an airmail envelope. She wrote \"Gefeliciteerd!\" and the article number in her own handwriting. It is her first sheet for PostNL; for Hallmark she has drawn a collection of more than 250 cards, diaries and gifts.",
+          "nl": "De gestreepte rand is overgenomen van de bies van een luchtpostenvelop. „Gefeliciteerd!” en het artikelnummer schreef ze in haar eigen handschrift. Het is haar eerste vel voor PostNL; voor Hallmark tekende ze een collectie van meer dan 250 kaarten, agenda's en cadeaus.",
+          "pl": "The striped margin copies the border of an airmail envelope. She wrote \"Gefeliciteerd!\" and the article number in her own handwriting. It is her first sheet for PostNL; for Hallmark she has drawn a collection of more than 250 cards, diaries and gifts.",
+          "cs": "The striped margin copies the border of an airmail envelope. She wrote \"Gefeliciteerd!\" and the article number in her own handwriting. It is her first sheet for PostNL; for Hallmark she has drawn a collection of more than 250 cards, diaries and gifts.",
+          "sk": "The striped margin copies the border of an airmail envelope. She wrote \"Gefeliciteerd!\" and the article number in her own handwriting. It is her first sheet for PostNL; for Hallmark she has drawn a collection of more than 250 cards, diaries and gifts.",
+          "ro": "The striped margin copies the border of an airmail envelope. She wrote \"Gefeliciteerd!\" and the article number in her own handwriting. It is her first sheet for PostNL; for Hallmark she has drawn a collection of more than 250 cards, diaries and gifts.",
+          "hu": "The striped margin copies the border of an airmail envelope. She wrote \"Gefeliciteerd!\" and the article number in her own handwriting. It is her first sheet for PostNL; for Hallmark she has drawn a collection of more than 250 cards, diaries and gifts.",
+          "da": "The striped margin copies the border of an airmail envelope. She wrote \"Gefeliciteerd!\" and the article number in her own handwriting. It is her first sheet for PostNL; for Hallmark she has drawn a collection of more than 250 cards, diaries and gifts."
+        },
+        {
+          "en": "The sheet has five stamps instead of the usual ten. PostNL printed 8,000.",
+          "de": "Der Bogen hat fünf Marken statt der sonst üblichen zehn. PostNL hat 8.000 Stück gedruckt.",
+          "fr": "Le feuillet compte cinq timbres au lieu des dix habituels. PostNL l'a tiré à 8 000 exemplaires.",
+          "it": "The sheet has five stamps instead of the usual ten. PostNL printed 8,000.",
+          "nl": "Het vel heeft vijf postzegels in plaats van de gebruikelijke tien. PostNL drukte er 8.000 van.",
+          "pl": "The sheet has five stamps instead of the usual ten. PostNL printed 8,000.",
+          "cs": "The sheet has five stamps instead of the usual ten. PostNL printed 8,000.",
+          "sk": "The sheet has five stamps instead of the usual ten. PostNL printed 8,000.",
+          "ro": "The sheet has five stamps instead of the usual ten. PostNL printed 8,000.",
+          "hu": "The sheet has five stamps instead of the usual ten. PostNL printed 8,000.",
+          "da": "The sheet has five stamps instead of the usual ten. PostNL printed 8,000."
+        }
+      ]
+    },
+    {
+      "id": "kruiden",
+      "date": {
+        "en": "7 September 2026",
+        "de": "7. September 2026",
+        "fr": "7 septembre 2026",
+        "it": "7 September 2026",
+        "nl": "7 september 2026",
+        "pl": "7 September 2026",
+        "cs": "7 September 2026",
+        "sk": "7 September 2026",
+        "ro": "7 September 2026",
+        "hu": "7 September 2026",
+        "da": "7 September 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Tuinkruiden, sheet of ten",
+          "de": "Tuinkruiden, Bogen mit zehn Marken",
+          "fr": "Tuinkruiden, feuillet de dix",
+          "it": "Tuinkruiden, sheet of ten",
+          "nl": "Tuinkruiden, vel van tien",
+          "pl": "Tuinkruiden, sheet of ten",
+          "cs": "Tuinkruiden, sheet of ten",
+          "sk": "Tuinkruiden, sheet of ten",
+          "ro": "Tuinkruiden, sheet of ten",
+          "hu": "Tuinkruiden, sheet of ten",
+          "da": "Tuinkruiden, sheet of ten"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/cb2c59610264de38/nl-2026-tuinkruiden-vel.png",
+          "width": 1000,
+          "height": 732
+        },
+        "country": "NL",
+        "stamp_id": "nl-postnl-860043"
+      },
+      "title": {
+        "en": "Tuinkruiden, herbs from the kitchen garden",
+        "de": "Tuinkruiden, Kräuter aus dem Garten",
+        "fr": "Tuinkruiden, les herbes du potager",
+        "it": "Tuinkruiden, herbs from the kitchen garden",
+        "nl": "Tuinkruiden, kruiden uit de moestuin",
+        "pl": "Tuinkruiden, herbs from the kitchen garden",
+        "cs": "Tuinkruiden, herbs from the kitchen garden",
+        "sk": "Tuinkruiden, herbs from the kitchen garden",
+        "ro": "Tuinkruiden, herbs from the kitchen garden",
+        "hu": "Tuinkruiden, herbs from the kitchen garden",
+        "da": "Tuinkruiden, herbs from the kitchen garden"
+      },
+      "formats": [
+        {
+          "value": "€14.00",
+          "format": {
+            "en": "Sheet of ten",
+            "de": "Bogen mit zehn Marken",
+            "fr": "Feuillet de dix",
+            "it": "Sheet of ten",
+            "nl": "Vel van tien",
+            "pl": "Sheet of ten",
+            "cs": "Sheet of ten",
+            "sk": "Sheet of ten",
+            "ro": "Sheet of ten",
+            "hu": "Sheet of ten",
+            "da": "Sheet of ten"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "Margot Holtman drew basil, chives, rosemary, dill, sage, tarragon, parsley, mint, thyme and oregano as they grow in a vegetable garden. Around them she drew a wild garden with insects, a whisk, a pepper mill and a pan of pumpkin soup.",
+          "de": "Margot Holtman hat Basilikum, Schnittlauch, Rosmarin, Dill, Salbei, Estragon, Petersilie, Minze, Thymian und Oregano so gezeichnet, wie sie im Gemüsegarten wachsen. Darum herum zeichnete sie einen wilden Garten mit Insekten, einem Schneebesen, einer Pfeffermühle und einem Topf Kürbissuppe.",
+          "fr": "Margot Holtman a dessiné le basilic, la ciboulette, le romarin, l'aneth, la sauge, l'estragon, le persil, la menthe, le thym et l'origan tels qu'ils poussent dans un potager. Autour, elle a dessiné un jardin sauvage avec des insectes, un fouet, un moulin à poivre et une casserole de soupe au potiron.",
+          "it": "Margot Holtman drew basil, chives, rosemary, dill, sage, tarragon, parsley, mint, thyme and oregano as they grow in a vegetable garden. Around them she drew a wild garden with insects, a whisk, a pepper mill and a pan of pumpkin soup.",
+          "nl": "Margot Holtman tekende basilicum, bieslook, rozemarijn, dille, salie, dragon, peterselie, munt, tijm en oregano zoals ze in een moestuin groeien. Daaromheen tekende ze een wilde tuin met insecten, een garde, een pepermolen en een pan pompoensoep.",
+          "pl": "Margot Holtman drew basil, chives, rosemary, dill, sage, tarragon, parsley, mint, thyme and oregano as they grow in a vegetable garden. Around them she drew a wild garden with insects, a whisk, a pepper mill and a pan of pumpkin soup.",
+          "cs": "Margot Holtman drew basil, chives, rosemary, dill, sage, tarragon, parsley, mint, thyme and oregano as they grow in a vegetable garden. Around them she drew a wild garden with insects, a whisk, a pepper mill and a pan of pumpkin soup.",
+          "sk": "Margot Holtman drew basil, chives, rosemary, dill, sage, tarragon, parsley, mint, thyme and oregano as they grow in a vegetable garden. Around them she drew a wild garden with insects, a whisk, a pepper mill and a pan of pumpkin soup.",
+          "ro": "Margot Holtman drew basil, chives, rosemary, dill, sage, tarragon, parsley, mint, thyme and oregano as they grow in a vegetable garden. Around them she drew a wild garden with insects, a whisk, a pepper mill and a pan of pumpkin soup.",
+          "hu": "Margot Holtman drew basil, chives, rosemary, dill, sage, tarragon, parsley, mint, thyme and oregano as they grow in a vegetable garden. Around them she drew a wild garden with insects, a whisk, a pepper mill and a pan of pumpkin soup.",
+          "da": "Margot Holtman drew basil, chives, rosemary, dill, sage, tarragon, parsley, mint, thyme and oregano as they grow in a vegetable garden. Around them she drew a wild garden with insects, a whisk, a pepper mill and a pan of pumpkin soup."
+        },
+        {
+          "en": "Holtman worked as a cook before she became an illustrator. She is known for detailed drawings with fine cross-hatching. In 2024 she drew the PostNL sheet Tuininsecten.",
+          "de": "Holtman hat als Köchin gearbeitet, bevor sie Illustratorin wurde. Bekannt ist sie für detailreiche Zeichnungen mit feinen Kreuzschraffuren. 2024 zeichnete sie für PostNL den Bogen Tuininsecten.",
+          "fr": "Holtman a été cuisinière avant de devenir illustratrice. Elle est connue pour ses dessins détaillés aux fines hachures croisées. En 2024, elle a dessiné le feuillet PostNL Tuininsecten.",
+          "it": "Holtman worked as a cook before she became an illustrator. She is known for detailed drawings with fine cross-hatching. In 2024 she drew the PostNL sheet Tuininsecten.",
+          "nl": "Holtman werkte als kok voordat ze illustrator werd. Ze staat bekend om haar gedetailleerde tekeningen met fijne arceringen. In 2024 tekende ze het PostNL-vel Tuininsecten.",
+          "pl": "Holtman worked as a cook before she became an illustrator. She is known for detailed drawings with fine cross-hatching. In 2024 she drew the PostNL sheet Tuininsecten.",
+          "cs": "Holtman worked as a cook before she became an illustrator. She is known for detailed drawings with fine cross-hatching. In 2024 she drew the PostNL sheet Tuininsecten.",
+          "sk": "Holtman worked as a cook before she became an illustrator. She is known for detailed drawings with fine cross-hatching. In 2024 she drew the PostNL sheet Tuininsecten.",
+          "ro": "Holtman worked as a cook before she became an illustrator. She is known for detailed drawings with fine cross-hatching. In 2024 she drew the PostNL sheet Tuininsecten.",
+          "hu": "Holtman worked as a cook before she became an illustrator. She is known for detailed drawings with fine cross-hatching. In 2024 she drew the PostNL sheet Tuininsecten.",
+          "da": "Holtman worked as a cook before she became an illustrator. She is known for detailed drawings with fine cross-hatching. In 2024 she drew the PostNL sheet Tuininsecten."
+        }
+      ]
+    },
+    {
+      "id": "stoom",
+      "date": {
+        "en": "28 September 2026",
+        "de": "28. September 2026",
+        "fr": "28 septembre 2026",
+        "it": "28 September 2026",
+        "nl": "28 september 2026",
+        "pl": "28 September 2026",
+        "cs": "28 September 2026",
+        "sk": "28 September 2026",
+        "ro": "28 September 2026",
+        "hu": "28 September 2026",
+        "da": "28 September 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Stoomlocomotieven, sheet of ten",
+          "de": "Stoomlocomotieven, Bogen mit zehn Marken",
+          "fr": "Stoomlocomotieven, feuillet de dix",
+          "it": "Stoomlocomotieven, sheet of ten",
+          "nl": "Stoomlocomotieven, vel van tien",
+          "pl": "Stoomlocomotieven, sheet of ten",
+          "cs": "Stoomlocomotieven, sheet of ten",
+          "sk": "Stoomlocomotieven, sheet of ten",
+          "ro": "Stoomlocomotieven, sheet of ten",
+          "hu": "Stoomlocomotieven, sheet of ten",
+          "da": "Stoomlocomotieven, sheet of ten"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/3a5f1b0c1e7c59bc/nl-2026-stoomlocomotieven-vel-v3.png",
+          "width": 788,
+          "height": 1000
+        },
+        "country": "NL",
+        "stamp_id": "nl-postnl-860041"
+      },
+      "title": {
+        "en": "Stoomlocomotieven, in photo and drawing",
+        "de": "Stoomlocomotieven, als Foto und als Zeichnung",
+        "fr": "Stoomlocomotieven, en photo et en dessin",
+        "it": "Stoomlocomotieven, in photo and drawing",
+        "nl": "Stoomlocomotieven, op foto en tekening",
+        "pl": "Stoomlocomotieven, in photo and drawing",
+        "cs": "Stoomlocomotieven, in photo and drawing",
+        "sk": "Stoomlocomotieven, in photo and drawing",
+        "ro": "Stoomlocomotieven, in photo and drawing",
+        "hu": "Stoomlocomotieven, in photo and drawing",
+        "da": "Stoomlocomotieven, in photo and drawing"
+      },
+      "formats": [
+        {
+          "value": "€14.00",
+          "format": {
+            "en": "Sheet of ten",
+            "de": "Bogen mit zehn Marken",
+            "fr": "Feuillet de dix",
+            "it": "Sheet of ten",
+            "nl": "Vel van tien",
+            "pl": "Sheet of ten",
+            "cs": "Sheet of ten",
+            "sk": "Sheet of ten",
+            "ro": "Sheet of ten",
+            "hu": "Sheet of ten",
+            "da": "Sheet of ten"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "The ten stamps show five locomotives, each once as a photo and once as a drawing based on a historical design drawing: the Nestor of 1880, the Blauwe Brabander of 1908, the Blikken Tinus of 1914, the Grote Jumbo of 1929 and De Beul of 1931. Iwo Tuleya drew them.",
+          "de": "Die zehn Marken zeigen fünf Lokomotiven, jede einmal als Foto und einmal als Zeichnung nach einer historischen Konstruktionszeichnung: die Nestor von 1880, die Blauwe Brabander von 1908, die Blikken Tinus von 1914, die Grote Jumbo von 1929 und De Beul von 1931. Gezeichnet hat sie Iwo Tuleya.",
+          "fr": "Les dix timbres montrent cinq locomotives, chacune une fois en photo et une fois en dessin d'après un plan de construction d'époque : la Nestor de 1880, la Blauwe Brabander de 1908, la Blikken Tinus de 1914, la Grote Jumbo de 1929 et De Beul de 1931. Les dessins sont d'Iwo Tuleya.",
+          "it": "The ten stamps show five locomotives, each once as a photo and once as a drawing based on a historical design drawing: the Nestor of 1880, the Blauwe Brabander of 1908, the Blikken Tinus of 1914, the Grote Jumbo of 1929 and De Beul of 1931. Iwo Tuleya drew them.",
+          "nl": "De tien postzegels tonen vijf locomotieven, elk één keer als foto en één keer als tekening naar een historische ontwerptekening: de Nestor uit 1880, de Blauwe Brabander uit 1908, de Blikken Tinus uit 1914, de Grote Jumbo uit 1929 en De Beul uit 1931. Iwo Tuleya maakte de tekeningen.",
+          "pl": "The ten stamps show five locomotives, each once as a photo and once as a drawing based on a historical design drawing: the Nestor of 1880, the Blauwe Brabander of 1908, the Blikken Tinus of 1914, the Grote Jumbo of 1929 and De Beul of 1931. Iwo Tuleya drew them.",
+          "cs": "The ten stamps show five locomotives, each once as a photo and once as a drawing based on a historical design drawing: the Nestor of 1880, the Blauwe Brabander of 1908, the Blikken Tinus of 1914, the Grote Jumbo of 1929 and De Beul of 1931. Iwo Tuleya drew them.",
+          "sk": "The ten stamps show five locomotives, each once as a photo and once as a drawing based on a historical design drawing: the Nestor of 1880, the Blauwe Brabander of 1908, the Blikken Tinus of 1914, the Grote Jumbo of 1929 and De Beul of 1931. Iwo Tuleya drew them.",
+          "ro": "The ten stamps show five locomotives, each once as a photo and once as a drawing based on a historical design drawing: the Nestor of 1880, the Blauwe Brabander of 1908, the Blikken Tinus of 1914, the Grote Jumbo of 1929 and De Beul of 1931. Iwo Tuleya drew them.",
+          "hu": "The ten stamps show five locomotives, each once as a photo and once as a drawing based on a historical design drawing: the Nestor of 1880, the Blauwe Brabander of 1908, the Blikken Tinus of 1914, the Grote Jumbo of 1929 and De Beul of 1931. Iwo Tuleya drew them.",
+          "da": "The ten stamps show five locomotives, each once as a photo and once as a drawing based on a historical design drawing: the Nestor of 1880, the Blauwe Brabander of 1908, the Blikken Tinus of 1914, the Grote Jumbo of 1929 and De Beul of 1931. Iwo Tuleya drew them."
+        },
+        {
+          "en": "Jan van Mechelen first picked ten locomotives. The Spoorwegmuseum had two of them replaced. In the museum's collection he found design drawings he wanted to use, so he took five locomotives and showed each one twice.",
+          "de": "Jan van Mechelen hatte zuerst zehn Lokomotiven ausgewählt. Zwei davon ließ das Spoorwegmuseum austauschen. In der Sammlung des Museums fand er Konstruktionszeichnungen, die er verwenden wollte, und so nahm er fünf Lokomotiven und zeigte jede zweimal.",
+          "fr": "Jan van Mechelen avait d'abord retenu dix locomotives. Le Spoorwegmuseum en a fait remplacer deux. Dans la collection du musée, il a trouvé des plans de construction qu'il voulait utiliser ; il a donc gardé cinq locomotives et les a montrées deux fois chacune.",
+          "it": "Jan van Mechelen first picked ten locomotives. The Spoorwegmuseum had two of them replaced. In the museum's collection he found design drawings he wanted to use, so he took five locomotives and showed each one twice.",
+          "nl": "Jan van Mechelen koos eerst tien locomotieven. Het Spoorwegmuseum liet er twee van vervangen. In de collectie van het museum vond hij ontwerptekeningen die hij wilde gebruiken, dus koos hij vijf locomotieven en liet hij elke locomotief twee keer zien.",
+          "pl": "Jan van Mechelen first picked ten locomotives. The Spoorwegmuseum had two of them replaced. In the museum's collection he found design drawings he wanted to use, so he took five locomotives and showed each one twice.",
+          "cs": "Jan van Mechelen first picked ten locomotives. The Spoorwegmuseum had two of them replaced. In the museum's collection he found design drawings he wanted to use, so he took five locomotives and showed each one twice.",
+          "sk": "Jan van Mechelen first picked ten locomotives. The Spoorwegmuseum had two of them replaced. In the museum's collection he found design drawings he wanted to use, so he took five locomotives and showed each one twice.",
+          "ro": "Jan van Mechelen first picked ten locomotives. The Spoorwegmuseum had two of them replaced. In the museum's collection he found design drawings he wanted to use, so he took five locomotives and showed each one twice.",
+          "hu": "Jan van Mechelen first picked ten locomotives. The Spoorwegmuseum had two of them replaced. In the museum's collection he found design drawings he wanted to use, so he took five locomotives and showed each one twice.",
+          "da": "Jan van Mechelen first picked ten locomotives. The Spoorwegmuseum had two of them replaced. In the museum's collection he found design drawings he wanted to use, so he took five locomotives and showed each one twice."
+        },
+        {
+          "en": "Each locomotive fills one strip across the sheet, with its front in the margin on one side and its data in the margin on the other. The perforation runs across the full width. Van Mechelen hopes that someone who needs two stamps sticks the whole strip on the letter, so the locomotive stays in one piece.",
+          "de": "Jede Lokomotive füllt einen Streifen quer über den Bogen, auf der einen Seite steht ihre Front im Rand, auf der anderen ihre Daten. Die Zähnung läuft über die ganze Breite. Van Mechelen hofft, dass jemand, der zwei Marken braucht, den ganzen Streifen auf den Brief klebt, damit die Lokomotive ganz bleibt.",
+          "fr": "Chaque locomotive occupe une bande entière du feuillet, l'avant de la machine dans la marge d'un côté et ses caractéristiques dans la marge de l'autre. La dentelure court sur toute la largeur. Van Mechelen espère que quelqu'un qui a besoin de deux timbres collera toute la bande sur sa lettre, pour que la locomotive reste d'un seul tenant.",
+          "it": "Each locomotive fills one strip across the sheet, with its front in the margin on one side and its data in the margin on the other. The perforation runs across the full width. Van Mechelen hopes that someone who needs two stamps sticks the whole strip on the letter, so the locomotive stays in one piece.",
+          "nl": "Elke locomotief vult een strook over de breedte van het vel, met de voorkant in de rand aan de ene kant en de gegevens in de rand aan de andere kant. De tanding loopt over de volle breedte. Van Mechelen hoopt dat wie twee postzegels nodig heeft de hele strook op de brief plakt, zodat de locomotief heel blijft.",
+          "pl": "Each locomotive fills one strip across the sheet, with its front in the margin on one side and its data in the margin on the other. The perforation runs across the full width. Van Mechelen hopes that someone who needs two stamps sticks the whole strip on the letter, so the locomotive stays in one piece.",
+          "cs": "Each locomotive fills one strip across the sheet, with its front in the margin on one side and its data in the margin on the other. The perforation runs across the full width. Van Mechelen hopes that someone who needs two stamps sticks the whole strip on the letter, so the locomotive stays in one piece.",
+          "sk": "Each locomotive fills one strip across the sheet, with its front in the margin on one side and its data in the margin on the other. The perforation runs across the full width. Van Mechelen hopes that someone who needs two stamps sticks the whole strip on the letter, so the locomotive stays in one piece.",
+          "ro": "Each locomotive fills one strip across the sheet, with its front in the margin on one side and its data in the margin on the other. The perforation runs across the full width. Van Mechelen hopes that someone who needs two stamps sticks the whole strip on the letter, so the locomotive stays in one piece.",
+          "hu": "Each locomotive fills one strip across the sheet, with its front in the margin on one side and its data in the margin on the other. The perforation runs across the full width. Van Mechelen hopes that someone who needs two stamps sticks the whole strip on the letter, so the locomotive stays in one piece.",
+          "da": "Each locomotive fills one strip across the sheet, with its front in the margin on one side and its data in the margin on the other. The perforation runs across the full width. Van Mechelen hopes that someone who needs two stamps sticks the whole strip on the letter, so the locomotive stays in one piece."
+        }
+      ]
+    },
+    {
+      "id": "utrecht",
+      "type": "text",
+      "label": {
+        "en": "In Utrecht",
+        "de": "In Utrecht",
+        "fr": "À Utrecht",
+        "it": "In Utrecht",
+        "nl": "In Utrecht",
+        "pl": "In Utrecht",
+        "cs": "In Utrecht",
+        "sk": "In Utrecht",
+        "ro": "In Utrecht",
+        "hu": "In Utrecht",
+        "da": "In Utrecht"
+      },
+      "title": {
+        "en": "The locomotives at the Spoorwegmuseum",
+        "de": "Die Lokomotiven im Spoorwegmuseum",
+        "fr": "Les locomotives au Spoorwegmuseum",
+        "it": "The locomotives at the Spoorwegmuseum",
+        "nl": "De locomotieven in het Spoorwegmuseum",
+        "pl": "The locomotives at the Spoorwegmuseum",
+        "cs": "The locomotives at the Spoorwegmuseum",
+        "sk": "The locomotives at the Spoorwegmuseum",
+        "ro": "The locomotives at the Spoorwegmuseum",
+        "hu": "The locomotives at the Spoorwegmuseum",
+        "da": "The locomotives at the Spoorwegmuseum"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/4851ba88b178998b/ns-2104-spoorwegmuseum.jpg",
+          "width": 2400,
+          "credit": "Photo: Maurits90, CC0",
+          "height": 1350,
+          "caption": {
+            "en": "The Blikken Tinus, NS 2104, in the Spoorwegmuseum, 2014",
+            "de": "Die Blikken Tinus, NS 2104, im Spoorwegmuseum, 2014",
+            "fr": "La Blikken Tinus, NS 2104, au Spoorwegmuseum, 2014",
+            "it": "The Blikken Tinus, NS 2104, in the Spoorwegmuseum, 2014",
+            "nl": "De Blikken Tinus, NS 2104, in het Spoorwegmuseum, 2014",
+            "pl": "The Blikken Tinus, NS 2104, in the Spoorwegmuseum, 2014",
+            "cs": "The Blikken Tinus, NS 2104, in the Spoorwegmuseum, 2014",
+            "sk": "The Blikken Tinus, NS 2104, in the Spoorwegmuseum, 2014",
+            "ro": "The Blikken Tinus, NS 2104, in the Spoorwegmuseum, 2014",
+            "hu": "The Blikken Tinus, NS 2104, in the Spoorwegmuseum, 2014",
+            "da": "The Blikken Tinus, NS 2104, in the Spoorwegmuseum, 2014"
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:NS_2104_Nederland_Spoorwegmuseum_2014.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "The Nestor and the Blikken Tinus stand in the halls of the Spoorwegmuseum in Utrecht. Borsig in Berlin built the Nestor for the Hollandsche IJzeren Spoorweg-Maatschappij. The Blikken Tinus got its name from the rattling of its coupling rods at speed.",
+          "de": "Die Nestor und die Blikken Tinus stehen in den Hallen des Spoorwegmuseums in Utrecht. Borsig in Berlin baute die Nestor für die Hollandsche IJzeren Spoorweg-Maatschappij. Ihren Namen bekam die Blikken Tinus vom Klappern der Kuppelstangen bei hoher Geschwindigkeit.",
+          "fr": "La Nestor et la Blikken Tinus sont exposées dans les halles du Spoorwegmuseum à Utrecht. Borsig a construit la Nestor à Berlin pour la Hollandsche IJzeren Spoorweg-Maatschappij. La Blikken Tinus doit son nom au cliquetis que faisaient ses bielles d'accouplement à grande vitesse.",
+          "it": "The Nestor and the Blikken Tinus stand in the halls of the Spoorwegmuseum in Utrecht. Borsig in Berlin built the Nestor for the Hollandsche IJzeren Spoorweg-Maatschappij. The Blikken Tinus got its name from the rattling of its coupling rods at speed.",
+          "nl": "De Nestor en de Blikken Tinus staan in de hallen van het Spoorwegmuseum in Utrecht. Borsig in Berlijn bouwde de Nestor voor de Hollandsche IJzeren Spoorweg-Maatschappij. De Blikken Tinus dankt zijn naam aan het rammelen van de koppelstangen op snelheid.",
+          "pl": "The Nestor and the Blikken Tinus stand in the halls of the Spoorwegmuseum in Utrecht. Borsig in Berlin built the Nestor for the Hollandsche IJzeren Spoorweg-Maatschappij. The Blikken Tinus got its name from the rattling of its coupling rods at speed.",
+          "cs": "The Nestor and the Blikken Tinus stand in the halls of the Spoorwegmuseum in Utrecht. Borsig in Berlin built the Nestor for the Hollandsche IJzeren Spoorweg-Maatschappij. The Blikken Tinus got its name from the rattling of its coupling rods at speed.",
+          "sk": "The Nestor and the Blikken Tinus stand in the halls of the Spoorwegmuseum in Utrecht. Borsig in Berlin built the Nestor for the Hollandsche IJzeren Spoorweg-Maatschappij. The Blikken Tinus got its name from the rattling of its coupling rods at speed.",
+          "ro": "The Nestor and the Blikken Tinus stand in the halls of the Spoorwegmuseum in Utrecht. Borsig in Berlin built the Nestor for the Hollandsche IJzeren Spoorweg-Maatschappij. The Blikken Tinus got its name from the rattling of its coupling rods at speed.",
+          "hu": "The Nestor and the Blikken Tinus stand in the halls of the Spoorwegmuseum in Utrecht. Borsig in Berlin built the Nestor for the Hollandsche IJzeren Spoorweg-Maatschappij. The Blikken Tinus got its name from the rattling of its coupling rods at speed.",
+          "da": "The Nestor and the Blikken Tinus stand in the halls of the Spoorwegmuseum in Utrecht. Borsig in Berlin built the Nestor for the Hollandsche IJzeren Spoorweg-Maatschappij. The Blikken Tinus got its name from the rattling of its coupling rods at speed."
+        },
+        {
+          "en": "De Beul pulled heavy coal trains in South Limburg; the museum calls it the heaviest tender locomotive in Europe. Since 2005 it can only be seen from the cars of the ride \"Stalen Monsters\". The Blauwe Brabanders and the Grote Jumbos were all scrapped. The museum keeps models of them. The last steam train in the Netherlands ran in January 1958.",
+          "de": "De Beul zog schwere Kohlenzüge in Süd-Limburg; das Museum nennt sie die schwerste Tenderlokomotive Europas. Seit 2005 ist sie nur noch aus den Wagen der Fahrt „Stalen Monsters“ zu sehen. Die Blauwe Brabanders und die Grote Jumbos wurden alle verschrottet. Das Museum bewahrt Modelle von ihnen auf. Der letzte Dampfzug in den Niederlanden fuhr im Januar 1958.",
+          "fr": "De Beul tractait de lourds trains de charbon dans le sud du Limbourg ; le musée la présente comme la plus lourde locomotive-tender d'Europe. Depuis 2005, on ne la voit plus que depuis les wagons du parcours « Stalen Monsters ». Les Blauwe Brabanders et les Grote Jumbo's ont toutes été ferraillées. Le musée en conserve des modèles réduits. Le dernier train à vapeur des Pays-Bas a circulé en janvier 1958.",
+          "it": "De Beul pulled heavy coal trains in South Limburg; the museum calls it the heaviest tender locomotive in Europe. Since 2005 it can only be seen from the cars of the ride \"Stalen Monsters\". The Blauwe Brabanders and the Grote Jumbos were all scrapped. The museum keeps models of them. The last steam train in the Netherlands ran in January 1958.",
+          "nl": "De Beul trok zware kolentreinen in Zuid-Limburg; het museum noemt hem de zwaarste tenderlocomotief van Europa. Sinds 2005 is hij alleen te zien vanuit de wagens van de rit „Stalen Monsters”. De Blauwe Brabanders en de Grote Jumbo's zijn allemaal gesloopt. Het museum bewaart er modellen van. De laatste stoomtrein in Nederland reed in januari 1958.",
+          "pl": "De Beul pulled heavy coal trains in South Limburg; the museum calls it the heaviest tender locomotive in Europe. Since 2005 it can only be seen from the cars of the ride \"Stalen Monsters\". The Blauwe Brabanders and the Grote Jumbos were all scrapped. The museum keeps models of them. The last steam train in the Netherlands ran in January 1958.",
+          "cs": "De Beul pulled heavy coal trains in South Limburg; the museum calls it the heaviest tender locomotive in Europe. Since 2005 it can only be seen from the cars of the ride \"Stalen Monsters\". The Blauwe Brabanders and the Grote Jumbos were all scrapped. The museum keeps models of them. The last steam train in the Netherlands ran in January 1958.",
+          "sk": "De Beul pulled heavy coal trains in South Limburg; the museum calls it the heaviest tender locomotive in Europe. Since 2005 it can only be seen from the cars of the ride \"Stalen Monsters\". The Blauwe Brabanders and the Grote Jumbos were all scrapped. The museum keeps models of them. The last steam train in the Netherlands ran in January 1958.",
+          "ro": "De Beul pulled heavy coal trains in South Limburg; the museum calls it the heaviest tender locomotive in Europe. Since 2005 it can only be seen from the cars of the ride \"Stalen Monsters\". The Blauwe Brabanders and the Grote Jumbos were all scrapped. The museum keeps models of them. The last steam train in the Netherlands ran in January 1958.",
+          "hu": "De Beul pulled heavy coal trains in South Limburg; the museum calls it the heaviest tender locomotive in Europe. Since 2005 it can only be seen from the cars of the ride \"Stalen Monsters\". The Blauwe Brabanders and the Grote Jumbos were all scrapped. The museum keeps models of them. The last steam train in the Netherlands ran in January 1958.",
+          "da": "De Beul pulled heavy coal trains in South Limburg; the museum calls it the heaviest tender locomotive in Europe. Since 2005 it can only be seen from the cars of the ride \"Stalen Monsters\". The Blauwe Brabanders and the Grote Jumbos were all scrapped. The museum keeps models of them. The last steam train in the Netherlands ran in January 1958."
+        }
+      ]
+    },
+    {
+      "id": "ordering",
+      "rows": [
+        {
+          "label": {
+            "en": "Online",
+            "de": "Online",
+            "fr": "En ligne",
+            "it": "Online",
+            "nl": "Online",
+            "pl": "Online",
+            "cs": "Online",
+            "sk": "Online",
+            "ro": "Online",
+            "hu": "Online",
+            "da": "Online"
+          },
+          "value": {
+            "en": "PostNL Collect Club shop",
+            "de": "Shop des PostNL Collect Club",
+            "fr": "Boutique PostNL Collect Club",
+            "it": "PostNL Collect Club shop",
+            "nl": "Webshop van PostNL Collect Club",
+            "pl": "PostNL Collect Club shop",
+            "cs": "PostNL Collect Club shop",
+            "sk": "PostNL Collect Club shop",
+            "ro": "PostNL Collect Club shop",
+            "hu": "PostNL Collect Club shop",
+            "da": "PostNL Collect Club shop"
+          }
+        },
+        {
+          "label": {
+            "en": "By phone",
+            "de": "Telefonisch",
+            "fr": "Par téléphone",
+            "it": "By phone",
+            "nl": "Telefonisch",
+            "pl": "By phone",
+            "cs": "By phone",
+            "sk": "By phone",
+            "ro": "By phone",
+            "hu": "By phone",
+            "da": "By phone"
+          },
+          "value": {
+            "en": "Collect Club, 088 868 99 00",
+            "de": "Collect Club, 088 868 99 00",
+            "fr": "Collect Club, 088 868 99 00",
+            "it": "Collect Club, 088 868 99 00",
+            "nl": "Collect Club, 088 868 99 00",
+            "pl": "Collect Club, 088 868 99 00",
+            "cs": "Collect Club, 088 868 99 00",
+            "sk": "Collect Club, 088 868 99 00",
+            "ro": "Collect Club, 088 868 99 00",
+            "hu": "Collect Club, 088 868 99 00",
+            "da": "Collect Club, 088 868 99 00"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "Ordering",
+        "de": "Bestellung",
+        "fr": "Commander",
+        "it": "Ordering",
+        "nl": "Bestellen",
+        "pl": "Ordering",
+        "cs": "Ordering",
+        "sk": "Ordering",
+        "ro": "Ordering",
+        "hu": "Ordering",
+        "da": "Ordering"
+      },
+      "title": {
+        "en": "Where to buy kaderpostzegels",
+        "de": "Wo es kaderpostzegels gibt",
+        "fr": "Où acheter les kaderpostzegels",
+        "it": "Where to buy kaderpostzegels",
+        "nl": "Waar je kaderpostzegels koopt",
+        "pl": "Where to buy kaderpostzegels",
+        "cs": "Where to buy kaderpostzegels",
+        "sk": "Where to buy kaderpostzegels",
+        "ro": "Where to buy kaderpostzegels",
+        "hu": "Where to buy kaderpostzegels",
+        "da": "Where to buy kaderpostzegels"
+      },
+      "buttons": [
+        {
+          "href": "https://shop.postnl.nl/webshop/collect-club",
+          "label": {
+            "en": "PostNL Collect Club shop",
+            "de": "Shop des PostNL Collect Club",
+            "fr": "Boutique PostNL Collect Club",
+            "it": "PostNL Collect Club shop",
+            "nl": "Webshop van PostNL Collect Club",
+            "pl": "PostNL Collect Club shop",
+            "cs": "PostNL Collect Club shop",
+            "sk": "PostNL Collect Club shop",
+            "ro": "PostNL Collect Club shop",
+            "hu": "PostNL Collect Club shop",
+            "da": "PostNL Collect Club shop"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stampiq",
+      "text": {
+        "en": "The Noordzeeschelpen stamps are already in the StampIQ catalogue. Gefeliciteerd, Tuinkruiden and Stoomlocomotieven are added later.",
+        "de": "Die Marken der Ausgabe Noordzeeschelpen sind bereits im StampIQ-Katalog. Gefeliciteerd, Tuinkruiden und Stoomlocomotieven kommen später dazu.",
+        "fr": "Les timbres Noordzeeschelpen figurent déjà dans le catalogue StampIQ. Gefeliciteerd, Tuinkruiden et Stoomlocomotieven y seront ajoutés plus tard.",
+        "it": "The Noordzeeschelpen stamps are already in the StampIQ catalogue. Gefeliciteerd, Tuinkruiden and Stoomlocomotieven are added later.",
+        "nl": "De postzegels van Noordzeeschelpen staan al in de catalogus van StampIQ. Gefeliciteerd, Tuinkruiden en Stoomlocomotieven komen er later bij.",
+        "pl": "The Noordzeeschelpen stamps are already in the StampIQ catalogue. Gefeliciteerd, Tuinkruiden and Stoomlocomotieven are added later.",
+        "cs": "The Noordzeeschelpen stamps are already in the StampIQ catalogue. Gefeliciteerd, Tuinkruiden and Stoomlocomotieven are added later.",
+        "sk": "The Noordzeeschelpen stamps are already in the StampIQ catalogue. Gefeliciteerd, Tuinkruiden and Stoomlocomotieven are added later.",
+        "ro": "The Noordzeeschelpen stamps are already in the StampIQ catalogue. Gefeliciteerd, Tuinkruiden and Stoomlocomotieven are added later.",
+        "hu": "The Noordzeeschelpen stamps are already in the StampIQ catalogue. Gefeliciteerd, Tuinkruiden and Stoomlocomotieven are added later.",
+        "da": "The Noordzeeschelpen stamps are already in the StampIQ catalogue. Gefeliciteerd, Tuinkruiden and Stoomlocomotieven are added later."
+      },
+      "type": "note"
+    }
+  ]
+}
