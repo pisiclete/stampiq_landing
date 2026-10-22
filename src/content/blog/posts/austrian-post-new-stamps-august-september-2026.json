@@ -1,0 +1,1659 @@
+{
+  "category": "new-issues",
+  "markets": [
+    "CH",
+    "LI",
+    "DE",
+    "AT"
+  ],
+  "langs": [
+    "en",
+    "de",
+    "fr",
+    "it"
+  ],
+  "published_at": "2026-10-22T07:05:00+00:00",
+  "thumbnail": {
+    "src": "https://assets.stampiq.io/blog/1a032ca1a0c928b3/at-new-issues-2026-08-09-card.png",
+    "width": 1920,
+    "height": 960
+  },
+  "languages": {
+    "en": {
+      "slug": "austrian-post-new-stamps-august-september-2026",
+      "title": "New Austrian stamps, 31 July to 21 September 2026",
+      "description": "Nine special stamps from the Österreichische Post, from the white baroque donkey to 100 years of Austria's radio amateurs, with formats and prices."
+    },
+    "de": {
+      "slug": "neue-oesterreichische-briefmarken-august-september-2026",
+      "title": "Neue Marken aus Österreich, 31. Juli bis 21. September 2026",
+      "description": "Neun Sondermarken der Österreichischen Post, vom Weißen Barockesel bis zum 100-Jahr-Jubiläum der österreichischen Funkamateure, mit Formaten und Preisen."
+    },
+    "fr": {
+      "slug": "nouveaux-timbres-autrichiens-aout-septembre-2026",
+      "title": "Nouveaux timbres d'Autriche, 31 juillet – 21 septembre 2026",
+      "description": "Neuf timbres spéciaux de l'Österreichische Post, de l'âne baroque blanc aux 100 ans des radioamateurs autrichiens, avec les formats et les prix."
+    },
+    "it": {
+      "slug": "nuovi-francobolli-austriaci-agosto-settembre-2026",
+      "title": "Nuovi francobolli austriaci, 31 luglio – 21 settembre 2026",
+      "description": "Nove francobolli speciali di Österreichische Post, dall'asino barocco bianco ai 100 anni dei radioamatori austriaci, con formati e prezzi."
+    },
+    "nl": {
+      "slug": "austrian-post-new-stamps-august-september-2026",
+      "title": "New Austrian stamps, 31 July to 21 September 2026",
+      "description": "Nine special stamps from the Österreichische Post, from the white baroque donkey to 100 years of Austria's radio amateurs, with formats and prices."
+    },
+    "pl": {
+      "slug": "austrian-post-new-stamps-august-september-2026",
+      "title": "New Austrian stamps, 31 July to 21 September 2026",
+      "description": "Nine special stamps from the Österreichische Post, from the white baroque donkey to 100 years of Austria's radio amateurs, with formats and prices."
+    },
+    "cs": {
+      "slug": "austrian-post-new-stamps-august-september-2026",
+      "title": "New Austrian stamps, 31 July to 21 September 2026",
+      "description": "Nine special stamps from the Österreichische Post, from the white baroque donkey to 100 years of Austria's radio amateurs, with formats and prices."
+    },
+    "sk": {
+      "slug": "austrian-post-new-stamps-august-september-2026",
+      "title": "New Austrian stamps, 31 July to 21 September 2026",
+      "description": "Nine special stamps from the Österreichische Post, from the white baroque donkey to 100 years of Austria's radio amateurs, with formats and prices."
+    },
+    "ro": {
+      "slug": "austrian-post-new-stamps-august-september-2026",
+      "title": "New Austrian stamps, 31 July to 21 September 2026",
+      "description": "Nine special stamps from the Österreichische Post, from the white baroque donkey to 100 years of Austria's radio amateurs, with formats and prices."
+    },
+    "hu": {
+      "slug": "austrian-post-new-stamps-august-september-2026",
+      "title": "New Austrian stamps, 31 July to 21 September 2026",
+      "description": "Nine special stamps from the Österreichische Post, from the white baroque donkey to 100 years of Austria's radio amateurs, with formats and prices."
+    },
+    "da": {
+      "slug": "austrian-post-new-stamps-august-september-2026",
+      "title": "New Austrian stamps, 31 July to 21 September 2026",
+      "description": "Nine special stamps from the Österreichische Post, from the white baroque donkey to 100 years of Austria's radio amateurs, with formats and prices."
+    }
+  },
+  "header": {
+    "lead": {
+      "en": "Between 31 July and 21 September 2026 the Österreichische Post issued nine special stamps. Three of them start new series.",
+      "de": "Vom 31. Juli bis 21. September 2026 gab die Österreichische Post neun Sondermarken heraus. Drei davon eröffnen neue Serien.",
+      "fr": "Entre le 31 juillet et le 21 septembre 2026, l'Österreichische Post a émis neuf timbres spéciaux. Trois d'entre eux ouvrent de nouvelles séries.",
+      "it": "Tra il 31 luglio e il 21 settembre 2026 Österreichische Post ha emesso nove francobolli speciali. Tre di questi aprono nuove serie.",
+      "nl": "Between 31 July and 21 September 2026 the Österreichische Post issued nine special stamps. Three of them start new series.",
+      "pl": "Between 31 July and 21 September 2026 the Österreichische Post issued nine special stamps. Three of them start new series.",
+      "cs": "Between 31 July and 21 September 2026 the Österreichische Post issued nine special stamps. Three of them start new series.",
+      "sk": "Between 31 July and 21 September 2026 the Österreichische Post issued nine special stamps. Three of them start new series.",
+      "ro": "Between 31 July and 21 September 2026 the Österreichische Post issued nine special stamps. Three of them start new series.",
+      "hu": "Between 31 July and 21 September 2026 the Österreichische Post issued nine special stamps. Three of them start new series.",
+      "da": "Between 31 July and 21 September 2026 the Österreichische Post issued nine special stamps. Three of them start new series."
+    },
+    "visual": {
+      "type": "stamp-fan",
+      "stamps": [
+        {
+          "name": {
+            "en": "Weißer Barockesel, €1.00",
+            "de": "Weißer Barockesel, 1,00 €",
+            "fr": "Weißer Barockesel, 1,00 €",
+            "it": "Weißer Barockesel, 1,00 €",
+            "nl": "Weißer Barockesel, €1.00",
+            "pl": "Weißer Barockesel, €1.00",
+            "cs": "Weißer Barockesel, €1.00",
+            "sk": "Weißer Barockesel, €1.00",
+            "ro": "Weißer Barockesel, €1.00",
+            "hu": "Weißer Barockesel, €1.00",
+            "da": "Weißer Barockesel, €1.00"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/454ec3d498adc0c7/at-2026-226250.png",
+            "width": 1000,
+            "height": 700
+          },
+          "country": "AT",
+          "stamp_id": "at-post-226250"
+        },
+        {
+          "name": {
+            "en": "Gitta Mallász, Döblinger Strandbad, €1.25",
+            "de": "Gitta Mallász, Döblinger Strandbad, 1,25 €",
+            "fr": "Gitta Mallász, Döblinger Strandbad, 1,25 €",
+            "it": "Gitta Mallász, Döblinger Strandbad, 1,25 €",
+            "nl": "Gitta Mallász, Döblinger Strandbad, €1.25",
+            "pl": "Gitta Mallász, Döblinger Strandbad, €1.25",
+            "cs": "Gitta Mallász, Döblinger Strandbad, €1.25",
+            "sk": "Gitta Mallász, Döblinger Strandbad, €1.25",
+            "ro": "Gitta Mallász, Döblinger Strandbad, €1.25",
+            "hu": "Gitta Mallász, Döblinger Strandbad, €1.25",
+            "da": "Gitta Mallász, Döblinger Strandbad, €1.25"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/48c8457baf1cf32a/at-2026-226270.png",
+            "width": 1000,
+            "height": 657
+          },
+          "country": "AT",
+          "stamp_id": "at-post-226270"
+        },
+        {
+          "name": {
+            "en": "Frühlings-Knollenblätterpilz, €1.00",
+            "de": "Frühlings-Knollenblätterpilz, 1,00 €",
+            "fr": "Frühlings-Knollenblätterpilz, 1,00 €",
+            "it": "Frühlings-Knollenblätterpilz, 1,00 €",
+            "nl": "Frühlings-Knollenblätterpilz, €1.00",
+            "pl": "Frühlings-Knollenblätterpilz, €1.00",
+            "cs": "Frühlings-Knollenblätterpilz, €1.00",
+            "sk": "Frühlings-Knollenblätterpilz, €1.00",
+            "ro": "Frühlings-Knollenblätterpilz, €1.00",
+            "hu": "Frühlings-Knollenblätterpilz, €1.00",
+            "da": "Frühlings-Knollenblätterpilz, €1.00"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/65009226f3deff88/at-2026-226290.png",
+            "width": 643,
+            "height": 1000
+          },
+          "country": "AT",
+          "stamp_id": "at-post-226290"
+        },
+        {
+          "name": {
+            "en": "200 Jahre Wiener Stadttempel, €2.00",
+            "de": "200 Jahre Wiener Stadttempel, 2,00 €",
+            "fr": "200 Jahre Wiener Stadttempel, 2,00 €",
+            "it": "200 Jahre Wiener Stadttempel, 2,00 €",
+            "nl": "200 Jahre Wiener Stadttempel, €2.00",
+            "pl": "200 Jahre Wiener Stadttempel, €2.00",
+            "cs": "200 Jahre Wiener Stadttempel, €2.00",
+            "sk": "200 Jahre Wiener Stadttempel, €2.00",
+            "ro": "200 Jahre Wiener Stadttempel, €2.00",
+            "hu": "200 Jahre Wiener Stadttempel, €2.00",
+            "da": "200 Jahre Wiener Stadttempel, €2.00"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/c830b3f18d04843b/at-2026-226460.png",
+            "width": 1000,
+            "height": 800
+          },
+          "country": "AT",
+          "stamp_id": "at-post-226460"
+        }
+      ]
+    },
+    "date_label": {
+      "en": "31 July to 21 September 2026",
+      "de": "31. Juli bis 21. September 2026",
+      "fr": "Du 31 juillet au 21 septembre 2026",
+      "it": "Dal 31 luglio al 21 settembre 2026",
+      "nl": "31 July to 21 September 2026",
+      "pl": "31 July to 21 September 2026",
+      "cs": "31 July to 21 September 2026",
+      "sk": "31 July to 21 September 2026",
+      "ro": "31 July to 21 September 2026",
+      "hu": "31 July to 21 September 2026",
+      "da": "31 July to 21 September 2026"
+    }
+  },
+  "blocks": [
+    {
+      "id": "issues",
+      "type": "text",
+      "label": {
+        "en": "The issues",
+        "de": "Die Ausgaben",
+        "fr": "Les émissions",
+        "it": "Le emissioni",
+        "nl": "The issues",
+        "pl": "The issues",
+        "cs": "The issues",
+        "sk": "The issues",
+        "ro": "The issues",
+        "hu": "The issues",
+        "da": "The issues"
+      },
+      "title": {
+        "en": "The Post's late-summer stamps",
+        "de": "Die Spätsommermarken der Post",
+        "fr": "Les timbres de fin d'été de la Poste",
+        "it": "I francobolli di fine estate della Posta austriaca",
+        "nl": "The Post's late-summer stamps",
+        "pl": "The Post's late-summer stamps",
+        "cs": "The Post's late-summer stamps",
+        "sk": "The Post's late-summer stamps",
+        "ro": "The Post's late-summer stamps",
+        "hu": "The Post's late-summer stamps",
+        "da": "The Post's late-summer stamps"
+      },
+      "paragraphs": [
+        {
+          "en": "The nine stamps show a rare donkey breed, two works of Austrian art, a poster of 1927, a postbus and a poisonous mushroom. They also mark 200 years of the Vienna Stadttempel, the young carers of Austria and the centenary of the radio amateurs' association.",
+          "de": "Die neun Marken zeigen eine seltene Eselrasse, zwei Werke österreichischer Kunst, ein Plakat von 1927, einen Postbus und einen Giftpilz. Dazu kommen 200 Jahre Wiener Stadttempel, die jungen Pflegenden in Österreich und 100 Jahre Funkamateurverband.",
+          "fr": "Les neuf timbres montrent une race d'ânes rare, deux œuvres d'art autrichiennes, une affiche de 1927, un autocar postal et un champignon vénéneux. Ils marquent aussi les 200 ans du Stadttempel de Vienne, les jeunes aidants d'Autriche et le centenaire de l'association des radioamateurs.",
+          "it": "I nove francobolli mostrano una rara razza di asini, due opere d'arte austriache, un manifesto del 1927, un autobus postale e un fungo velenoso. Ricordano anche i 200 anni dello Stadttempel di Vienna, i ragazzi che in Austria assistono un familiare e il centenario dell'associazione dei radioamatori.",
+          "nl": "The nine stamps show a rare donkey breed, two works of Austrian art, a poster of 1927, a postbus and a poisonous mushroom. They also mark 200 years of the Vienna Stadttempel, the young carers of Austria and the centenary of the radio amateurs' association.",
+          "pl": "The nine stamps show a rare donkey breed, two works of Austrian art, a poster of 1927, a postbus and a poisonous mushroom. They also mark 200 years of the Vienna Stadttempel, the young carers of Austria and the centenary of the radio amateurs' association.",
+          "cs": "The nine stamps show a rare donkey breed, two works of Austrian art, a poster of 1927, a postbus and a poisonous mushroom. They also mark 200 years of the Vienna Stadttempel, the young carers of Austria and the centenary of the radio amateurs' association.",
+          "sk": "The nine stamps show a rare donkey breed, two works of Austrian art, a poster of 1927, a postbus and a poisonous mushroom. They also mark 200 years of the Vienna Stadttempel, the young carers of Austria and the centenary of the radio amateurs' association.",
+          "ro": "The nine stamps show a rare donkey breed, two works of Austrian art, a poster of 1927, a postbus and a poisonous mushroom. They also mark 200 years of the Vienna Stadttempel, the young carers of Austria and the centenary of the radio amateurs' association.",
+          "hu": "The nine stamps show a rare donkey breed, two works of Austrian art, a poster of 1927, a postbus and a poisonous mushroom. They also mark 200 years of the Vienna Stadttempel, the young carers of Austria and the centenary of the radio amateurs' association.",
+          "da": "The nine stamps show a rare donkey breed, two works of Austrian art, a poster of 1927, a postbus and a poisonous mushroom. They also mark 200 years of the Vienna Stadttempel, the young carers of Austria and the centenary of the radio amateurs' association."
+        },
+        {
+          "en": "Three series are new this year: «Plakatkunst», «Österreich hilft!» and «Kunst aus Österreich», which began in April. The donkey, the poster and the mushroom are printed in sheetlets of 10. All nine are printed in offset, by Cartor, Joh. Enschedé or bpost.",
+          "de": "Drei Serien sind in diesem Jahr neu: „Plakatkunst“, „Österreich hilft!“ und „Kunst aus Österreich“, die im April begonnen hat. Esel, Plakat und Pilz erscheinen in Kleinbogen zu 10 Marken. Gedruckt wurden alle neun im Offsetdruck, bei Cartor, Joh. Enschedé oder bpost.",
+          "fr": "Trois séries sont nouvelles cette année : « Plakatkunst », « Österreich hilft ! » et « Kunst aus Österreich », lancée en avril. L'âne, l'affiche et le champignon sont imprimés en feuillets de 10. Les neuf timbres sortent des presses offset de Cartor, de Joh. Enschedé ou de bpost.",
+          "it": "Quest'anno iniziano tre nuove serie: \"Plakatkunst\", \"Österreich hilft!\" e \"Kunst aus Österreich\", partita ad aprile. L'asino, il manifesto e il fungo escono in minifogli da 10. Tutti e nove sono stampati in offset da Cartor, Joh. Enschedé o bpost.",
+          "nl": "Three series are new this year: «Plakatkunst», «Österreich hilft!» and «Kunst aus Österreich», which began in April. The donkey, the poster and the mushroom are printed in sheetlets of 10. All nine are printed in offset, by Cartor, Joh. Enschedé or bpost.",
+          "pl": "Three series are new this year: «Plakatkunst», «Österreich hilft!» and «Kunst aus Österreich», which began in April. The donkey, the poster and the mushroom are printed in sheetlets of 10. All nine are printed in offset, by Cartor, Joh. Enschedé or bpost.",
+          "cs": "Three series are new this year: «Plakatkunst», «Österreich hilft!» and «Kunst aus Österreich», which began in April. The donkey, the poster and the mushroom are printed in sheetlets of 10. All nine are printed in offset, by Cartor, Joh. Enschedé or bpost.",
+          "sk": "Three series are new this year: «Plakatkunst», «Österreich hilft!» and «Kunst aus Österreich», which began in April. The donkey, the poster and the mushroom are printed in sheetlets of 10. All nine are printed in offset, by Cartor, Joh. Enschedé or bpost.",
+          "ro": "Three series are new this year: «Plakatkunst», «Österreich hilft!» and «Kunst aus Österreich», which began in April. The donkey, the poster and the mushroom are printed in sheetlets of 10. All nine are printed in offset, by Cartor, Joh. Enschedé or bpost.",
+          "hu": "Three series are new this year: «Plakatkunst», «Österreich hilft!» and «Kunst aus Österreich», which began in April. The donkey, the poster and the mushroom are printed in sheetlets of 10. All nine are printed in offset, by Cartor, Joh. Enschedé or bpost.",
+          "da": "Three series are new this year: «Plakatkunst», «Österreich hilft!» and «Kunst aus Österreich», which began in April. The donkey, the poster and the mushroom are printed in sheetlets of 10. All nine are printed in offset, by Cartor, Joh. Enschedé or bpost."
+        }
+      ]
+    },
+    {
+      "id": "barockesel",
+      "date": {
+        "en": "31 July 2026",
+        "de": "31. Juli 2026",
+        "fr": "31 juillet 2026",
+        "it": "31 luglio 2026",
+        "nl": "31 July 2026",
+        "pl": "31 July 2026",
+        "cs": "31 July 2026",
+        "sk": "31 July 2026",
+        "ro": "31 July 2026",
+        "hu": "31 July 2026",
+        "da": "31 July 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Weißer Barockesel, €1.00",
+          "de": "Weißer Barockesel, 1,00 €",
+          "fr": "Weißer Barockesel, 1,00 €",
+          "it": "Weißer Barockesel, 1,00 €",
+          "nl": "Weißer Barockesel, €1.00",
+          "pl": "Weißer Barockesel, €1.00",
+          "cs": "Weißer Barockesel, €1.00",
+          "sk": "Weißer Barockesel, €1.00",
+          "ro": "Weißer Barockesel, €1.00",
+          "hu": "Weißer Barockesel, €1.00",
+          "da": "Weißer Barockesel, €1.00"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/454ec3d498adc0c7/at-2026-226250.png",
+          "width": 1000,
+          "height": 700
+        },
+        "country": "AT",
+        "stamp_id": "at-post-226250"
+      },
+      "title": {
+        "en": "The white baroque donkey",
+        "de": "Der Weiße Barockesel",
+        "fr": "L'âne baroque blanc",
+        "it": "L'asino barocco bianco",
+        "nl": "The white baroque donkey",
+        "pl": "The white baroque donkey",
+        "cs": "The white baroque donkey",
+        "sk": "The white baroque donkey",
+        "ro": "The white baroque donkey",
+        "hu": "The white baroque donkey",
+        "da": "The white baroque donkey"
+      },
+      "formats": [
+        {
+          "value": "€1.00",
+          "format": {
+            "en": "Stamp",
+            "de": "Marke",
+            "fr": "Timbre",
+            "it": "Francobollo",
+            "nl": "Stamp",
+            "pl": "Stamp",
+            "cs": "Stamp",
+            "sk": "Stamp",
+            "ro": "Stamp",
+            "hu": "Stamp",
+            "da": "Stamp"
+          }
+        },
+        {
+          "value": "€10.00",
+          "format": {
+            "en": "Sheetlet of 10",
+            "de": "Kleinbogen zu 10",
+            "fr": "Feuillet de 10",
+            "it": "Minifoglio da 10",
+            "nl": "Sheetlet of 10",
+            "pl": "Sheetlet of 10",
+            "cs": "Sheetlet of 10",
+            "sk": "Sheetlet of 10",
+            "ro": "Sheetlet of 10",
+            "hu": "Sheetlet of 10",
+            "da": "Sheetlet of 10"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "The sixth stamp in the series «Seltene Nutztierrassen» shows Austria's only native donkey breed. The series began in 2021 with the Jochberger Hummel, a hornless Pinzgauer cattle. Kirsten Lubach drew a mare with her foal drinking from her.",
+          "de": "Die sechste Marke der Serie „Seltene Nutztierrassen“ zeigt die einzige heimische Eselrasse Österreichs. Begonnen hat die Serie 2021 mit der Jochberger Hummel, einem hornlosen Pinzgauer Rind. Kirsten Lubach zeichnete eine Stute mit ihrem Fohlen, das bei ihr trinkt.",
+          "fr": "Le sixième timbre de la série « Seltene Nutztierrassen » est consacré à la seule race d'ânes indigène d'Autriche. La série a commencé en 2021 avec le Jochberger Hummel, un bovin pinzgauer sans cornes. Kirsten Lubach a dessiné une ânesse et son ânon qui tète.",
+          "it": "Il sesto francobollo della serie \"Seltene Nutztierrassen\" mostra l'unica razza asinina autoctona dell'Austria. La serie è iniziata nel 2021 con la Jochberger Hummel, una vacca pinzgauer senza corna. Kirsten Lubach ha disegnato un'asina con il suo puledro che poppa.",
+          "nl": "The sixth stamp in the series «Seltene Nutztierrassen» shows Austria's only native donkey breed. The series began in 2021 with the Jochberger Hummel, a hornless Pinzgauer cattle. Kirsten Lubach drew a mare with her foal drinking from her.",
+          "pl": "The sixth stamp in the series «Seltene Nutztierrassen» shows Austria's only native donkey breed. The series began in 2021 with the Jochberger Hummel, a hornless Pinzgauer cattle. Kirsten Lubach drew a mare with her foal drinking from her.",
+          "cs": "The sixth stamp in the series «Seltene Nutztierrassen» shows Austria's only native donkey breed. The series began in 2021 with the Jochberger Hummel, a hornless Pinzgauer cattle. Kirsten Lubach drew a mare with her foal drinking from her.",
+          "sk": "The sixth stamp in the series «Seltene Nutztierrassen» shows Austria's only native donkey breed. The series began in 2021 with the Jochberger Hummel, a hornless Pinzgauer cattle. Kirsten Lubach drew a mare with her foal drinking from her.",
+          "ro": "The sixth stamp in the series «Seltene Nutztierrassen» shows Austria's only native donkey breed. The series began in 2021 with the Jochberger Hummel, a hornless Pinzgauer cattle. Kirsten Lubach drew a mare with her foal drinking from her.",
+          "hu": "The sixth stamp in the series «Seltene Nutztierrassen» shows Austria's only native donkey breed. The series began in 2021 with the Jochberger Hummel, a hornless Pinzgauer cattle. Kirsten Lubach drew a mare with her foal drinking from her.",
+          "da": "The sixth stamp in the series «Seltene Nutztierrassen» shows Austria's only native donkey breed. The series began in 2021 with the Jochberger Hummel, a hornless Pinzgauer cattle. Kirsten Lubach drew a mare with her foal drinking from her."
+        },
+        {
+          "en": "The white baroque donkey has a cream coat and blue eyes. In the baroque period the nobility saw white animals as bringers of light. The breed was rediscovered in 1986 at Schloss Herberstein. It was recognised as a breed in 2016.",
+          "de": "Der Weiße Barockesel hat ein cremefarbenes Fell und blaue Augen. Im Barock galten weiße Tiere beim Adel als Lichtbringer. 1986 wurde die Rasse auf Schloss Herberstein wiederentdeckt, 2016 wurde sie als eigene Rasse anerkannt.",
+          "fr": "L'âne baroque blanc a une robe crème et des yeux bleus. À l'époque baroque, la noblesse voyait dans les animaux blancs des porteurs de lumière. La race a été redécouverte en 1986 au Schloss Herberstein. Elle est reconnue comme race depuis 2016.",
+          "it": "L'asino barocco bianco ha il mantello color crema e gli occhi azzurri. In epoca barocca la nobiltà vedeva negli animali bianchi dei portatori di luce. La razza è stata riscoperta nel 1986 a Schloss Herberstein. Il riconoscimento ufficiale è arrivato nel 2016.",
+          "nl": "The white baroque donkey has a cream coat and blue eyes. In the baroque period the nobility saw white animals as bringers of light. The breed was rediscovered in 1986 at Schloss Herberstein. It was recognised as a breed in 2016.",
+          "pl": "The white baroque donkey has a cream coat and blue eyes. In the baroque period the nobility saw white animals as bringers of light. The breed was rediscovered in 1986 at Schloss Herberstein. It was recognised as a breed in 2016.",
+          "cs": "The white baroque donkey has a cream coat and blue eyes. In the baroque period the nobility saw white animals as bringers of light. The breed was rediscovered in 1986 at Schloss Herberstein. It was recognised as a breed in 2016.",
+          "sk": "The white baroque donkey has a cream coat and blue eyes. In the baroque period the nobility saw white animals as bringers of light. The breed was rediscovered in 1986 at Schloss Herberstein. It was recognised as a breed in 2016.",
+          "ro": "The white baroque donkey has a cream coat and blue eyes. In the baroque period the nobility saw white animals as bringers of light. The breed was rediscovered in 1986 at Schloss Herberstein. It was recognised as a breed in 2016.",
+          "hu": "The white baroque donkey has a cream coat and blue eyes. In the baroque period the nobility saw white animals as bringers of light. The breed was rediscovered in 1986 at Schloss Herberstein. It was recognised as a breed in 2016.",
+          "da": "The white baroque donkey has a cream coat and blue eyes. In the baroque period the nobility saw white animals as bringers of light. The breed was rediscovered in 1986 at Schloss Herberstein. It was recognised as a breed in 2016."
+        },
+        {
+          "en": "Herds live in Austria and also in the Natur- und Tierpark Goldau in Switzerland and in German zoos such as Stralsund and Gera.",
+          "de": "Herden leben in Österreich, außerdem im Natur- und Tierpark Goldau in der Schweiz und in deutschen Zoos wie Stralsund und Gera.",
+          "fr": "Des troupeaux vivent en Autriche, ainsi qu'au Natur- und Tierpark Goldau en Suisse et dans des zoos allemands comme ceux de Stralsund et de Gera.",
+          "it": "Alcune mandrie vivono in Austria, altre nel Natur- und Tierpark Goldau in Svizzera e in zoo tedeschi come quelli di Stralsund e Gera.",
+          "nl": "Herds live in Austria and also in the Natur- und Tierpark Goldau in Switzerland and in German zoos such as Stralsund and Gera.",
+          "pl": "Herds live in Austria and also in the Natur- und Tierpark Goldau in Switzerland and in German zoos such as Stralsund and Gera.",
+          "cs": "Herds live in Austria and also in the Natur- und Tierpark Goldau in Switzerland and in German zoos such as Stralsund and Gera.",
+          "sk": "Herds live in Austria and also in the Natur- und Tierpark Goldau in Switzerland and in German zoos such as Stralsund and Gera.",
+          "ro": "Herds live in Austria and also in the Natur- und Tierpark Goldau in Switzerland and in German zoos such as Stralsund and Gera.",
+          "hu": "Herds live in Austria and also in the Natur- und Tierpark Goldau in Switzerland and in German zoos such as Stralsund and Gera.",
+          "da": "Herds live in Austria and also in the Natur- und Tierpark Goldau in Switzerland and in German zoos such as Stralsund and Gera."
+        },
+        {
+          "en": "The stamp pays for a standard letter up to 20 g within Austria. Its 250,000 copies are printed in sheetlets of 10. The first day was at Schloss Hof in Lower Austria.",
+          "de": "Die Marke frankiert einen Standardbrief bis 20 g innerhalb Österreichs. Die 250.000 Stück erscheinen in Kleinbogen zu 10. Der Ersttag war auf Schloss Hof in Niederösterreich.",
+          "fr": "Le timbre affranchit une lettre standard jusqu'à 20 g en Autriche. Ses 250 000 exemplaires sont imprimés en feuillets de 10. Le premier jour d'émission a eu lieu au Schloss Hof, en Basse-Autriche.",
+          "it": "Il francobollo copre la tariffa di una lettera standard fino a 20 g all'interno dell'Austria. Ne sono stati stampati 250.000 pezzi, in minifogli da 10. Il primo giorno di emissione si è tenuto a Schloss Hof, in Bassa Austria.",
+          "nl": "The stamp pays for a standard letter up to 20 g within Austria. Its 250,000 copies are printed in sheetlets of 10. The first day was at Schloss Hof in Lower Austria.",
+          "pl": "The stamp pays for a standard letter up to 20 g within Austria. Its 250,000 copies are printed in sheetlets of 10. The first day was at Schloss Hof in Lower Austria.",
+          "cs": "The stamp pays for a standard letter up to 20 g within Austria. Its 250,000 copies are printed in sheetlets of 10. The first day was at Schloss Hof in Lower Austria.",
+          "sk": "The stamp pays for a standard letter up to 20 g within Austria. Its 250,000 copies are printed in sheetlets of 10. The first day was at Schloss Hof in Lower Austria.",
+          "ro": "The stamp pays for a standard letter up to 20 g within Austria. Its 250,000 copies are printed in sheetlets of 10. The first day was at Schloss Hof in Lower Austria.",
+          "hu": "The stamp pays for a standard letter up to 20 g within Austria. Its 250,000 copies are printed in sheetlets of 10. The first day was at Schloss Hof in Lower Austria.",
+          "da": "The stamp pays for a standard letter up to 20 g within Austria. Its 250,000 copies are printed in sheetlets of 10. The first day was at Schloss Hof in Lower Austria."
+        }
+      ]
+    },
+    {
+      "id": "eisenkoeck",
+      "date": {
+        "en": "12 August 2026",
+        "de": "12. August 2026",
+        "fr": "12 août 2026",
+        "it": "12 agosto 2026",
+        "nl": "12 August 2026",
+        "pl": "12 August 2026",
+        "cs": "12 August 2026",
+        "sk": "12 August 2026",
+        "ro": "12 August 2026",
+        "hu": "12 August 2026",
+        "da": "12 August 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Angela Eisenköck, Fragments 44, €3.50",
+          "de": "Angela Eisenköck, Fragments 44, 3,50 €",
+          "fr": "Angela Eisenköck, Fragments 44, 3,50 €",
+          "it": "Angela Eisenköck, Fragments 44, 3,50 €",
+          "nl": "Angela Eisenköck, Fragments 44, €3.50",
+          "pl": "Angela Eisenköck, Fragments 44, €3.50",
+          "cs": "Angela Eisenköck, Fragments 44, €3.50",
+          "sk": "Angela Eisenköck, Fragments 44, €3.50",
+          "ro": "Angela Eisenköck, Fragments 44, €3.50",
+          "hu": "Angela Eisenköck, Fragments 44, €3.50",
+          "da": "Angela Eisenköck, Fragments 44, €3.50"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/50bda7b64094379f/at-2026-226260.png",
+          "width": 1000,
+          "height": 817
+        },
+        "country": "AT",
+        "stamp_id": "at-post-226260"
+      },
+      "title": {
+        "en": "Angela Eisenköck, «Fragments 44»",
+        "de": "Angela Eisenköck, „Fragments 44“",
+        "fr": "Angela Eisenköck, « Fragments 44 »",
+        "it": "Angela Eisenköck, \"Fragments 44\"",
+        "nl": "Angela Eisenköck, «Fragments 44»",
+        "pl": "Angela Eisenköck, «Fragments 44»",
+        "cs": "Angela Eisenköck, «Fragments 44»",
+        "sk": "Angela Eisenköck, «Fragments 44»",
+        "ro": "Angela Eisenköck, «Fragments 44»",
+        "hu": "Angela Eisenköck, «Fragments 44»",
+        "da": "Angela Eisenköck, «Fragments 44»"
+      },
+      "formats": [
+        {
+          "value": "€3.50",
+          "format": {
+            "en": "Stamp",
+            "de": "Marke",
+            "fr": "Timbre",
+            "it": "Francobollo",
+            "nl": "Stamp",
+            "pl": "Stamp",
+            "cs": "Stamp",
+            "sk": "Stamp",
+            "ro": "Stamp",
+            "hu": "Stamp",
+            "da": "Stamp"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "The second stamp in the new series «Kunst aus Österreich» shows a work by Angela Eisenköck, who works in Graz. «Fragments 44» measures 160 × 180 cm and is made with pastel, charcoal and acrylic.",
+          "de": "Die zweite Marke der neuen Serie „Kunst aus Österreich“ zeigt ein Werk von Angela Eisenköck, die in Graz arbeitet. „Fragments 44“ misst 160 × 180 cm und ist in Pastell, Kohle und Acryl gearbeitet.",
+          "fr": "Le deuxième timbre de la nouvelle série « Kunst aus Österreich » montre une œuvre d'Angela Eisenköck, qui travaille à Graz. « Fragments 44 » mesure 160 × 180 cm et associe pastel, fusain et acrylique.",
+          "it": "Il secondo francobollo della nuova serie \"Kunst aus Österreich\" mostra un'opera di Angela Eisenköck, che lavora a Graz. \"Fragments 44\" misura 160 × 180 cm ed è realizzata a pastello, carboncino e acrilico.",
+          "nl": "The second stamp in the new series «Kunst aus Österreich» shows a work by Angela Eisenköck, who works in Graz. «Fragments 44» measures 160 × 180 cm and is made with pastel, charcoal and acrylic.",
+          "pl": "The second stamp in the new series «Kunst aus Österreich» shows a work by Angela Eisenköck, who works in Graz. «Fragments 44» measures 160 × 180 cm and is made with pastel, charcoal and acrylic.",
+          "cs": "The second stamp in the new series «Kunst aus Österreich» shows a work by Angela Eisenköck, who works in Graz. «Fragments 44» measures 160 × 180 cm and is made with pastel, charcoal and acrylic.",
+          "sk": "The second stamp in the new series «Kunst aus Österreich» shows a work by Angela Eisenköck, who works in Graz. «Fragments 44» measures 160 × 180 cm and is made with pastel, charcoal and acrylic.",
+          "ro": "The second stamp in the new series «Kunst aus Österreich» shows a work by Angela Eisenköck, who works in Graz. «Fragments 44» measures 160 × 180 cm and is made with pastel, charcoal and acrylic.",
+          "hu": "The second stamp in the new series «Kunst aus Österreich» shows a work by Angela Eisenköck, who works in Graz. «Fragments 44» measures 160 × 180 cm and is made with pastel, charcoal and acrylic.",
+          "da": "The second stamp in the new series «Kunst aus Österreich» shows a work by Angela Eisenköck, who works in Graz. «Fragments 44» measures 160 × 180 cm and is made with pastel, charcoal and acrylic."
+        },
+        {
+          "en": "Eisenköck studied architecture and began as a portrait painter. After an operation in 2018 she spent weeks in hospital and watched the flowers she had been given wither. Since then her series «Fragments» has been about plants and how they fade. Each picture starts from a photograph of a withered plant, which she changes in several steps and builds up on canvas in many layers.",
+          "de": "Eisenköck studierte Architektur und begann als Porträtmalerin. Nach einer Operation 2018 lag sie wochenlang im Krankenhaus und sah zu, wie die geschenkten Blumen verwelkten. Seither geht es in ihrer Serie „Fragments“ um Pflanzen und ihr Vergehen. Jedes Bild beginnt mit dem Foto einer verwelkten Pflanze, das sie in mehreren Schritten verändert und in vielen Schichten auf die Leinwand aufbaut.",
+          "fr": "Eisenköck a étudié l'architecture et a débuté comme portraitiste. Après une opération en 2018, elle a passé plusieurs semaines à l'hôpital et a vu se flétrir les fleurs qu'on lui avait offertes. Depuis, sa série « Fragments » parle des plantes et de leur dépérissement. Chaque tableau part de la photographie d'une plante fanée. Elle la retravaille en plusieurs étapes, puis la construit sur la toile en de nombreuses couches.",
+          "it": "Eisenköck ha studiato architettura e ha iniziato come ritrattista. Dopo un'operazione nel 2018 ha passato settimane in ospedale e ha visto appassire i fiori che le erano stati regalati. Da allora la sua serie \"Fragments\" parla di piante e del loro sfiorire. Ogni quadro nasce dalla fotografia di una pianta appassita: l'artista la rielabora in più passaggi e poi la costruisce sulla tela a strati.",
+          "nl": "Eisenköck studied architecture and began as a portrait painter. After an operation in 2018 she spent weeks in hospital and watched the flowers she had been given wither. Since then her series «Fragments» has been about plants and how they fade. Each picture starts from a photograph of a withered plant, which she changes in several steps and builds up on canvas in many layers.",
+          "pl": "Eisenköck studied architecture and began as a portrait painter. After an operation in 2018 she spent weeks in hospital and watched the flowers she had been given wither. Since then her series «Fragments» has been about plants and how they fade. Each picture starts from a photograph of a withered plant, which she changes in several steps and builds up on canvas in many layers.",
+          "cs": "Eisenköck studied architecture and began as a portrait painter. After an operation in 2018 she spent weeks in hospital and watched the flowers she had been given wither. Since then her series «Fragments» has been about plants and how they fade. Each picture starts from a photograph of a withered plant, which she changes in several steps and builds up on canvas in many layers.",
+          "sk": "Eisenköck studied architecture and began as a portrait painter. After an operation in 2018 she spent weeks in hospital and watched the flowers she had been given wither. Since then her series «Fragments» has been about plants and how they fade. Each picture starts from a photograph of a withered plant, which she changes in several steps and builds up on canvas in many layers.",
+          "ro": "Eisenköck studied architecture and began as a portrait painter. After an operation in 2018 she spent weeks in hospital and watched the flowers she had been given wither. Since then her series «Fragments» has been about plants and how they fade. Each picture starts from a photograph of a withered plant, which she changes in several steps and builds up on canvas in many layers.",
+          "hu": "Eisenköck studied architecture and began as a portrait painter. After an operation in 2018 she spent weeks in hospital and watched the flowers she had been given wither. Since then her series «Fragments» has been about plants and how they fade. Each picture starts from a photograph of a withered plant, which she changes in several steps and builds up on canvas in many layers.",
+          "da": "Eisenköck studied architecture and began as a portrait painter. After an operation in 2018 she spent weeks in hospital and watched the flowers she had been given wither. Since then her series «Fragments» has been about plants and how they fade. Each picture starts from a photograph of a withered plant, which she changes in several steps and builds up on canvas in many layers."
+        },
+        {
+          "en": "Regina Simon designed the stamp. At €3.50 it is the highest value of the nine. The print run is 110,000.",
+          "de": "Regina Simon gestaltete die Marke. Mit 3,50 € ist sie der höchste Wert der neun. Die Auflage beträgt 110.000 Stück.",
+          "fr": "Regina Simon a conçu le timbre. Avec 3,50 €, il a la valeur faciale la plus élevée des neuf. Le tirage est de 110 000 exemplaires.",
+          "it": "Il francobollo è stato disegnato da Regina Simon. Con 3,50 € è il valore più alto dei nove. La tiratura è di 110.000 pezzi.",
+          "nl": "Regina Simon designed the stamp. At €3.50 it is the highest value of the nine. The print run is 110,000.",
+          "pl": "Regina Simon designed the stamp. At €3.50 it is the highest value of the nine. The print run is 110,000.",
+          "cs": "Regina Simon designed the stamp. At €3.50 it is the highest value of the nine. The print run is 110,000.",
+          "sk": "Regina Simon designed the stamp. At €3.50 it is the highest value of the nine. The print run is 110,000.",
+          "ro": "Regina Simon designed the stamp. At €3.50 it is the highest value of the nine. The print run is 110,000.",
+          "hu": "Regina Simon designed the stamp. At €3.50 it is the highest value of the nine. The print run is 110,000.",
+          "da": "Regina Simon designed the stamp. At €3.50 it is the highest value of the nine. The print run is 110,000."
+        }
+      ]
+    },
+    {
+      "id": "mallasz",
+      "date": {
+        "en": "12 August 2026",
+        "de": "12. August 2026",
+        "fr": "12 août 2026",
+        "it": "12 agosto 2026",
+        "nl": "12 August 2026",
+        "pl": "12 August 2026",
+        "cs": "12 August 2026",
+        "sk": "12 August 2026",
+        "ro": "12 August 2026",
+        "hu": "12 August 2026",
+        "da": "12 August 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Gitta Mallász, Döblinger Strandbad, €1.25",
+          "de": "Gitta Mallász, Döblinger Strandbad, 1,25 €",
+          "fr": "Gitta Mallász, Döblinger Strandbad, 1,25 €",
+          "it": "Gitta Mallász, Döblinger Strandbad, 1,25 €",
+          "nl": "Gitta Mallász, Döblinger Strandbad, €1.25",
+          "pl": "Gitta Mallász, Döblinger Strandbad, €1.25",
+          "cs": "Gitta Mallász, Döblinger Strandbad, €1.25",
+          "sk": "Gitta Mallász, Döblinger Strandbad, €1.25",
+          "ro": "Gitta Mallász, Döblinger Strandbad, €1.25",
+          "hu": "Gitta Mallász, Döblinger Strandbad, €1.25",
+          "da": "Gitta Mallász, Döblinger Strandbad, €1.25"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/48c8457baf1cf32a/at-2026-226270.png",
+          "width": 1000,
+          "height": 657
+        },
+        "country": "AT",
+        "stamp_id": "at-post-226270"
+      },
+      "title": {
+        "en": "Gitta Mallász's poster for the Döblinger Strandbad",
+        "de": "Gitta Mallász' Plakat für das Döblinger Strandbad",
+        "fr": "L'affiche de Gitta Mallász pour le Döblinger Strandbad",
+        "it": "Il manifesto di Gitta Mallász per il Döblinger Strandbad",
+        "nl": "Gitta Mallász's poster for the Döblinger Strandbad",
+        "pl": "Gitta Mallász's poster for the Döblinger Strandbad",
+        "cs": "Gitta Mallász's poster for the Döblinger Strandbad",
+        "sk": "Gitta Mallász's poster for the Döblinger Strandbad",
+        "ro": "Gitta Mallász's poster for the Döblinger Strandbad",
+        "hu": "Gitta Mallász's poster for the Döblinger Strandbad",
+        "da": "Gitta Mallász's poster for the Döblinger Strandbad"
+      },
+      "formats": [
+        {
+          "value": "€1.25",
+          "format": {
+            "en": "Stamp",
+            "de": "Marke",
+            "fr": "Timbre",
+            "it": "Francobollo",
+            "nl": "Stamp",
+            "pl": "Stamp",
+            "cs": "Stamp",
+            "sk": "Stamp",
+            "ro": "Stamp",
+            "hu": "Stamp",
+            "da": "Stamp"
+          }
+        },
+        {
+          "value": "€12.50",
+          "format": {
+            "en": "Sheetlet of 10",
+            "de": "Kleinbogen zu 10",
+            "fr": "Feuillet de 10",
+            "it": "Minifoglio da 10",
+            "nl": "Sheetlet of 10",
+            "pl": "Sheetlet of 10",
+            "cs": "Sheetlet of 10",
+            "sk": "Sheetlet of 10",
+            "ro": "Sheetlet of 10",
+            "hu": "Sheetlet of 10",
+            "da": "Sheetlet of 10"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "The new series «Plakatkunst» starts with a poster of 1927 from the Wienbibliothek. It advertises the Döblinger Strandbad. The stamp shows its address line, «DÖBLINGER-HAUPTSTRASSE-70».",
+          "de": "Die neue Serie „Plakatkunst“ beginnt mit einem Plakat von 1927 aus der Wienbibliothek. Es wirbt für das Döblinger Strandbad. Auf der Marke steht die Adresszeile „DÖBLINGER-HAUPTSTRASSE-70“.",
+          "fr": "La nouvelle série « Plakatkunst » débute avec une affiche de 1927 conservée à la Wienbibliothek. Elle fait la publicité du Döblinger Strandbad. Le timbre en reprend la ligne d'adresse, « DÖBLINGER-HAUPTSTRASSE-70 ».",
+          "it": "La nuova serie \"Plakatkunst\" si apre con un manifesto del 1927 conservato alla Wienbibliothek. Pubblicizza il Döblinger Strandbad. Sul francobollo si legge la riga dell'indirizzo: \"DÖBLINGER-HAUPTSTRASSE-70\".",
+          "nl": "The new series «Plakatkunst» starts with a poster of 1927 from the Wienbibliothek. It advertises the Döblinger Strandbad. The stamp shows its address line, «DÖBLINGER-HAUPTSTRASSE-70».",
+          "pl": "The new series «Plakatkunst» starts with a poster of 1927 from the Wienbibliothek. It advertises the Döblinger Strandbad. The stamp shows its address line, «DÖBLINGER-HAUPTSTRASSE-70».",
+          "cs": "The new series «Plakatkunst» starts with a poster of 1927 from the Wienbibliothek. It advertises the Döblinger Strandbad. The stamp shows its address line, «DÖBLINGER-HAUPTSTRASSE-70».",
+          "sk": "The new series «Plakatkunst» starts with a poster of 1927 from the Wienbibliothek. It advertises the Döblinger Strandbad. The stamp shows its address line, «DÖBLINGER-HAUPTSTRASSE-70».",
+          "ro": "The new series «Plakatkunst» starts with a poster of 1927 from the Wienbibliothek. It advertises the Döblinger Strandbad. The stamp shows its address line, «DÖBLINGER-HAUPTSTRASSE-70».",
+          "hu": "The new series «Plakatkunst» starts with a poster of 1927 from the Wienbibliothek. It advertises the Döblinger Strandbad. The stamp shows its address line, «DÖBLINGER-HAUPTSTRASSE-70».",
+          "da": "The new series «Plakatkunst» starts with a poster of 1927 from the Wienbibliothek. It advertises the Döblinger Strandbad. The stamp shows its address line, «DÖBLINGER-HAUPTSTRASSE-70»."
+        },
+        {
+          "en": "Gitta Mallász (1907 to 1992) designed posters in Budapest with Hanna Dallos and her husband. She was also a swimmer and won bronze in the 4 × 100 m freestyle relay at the 1931 European Championships.",
+          "de": "Gitta Mallász (1907 bis 1992) entwarf in Budapest gemeinsam mit Hanna Dallos und deren Mann Plakate. Sie war außerdem Schwimmerin und gewann bei der Europameisterschaft 1931 Bronze in der Staffel 4 × 100 m Freistil.",
+          "fr": "Gitta Mallász (1907-1992) a créé des affiches à Budapest avec Hanna Dallos et le mari de celle-ci. Elle était aussi nageuse et a remporté le bronze au relais 4 × 100 m nage libre aux championnats d'Europe de 1931.",
+          "it": "Gitta Mallász (1907-1992) disegnava manifesti a Budapest insieme a Hanna Dallos e al marito di lei. Era anche nuotatrice e ai campionati europei del 1931 ha vinto il bronzo nella staffetta 4 × 100 m stile libero.",
+          "nl": "Gitta Mallász (1907 to 1992) designed posters in Budapest with Hanna Dallos and her husband. She was also a swimmer and won bronze in the 4 × 100 m freestyle relay at the 1931 European Championships.",
+          "pl": "Gitta Mallász (1907 to 1992) designed posters in Budapest with Hanna Dallos and her husband. She was also a swimmer and won bronze in the 4 × 100 m freestyle relay at the 1931 European Championships.",
+          "cs": "Gitta Mallász (1907 to 1992) designed posters in Budapest with Hanna Dallos and her husband. She was also a swimmer and won bronze in the 4 × 100 m freestyle relay at the 1931 European Championships.",
+          "sk": "Gitta Mallász (1907 to 1992) designed posters in Budapest with Hanna Dallos and her husband. She was also a swimmer and won bronze in the 4 × 100 m freestyle relay at the 1931 European Championships.",
+          "ro": "Gitta Mallász (1907 to 1992) designed posters in Budapest with Hanna Dallos and her husband. She was also a swimmer and won bronze in the 4 × 100 m freestyle relay at the 1931 European Championships.",
+          "hu": "Gitta Mallász (1907 to 1992) designed posters in Budapest with Hanna Dallos and her husband. She was also a swimmer and won bronze in the 4 × 100 m freestyle relay at the 1931 European Championships.",
+          "da": "Gitta Mallász (1907 to 1992) designed posters in Budapest with Hanna Dallos and her husband. She was also a swimmer and won bronze in the 4 × 100 m freestyle relay at the 1931 European Championships."
+        },
+        {
+          "en": "During the war she saved hundreds of Jewish women and children in Budapest. After her death Yad Vashem recognised her as Righteous Among the Nations.",
+          "de": "Im Krieg rettete sie in Budapest Hunderte jüdische Frauen und Kinder. Nach ihrem Tod wurde sie von Yad Vashem als Gerechte unter den Völkern anerkannt.",
+          "fr": "Pendant la guerre, elle a sauvé des centaines de femmes et d'enfants juifs à Budapest. Après sa mort, Yad Vashem l'a reconnue Juste parmi les Nations.",
+          "it": "Durante la guerra ha salvato centinaia di donne e bambini ebrei a Budapest. Dopo la sua morte Yad Vashem le ha conferito il titolo di Giusta tra le nazioni.",
+          "nl": "During the war she saved hundreds of Jewish women and children in Budapest. After her death Yad Vashem recognised her as Righteous Among the Nations.",
+          "pl": "During the war she saved hundreds of Jewish women and children in Budapest. After her death Yad Vashem recognised her as Righteous Among the Nations.",
+          "cs": "During the war she saved hundreds of Jewish women and children in Budapest. After her death Yad Vashem recognised her as Righteous Among the Nations.",
+          "sk": "During the war she saved hundreds of Jewish women and children in Budapest. After her death Yad Vashem recognised her as Righteous Among the Nations.",
+          "ro": "During the war she saved hundreds of Jewish women and children in Budapest. After her death Yad Vashem recognised her as Righteous Among the Nations.",
+          "hu": "During the war she saved hundreds of Jewish women and children in Budapest. After her death Yad Vashem recognised her as Righteous Among the Nations.",
+          "da": "During the war she saved hundreds of Jewish women and children in Budapest. After her death Yad Vashem recognised her as Righteous Among the Nations."
+        },
+        {
+          "en": "Anita Kern designed the stamp. It is printed in sheetlets of 10 with a frame reading «Österreichische Plakatkunst», 220,000 stamps in all.",
+          "de": "Anita Kern gestaltete die Marke. Sie erscheint in Kleinbogen zu 10 mit einer Umrandung, auf der „Österreichische Plakatkunst“ steht, insgesamt 220.000 Marken.",
+          "fr": "Anita Kern a conçu le timbre. Il est imprimé en feuillets de 10 dont le cadre porte la mention « Österreichische Plakatkunst », pour un total de 220 000 timbres.",
+          "it": "Il francobollo è stato disegnato da Anita Kern. Viene stampato in minifogli da 10 con una cornice che riporta \"Österreichische Plakatkunst\", per un totale di 220.000 francobolli.",
+          "nl": "Anita Kern designed the stamp. It is printed in sheetlets of 10 with a frame reading «Österreichische Plakatkunst», 220,000 stamps in all.",
+          "pl": "Anita Kern designed the stamp. It is printed in sheetlets of 10 with a frame reading «Österreichische Plakatkunst», 220,000 stamps in all.",
+          "cs": "Anita Kern designed the stamp. It is printed in sheetlets of 10 with a frame reading «Österreichische Plakatkunst», 220,000 stamps in all.",
+          "sk": "Anita Kern designed the stamp. It is printed in sheetlets of 10 with a frame reading «Österreichische Plakatkunst», 220,000 stamps in all.",
+          "ro": "Anita Kern designed the stamp. It is printed in sheetlets of 10 with a frame reading «Österreichische Plakatkunst», 220,000 stamps in all.",
+          "hu": "Anita Kern designed the stamp. It is printed in sheetlets of 10 with a frame reading «Österreichische Plakatkunst», 220,000 stamps in all.",
+          "da": "Anita Kern designed the stamp. It is printed in sheetlets of 10 with a frame reading «Österreichische Plakatkunst», 220,000 stamps in all."
+        }
+      ]
+    },
+    {
+      "id": "saurer",
+      "date": {
+        "en": "28 August 2026",
+        "de": "28. August 2026",
+        "fr": "28 août 2026",
+        "it": "28 agosto 2026",
+        "nl": "28 August 2026",
+        "pl": "28 August 2026",
+        "cs": "28 August 2026",
+        "sk": "28 August 2026",
+        "ro": "28 August 2026",
+        "hu": "28 August 2026",
+        "da": "28 August 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Steyr Saurer 4 SHFN-OL, €2.00",
+          "de": "Steyr Saurer 4 SHFN-OL, 2,00 €",
+          "fr": "Steyr Saurer 4 SHFN-OL, 2,00 €",
+          "it": "Steyr Saurer 4 SHFN-OL, 2,00 €",
+          "nl": "Steyr Saurer 4 SHFN-OL, €2.00",
+          "pl": "Steyr Saurer 4 SHFN-OL, €2.00",
+          "cs": "Steyr Saurer 4 SHFN-OL, €2.00",
+          "sk": "Steyr Saurer 4 SHFN-OL, €2.00",
+          "ro": "Steyr Saurer 4 SHFN-OL, €2.00",
+          "hu": "Steyr Saurer 4 SHFN-OL, €2.00",
+          "da": "Steyr Saurer 4 SHFN-OL, €2.00"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/2ae7c4ad43e25e1b/at-2026-226280.png",
+          "width": 1000,
+          "height": 730
+        },
+        "country": "AT",
+        "stamp_id": "at-post-226280"
+      },
+      "title": {
+        "en": "The Steyr Saurer 4 SHFN-OL postbus",
+        "de": "Der Postbus Steyr Saurer 4 SHFN-OL",
+        "fr": "L'autocar postal Steyr Saurer 4 SHFN-OL",
+        "it": "L'autobus postale Steyr Saurer 4 SHFN-OL",
+        "nl": "The Steyr Saurer 4 SHFN-OL postbus",
+        "pl": "The Steyr Saurer 4 SHFN-OL postbus",
+        "cs": "The Steyr Saurer 4 SHFN-OL postbus",
+        "sk": "The Steyr Saurer 4 SHFN-OL postbus",
+        "ro": "The Steyr Saurer 4 SHFN-OL postbus",
+        "hu": "The Steyr Saurer 4 SHFN-OL postbus",
+        "da": "The Steyr Saurer 4 SHFN-OL postbus"
+      },
+      "formats": [
+        {
+          "value": "€2.00",
+          "format": {
+            "en": "Stamp",
+            "de": "Marke",
+            "fr": "Timbre",
+            "it": "Francobollo",
+            "nl": "Stamp",
+            "pl": "Stamp",
+            "cs": "Stamp",
+            "sk": "Stamp",
+            "ro": "Stamp",
+            "hu": "Stamp",
+            "da": "Stamp"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "The series «Historische Postfahrzeuge» moves on to a postbus of 1965. Steyr-Daimler-Puch took over most of the Österreichische Saurerwerke in 1959. Together they developed the Steyr Saurer 4 SH-O. The 4 SHFN-OL was based on it and was built until 1971.",
+          "de": "Die Serie „Historische Postfahrzeuge“ geht mit einem Postbus von 1965 weiter. Steyr-Daimler-Puch übernahm 1959 den größten Teil der Österreichischen Saurerwerke. Gemeinsam entwickelten sie den Steyr Saurer 4 SH-O. Darauf baute der 4 SHFN-OL auf, der bis 1971 gebaut wurde.",
+          "fr": "La série « Historische Postfahrzeuge » se poursuit avec un autocar postal de 1965. Steyr-Daimler-Puch a repris en 1959 la plus grande partie des Österreichische Saurerwerke. Ensemble, ils ont mis au point le Steyr Saurer 4 SH-O. Le 4 SHFN-OL en dérive et a été construit jusqu'en 1971.",
+          "it": "La serie \"Historische Postfahrzeuge\" prosegue con un autobus postale del 1965. Nel 1959 Steyr-Daimler-Puch ha rilevato la maggior parte delle Österreichische Saurerwerke. Insieme hanno sviluppato lo Steyr Saurer 4 SH-O. Il 4 SHFN-OL ne derivava ed è stato costruito fino al 1971.",
+          "nl": "The series «Historische Postfahrzeuge» moves on to a postbus of 1965. Steyr-Daimler-Puch took over most of the Österreichische Saurerwerke in 1959. Together they developed the Steyr Saurer 4 SH-O. The 4 SHFN-OL was based on it and was built until 1971.",
+          "pl": "The series «Historische Postfahrzeuge» moves on to a postbus of 1965. Steyr-Daimler-Puch took over most of the Österreichische Saurerwerke in 1959. Together they developed the Steyr Saurer 4 SH-O. The 4 SHFN-OL was based on it and was built until 1971.",
+          "cs": "The series «Historische Postfahrzeuge» moves on to a postbus of 1965. Steyr-Daimler-Puch took over most of the Österreichische Saurerwerke in 1959. Together they developed the Steyr Saurer 4 SH-O. The 4 SHFN-OL was based on it and was built until 1971.",
+          "sk": "The series «Historische Postfahrzeuge» moves on to a postbus of 1965. Steyr-Daimler-Puch took over most of the Österreichische Saurerwerke in 1959. Together they developed the Steyr Saurer 4 SH-O. The 4 SHFN-OL was based on it and was built until 1971.",
+          "ro": "The series «Historische Postfahrzeuge» moves on to a postbus of 1965. Steyr-Daimler-Puch took over most of the Österreichische Saurerwerke in 1959. Together they developed the Steyr Saurer 4 SH-O. The 4 SHFN-OL was based on it and was built until 1971.",
+          "hu": "The series «Historische Postfahrzeuge» moves on to a postbus of 1965. Steyr-Daimler-Puch took over most of the Österreichische Saurerwerke in 1959. Together they developed the Steyr Saurer 4 SH-O. The 4 SHFN-OL was based on it and was built until 1971.",
+          "da": "The series «Historische Postfahrzeuge» moves on to a postbus of 1965. Steyr-Daimler-Puch took over most of the Österreichische Saurerwerke in 1959. Together they developed the Steyr Saurer 4 SH-O. The 4 SHFN-OL was based on it and was built until 1971."
+        },
+        {
+          "en": "The bus had 43 seats and 21 standing places. Luggage went into a hold instead of onto a roof rack. A 150 PS Saurer six-cylinder diesel sat at the back. The Post ran about 190 of these buses across Austria.",
+          "de": "Der Bus hatte 43 Sitzplätze und 21 Stehplätze. Das Gepäck kam in einen Laderaum statt auf einen Dachträger. Hinten saß ein Saurer-Sechszylinderdiesel mit 150 PS. Die Post setzte rund 190 dieser Busse in ganz Österreich ein.",
+          "fr": "Le car offrait 43 places assises et 21 places debout. Les bagages voyageaient dans une soute plutôt que sur une galerie de toit. Un six-cylindres diesel Saurer de 150 ch était monté à l'arrière. La Poste a fait circuler environ 190 de ces cars dans toute l'Autriche.",
+          "it": "L'autobus aveva 43 posti a sedere e 21 in piedi. I bagagli andavano in un vano al posto del portapacchi sul tetto. Sul retro c'era un diesel Saurer a sei cilindri da 150 CV. La Posta austriaca ha messo in servizio circa 190 di questi autobus in tutta l'Austria.",
+          "nl": "The bus had 43 seats and 21 standing places. Luggage went into a hold instead of onto a roof rack. A 150 PS Saurer six-cylinder diesel sat at the back. The Post ran about 190 of these buses across Austria.",
+          "pl": "The bus had 43 seats and 21 standing places. Luggage went into a hold instead of onto a roof rack. A 150 PS Saurer six-cylinder diesel sat at the back. The Post ran about 190 of these buses across Austria.",
+          "cs": "The bus had 43 seats and 21 standing places. Luggage went into a hold instead of onto a roof rack. A 150 PS Saurer six-cylinder diesel sat at the back. The Post ran about 190 of these buses across Austria.",
+          "sk": "The bus had 43 seats and 21 standing places. Luggage went into a hold instead of onto a roof rack. A 150 PS Saurer six-cylinder diesel sat at the back. The Post ran about 190 of these buses across Austria.",
+          "ro": "The bus had 43 seats and 21 standing places. Luggage went into a hold instead of onto a roof rack. A 150 PS Saurer six-cylinder diesel sat at the back. The Post ran about 190 of these buses across Austria.",
+          "hu": "The bus had 43 seats and 21 standing places. Luggage went into a hold instead of onto a roof rack. A 150 PS Saurer six-cylinder diesel sat at the back. The Post ran about 190 of these buses across Austria.",
+          "da": "The bus had 43 seats and 21 standing places. Luggage went into a hold instead of onto a roof rack. A 150 PS Saurer six-cylinder diesel sat at the back. The Post ran about 190 of these buses across Austria."
+        },
+        {
+          "en": "Saurer built its vehicles in Vienna under licence from Adolph Saurer AG in Arbon, Switzerland. Austria's first year-round postbus line, from Linz to Eferding in 1909, ran with Saurer buses.",
+          "de": "Saurer baute seine Fahrzeuge in Wien in Lizenz der Adolph Saurer AG im schweizerischen Arbon. Österreichs erste ganzjährige Postbuslinie von Linz nach Eferding fuhr 1909 mit Saurer-Bussen.",
+          "fr": "Saurer construisait ses véhicules à Vienne sous licence d'Adolph Saurer AG, à Arbon en Suisse. La première ligne d'autocars postaux exploitée toute l'année en Autriche, de Linz à Eferding en 1909, était assurée par des véhicules Saurer.",
+          "it": "Saurer costruiva i suoi veicoli a Vienna su licenza della Adolph Saurer AG di Arbon, in Svizzera. La prima linea di autobus postali austriaca in servizio tutto l'anno, aperta nel 1909 da Linz a Eferding, era servita da autobus Saurer.",
+          "nl": "Saurer built its vehicles in Vienna under licence from Adolph Saurer AG in Arbon, Switzerland. Austria's first year-round postbus line, from Linz to Eferding in 1909, ran with Saurer buses.",
+          "pl": "Saurer built its vehicles in Vienna under licence from Adolph Saurer AG in Arbon, Switzerland. Austria's first year-round postbus line, from Linz to Eferding in 1909, ran with Saurer buses.",
+          "cs": "Saurer built its vehicles in Vienna under licence from Adolph Saurer AG in Arbon, Switzerland. Austria's first year-round postbus line, from Linz to Eferding in 1909, ran with Saurer buses.",
+          "sk": "Saurer built its vehicles in Vienna under licence from Adolph Saurer AG in Arbon, Switzerland. Austria's first year-round postbus line, from Linz to Eferding in 1909, ran with Saurer buses.",
+          "ro": "Saurer built its vehicles in Vienna under licence from Adolph Saurer AG in Arbon, Switzerland. Austria's first year-round postbus line, from Linz to Eferding in 1909, ran with Saurer buses.",
+          "hu": "Saurer built its vehicles in Vienna under licence from Adolph Saurer AG in Arbon, Switzerland. Austria's first year-round postbus line, from Linz to Eferding in 1909, ran with Saurer buses.",
+          "da": "Saurer built its vehicles in Vienna under licence from Adolph Saurer AG in Arbon, Switzerland. Austria's first year-round postbus line, from Linz to Eferding in 1909, ran with Saurer buses."
+        },
+        {
+          "en": "David Gruber designed the stamp. With 100,000 copies it has the lowest print run of the nine. Its first day was at the «phila»-Toscana fair in Gmunden, together with the mushroom.",
+          "de": "David Gruber gestaltete die Marke. Mit 100.000 Stück hat sie die kleinste Auflage der neun. Ersttag war auf der Messe „phila“-Toscana in Gmunden, gemeinsam mit dem Pilz.",
+          "fr": "David Gruber a conçu le timbre. Avec 100 000 exemplaires, il a le tirage le plus faible des neuf. Son premier jour d'émission s'est tenu au salon « phila »-Toscana à Gmunden, en même temps que celui du champignon.",
+          "it": "Il francobollo è stato disegnato da David Gruber. Con 100.000 pezzi ha la tiratura più bassa dei nove. Il primo giorno di emissione si è tenuto alla fiera \"phila\"-Toscana di Gmunden, insieme al fungo.",
+          "nl": "David Gruber designed the stamp. With 100,000 copies it has the lowest print run of the nine. Its first day was at the «phila»-Toscana fair in Gmunden, together with the mushroom.",
+          "pl": "David Gruber designed the stamp. With 100,000 copies it has the lowest print run of the nine. Its first day was at the «phila»-Toscana fair in Gmunden, together with the mushroom.",
+          "cs": "David Gruber designed the stamp. With 100,000 copies it has the lowest print run of the nine. Its first day was at the «phila»-Toscana fair in Gmunden, together with the mushroom.",
+          "sk": "David Gruber designed the stamp. With 100,000 copies it has the lowest print run of the nine. Its first day was at the «phila»-Toscana fair in Gmunden, together with the mushroom.",
+          "ro": "David Gruber designed the stamp. With 100,000 copies it has the lowest print run of the nine. Its first day was at the «phila»-Toscana fair in Gmunden, together with the mushroom.",
+          "hu": "David Gruber designed the stamp. With 100,000 copies it has the lowest print run of the nine. Its first day was at the «phila»-Toscana fair in Gmunden, together with the mushroom.",
+          "da": "David Gruber designed the stamp. With 100,000 copies it has the lowest print run of the nine. Its first day was at the «phila»-Toscana fair in Gmunden, together with the mushroom."
+        }
+      ]
+    },
+    {
+      "id": "pilz",
+      "date": {
+        "en": "28 August 2026",
+        "de": "28. August 2026",
+        "fr": "28 août 2026",
+        "it": "28 agosto 2026",
+        "nl": "28 August 2026",
+        "pl": "28 August 2026",
+        "cs": "28 August 2026",
+        "sk": "28 August 2026",
+        "ro": "28 August 2026",
+        "hu": "28 August 2026",
+        "da": "28 August 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Frühlings-Knollenblätterpilz, €1.00",
+          "de": "Frühlings-Knollenblätterpilz, 1,00 €",
+          "fr": "Frühlings-Knollenblätterpilz, 1,00 €",
+          "it": "Frühlings-Knollenblätterpilz, 1,00 €",
+          "nl": "Frühlings-Knollenblätterpilz, €1.00",
+          "pl": "Frühlings-Knollenblätterpilz, €1.00",
+          "cs": "Frühlings-Knollenblätterpilz, €1.00",
+          "sk": "Frühlings-Knollenblätterpilz, €1.00",
+          "ro": "Frühlings-Knollenblätterpilz, €1.00",
+          "hu": "Frühlings-Knollenblätterpilz, €1.00",
+          "da": "Frühlings-Knollenblätterpilz, €1.00"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/65009226f3deff88/at-2026-226290.png",
+          "width": 643,
+          "height": 1000
+        },
+        "country": "AT",
+        "stamp_id": "at-post-226290"
+      },
+      "title": {
+        "en": "The fool's mushroom",
+        "de": "Der Frühlings-Knollenblätterpilz",
+        "fr": "L'amanite printanière",
+        "it": "L'amanita primaverile",
+        "nl": "The fool's mushroom",
+        "pl": "The fool's mushroom",
+        "cs": "The fool's mushroom",
+        "sk": "The fool's mushroom",
+        "ro": "The fool's mushroom",
+        "hu": "The fool's mushroom",
+        "da": "The fool's mushroom"
+      },
+      "formats": [
+        {
+          "value": "€1.00",
+          "format": {
+            "en": "Stamp",
+            "de": "Marke",
+            "fr": "Timbre",
+            "it": "Francobollo",
+            "nl": "Stamp",
+            "pl": "Stamp",
+            "cs": "Stamp",
+            "sk": "Stamp",
+            "ro": "Stamp",
+            "hu": "Stamp",
+            "da": "Stamp"
+          }
+        },
+        {
+          "value": "€10.00",
+          "format": {
+            "en": "Sheetlet of 10",
+            "de": "Kleinbogen zu 10",
+            "fr": "Feuillet de 10",
+            "it": "Minifoglio da 10",
+            "nl": "Sheetlet of 10",
+            "pl": "Sheetlet of 10",
+            "cs": "Sheetlet of 10",
+            "sk": "Sheetlet of 10",
+            "ro": "Sheetlet of 10",
+            "hu": "Sheetlet of 10",
+            "da": "Sheetlet of 10"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "Earlier stamps in the series «Österreichische Pilze» showed edible species such as the Steinpilz, the Parasol and the Milchbrätling. This year's stamp shows a deadly one: the Frühlings-Knollenblätterpilz (Amanita verna), in English the fool's mushroom.",
+          "de": "Frühere Marken der Serie „Österreichische Pilze“ zeigten Speisepilze wie den Steinpilz, den Parasol und den Milchbrätling. Die Marke dieses Jahres zeigt einen tödlich giftigen: den Frühlings-Knollenblätterpilz (Amanita verna).",
+          "fr": "Les timbres précédents de la série « Österreichische Pilze » montraient des espèces comestibles comme le cèpe, la coulemelle et le lactaire à lait abondant. Le timbre de cette année en présente une mortelle : l'amanite printanière (Amanita verna), en allemand Frühlings-Knollenblätterpilz.",
+          "it": "I francobolli precedenti della serie \"Österreichische Pilze\" mostravano specie commestibili come il porcino, la mazza di tamburo e il lattario dorato. Quello di quest'anno mostra una specie mortale: il Frühlings-Knollenblätterpilz (Amanita verna), in italiano l'amanita primaverile.",
+          "nl": "Earlier stamps in the series «Österreichische Pilze» showed edible species such as the Steinpilz, the Parasol and the Milchbrätling. This year's stamp shows a deadly one: the Frühlings-Knollenblätterpilz (Amanita verna), in English the fool's mushroom.",
+          "pl": "Earlier stamps in the series «Österreichische Pilze» showed edible species such as the Steinpilz, the Parasol and the Milchbrätling. This year's stamp shows a deadly one: the Frühlings-Knollenblätterpilz (Amanita verna), in English the fool's mushroom.",
+          "cs": "Earlier stamps in the series «Österreichische Pilze» showed edible species such as the Steinpilz, the Parasol and the Milchbrätling. This year's stamp shows a deadly one: the Frühlings-Knollenblätterpilz (Amanita verna), in English the fool's mushroom.",
+          "sk": "Earlier stamps in the series «Österreichische Pilze» showed edible species such as the Steinpilz, the Parasol and the Milchbrätling. This year's stamp shows a deadly one: the Frühlings-Knollenblätterpilz (Amanita verna), in English the fool's mushroom.",
+          "ro": "Earlier stamps in the series «Österreichische Pilze» showed edible species such as the Steinpilz, the Parasol and the Milchbrätling. This year's stamp shows a deadly one: the Frühlings-Knollenblätterpilz (Amanita verna), in English the fool's mushroom.",
+          "hu": "Earlier stamps in the series «Österreichische Pilze» showed edible species such as the Steinpilz, the Parasol and the Milchbrätling. This year's stamp shows a deadly one: the Frühlings-Knollenblätterpilz (Amanita verna), in English the fool's mushroom.",
+          "da": "Earlier stamps in the series «Österreichische Pilze» showed edible species such as the Steinpilz, the Parasol and the Milchbrätling. This year's stamp shows a deadly one: the Frühlings-Knollenblätterpilz (Amanita verna), in English the fool's mushroom."
+        },
+        {
+          "en": "The mushroom is white all over, with a ring on the stem and a clearly visible volva at its base. It already appears in spring, which gave it its German name. It grows mainly under oaks and beeches, mostly in southern Europe.",
+          "de": "Der Pilz ist ganz weiß, hat einen Ring am Stiel und an der Basis eine deutlich sichtbare Knollenscheide. Er erscheint schon im Frühling, daher sein deutscher Name. Er wächst vor allem unter Eichen und Buchen, meist in Südeuropa.",
+          "fr": "Le champignon est entièrement blanc, avec un anneau sur le pied et une volve bien visible à la base. Il apparaît dès le printemps, d'où son nom. On le trouve surtout sous les chênes et les hêtres, principalement dans le sud de l'Europe.",
+          "it": "Il fungo è bianco in ogni sua parte, con un anello sul gambo e una volva ben visibile alla base. Compare già in primavera, da qui il nome tedesco. Cresce principalmente sotto querce e faggi, soprattutto nell'Europa meridionale.",
+          "nl": "The mushroom is white all over, with a ring on the stem and a clearly visible volva at its base. It already appears in spring, which gave it its German name. It grows mainly under oaks and beeches, mostly in southern Europe.",
+          "pl": "The mushroom is white all over, with a ring on the stem and a clearly visible volva at its base. It already appears in spring, which gave it its German name. It grows mainly under oaks and beeches, mostly in southern Europe.",
+          "cs": "The mushroom is white all over, with a ring on the stem and a clearly visible volva at its base. It already appears in spring, which gave it its German name. It grows mainly under oaks and beeches, mostly in southern Europe.",
+          "sk": "The mushroom is white all over, with a ring on the stem and a clearly visible volva at its base. It already appears in spring, which gave it its German name. It grows mainly under oaks and beeches, mostly in southern Europe.",
+          "ro": "The mushroom is white all over, with a ring on the stem and a clearly visible volva at its base. It already appears in spring, which gave it its German name. It grows mainly under oaks and beeches, mostly in southern Europe.",
+          "hu": "The mushroom is white all over, with a ring on the stem and a clearly visible volva at its base. It already appears in spring, which gave it its German name. It grows mainly under oaks and beeches, mostly in southern Europe.",
+          "da": "The mushroom is white all over, with a ring on the stem and a clearly visible volva at its base. It already appears in spring, which gave it its German name. It grows mainly under oaks and beeches, mostly in southern Europe."
+        },
+        {
+          "en": "Its toxins attack the liver and the kidneys. The symptoms often start only hours after eating. It can be confused with the meadow mushroom, which has pinkish-brown gills.",
+          "de": "Seine Gifte greifen Leber und Nieren an. Die Beschwerden beginnen oft erst Stunden nach dem Essen. Verwechseln lässt er sich mit dem Wiesenchampignon, dessen Lamellen rosabraun sind.",
+          "fr": "Ses toxines s'attaquent au foie et aux reins. Les symptômes n'apparaissent souvent que plusieurs heures après le repas. On peut le confondre avec l'agaric champêtre, dont les lames sont d'un brun rosé.",
+          "it": "Le sue tossine colpiscono il fegato e i reni. I sintomi compaiono spesso solo diverse ore dopo l'ingestione. Può essere confuso con il prataiolo, che ha lamelle di colore bruno-rosato.",
+          "nl": "Its toxins attack the liver and the kidneys. The symptoms often start only hours after eating. It can be confused with the meadow mushroom, which has pinkish-brown gills.",
+          "pl": "Its toxins attack the liver and the kidneys. The symptoms often start only hours after eating. It can be confused with the meadow mushroom, which has pinkish-brown gills.",
+          "cs": "Its toxins attack the liver and the kidneys. The symptoms often start only hours after eating. It can be confused with the meadow mushroom, which has pinkish-brown gills.",
+          "sk": "Its toxins attack the liver and the kidneys. The symptoms often start only hours after eating. It can be confused with the meadow mushroom, which has pinkish-brown gills.",
+          "ro": "Its toxins attack the liver and the kidneys. The symptoms often start only hours after eating. It can be confused with the meadow mushroom, which has pinkish-brown gills.",
+          "hu": "Its toxins attack the liver and the kidneys. The symptoms often start only hours after eating. It can be confused with the meadow mushroom, which has pinkish-brown gills.",
+          "da": "Its toxins attack the liver and the kidneys. The symptoms often start only hours after eating. It can be confused with the meadow mushroom, which has pinkish-brown gills."
+        },
+        {
+          "en": "Marion Füllerer designed the stamp. It is printed in sheetlets of 10, 220,000 stamps in all.",
+          "de": "Marion Füllerer gestaltete die Marke. Sie erscheint in Kleinbogen zu 10, insgesamt 220.000 Marken.",
+          "fr": "Marion Füllerer a conçu le timbre. Il est imprimé en feuillets de 10, pour un total de 220 000 timbres.",
+          "it": "Il francobollo è stato disegnato da Marion Füllerer. Viene stampato in minifogli da 10, per un totale di 220.000 francobolli.",
+          "nl": "Marion Füllerer designed the stamp. It is printed in sheetlets of 10, 220,000 stamps in all.",
+          "pl": "Marion Füllerer designed the stamp. It is printed in sheetlets of 10, 220,000 stamps in all.",
+          "cs": "Marion Füllerer designed the stamp. It is printed in sheetlets of 10, 220,000 stamps in all.",
+          "sk": "Marion Füllerer designed the stamp. It is printed in sheetlets of 10, 220,000 stamps in all.",
+          "ro": "Marion Füllerer designed the stamp. It is printed in sheetlets of 10, 220,000 stamps in all.",
+          "hu": "Marion Füllerer designed the stamp. It is printed in sheetlets of 10, 220,000 stamps in all.",
+          "da": "Marion Füllerer designed the stamp. It is printed in sheetlets of 10, 220,000 stamps in all."
+        }
+      ]
+    },
+    {
+      "id": "stadttempel",
+      "date": {
+        "en": "9 September 2026",
+        "de": "9. September 2026",
+        "fr": "9 septembre 2026",
+        "it": "9 settembre 2026",
+        "nl": "9 September 2026",
+        "pl": "9 September 2026",
+        "cs": "9 September 2026",
+        "sk": "9 September 2026",
+        "ro": "9 September 2026",
+        "hu": "9 September 2026",
+        "da": "9 September 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "200 Jahre Wiener Stadttempel, €2.00",
+          "de": "200 Jahre Wiener Stadttempel, 2,00 €",
+          "fr": "200 Jahre Wiener Stadttempel, 2,00 €",
+          "it": "200 Jahre Wiener Stadttempel, 2,00 €",
+          "nl": "200 Jahre Wiener Stadttempel, €2.00",
+          "pl": "200 Jahre Wiener Stadttempel, €2.00",
+          "cs": "200 Jahre Wiener Stadttempel, €2.00",
+          "sk": "200 Jahre Wiener Stadttempel, €2.00",
+          "ro": "200 Jahre Wiener Stadttempel, €2.00",
+          "hu": "200 Jahre Wiener Stadttempel, €2.00",
+          "da": "200 Jahre Wiener Stadttempel, €2.00"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/c830b3f18d04843b/at-2026-226460.png",
+          "width": 1000,
+          "height": 800
+        },
+        "country": "AT",
+        "stamp_id": "at-post-226460"
+      },
+      "title": {
+        "en": "200 years of the Vienna Stadttempel",
+        "de": "200 Jahre Wiener Stadttempel",
+        "fr": "200 ans du Stadttempel de Vienne",
+        "it": "200 anni dello Stadttempel di Vienna",
+        "nl": "200 years of the Vienna Stadttempel",
+        "pl": "200 years of the Vienna Stadttempel",
+        "cs": "200 years of the Vienna Stadttempel",
+        "sk": "200 years of the Vienna Stadttempel",
+        "ro": "200 years of the Vienna Stadttempel",
+        "hu": "200 years of the Vienna Stadttempel",
+        "da": "200 years of the Vienna Stadttempel"
+      },
+      "formats": [
+        {
+          "value": "€2.00",
+          "format": {
+            "en": "Stamp",
+            "de": "Marke",
+            "fr": "Timbre",
+            "it": "Francobollo",
+            "nl": "Stamp",
+            "pl": "Stamp",
+            "cs": "Stamp",
+            "sk": "Stamp",
+            "ro": "Stamp",
+            "hu": "Stamp",
+            "da": "Stamp"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "The Stadttempel in the Seitenstettengasse opened on 9 April 1826 to plans by Joseph Kornhäusel. At the time a non-Catholic house of prayer could not be visible from the street, so the synagogue stands behind a residential building.",
+          "de": "Der Stadttempel in der Seitenstettengasse wurde am 9. April 1826 nach Plänen von Joseph Kornhäusel eröffnet. Damals durfte ein nichtkatholisches Bethaus von der Straße aus nicht sichtbar sein, deshalb steht die Synagoge hinter einem Wohnhaus.",
+          "fr": "Le Stadttempel de la Seitenstettengasse a été inauguré le 9 avril 1826 sur des plans de Joseph Kornhäusel. À l'époque, un lieu de prière non catholique ne pouvait pas être visible depuis la rue. La synagogue se trouve donc derrière un immeuble d'habitation.",
+          "it": "Lo Stadttempel di Seitenstettengasse è stato inaugurato il 9 aprile 1826 su progetto di Joseph Kornhäusel. All'epoca un luogo di preghiera non cattolico non poteva essere visibile dalla strada, così la sinagoga sorge dietro un edificio di abitazione.",
+          "nl": "The Stadttempel in the Seitenstettengasse opened on 9 April 1826 to plans by Joseph Kornhäusel. At the time a non-Catholic house of prayer could not be visible from the street, so the synagogue stands behind a residential building.",
+          "pl": "The Stadttempel in the Seitenstettengasse opened on 9 April 1826 to plans by Joseph Kornhäusel. At the time a non-Catholic house of prayer could not be visible from the street, so the synagogue stands behind a residential building.",
+          "cs": "The Stadttempel in the Seitenstettengasse opened on 9 April 1826 to plans by Joseph Kornhäusel. At the time a non-Catholic house of prayer could not be visible from the street, so the synagogue stands behind a residential building.",
+          "sk": "The Stadttempel in the Seitenstettengasse opened on 9 April 1826 to plans by Joseph Kornhäusel. At the time a non-Catholic house of prayer could not be visible from the street, so the synagogue stands behind a residential building.",
+          "ro": "The Stadttempel in the Seitenstettengasse opened on 9 April 1826 to plans by Joseph Kornhäusel. At the time a non-Catholic house of prayer could not be visible from the street, so the synagogue stands behind a residential building.",
+          "hu": "The Stadttempel in the Seitenstettengasse opened on 9 April 1826 to plans by Joseph Kornhäusel. At the time a non-Catholic house of prayer could not be visible from the street, so the synagogue stands behind a residential building.",
+          "da": "The Stadttempel in the Seitenstettengasse opened on 9 April 1826 to plans by Joseph Kornhäusel. At the time a non-Catholic house of prayer could not be visible from the street, so the synagogue stands behind a residential building."
+        },
+        {
+          "en": "Inside, an oval prayer room lies under a dome. Twelve columns stand for the twelve tribes of Israel. Melanie Mussegg's stamp looks into this room, towards the tablets of the Ten Commandments above the Torah ark.",
+          "de": "Innen liegt ein ovaler Betraum unter einer Kuppel. Zwölf Säulen stehen für die zwölf Stämme Israels. Melanie Musseggs Marke blickt in diesen Raum, hin zu den Gesetzestafeln über dem Toraschrein.",
+          "fr": "À l'intérieur, une salle de prière ovale s'ouvre sous une coupole. Douze colonnes représentent les douze tribus d'Israël. Le timbre de Melanie Mussegg montre cette salle, vers les Tables de la Loi placées au-dessus de l'arche sainte.",
+          "it": "All'interno una sala di preghiera ovale si apre sotto una cupola. Dodici colonne rappresentano le dodici tribù di Israele. Il francobollo di Melanie Mussegg mostra uno scorcio della sala, verso le tavole dei dieci comandamenti sopra l'arca della Torah.",
+          "nl": "Inside, an oval prayer room lies under a dome. Twelve columns stand for the twelve tribes of Israel. Melanie Mussegg's stamp looks into this room, towards the tablets of the Ten Commandments above the Torah ark.",
+          "pl": "Inside, an oval prayer room lies under a dome. Twelve columns stand for the twelve tribes of Israel. Melanie Mussegg's stamp looks into this room, towards the tablets of the Ten Commandments above the Torah ark.",
+          "cs": "Inside, an oval prayer room lies under a dome. Twelve columns stand for the twelve tribes of Israel. Melanie Mussegg's stamp looks into this room, towards the tablets of the Ten Commandments above the Torah ark.",
+          "sk": "Inside, an oval prayer room lies under a dome. Twelve columns stand for the twelve tribes of Israel. Melanie Mussegg's stamp looks into this room, towards the tablets of the Ten Commandments above the Torah ark.",
+          "ro": "Inside, an oval prayer room lies under a dome. Twelve columns stand for the twelve tribes of Israel. Melanie Mussegg's stamp looks into this room, towards the tablets of the Ten Commandments above the Torah ark.",
+          "hu": "Inside, an oval prayer room lies under a dome. Twelve columns stand for the twelve tribes of Israel. Melanie Mussegg's stamp looks into this room, towards the tablets of the Ten Commandments above the Torah ark.",
+          "da": "Inside, an oval prayer room lies under a dome. Twelve columns stand for the twelve tribes of Israel. Melanie Mussegg's stamp looks into this room, towards the tablets of the Ten Commandments above the Torah ark."
+        },
+        {
+          "en": "In the November pogrom of 1938 all the other synagogues and prayer houses of Vienna were set on fire. The Stadttempel was spared because it is built into a residential block. Its interior was wrecked. The building was then used as an assembly point for Jews before their deportation.",
+          "de": "Im Novemberpogrom 1938 wurden alle anderen Synagogen und Bethäuser Wiens in Brand gesteckt. Der Stadttempel blieb verschont, weil er in einen Wohnblock eingebaut ist. Seine Innenräume wurden verwüstet. Danach diente das Gebäude als Sammelstelle für Jüdinnen und Juden vor ihrer Deportation.",
+          "fr": "Lors du pogrom de novembre 1938, toutes les autres synagogues et maisons de prière de Vienne ont été incendiées. Le Stadttempel a été épargné parce qu'il est intégré à un immeuble d'habitation. Son intérieur a été saccagé. Le bâtiment a ensuite servi de point de rassemblement des Juifs avant leur déportation.",
+          "it": "Nel pogrom del novembre 1938 tutte le altre sinagoghe e case di preghiera di Vienna sono state incendiate. Lo Stadttempel si è salvato perché fa parte di un isolato di case di abitazione. Gli interni sono stati devastati. L'edificio è stato poi usato come punto di raccolta degli ebrei prima della deportazione.",
+          "nl": "In the November pogrom of 1938 all the other synagogues and prayer houses of Vienna were set on fire. The Stadttempel was spared because it is built into a residential block. Its interior was wrecked. The building was then used as an assembly point for Jews before their deportation.",
+          "pl": "In the November pogrom of 1938 all the other synagogues and prayer houses of Vienna were set on fire. The Stadttempel was spared because it is built into a residential block. Its interior was wrecked. The building was then used as an assembly point for Jews before their deportation.",
+          "cs": "In the November pogrom of 1938 all the other synagogues and prayer houses of Vienna were set on fire. The Stadttempel was spared because it is built into a residential block. Its interior was wrecked. The building was then used as an assembly point for Jews before their deportation.",
+          "sk": "In the November pogrom of 1938 all the other synagogues and prayer houses of Vienna were set on fire. The Stadttempel was spared because it is built into a residential block. Its interior was wrecked. The building was then used as an assembly point for Jews before their deportation.",
+          "ro": "In the November pogrom of 1938 all the other synagogues and prayer houses of Vienna were set on fire. The Stadttempel was spared because it is built into a residential block. Its interior was wrecked. The building was then used as an assembly point for Jews before their deportation.",
+          "hu": "In the November pogrom of 1938 all the other synagogues and prayer houses of Vienna were set on fire. The Stadttempel was spared because it is built into a residential block. Its interior was wrecked. The building was then used as an assembly point for Jews before their deportation.",
+          "da": "In the November pogrom of 1938 all the other synagogues and prayer houses of Vienna were set on fire. The Stadttempel was spared because it is built into a residential block. Its interior was wrecked. The building was then used as an assembly point for Jews before their deportation."
+        },
+        {
+          "en": "The print run is 150,000. The first-day post office was in the Seitenstettengasse.",
+          "de": "Die Auflage beträgt 150.000 Stück. Das Ersttagspostamt war in der Seitenstettengasse.",
+          "fr": "Le tirage est de 150 000 exemplaires. Le bureau de poste du premier jour se trouvait dans la Seitenstettengasse.",
+          "it": "La tiratura è di 150.000 pezzi. L'ufficio postale del primo giorno di emissione si trovava in Seitenstettengasse.",
+          "nl": "The print run is 150,000. The first-day post office was in the Seitenstettengasse.",
+          "pl": "The print run is 150,000. The first-day post office was in the Seitenstettengasse.",
+          "cs": "The print run is 150,000. The first-day post office was in the Seitenstettengasse.",
+          "sk": "The print run is 150,000. The first-day post office was in the Seitenstettengasse.",
+          "ro": "The print run is 150,000. The first-day post office was in the Seitenstettengasse.",
+          "hu": "The print run is 150,000. The first-day post office was in the Seitenstettengasse.",
+          "da": "The print run is 150,000. The first-day post office was in the Seitenstettengasse."
+        }
+      ]
+    },
+    {
+      "id": "synagogue",
+      "type": "text",
+      "label": {
+        "en": "The synagogue",
+        "de": "Die Synagoge",
+        "fr": "La synagogue",
+        "it": "La sinagoga",
+        "nl": "The synagogue",
+        "pl": "The synagogue",
+        "cs": "The synagogue",
+        "sk": "The synagogue",
+        "ro": "The synagogue",
+        "hu": "The synagogue",
+        "da": "The synagogue"
+      },
+      "title": {
+        "en": "The prayer room today",
+        "de": "Der Betraum heute",
+        "fr": "La salle de prière aujourd'hui",
+        "it": "La sala di preghiera oggi",
+        "nl": "The prayer room today",
+        "pl": "The prayer room today",
+        "cs": "The prayer room today",
+        "sk": "The prayer room today",
+        "ro": "The prayer room today",
+        "hu": "The prayer room today",
+        "da": "The prayer room today"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/5180ac30f1ee2f57/wiener-stadttempel-innenraum-dnalor.jpg",
+          "width": 2000,
+          "credit": "Photo: Dnalor 01, CC BY-SA 3.0 AT",
+          "height": 1241,
+          "caption": {
+            "en": "The prayer room of the Stadttempel, Vienna",
+            "de": "Der Betraum des Stadttempels in Wien",
+            "fr": "La salle de prière du Stadttempel, à Vienne",
+            "it": "La sala di preghiera dello Stadttempel, Vienna",
+            "nl": "The prayer room of the Stadttempel, Vienna",
+            "pl": "The prayer room of the Stadttempel, Vienna",
+            "cs": "The prayer room of the Stadttempel, Vienna",
+            "sk": "The prayer room of the Stadttempel, Vienna",
+            "ro": "The prayer room of the Stadttempel, Vienna",
+            "hu": "The prayer room of the Stadttempel, Vienna",
+            "da": "The prayer room of the Stadttempel, Vienna"
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Wiener_Stadttempel_-_Innenraum.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "The women's gallery rests on twelve Ionic columns. The Torah ark stands at the end of the oval. The synagogue has about 700 seats.",
+          "de": "Die Frauenempore ruht auf zwölf ionischen Säulen. Am Ende des Ovals steht der Toraschrein. Die Synagoge hat rund 700 Sitzplätze.",
+          "fr": "La galerie des femmes repose sur douze colonnes ioniques. L'arche sainte se dresse au bout de l'ovale. La synagogue compte environ 700 places.",
+          "it": "Il matroneo poggia su dodici colonne ioniche. L'arca della Torah si trova all'estremità dell'ovale. La sinagoga ha circa 700 posti.",
+          "nl": "The women's gallery rests on twelve Ionic columns. The Torah ark stands at the end of the oval. The synagogue has about 700 seats.",
+          "pl": "The women's gallery rests on twelve Ionic columns. The Torah ark stands at the end of the oval. The synagogue has about 700 seats.",
+          "cs": "The women's gallery rests on twelve Ionic columns. The Torah ark stands at the end of the oval. The synagogue has about 700 seats.",
+          "sk": "The women's gallery rests on twelve Ionic columns. The Torah ark stands at the end of the oval. The synagogue has about 700 seats.",
+          "ro": "The women's gallery rests on twelve Ionic columns. The Torah ark stands at the end of the oval. The synagogue has about 700 seats.",
+          "hu": "The women's gallery rests on twelve Ionic columns. The Torah ark stands at the end of the oval. The synagogue has about 700 seats.",
+          "da": "The women's gallery rests on twelve Ionic columns. The Torah ark stands at the end of the oval. The synagogue has about 700 seats."
+        },
+        {
+          "en": "Its first rabbi was Isaak Mannheimer. On his proposal Salomon Sulzer came to Vienna as cantor in 1826.",
+          "de": "Erster Rabbiner war Isaak Mannheimer. Auf seinen Vorschlag kam Salomon Sulzer 1826 als Kantor nach Wien.",
+          "fr": "Son premier rabbin a été Isaak Mannheimer. C'est sur sa proposition que Salomon Sulzer est venu à Vienne comme chantre en 1826.",
+          "it": "Il suo primo rabbino è stato Isaak Mannheimer. Su sua proposta, nel 1826 Salomon Sulzer è arrivato a Vienna come cantore.",
+          "nl": "Its first rabbi was Isaak Mannheimer. On his proposal Salomon Sulzer came to Vienna as cantor in 1826.",
+          "pl": "Its first rabbi was Isaak Mannheimer. On his proposal Salomon Sulzer came to Vienna as cantor in 1826.",
+          "cs": "Its first rabbi was Isaak Mannheimer. On his proposal Salomon Sulzer came to Vienna as cantor in 1826.",
+          "sk": "Its first rabbi was Isaak Mannheimer. On his proposal Salomon Sulzer came to Vienna as cantor in 1826.",
+          "ro": "Its first rabbi was Isaak Mannheimer. On his proposal Salomon Sulzer came to Vienna as cantor in 1826.",
+          "hu": "Its first rabbi was Isaak Mannheimer. On his proposal Salomon Sulzer came to Vienna as cantor in 1826.",
+          "da": "Its first rabbi was Isaak Mannheimer. On his proposal Salomon Sulzer came to Vienna as cantor in 1826."
+        }
+      ]
+    },
+    {
+      "id": "young-carers",
+      "date": {
+        "en": "14 September 2026",
+        "de": "14. September 2026",
+        "fr": "14 septembre 2026",
+        "it": "14 settembre 2026",
+        "nl": "14 September 2026",
+        "pl": "14 September 2026",
+        "cs": "14 September 2026",
+        "sk": "14 September 2026",
+        "ro": "14 September 2026",
+        "hu": "14 September 2026",
+        "da": "14 September 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Young Carers, €1.00",
+          "de": "Young Carers, 1,00 €",
+          "fr": "Young Carers, 1,00 €",
+          "it": "Young Carers, 1,00 €",
+          "nl": "Young Carers, €1.00",
+          "pl": "Young Carers, €1.00",
+          "cs": "Young Carers, €1.00",
+          "sk": "Young Carers, €1.00",
+          "ro": "Young Carers, €1.00",
+          "hu": "Young Carers, €1.00",
+          "da": "Young Carers, €1.00"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/80a9c01feff27186/at-2026-226360.png",
+          "width": 1000,
+          "height": 813
+        },
+        "country": "AT",
+        "stamp_id": "at-post-226360"
+      },
+      "title": {
+        "en": "Young Carers",
+        "de": "Young Carers",
+        "fr": "Young Carers",
+        "it": "Young Carers",
+        "nl": "Young Carers",
+        "pl": "Young Carers",
+        "cs": "Young Carers",
+        "sk": "Young Carers",
+        "ro": "Young Carers",
+        "hu": "Young Carers",
+        "da": "Young Carers"
+      },
+      "formats": [
+        {
+          "value": "€1.00",
+          "format": {
+            "en": "Stamp",
+            "de": "Marke",
+            "fr": "Timbre",
+            "it": "Francobollo",
+            "nl": "Stamp",
+            "pl": "Stamp",
+            "cs": "Stamp",
+            "sk": "Stamp",
+            "ro": "Stamp",
+            "hu": "Stamp",
+            "da": "Stamp"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "The new series «Österreich hilft!» starts with children and young people who look after a sick family member. In Austria there are about 42,700 of them between the ages of 5 and 18. Their average age is 12.5.",
+          "de": "Die neue Serie „Österreich hilft!“ beginnt mit Kindern und Jugendlichen, die ein krankes Familienmitglied pflegen. In Österreich sind es rund 42.700 zwischen 5 und 18 Jahren. Ihr Durchschnittsalter liegt bei 12,5 Jahren.",
+          "fr": "La nouvelle série « Österreich hilft ! » commence avec les enfants et les jeunes qui s'occupent d'un proche malade. En Autriche, ils sont environ 42 700, entre 5 et 18 ans. Leur âge moyen est de 12,5 ans.",
+          "it": "La nuova serie \"Österreich hilft!\" si apre con i bambini e i ragazzi che si prendono cura di un familiare malato. In Austria sono circa 42.700, di età compresa tra i 5 e i 18 anni. L'età media è di 12,5 anni.",
+          "nl": "The new series «Österreich hilft!» starts with children and young people who look after a sick family member. In Austria there are about 42,700 of them between the ages of 5 and 18. Their average age is 12.5.",
+          "pl": "The new series «Österreich hilft!» starts with children and young people who look after a sick family member. In Austria there are about 42,700 of them between the ages of 5 and 18. Their average age is 12.5.",
+          "cs": "The new series «Österreich hilft!» starts with children and young people who look after a sick family member. In Austria there are about 42,700 of them between the ages of 5 and 18. Their average age is 12.5.",
+          "sk": "The new series «Österreich hilft!» starts with children and young people who look after a sick family member. In Austria there are about 42,700 of them between the ages of 5 and 18. Their average age is 12.5.",
+          "ro": "The new series «Österreich hilft!» starts with children and young people who look after a sick family member. In Austria there are about 42,700 of them between the ages of 5 and 18. Their average age is 12.5.",
+          "hu": "The new series «Österreich hilft!» starts with children and young people who look after a sick family member. In Austria there are about 42,700 of them between the ages of 5 and 18. Their average age is 12.5.",
+          "da": "The new series «Österreich hilft!» starts with children and young people who look after a sick family member. In Austria there are about 42,700 of them between the ages of 5 and 18. Their average age is 12.5."
+        },
+        {
+          "en": "Lisa Filzi designed the stamp. It carries a QR code that leads to Young Carers Austria, the platform the ministry of social affairs runs for them. The print run is 150,000.",
+          "de": "Lisa Filzi gestaltete die Marke. Sie trägt einen QR-Code, der zu Young Carers Austria führt, der Plattform des Sozialministeriums für diese Gruppe. Die Auflage beträgt 150.000 Stück.",
+          "fr": "Lisa Filzi a conçu le timbre. Il porte un QR code qui mène à Young Carers Austria, la plateforme que le ministère des Affaires sociales leur consacre. Le tirage est de 150 000 exemplaires.",
+          "it": "Il francobollo è stato disegnato da Lisa Filzi. Porta un codice QR che rimanda a Young Carers Austria, la piattaforma che il ministero degli affari sociali gestisce per loro. La tiratura è di 150.000 pezzi.",
+          "nl": "Lisa Filzi designed the stamp. It carries a QR code that leads to Young Carers Austria, the platform the ministry of social affairs runs for them. The print run is 150,000.",
+          "pl": "Lisa Filzi designed the stamp. It carries a QR code that leads to Young Carers Austria, the platform the ministry of social affairs runs for them. The print run is 150,000.",
+          "cs": "Lisa Filzi designed the stamp. It carries a QR code that leads to Young Carers Austria, the platform the ministry of social affairs runs for them. The print run is 150,000.",
+          "sk": "Lisa Filzi designed the stamp. It carries a QR code that leads to Young Carers Austria, the platform the ministry of social affairs runs for them. The print run is 150,000.",
+          "ro": "Lisa Filzi designed the stamp. It carries a QR code that leads to Young Carers Austria, the platform the ministry of social affairs runs for them. The print run is 150,000.",
+          "hu": "Lisa Filzi designed the stamp. It carries a QR code that leads to Young Carers Austria, the platform the ministry of social affairs runs for them. The print run is 150,000.",
+          "da": "Lisa Filzi designed the stamp. It carries a QR code that leads to Young Carers Austria, the platform the ministry of social affairs runs for them. The print run is 150,000."
+        }
+      ]
+    },
+    {
+      "id": "nitsch",
+      "date": {
+        "en": "14 September 2026",
+        "de": "14. September 2026",
+        "fr": "14 septembre 2026",
+        "it": "14 settembre 2026",
+        "nl": "14 September 2026",
+        "pl": "14 September 2026",
+        "cs": "14 September 2026",
+        "sk": "14 September 2026",
+        "ro": "14 September 2026",
+        "hu": "14 September 2026",
+        "da": "14 September 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Hermann Nitsch, Schüttbild, €1.55",
+          "de": "Hermann Nitsch, Schüttbild, 1,55 €",
+          "fr": "Hermann Nitsch, Schüttbild, 1,55 €",
+          "it": "Hermann Nitsch, Schüttbild, 1,55 €",
+          "nl": "Hermann Nitsch, Schüttbild, €1.55",
+          "pl": "Hermann Nitsch, Schüttbild, €1.55",
+          "cs": "Hermann Nitsch, Schüttbild, €1.55",
+          "sk": "Hermann Nitsch, Schüttbild, €1.55",
+          "ro": "Hermann Nitsch, Schüttbild, €1.55",
+          "hu": "Hermann Nitsch, Schüttbild, €1.55",
+          "da": "Hermann Nitsch, Schüttbild, €1.55"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/179586760cad94fb/at-2026-226370.png",
+          "width": 817,
+          "height": 1000
+        },
+        "country": "AT",
+        "stamp_id": "at-post-226370"
+      },
+      "title": {
+        "en": "Hermann Nitsch, «Schüttbild», 2020",
+        "de": "Hermann Nitsch, „Schüttbild“, 2020",
+        "fr": "Hermann Nitsch, « Schüttbild », 2020",
+        "it": "Hermann Nitsch, \"Schüttbild\", 2020",
+        "nl": "Hermann Nitsch, «Schüttbild», 2020",
+        "pl": "Hermann Nitsch, «Schüttbild», 2020",
+        "cs": "Hermann Nitsch, «Schüttbild», 2020",
+        "sk": "Hermann Nitsch, «Schüttbild», 2020",
+        "ro": "Hermann Nitsch, «Schüttbild», 2020",
+        "hu": "Hermann Nitsch, «Schüttbild», 2020",
+        "da": "Hermann Nitsch, «Schüttbild», 2020"
+      },
+      "formats": [
+        {
+          "value": "€1.55",
+          "format": {
+            "en": "Stamp",
+            "de": "Marke",
+            "fr": "Timbre",
+            "it": "Francobollo",
+            "nl": "Stamp",
+            "pl": "Stamp",
+            "cs": "Stamp",
+            "sk": "Stamp",
+            "ro": "Stamp",
+            "hu": "Stamp",
+            "da": "Stamp"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "The third stamp in «Kunst aus Österreich» shows a late Schüttbild by Hermann Nitsch (1938 to 2022). He spread the paint with his hands, so the surface stands up like a relief.",
+          "de": "Die dritte Marke aus „Kunst aus Österreich“ zeigt ein spätes Schüttbild von Hermann Nitsch (1938 bis 2022). Er verteilte die Farbe mit den Händen, dadurch tritt die Oberfläche wie ein Relief hervor.",
+          "fr": "Le troisième timbre de « Kunst aus Österreich » montre un Schüttbild tardif de Hermann Nitsch (1938-2022). Il étalait la peinture avec les mains, si bien que la surface se soulève comme un relief.",
+          "it": "Il terzo francobollo di \"Kunst aus Österreich\" mostra un tardo Schüttbild di Hermann Nitsch (1938-2022). Nitsch stendeva il colore con le mani, perciò la superficie si solleva come un rilievo.",
+          "nl": "The third stamp in «Kunst aus Österreich» shows a late Schüttbild by Hermann Nitsch (1938 to 2022). He spread the paint with his hands, so the surface stands up like a relief.",
+          "pl": "The third stamp in «Kunst aus Österreich» shows a late Schüttbild by Hermann Nitsch (1938 to 2022). He spread the paint with his hands, so the surface stands up like a relief.",
+          "cs": "The third stamp in «Kunst aus Österreich» shows a late Schüttbild by Hermann Nitsch (1938 to 2022). He spread the paint with his hands, so the surface stands up like a relief.",
+          "sk": "The third stamp in «Kunst aus Österreich» shows a late Schüttbild by Hermann Nitsch (1938 to 2022). He spread the paint with his hands, so the surface stands up like a relief.",
+          "ro": "The third stamp in «Kunst aus Österreich» shows a late Schüttbild by Hermann Nitsch (1938 to 2022). He spread the paint with his hands, so the surface stands up like a relief.",
+          "hu": "The third stamp in «Kunst aus Österreich» shows a late Schüttbild by Hermann Nitsch (1938 to 2022). He spread the paint with his hands, so the surface stands up like a relief.",
+          "da": "The third stamp in «Kunst aus Österreich» shows a late Schüttbild by Hermann Nitsch (1938 to 2022). He spread the paint with his hands, so the surface stands up like a relief."
+        },
+        {
+          "en": "Nitsch made his first Schüttbilder in 1960. He became known for his «Orgien Mysterien Theater» at Schloss Prinzendorf. In his late work he moved from red to yellow and then to bright colours, inspired by peonies and other flowers. The swirls on the stamp recall flowers.",
+          "de": "Seine ersten Schüttbilder entstanden 1960. Bekannt wurde Nitsch mit seinem „Orgien Mysterien Theater“ auf Schloss Prinzendorf. Im Spätwerk ging er von Rot zu Gelb und dann zu leuchtenden Farben über, angeregt von Pfingstrosen und anderen Blumen. Die Wirbel auf der Marke erinnern an Blüten.",
+          "fr": "Nitsch a réalisé ses premiers Schüttbilder en 1960. Il s'est fait connaître par son « Orgien Mysterien Theater » au Schloss Prinzendorf. Dans son œuvre tardive, il est passé du rouge au jaune, puis à des couleurs vives, inspiré par les pivoines et d'autres fleurs. Les tourbillons du timbre évoquent des fleurs.",
+          "it": "I primi Schüttbilder risalgono al 1960. Nitsch si è fatto conoscere con il suo \"Orgien Mysterien Theater\" a Schloss Prinzendorf. Nelle opere tarde è passato dal rosso al giallo e poi ai colori accesi, ispirati dalle peonie e da altri fiori. I vortici sul francobollo ricordano dei fiori.",
+          "nl": "Nitsch made his first Schüttbilder in 1960. He became known for his «Orgien Mysterien Theater» at Schloss Prinzendorf. In his late work he moved from red to yellow and then to bright colours, inspired by peonies and other flowers. The swirls on the stamp recall flowers.",
+          "pl": "Nitsch made his first Schüttbilder in 1960. He became known for his «Orgien Mysterien Theater» at Schloss Prinzendorf. In his late work he moved from red to yellow and then to bright colours, inspired by peonies and other flowers. The swirls on the stamp recall flowers.",
+          "cs": "Nitsch made his first Schüttbilder in 1960. He became known for his «Orgien Mysterien Theater» at Schloss Prinzendorf. In his late work he moved from red to yellow and then to bright colours, inspired by peonies and other flowers. The swirls on the stamp recall flowers.",
+          "sk": "Nitsch made his first Schüttbilder in 1960. He became known for his «Orgien Mysterien Theater» at Schloss Prinzendorf. In his late work he moved from red to yellow and then to bright colours, inspired by peonies and other flowers. The swirls on the stamp recall flowers.",
+          "ro": "Nitsch made his first Schüttbilder in 1960. He became known for his «Orgien Mysterien Theater» at Schloss Prinzendorf. In his late work he moved from red to yellow and then to bright colours, inspired by peonies and other flowers. The swirls on the stamp recall flowers.",
+          "hu": "Nitsch made his first Schüttbilder in 1960. He became known for his «Orgien Mysterien Theater» at Schloss Prinzendorf. In his late work he moved from red to yellow and then to bright colours, inspired by peonies and other flowers. The swirls on the stamp recall flowers.",
+          "da": "Nitsch made his first Schüttbilder in 1960. He became known for his «Orgien Mysterien Theater» at Schloss Prinzendorf. In his late work he moved from red to yellow and then to bright colours, inspired by peonies and other flowers. The swirls on the stamp recall flowers."
+        },
+        {
+          "en": "Regina Simon designed the stamp. The print run is 150,000.",
+          "de": "Regina Simon gestaltete die Marke. Die Auflage beträgt 150.000 Stück.",
+          "fr": "Regina Simon a conçu le timbre. Le tirage est de 150 000 exemplaires.",
+          "it": "Il francobollo è stato disegnato da Regina Simon. La tiratura è di 150.000 pezzi.",
+          "nl": "Regina Simon designed the stamp. The print run is 150,000.",
+          "pl": "Regina Simon designed the stamp. The print run is 150,000.",
+          "cs": "Regina Simon designed the stamp. The print run is 150,000.",
+          "sk": "Regina Simon designed the stamp. The print run is 150,000.",
+          "ro": "Regina Simon designed the stamp. The print run is 150,000.",
+          "hu": "Regina Simon designed the stamp. The print run is 150,000.",
+          "da": "Regina Simon designed the stamp. The print run is 150,000."
+        }
+      ]
+    },
+    {
+      "id": "oevsv",
+      "date": {
+        "en": "21 September 2026",
+        "de": "21. September 2026",
+        "fr": "21 septembre 2026",
+        "it": "21 settembre 2026",
+        "nl": "21 September 2026",
+        "pl": "21 September 2026",
+        "cs": "21 September 2026",
+        "sk": "21 September 2026",
+        "ro": "21 September 2026",
+        "hu": "21 September 2026",
+        "da": "21 September 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "100 Jahre ÖVSV, €3.10",
+          "de": "100 Jahre ÖVSV, 3,10 €",
+          "fr": "100 Jahre ÖVSV, 3,10 €",
+          "it": "100 Jahre ÖVSV, 3,10 €",
+          "nl": "100 Jahre ÖVSV, €3.10",
+          "pl": "100 Jahre ÖVSV, €3.10",
+          "cs": "100 Jahre ÖVSV, €3.10",
+          "sk": "100 Jahre ÖVSV, €3.10",
+          "ro": "100 Jahre ÖVSV, €3.10",
+          "hu": "100 Jahre ÖVSV, €3.10",
+          "da": "100 Jahre ÖVSV, €3.10"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/2451bb6412791d7c/at-2026-226380.png",
+          "width": 1000,
+          "height": 763
+        },
+        "country": "AT",
+        "stamp_id": "at-post-226380"
+      },
+      "title": {
+        "en": "100 years of the Österreichischer Versuchssenderverband",
+        "de": "100 Jahre Österreichischer Versuchssenderverband",
+        "fr": "100 ans de l'Österreichischer Versuchssenderverband",
+        "it": "100 anni dell'Österreichischer Versuchssenderverband",
+        "nl": "100 years of the Österreichischer Versuchssenderverband",
+        "pl": "100 years of the Österreichischer Versuchssenderverband",
+        "cs": "100 years of the Österreichischer Versuchssenderverband",
+        "sk": "100 years of the Österreichischer Versuchssenderverband",
+        "ro": "100 years of the Österreichischer Versuchssenderverband",
+        "hu": "100 years of the Österreichischer Versuchssenderverband",
+        "da": "100 years of the Österreichischer Versuchssenderverband"
+      },
+      "formats": [
+        {
+          "value": "€3.10",
+          "format": {
+            "en": "Stamp",
+            "de": "Marke",
+            "fr": "Timbre",
+            "it": "Francobollo",
+            "nl": "Stamp",
+            "pl": "Stamp",
+            "cs": "Stamp",
+            "sk": "Stamp",
+            "ro": "Stamp",
+            "hu": "Stamp",
+            "da": "Stamp"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "The ÖVSV is the association of Austria's radio amateurs. Franz Anderle founded it in 1926. Austria has around 7,400 amateur radio licences. Each operator passes an exam and gets a call sign that is unique in the world.",
+          "de": "Der ÖVSV ist der Verband der österreichischen Funkamateure. Franz Anderle gründete ihn 1926. In Österreich gibt es rund 7.400 Amateurfunklizenzen. Wer sendet, legt eine Prüfung ab und bekommt ein weltweit eindeutiges Rufzeichen.",
+          "fr": "L'ÖVSV est l'association des radioamateurs autrichiens. Franz Anderle l'a fondée en 1926. L'Autriche compte environ 7 400 licences de radioamateur. Chaque opérateur passe un examen et reçoit un indicatif unique au monde.",
+          "it": "L'ÖVSV è l'associazione dei radioamatori austriaci. Franz Anderle l'ha fondata nel 1926. In Austria ci sono circa 7.400 licenze di radioamatore. Ogni operatore supera un esame e riceve un nominativo unico al mondo.",
+          "nl": "The ÖVSV is the association of Austria's radio amateurs. Franz Anderle founded it in 1926. Austria has around 7,400 amateur radio licences. Each operator passes an exam and gets a call sign that is unique in the world.",
+          "pl": "The ÖVSV is the association of Austria's radio amateurs. Franz Anderle founded it in 1926. Austria has around 7,400 amateur radio licences. Each operator passes an exam and gets a call sign that is unique in the world.",
+          "cs": "The ÖVSV is the association of Austria's radio amateurs. Franz Anderle founded it in 1926. Austria has around 7,400 amateur radio licences. Each operator passes an exam and gets a call sign that is unique in the world.",
+          "sk": "The ÖVSV is the association of Austria's radio amateurs. Franz Anderle founded it in 1926. Austria has around 7,400 amateur radio licences. Each operator passes an exam and gets a call sign that is unique in the world.",
+          "ro": "The ÖVSV is the association of Austria's radio amateurs. Franz Anderle founded it in 1926. Austria has around 7,400 amateur radio licences. Each operator passes an exam and gets a call sign that is unique in the world.",
+          "hu": "The ÖVSV is the association of Austria's radio amateurs. Franz Anderle founded it in 1926. Austria has around 7,400 amateur radio licences. Each operator passes an exam and gets a call sign that is unique in the world.",
+          "da": "The ÖVSV is the association of Austria's radio amateurs. Franz Anderle founded it in 1926. Austria has around 7,400 amateur radio licences. Each operator passes an exam and gets a call sign that is unique in the world."
+        },
+        {
+          "en": "Radio amateurs may build their own equipment and use it without an official approval. The association held its centenary gala at the Volkstheater in Vienna on the stamp's first day.",
+          "de": "Funkamateure dürfen ihre Geräte selbst bauen und ohne behördliche Zulassung betreiben. Am Ersttag der Marke feierte der Verband seine Jubiläumsgala im Volkstheater in Wien.",
+          "fr": "Les radioamateurs peuvent construire eux-mêmes leurs appareils et les utiliser sans homologation officielle. L'association a tenu son gala du centenaire au Volkstheater de Vienne, le jour de l'émission du timbre.",
+          "it": "I radioamatori possono costruirsi gli apparecchi e usarli senza un'omologazione ufficiale. Il giorno dell'emissione l'associazione ha festeggiato il centenario con una serata di gala al Volkstheater di Vienna.",
+          "nl": "Radio amateurs may build their own equipment and use it without an official approval. The association held its centenary gala at the Volkstheater in Vienna on the stamp's first day.",
+          "pl": "Radio amateurs may build their own equipment and use it without an official approval. The association held its centenary gala at the Volkstheater in Vienna on the stamp's first day.",
+          "cs": "Radio amateurs may build their own equipment and use it without an official approval. The association held its centenary gala at the Volkstheater in Vienna on the stamp's first day.",
+          "sk": "Radio amateurs may build their own equipment and use it without an official approval. The association held its centenary gala at the Volkstheater in Vienna on the stamp's first day.",
+          "ro": "Radio amateurs may build their own equipment and use it without an official approval. The association held its centenary gala at the Volkstheater in Vienna on the stamp's first day.",
+          "hu": "Radio amateurs may build their own equipment and use it without an official approval. The association held its centenary gala at the Volkstheater in Vienna on the stamp's first day.",
+          "da": "Radio amateurs may build their own equipment and use it without an official approval. The association held its centenary gala at the Volkstheater in Vienna on the stamp's first day."
+        },
+        {
+          "en": "David Gruber designed the stamp. bpost printed it, with a 12 × 12 perforation.",
+          "de": "David Gruber gestaltete die Marke. Gedruckt hat sie bpost, mit einer Zähnung 12 × 12.",
+          "fr": "David Gruber a conçu le timbre. Il a été imprimé par bpost, avec une dentelure 12 × 12.",
+          "it": "Il francobollo è stato disegnato da David Gruber. L'ha stampato bpost, con dentellatura 12 × 12.",
+          "nl": "David Gruber designed the stamp. bpost printed it, with a 12 × 12 perforation.",
+          "pl": "David Gruber designed the stamp. bpost printed it, with a 12 × 12 perforation.",
+          "cs": "David Gruber designed the stamp. bpost printed it, with a 12 × 12 perforation.",
+          "sk": "David Gruber designed the stamp. bpost printed it, with a 12 × 12 perforation.",
+          "ro": "David Gruber designed the stamp. bpost printed it, with a 12 × 12 perforation.",
+          "hu": "David Gruber designed the stamp. bpost printed it, with a 12 × 12 perforation.",
+          "da": "David Gruber designed the stamp. bpost printed it, with a 12 × 12 perforation."
+        }
+      ]
+    },
+    {
+      "id": "ordering",
+      "rows": [
+        {
+          "label": {
+            "en": "Online shop",
+            "de": "Onlineshop",
+            "fr": "Boutique en ligne",
+            "it": "Negozio online",
+            "nl": "Online shop",
+            "pl": "Online shop",
+            "cs": "Online shop",
+            "sk": "Online shop",
+            "ro": "Online shop",
+            "hu": "Online shop",
+            "da": "Online shop"
+          },
+          "value": {
+            "en": "onlineshop.post.at",
+            "de": "onlineshop.post.at",
+            "fr": "onlineshop.post.at",
+            "it": "onlineshop.post.at",
+            "nl": "onlineshop.post.at",
+            "pl": "onlineshop.post.at",
+            "cs": "onlineshop.post.at",
+            "sk": "onlineshop.post.at",
+            "ro": "onlineshop.post.at",
+            "hu": "onlineshop.post.at",
+            "da": "onlineshop.post.at"
+          }
+        },
+        {
+          "label": {
+            "en": "Sammler-Service",
+            "de": "Sammler-Service",
+            "fr": "Sammler-Service",
+            "it": "Sammler-Service",
+            "nl": "Sammler-Service",
+            "pl": "Sammler-Service",
+            "cs": "Sammler-Service",
+            "sk": "Sammler-Service",
+            "ro": "Sammler-Service",
+            "hu": "Sammler-Service",
+            "da": "Sammler-Service"
+          },
+          "value": {
+            "en": "Steinheilgasse 1, 1210 Wien",
+            "de": "Steinheilgasse 1, 1210 Wien",
+            "fr": "Steinheilgasse 1, 1210 Wien",
+            "it": "Steinheilgasse 1, 1210 Wien",
+            "nl": "Steinheilgasse 1, 1210 Wien",
+            "pl": "Steinheilgasse 1, 1210 Wien",
+            "cs": "Steinheilgasse 1, 1210 Wien",
+            "sk": "Steinheilgasse 1, 1210 Wien",
+            "ro": "Steinheilgasse 1, 1210 Wien",
+            "hu": "Steinheilgasse 1, 1210 Wien",
+            "da": "Steinheilgasse 1, 1210 Wien"
+          }
+        },
+        {
+          "label": {
+            "en": "Phone",
+            "de": "Telefon",
+            "fr": "Téléphone",
+            "it": "Telefono",
+            "nl": "Phone",
+            "pl": "Phone",
+            "cs": "Phone",
+            "sk": "Phone",
+            "ro": "Phone",
+            "hu": "Phone",
+            "da": "Phone"
+          },
+          "value": {
+            "en": "+43 57767 95095",
+            "de": "+43 57767 95095",
+            "fr": "+43 57767 95095",
+            "it": "+43 57767 95095",
+            "nl": "+43 57767 95095",
+            "pl": "+43 57767 95095",
+            "cs": "+43 57767 95095",
+            "sk": "+43 57767 95095",
+            "ro": "+43 57767 95095",
+            "hu": "+43 57767 95095",
+            "da": "+43 57767 95095"
+          }
+        },
+        {
+          "label": {
+            "en": "Email",
+            "de": "E-Mail",
+            "fr": "E-mail",
+            "it": "E-mail",
+            "nl": "Email",
+            "pl": "Email",
+            "cs": "Email",
+            "sk": "Email",
+            "ro": "Email",
+            "hu": "Email",
+            "da": "Email"
+          },
+          "value": {
+            "en": "sammler-service@post.at",
+            "de": "sammler-service@post.at",
+            "fr": "sammler-service@post.at",
+            "it": "sammler-service@post.at",
+            "nl": "sammler-service@post.at",
+            "pl": "sammler-service@post.at",
+            "cs": "sammler-service@post.at",
+            "sk": "sammler-service@post.at",
+            "ro": "sammler-service@post.at",
+            "hu": "sammler-service@post.at",
+            "da": "sammler-service@post.at"
+          }
+        },
+        {
+          "label": {
+            "en": "Hours",
+            "de": "Öffnungszeiten",
+            "fr": "Horaires",
+            "it": "Orari",
+            "nl": "Hours",
+            "pl": "Hours",
+            "cs": "Hours",
+            "sk": "Hours",
+            "ro": "Hours",
+            "hu": "Hours",
+            "da": "Hours"
+          },
+          "value": {
+            "en": "Monday to Friday, 8:00 to 16:00",
+            "de": "Montag bis Freitag, 8 bis 16 Uhr",
+            "fr": "Du lundi au vendredi, de 8 h à 16 h",
+            "it": "Da lunedì a venerdì, dalle 8:00 alle 16:00",
+            "nl": "Monday to Friday, 8:00 to 16:00",
+            "pl": "Monday to Friday, 8:00 to 16:00",
+            "cs": "Monday to Friday, 8:00 to 16:00",
+            "sk": "Monday to Friday, 8:00 to 16:00",
+            "ro": "Monday to Friday, 8:00 to 16:00",
+            "hu": "Monday to Friday, 8:00 to 16:00",
+            "da": "Monday to Friday, 8:00 to 16:00"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "Ordering",
+        "de": "Bestellen",
+        "fr": "Commander",
+        "it": "Ordinazioni",
+        "nl": "Ordering",
+        "pl": "Ordering",
+        "cs": "Ordering",
+        "sk": "Ordering",
+        "ro": "Ordering",
+        "hu": "Ordering",
+        "da": "Ordering"
+      },
+      "title": {
+        "en": "Where to order",
+        "de": "Wo du die Marken bekommst",
+        "fr": "Où commander",
+        "it": "Dove ordinare",
+        "nl": "Where to order",
+        "pl": "Where to order",
+        "cs": "Where to order",
+        "sk": "Where to order",
+        "ro": "Where to order",
+        "hu": "Where to order",
+        "da": "Where to order"
+      },
+      "buttons": [
+        {
+          "href": "https://onlineshop.post.at",
+          "label": {
+            "en": "Österreichische Post online shop",
+            "de": "Onlineshop der Österreichischen Post",
+            "fr": "Boutique en ligne de l'Österreichische Post",
+            "it": "Negozio online Österreichische Post",
+            "nl": "Österreichische Post online shop",
+            "pl": "Österreichische Post online shop",
+            "cs": "Österreichische Post online shop",
+            "sk": "Österreichische Post online shop",
+            "ro": "Österreichische Post online shop",
+            "hu": "Österreichische Post online shop",
+            "da": "Österreichische Post online shop"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stampiq",
+      "text": {
+        "en": "These stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "de": "Diese Marken sind noch nicht in StampIQ. Wir nehmen sie später in den Katalog auf.",
+        "fr": "Ces timbres ne sont pas encore dans StampIQ. Nous les ajouterons au catalogue plus tard.",
+        "it": "Questi francobolli non sono ancora in StampIQ. Li aggiungeremo al catalogo più avanti.",
+        "nl": "These stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "pl": "These stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "cs": "These stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "sk": "These stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "ro": "These stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "hu": "These stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "da": "These stamps are not in StampIQ yet. We add them to the catalogue later."
+      },
+      "type": "note"
+    }
+  ]
+}
