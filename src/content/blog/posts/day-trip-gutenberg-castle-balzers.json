@@ -1,0 +1,1148 @@
+{
+  "category": "day-trips",
+  "markets": [
+    "CH",
+    "LI",
+    "DE",
+    "AT"
+  ],
+  "langs": [
+    "en",
+    "de",
+    "fr",
+    "it"
+  ],
+  "published_at": "2026-10-23T07:30:00+00:00",
+  "thumbnail": {
+    "src": "https://assets.stampiq.io/blog/35f9b1c36139ca0d/gutenberg-card.jpg",
+    "width": 1667,
+    "height": 1250
+  },
+  "languages": {
+    "en": {
+      "slug": "day-trip-gutenberg-castle-balzers",
+      "title": "Day trip: Burg Gutenberg in Balzers",
+      "description": "The 2017 Europa stamp shows Burg Gutenberg in Balzers. The walk up to the free outer courtyard, the castle's history and the chapels of Mäls."
+    },
+    "de": {
+      "slug": "tagesausflug-burg-gutenberg-balzers",
+      "title": "Tagesausflug: Burg Gutenberg in Balzers",
+      "description": "Die Europa-Marke von 2017 zeigt Burg Gutenberg in Balzers. Der Weg zur Vorburg mit freiem Eintritt, die Geschichte der Burg und die Kapellen von Mäls."
+    },
+    "fr": {
+      "slug": "excursion-chateau-gutenberg-balzers",
+      "title": "Excursion : le château de Gutenberg à Balzers",
+      "description": "Le timbre Europa 2017 montre le château de Gutenberg à Balzers. La montée à la basse-cour en accès libre, l'histoire du château et les chapelles de Mäls."
+    },
+    "it": {
+      "slug": "gita-castello-gutenberg-balzers",
+      "title": "Gita di un giorno: il castello di Gutenberg a Balzers",
+      "description": "Il francobollo Europa 2017 mostra il castello di Gutenberg a Balzers. La salita al cortile esterno a ingresso libero, la sua storia e le cappelle di Mäls."
+    },
+    "nl": {
+      "slug": "day-trip-gutenberg-castle-balzers",
+      "title": "Day trip: Burg Gutenberg in Balzers",
+      "description": "The 2017 Europa stamp shows Burg Gutenberg in Balzers. The walk up to the free outer courtyard, the castle's history and the chapels of Mäls."
+    },
+    "pl": {
+      "slug": "day-trip-gutenberg-castle-balzers",
+      "title": "Day trip: Burg Gutenberg in Balzers",
+      "description": "The 2017 Europa stamp shows Burg Gutenberg in Balzers. The walk up to the free outer courtyard, the castle's history and the chapels of Mäls."
+    },
+    "cs": {
+      "slug": "day-trip-gutenberg-castle-balzers",
+      "title": "Day trip: Burg Gutenberg in Balzers",
+      "description": "The 2017 Europa stamp shows Burg Gutenberg in Balzers. The walk up to the free outer courtyard, the castle's history and the chapels of Mäls."
+    },
+    "sk": {
+      "slug": "day-trip-gutenberg-castle-balzers",
+      "title": "Day trip: Burg Gutenberg in Balzers",
+      "description": "The 2017 Europa stamp shows Burg Gutenberg in Balzers. The walk up to the free outer courtyard, the castle's history and the chapels of Mäls."
+    },
+    "ro": {
+      "slug": "day-trip-gutenberg-castle-balzers",
+      "title": "Day trip: Burg Gutenberg in Balzers",
+      "description": "The 2017 Europa stamp shows Burg Gutenberg in Balzers. The walk up to the free outer courtyard, the castle's history and the chapels of Mäls."
+    },
+    "hu": {
+      "slug": "day-trip-gutenberg-castle-balzers",
+      "title": "Day trip: Burg Gutenberg in Balzers",
+      "description": "The 2017 Europa stamp shows Burg Gutenberg in Balzers. The walk up to the free outer courtyard, the castle's history and the chapels of Mäls."
+    },
+    "da": {
+      "slug": "day-trip-gutenberg-castle-balzers",
+      "title": "Day trip: Burg Gutenberg in Balzers",
+      "description": "The 2017 Europa stamp shows Burg Gutenberg in Balzers. The walk up to the free outer courtyard, the castle's history and the chapels of Mäls."
+    }
+  },
+  "header": {
+    "lead": {
+      "en": "On 4 February 1499 Swabian soldiers on Burg Gutenberg in Balzers shouted \"Kuhschweizer\", cow-Swiss, across the Rhine at the Swiss troops. In 1905 a sculptor bought the ruin for 1,000 Kronen and rebuilt the castle that a Liechtenstein stamp of 2017 shows.",
+      "de": "Am 4. Februar 1499 riefen schwäbische Soldaten auf Burg Gutenberg in Balzers den eidgenössischen Truppen über den Rhein „Kuhschweizer“ zu. 1905 kaufte ein Bildhauer die Ruine für 1.000 Kronen und baute die Burg wieder auf, die eine Liechtensteiner Briefmarke von 2017 zeigt.",
+      "fr": "Le 4 février 1499, depuis le château de Gutenberg à Balzers, des soldats souabes ont crié « Kuhschweizer », Suisses à vaches, par-dessus le Rhin en direction des troupes suisses. En 1905, un sculpteur a acheté la ruine pour 1 000 couronnes et a reconstruit le château que montre un timbre du Liechtenstein de 2017.",
+      "it": "Il 4 febbraio 1499 i soldati svevi di stanza nel castello di Gutenberg, a Balzers, gridarono \"Kuhschweizer\", svizzeri delle vacche, alle truppe svizzere al di là del Reno. Nel 1905 uno scultore comprò il rudere per 1.000 corone e ricostruì il castello che si vede su un francobollo del Liechtenstein del 2017.",
+      "nl": "On 4 February 1499 Swabian soldiers on Burg Gutenberg in Balzers shouted \"Kuhschweizer\", cow-Swiss, across the Rhine at the Swiss troops. In 1905 a sculptor bought the ruin for 1,000 Kronen and rebuilt the castle that a Liechtenstein stamp of 2017 shows.",
+      "pl": "On 4 February 1499 Swabian soldiers on Burg Gutenberg in Balzers shouted \"Kuhschweizer\", cow-Swiss, across the Rhine at the Swiss troops. In 1905 a sculptor bought the ruin for 1,000 Kronen and rebuilt the castle that a Liechtenstein stamp of 2017 shows.",
+      "cs": "On 4 February 1499 Swabian soldiers on Burg Gutenberg in Balzers shouted \"Kuhschweizer\", cow-Swiss, across the Rhine at the Swiss troops. In 1905 a sculptor bought the ruin for 1,000 Kronen and rebuilt the castle that a Liechtenstein stamp of 2017 shows.",
+      "sk": "On 4 February 1499 Swabian soldiers on Burg Gutenberg in Balzers shouted \"Kuhschweizer\", cow-Swiss, across the Rhine at the Swiss troops. In 1905 a sculptor bought the ruin for 1,000 Kronen and rebuilt the castle that a Liechtenstein stamp of 2017 shows.",
+      "ro": "On 4 February 1499 Swabian soldiers on Burg Gutenberg in Balzers shouted \"Kuhschweizer\", cow-Swiss, across the Rhine at the Swiss troops. In 1905 a sculptor bought the ruin for 1,000 Kronen and rebuilt the castle that a Liechtenstein stamp of 2017 shows.",
+      "hu": "On 4 February 1499 Swabian soldiers on Burg Gutenberg in Balzers shouted \"Kuhschweizer\", cow-Swiss, across the Rhine at the Swiss troops. In 1905 a sculptor bought the ruin for 1,000 Kronen and rebuilt the castle that a Liechtenstein stamp of 2017 shows.",
+      "da": "On 4 February 1499 Swabian soldiers on Burg Gutenberg in Balzers shouted \"Kuhschweizer\", cow-Swiss, across the Rhine at the Swiss troops. In 1905 a sculptor bought the ruin for 1,000 Kronen and rebuilt the castle that a Liechtenstein stamp of 2017 shows."
+    },
+    "visual": {
+      "type": "stamp",
+      "stamp": {
+        "name": {
+          "en": "Gutenberg Castle, Liechtenstein",
+          "de": "Burg Gutenberg, Liechtenstein",
+          "fr": "Château de Gutenberg, Liechtenstein",
+          "it": "Castello di Gutenberg, Liechtenstein",
+          "nl": "Gutenberg Castle, Liechtenstein",
+          "pl": "Gutenberg Castle, Liechtenstein",
+          "cs": "Gutenberg Castle, Liechtenstein",
+          "sk": "Gutenberg Castle, Liechtenstein",
+          "ro": "Gutenberg Castle, Liechtenstein",
+          "hu": "Gutenberg Castle, Liechtenstein",
+          "da": "Gutenberg Castle, Liechtenstein"
+        },
+        "year": 2017,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/2f511e02e4bb52f8/gutenberg-stamp-2017.png",
+          "width": 1100,
+          "height": 644
+        },
+        "country": "LI",
+        "stamp_id": "SIQ-FL-2017-002"
+      }
+    },
+    "location": "Balzers, Liechtenstein"
+  },
+  "blocks": [
+    {
+      "id": "search",
+      "type": "text",
+      "label": {
+        "en": "In the app",
+        "de": "In der App",
+        "fr": "Dans l'application",
+        "it": "Nell'app",
+        "nl": "In the app",
+        "pl": "In the app",
+        "cs": "In the app",
+        "sk": "In the app",
+        "ro": "In the app",
+        "hu": "In the app",
+        "da": "In the app"
+      },
+      "title": {
+        "en": "The printer and the castle",
+        "de": "Der Drucker und die Burg",
+        "fr": "L'imprimeur et le château",
+        "it": "Lo stampatore e il castello",
+        "nl": "The printer and the castle",
+        "pl": "The printer and the castle",
+        "cs": "The printer and the castle",
+        "sk": "The printer and the castle",
+        "ro": "The printer and the castle",
+        "hu": "The printer and the castle",
+        "da": "The printer and the castle"
+      },
+      "visual": {
+        "type": "phone",
+        "animation": {
+          "src": "https://assets.stampiq.io/blog/00a8c7339074ae01/gutenberg.mp4",
+          "width": 960,
+          "height": 2080,
+          "poster": "https://assets.stampiq.io/blog/574a1d2c4924fd17/gutenberg.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "A Liechtenstein stamp of 1981 in your album shows a castle called Gutenberg on a rock in snow, with no village beside the name. A search for \"Gutenberg\" in StampIQ also brings up Johannes Gutenberg, the printer from Mainz, on German stamps from 1954 onwards and on a Liechtenstein stamp of 1999 that reads \"JOHANNES GUTENBERG, ERFINDER DES BUCHDRUCKS\". The castle with its tall keep is on other Liechtenstein stamps too. On the Europa stamp of 2017 it is called \"Burg Gutenberg\".",
+          "de": "Eine Liechtensteiner Briefmarke von 1981 in deinem Album zeigt eine Burg namens Gutenberg auf einem Felsen im Schnee, ohne Ortsangabe neben dem Namen. Die Suche nach „Gutenberg“ in StampIQ zeigt auch Johannes Gutenberg, den Drucker aus Mainz: auf deutschen Briefmarken ab 1954 und auf einer Liechtensteiner Marke von 1999 mit der Aufschrift „JOHANNES GUTENBERG, ERFINDER DES BUCHDRUCKS“. Die Burg mit ihrem hohen Bergfried steht auch auf weiteren Liechtensteiner Briefmarken. Auf der Europa-Marke von 2017 heißt sie „Burg Gutenberg“.",
+          "fr": "Dans ton album, un timbre du Liechtenstein de 1981 montre un château nommé Gutenberg sur un rocher, sous la neige, sans nom de village à côté. Une recherche de « Gutenberg » dans StampIQ fait aussi apparaître Johannes Gutenberg, l'imprimeur de Mayence, sur des timbres allemands à partir de 1954 et sur un timbre du Liechtenstein de 1999 qui porte « JOHANNES GUTENBERG, ERFINDER DES BUCHDRUCKS ». Le château et son haut donjon figurent aussi sur d'autres timbres du Liechtenstein. Sur le timbre Europa de 2017, il s'appelle « Burg Gutenberg ».",
+          "it": "Nel tuo album un francobollo del Liechtenstein del 1981 mostra un castello chiamato Gutenberg su una rupe nella neve, senza il nome di un paese accanto. Cercando \"Gutenberg\" in StampIQ compare anche Johannes Gutenberg, lo stampatore di Magonza, sui francobolli tedeschi dal 1954 in poi e su un francobollo del Liechtenstein del 1999 che riporta \"JOHANNES GUTENBERG, ERFINDER DES BUCHDRUCKS\". Il castello con il suo alto mastio si vede anche su altri francobolli del Liechtenstein. Sul francobollo Europa del 2017 è chiamato \"Burg Gutenberg\".",
+          "nl": "A Liechtenstein stamp of 1981 in your album shows a castle called Gutenberg on a rock in snow, with no village beside the name. A search for \"Gutenberg\" in StampIQ also brings up Johannes Gutenberg, the printer from Mainz, on German stamps from 1954 onwards and on a Liechtenstein stamp of 1999 that reads \"JOHANNES GUTENBERG, ERFINDER DES BUCHDRUCKS\". The castle with its tall keep is on other Liechtenstein stamps too. On the Europa stamp of 2017 it is called \"Burg Gutenberg\".",
+          "pl": "A Liechtenstein stamp of 1981 in your album shows a castle called Gutenberg on a rock in snow, with no village beside the name. A search for \"Gutenberg\" in StampIQ also brings up Johannes Gutenberg, the printer from Mainz, on German stamps from 1954 onwards and on a Liechtenstein stamp of 1999 that reads \"JOHANNES GUTENBERG, ERFINDER DES BUCHDRUCKS\". The castle with its tall keep is on other Liechtenstein stamps too. On the Europa stamp of 2017 it is called \"Burg Gutenberg\".",
+          "cs": "A Liechtenstein stamp of 1981 in your album shows a castle called Gutenberg on a rock in snow, with no village beside the name. A search for \"Gutenberg\" in StampIQ also brings up Johannes Gutenberg, the printer from Mainz, on German stamps from 1954 onwards and on a Liechtenstein stamp of 1999 that reads \"JOHANNES GUTENBERG, ERFINDER DES BUCHDRUCKS\". The castle with its tall keep is on other Liechtenstein stamps too. On the Europa stamp of 2017 it is called \"Burg Gutenberg\".",
+          "sk": "A Liechtenstein stamp of 1981 in your album shows a castle called Gutenberg on a rock in snow, with no village beside the name. A search for \"Gutenberg\" in StampIQ also brings up Johannes Gutenberg, the printer from Mainz, on German stamps from 1954 onwards and on a Liechtenstein stamp of 1999 that reads \"JOHANNES GUTENBERG, ERFINDER DES BUCHDRUCKS\". The castle with its tall keep is on other Liechtenstein stamps too. On the Europa stamp of 2017 it is called \"Burg Gutenberg\".",
+          "ro": "A Liechtenstein stamp of 1981 in your album shows a castle called Gutenberg on a rock in snow, with no village beside the name. A search for \"Gutenberg\" in StampIQ also brings up Johannes Gutenberg, the printer from Mainz, on German stamps from 1954 onwards and on a Liechtenstein stamp of 1999 that reads \"JOHANNES GUTENBERG, ERFINDER DES BUCHDRUCKS\". The castle with its tall keep is on other Liechtenstein stamps too. On the Europa stamp of 2017 it is called \"Burg Gutenberg\".",
+          "hu": "A Liechtenstein stamp of 1981 in your album shows a castle called Gutenberg on a rock in snow, with no village beside the name. A search for \"Gutenberg\" in StampIQ also brings up Johannes Gutenberg, the printer from Mainz, on German stamps from 1954 onwards and on a Liechtenstein stamp of 1999 that reads \"JOHANNES GUTENBERG, ERFINDER DES BUCHDRUCKS\". The castle with its tall keep is on other Liechtenstein stamps too. On the Europa stamp of 2017 it is called \"Burg Gutenberg\".",
+          "da": "A Liechtenstein stamp of 1981 in your album shows a castle called Gutenberg on a rock in snow, with no village beside the name. A search for \"Gutenberg\" in StampIQ also brings up Johannes Gutenberg, the printer from Mainz, on German stamps from 1954 onwards and on a Liechtenstein stamp of 1999 that reads \"JOHANNES GUTENBERG, ERFINDER DES BUCHDRUCKS\". The castle with its tall keep is on other Liechtenstein stamps too. On the Europa stamp of 2017 it is called \"Burg Gutenberg\"."
+        },
+        {
+          "en": "Sorted by \"Date\", oldest first, the castle stamps run from 1920 to that Europa stamp. On its page, \"Show on map\" puts the pin on a rock in the middle of Balzers, a village on the Rhine with Switzerland on the other bank. The carousel on the castle hill holds 17 stamps.",
+          "de": "Nach „Datum“ sortiert, die ältesten zuerst, reichen die Burgmarken von 1920 bis zu dieser Europa-Marke. Auf ihrer Seite setzt „Auf Karte anzeigen“ den Pin auf einen Felsen mitten in Balzers, einem Dorf am Rhein mit der Schweiz am anderen Ufer. Das Karussell auf dem Burghügel enthält 17 Briefmarken.",
+          "fr": "Triés par « Date », du plus ancien au plus récent, les timbres du château vont de 1920 à ce timbre Europa. Sur sa page, « Voir sur la carte » pose l'épingle sur un rocher au milieu de Balzers, un village au bord du Rhin, avec la Suisse sur l'autre rive. Le carrousel sur la colline du château contient 17 timbres.",
+          "it": "Ordinati per \"Data\", dal più vecchio al più recente, i francobolli con il castello vanno dal 1920 fino a quel francobollo Europa. Nella sua pagina, \"Mostra sulla mappa\" mette il segnaposto su una rupe al centro di Balzers, un paese sul Reno con la Svizzera sull'altra sponda. Il carosello sulla collina del castello raccoglie 17 francobolli.",
+          "nl": "Sorted by \"Date\", oldest first, the castle stamps run from 1920 to that Europa stamp. On its page, \"Show on map\" puts the pin on a rock in the middle of Balzers, a village on the Rhine with Switzerland on the other bank. The carousel on the castle hill holds 17 stamps.",
+          "pl": "Sorted by \"Date\", oldest first, the castle stamps run from 1920 to that Europa stamp. On its page, \"Show on map\" puts the pin on a rock in the middle of Balzers, a village on the Rhine with Switzerland on the other bank. The carousel on the castle hill holds 17 stamps.",
+          "cs": "Sorted by \"Date\", oldest first, the castle stamps run from 1920 to that Europa stamp. On its page, \"Show on map\" puts the pin on a rock in the middle of Balzers, a village on the Rhine with Switzerland on the other bank. The carousel on the castle hill holds 17 stamps.",
+          "sk": "Sorted by \"Date\", oldest first, the castle stamps run from 1920 to that Europa stamp. On its page, \"Show on map\" puts the pin on a rock in the middle of Balzers, a village on the Rhine with Switzerland on the other bank. The carousel on the castle hill holds 17 stamps.",
+          "ro": "Sorted by \"Date\", oldest first, the castle stamps run from 1920 to that Europa stamp. On its page, \"Show on map\" puts the pin on a rock in the middle of Balzers, a village on the Rhine with Switzerland on the other bank. The carousel on the castle hill holds 17 stamps.",
+          "hu": "Sorted by \"Date\", oldest first, the castle stamps run from 1920 to that Europa stamp. On its page, \"Show on map\" puts the pin on a rock in the middle of Balzers, a village on the Rhine with Switzerland on the other bank. The carousel on the castle hill holds 17 stamps.",
+          "da": "Sorted by \"Date\", oldest first, the castle stamps run from 1920 to that Europa stamp. On its page, \"Show on map\" puts the pin on a rock in the middle of Balzers, a village on the Rhine with Switzerland on the other bank. The carousel on the castle hill holds 17 stamps."
+        }
+      ]
+    },
+    {
+      "id": "stamp",
+      "type": "text",
+      "label": {
+        "en": "The stamp",
+        "de": "Die Briefmarke",
+        "fr": "Le timbre",
+        "it": "Il francobollo",
+        "nl": "The stamp",
+        "pl": "The stamp",
+        "cs": "The stamp",
+        "sk": "The stamp",
+        "ro": "The stamp",
+        "hu": "The stamp",
+        "da": "The stamp"
+      },
+      "title": {
+        "en": "The castle in snow",
+        "de": "Die Burg im Schnee",
+        "fr": "Le château sous la neige",
+        "it": "Il castello nella neve",
+        "nl": "The castle in snow",
+        "pl": "The castle in snow",
+        "cs": "The castle in snow",
+        "sk": "The castle in snow",
+        "ro": "The castle in snow",
+        "hu": "The castle in snow",
+        "da": "The castle in snow"
+      },
+      "visual": {
+        "type": "stamp",
+        "stamp": {
+          "name": {
+            "en": "Gutenberg Castle, Liechtenstein",
+            "de": "Burg Gutenberg, Liechtenstein",
+            "fr": "Château de Gutenberg, Liechtenstein",
+            "it": "Castello di Gutenberg, Liechtenstein",
+            "nl": "Gutenberg Castle, Liechtenstein",
+            "pl": "Gutenberg Castle, Liechtenstein",
+            "cs": "Gutenberg Castle, Liechtenstein",
+            "sk": "Gutenberg Castle, Liechtenstein",
+            "ro": "Gutenberg Castle, Liechtenstein",
+            "hu": "Gutenberg Castle, Liechtenstein",
+            "da": "Gutenberg Castle, Liechtenstein"
+          },
+          "year": 1981,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/4741df242b83e443/gutenberg-stamp-1981.png",
+            "width": 1033,
+            "height": 802
+          },
+          "country": "LI",
+          "stamp_id": "SIQ-FL-1981-017"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "O. Zeiller drew Gutenberg for a set of four stamps in 1981. The 20 Rp value shows the castle on its rock in snow, as Egon Rheinberger rebuilt it after 1905.",
+          "de": "O. Zeiller zeichnete Gutenberg 1981 für einen Satz von vier Briefmarken. Der Wert zu 20 Rp. zeigt die Burg auf ihrem Felsen im Schnee, so wie Egon Rheinberger sie nach 1905 wieder aufgebaut hat.",
+          "fr": "O. Zeiller a dessiné Gutenberg pour une série de quatre timbres en 1981. La valeur à 20 Rp montre le château sur son rocher sous la neige, tel qu'Egon Rheinberger l'a reconstruit après 1905.",
+          "it": "O. Zeiller disegnò Gutenberg nel 1981 per una serie di quattro francobolli. Il valore da 20 Rp mostra il castello sulla sua rupe nella neve, così come lo ricostruì Egon Rheinberger dopo il 1905.",
+          "nl": "O. Zeiller drew Gutenberg for a set of four stamps in 1981. The 20 Rp value shows the castle on its rock in snow, as Egon Rheinberger rebuilt it after 1905.",
+          "pl": "O. Zeiller drew Gutenberg for a set of four stamps in 1981. The 20 Rp value shows the castle on its rock in snow, as Egon Rheinberger rebuilt it after 1905.",
+          "cs": "O. Zeiller drew Gutenberg for a set of four stamps in 1981. The 20 Rp value shows the castle on its rock in snow, as Egon Rheinberger rebuilt it after 1905.",
+          "sk": "O. Zeiller drew Gutenberg for a set of four stamps in 1981. The 20 Rp value shows the castle on its rock in snow, as Egon Rheinberger rebuilt it after 1905.",
+          "ro": "O. Zeiller drew Gutenberg for a set of four stamps in 1981. The 20 Rp value shows the castle on its rock in snow, as Egon Rheinberger rebuilt it after 1905.",
+          "hu": "O. Zeiller drew Gutenberg for a set of four stamps in 1981. The 20 Rp value shows the castle on its rock in snow, as Egon Rheinberger rebuilt it after 1905.",
+          "da": "O. Zeiller drew Gutenberg for a set of four stamps in 1981. The 20 Rp value shows the castle on its rock in snow, as Egon Rheinberger rebuilt it after 1905."
+        },
+        {
+          "en": "The other three values show the inner courtyard, the Burgstube and the Rittersaal. Rheinberger fitted out both rooms to his own design, because nothing of the old furnishings had survived.",
+          "de": "Die drei anderen Werte zeigen den Innenhof, die Burgstube und den Rittersaal. Beide Räume richtete Rheinberger nach eigenen Entwürfen ein, denn von der alten Ausstattung war nichts erhalten.",
+          "fr": "Les trois autres valeurs montrent la cour intérieure, la Burgstube et le Rittersaal. Rheinberger a aménagé les deux pièces d'après ses propres dessins, car rien de l'ameublement ancien n'avait subsisté.",
+          "it": "Gli altri tre valori mostrano il cortile interno, la Burgstube e il Rittersaal. Rheinberger arredò entrambe le sale su propri disegni, perché dell'arredamento antico non era rimasto nulla.",
+          "nl": "The other three values show the inner courtyard, the Burgstube and the Rittersaal. Rheinberger fitted out both rooms to his own design, because nothing of the old furnishings had survived.",
+          "pl": "The other three values show the inner courtyard, the Burgstube and the Rittersaal. Rheinberger fitted out both rooms to his own design, because nothing of the old furnishings had survived.",
+          "cs": "The other three values show the inner courtyard, the Burgstube and the Rittersaal. Rheinberger fitted out both rooms to his own design, because nothing of the old furnishings had survived.",
+          "sk": "The other three values show the inner courtyard, the Burgstube and the Rittersaal. Rheinberger fitted out both rooms to his own design, because nothing of the old furnishings had survived.",
+          "ro": "The other three values show the inner courtyard, the Burgstube and the Rittersaal. Rheinberger fitted out both rooms to his own design, because nothing of the old furnishings had survived.",
+          "hu": "The other three values show the inner courtyard, the Burgstube and the Rittersaal. Rheinberger fitted out both rooms to his own design, because nothing of the old furnishings had survived.",
+          "da": "The other three values show the inner courtyard, the Burgstube and the Rittersaal. Rheinberger fitted out both rooms to his own design, because nothing of the old furnishings had survived."
+        },
+        {
+          "en": "On the Europa stamp of 6 March 2017, Angelo Boog of Wallisellen drew the castle from below, with the keep and its steep red roof above trees in autumn colours. Liechtenstein issued it for the theme \"Schlösser und Burgen\" with a stamp of Schloss Vaduz, both at CHF 1.50 and printed in offset by Cartor Security Printing in France.",
+          "de": "Auf der Europa-Marke vom 6. März 2017 zeichnete Angelo Boog aus Wallisellen die Burg von unten, mit dem Bergfried und seinem steilen roten Dach über herbstlich gefärbten Bäumen. Liechtenstein gab sie zum Thema „Schlösser und Burgen“ zusammen mit einer Marke von Schloss Vaduz heraus. Beide tragen den Nennwert CHF 1.50 und wurden im Offsetdruck bei Cartor Security Printing in Frankreich gedruckt.",
+          "fr": "Pour le timbre Europa du 6 mars 2017, Angelo Boog, de Wallisellen, a dessiné le château vu d'en bas, avec le donjon et son toit rouge en pente raide au-dessus des arbres aux couleurs d'automne. Le Liechtenstein l'a émis pour le thème « Schlösser und Burgen » avec un timbre du château de Vaduz, les deux à CHF 1.50 et imprimés en offset par Cartor Security Printing, en France.",
+          "it": "Sul francobollo Europa del 6 marzo 2017 Angelo Boog di Wallisellen ha disegnato il castello dal basso, con il mastio e il suo ripido tetto rosso sopra gli alberi nei colori dell'autunno. Il Liechtenstein lo ha emesso per il tema \"Schlösser und Burgen\" insieme a un francobollo con il castello di Vaduz, entrambi da CHF 1.50 e stampati in offset da Cartor Security Printing in Francia.",
+          "nl": "On the Europa stamp of 6 March 2017, Angelo Boog of Wallisellen drew the castle from below, with the keep and its steep red roof above trees in autumn colours. Liechtenstein issued it for the theme \"Schlösser und Burgen\" with a stamp of Schloss Vaduz, both at CHF 1.50 and printed in offset by Cartor Security Printing in France.",
+          "pl": "On the Europa stamp of 6 March 2017, Angelo Boog of Wallisellen drew the castle from below, with the keep and its steep red roof above trees in autumn colours. Liechtenstein issued it for the theme \"Schlösser und Burgen\" with a stamp of Schloss Vaduz, both at CHF 1.50 and printed in offset by Cartor Security Printing in France.",
+          "cs": "On the Europa stamp of 6 March 2017, Angelo Boog of Wallisellen drew the castle from below, with the keep and its steep red roof above trees in autumn colours. Liechtenstein issued it for the theme \"Schlösser und Burgen\" with a stamp of Schloss Vaduz, both at CHF 1.50 and printed in offset by Cartor Security Printing in France.",
+          "sk": "On the Europa stamp of 6 March 2017, Angelo Boog of Wallisellen drew the castle from below, with the keep and its steep red roof above trees in autumn colours. Liechtenstein issued it for the theme \"Schlösser und Burgen\" with a stamp of Schloss Vaduz, both at CHF 1.50 and printed in offset by Cartor Security Printing in France.",
+          "ro": "On the Europa stamp of 6 March 2017, Angelo Boog of Wallisellen drew the castle from below, with the keep and its steep red roof above trees in autumn colours. Liechtenstein issued it for the theme \"Schlösser und Burgen\" with a stamp of Schloss Vaduz, both at CHF 1.50 and printed in offset by Cartor Security Printing in France.",
+          "hu": "On the Europa stamp of 6 March 2017, Angelo Boog of Wallisellen drew the castle from below, with the keep and its steep red roof above trees in autumn colours. Liechtenstein issued it for the theme \"Schlösser und Burgen\" with a stamp of Schloss Vaduz, both at CHF 1.50 and printed in offset by Cartor Security Printing in France.",
+          "da": "On the Europa stamp of 6 March 2017, Angelo Boog of Wallisellen drew the castle from below, with the keep and its steep red roof above trees in autumn colours. Liechtenstein issued it for the theme \"Schlösser und Burgen\" with a stamp of Schloss Vaduz, both at CHF 1.50 and printed in offset by Cartor Security Printing in France."
+        }
+      ]
+    },
+    {
+      "id": "hill",
+      "type": "text",
+      "label": {
+        "en": "The story",
+        "de": "Die Geschichte",
+        "fr": "L'histoire",
+        "it": "La storia",
+        "nl": "The story",
+        "pl": "The story",
+        "cs": "The story",
+        "sk": "The story",
+        "ro": "The story",
+        "hu": "The story",
+        "da": "The story"
+      },
+      "title": {
+        "en": "An insult across the Rhine",
+        "de": "Ein Schimpfwort über den Rhein",
+        "fr": "Une insulte par-dessus le Rhin",
+        "it": "Un insulto oltre il Reno",
+        "nl": "An insult across the Rhine",
+        "pl": "An insult across the Rhine",
+        "cs": "An insult across the Rhine",
+        "sk": "An insult across the Rhine",
+        "ro": "An insult across the Rhine",
+        "hu": "An insult across the Rhine",
+        "da": "An insult across the Rhine"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/782544d319c7bd6d/gutenberg-vorburg.jpg",
+          "width": 2400,
+          "credit": "-wuppertaler, CC BY 4.0",
+          "height": 1800,
+          "caption": {
+            "en": "The outer courtyard with the old ring wall and its gate, in January.",
+            "de": "Die Vorburg mit der alten Ringmauer und ihrem Tor, im Januar.",
+            "fr": "La basse-cour avec l'ancienne enceinte et sa porte, en janvier.",
+            "it": "Il cortile esterno con l'antica cinta muraria e la sua porta, a gennaio.",
+            "nl": "The outer courtyard with the old ring wall and its gate, in January.",
+            "pl": "The outer courtyard with the old ring wall and its gate, in January.",
+            "cs": "The outer courtyard with the old ring wall and its gate, in January.",
+            "sk": "The outer courtyard with the old ring wall and its gate, in January.",
+            "ro": "The outer courtyard with the old ring wall and its gate, in January.",
+            "hu": "The outer courtyard with the old ring wall and its gate, in January.",
+            "da": "The outer courtyard with the old ring wall and its gate, in January."
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:LIE_Balzers,_Burg_Gutenberg_0015.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "On 4 February 1499 the Swabian soldiers on Gutenberg shouted across the Rhine at the Swiss Confederate troops camped near Azmoos and at the Schollberg. They called them \"Kuhschweizer\", cow-Swiss. In reply Heini Wolleb, a mercenary leader from Uri, led a raid over the river and set two houses in Balzers on fire. According to the Swiss chroniclers, cited in the Historisches Lexikon, this mockery started the fighting of the Swabian War. Reportedly several thousand men besieged Gutenberg afterwards without taking it.",
+          "de": "Am 4. Februar 1499 riefen die schwäbischen Soldaten auf Gutenberg den eidgenössischen Truppen, die bei Azmoos und am Schollberg lagerten, über den Rhein „Kuhschweizer“ zu. Darauf führte Heini Wolleb, ein Söldnerführer aus Uri, einen Überfall über den Fluss und steckte in Balzers zwei Häuser in Brand. Nach den Schweizer Chronisten, die das Historische Lexikon zitiert, begannen mit diesem Spott die Kämpfe des Schwabenkriegs. Mehrere tausend Mann sollen Gutenberg danach belagert haben, ohne die Burg einzunehmen.",
+          "fr": "Le 4 février 1499, les soldats souabes de Gutenberg ont crié par-dessus le Rhin en direction des troupes confédérées campées près d'Azmoos et au Schollberg. Ils les ont traitées de « Kuhschweizer », Suisses à vaches. En réponse, Heini Wolleb, un chef de mercenaires d'Uri, a mené un raid de l'autre côté du fleuve et incendié deux maisons à Balzers. Selon les chroniqueurs suisses, cités par l'Historisches Lexikon, cette moquerie a déclenché les combats de la guerre de Souabe. Plusieurs milliers d'hommes auraient ensuite assiégé Gutenberg sans le prendre.",
+          "it": "Il 4 febbraio 1499 i soldati svevi di stanza a Gutenberg gridarono oltre il Reno alle truppe confederate svizzere accampate presso Azmoos e allo Schollberg. Le chiamarono \"Kuhschweizer\", svizzeri delle vacche. Heini Wolleb, comandante di mercenari di Uri, rispose guidando un'incursione oltre il fiume e incendiò due case a Balzers. Secondo i cronisti svizzeri, citati nell'Historisches Lexikon, fu questa derisione a dare inizio ai combattimenti della guerra sveva. Si racconta che in seguito diverse migliaia di uomini abbiano assediato Gutenberg senza riuscire a prenderlo.",
+          "nl": "On 4 February 1499 the Swabian soldiers on Gutenberg shouted across the Rhine at the Swiss Confederate troops camped near Azmoos and at the Schollberg. They called them \"Kuhschweizer\", cow-Swiss. In reply Heini Wolleb, a mercenary leader from Uri, led a raid over the river and set two houses in Balzers on fire. According to the Swiss chroniclers, cited in the Historisches Lexikon, this mockery started the fighting of the Swabian War. Reportedly several thousand men besieged Gutenberg afterwards without taking it.",
+          "pl": "On 4 February 1499 the Swabian soldiers on Gutenberg shouted across the Rhine at the Swiss Confederate troops camped near Azmoos and at the Schollberg. They called them \"Kuhschweizer\", cow-Swiss. In reply Heini Wolleb, a mercenary leader from Uri, led a raid over the river and set two houses in Balzers on fire. According to the Swiss chroniclers, cited in the Historisches Lexikon, this mockery started the fighting of the Swabian War. Reportedly several thousand men besieged Gutenberg afterwards without taking it.",
+          "cs": "On 4 February 1499 the Swabian soldiers on Gutenberg shouted across the Rhine at the Swiss Confederate troops camped near Azmoos and at the Schollberg. They called them \"Kuhschweizer\", cow-Swiss. In reply Heini Wolleb, a mercenary leader from Uri, led a raid over the river and set two houses in Balzers on fire. According to the Swiss chroniclers, cited in the Historisches Lexikon, this mockery started the fighting of the Swabian War. Reportedly several thousand men besieged Gutenberg afterwards without taking it.",
+          "sk": "On 4 February 1499 the Swabian soldiers on Gutenberg shouted across the Rhine at the Swiss Confederate troops camped near Azmoos and at the Schollberg. They called them \"Kuhschweizer\", cow-Swiss. In reply Heini Wolleb, a mercenary leader from Uri, led a raid over the river and set two houses in Balzers on fire. According to the Swiss chroniclers, cited in the Historisches Lexikon, this mockery started the fighting of the Swabian War. Reportedly several thousand men besieged Gutenberg afterwards without taking it.",
+          "ro": "On 4 February 1499 the Swabian soldiers on Gutenberg shouted across the Rhine at the Swiss Confederate troops camped near Azmoos and at the Schollberg. They called them \"Kuhschweizer\", cow-Swiss. In reply Heini Wolleb, a mercenary leader from Uri, led a raid over the river and set two houses in Balzers on fire. According to the Swiss chroniclers, cited in the Historisches Lexikon, this mockery started the fighting of the Swabian War. Reportedly several thousand men besieged Gutenberg afterwards without taking it.",
+          "hu": "On 4 February 1499 the Swabian soldiers on Gutenberg shouted across the Rhine at the Swiss Confederate troops camped near Azmoos and at the Schollberg. They called them \"Kuhschweizer\", cow-Swiss. In reply Heini Wolleb, a mercenary leader from Uri, led a raid over the river and set two houses in Balzers on fire. According to the Swiss chroniclers, cited in the Historisches Lexikon, this mockery started the fighting of the Swabian War. Reportedly several thousand men besieged Gutenberg afterwards without taking it.",
+          "da": "On 4 February 1499 the Swabian soldiers on Gutenberg shouted across the Rhine at the Swiss Confederate troops camped near Azmoos and at the Schollberg. They called them \"Kuhschweizer\", cow-Swiss. In reply Heini Wolleb, a mercenary leader from Uri, led a raid over the river and set two houses in Balzers on fire. According to the Swiss chroniclers, cited in the Historisches Lexikon, this mockery started the fighting of the Swabian War. Reportedly several thousand men besieged Gutenberg afterwards without taking it."
+        },
+        {
+          "en": "The Habsburgs took the military stores to Bregenz in 1748 and left the castle to decay. After a fire in the village in 1795, the people of Balzers used the ruin as a quarry.",
+          "de": "Die Habsburger brachten 1748 die Militärbestände nach Bregenz und ließen die Burg verfallen. Nach einem Dorfbrand 1795 nutzten die Balzner die Ruine als Steinbruch.",
+          "fr": "Les Habsbourg ont transféré le dépôt militaire à Bregenz en 1748 et ont laissé le château se dégrader. Après un incendie dans le village en 1795, les habitants de Balzers ont utilisé la ruine comme carrière.",
+          "it": "Nel 1748 gli Asburgo portarono i depositi militari a Bregenz e lasciarono andare il castello in rovina. Dopo un incendio nel paese nel 1795, gli abitanti di Balzers usarono i ruderi come cava di pietra.",
+          "nl": "The Habsburgs took the military stores to Bregenz in 1748 and left the castle to decay. After a fire in the village in 1795, the people of Balzers used the ruin as a quarry.",
+          "pl": "The Habsburgs took the military stores to Bregenz in 1748 and left the castle to decay. After a fire in the village in 1795, the people of Balzers used the ruin as a quarry.",
+          "cs": "The Habsburgs took the military stores to Bregenz in 1748 and left the castle to decay. After a fire in the village in 1795, the people of Balzers used the ruin as a quarry.",
+          "sk": "The Habsburgs took the military stores to Bregenz in 1748 and left the castle to decay. After a fire in the village in 1795, the people of Balzers used the ruin as a quarry.",
+          "ro": "The Habsburgs took the military stores to Bregenz in 1748 and left the castle to decay. After a fire in the village in 1795, the people of Balzers used the ruin as a quarry.",
+          "hu": "The Habsburgs took the military stores to Bregenz in 1748 and left the castle to decay. After a fire in the village in 1795, the people of Balzers used the ruin as a quarry.",
+          "da": "The Habsburgs took the military stores to Bregenz in 1748 and left the castle to decay. After a fire in the village in 1795, the people of Balzers used the ruin as a quarry."
+        },
+        {
+          "en": "Egon Rheinberger, a sculptor from Vaduz, had worked on the rebuilding of two castles in Austria, Burg Liechtenstein near Mödling and Kreuzenstein. On 30 May 1905 he bought the Gutenberg ruin from Prince Johann II. He rebuilt it on the old ground plan to his own designs, with a completely new chapel. In 1920 he and his wife Maria opened an inn in the castle.",
+          "de": "Egon Rheinberger, ein Bildhauer aus Vaduz, hatte am Wiederaufbau von zwei Burgen in Österreich mitgearbeitet, der Burg Liechtenstein bei Mödling und Kreuzenstein. Am 30. Mai 1905 kaufte er die Ruine Gutenberg von Fürst Johann II. Er baute sie auf dem alten Grundriss nach eigenen Entwürfen wieder auf, mit einer ganz neuen Kapelle. 1920 eröffneten er und seine Frau Maria in der Burg ein Gasthaus.",
+          "fr": "Egon Rheinberger, sculpteur de Vaduz, avait travaillé à la reconstruction de deux châteaux en Autriche, Burg Liechtenstein près de Mödling et Kreuzenstein. Le 30 mai 1905, il a acheté la ruine de Gutenberg au prince Jean II. Il l'a reconstruite sur le plan d'origine, d'après ses propres dessins, avec une chapelle entièrement neuve. En 1920, lui et sa femme Maria y ont ouvert une auberge.",
+          "it": "Egon Rheinberger, scultore di Vaduz, aveva lavorato alla ricostruzione di due castelli in Austria, Burg Liechtenstein presso Mödling e Kreuzenstein. Il 30 maggio 1905 comprò il rudere di Gutenberg dal principe Giovanni II. Lo ricostruì sulla pianta antica seguendo propri disegni, con una cappella completamente nuova. Nel 1920 lui e la moglie Maria aprirono una locanda nel castello.",
+          "nl": "Egon Rheinberger, a sculptor from Vaduz, had worked on the rebuilding of two castles in Austria, Burg Liechtenstein near Mödling and Kreuzenstein. On 30 May 1905 he bought the Gutenberg ruin from Prince Johann II. He rebuilt it on the old ground plan to his own designs, with a completely new chapel. In 1920 he and his wife Maria opened an inn in the castle.",
+          "pl": "Egon Rheinberger, a sculptor from Vaduz, had worked on the rebuilding of two castles in Austria, Burg Liechtenstein near Mödling and Kreuzenstein. On 30 May 1905 he bought the Gutenberg ruin from Prince Johann II. He rebuilt it on the old ground plan to his own designs, with a completely new chapel. In 1920 he and his wife Maria opened an inn in the castle.",
+          "cs": "Egon Rheinberger, a sculptor from Vaduz, had worked on the rebuilding of two castles in Austria, Burg Liechtenstein near Mödling and Kreuzenstein. On 30 May 1905 he bought the Gutenberg ruin from Prince Johann II. He rebuilt it on the old ground plan to his own designs, with a completely new chapel. In 1920 he and his wife Maria opened an inn in the castle.",
+          "sk": "Egon Rheinberger, a sculptor from Vaduz, had worked on the rebuilding of two castles in Austria, Burg Liechtenstein near Mödling and Kreuzenstein. On 30 May 1905 he bought the Gutenberg ruin from Prince Johann II. He rebuilt it on the old ground plan to his own designs, with a completely new chapel. In 1920 he and his wife Maria opened an inn in the castle.",
+          "ro": "Egon Rheinberger, a sculptor from Vaduz, had worked on the rebuilding of two castles in Austria, Burg Liechtenstein near Mödling and Kreuzenstein. On 30 May 1905 he bought the Gutenberg ruin from Prince Johann II. He rebuilt it on the old ground plan to his own designs, with a completely new chapel. In 1920 he and his wife Maria opened an inn in the castle.",
+          "hu": "Egon Rheinberger, a sculptor from Vaduz, had worked on the rebuilding of two castles in Austria, Burg Liechtenstein near Mödling and Kreuzenstein. On 30 May 1905 he bought the Gutenberg ruin from Prince Johann II. He rebuilt it on the old ground plan to his own designs, with a completely new chapel. In 1920 he and his wife Maria opened an inn in the castle.",
+          "da": "Egon Rheinberger, a sculptor from Vaduz, had worked on the rebuilding of two castles in Austria, Burg Liechtenstein near Mödling and Kreuzenstein. On 30 May 1905 he bought the Gutenberg ruin from Prince Johann II. He rebuilt it on the old ground plan to his own designs, with a completely new chapel. In 1920 he and his wife Maria opened an inn in the castle."
+        },
+        {
+          "en": "In summer 1925 \"Der letzte Gutenberger\", a play set in the siege of 1499, was performed in the castle courtyard. Karl Josef Minst from Triesen wrote it at the age of 26. Rheinberger drew the poster for it.",
+          "de": "Im Sommer 1925 wurde im Burghof „Der letzte Gutenberger“ aufgeführt, ein Theaterstück, das in der Belagerung von 1499 spielt. Karl Josef Minst aus Triesen schrieb es mit 26 Jahren. Rheinberger zeichnete das Plakat dazu.",
+          "fr": "À l'été 1925, « Der letzte Gutenberger », une pièce qui se déroule pendant le siège de 1499, a été jouée dans la cour du château. Karl Josef Minst, de Triesen, l'avait écrite à 26 ans. Rheinberger en a dessiné l'affiche.",
+          "it": "Nell'estate del 1925 nel cortile del castello andò in scena \"Der letzte Gutenberger\", un dramma ambientato durante l'assedio del 1499. Lo scrisse Karl Josef Minst di Triesen, che allora aveva 26 anni. Rheinberger ne disegnò il manifesto.",
+          "nl": "In summer 1925 \"Der letzte Gutenberger\", a play set in the siege of 1499, was performed in the castle courtyard. Karl Josef Minst from Triesen wrote it at the age of 26. Rheinberger drew the poster for it.",
+          "pl": "In summer 1925 \"Der letzte Gutenberger\", a play set in the siege of 1499, was performed in the castle courtyard. Karl Josef Minst from Triesen wrote it at the age of 26. Rheinberger drew the poster for it.",
+          "cs": "In summer 1925 \"Der letzte Gutenberger\", a play set in the siege of 1499, was performed in the castle courtyard. Karl Josef Minst from Triesen wrote it at the age of 26. Rheinberger drew the poster for it.",
+          "sk": "In summer 1925 \"Der letzte Gutenberger\", a play set in the siege of 1499, was performed in the castle courtyard. Karl Josef Minst from Triesen wrote it at the age of 26. Rheinberger drew the poster for it.",
+          "ro": "In summer 1925 \"Der letzte Gutenberger\", a play set in the siege of 1499, was performed in the castle courtyard. Karl Josef Minst from Triesen wrote it at the age of 26. Rheinberger drew the poster for it.",
+          "hu": "In summer 1925 \"Der letzte Gutenberger\", a play set in the siege of 1499, was performed in the castle courtyard. Karl Josef Minst from Triesen wrote it at the age of 26. Rheinberger drew the poster for it.",
+          "da": "In summer 1925 \"Der letzte Gutenberger\", a play set in the siege of 1499, was performed in the castle courtyard. Karl Josef Minst from Triesen wrote it at the age of 26. Rheinberger drew the poster for it."
+        },
+        {
+          "en": "The Rheinberger family offered the castle to the state in 1949. The Landtag refused because of the cost. Two years later it went to Hermine Kindle from Triesen, who had left for Hollywood in 1925 and had become a film star in Mexico as \"Medea de Novara\". She bought it with her husband, the Mexican film director Miguel de Contreras Torres. In the 1950s they had several rooms painted by Leo Wolfinger from Balzers, who also restored Rheinberger's paintings. The state bought the castle in 1979 for 3.8 million francs. The couple kept the right to live there until 2001.",
+          "de": "Die Familie Rheinberger bot die Burg 1949 dem Staat an. Der Landtag lehnte wegen der Kosten ab. Zwei Jahre später ging sie an Hermine Kindle aus Triesen, die 1925 nach Hollywood gegangen und in Mexiko als „Medea de Novara“ ein Filmstar geworden war. Sie kaufte die Burg zusammen mit ihrem Mann, dem mexikanischen Filmregisseur Miguel de Contreras Torres. In den 1950er-Jahren ließen sie mehrere Räume von Leo Wolfinger aus Balzers bemalen, der auch Rheinbergers Malereien restaurierte. 1979 kaufte der Staat die Burg für 3,8 Millionen Franken. Das Paar behielt das Wohnrecht bis 2001.",
+          "fr": "La famille Rheinberger a proposé le château à l'État en 1949. Le Landtag a refusé à cause du coût. Deux ans plus tard, le château est passé à Hermine Kindle, de Triesen, partie pour Hollywood en 1925 et devenue star de cinéma au Mexique sous le nom de « Medea de Novara ». Elle l'a acheté avec son mari, le réalisateur mexicain Miguel de Contreras Torres. Dans les années 1950, ils ont fait peindre plusieurs pièces par Leo Wolfinger, de Balzers, qui a aussi restauré les peintures de Rheinberger. L'État a acheté le château en 1979 pour 3,8 millions de francs. Le couple a gardé le droit d'y habiter jusqu'en 2001.",
+          "it": "Nel 1949 la famiglia Rheinberger offrì il castello allo Stato. Il Landtag rifiutò per via dei costi. Due anni dopo passò a Hermine Kindle di Triesen, partita per Hollywood nel 1925 e diventata una stella del cinema in Messico come \"Medea de Novara\". Lo acquistò insieme al marito, il regista messicano Miguel de Contreras Torres. Negli anni Cinquanta fecero dipingere diverse sale da Leo Wolfinger di Balzers, che restaurò anche i dipinti di Rheinberger. Lo Stato comprò il castello nel 1979 per 3,8 milioni di franchi. La coppia mantenne il diritto di abitarvi fino al 2001.",
+          "nl": "The Rheinberger family offered the castle to the state in 1949. The Landtag refused because of the cost. Two years later it went to Hermine Kindle from Triesen, who had left for Hollywood in 1925 and had become a film star in Mexico as \"Medea de Novara\". She bought it with her husband, the Mexican film director Miguel de Contreras Torres. In the 1950s they had several rooms painted by Leo Wolfinger from Balzers, who also restored Rheinberger's paintings. The state bought the castle in 1979 for 3.8 million francs. The couple kept the right to live there until 2001.",
+          "pl": "The Rheinberger family offered the castle to the state in 1949. The Landtag refused because of the cost. Two years later it went to Hermine Kindle from Triesen, who had left for Hollywood in 1925 and had become a film star in Mexico as \"Medea de Novara\". She bought it with her husband, the Mexican film director Miguel de Contreras Torres. In the 1950s they had several rooms painted by Leo Wolfinger from Balzers, who also restored Rheinberger's paintings. The state bought the castle in 1979 for 3.8 million francs. The couple kept the right to live there until 2001.",
+          "cs": "The Rheinberger family offered the castle to the state in 1949. The Landtag refused because of the cost. Two years later it went to Hermine Kindle from Triesen, who had left for Hollywood in 1925 and had become a film star in Mexico as \"Medea de Novara\". She bought it with her husband, the Mexican film director Miguel de Contreras Torres. In the 1950s they had several rooms painted by Leo Wolfinger from Balzers, who also restored Rheinberger's paintings. The state bought the castle in 1979 for 3.8 million francs. The couple kept the right to live there until 2001.",
+          "sk": "The Rheinberger family offered the castle to the state in 1949. The Landtag refused because of the cost. Two years later it went to Hermine Kindle from Triesen, who had left for Hollywood in 1925 and had become a film star in Mexico as \"Medea de Novara\". She bought it with her husband, the Mexican film director Miguel de Contreras Torres. In the 1950s they had several rooms painted by Leo Wolfinger from Balzers, who also restored Rheinberger's paintings. The state bought the castle in 1979 for 3.8 million francs. The couple kept the right to live there until 2001.",
+          "ro": "The Rheinberger family offered the castle to the state in 1949. The Landtag refused because of the cost. Two years later it went to Hermine Kindle from Triesen, who had left for Hollywood in 1925 and had become a film star in Mexico as \"Medea de Novara\". She bought it with her husband, the Mexican film director Miguel de Contreras Torres. In the 1950s they had several rooms painted by Leo Wolfinger from Balzers, who also restored Rheinberger's paintings. The state bought the castle in 1979 for 3.8 million francs. The couple kept the right to live there until 2001.",
+          "hu": "The Rheinberger family offered the castle to the state in 1949. The Landtag refused because of the cost. Two years later it went to Hermine Kindle from Triesen, who had left for Hollywood in 1925 and had become a film star in Mexico as \"Medea de Novara\". She bought it with her husband, the Mexican film director Miguel de Contreras Torres. In the 1950s they had several rooms painted by Leo Wolfinger from Balzers, who also restored Rheinberger's paintings. The state bought the castle in 1979 for 3.8 million francs. The couple kept the right to live there until 2001.",
+          "da": "The Rheinberger family offered the castle to the state in 1949. The Landtag refused because of the cost. Two years later it went to Hermine Kindle from Triesen, who had left for Hollywood in 1925 and had become a film star in Mexico as \"Medea de Novara\". She bought it with her husband, the Mexican film director Miguel de Contreras Torres. In the 1950s they had several rooms painted by Leo Wolfinger from Balzers, who also restored Rheinberger's paintings. The state bought the castle in 1979 for 3.8 million francs. The couple kept the right to live there until 2001."
+        }
+      ]
+    },
+    {
+      "id": "figures",
+      "type": "numbers",
+      "label": {
+        "en": "In figures",
+        "de": "In Zahlen",
+        "fr": "En chiffres",
+        "it": "In cifre",
+        "nl": "In figures",
+        "pl": "In figures",
+        "cs": "In figures",
+        "sk": "In figures",
+        "ro": "In figures",
+        "hu": "In figures",
+        "da": "In figures"
+      },
+      "title": {
+        "en": "The castle rock",
+        "de": "Der Burgfelsen",
+        "fr": "Le rocher du château",
+        "it": "La rupe del castello",
+        "nl": "The castle rock",
+        "pl": "The castle rock",
+        "cs": "The castle rock",
+        "sk": "The castle rock",
+        "ro": "The castle rock",
+        "hu": "The castle rock",
+        "da": "The castle rock"
+      },
+      "numbers": [
+        {
+          "text": {
+            "en": "The rock stands free on all sides in the middle of Balzers.",
+            "de": "Der Felsen steht mitten in Balzers, nach allen Seiten frei.",
+            "fr": "Le rocher se dresse, isolé de tous côtés, au milieu de Balzers.",
+            "it": "La rupe si erge isolata da ogni lato al centro di Balzers.",
+            "nl": "The rock stands free on all sides in the middle of Balzers.",
+            "pl": "The rock stands free on all sides in the middle of Balzers.",
+            "cs": "The rock stands free on all sides in the middle of Balzers.",
+            "sk": "The rock stands free on all sides in the middle of Balzers.",
+            "ro": "The rock stands free on all sides in the middle of Balzers.",
+            "hu": "The rock stands free on all sides in the middle of Balzers.",
+            "da": "The rock stands free on all sides in the middle of Balzers."
+          },
+          "title": {
+            "en": "Castle hill",
+            "de": "Burghügel",
+            "fr": "Colline du château",
+            "it": "Collina del castello",
+            "nl": "Castle hill",
+            "pl": "Castle hill",
+            "cs": "Castle hill",
+            "sk": "Castle hill",
+            "ro": "Castle hill",
+            "hu": "Castle hill",
+            "da": "Castle hill"
+          },
+          "value": "70 m"
+        },
+        {
+          "text": {
+            "en": "Egon Rheinberger paid this for the ruin in 1905.",
+            "de": "Diesen Betrag zahlte Egon Rheinberger 1905 für die Ruine.",
+            "fr": "Egon Rheinberger a payé cette somme pour la ruine en 1905.",
+            "it": "Egon Rheinberger pagò questa cifra nel 1905 per il rudere.",
+            "nl": "Egon Rheinberger paid this for the ruin in 1905.",
+            "pl": "Egon Rheinberger paid this for the ruin in 1905.",
+            "cs": "Egon Rheinberger paid this for the ruin in 1905.",
+            "sk": "Egon Rheinberger paid this for the ruin in 1905.",
+            "ro": "Egon Rheinberger paid this for the ruin in 1905.",
+            "hu": "Egon Rheinberger paid this for the ruin in 1905.",
+            "da": "Egon Rheinberger paid this for the ruin in 1905."
+          },
+          "title": {
+            "en": "The ruin",
+            "de": "Die Ruine",
+            "fr": "La ruine",
+            "it": "Il rudere",
+            "nl": "The ruin",
+            "pl": "The ruin",
+            "cs": "The ruin",
+            "sk": "The ruin",
+            "ro": "The ruin",
+            "hu": "The ruin",
+            "da": "The ruin"
+          },
+          "value": "1,000 Kronen"
+        },
+        {
+          "text": {
+            "en": "Rheinberger's family moved into the rebuilt castle.",
+            "de": "Rheinbergers Familie zog in die wiederaufgebaute Burg ein.",
+            "fr": "La famille de Rheinberger s'est installée dans le château reconstruit.",
+            "it": "La famiglia di Rheinberger si trasferì nel castello ricostruito.",
+            "nl": "Rheinberger's family moved into the rebuilt castle.",
+            "pl": "Rheinberger's family moved into the rebuilt castle.",
+            "cs": "Rheinberger's family moved into the rebuilt castle.",
+            "sk": "Rheinberger's family moved into the rebuilt castle.",
+            "ro": "Rheinberger's family moved into the rebuilt castle.",
+            "hu": "Rheinberger's family moved into the rebuilt castle.",
+            "da": "Rheinberger's family moved into the rebuilt castle."
+          },
+          "title": {
+            "en": "Rebuilt",
+            "de": "Wiederaufgebaut",
+            "fr": "Reconstruit",
+            "it": "Ricostruito",
+            "nl": "Rebuilt",
+            "pl": "Rebuilt",
+            "cs": "Rebuilt",
+            "sk": "Rebuilt",
+            "ro": "Rebuilt",
+            "hu": "Rebuilt",
+            "da": "Rebuilt"
+          },
+          "value": "1912"
+        },
+        {
+          "text": {
+            "en": "Votive figures from 600 to 100 BC were found at the foot of the hill in winter 1932/33.",
+            "de": "Am Fuß des Hügels wurden im Winter 1932/33 Votivfiguren aus der Zeit von 600 bis 100 v. Chr. gefunden.",
+            "fr": "Des figurines votives de 600 à 100 av. J.-C. ont été trouvées au pied de la colline pendant l'hiver 1932-1933.",
+            "it": "Nell'inverno 1932/33 ai piedi della collina furono trovate statuette votive databili tra il 600 e il 100 a.C.",
+            "nl": "Votive figures from 600 to 100 BC were found at the foot of the hill in winter 1932/33.",
+            "pl": "Votive figures from 600 to 100 BC were found at the foot of the hill in winter 1932/33.",
+            "cs": "Votive figures from 600 to 100 BC were found at the foot of the hill in winter 1932/33.",
+            "sk": "Votive figures from 600 to 100 BC were found at the foot of the hill in winter 1932/33.",
+            "ro": "Votive figures from 600 to 100 BC were found at the foot of the hill in winter 1932/33.",
+            "hu": "Votive figures from 600 to 100 BC were found at the foot of the hill in winter 1932/33.",
+            "da": "Votive figures from 600 to 100 BC were found at the foot of the hill in winter 1932/33."
+          },
+          "title": {
+            "en": "Bronze figures",
+            "de": "Bronzefiguren",
+            "fr": "Figurines en bronze",
+            "it": "Statuette di bronzo",
+            "nl": "Bronze figures",
+            "pl": "Bronze figures",
+            "cs": "Bronze figures",
+            "sk": "Bronze figures",
+            "ro": "Bronze figures",
+            "hu": "Bronze figures",
+            "da": "Bronze figures"
+          },
+          "value": "10"
+        }
+      ]
+    },
+    {
+      "id": "rock",
+      "type": "wide-photo",
+      "image": {
+        "src": "https://assets.stampiq.io/blog/26c1b9e382dea8d8/gutenberg-rock.jpg",
+        "width": 2400,
+        "credit": "Kecko, CC BY 2.0",
+        "height": 1064,
+        "caption": {
+          "en": "Burg Gutenberg on its rock below the mountains, in February.",
+          "de": "Burg Gutenberg auf ihrem Felsen unter den Bergen, im Februar.",
+          "fr": "Le château de Gutenberg sur son rocher au pied des montagnes, en février.",
+          "it": "Il castello di Gutenberg sulla sua rupe sotto le montagne, a febbraio.",
+          "nl": "Burg Gutenberg on its rock below the mountains, in February.",
+          "pl": "Burg Gutenberg on its rock below the mountains, in February.",
+          "cs": "Burg Gutenberg on its rock below the mountains, in February.",
+          "sk": "Burg Gutenberg on its rock below the mountains, in February.",
+          "ro": "Burg Gutenberg on its rock below the mountains, in February.",
+          "hu": "Burg Gutenberg on its rock below the mountains, in February.",
+          "da": "Burg Gutenberg on its rock below the mountains, in February."
+        },
+        "source_url": "https://commons.wikimedia.org/wiki/File:Balzers_FL_-_Gutenberg_Castle_(50950862286).jpg"
+      }
+    },
+    {
+      "id": "visit",
+      "type": "text",
+      "label": {
+        "en": "The visit",
+        "de": "Der Besuch",
+        "fr": "La visite",
+        "it": "La visita",
+        "nl": "The visit",
+        "pl": "The visit",
+        "cs": "The visit",
+        "sk": "The visit",
+        "ro": "The visit",
+        "hu": "The visit",
+        "da": "The visit"
+      },
+      "title": {
+        "en": "Footpaths and the outer courtyard",
+        "de": "Fußwege und die Vorburg",
+        "fr": "Les chemins et la basse-cour",
+        "it": "I sentieri e il cortile esterno",
+        "nl": "Footpaths and the outer courtyard",
+        "pl": "Footpaths and the outer courtyard",
+        "cs": "Footpaths and the outer courtyard",
+        "sk": "Footpaths and the outer courtyard",
+        "ro": "Footpaths and the outer courtyard",
+        "hu": "Footpaths and the outer courtyard",
+        "da": "Footpaths and the outer courtyard"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/ec5523d33995bbfc/gutenberg-hill-south.jpg",
+          "width": 1696,
+          "credit": "Clemenspool, CC BY-SA 4.0",
+          "height": 1272,
+          "caption": {
+            "en": "The castle hill from the south, with its vineyard terraces and the parish church St. Nikolaus, in November.",
+            "de": "Der Burghügel von Süden, mit seinen Rebterrassen und der Pfarrkirche St. Nikolaus, im November.",
+            "fr": "La colline du château vue du sud, avec ses terrasses de vignes et l'église paroissiale St. Nikolaus, en novembre.",
+            "it": "La collina del castello da sud, con i terrazzamenti dei vigneti e la chiesa parrocchiale St. Nikolaus, a novembre.",
+            "nl": "The castle hill from the south, with its vineyard terraces and the parish church St. Nikolaus, in November.",
+            "pl": "The castle hill from the south, with its vineyard terraces and the parish church St. Nikolaus, in November.",
+            "cs": "The castle hill from the south, with its vineyard terraces and the parish church St. Nikolaus, in November.",
+            "sk": "The castle hill from the south, with its vineyard terraces and the parish church St. Nikolaus, in November.",
+            "ro": "The castle hill from the south, with its vineyard terraces and the parish church St. Nikolaus, in November.",
+            "hu": "The castle hill from the south, with its vineyard terraces and the parish church St. Nikolaus, in November.",
+            "da": "The castle hill from the south, with its vineyard terraces and the parish church St. Nikolaus, in November."
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:BurgGutenbergBalzersNov2021_3.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "The Egon-Rheinberger-Weg climbs from the Gemeindezentrum. The Burgweg goes up past Haus Gutenberg at the foot of the hill. On the way up, the keep appears above the trees on the rock, as on the 2017 stamp.",
+          "de": "Der Egon-Rheinberger-Weg steigt vom Gemeindezentrum hinauf. Der Burgweg führt am Haus Gutenberg am Fuß des Hügels vorbei nach oben. Beim Aufstieg taucht der Bergfried auf dem Felsen über den Bäumen auf, wie auf der Marke von 2017.",
+          "fr": "L'Egon-Rheinberger-Weg monte depuis le Gemeindezentrum. Le Burgweg grimpe en passant devant la Haus Gutenberg, au pied de la colline. Pendant la montée, le donjon apparaît au-dessus des arbres, sur le rocher, comme sur le timbre de 2017.",
+          "it": "L'Egon-Rheinberger-Weg sale dal Gemeindezentrum. Il Burgweg porta in cima passando davanti alla Haus Gutenberg, ai piedi della collina. Durante la salita il mastio compare sopra gli alberi, sulla rupe, come sul francobollo del 2017.",
+          "nl": "The Egon-Rheinberger-Weg climbs from the Gemeindezentrum. The Burgweg goes up past Haus Gutenberg at the foot of the hill. On the way up, the keep appears above the trees on the rock, as on the 2017 stamp.",
+          "pl": "The Egon-Rheinberger-Weg climbs from the Gemeindezentrum. The Burgweg goes up past Haus Gutenberg at the foot of the hill. On the way up, the keep appears above the trees on the rock, as on the 2017 stamp.",
+          "cs": "The Egon-Rheinberger-Weg climbs from the Gemeindezentrum. The Burgweg goes up past Haus Gutenberg at the foot of the hill. On the way up, the keep appears above the trees on the rock, as on the 2017 stamp.",
+          "sk": "The Egon-Rheinberger-Weg climbs from the Gemeindezentrum. The Burgweg goes up past Haus Gutenberg at the foot of the hill. On the way up, the keep appears above the trees on the rock, as on the 2017 stamp.",
+          "ro": "The Egon-Rheinberger-Weg climbs from the Gemeindezentrum. The Burgweg goes up past Haus Gutenberg at the foot of the hill. On the way up, the keep appears above the trees on the rock, as on the 2017 stamp.",
+          "hu": "The Egon-Rheinberger-Weg climbs from the Gemeindezentrum. The Burgweg goes up past Haus Gutenberg at the foot of the hill. On the way up, the keep appears above the trees on the rock, as on the 2017 stamp.",
+          "da": "The Egon-Rheinberger-Weg climbs from the Gemeindezentrum. The Burgweg goes up past Haus Gutenberg at the foot of the hill. On the way up, the keep appears above the trees on the rock, as on the 2017 stamp."
+        },
+        {
+          "en": "At the top you walk into the Vorburg, the outer courtyard inside the old ring wall. It is a lawn with cobbled paths below the keep, with the chapel wing and its half-timbered upper floor on one side. Boards there tell the history of the castle and of Rheinberger's new chapel. In the courtyard stands \"Cavallo\", a bronze horse by the Italian artist Mimmo Paladino, put up in 1997.",
+          "de": "Oben kommst du in die Vorburg innerhalb der alten Ringmauer: eine Rasenfläche mit gepflasterten Wegen unter dem Bergfried. An einer Seite steht der Kapellentrakt mit seinem Fachwerk-Obergeschoss. Tafeln erzählen dort die Geschichte der Burg und die von Rheinbergers neuer Kapelle. Im Hof steht „Cavallo“, ein Bronzepferd des italienischen Künstlers Mimmo Paladino, aufgestellt 1997.",
+          "fr": "En haut, on entre dans la Vorburg, la basse-cour à l'intérieur de l'ancienne enceinte. C'est une pelouse traversée de chemins pavés sous le donjon, avec d'un côté l'aile de la chapelle et son étage à colombages. Des panneaux y racontent l'histoire du château et de la nouvelle chapelle de Rheinberger. Dans la cour se dresse « Cavallo », un cheval en bronze de l'artiste italien Mimmo Paladino, installé en 1997.",
+          "it": "In cima si entra nella Vorburg, il cortile esterno dentro l'antica cinta muraria. È un prato con vialetti acciottolati sotto il mastio, e su un lato l'ala della cappella con il piano superiore a graticcio. Alcuni pannelli raccontano la storia del castello e della nuova cappella di Rheinberger. Nel cortile si trova \"Cavallo\", un cavallo in bronzo dell'artista italiano Mimmo Paladino, collocato nel 1997.",
+          "nl": "At the top you walk into the Vorburg, the outer courtyard inside the old ring wall. It is a lawn with cobbled paths below the keep, with the chapel wing and its half-timbered upper floor on one side. Boards there tell the history of the castle and of Rheinberger's new chapel. In the courtyard stands \"Cavallo\", a bronze horse by the Italian artist Mimmo Paladino, put up in 1997.",
+          "pl": "At the top you walk into the Vorburg, the outer courtyard inside the old ring wall. It is a lawn with cobbled paths below the keep, with the chapel wing and its half-timbered upper floor on one side. Boards there tell the history of the castle and of Rheinberger's new chapel. In the courtyard stands \"Cavallo\", a bronze horse by the Italian artist Mimmo Paladino, put up in 1997.",
+          "cs": "At the top you walk into the Vorburg, the outer courtyard inside the old ring wall. It is a lawn with cobbled paths below the keep, with the chapel wing and its half-timbered upper floor on one side. Boards there tell the history of the castle and of Rheinberger's new chapel. In the courtyard stands \"Cavallo\", a bronze horse by the Italian artist Mimmo Paladino, put up in 1997.",
+          "sk": "At the top you walk into the Vorburg, the outer courtyard inside the old ring wall. It is a lawn with cobbled paths below the keep, with the chapel wing and its half-timbered upper floor on one side. Boards there tell the history of the castle and of Rheinberger's new chapel. In the courtyard stands \"Cavallo\", a bronze horse by the Italian artist Mimmo Paladino, put up in 1997.",
+          "ro": "At the top you walk into the Vorburg, the outer courtyard inside the old ring wall. It is a lawn with cobbled paths below the keep, with the chapel wing and its half-timbered upper floor on one side. Boards there tell the history of the castle and of Rheinberger's new chapel. In the courtyard stands \"Cavallo\", a bronze horse by the Italian artist Mimmo Paladino, put up in 1997.",
+          "hu": "At the top you walk into the Vorburg, the outer courtyard inside the old ring wall. It is a lawn with cobbled paths below the keep, with the chapel wing and its half-timbered upper floor on one side. Boards there tell the history of the castle and of Rheinberger's new chapel. In the courtyard stands \"Cavallo\", a bronze horse by the Italian artist Mimmo Paladino, put up in 1997.",
+          "da": "At the top you walk into the Vorburg, the outer courtyard inside the old ring wall. It is a lawn with cobbled paths below the keep, with the chapel wing and its half-timbered upper floor on one side. Boards there tell the history of the castle and of Rheinberger's new chapel. In the courtyard stands \"Cavallo\", a bronze horse by the Italian artist Mimmo Paladino, put up in 1997."
+        },
+        {
+          "en": "From the ring wall you look over the Rhine plain to the Swiss bank, where the Confederate troops camped in 1499.",
+          "de": "Von der Ringmauer schaust du über die Rheinebene zum Schweizer Ufer, wo 1499 die eidgenössischen Truppen lagerten.",
+          "fr": "Depuis l'enceinte, tu vois la plaine du Rhin jusqu'à la rive suisse, là où campaient les troupes confédérées en 1499.",
+          "it": "Dalla cinta muraria si vede la piana del Reno fino alla sponda svizzera, dove nel 1499 erano accampate le truppe confederate.",
+          "nl": "From the ring wall you look over the Rhine plain to the Swiss bank, where the Confederate troops camped in 1499.",
+          "pl": "From the ring wall you look over the Rhine plain to the Swiss bank, where the Confederate troops camped in 1499.",
+          "cs": "From the ring wall you look over the Rhine plain to the Swiss bank, where the Confederate troops camped in 1499.",
+          "sk": "From the ring wall you look over the Rhine plain to the Swiss bank, where the Confederate troops camped in 1499.",
+          "ro": "From the ring wall you look over the Rhine plain to the Swiss bank, where the Confederate troops camped in 1499.",
+          "hu": "From the ring wall you look over the Rhine plain to the Swiss bank, where the Confederate troops camped in 1499.",
+          "da": "From the ring wall you look over the Rhine plain to the Swiss bank, where the Confederate troops camped in 1499."
+        },
+        {
+          "en": "The Burgstube and the Rittersaal of the 1981 stamps are shown only on group tours. The castle's website has a virtual tour of them.",
+          "de": "Die Burgstube und den Rittersaal der Marken von 1981 siehst du nur bei einer Gruppenführung. Auf der Website der Burg gibt es einen virtuellen Rundgang durch beide Räume.",
+          "fr": "La Burgstube et le Rittersaal des timbres de 1981 ne se voient qu'en visite guidée de groupe. Le site du château en propose une visite virtuelle.",
+          "it": "La Burgstube e il Rittersaal dei francobolli del 1981 si possono vedere solo durante le visite guidate di gruppo. Sul sito del castello c'è un tour virtuale delle due sale.",
+          "nl": "The Burgstube and the Rittersaal of the 1981 stamps are shown only on group tours. The castle's website has a virtual tour of them.",
+          "pl": "The Burgstube and the Rittersaal of the 1981 stamps are shown only on group tours. The castle's website has a virtual tour of them.",
+          "cs": "The Burgstube and the Rittersaal of the 1981 stamps are shown only on group tours. The castle's website has a virtual tour of them.",
+          "sk": "The Burgstube and the Rittersaal of the 1981 stamps are shown only on group tours. The castle's website has a virtual tour of them.",
+          "ro": "The Burgstube and the Rittersaal of the 1981 stamps are shown only on group tours. The castle's website has a virtual tour of them.",
+          "hu": "The Burgstube and the Rittersaal of the 1981 stamps are shown only on group tours. The castle's website has a virtual tour of them.",
+          "da": "The Burgstube and the Rittersaal of the 1981 stamps are shown only on group tours. The castle's website has a virtual tour of them."
+        }
+      ]
+    },
+    {
+      "id": "practical",
+      "rows": [
+        {
+          "label": {
+            "en": "Address",
+            "de": "Adresse",
+            "fr": "Adresse",
+            "it": "Indirizzo",
+            "nl": "Address",
+            "pl": "Address",
+            "cs": "Address",
+            "sk": "Address",
+            "ro": "Address",
+            "hu": "Address",
+            "da": "Address"
+          },
+          "value": {
+            "en": "Burgweg 8, 9496 Balzers",
+            "de": "Burgweg 8, 9496 Balzers",
+            "fr": "Burgweg 8, 9496 Balzers",
+            "it": "Burgweg 8, 9496 Balzers",
+            "nl": "Burgweg 8, 9496 Balzers",
+            "pl": "Burgweg 8, 9496 Balzers",
+            "cs": "Burgweg 8, 9496 Balzers",
+            "sk": "Burgweg 8, 9496 Balzers",
+            "ro": "Burgweg 8, 9496 Balzers",
+            "hu": "Burgweg 8, 9496 Balzers",
+            "da": "Burgweg 8, 9496 Balzers"
+          }
+        },
+        {
+          "label": {
+            "en": "Outer courtyard",
+            "de": "Vorburg",
+            "fr": "Basse-cour",
+            "it": "Cortile esterno",
+            "nl": "Outer courtyard",
+            "pl": "Outer courtyard",
+            "cs": "Outer courtyard",
+            "sk": "Outer courtyard",
+            "ro": "Outer courtyard",
+            "hu": "Outer courtyard",
+            "da": "Outer courtyard"
+          },
+          "value": {
+            "en": "Open all year, free",
+            "de": "Ganzjährig geöffnet, Eintritt frei",
+            "fr": "Ouverte toute l'année, gratuite",
+            "it": "Aperto tutto l'anno, ingresso libero",
+            "nl": "Open all year, free",
+            "pl": "Open all year, free",
+            "cs": "Open all year, free",
+            "sk": "Open all year, free",
+            "ro": "Open all year, free",
+            "hu": "Open all year, free",
+            "da": "Open all year, free"
+          }
+        },
+        {
+          "label": {
+            "en": "Chapel and Rosengarten",
+            "de": "Kapelle und Rosengarten",
+            "fr": "Chapelle et Rosengarten",
+            "it": "Cappella e Rosengarten",
+            "nl": "Chapel and Rosengarten",
+            "pl": "Chapel and Rosengarten",
+            "cs": "Chapel and Rosengarten",
+            "sk": "Chapel and Rosengarten",
+            "ro": "Chapel and Rosengarten",
+            "hu": "Chapel and Rosengarten",
+            "da": "Chapel and Rosengarten"
+          },
+          "value": {
+            "en": "Sundays 10:00 to 17:00, until 31 October",
+            "de": "Sonntags 10:00 bis 17:00 Uhr, bis 31. Oktober",
+            "fr": "Le dimanche de 10 h à 17 h, jusqu'au 31 octobre",
+            "it": "La domenica dalle 10:00 alle 17:00, fino al 31 ottobre",
+            "nl": "Sundays 10:00 to 17:00, until 31 October",
+            "pl": "Sundays 10:00 to 17:00, until 31 October",
+            "cs": "Sundays 10:00 to 17:00, until 31 October",
+            "sk": "Sundays 10:00 to 17:00, until 31 October",
+            "ro": "Sundays 10:00 to 17:00, until 31 October",
+            "hu": "Sundays 10:00 to 17:00, until 31 October",
+            "da": "Sundays 10:00 to 17:00, until 31 October"
+          }
+        },
+        {
+          "label": {
+            "en": "Castle",
+            "de": "Burg",
+            "fr": "Château",
+            "it": "Castello",
+            "nl": "Castle",
+            "pl": "Castle",
+            "cs": "Castle",
+            "sk": "Castle",
+            "ro": "Castle",
+            "hu": "Castle",
+            "da": "Castle"
+          },
+          "value": {
+            "en": "Closed from 1 November to 30 April",
+            "de": "Vom 1. November bis 30. April geschlossen",
+            "fr": "Fermé du 1er novembre au 30 avril",
+            "it": "Chiuso dal 1° novembre al 30 aprile",
+            "nl": "Closed from 1 November to 30 April",
+            "pl": "Closed from 1 November to 30 April",
+            "cs": "Closed from 1 November to 30 April",
+            "sk": "Closed from 1 November to 30 April",
+            "ro": "Closed from 1 November to 30 April",
+            "hu": "Closed from 1 November to 30 April",
+            "da": "Closed from 1 November to 30 April"
+          }
+        },
+        {
+          "label": {
+            "en": "Group tours",
+            "de": "Gruppenführungen",
+            "fr": "Visites de groupe",
+            "it": "Visite guidate di gruppo",
+            "nl": "Group tours",
+            "pl": "Group tours",
+            "cs": "Group tours",
+            "sk": "Group tours",
+            "ro": "Group tours",
+            "hu": "Group tours",
+            "da": "Group tours"
+          },
+          "value": {
+            "en": "1 May to 31 October, about 75 minutes, up to 20 people, CHF 170 per group, booked ahead",
+            "de": "1. Mai bis 31. Oktober, rund 75 Minuten, bis 20 Personen, CHF 170 pro Gruppe, Anmeldung im Voraus",
+            "fr": "Du 1er mai au 31 octobre, environ 75 minutes, jusqu'à 20 personnes, CHF 170 par groupe, sur réservation",
+            "it": "Dal 1° maggio al 31 ottobre, circa 75 minuti, fino a 20 persone, CHF 170 a gruppo, su prenotazione",
+            "nl": "1 May to 31 October, about 75 minutes, up to 20 people, CHF 170 per group, booked ahead",
+            "pl": "1 May to 31 October, about 75 minutes, up to 20 people, CHF 170 per group, booked ahead",
+            "cs": "1 May to 31 October, about 75 minutes, up to 20 people, CHF 170 per group, booked ahead",
+            "sk": "1 May to 31 October, about 75 minutes, up to 20 people, CHF 170 per group, booked ahead",
+            "ro": "1 May to 31 October, about 75 minutes, up to 20 people, CHF 170 per group, booked ahead",
+            "hu": "1 May to 31 October, about 75 minutes, up to 20 people, CHF 170 per group, booked ahead",
+            "da": "1 May to 31 October, about 75 minutes, up to 20 people, CHF 170 per group, booked ahead"
+          }
+        },
+        {
+          "label": {
+            "en": "Access",
+            "de": "Zugang",
+            "fr": "Accès",
+            "it": "Accesso",
+            "nl": "Access",
+            "pl": "Access",
+            "cs": "Access",
+            "sk": "Access",
+            "ro": "Access",
+            "hu": "Access",
+            "da": "Access"
+          },
+          "value": {
+            "en": "On foot only; limited for people who walk with difficulty",
+            "de": "Nur zu Fuß, für gehbehinderte Personen eingeschränkt",
+            "fr": "À pied uniquement ; accès limité pour les personnes qui marchent difficilement",
+            "it": "Solo a piedi; accesso limitato per chi cammina con difficoltà",
+            "nl": "On foot only; limited for people who walk with difficulty",
+            "pl": "On foot only; limited for people who walk with difficulty",
+            "cs": "On foot only; limited for people who walk with difficulty",
+            "sk": "On foot only; limited for people who walk with difficulty",
+            "ro": "On foot only; limited for people who walk with difficulty",
+            "hu": "On foot only; limited for people who walk with difficulty",
+            "da": "On foot only; limited for people who walk with difficulty"
+          }
+        },
+        {
+          "label": {
+            "en": "Contact",
+            "de": "Kontakt",
+            "fr": "Contact",
+            "it": "Contatto",
+            "nl": "Contact",
+            "pl": "Contact",
+            "cs": "Contact",
+            "sk": "Contact",
+            "ro": "Contact",
+            "hu": "Contact",
+            "da": "Contact"
+          },
+          "value": {
+            "en": "+423 384 55 77, info@burg-gutenberg.li",
+            "de": "+423 384 55 77, info@burg-gutenberg.li",
+            "fr": "+423 384 55 77, info@burg-gutenberg.li",
+            "it": "+423 384 55 77, info@burg-gutenberg.li",
+            "nl": "+423 384 55 77, info@burg-gutenberg.li",
+            "pl": "+423 384 55 77, info@burg-gutenberg.li",
+            "cs": "+423 384 55 77, info@burg-gutenberg.li",
+            "sk": "+423 384 55 77, info@burg-gutenberg.li",
+            "ro": "+423 384 55 77, info@burg-gutenberg.li",
+            "hu": "+423 384 55 77, info@burg-gutenberg.li",
+            "da": "+423 384 55 77, info@burg-gutenberg.li"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "Practical",
+        "de": "Praktisch",
+        "fr": "Infos pratiques",
+        "it": "Informazioni pratiche",
+        "nl": "Practical",
+        "pl": "Practical",
+        "cs": "Practical",
+        "sk": "Practical",
+        "ro": "Practical",
+        "hu": "Practical",
+        "da": "Practical"
+      },
+      "title": {
+        "en": "Opening times and tours",
+        "de": "Öffnungszeiten und Führungen",
+        "fr": "Horaires et visites",
+        "it": "Orari e visite guidate",
+        "nl": "Opening times and tours",
+        "pl": "Opening times and tours",
+        "cs": "Opening times and tours",
+        "sk": "Opening times and tours",
+        "ro": "Opening times and tours",
+        "hu": "Opening times and tours",
+        "da": "Opening times and tours"
+      },
+      "buttons": [
+        {
+          "href": "https://www.burg-gutenberg.li/",
+          "label": {
+            "en": "Burg Gutenberg",
+            "de": "Burg Gutenberg",
+            "fr": "Burg Gutenberg",
+            "it": "Burg Gutenberg",
+            "nl": "Burg Gutenberg",
+            "pl": "Burg Gutenberg",
+            "cs": "Burg Gutenberg",
+            "sk": "Burg Gutenberg",
+            "ro": "Burg Gutenberg",
+            "hu": "Burg Gutenberg",
+            "da": "Burg Gutenberg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "type": "tiles",
+      "label": {
+        "en": "How to get there",
+        "de": "Anreise",
+        "fr": "Comment s'y rendre",
+        "it": "Come arrivare",
+        "nl": "How to get there",
+        "pl": "How to get there",
+        "cs": "How to get there",
+        "sk": "How to get there",
+        "ro": "How to get there",
+        "hu": "How to get there",
+        "da": "How to get there"
+      },
+      "tiles": [
+        {
+          "icon": "pin",
+          "text": {
+            "en": "Line 11 runs from Sargans station to the stop Balzers Mälsnerdorf in 13 minutes, every 30 minutes on weekdays.",
+            "de": "Die Linie 11 fährt vom Bahnhof Sargans in 13 Minuten zur Haltestelle Balzers Mälsnerdorf, werktags alle 30 Minuten.",
+            "fr": "La ligne 11 relie la gare de Sargans à l'arrêt Balzers Mälsnerdorf en 13 minutes, toutes les 30 minutes en semaine.",
+            "it": "La linea 11 collega la stazione di Sargans alla fermata Balzers Mälsnerdorf in 13 minuti, ogni 30 minuti nei giorni feriali.",
+            "nl": "Line 11 runs from Sargans station to the stop Balzers Mälsnerdorf in 13 minutes, every 30 minutes on weekdays.",
+            "pl": "Line 11 runs from Sargans station to the stop Balzers Mälsnerdorf in 13 minutes, every 30 minutes on weekdays.",
+            "cs": "Line 11 runs from Sargans station to the stop Balzers Mälsnerdorf in 13 minutes, every 30 minutes on weekdays.",
+            "sk": "Line 11 runs from Sargans station to the stop Balzers Mälsnerdorf in 13 minutes, every 30 minutes on weekdays.",
+            "ro": "Line 11 runs from Sargans station to the stop Balzers Mälsnerdorf in 13 minutes, every 30 minutes on weekdays.",
+            "hu": "Line 11 runs from Sargans station to the stop Balzers Mälsnerdorf in 13 minutes, every 30 minutes on weekdays.",
+            "da": "Line 11 runs from Sargans station to the stop Balzers Mälsnerdorf in 13 minutes, every 30 minutes on weekdays."
+          },
+          "title": {
+            "en": "By bus",
+            "de": "Mit dem Bus",
+            "fr": "En bus",
+            "it": "In autobus",
+            "nl": "By bus",
+            "pl": "By bus",
+            "cs": "By bus",
+            "sk": "By bus",
+            "ro": "By bus",
+            "hu": "By bus",
+            "da": "By bus"
+          }
+        },
+        {
+          "icon": "walk",
+          "text": {
+            "en": "From the stops Mälsnerdorf or Rietstrasse the Burgweg and the Egon-Rheinberger-Weg lead up the hill.",
+            "de": "Von den Haltestellen Mälsnerdorf oder Rietstrasse führen der Burgweg und der Egon-Rheinberger-Weg den Hügel hinauf.",
+            "fr": "Depuis les arrêts Mälsnerdorf ou Rietstrasse, le Burgweg et l'Egon-Rheinberger-Weg montent sur la colline.",
+            "it": "Dalle fermate Mälsnerdorf o Rietstrasse il Burgweg e l'Egon-Rheinberger-Weg salgono verso la collina.",
+            "nl": "From the stops Mälsnerdorf or Rietstrasse the Burgweg and the Egon-Rheinberger-Weg lead up the hill.",
+            "pl": "From the stops Mälsnerdorf or Rietstrasse the Burgweg and the Egon-Rheinberger-Weg lead up the hill.",
+            "cs": "From the stops Mälsnerdorf or Rietstrasse the Burgweg and the Egon-Rheinberger-Weg lead up the hill.",
+            "sk": "From the stops Mälsnerdorf or Rietstrasse the Burgweg and the Egon-Rheinberger-Weg lead up the hill.",
+            "ro": "From the stops Mälsnerdorf or Rietstrasse the Burgweg and the Egon-Rheinberger-Weg lead up the hill.",
+            "hu": "From the stops Mälsnerdorf or Rietstrasse the Burgweg and the Egon-Rheinberger-Weg lead up the hill.",
+            "da": "From the stops Mälsnerdorf or Rietstrasse the Burgweg and the Egon-Rheinberger-Weg lead up the hill."
+          },
+          "title": {
+            "en": "On foot",
+            "de": "Zu Fuß",
+            "fr": "À pied",
+            "it": "A piedi",
+            "nl": "On foot",
+            "pl": "On foot",
+            "cs": "On foot",
+            "sk": "On foot",
+            "ro": "On foot",
+            "hu": "On foot",
+            "da": "On foot"
+          }
+        },
+        {
+          "icon": "car",
+          "text": {
+            "en": "Park at the Gemeindezentrum, at the Kirchensträssle or in the Elgagass, since there is no parking on the hill.",
+            "de": "Parken kannst du beim Gemeindezentrum, beim Kirchensträssle oder in der Elgagass, denn auf dem Hügel gibt es keine Parkplätze.",
+            "fr": "Gare-toi au Gemeindezentrum, au Kirchensträssle ou dans l'Elgagass, car il n'y a pas de stationnement sur la colline.",
+            "it": "Si parcheggia al Gemeindezentrum, al Kirchensträssle o nell'Elgagass, perché sulla collina non ci sono posti auto.",
+            "nl": "Park at the Gemeindezentrum, at the Kirchensträssle or in the Elgagass, since there is no parking on the hill.",
+            "pl": "Park at the Gemeindezentrum, at the Kirchensträssle or in the Elgagass, since there is no parking on the hill.",
+            "cs": "Park at the Gemeindezentrum, at the Kirchensträssle or in the Elgagass, since there is no parking on the hill.",
+            "sk": "Park at the Gemeindezentrum, at the Kirchensträssle or in the Elgagass, since there is no parking on the hill.",
+            "ro": "Park at the Gemeindezentrum, at the Kirchensträssle or in the Elgagass, since there is no parking on the hill.",
+            "hu": "Park at the Gemeindezentrum, at the Kirchensträssle or in the Elgagass, since there is no parking on the hill.",
+            "da": "Park at the Gemeindezentrum, at the Kirchensträssle or in the Elgagass, since there is no parking on the hill."
+          },
+          "title": {
+            "en": "By car",
+            "de": "Mit dem Auto",
+            "fr": "En voiture",
+            "it": "In auto",
+            "nl": "By car",
+            "pl": "By car",
+            "cs": "By car",
+            "sk": "By car",
+            "ro": "By car",
+            "hu": "By car",
+            "da": "By car"
+          }
+        }
+      ],
+      "title": {
+        "en": "Routes to the castle hill",
+        "de": "Wege zum Burghügel",
+        "fr": "Les accès à la colline du château",
+        "it": "I percorsi per la collina del castello",
+        "nl": "Routes to the castle hill",
+        "pl": "Routes to the castle hill",
+        "cs": "Routes to the castle hill",
+        "sk": "Routes to the castle hill",
+        "ro": "Routes to the castle hill",
+        "hu": "Routes to the castle hill",
+        "da": "Routes to the castle hill"
+      }
+    },
+    {
+      "id": "season",
+      "text": {
+        "en": "The castle is closed from 1 November to 30 April. The outer courtyard stays open all year.",
+        "de": "Die Burg ist vom 1. November bis 30. April geschlossen. Die Vorburg bleibt das ganze Jahr offen.",
+        "fr": "Le château est fermé du 1er novembre au 30 avril. La basse-cour reste ouverte toute l'année.",
+        "it": "Il castello è chiuso dal 1° novembre al 30 aprile. Il cortile esterno resta aperto tutto l'anno.",
+        "nl": "The castle is closed from 1 November to 30 April. The outer courtyard stays open all year.",
+        "pl": "The castle is closed from 1 November to 30 April. The outer courtyard stays open all year.",
+        "cs": "The castle is closed from 1 November to 30 April. The outer courtyard stays open all year.",
+        "sk": "The castle is closed from 1 November to 30 April. The outer courtyard stays open all year.",
+        "ro": "The castle is closed from 1 November to 30 April. The outer courtyard stays open all year.",
+        "hu": "The castle is closed from 1 November to 30 April. The outer courtyard stays open all year.",
+        "da": "The castle is closed from 1 November to 30 April. The outer courtyard stays open all year."
+      },
+      "type": "note"
+    },
+    {
+      "id": "afterwards",
+      "type": "text",
+      "label": {
+        "en": "Afterwards",
+        "de": "Danach",
+        "fr": "Ensuite",
+        "it": "Dopo la visita",
+        "nl": "Afterwards",
+        "pl": "Afterwards",
+        "cs": "Afterwards",
+        "sk": "Afterwards",
+        "ro": "Afterwards",
+        "hu": "Afterwards",
+        "da": "Afterwards"
+      },
+      "title": {
+        "en": "Mäls and its chapels",
+        "de": "Mäls und seine Kapellen",
+        "fr": "Mäls et ses chapelles",
+        "it": "Mäls e le sue cappelle",
+        "nl": "Mäls and its chapels",
+        "pl": "Mäls and its chapels",
+        "cs": "Mäls and its chapels",
+        "sk": "Mäls and its chapels",
+        "ro": "Mäls and its chapels",
+        "hu": "Mäls and its chapels",
+        "da": "Mäls and its chapels"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/e70aa5d0087d51bc/balzers-mariahilf.jpg",
+          "width": 2400,
+          "credit": "St9191, CC BY-SA 4.0",
+          "height": 1800,
+          "caption": {
+            "en": "Inside the Mariahilf chapel in Mäls, with its painted ceiling.",
+            "de": "Das Innere der Kapelle Mariahilf in Mäls mit der bemalten Decke.",
+            "fr": "L'intérieur de la chapelle Mariahilf à Mäls, avec son plafond peint.",
+            "it": "L'interno della cappella Mariahilf a Mäls, con il soffitto dipinto.",
+            "nl": "Inside the Mariahilf chapel in Mäls, with its painted ceiling.",
+            "pl": "Inside the Mariahilf chapel in Mäls, with its painted ceiling.",
+            "cs": "Inside the Mariahilf chapel in Mäls, with its painted ceiling.",
+            "sk": "Inside the Mariahilf chapel in Mäls, with its painted ceiling.",
+            "ro": "Inside the Mariahilf chapel in Mäls, with its painted ceiling.",
+            "hu": "Inside the Mariahilf chapel in Mäls, with its painted ceiling.",
+            "da": "Inside the Mariahilf chapel in Mäls, with its painted ceiling."
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Mariahilf-Kapelle_Balzers_Innen.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "The signed village walk of the Gemeinde, about 3.7 kilometres, passes Haus Gutenberg and reaches the chapel of St. Peter and the Mariahilf chapel in the old village centre of Mäls.",
+          "de": "Der markierte Dorfrundgang der Gemeinde, rund 3,7 Kilometer, führt am Haus Gutenberg vorbei zur Kapelle St. Peter und zur Kapelle Mariahilf im alten Dorfkern von Mäls.",
+          "fr": "Le circuit balisé du village proposé par la commune, long d'environ 3,7 kilomètres, passe devant la Haus Gutenberg et mène à la chapelle St. Peter et à la chapelle Mariahilf, dans le vieux centre de Mäls.",
+          "it": "Il giro del paese segnalato dal Comune, circa 3,7 chilometri, passa davanti alla Haus Gutenberg e raggiunge le cappelle St. Peter e Mariahilf, nel vecchio centro di Mäls.",
+          "nl": "The signed village walk of the Gemeinde, about 3.7 kilometres, passes Haus Gutenberg and reaches the chapel of St. Peter and the Mariahilf chapel in the old village centre of Mäls.",
+          "pl": "The signed village walk of the Gemeinde, about 3.7 kilometres, passes Haus Gutenberg and reaches the chapel of St. Peter and the Mariahilf chapel in the old village centre of Mäls.",
+          "cs": "The signed village walk of the Gemeinde, about 3.7 kilometres, passes Haus Gutenberg and reaches the chapel of St. Peter and the Mariahilf chapel in the old village centre of Mäls.",
+          "sk": "The signed village walk of the Gemeinde, about 3.7 kilometres, passes Haus Gutenberg and reaches the chapel of St. Peter and the Mariahilf chapel in the old village centre of Mäls.",
+          "ro": "The signed village walk of the Gemeinde, about 3.7 kilometres, passes Haus Gutenberg and reaches the chapel of St. Peter and the Mariahilf chapel in the old village centre of Mäls.",
+          "hu": "The signed village walk of the Gemeinde, about 3.7 kilometres, passes Haus Gutenberg and reaches the chapel of St. Peter and the Mariahilf chapel in the old village centre of Mäls.",
+          "da": "The signed village walk of the Gemeinde, about 3.7 kilometres, passes Haus Gutenberg and reaches the chapel of St. Peter and the Mariahilf chapel in the old village centre of Mäls."
+        },
+        {
+          "en": "The ceiling frescoes of the Mariahilf chapel are on three Christmas stamps of 15 November 2010, signed \"C. Eberle\": the Annunciation, the Visitation and the Presentation of the Lord. On the StampIQ map their pin is on the chapel. A 1958 stamp with Saint Maurice and Saint Agatha from the chapel of St. Peter has its own pin there.",
+          "de": "Die Deckenfresken der Kapelle Mariahilf sind auf drei Weihnachtsmarken vom 15. November 2010 zu sehen, signiert „C. Eberle“: Verkündigung, Heimsuchung und Darstellung des Herrn. Auf der Karte in StampIQ liegt ihr Pin auf der Kapelle. Eine Marke von 1958 mit dem heiligen Mauritius und der heiligen Agatha aus der Kapelle St. Peter hat dort einen eigenen Pin.",
+          "fr": "Les fresques du plafond de la chapelle Mariahilf figurent sur trois timbres de Noël du 15 novembre 2010, signés « C. Eberle » : l'Annonciation, la Visitation et la Présentation du Seigneur. Sur la carte de StampIQ, leur épingle est posée sur la chapelle. Un timbre de 1958 avec saint Maurice et sainte Agathe, de la chapelle St. Peter, a sa propre épingle au même endroit.",
+          "it": "Gli affreschi del soffitto della cappella Mariahilf sono su tre francobolli natalizi del 15 novembre 2010, firmati \"C. Eberle\": l'Annunciazione, la Visitazione e la Presentazione del Signore. Sulla Mappa di StampIQ il loro segnaposto è sulla cappella. Un francobollo del 1958 con san Maurizio e sant'Agata, provenienti dalla cappella St. Peter, ha un proprio segnaposto lì.",
+          "nl": "The ceiling frescoes of the Mariahilf chapel are on three Christmas stamps of 15 November 2010, signed \"C. Eberle\": the Annunciation, the Visitation and the Presentation of the Lord. On the StampIQ map their pin is on the chapel. A 1958 stamp with Saint Maurice and Saint Agatha from the chapel of St. Peter has its own pin there.",
+          "pl": "The ceiling frescoes of the Mariahilf chapel are on three Christmas stamps of 15 November 2010, signed \"C. Eberle\": the Annunciation, the Visitation and the Presentation of the Lord. On the StampIQ map their pin is on the chapel. A 1958 stamp with Saint Maurice and Saint Agatha from the chapel of St. Peter has its own pin there.",
+          "cs": "The ceiling frescoes of the Mariahilf chapel are on three Christmas stamps of 15 November 2010, signed \"C. Eberle\": the Annunciation, the Visitation and the Presentation of the Lord. On the StampIQ map their pin is on the chapel. A 1958 stamp with Saint Maurice and Saint Agatha from the chapel of St. Peter has its own pin there.",
+          "sk": "The ceiling frescoes of the Mariahilf chapel are on three Christmas stamps of 15 November 2010, signed \"C. Eberle\": the Annunciation, the Visitation and the Presentation of the Lord. On the StampIQ map their pin is on the chapel. A 1958 stamp with Saint Maurice and Saint Agatha from the chapel of St. Peter has its own pin there.",
+          "ro": "The ceiling frescoes of the Mariahilf chapel are on three Christmas stamps of 15 November 2010, signed \"C. Eberle\": the Annunciation, the Visitation and the Presentation of the Lord. On the StampIQ map their pin is on the chapel. A 1958 stamp with Saint Maurice and Saint Agatha from the chapel of St. Peter has its own pin there.",
+          "hu": "The ceiling frescoes of the Mariahilf chapel are on three Christmas stamps of 15 November 2010, signed \"C. Eberle\": the Annunciation, the Visitation and the Presentation of the Lord. On the StampIQ map their pin is on the chapel. A 1958 stamp with Saint Maurice and Saint Agatha from the chapel of St. Peter has its own pin there.",
+          "da": "The ceiling frescoes of the Mariahilf chapel are on three Christmas stamps of 15 November 2010, signed \"C. Eberle\": the Annunciation, the Visitation and the Presentation of the Lord. On the StampIQ map their pin is on the chapel. A 1958 stamp with Saint Maurice and Saint Agatha from the chapel of St. Peter has its own pin there."
+        }
+      ]
+    }
+  ]
+}
