@@ -1,0 +1,1105 @@
+{
+  "category": "day-trips",
+  "markets": [
+    "PL"
+  ],
+  "langs": [
+    "en",
+    "pl"
+  ],
+  "published_at": "2026-10-23T07:00:00+00:00",
+  "thumbnail": {
+    "src": "https://assets.stampiq.io/blog/a09701a388c76195/torun-ratusz.jpg",
+    "width": 2400,
+    "height": 1800
+  },
+  "languages": {
+    "en": {
+      "slug": "day-trip-torun-town-hall",
+      "title": "Day trip: the town hall of Toruń",
+      "description": "The town hall of Toruń is on a blue stamp of 1933 and on a red one sold for eight days at a stamp exhibition. The tower, gingerbread and the castle."
+    },
+    "de": {
+      "slug": "day-trip-torun-town-hall",
+      "title": "Day trip: the town hall of Toruń",
+      "description": "The town hall of Toruń is on a blue stamp of 1933 and on a red one sold for eight days at a stamp exhibition. The tower, gingerbread and the castle."
+    },
+    "fr": {
+      "slug": "day-trip-torun-town-hall",
+      "title": "Day trip: the town hall of Toruń",
+      "description": "The town hall of Toruń is on a blue stamp of 1933 and on a red one sold for eight days at a stamp exhibition. The tower, gingerbread and the castle."
+    },
+    "it": {
+      "slug": "day-trip-torun-town-hall",
+      "title": "Day trip: the town hall of Toruń",
+      "description": "The town hall of Toruń is on a blue stamp of 1933 and on a red one sold for eight days at a stamp exhibition. The tower, gingerbread and the castle."
+    },
+    "nl": {
+      "slug": "day-trip-torun-town-hall",
+      "title": "Day trip: the town hall of Toruń",
+      "description": "The town hall of Toruń is on a blue stamp of 1933 and on a red one sold for eight days at a stamp exhibition. The tower, gingerbread and the castle."
+    },
+    "pl": {
+      "slug": "wycieczka-ratusz-w-toruniu",
+      "title": "Wycieczka: ratusz w Toruniu",
+      "description": "Ratusz w Toruniu jest na niebieskim znaczku z 1933 roku i na czerwonym, sprzedawanym przez osiem dni na wystawie filatelistycznej. Wieża, pierniki i zamek."
+    },
+    "cs": {
+      "slug": "day-trip-torun-town-hall",
+      "title": "Day trip: the town hall of Toruń",
+      "description": "The town hall of Toruń is on a blue stamp of 1933 and on a red one sold for eight days at a stamp exhibition. The tower, gingerbread and the castle."
+    },
+    "sk": {
+      "slug": "day-trip-torun-town-hall",
+      "title": "Day trip: the town hall of Toruń",
+      "description": "The town hall of Toruń is on a blue stamp of 1933 and on a red one sold for eight days at a stamp exhibition. The tower, gingerbread and the castle."
+    },
+    "ro": {
+      "slug": "day-trip-torun-town-hall",
+      "title": "Day trip: the town hall of Toruń",
+      "description": "The town hall of Toruń is on a blue stamp of 1933 and on a red one sold for eight days at a stamp exhibition. The tower, gingerbread and the castle."
+    },
+    "hu": {
+      "slug": "day-trip-torun-town-hall",
+      "title": "Day trip: the town hall of Toruń",
+      "description": "The town hall of Toruń is on a blue stamp of 1933 and on a red one sold for eight days at a stamp exhibition. The tower, gingerbread and the castle."
+    },
+    "da": {
+      "slug": "day-trip-torun-town-hall",
+      "title": "Day trip: the town hall of Toruń",
+      "description": "The town hall of Toruń is on a blue stamp of 1933 and on a red one sold for eight days at a stamp exhibition. The tower, gingerbread and the castle."
+    }
+  },
+  "header": {
+    "lead": {
+      "en": "In May 1933 a red stamp with the town hall of Toruń was sold for eight days, only at the post office of a stamp exhibition in the town. On the last day of the show, the Polish stamp societies founded their national union there and elected the show's chairman, Marian Niklewski, its president.",
+      "de": "In May 1933 a red stamp with the town hall of Toruń was sold for eight days, only at the post office of a stamp exhibition in the town. On the last day of the show, the Polish stamp societies founded their national union there and elected the show's chairman, Marian Niklewski, its president.",
+      "fr": "In May 1933 a red stamp with the town hall of Toruń was sold for eight days, only at the post office of a stamp exhibition in the town. On the last day of the show, the Polish stamp societies founded their national union there and elected the show's chairman, Marian Niklewski, its president.",
+      "it": "In May 1933 a red stamp with the town hall of Toruń was sold for eight days, only at the post office of a stamp exhibition in the town. On the last day of the show, the Polish stamp societies founded their national union there and elected the show's chairman, Marian Niklewski, its president.",
+      "nl": "In May 1933 a red stamp with the town hall of Toruń was sold for eight days, only at the post office of a stamp exhibition in the town. On the last day of the show, the Polish stamp societies founded their national union there and elected the show's chairman, Marian Niklewski, its president.",
+      "pl": "W maju 1933 roku czerwony znaczek z toruńskim ratuszem był w sprzedaży przez osiem dni, wyłącznie w urzędzie pocztowym na wystawie filatelistycznej w Toruniu. Ostatniego dnia wystawy polskie towarzystwa filatelistyczne założyły tam swój ogólnokrajowy związek i wybrały jego prezesem przewodniczącego wystawy, Mariana Niklewskiego.",
+      "cs": "In May 1933 a red stamp with the town hall of Toruń was sold for eight days, only at the post office of a stamp exhibition in the town. On the last day of the show, the Polish stamp societies founded their national union there and elected the show's chairman, Marian Niklewski, its president.",
+      "sk": "In May 1933 a red stamp with the town hall of Toruń was sold for eight days, only at the post office of a stamp exhibition in the town. On the last day of the show, the Polish stamp societies founded their national union there and elected the show's chairman, Marian Niklewski, its president.",
+      "ro": "In May 1933 a red stamp with the town hall of Toruń was sold for eight days, only at the post office of a stamp exhibition in the town. On the last day of the show, the Polish stamp societies founded their national union there and elected the show's chairman, Marian Niklewski, its president.",
+      "hu": "In May 1933 a red stamp with the town hall of Toruń was sold for eight days, only at the post office of a stamp exhibition in the town. On the last day of the show, the Polish stamp societies founded their national union there and elected the show's chairman, Marian Niklewski, its president.",
+      "da": "In May 1933 a red stamp with the town hall of Toruń was sold for eight days, only at the post office of a stamp exhibition in the town. On the last day of the show, the Polish stamp societies founded their national union there and elected the show's chairman, Marian Niklewski, its president."
+    },
+    "visual": {
+      "type": "stamp",
+      "stamp": {
+        "name": {
+          "en": "Toruń Town Hall, 700th Anniversary of Toruń",
+          "de": "Toruń Town Hall, 700th Anniversary of Toruń",
+          "fr": "Toruń Town Hall, 700th Anniversary of Toruń",
+          "it": "Toruń Town Hall, 700th Anniversary of Toruń",
+          "nl": "Toruń Town Hall, 700th Anniversary of Toruń",
+          "pl": "Ratusz w Toruniu, 700-lecie Torunia",
+          "cs": "Toruń Town Hall, 700th Anniversary of Toruń",
+          "sk": "Toruń Town Hall, 700th Anniversary of Toruń",
+          "ro": "Toruń Town Hall, 700th Anniversary of Toruń",
+          "hu": "Toruń Town Hall, 700th Anniversary of Toruń",
+          "da": "Toruń Town Hall, 700th Anniversary of Toruń"
+        },
+        "year": 1933,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/19ad0cf5f544463e/torun-stamp-1933-blue.png",
+          "width": 618,
+          "height": 755
+        },
+        "country": "PL",
+        "stamp_id": "SIQ-PL-1933-001"
+      }
+    },
+    "location": "Toruń, Kuyavian-Pomeranian Voivodeship, Poland"
+  },
+  "blocks": [
+    {
+      "id": "catalogue",
+      "type": "text",
+      "label": {
+        "en": "In the catalogue",
+        "de": "In the catalogue",
+        "fr": "In the catalogue",
+        "it": "In the catalogue",
+        "nl": "In the catalogue",
+        "pl": "W katalogu",
+        "cs": "In the catalogue",
+        "sk": "In the catalogue",
+        "ro": "In the catalogue",
+        "hu": "In the catalogue",
+        "da": "In the catalogue"
+      },
+      "title": {
+        "en": "A red town hall stamp",
+        "de": "A red town hall stamp",
+        "fr": "A red town hall stamp",
+        "it": "A red town hall stamp",
+        "nl": "A red town hall stamp",
+        "pl": "Czerwony znaczek z ratuszem",
+        "cs": "A red town hall stamp",
+        "sk": "A red town hall stamp",
+        "ro": "A red town hall stamp",
+        "hu": "A red town hall stamp",
+        "da": "A red town hall stamp"
+      },
+      "visual": {
+        "type": "phone",
+        "animation": {
+          "src": "https://assets.stampiq.io/blog/f65a9541a22e9db3/torun.mp4",
+          "width": 960,
+          "height": 2080,
+          "poster": "https://assets.stampiq.io/blog/47d937acf719aea0/torun.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "The blue Toruń stamp of January 1933 is in the album and in the StampIQ collection. On the Home screen, \"Catalog\" leads to Poland. There the switch \"Missing Only\" hides every stamp the collection already holds. A search for \"Toruń\" now brings up a red stamp of May 1933 with the town hall and the dates 1233 and 1933. It has the design of the blue stamp in another colour.",
+          "de": "The blue Toruń stamp of January 1933 is in the album and in the StampIQ collection. On the Home screen, \"Catalog\" leads to Poland. There the switch \"Missing Only\" hides every stamp the collection already holds. A search for \"Toruń\" now brings up a red stamp of May 1933 with the town hall and the dates 1233 and 1933. It has the design of the blue stamp in another colour.",
+          "fr": "The blue Toruń stamp of January 1933 is in the album and in the StampIQ collection. On the Home screen, \"Catalog\" leads to Poland. There the switch \"Missing Only\" hides every stamp the collection already holds. A search for \"Toruń\" now brings up a red stamp of May 1933 with the town hall and the dates 1233 and 1933. It has the design of the blue stamp in another colour.",
+          "it": "The blue Toruń stamp of January 1933 is in the album and in the StampIQ collection. On the Home screen, \"Catalog\" leads to Poland. There the switch \"Missing Only\" hides every stamp the collection already holds. A search for \"Toruń\" now brings up a red stamp of May 1933 with the town hall and the dates 1233 and 1933. It has the design of the blue stamp in another colour.",
+          "nl": "The blue Toruń stamp of January 1933 is in the album and in the StampIQ collection. On the Home screen, \"Catalog\" leads to Poland. There the switch \"Missing Only\" hides every stamp the collection already holds. A search for \"Toruń\" now brings up a red stamp of May 1933 with the town hall and the dates 1233 and 1933. It has the design of the blue stamp in another colour.",
+          "pl": "Niebieski znaczek z Torunia ze stycznia 1933 roku leży w klaserze i jest w kolekcji w StampIQ. Z ekranu „Główna” przez „Katalog” przechodzisz do Polski. Przełącznik „Tylko brakujące” ukrywa znaczki, które już są w kolekcji. Wyszukiwanie hasła „Toruń” pokazuje teraz czerwony znaczek z maja 1933 roku, z ratuszem i datami 1233 oraz 1933. Ma ten sam rysunek co znaczek niebieski, tylko w innym kolorze.",
+          "cs": "The blue Toruń stamp of January 1933 is in the album and in the StampIQ collection. On the Home screen, \"Catalog\" leads to Poland. There the switch \"Missing Only\" hides every stamp the collection already holds. A search for \"Toruń\" now brings up a red stamp of May 1933 with the town hall and the dates 1233 and 1933. It has the design of the blue stamp in another colour.",
+          "sk": "The blue Toruń stamp of January 1933 is in the album and in the StampIQ collection. On the Home screen, \"Catalog\" leads to Poland. There the switch \"Missing Only\" hides every stamp the collection already holds. A search for \"Toruń\" now brings up a red stamp of May 1933 with the town hall and the dates 1233 and 1933. It has the design of the blue stamp in another colour.",
+          "ro": "The blue Toruń stamp of January 1933 is in the album and in the StampIQ collection. On the Home screen, \"Catalog\" leads to Poland. There the switch \"Missing Only\" hides every stamp the collection already holds. A search for \"Toruń\" now brings up a red stamp of May 1933 with the town hall and the dates 1233 and 1933. It has the design of the blue stamp in another colour.",
+          "hu": "The blue Toruń stamp of January 1933 is in the album and in the StampIQ collection. On the Home screen, \"Catalog\" leads to Poland. There the switch \"Missing Only\" hides every stamp the collection already holds. A search for \"Toruń\" now brings up a red stamp of May 1933 with the town hall and the dates 1233 and 1933. It has the design of the blue stamp in another colour.",
+          "da": "The blue Toruń stamp of January 1933 is in the album and in the StampIQ collection. On the Home screen, \"Catalog\" leads to Poland. There the switch \"Missing Only\" hides every stamp the collection already holds. A search for \"Toruń\" now brings up a red stamp of May 1933 with the town hall and the dates 1233 and 1933. It has the design of the blue stamp in another colour."
+        },
+        {
+          "en": "Why was the design printed again in May? Open the red stamp and tap \"Show on map\". The pin lands on the market square, on the town hall itself. The pin's carousel holds the red stamp and the blue one.",
+          "de": "Why was the design printed again in May? Open the red stamp and tap \"Show on map\". The pin lands on the market square, on the town hall itself. The pin's carousel holds the red stamp and the blue one.",
+          "fr": "Why was the design printed again in May? Open the red stamp and tap \"Show on map\". The pin lands on the market square, on the town hall itself. The pin's carousel holds the red stamp and the blue one.",
+          "it": "Why was the design printed again in May? Open the red stamp and tap \"Show on map\". The pin lands on the market square, on the town hall itself. The pin's carousel holds the red stamp and the blue one.",
+          "nl": "Why was the design printed again in May? Open the red stamp and tap \"Show on map\". The pin lands on the market square, on the town hall itself. The pin's carousel holds the red stamp and the blue one.",
+          "pl": "Dlaczego ten sam rysunek wydrukowano ponownie w maju? Otwórz czerwony znaczek i dotknij „Pokaż na mapie”. Pinezka pojawia się na Rynku Staromiejskim, dokładnie na ratuszu. W karuzeli pinezki są oba znaczki, czerwony i niebieski.",
+          "cs": "Why was the design printed again in May? Open the red stamp and tap \"Show on map\". The pin lands on the market square, on the town hall itself. The pin's carousel holds the red stamp and the blue one.",
+          "sk": "Why was the design printed again in May? Open the red stamp and tap \"Show on map\". The pin lands on the market square, on the town hall itself. The pin's carousel holds the red stamp and the blue one.",
+          "ro": "Why was the design printed again in May? Open the red stamp and tap \"Show on map\". The pin lands on the market square, on the town hall itself. The pin's carousel holds the red stamp and the blue one.",
+          "hu": "Why was the design printed again in May? Open the red stamp and tap \"Show on map\". The pin lands on the market square, on the town hall itself. The pin's carousel holds the red stamp and the blue one.",
+          "da": "Why was the design printed again in May? Open the red stamp and tap \"Show on map\". The pin lands on the market square, on the town hall itself. The pin's carousel holds the red stamp and the blue one."
+        }
+      ]
+    },
+    {
+      "id": "stamps",
+      "type": "text",
+      "label": {
+        "en": "The stamp",
+        "de": "The stamp",
+        "fr": "The stamp",
+        "it": "The stamp",
+        "nl": "The stamp",
+        "pl": "Znaczek",
+        "cs": "The stamp",
+        "sk": "The stamp",
+        "ro": "The stamp",
+        "hu": "The stamp",
+        "da": "The stamp"
+      },
+      "title": {
+        "en": "The exhibition and the union",
+        "de": "The exhibition and the union",
+        "fr": "The exhibition and the union",
+        "it": "The exhibition and the union",
+        "nl": "The exhibition and the union",
+        "pl": "Wystawa i związek",
+        "cs": "The exhibition and the union",
+        "sk": "The exhibition and the union",
+        "ro": "The exhibition and the union",
+        "hu": "The exhibition and the union",
+        "da": "The exhibition and the union"
+      },
+      "visual": {
+        "type": "stamp",
+        "stamp": {
+          "name": {
+            "en": "Toruń Town Hall, 2nd All-Polish Philatelic Exhibition, 1933",
+            "de": "Toruń Town Hall, 2nd All-Polish Philatelic Exhibition, 1933",
+            "fr": "Toruń Town Hall, 2nd All-Polish Philatelic Exhibition, 1933",
+            "it": "Toruń Town Hall, 2nd All-Polish Philatelic Exhibition, 1933",
+            "nl": "Toruń Town Hall, 2nd All-Polish Philatelic Exhibition, 1933",
+            "pl": "Ratusz w Toruniu, II Ogólnopolska Wystawa Filatelistyczna, 1933",
+            "cs": "Toruń Town Hall, 2nd All-Polish Philatelic Exhibition, 1933",
+            "sk": "Toruń Town Hall, 2nd All-Polish Philatelic Exhibition, 1933",
+            "ro": "Toruń Town Hall, 2nd All-Polish Philatelic Exhibition, 1933",
+            "hu": "Toruń Town Hall, 2nd All-Polish Philatelic Exhibition, 1933",
+            "da": "Toruń Town Hall, 2nd All-Polish Philatelic Exhibition, 1933"
+          },
+          "year": 1933,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/59d3a47a2fd8163e/torun-stamp-1933-red.png",
+            "width": 626,
+            "height": 763
+          },
+          "country": "PL",
+          "stamp_id": "SIQ-PL-1933-005"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "The blue stamp marked the 700th anniversary of the founding of Toruń. Its print run was 5,000,000. Its designer is unknown. The statue in front of the town hall on the stamp is the Copernicus monument by Friedrich Tieck, from 1853.",
+          "de": "The blue stamp marked the 700th anniversary of the founding of Toruń. Its print run was 5,000,000. Its designer is unknown. The statue in front of the town hall on the stamp is the Copernicus monument by Friedrich Tieck, from 1853.",
+          "fr": "The blue stamp marked the 700th anniversary of the founding of Toruń. Its print run was 5,000,000. Its designer is unknown. The statue in front of the town hall on the stamp is the Copernicus monument by Friedrich Tieck, from 1853.",
+          "it": "The blue stamp marked the 700th anniversary of the founding of Toruń. Its print run was 5,000,000. Its designer is unknown. The statue in front of the town hall on the stamp is the Copernicus monument by Friedrich Tieck, from 1853.",
+          "nl": "The blue stamp marked the 700th anniversary of the founding of Toruń. Its print run was 5,000,000. Its designer is unknown. The statue in front of the town hall on the stamp is the Copernicus monument by Friedrich Tieck, from 1853.",
+          "pl": "Niebieski znaczek upamiętniał 700-lecie założenia Torunia. Nakład wyniósł 5 000 000 sztuk. Projektant pozostaje nieznany. Pomnik przed ratuszem, widoczny na znaczku, to pomnik Kopernika autorstwa Friedricha Tiecka z 1853 roku.",
+          "cs": "The blue stamp marked the 700th anniversary of the founding of Toruń. Its print run was 5,000,000. Its designer is unknown. The statue in front of the town hall on the stamp is the Copernicus monument by Friedrich Tieck, from 1853.",
+          "sk": "The blue stamp marked the 700th anniversary of the founding of Toruń. Its print run was 5,000,000. Its designer is unknown. The statue in front of the town hall on the stamp is the Copernicus monument by Friedrich Tieck, from 1853.",
+          "ro": "The blue stamp marked the 700th anniversary of the founding of Toruń. Its print run was 5,000,000. Its designer is unknown. The statue in front of the town hall on the stamp is the Copernicus monument by Friedrich Tieck, from 1853.",
+          "hu": "The blue stamp marked the 700th anniversary of the founding of Toruń. Its print run was 5,000,000. Its designer is unknown. The statue in front of the town hall on the stamp is the Copernicus monument by Friedrich Tieck, from 1853.",
+          "da": "The blue stamp marked the 700th anniversary of the founding of Toruń. Its print run was 5,000,000. Its designer is unknown. The statue in front of the town hall on the stamp is the Copernicus monument by Friedrich Tieck, from 1853."
+        },
+        {
+          "en": "In March 1933 the Toruń stamp society turned ten. From 21 to 28 May it held the 2nd All-Polish Philatelic Exhibition. Marian Niklewski, a lawyer and the society's president, chaired it. His brother Alfons, one of the founders of the society in 1923, helped organise it.",
+          "de": "In March 1933 the Toruń stamp society turned ten. From 21 to 28 May it held the 2nd All-Polish Philatelic Exhibition. Marian Niklewski, a lawyer and the society's president, chaired it. His brother Alfons, one of the founders of the society in 1923, helped organise it.",
+          "fr": "In March 1933 the Toruń stamp society turned ten. From 21 to 28 May it held the 2nd All-Polish Philatelic Exhibition. Marian Niklewski, a lawyer and the society's president, chaired it. His brother Alfons, one of the founders of the society in 1923, helped organise it.",
+          "it": "In March 1933 the Toruń stamp society turned ten. From 21 to 28 May it held the 2nd All-Polish Philatelic Exhibition. Marian Niklewski, a lawyer and the society's president, chaired it. His brother Alfons, one of the founders of the society in 1923, helped organise it.",
+          "nl": "In March 1933 the Toruń stamp society turned ten. From 21 to 28 May it held the 2nd All-Polish Philatelic Exhibition. Marian Niklewski, a lawyer and the society's president, chaired it. His brother Alfons, one of the founders of the society in 1923, helped organise it.",
+          "pl": "W marcu 1933 roku toruńskie towarzystwo filatelistyczne obchodziło dziesięciolecie. Od 21 do 28 maja zorganizowało II Ogólnopolską Wystawę Filatelistyczną. Przewodniczył jej Marian Niklewski, adwokat i prezes towarzystwa. Jego brat Alfons, jeden z założycieli towarzystwa w 1923 roku, pomagał przy organizacji.",
+          "cs": "In March 1933 the Toruń stamp society turned ten. From 21 to 28 May it held the 2nd All-Polish Philatelic Exhibition. Marian Niklewski, a lawyer and the society's president, chaired it. His brother Alfons, one of the founders of the society in 1923, helped organise it.",
+          "sk": "In March 1933 the Toruń stamp society turned ten. From 21 to 28 May it held the 2nd All-Polish Philatelic Exhibition. Marian Niklewski, a lawyer and the society's president, chaired it. His brother Alfons, one of the founders of the society in 1923, helped organise it.",
+          "ro": "In March 1933 the Toruń stamp society turned ten. From 21 to 28 May it held the 2nd All-Polish Philatelic Exhibition. Marian Niklewski, a lawyer and the society's president, chaired it. His brother Alfons, one of the founders of the society in 1923, helped organise it.",
+          "hu": "In March 1933 the Toruń stamp society turned ten. From 21 to 28 May it held the 2nd All-Polish Philatelic Exhibition. Marian Niklewski, a lawyer and the society's president, chaired it. His brother Alfons, one of the founders of the society in 1923, helped organise it.",
+          "da": "In March 1933 the Toruń stamp society turned ten. From 21 to 28 May it held the 2nd All-Polish Philatelic Exhibition. Marian Niklewski, a lawyer and the society's president, chaired it. His brother Alfons, one of the founders of the society in 1923, helped organise it."
+        },
+        {
+          "en": "For the opening, the Minister of Posts had the town hall design printed again, this time in brown-red and limited to 100,000 copies. Only the post office at the exhibition sold it, from the first day of the show to the last. It could pay postage until 30 June 1933. For every red stamp there were fifty blue ones.",
+          "de": "For the opening, the Minister of Posts had the town hall design printed again, this time in brown-red and limited to 100,000 copies. Only the post office at the exhibition sold it, from the first day of the show to the last. It could pay postage until 30 June 1933. For every red stamp there were fifty blue ones.",
+          "fr": "For the opening, the Minister of Posts had the town hall design printed again, this time in brown-red and limited to 100,000 copies. Only the post office at the exhibition sold it, from the first day of the show to the last. It could pay postage until 30 June 1933. For every red stamp there were fifty blue ones.",
+          "it": "For the opening, the Minister of Posts had the town hall design printed again, this time in brown-red and limited to 100,000 copies. Only the post office at the exhibition sold it, from the first day of the show to the last. It could pay postage until 30 June 1933. For every red stamp there were fifty blue ones.",
+          "nl": "For the opening, the Minister of Posts had the town hall design printed again, this time in brown-red and limited to 100,000 copies. Only the post office at the exhibition sold it, from the first day of the show to the last. It could pay postage until 30 June 1933. For every red stamp there were fifty blue ones.",
+          "pl": "Na otwarcie minister poczt polecił wydrukować rysunek ratusza jeszcze raz, tym razem w kolorze brunatnoczerwonym i w nakładzie 100 000 sztuk. Znaczek sprzedawał wyłącznie urząd pocztowy na wystawie, od pierwszego do ostatniego dnia. Można nim było opłacać przesyłki do 30 czerwca 1933 roku. Na każdy czerwony znaczek przypadało pięćdziesiąt niebieskich.",
+          "cs": "For the opening, the Minister of Posts had the town hall design printed again, this time in brown-red and limited to 100,000 copies. Only the post office at the exhibition sold it, from the first day of the show to the last. It could pay postage until 30 June 1933. For every red stamp there were fifty blue ones.",
+          "sk": "For the opening, the Minister of Posts had the town hall design printed again, this time in brown-red and limited to 100,000 copies. Only the post office at the exhibition sold it, from the first day of the show to the last. It could pay postage until 30 June 1933. For every red stamp there were fifty blue ones.",
+          "ro": "For the opening, the Minister of Posts had the town hall design printed again, this time in brown-red and limited to 100,000 copies. Only the post office at the exhibition sold it, from the first day of the show to the last. It could pay postage until 30 June 1933. For every red stamp there were fifty blue ones.",
+          "hu": "For the opening, the Minister of Posts had the town hall design printed again, this time in brown-red and limited to 100,000 copies. Only the post office at the exhibition sold it, from the first day of the show to the last. It could pay postage until 30 June 1933. For every red stamp there were fifty blue ones.",
+          "da": "For the opening, the Minister of Posts had the town hall design printed again, this time in brown-red and limited to 100,000 copies. Only the post office at the exhibition sold it, from the first day of the show to the last. It could pay postage until 30 June 1933. For every red stamp there were fifty blue ones."
+        },
+        {
+          "en": "On 28 May, the last day, delegates of the Polish stamp societies met in Toruń. On Marian Niklewski's initiative they founded their national union and elected him its president. The Germans arrested Alfons on 6 March 1940. He died at Mauthausen-Gusen on 29 May 1941. Marian was held in Dachau. He came back and restarted the Toruń society on 8 July 1946.",
+          "de": "On 28 May, the last day, delegates of the Polish stamp societies met in Toruń. On Marian Niklewski's initiative they founded their national union and elected him its president. The Germans arrested Alfons on 6 March 1940. He died at Mauthausen-Gusen on 29 May 1941. Marian was held in Dachau. He came back and restarted the Toruń society on 8 July 1946.",
+          "fr": "On 28 May, the last day, delegates of the Polish stamp societies met in Toruń. On Marian Niklewski's initiative they founded their national union and elected him its president. The Germans arrested Alfons on 6 March 1940. He died at Mauthausen-Gusen on 29 May 1941. Marian was held in Dachau. He came back and restarted the Toruń society on 8 July 1946.",
+          "it": "On 28 May, the last day, delegates of the Polish stamp societies met in Toruń. On Marian Niklewski's initiative they founded their national union and elected him its president. The Germans arrested Alfons on 6 March 1940. He died at Mauthausen-Gusen on 29 May 1941. Marian was held in Dachau. He came back and restarted the Toruń society on 8 July 1946.",
+          "nl": "On 28 May, the last day, delegates of the Polish stamp societies met in Toruń. On Marian Niklewski's initiative they founded their national union and elected him its president. The Germans arrested Alfons on 6 March 1940. He died at Mauthausen-Gusen on 29 May 1941. Marian was held in Dachau. He came back and restarted the Toruń society on 8 July 1946.",
+          "pl": "28 maja, ostatniego dnia, delegaci polskich towarzystw filatelistycznych spotkali się w Toruniu. Z inicjatywy Mariana Niklewskiego założyli ogólnokrajowy związek, a jego wybrali na prezesa. Alfonsa Niemcy aresztowali 6 marca 1940 roku. Zmarł w Mauthausen-Gusen 29 maja 1941 roku. Marian był więziony w Dachau. Wrócił i 8 lipca 1946 roku reaktywował toruńskie towarzystwo.",
+          "cs": "On 28 May, the last day, delegates of the Polish stamp societies met in Toruń. On Marian Niklewski's initiative they founded their national union and elected him its president. The Germans arrested Alfons on 6 March 1940. He died at Mauthausen-Gusen on 29 May 1941. Marian was held in Dachau. He came back and restarted the Toruń society on 8 July 1946.",
+          "sk": "On 28 May, the last day, delegates of the Polish stamp societies met in Toruń. On Marian Niklewski's initiative they founded their national union and elected him its president. The Germans arrested Alfons on 6 March 1940. He died at Mauthausen-Gusen on 29 May 1941. Marian was held in Dachau. He came back and restarted the Toruń society on 8 July 1946.",
+          "ro": "On 28 May, the last day, delegates of the Polish stamp societies met in Toruń. On Marian Niklewski's initiative they founded their national union and elected him its president. The Germans arrested Alfons on 6 March 1940. He died at Mauthausen-Gusen on 29 May 1941. Marian was held in Dachau. He came back and restarted the Toruń society on 8 July 1946.",
+          "hu": "On 28 May, the last day, delegates of the Polish stamp societies met in Toruń. On Marian Niklewski's initiative they founded their national union and elected him its president. The Germans arrested Alfons on 6 March 1940. He died at Mauthausen-Gusen on 29 May 1941. Marian was held in Dachau. He came back and restarted the Toruń society on 8 July 1946.",
+          "da": "On 28 May, the last day, delegates of the Polish stamp societies met in Toruń. On Marian Niklewski's initiative they founded their national union and elected him its president. The Germans arrested Alfons on 6 March 1940. He died at Mauthausen-Gusen on 29 May 1941. Marian was held in Dachau. He came back and restarted the Toruń society on 8 July 1946."
+        },
+        {
+          "en": "On 4 September 1948 the delegates met in Toruń once more and restarted the union. A stamp inscribed \"ZJAZD FILAT. TORUŃ 1948\" came out that day. On the map its pin is in Toruń as well.",
+          "de": "On 4 September 1948 the delegates met in Toruń once more and restarted the union. A stamp inscribed \"ZJAZD FILAT. TORUŃ 1948\" came out that day. On the map its pin is in Toruń as well.",
+          "fr": "On 4 September 1948 the delegates met in Toruń once more and restarted the union. A stamp inscribed \"ZJAZD FILAT. TORUŃ 1948\" came out that day. On the map its pin is in Toruń as well.",
+          "it": "On 4 September 1948 the delegates met in Toruń once more and restarted the union. A stamp inscribed \"ZJAZD FILAT. TORUŃ 1948\" came out that day. On the map its pin is in Toruń as well.",
+          "nl": "On 4 September 1948 the delegates met in Toruń once more and restarted the union. A stamp inscribed \"ZJAZD FILAT. TORUŃ 1948\" came out that day. On the map its pin is in Toruń as well.",
+          "pl": "4 września 1948 roku delegaci spotkali się w Toruniu ponownie i wznowili działalność związku. Tego dnia ukazał się znaczek z napisem „ZJAZD FILAT. TORUŃ 1948”. Na mapie jego pinezka też jest w Toruniu.",
+          "cs": "On 4 September 1948 the delegates met in Toruń once more and restarted the union. A stamp inscribed \"ZJAZD FILAT. TORUŃ 1948\" came out that day. On the map its pin is in Toruń as well.",
+          "sk": "On 4 September 1948 the delegates met in Toruń once more and restarted the union. A stamp inscribed \"ZJAZD FILAT. TORUŃ 1948\" came out that day. On the map its pin is in Toruń as well.",
+          "ro": "On 4 September 1948 the delegates met in Toruń once more and restarted the union. A stamp inscribed \"ZJAZD FILAT. TORUŃ 1948\" came out that day. On the map its pin is in Toruń as well.",
+          "hu": "On 4 September 1948 the delegates met in Toruń once more and restarted the union. A stamp inscribed \"ZJAZD FILAT. TORUŃ 1948\" came out that day. On the map its pin is in Toruń as well.",
+          "da": "On 4 September 1948 the delegates met in Toruń once more and restarted the union. A stamp inscribed \"ZJAZD FILAT. TORUŃ 1948\" came out that day. On the map its pin is in Toruń as well."
+        }
+      ]
+    },
+    {
+      "id": "town-hall",
+      "type": "text",
+      "label": {
+        "en": "Town hall",
+        "de": "Town hall",
+        "fr": "Town hall",
+        "it": "Town hall",
+        "nl": "Town hall",
+        "pl": "Ratusz",
+        "cs": "Town hall",
+        "sk": "Town hall",
+        "ro": "Town hall",
+        "hu": "Town hall",
+        "da": "Town hall"
+      },
+      "title": {
+        "en": "The tower and the calendar legend",
+        "de": "The tower and the calendar legend",
+        "fr": "The tower and the calendar legend",
+        "it": "The tower and the calendar legend",
+        "nl": "The tower and the calendar legend",
+        "pl": "Wieża i legenda o kalendarzu",
+        "cs": "The tower and the calendar legend",
+        "sk": "The tower and the calendar legend",
+        "ro": "The tower and the calendar legend",
+        "hu": "The tower and the calendar legend",
+        "da": "The tower and the calendar legend"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/fb7d35d5894572ad/torun-tower-view.jpg",
+          "width": 2400,
+          "credit": "Jakub Hałun, CC BY-SA 4.0",
+          "height": 1382,
+          "caption": {
+            "en": "The cathedral of St John and the Vistula, seen from the town hall tower.",
+            "de": "The cathedral of St John and the Vistula, seen from the town hall tower.",
+            "fr": "The cathedral of St John and the Vistula, seen from the town hall tower.",
+            "it": "The cathedral of St John and the Vistula, seen from the town hall tower.",
+            "nl": "The cathedral of St John and the Vistula, seen from the town hall tower.",
+            "pl": "Katedra św. Jana i Wisła, widok z wieży ratusza.",
+            "cs": "The cathedral of St John and the Vistula, seen from the town hall tower.",
+            "sk": "The cathedral of St John and the Vistula, seen from the town hall tower.",
+            "ro": "The cathedral of St John and the Vistula, seen from the town hall tower.",
+            "hu": "The cathedral of St John and the Vistula, seen from the town hall tower.",
+            "da": "The cathedral of St John and the Vistula, seen from the town hall tower."
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Katedra_w_Toruniu,_widok_z_wie%C5%BCy_ratuszowej,_20210908_1551_2747.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "On 24 September 1703 the heavy guns of the Swedish king Charles XII began to fire incendiary shells into the besieged town. One of them hit the town hall tower and set fire to the gunpowder stored in the attic. All roofs and the rooms above the ground floor burned. The brick walls survived. The tower never got back the tin spire it lost in that fire. In its lower part some bricks are still black from the smoke.",
+          "de": "On 24 September 1703 the heavy guns of the Swedish king Charles XII began to fire incendiary shells into the besieged town. One of them hit the town hall tower and set fire to the gunpowder stored in the attic. All roofs and the rooms above the ground floor burned. The brick walls survived. The tower never got back the tin spire it lost in that fire. In its lower part some bricks are still black from the smoke.",
+          "fr": "On 24 September 1703 the heavy guns of the Swedish king Charles XII began to fire incendiary shells into the besieged town. One of them hit the town hall tower and set fire to the gunpowder stored in the attic. All roofs and the rooms above the ground floor burned. The brick walls survived. The tower never got back the tin spire it lost in that fire. In its lower part some bricks are still black from the smoke.",
+          "it": "On 24 September 1703 the heavy guns of the Swedish king Charles XII began to fire incendiary shells into the besieged town. One of them hit the town hall tower and set fire to the gunpowder stored in the attic. All roofs and the rooms above the ground floor burned. The brick walls survived. The tower never got back the tin spire it lost in that fire. In its lower part some bricks are still black from the smoke.",
+          "nl": "On 24 September 1703 the heavy guns of the Swedish king Charles XII began to fire incendiary shells into the besieged town. One of them hit the town hall tower and set fire to the gunpowder stored in the attic. All roofs and the rooms above the ground floor burned. The brick walls survived. The tower never got back the tin spire it lost in that fire. In its lower part some bricks are still black from the smoke.",
+          "pl": "24 września 1703 roku ciężkie działa króla szwedzkiego Karola XII zaczęły ostrzeliwać oblężone miasto pociskami zapalającymi. Jeden z nich trafił w wieżę ratusza i podpalił proch przechowywany na poddaszu. Spłonęły wszystkie dachy i pomieszczenia nad parterem. Murowane ściany ocalały. Wieża nigdy nie odzyskała blaszanego hełmu, który straciła w tym pożarze. Na dole niektóre cegły wciąż są czarne od dymu.",
+          "cs": "On 24 September 1703 the heavy guns of the Swedish king Charles XII began to fire incendiary shells into the besieged town. One of them hit the town hall tower and set fire to the gunpowder stored in the attic. All roofs and the rooms above the ground floor burned. The brick walls survived. The tower never got back the tin spire it lost in that fire. In its lower part some bricks are still black from the smoke.",
+          "sk": "On 24 September 1703 the heavy guns of the Swedish king Charles XII began to fire incendiary shells into the besieged town. One of them hit the town hall tower and set fire to the gunpowder stored in the attic. All roofs and the rooms above the ground floor burned. The brick walls survived. The tower never got back the tin spire it lost in that fire. In its lower part some bricks are still black from the smoke.",
+          "ro": "On 24 September 1703 the heavy guns of the Swedish king Charles XII began to fire incendiary shells into the besieged town. One of them hit the town hall tower and set fire to the gunpowder stored in the attic. All roofs and the rooms above the ground floor burned. The brick walls survived. The tower never got back the tin spire it lost in that fire. In its lower part some bricks are still black from the smoke.",
+          "hu": "On 24 September 1703 the heavy guns of the Swedish king Charles XII began to fire incendiary shells into the besieged town. One of them hit the town hall tower and set fire to the gunpowder stored in the attic. All roofs and the rooms above the ground floor burned. The brick walls survived. The tower never got back the tin spire it lost in that fire. In its lower part some bricks are still black from the smoke.",
+          "da": "On 24 September 1703 the heavy guns of the Swedish king Charles XII began to fire incendiary shells into the besieged town. One of them hit the town hall tower and set fire to the gunpowder stored in the attic. All roofs and the rooms above the ground floor burned. The brick walls survived. The tower never got back the tin spire it lost in that fire. In its lower part some bricks are still black from the smoke."
+        },
+        {
+          "en": "A legend says the town hall was built like a calendar. The 15-year-old Fryderyk Chopin repeated it in a letter of August 1825: as many windows as days in the year, as many halls as months. Small figures of old burghers stand in the windows, made after a Gothic painting from a Toruń church.",
+          "de": "A legend says the town hall was built like a calendar. The 15-year-old Fryderyk Chopin repeated it in a letter of August 1825: as many windows as days in the year, as many halls as months. Small figures of old burghers stand in the windows, made after a Gothic painting from a Toruń church.",
+          "fr": "A legend says the town hall was built like a calendar. The 15-year-old Fryderyk Chopin repeated it in a letter of August 1825: as many windows as days in the year, as many halls as months. Small figures of old burghers stand in the windows, made after a Gothic painting from a Toruń church.",
+          "it": "A legend says the town hall was built like a calendar. The 15-year-old Fryderyk Chopin repeated it in a letter of August 1825: as many windows as days in the year, as many halls as months. Small figures of old burghers stand in the windows, made after a Gothic painting from a Toruń church.",
+          "nl": "A legend says the town hall was built like a calendar. The 15-year-old Fryderyk Chopin repeated it in a letter of August 1825: as many windows as days in the year, as many halls as months. Small figures of old burghers stand in the windows, made after a Gothic painting from a Toruń church.",
+          "pl": "Legenda mówi, że ratusz zbudowano jak kalendarz. Piętnastoletni Fryderyk Chopin powtórzył ją w liście z sierpnia 1825 roku: tyle okien, ile dni w roku, tyle sal, ile miesięcy. W oknach stoją małe figury dawnych mieszczan, wzorowane na gotyckim obrazie z toruńskiego kościoła.",
+          "cs": "A legend says the town hall was built like a calendar. The 15-year-old Fryderyk Chopin repeated it in a letter of August 1825: as many windows as days in the year, as many halls as months. Small figures of old burghers stand in the windows, made after a Gothic painting from a Toruń church.",
+          "sk": "A legend says the town hall was built like a calendar. The 15-year-old Fryderyk Chopin repeated it in a letter of August 1825: as many windows as days in the year, as many halls as months. Small figures of old burghers stand in the windows, made after a Gothic painting from a Toruń church.",
+          "ro": "A legend says the town hall was built like a calendar. The 15-year-old Fryderyk Chopin repeated it in a letter of August 1825: as many windows as days in the year, as many halls as months. Small figures of old burghers stand in the windows, made after a Gothic painting from a Toruń church.",
+          "hu": "A legend says the town hall was built like a calendar. The 15-year-old Fryderyk Chopin repeated it in a letter of August 1825: as many windows as days in the year, as many halls as months. Small figures of old burghers stand in the windows, made after a Gothic painting from a Toruń church.",
+          "da": "A legend says the town hall was built like a calendar. The 15-year-old Fryderyk Chopin repeated it in a letter of August 1825: as many windows as days in the year, as many halls as months. Small figures of old burghers stand in the windows, made after a Gothic painting from a Toruń church."
+        }
+      ]
+    },
+    {
+      "id": "figures",
+      "type": "numbers",
+      "label": {
+        "en": "In figures",
+        "de": "In figures",
+        "fr": "In figures",
+        "it": "In figures",
+        "nl": "In figures",
+        "pl": "W liczbach",
+        "cs": "In figures",
+        "sk": "In figures",
+        "ro": "In figures",
+        "hu": "In figures",
+        "da": "In figures"
+      },
+      "title": {
+        "en": "Town hall and stamp",
+        "de": "Town hall and stamp",
+        "fr": "Town hall and stamp",
+        "it": "Town hall and stamp",
+        "nl": "Town hall and stamp",
+        "pl": "Ratusz i znaczek",
+        "cs": "Town hall and stamp",
+        "sk": "Town hall and stamp",
+        "ro": "Town hall and stamp",
+        "hu": "Town hall and stamp",
+        "da": "Town hall and stamp"
+      },
+      "numbers": [
+        {
+          "text": {
+            "en": "The height of the town hall tower.",
+            "de": "The height of the town hall tower.",
+            "fr": "The height of the town hall tower.",
+            "it": "The height of the town hall tower.",
+            "nl": "The height of the town hall tower.",
+            "pl": "Wysokość wieży ratusza.",
+            "cs": "The height of the town hall tower.",
+            "sk": "The height of the town hall tower.",
+            "ro": "The height of the town hall tower.",
+            "hu": "The height of the town hall tower.",
+            "da": "The height of the town hall tower."
+          },
+          "title": {
+            "en": "Tower",
+            "de": "Tower",
+            "fr": "Tower",
+            "it": "Tower",
+            "nl": "Tower",
+            "pl": "Wieża",
+            "cs": "Tower",
+            "sk": "Tower",
+            "ro": "Tower",
+            "hu": "Tower",
+            "da": "Tower"
+          },
+          "value": "40 m"
+        },
+        {
+          "text": {
+            "en": "The print run of the red exhibition stamp of May 1933.",
+            "de": "The print run of the red exhibition stamp of May 1933.",
+            "fr": "The print run of the red exhibition stamp of May 1933.",
+            "it": "The print run of the red exhibition stamp of May 1933.",
+            "nl": "The print run of the red exhibition stamp of May 1933.",
+            "pl": "Nakład czerwonego znaczka wystawowego z maja 1933 roku.",
+            "cs": "The print run of the red exhibition stamp of May 1933.",
+            "sk": "The print run of the red exhibition stamp of May 1933.",
+            "ro": "The print run of the red exhibition stamp of May 1933.",
+            "hu": "The print run of the red exhibition stamp of May 1933.",
+            "da": "The print run of the red exhibition stamp of May 1933."
+          },
+          "title": {
+            "en": "Red stamps",
+            "de": "Red stamps",
+            "fr": "Red stamps",
+            "it": "Red stamps",
+            "nl": "Red stamps",
+            "pl": "Czerwone znaczki",
+            "cs": "Red stamps",
+            "sk": "Red stamps",
+            "ro": "Red stamps",
+            "hu": "Red stamps",
+            "da": "Red stamps"
+          },
+          "value": "100,000"
+        },
+        {
+          "text": {
+            "en": "The exhibition post office sold the red stamp from 21 to 28 May 1933.",
+            "de": "The exhibition post office sold the red stamp from 21 to 28 May 1933.",
+            "fr": "The exhibition post office sold the red stamp from 21 to 28 May 1933.",
+            "it": "The exhibition post office sold the red stamp from 21 to 28 May 1933.",
+            "nl": "The exhibition post office sold the red stamp from 21 to 28 May 1933.",
+            "pl": "Urząd pocztowy na wystawie sprzedawał czerwony znaczek od 21 do 28 maja 1933 roku.",
+            "cs": "The exhibition post office sold the red stamp from 21 to 28 May 1933.",
+            "sk": "The exhibition post office sold the red stamp from 21 to 28 May 1933.",
+            "ro": "The exhibition post office sold the red stamp from 21 to 28 May 1933.",
+            "hu": "The exhibition post office sold the red stamp from 21 to 28 May 1933.",
+            "da": "The exhibition post office sold the red stamp from 21 to 28 May 1933."
+          },
+          "title": {
+            "en": "On sale",
+            "de": "On sale",
+            "fr": "On sale",
+            "it": "On sale",
+            "nl": "On sale",
+            "pl": "W sprzedaży",
+            "cs": "On sale",
+            "sk": "On sale",
+            "ro": "On sale",
+            "hu": "On sale",
+            "da": "On sale"
+          },
+          "value": "8 days"
+        },
+        {
+          "text": {
+            "en": "The year Toruń was founded, printed on both stamps next to 1933.",
+            "de": "The year Toruń was founded, printed on both stamps next to 1933.",
+            "fr": "The year Toruń was founded, printed on both stamps next to 1933.",
+            "it": "The year Toruń was founded, printed on both stamps next to 1933.",
+            "nl": "The year Toruń was founded, printed on both stamps next to 1933.",
+            "pl": "Rok założenia Torunia, wydrukowany na obu znaczkach obok daty 1933.",
+            "cs": "The year Toruń was founded, printed on both stamps next to 1933.",
+            "sk": "The year Toruń was founded, printed on both stamps next to 1933.",
+            "ro": "The year Toruń was founded, printed on both stamps next to 1933.",
+            "hu": "The year Toruń was founded, printed on both stamps next to 1933.",
+            "da": "The year Toruń was founded, printed on both stamps next to 1933."
+          },
+          "title": {
+            "en": "On the stamp",
+            "de": "On the stamp",
+            "fr": "On the stamp",
+            "it": "On the stamp",
+            "nl": "On the stamp",
+            "pl": "Na znaczku",
+            "cs": "On the stamp",
+            "sk": "On the stamp",
+            "ro": "On the stamp",
+            "hu": "On the stamp",
+            "da": "On the stamp"
+          },
+          "value": "1233"
+        }
+      ]
+    },
+    {
+      "id": "panorama",
+      "type": "wide-photo",
+      "image": {
+        "src": "https://assets.stampiq.io/blog/35a054236c5d1224/torun-panorama.jpg",
+        "width": 2400,
+        "credit": "Andrzej Otrębski, CC BY-SA 4.0",
+        "height": 1600,
+        "caption": {
+          "en": "The old town of Toruń from across the Vistula, with the cathedral and the town walls.",
+          "de": "The old town of Toruń from across the Vistula, with the cathedral and the town walls.",
+          "fr": "The old town of Toruń from across the Vistula, with the cathedral and the town walls.",
+          "it": "The old town of Toruń from across the Vistula, with the cathedral and the town walls.",
+          "nl": "The old town of Toruń from across the Vistula, with the cathedral and the town walls.",
+          "pl": "Starówka Torunia z drugiego brzegu Wisły, z katedrą i murami miejskimi.",
+          "cs": "The old town of Toruń from across the Vistula, with the cathedral and the town walls.",
+          "sk": "The old town of Toruń from across the Vistula, with the cathedral and the town walls.",
+          "ro": "The old town of Toruń from across the Vistula, with the cathedral and the town walls.",
+          "hu": "The old town of Toruń from across the Vistula, with the cathedral and the town walls.",
+          "da": "The old town of Toruń from across the Vistula, with the cathedral and the town walls."
+        },
+        "source_url": "https://commons.wikimedia.org/wiki/File:Torun_panorama_zza_Wisly_2.jpg"
+      }
+    },
+    {
+      "id": "visit",
+      "type": "text",
+      "label": {
+        "en": "On site",
+        "de": "On site",
+        "fr": "On site",
+        "it": "On site",
+        "nl": "On site",
+        "pl": "Na miejscu",
+        "cs": "On site",
+        "sk": "On site",
+        "ro": "On site",
+        "hu": "On site",
+        "da": "On site"
+      },
+      "title": {
+        "en": "From the monument to the castle",
+        "de": "From the monument to the castle",
+        "fr": "From the monument to the castle",
+        "it": "From the monument to the castle",
+        "nl": "From the monument to the castle",
+        "pl": "Od pomnika do zamku",
+        "cs": "From the monument to the castle",
+        "sk": "From the monument to the castle",
+        "ro": "From the monument to the castle",
+        "hu": "From the monument to the castle",
+        "da": "From the monument to the castle"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/99dbf1942f10a32f/torun-castle.jpg",
+          "width": 2400,
+          "credit": "Krzysztof Golik, CC BY-SA 4.0",
+          "height": 2189,
+          "caption": {
+            "en": "The gdanisko of the Teutonic castle, a tower on a brick arch.",
+            "de": "The gdanisko of the Teutonic castle, a tower on a brick arch.",
+            "fr": "The gdanisko of the Teutonic castle, a tower on a brick arch.",
+            "it": "The gdanisko of the Teutonic castle, a tower on a brick arch.",
+            "nl": "The gdanisko of the Teutonic castle, a tower on a brick arch.",
+            "pl": "Gdanisko zamku krzyżackiego, wieża na ceglanym łuku.",
+            "cs": "The gdanisko of the Teutonic castle, a tower on a brick arch.",
+            "sk": "The gdanisko of the Teutonic castle, a tower on a brick arch.",
+            "ro": "The gdanisko of the Teutonic castle, a tower on a brick arch.",
+            "hu": "The gdanisko of the Teutonic castle, a tower on a brick arch.",
+            "da": "The gdanisko of the Teutonic castle, a tower on a brick arch."
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Teutonic_Knights_castle_in_Torun_(10).jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "Start at the south-east corner of the town hall, by the Copernicus monument, and hold the red stamp in the app up against the corner.",
+          "de": "Start at the south-east corner of the town hall, by the Copernicus monument, and hold the red stamp in the app up against the corner.",
+          "fr": "Start at the south-east corner of the town hall, by the Copernicus monument, and hold the red stamp in the app up against the corner.",
+          "it": "Start at the south-east corner of the town hall, by the Copernicus monument, and hold the red stamp in the app up against the corner.",
+          "nl": "Start at the south-east corner of the town hall, by the Copernicus monument, and hold the red stamp in the app up against the corner.",
+          "pl": "Zacznij przy południowo-wschodnim narożniku ratusza, obok pomnika Kopernika, i porównaj ten narożnik z czerwonym znaczkiem otwartym w aplikacji.",
+          "cs": "Start at the south-east corner of the town hall, by the Copernicus monument, and hold the red stamp in the app up against the corner.",
+          "sk": "Start at the south-east corner of the town hall, by the Copernicus monument, and hold the red stamp in the app up against the corner.",
+          "ro": "Start at the south-east corner of the town hall, by the Copernicus monument, and hold the red stamp in the app up against the corner.",
+          "hu": "Start at the south-east corner of the town hall, by the Copernicus monument, and hold the red stamp in the app up against the corner.",
+          "da": "Start at the south-east corner of the town hall, by the Copernicus monument, and hold the red stamp in the app up against the corner."
+        },
+        {
+          "en": "Walk round to the foot of the tower and look for the smoke-blackened bricks of 1703 in its lower part. Then go up the tower to the observation deck, where the view goes over the roofs of the old town to the cathedral of St John and the Vistula.",
+          "de": "Walk round to the foot of the tower and look for the smoke-blackened bricks of 1703 in its lower part. Then go up the tower to the observation deck, where the view goes over the roofs of the old town to the cathedral of St John and the Vistula.",
+          "fr": "Walk round to the foot of the tower and look for the smoke-blackened bricks of 1703 in its lower part. Then go up the tower to the observation deck, where the view goes over the roofs of the old town to the cathedral of St John and the Vistula.",
+          "it": "Walk round to the foot of the tower and look for the smoke-blackened bricks of 1703 in its lower part. Then go up the tower to the observation deck, where the view goes over the roofs of the old town to the cathedral of St John and the Vistula.",
+          "nl": "Walk round to the foot of the tower and look for the smoke-blackened bricks of 1703 in its lower part. Then go up the tower to the observation deck, where the view goes over the roofs of the old town to the cathedral of St John and the Vistula.",
+          "pl": "Obejdź budynek do podnóża wieży i poszukaj na dole cegieł osmalonych w 1703 roku. Potem wejdź na taras widokowy na wieży, skąd ponad dachami starówki widać katedrę św. Jana i Wisłę.",
+          "cs": "Walk round to the foot of the tower and look for the smoke-blackened bricks of 1703 in its lower part. Then go up the tower to the observation deck, where the view goes over the roofs of the old town to the cathedral of St John and the Vistula.",
+          "sk": "Walk round to the foot of the tower and look for the smoke-blackened bricks of 1703 in its lower part. Then go up the tower to the observation deck, where the view goes over the roofs of the old town to the cathedral of St John and the Vistula.",
+          "ro": "Walk round to the foot of the tower and look for the smoke-blackened bricks of 1703 in its lower part. Then go up the tower to the observation deck, where the view goes over the roofs of the old town to the cathedral of St John and the Vistula.",
+          "hu": "Walk round to the foot of the tower and look for the smoke-blackened bricks of 1703 in its lower part. Then go up the tower to the observation deck, where the view goes over the roofs of the old town to the cathedral of St John and the Vistula.",
+          "da": "Walk round to the foot of the tower and look for the smoke-blackened bricks of 1703 in its lower part. Then go up the tower to the observation deck, where the view goes over the roofs of the old town to the cathedral of St John and the Vistula."
+        },
+        {
+          "en": "In the same letter Chopin wrote that nothing beat Toruń's gingerbread. The Muzeum Toruńskiego Piernika fills the former gingerbread factory of Gustav Weese on ulica Strumykowa. Its baking workshop starts on the hour. The private Żywe Muzeum Piernika on ulica Rabiańska has a show in which you bake and decorate your own gingerbread.",
+          "de": "In the same letter Chopin wrote that nothing beat Toruń's gingerbread. The Muzeum Toruńskiego Piernika fills the former gingerbread factory of Gustav Weese on ulica Strumykowa. Its baking workshop starts on the hour. The private Żywe Muzeum Piernika on ulica Rabiańska has a show in which you bake and decorate your own gingerbread.",
+          "fr": "In the same letter Chopin wrote that nothing beat Toruń's gingerbread. The Muzeum Toruńskiego Piernika fills the former gingerbread factory of Gustav Weese on ulica Strumykowa. Its baking workshop starts on the hour. The private Żywe Muzeum Piernika on ulica Rabiańska has a show in which you bake and decorate your own gingerbread.",
+          "it": "In the same letter Chopin wrote that nothing beat Toruń's gingerbread. The Muzeum Toruńskiego Piernika fills the former gingerbread factory of Gustav Weese on ulica Strumykowa. Its baking workshop starts on the hour. The private Żywe Muzeum Piernika on ulica Rabiańska has a show in which you bake and decorate your own gingerbread.",
+          "nl": "In the same letter Chopin wrote that nothing beat Toruń's gingerbread. The Muzeum Toruńskiego Piernika fills the former gingerbread factory of Gustav Weese on ulica Strumykowa. Its baking workshop starts on the hour. The private Żywe Muzeum Piernika on ulica Rabiańska has a show in which you bake and decorate your own gingerbread.",
+          "pl": "W tym samym liście Chopin napisał, że nic nie dorównuje toruńskim piernikom. Muzeum Toruńskiego Piernika mieści się w dawnej fabryce pierników Gustava Weesego przy ulicy Strumykowej. Warsztaty wypieku zaczynają się o każdej pełnej godzinie. Prywatne Żywe Muzeum Piernika przy ulicy Rabiańskiej ma pokaz, podczas którego samodzielnie pieczesz i zdobisz własny piernik.",
+          "cs": "In the same letter Chopin wrote that nothing beat Toruń's gingerbread. The Muzeum Toruńskiego Piernika fills the former gingerbread factory of Gustav Weese on ulica Strumykowa. Its baking workshop starts on the hour. The private Żywe Muzeum Piernika on ulica Rabiańska has a show in which you bake and decorate your own gingerbread.",
+          "sk": "In the same letter Chopin wrote that nothing beat Toruń's gingerbread. The Muzeum Toruńskiego Piernika fills the former gingerbread factory of Gustav Weese on ulica Strumykowa. Its baking workshop starts on the hour. The private Żywe Muzeum Piernika on ulica Rabiańska has a show in which you bake and decorate your own gingerbread.",
+          "ro": "In the same letter Chopin wrote that nothing beat Toruń's gingerbread. The Muzeum Toruńskiego Piernika fills the former gingerbread factory of Gustav Weese on ulica Strumykowa. Its baking workshop starts on the hour. The private Żywe Muzeum Piernika on ulica Rabiańska has a show in which you bake and decorate your own gingerbread.",
+          "hu": "In the same letter Chopin wrote that nothing beat Toruń's gingerbread. The Muzeum Toruńskiego Piernika fills the former gingerbread factory of Gustav Weese on ulica Strumykowa. Its baking workshop starts on the hour. The private Żywe Muzeum Piernika on ulica Rabiańska has a show in which you bake and decorate your own gingerbread.",
+          "da": "In the same letter Chopin wrote that nothing beat Toruń's gingerbread. The Muzeum Toruńskiego Piernika fills the former gingerbread factory of Gustav Weese on ulica Strumykowa. Its baking workshop starts on the hour. The private Żywe Muzeum Piernika on ulica Rabiańska has a show in which you bake and decorate your own gingerbread."
+        },
+        {
+          "en": "The ruins of the castle of the Teutonic Order lie between the Old Town and the New Town. Their gdanisko still stands, a latrine tower on a brick arch from the early 14th century.",
+          "de": "The ruins of the castle of the Teutonic Order lie between the Old Town and the New Town. Their gdanisko still stands, a latrine tower on a brick arch from the early 14th century.",
+          "fr": "The ruins of the castle of the Teutonic Order lie between the Old Town and the New Town. Their gdanisko still stands, a latrine tower on a brick arch from the early 14th century.",
+          "it": "The ruins of the castle of the Teutonic Order lie between the Old Town and the New Town. Their gdanisko still stands, a latrine tower on a brick arch from the early 14th century.",
+          "nl": "The ruins of the castle of the Teutonic Order lie between the Old Town and the New Town. Their gdanisko still stands, a latrine tower on a brick arch from the early 14th century.",
+          "pl": "Ruiny zamku krzyżackiego leżą między Starym a Nowym Miastem. Zachowało się gdanisko, wieża latrynowa na ceglanym łuku z początku XIV wieku.",
+          "cs": "The ruins of the castle of the Teutonic Order lie between the Old Town and the New Town. Their gdanisko still stands, a latrine tower on a brick arch from the early 14th century.",
+          "sk": "The ruins of the castle of the Teutonic Order lie between the Old Town and the New Town. Their gdanisko still stands, a latrine tower on a brick arch from the early 14th century.",
+          "ro": "The ruins of the castle of the Teutonic Order lie between the Old Town and the New Town. Their gdanisko still stands, a latrine tower on a brick arch from the early 14th century.",
+          "hu": "The ruins of the castle of the Teutonic Order lie between the Old Town and the New Town. Their gdanisko still stands, a latrine tower on a brick arch from the early 14th century.",
+          "da": "The ruins of the castle of the Teutonic Order lie between the Old Town and the New Town. Their gdanisko still stands, a latrine tower on a brick arch from the early 14th century."
+        }
+      ]
+    },
+    {
+      "id": "practical",
+      "rows": [
+        {
+          "label": {
+            "en": "Town hall",
+            "de": "Town hall",
+            "fr": "Town hall",
+            "it": "Town hall",
+            "nl": "Town hall",
+            "pl": "Ratusz",
+            "cs": "Town hall",
+            "sk": "Town hall",
+            "ro": "Town hall",
+            "hu": "Town hall",
+            "da": "Town hall"
+          },
+          "value": {
+            "en": "Rynek Staromiejski 1, 87-100 Toruń; exhibitions Tuesday to Sunday 10:00 to 16:00, last entry 30 minutes before closing; +48 56 660 56 80",
+            "de": "Rynek Staromiejski 1, 87-100 Toruń; exhibitions Tuesday to Sunday 10:00 to 16:00, last entry 30 minutes before closing; +48 56 660 56 80",
+            "fr": "Rynek Staromiejski 1, 87-100 Toruń; exhibitions Tuesday to Sunday 10:00 to 16:00, last entry 30 minutes before closing; +48 56 660 56 80",
+            "it": "Rynek Staromiejski 1, 87-100 Toruń; exhibitions Tuesday to Sunday 10:00 to 16:00, last entry 30 minutes before closing; +48 56 660 56 80",
+            "nl": "Rynek Staromiejski 1, 87-100 Toruń; exhibitions Tuesday to Sunday 10:00 to 16:00, last entry 30 minutes before closing; +48 56 660 56 80",
+            "pl": "Rynek Staromiejski 1, 87-100 Toruń; wystawy od wtorku do niedzieli od 10:00 do 16:00, ostatnie wejście 30 minut przed zamknięciem; +48 56 660 56 80",
+            "cs": "Rynek Staromiejski 1, 87-100 Toruń; exhibitions Tuesday to Sunday 10:00 to 16:00, last entry 30 minutes before closing; +48 56 660 56 80",
+            "sk": "Rynek Staromiejski 1, 87-100 Toruń; exhibitions Tuesday to Sunday 10:00 to 16:00, last entry 30 minutes before closing; +48 56 660 56 80",
+            "ro": "Rynek Staromiejski 1, 87-100 Toruń; exhibitions Tuesday to Sunday 10:00 to 16:00, last entry 30 minutes before closing; +48 56 660 56 80",
+            "hu": "Rynek Staromiejski 1, 87-100 Toruń; exhibitions Tuesday to Sunday 10:00 to 16:00, last entry 30 minutes before closing; +48 56 660 56 80",
+            "da": "Rynek Staromiejski 1, 87-100 Toruń; exhibitions Tuesday to Sunday 10:00 to 16:00, last entry 30 minutes before closing; +48 56 660 56 80"
+          }
+        },
+        {
+          "label": {
+            "en": "Town hall tower",
+            "de": "Town hall tower",
+            "fr": "Town hall tower",
+            "it": "Town hall tower",
+            "nl": "Town hall tower",
+            "pl": "Wieża ratusza",
+            "cs": "Town hall tower",
+            "sk": "Town hall tower",
+            "ro": "Town hall tower",
+            "hu": "Town hall tower",
+            "da": "Town hall tower"
+          },
+          "value": {
+            "en": "Daily; in October 10:00 to 18:00, from 1 November 10:00 to 16:00",
+            "de": "Daily; in October 10:00 to 18:00, from 1 November 10:00 to 16:00",
+            "fr": "Daily; in October 10:00 to 18:00, from 1 November 10:00 to 16:00",
+            "it": "Daily; in October 10:00 to 18:00, from 1 November 10:00 to 16:00",
+            "nl": "Daily; in October 10:00 to 18:00, from 1 November 10:00 to 16:00",
+            "pl": "Codziennie; w październiku od 10:00 do 18:00, od 1 listopada od 10:00 do 16:00",
+            "cs": "Daily; in October 10:00 to 18:00, from 1 November 10:00 to 16:00",
+            "sk": "Daily; in October 10:00 to 18:00, from 1 November 10:00 to 16:00",
+            "ro": "Daily; in October 10:00 to 18:00, from 1 November 10:00 to 16:00",
+            "hu": "Daily; in October 10:00 to 18:00, from 1 November 10:00 to 16:00",
+            "da": "Daily; in October 10:00 to 18:00, from 1 November 10:00 to 16:00"
+          }
+        },
+        {
+          "label": {
+            "en": "Tickets, town hall",
+            "de": "Tickets, town hall",
+            "fr": "Tickets, town hall",
+            "it": "Tickets, town hall",
+            "nl": "Tickets, town hall",
+            "pl": "Bilety, ratusz",
+            "cs": "Tickets, town hall",
+            "sk": "Tickets, town hall",
+            "ro": "Tickets, town hall",
+            "hu": "Tickets, town hall",
+            "da": "Tickets, town hall"
+          },
+          "value": {
+            "en": "Exhibitions 32 zł, reduced 27 zł; tower 29 zł, reduced 26 zł; both 52 zł, reduced 42 zł; Wednesdays free entry to the permanent exhibitions",
+            "de": "Exhibitions 32 zł, reduced 27 zł; tower 29 zł, reduced 26 zł; both 52 zł, reduced 42 zł; Wednesdays free entry to the permanent exhibitions",
+            "fr": "Exhibitions 32 zł, reduced 27 zł; tower 29 zł, reduced 26 zł; both 52 zł, reduced 42 zł; Wednesdays free entry to the permanent exhibitions",
+            "it": "Exhibitions 32 zł, reduced 27 zł; tower 29 zł, reduced 26 zł; both 52 zł, reduced 42 zł; Wednesdays free entry to the permanent exhibitions",
+            "nl": "Exhibitions 32 zł, reduced 27 zł; tower 29 zł, reduced 26 zł; both 52 zł, reduced 42 zł; Wednesdays free entry to the permanent exhibitions",
+            "pl": "Wystawy 32 zł, ulgowy 27 zł; wieża 29 zł, ulgowy 26 zł; wystawy i wieża 52 zł, ulgowy 42 zł; w środy wstęp na wystawy stałe bezpłatny",
+            "cs": "Exhibitions 32 zł, reduced 27 zł; tower 29 zł, reduced 26 zł; both 52 zł, reduced 42 zł; Wednesdays free entry to the permanent exhibitions",
+            "sk": "Exhibitions 32 zł, reduced 27 zł; tower 29 zł, reduced 26 zł; both 52 zł, reduced 42 zł; Wednesdays free entry to the permanent exhibitions",
+            "ro": "Exhibitions 32 zł, reduced 27 zł; tower 29 zł, reduced 26 zł; both 52 zł, reduced 42 zł; Wednesdays free entry to the permanent exhibitions",
+            "hu": "Exhibitions 32 zł, reduced 27 zł; tower 29 zł, reduced 26 zł; both 52 zł, reduced 42 zł; Wednesdays free entry to the permanent exhibitions",
+            "da": "Exhibitions 32 zł, reduced 27 zł; tower 29 zł, reduced 26 zł; both 52 zł, reduced 42 zł; Wednesdays free entry to the permanent exhibitions"
+          }
+        },
+        {
+          "label": {
+            "en": "Muzeum Toruńskiego Piernika",
+            "de": "Muzeum Toruńskiego Piernika",
+            "fr": "Muzeum Toruńskiego Piernika",
+            "it": "Muzeum Toruńskiego Piernika",
+            "nl": "Muzeum Toruńskiego Piernika",
+            "pl": "Muzeum Toruńskiego Piernika",
+            "cs": "Muzeum Toruńskiego Piernika",
+            "sk": "Muzeum Toruńskiego Piernika",
+            "ro": "Muzeum Toruńskiego Piernika",
+            "hu": "Muzeum Toruńskiego Piernika",
+            "da": "Muzeum Toruńskiego Piernika"
+          },
+          "value": {
+            "en": "ul. Strumykowa 4; Tuesday to Sunday 10:00 to 16:00; exhibitions and baking workshop, Wednesday to Sunday, 52 zł, reduced 46 zł; workshop only, on Tuesday, 33 zł, reduced 28 zł",
+            "de": "ul. Strumykowa 4; Tuesday to Sunday 10:00 to 16:00; exhibitions and baking workshop, Wednesday to Sunday, 52 zł, reduced 46 zł; workshop only, on Tuesday, 33 zł, reduced 28 zł",
+            "fr": "ul. Strumykowa 4; Tuesday to Sunday 10:00 to 16:00; exhibitions and baking workshop, Wednesday to Sunday, 52 zł, reduced 46 zł; workshop only, on Tuesday, 33 zł, reduced 28 zł",
+            "it": "ul. Strumykowa 4; Tuesday to Sunday 10:00 to 16:00; exhibitions and baking workshop, Wednesday to Sunday, 52 zł, reduced 46 zł; workshop only, on Tuesday, 33 zł, reduced 28 zł",
+            "nl": "ul. Strumykowa 4; Tuesday to Sunday 10:00 to 16:00; exhibitions and baking workshop, Wednesday to Sunday, 52 zł, reduced 46 zł; workshop only, on Tuesday, 33 zł, reduced 28 zł",
+            "pl": "ul. Strumykowa 4; od wtorku do niedzieli od 10:00 do 16:00; wystawy i warsztat wypieku, od środy do niedzieli, 52 zł, ulgowy 46 zł; sam warsztat, we wtorek, 33 zł, ulgowy 28 zł",
+            "cs": "ul. Strumykowa 4; Tuesday to Sunday 10:00 to 16:00; exhibitions and baking workshop, Wednesday to Sunday, 52 zł, reduced 46 zł; workshop only, on Tuesday, 33 zł, reduced 28 zł",
+            "sk": "ul. Strumykowa 4; Tuesday to Sunday 10:00 to 16:00; exhibitions and baking workshop, Wednesday to Sunday, 52 zł, reduced 46 zł; workshop only, on Tuesday, 33 zł, reduced 28 zł",
+            "ro": "ul. Strumykowa 4; Tuesday to Sunday 10:00 to 16:00; exhibitions and baking workshop, Wednesday to Sunday, 52 zł, reduced 46 zł; workshop only, on Tuesday, 33 zł, reduced 28 zł",
+            "hu": "ul. Strumykowa 4; Tuesday to Sunday 10:00 to 16:00; exhibitions and baking workshop, Wednesday to Sunday, 52 zł, reduced 46 zł; workshop only, on Tuesday, 33 zł, reduced 28 zł",
+            "da": "ul. Strumykowa 4; Tuesday to Sunday 10:00 to 16:00; exhibitions and baking workshop, Wednesday to Sunday, 52 zł, reduced 46 zł; workshop only, on Tuesday, 33 zł, reduced 28 zł"
+          }
+        },
+        {
+          "label": {
+            "en": "Żywe Muzeum Piernika",
+            "de": "Żywe Muzeum Piernika",
+            "fr": "Żywe Muzeum Piernika",
+            "it": "Żywe Muzeum Piernika",
+            "nl": "Żywe Muzeum Piernika",
+            "pl": "Żywe Muzeum Piernika",
+            "cs": "Żywe Muzeum Piernika",
+            "sk": "Żywe Muzeum Piernika",
+            "ro": "Żywe Muzeum Piernika",
+            "hu": "Żywe Muzeum Piernika",
+            "da": "Żywe Muzeum Piernika"
+          },
+          "value": {
+            "en": "ul. Rabiańska 9; daily 10:00 to 18:00, last show at 17:00; 42 zł, reduced 37 zł",
+            "de": "ul. Rabiańska 9; daily 10:00 to 18:00, last show at 17:00; 42 zł, reduced 37 zł",
+            "fr": "ul. Rabiańska 9; daily 10:00 to 18:00, last show at 17:00; 42 zł, reduced 37 zł",
+            "it": "ul. Rabiańska 9; daily 10:00 to 18:00, last show at 17:00; 42 zł, reduced 37 zł",
+            "nl": "ul. Rabiańska 9; daily 10:00 to 18:00, last show at 17:00; 42 zł, reduced 37 zł",
+            "pl": "ul. Rabiańska 9; codziennie od 10:00 do 18:00, ostatni pokaz o 17:00; 42 zł, ulgowy 37 zł",
+            "cs": "ul. Rabiańska 9; daily 10:00 to 18:00, last show at 17:00; 42 zł, reduced 37 zł",
+            "sk": "ul. Rabiańska 9; daily 10:00 to 18:00, last show at 17:00; 42 zł, reduced 37 zł",
+            "ro": "ul. Rabiańska 9; daily 10:00 to 18:00, last show at 17:00; 42 zł, reduced 37 zł",
+            "hu": "ul. Rabiańska 9; daily 10:00 to 18:00, last show at 17:00; 42 zł, reduced 37 zł",
+            "da": "ul. Rabiańska 9; daily 10:00 to 18:00, last show at 17:00; 42 zł, reduced 37 zł"
+          }
+        },
+        {
+          "label": {
+            "en": "Castle",
+            "de": "Castle",
+            "fr": "Castle",
+            "it": "Castle",
+            "nl": "Castle",
+            "pl": "Zamek",
+            "cs": "Castle",
+            "sk": "Castle",
+            "ro": "Castle",
+            "hu": "Castle",
+            "da": "Castle"
+          },
+          "value": {
+            "en": "ul. Przedzamcze 3; Monday to Friday 10:00 to 16:00, Saturday and Sunday 10:00 to 18:00; 22 zł, students and children 12 zł",
+            "de": "ul. Przedzamcze 3; Monday to Friday 10:00 to 16:00, Saturday and Sunday 10:00 to 18:00; 22 zł, students and children 12 zł",
+            "fr": "ul. Przedzamcze 3; Monday to Friday 10:00 to 16:00, Saturday and Sunday 10:00 to 18:00; 22 zł, students and children 12 zł",
+            "it": "ul. Przedzamcze 3; Monday to Friday 10:00 to 16:00, Saturday and Sunday 10:00 to 18:00; 22 zł, students and children 12 zł",
+            "nl": "ul. Przedzamcze 3; Monday to Friday 10:00 to 16:00, Saturday and Sunday 10:00 to 18:00; 22 zł, students and children 12 zł",
+            "pl": "ul. Przedzamcze 3; od poniedziałku do piątku od 10:00 do 16:00, w sobotę i niedzielę od 10:00 do 18:00; 22 zł, studenci i dzieci 12 zł",
+            "cs": "ul. Przedzamcze 3; Monday to Friday 10:00 to 16:00, Saturday and Sunday 10:00 to 18:00; 22 zł, students and children 12 zł",
+            "sk": "ul. Przedzamcze 3; Monday to Friday 10:00 to 16:00, Saturday and Sunday 10:00 to 18:00; 22 zł, students and children 12 zł",
+            "ro": "ul. Przedzamcze 3; Monday to Friday 10:00 to 16:00, Saturday and Sunday 10:00 to 18:00; 22 zł, students and children 12 zł",
+            "hu": "ul. Przedzamcze 3; Monday to Friday 10:00 to 16:00, Saturday and Sunday 10:00 to 18:00; 22 zł, students and children 12 zł",
+            "da": "ul. Przedzamcze 3; Monday to Friday 10:00 to 16:00, Saturday and Sunday 10:00 to 18:00; 22 zł, students and children 12 zł"
+          }
+        },
+        {
+          "label": {
+            "en": "Closed",
+            "de": "Closed",
+            "fr": "Closed",
+            "it": "Closed",
+            "nl": "Closed",
+            "pl": "Zamknięte",
+            "cs": "Closed",
+            "sk": "Closed",
+            "ro": "Closed",
+            "hu": "Closed",
+            "da": "Closed"
+          },
+          "value": {
+            "en": "Sunday 1 November; the town hall and the gingerbread museum of the town museum also on Mondays",
+            "de": "Sunday 1 November; the town hall and the gingerbread museum of the town museum also on Mondays",
+            "fr": "Sunday 1 November; the town hall and the gingerbread museum of the town museum also on Mondays",
+            "it": "Sunday 1 November; the town hall and the gingerbread museum of the town museum also on Mondays",
+            "nl": "Sunday 1 November; the town hall and the gingerbread museum of the town museum also on Mondays",
+            "pl": "Niedziela 1 listopada; ratusz i Muzeum Toruńskiego Piernika, należące do muzeum okręgowego, także w poniedziałki",
+            "cs": "Sunday 1 November; the town hall and the gingerbread museum of the town museum also on Mondays",
+            "sk": "Sunday 1 November; the town hall and the gingerbread museum of the town museum also on Mondays",
+            "ro": "Sunday 1 November; the town hall and the gingerbread museum of the town museum also on Mondays",
+            "hu": "Sunday 1 November; the town hall and the gingerbread museum of the town museum also on Mondays",
+            "da": "Sunday 1 November; the town hall and the gingerbread museum of the town museum also on Mondays"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "Practical",
+        "de": "Practical",
+        "fr": "Practical",
+        "it": "Practical",
+        "nl": "Practical",
+        "pl": "Praktycznie",
+        "cs": "Practical",
+        "sk": "Practical",
+        "ro": "Practical",
+        "hu": "Practical",
+        "da": "Practical"
+      },
+      "title": {
+        "en": "Opening times and tickets",
+        "de": "Opening times and tickets",
+        "fr": "Opening times and tickets",
+        "it": "Opening times and tickets",
+        "nl": "Opening times and tickets",
+        "pl": "Godziny otwarcia i bilety",
+        "cs": "Opening times and tickets",
+        "sk": "Opening times and tickets",
+        "ro": "Opening times and tickets",
+        "hu": "Opening times and tickets",
+        "da": "Opening times and tickets"
+      },
+      "buttons": [
+        {
+          "href": "https://muzeum.torun.pl/ratusz-staromiejski/",
+          "label": {
+            "en": "Muzeum Okręgowe w Toruniu",
+            "de": "Muzeum Okręgowe w Toruniu",
+            "fr": "Muzeum Okręgowe w Toruniu",
+            "it": "Muzeum Okręgowe w Toruniu",
+            "nl": "Muzeum Okręgowe w Toruniu",
+            "pl": "Muzeum Okręgowe w Toruniu",
+            "cs": "Muzeum Okręgowe w Toruniu",
+            "sk": "Muzeum Okręgowe w Toruniu",
+            "ro": "Muzeum Okręgowe w Toruniu",
+            "hu": "Muzeum Okręgowe w Toruniu",
+            "da": "Muzeum Okręgowe w Toruniu"
+          }
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "type": "tiles",
+      "label": {
+        "en": "How to get there",
+        "de": "How to get there",
+        "fr": "How to get there",
+        "it": "How to get there",
+        "nl": "How to get there",
+        "pl": "Dojazd",
+        "cs": "How to get there",
+        "sk": "How to get there",
+        "ro": "How to get there",
+        "hu": "How to get there",
+        "da": "How to get there"
+      },
+      "tiles": [
+        {
+          "icon": "train",
+          "text": {
+            "en": "Trains from Warszawa Centralna arrive at Toruń Główny, on the south bank of the Vistula, about 1.3 kilometres in a straight line from the town hall.",
+            "de": "Trains from Warszawa Centralna arrive at Toruń Główny, on the south bank of the Vistula, about 1.3 kilometres in a straight line from the town hall.",
+            "fr": "Trains from Warszawa Centralna arrive at Toruń Główny, on the south bank of the Vistula, about 1.3 kilometres in a straight line from the town hall.",
+            "it": "Trains from Warszawa Centralna arrive at Toruń Główny, on the south bank of the Vistula, about 1.3 kilometres in a straight line from the town hall.",
+            "nl": "Trains from Warszawa Centralna arrive at Toruń Główny, on the south bank of the Vistula, about 1.3 kilometres in a straight line from the town hall.",
+            "pl": "Pociągi z Warszawy Centralnej dojeżdżają do dworca Toruń Główny na południowym brzegu Wisły, około 1,3 kilometra w linii prostej od ratusza.",
+            "cs": "Trains from Warszawa Centralna arrive at Toruń Główny, on the south bank of the Vistula, about 1.3 kilometres in a straight line from the town hall.",
+            "sk": "Trains from Warszawa Centralna arrive at Toruń Główny, on the south bank of the Vistula, about 1.3 kilometres in a straight line from the town hall.",
+            "ro": "Trains from Warszawa Centralna arrive at Toruń Główny, on the south bank of the Vistula, about 1.3 kilometres in a straight line from the town hall.",
+            "hu": "Trains from Warszawa Centralna arrive at Toruń Główny, on the south bank of the Vistula, about 1.3 kilometres in a straight line from the town hall.",
+            "da": "Trains from Warszawa Centralna arrive at Toruń Główny, on the south bank of the Vistula, about 1.3 kilometres in a straight line from the town hall."
+          },
+          "title": {
+            "en": "By train",
+            "de": "By train",
+            "fr": "By train",
+            "it": "By train",
+            "nl": "By train",
+            "pl": "Pociągiem",
+            "cs": "By train",
+            "sk": "By train",
+            "ro": "By train",
+            "hu": "By train",
+            "da": "By train"
+          }
+        },
+        {
+          "icon": "car",
+          "text": {
+            "en": "Parking in the old town is in a paid zone.",
+            "de": "Parking in the old town is in a paid zone.",
+            "fr": "Parking in the old town is in a paid zone.",
+            "it": "Parking in the old town is in a paid zone.",
+            "nl": "Parking in the old town is in a paid zone.",
+            "pl": "Starówka leży w strefie płatnego parkowania.",
+            "cs": "Parking in the old town is in a paid zone.",
+            "sk": "Parking in the old town is in a paid zone.",
+            "ro": "Parking in the old town is in a paid zone.",
+            "hu": "Parking in the old town is in a paid zone.",
+            "da": "Parking in the old town is in a paid zone."
+          },
+          "title": {
+            "en": "By car",
+            "de": "By car",
+            "fr": "By car",
+            "it": "By car",
+            "nl": "By car",
+            "pl": "Samochodem",
+            "cs": "By car",
+            "sk": "By car",
+            "ro": "By car",
+            "hu": "By car",
+            "da": "By car"
+          }
+        }
+      ],
+      "title": {
+        "en": "Train and car",
+        "de": "Train and car",
+        "fr": "Train and car",
+        "it": "Train and car",
+        "nl": "Train and car",
+        "pl": "Pociąg i samochód",
+        "cs": "Train and car",
+        "sk": "Train and car",
+        "ro": "Train and car",
+        "hu": "Train and car",
+        "da": "Train and car"
+      }
+    },
+    {
+      "id": "season",
+      "text": {
+        "en": "The town hall, all branches of the town museum and the castle are closed on Sunday 1 November. The town hall tower closes at 16:00 from that day.",
+        "de": "The town hall, all branches of the town museum and the castle are closed on Sunday 1 November. The town hall tower closes at 16:00 from that day.",
+        "fr": "The town hall, all branches of the town museum and the castle are closed on Sunday 1 November. The town hall tower closes at 16:00 from that day.",
+        "it": "The town hall, all branches of the town museum and the castle are closed on Sunday 1 November. The town hall tower closes at 16:00 from that day.",
+        "nl": "The town hall, all branches of the town museum and the castle are closed on Sunday 1 November. The town hall tower closes at 16:00 from that day.",
+        "pl": "Ratusz, wszystkie oddziały muzeum okręgowego i zamek są zamknięte w niedzielę 1 listopada. Wieża ratusza od tego dnia jest czynna do 16:00.",
+        "cs": "The town hall, all branches of the town museum and the castle are closed on Sunday 1 November. The town hall tower closes at 16:00 from that day.",
+        "sk": "The town hall, all branches of the town museum and the castle are closed on Sunday 1 November. The town hall tower closes at 16:00 from that day.",
+        "ro": "The town hall, all branches of the town museum and the castle are closed on Sunday 1 November. The town hall tower closes at 16:00 from that day.",
+        "hu": "The town hall, all branches of the town museum and the castle are closed on Sunday 1 November. The town hall tower closes at 16:00 from that day.",
+        "da": "The town hall, all branches of the town museum and the castle are closed on Sunday 1 November. The town hall tower closes at 16:00 from that day."
+      },
+      "type": "note"
+    },
+    {
+      "id": "afterwards",
+      "type": "text",
+      "label": {
+        "en": "Afterwards",
+        "de": "Afterwards",
+        "fr": "Afterwards",
+        "it": "Afterwards",
+        "nl": "Afterwards",
+        "pl": "Potem",
+        "cs": "Afterwards",
+        "sk": "Afterwards",
+        "ro": "Afterwards",
+        "hu": "Afterwards",
+        "da": "Afterwards"
+      },
+      "title": {
+        "en": "The castle in Golub-Dobrzyń",
+        "de": "The castle in Golub-Dobrzyń",
+        "fr": "The castle in Golub-Dobrzyń",
+        "it": "The castle in Golub-Dobrzyń",
+        "nl": "The castle in Golub-Dobrzyń",
+        "pl": "Zamek w Golubiu-Dobrzyniu",
+        "cs": "The castle in Golub-Dobrzyń",
+        "sk": "The castle in Golub-Dobrzyń",
+        "ro": "The castle in Golub-Dobrzyń",
+        "hu": "The castle in Golub-Dobrzyń",
+        "da": "The castle in Golub-Dobrzyń"
+      },
+      "visual": {
+        "type": "stamp",
+        "stamp": {
+          "name": {
+            "en": "International Knight Tournaments in Golub-Dobrzyń, 1993",
+            "de": "International Knight Tournaments in Golub-Dobrzyń, 1993",
+            "fr": "International Knight Tournaments in Golub-Dobrzyń, 1993",
+            "it": "International Knight Tournaments in Golub-Dobrzyń, 1993",
+            "nl": "International Knight Tournaments in Golub-Dobrzyń, 1993",
+            "pl": "Międzynarodowe Turnieje Rycerskie w Golubiu-Dobrzyniu, 1993",
+            "cs": "International Knight Tournaments in Golub-Dobrzyń, 1993",
+            "sk": "International Knight Tournaments in Golub-Dobrzyń, 1993",
+            "ro": "International Knight Tournaments in Golub-Dobrzyń, 1993",
+            "hu": "International Knight Tournaments in Golub-Dobrzyń, 1993",
+            "da": "International Knight Tournaments in Golub-Dobrzyń, 1993"
+          },
+          "year": 1993,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/0fd6f0971da42270/torun-stamp-golub-1993.png",
+            "width": 1047,
+            "height": 772
+          },
+          "country": "PL",
+          "stamp_id": "SIQ-PL-1993-014"
+        }
+      },
+      "address": "ul. PTTK 13, 87-400 Golub-Dobrzyń",
+      "paragraphs": [
+        {
+          "en": "The castle of Golub-Dobrzyń stands 32 kilometres east of Toruń in a straight line. Its pin holds four stamps of 1993 for the international knights' tournaments held at the castle. They carry the name F. Winiarski.",
+          "de": "The castle of Golub-Dobrzyń stands 32 kilometres east of Toruń in a straight line. Its pin holds four stamps of 1993 for the international knights' tournaments held at the castle. They carry the name F. Winiarski.",
+          "fr": "The castle of Golub-Dobrzyń stands 32 kilometres east of Toruń in a straight line. Its pin holds four stamps of 1993 for the international knights' tournaments held at the castle. They carry the name F. Winiarski.",
+          "it": "The castle of Golub-Dobrzyń stands 32 kilometres east of Toruń in a straight line. Its pin holds four stamps of 1993 for the international knights' tournaments held at the castle. They carry the name F. Winiarski.",
+          "nl": "The castle of Golub-Dobrzyń stands 32 kilometres east of Toruń in a straight line. Its pin holds four stamps of 1993 for the international knights' tournaments held at the castle. They carry the name F. Winiarski.",
+          "pl": "Zamek w Golubiu-Dobrzyniu stoi 32 kilometry w linii prostej na wschód od Torunia. Przy jego pinezce są cztery znaczki z 1993 roku, poświęcone międzynarodowym turniejom rycerskim na zamku. Widnieje na nich nazwisko F. Winiarski.",
+          "cs": "The castle of Golub-Dobrzyń stands 32 kilometres east of Toruń in a straight line. Its pin holds four stamps of 1993 for the international knights' tournaments held at the castle. They carry the name F. Winiarski.",
+          "sk": "The castle of Golub-Dobrzyń stands 32 kilometres east of Toruń in a straight line. Its pin holds four stamps of 1993 for the international knights' tournaments held at the castle. They carry the name F. Winiarski.",
+          "ro": "The castle of Golub-Dobrzyń stands 32 kilometres east of Toruń in a straight line. Its pin holds four stamps of 1993 for the international knights' tournaments held at the castle. They carry the name F. Winiarski.",
+          "hu": "The castle of Golub-Dobrzyń stands 32 kilometres east of Toruń in a straight line. Its pin holds four stamps of 1993 for the international knights' tournaments held at the castle. They carry the name F. Winiarski.",
+          "da": "The castle of Golub-Dobrzyń stands 32 kilometres east of Toruń in a straight line. Its pin holds four stamps of 1993 for the international knights' tournaments held at the castle. They carry the name F. Winiarski."
+        },
+        {
+          "en": "The castle is run by PTTK. Outside the season it is open from 9:00 to 17:00, with last entry at 16:00. A ticket costs 30 zł, reduced 20 zł. On 1 November the castle can be visited only in part and without a guide.",
+          "de": "The castle is run by PTTK. Outside the season it is open from 9:00 to 17:00, with last entry at 16:00. A ticket costs 30 zł, reduced 20 zł. On 1 November the castle can be visited only in part and without a guide.",
+          "fr": "The castle is run by PTTK. Outside the season it is open from 9:00 to 17:00, with last entry at 16:00. A ticket costs 30 zł, reduced 20 zł. On 1 November the castle can be visited only in part and without a guide.",
+          "it": "The castle is run by PTTK. Outside the season it is open from 9:00 to 17:00, with last entry at 16:00. A ticket costs 30 zł, reduced 20 zł. On 1 November the castle can be visited only in part and without a guide.",
+          "nl": "The castle is run by PTTK. Outside the season it is open from 9:00 to 17:00, with last entry at 16:00. A ticket costs 30 zł, reduced 20 zł. On 1 November the castle can be visited only in part and without a guide.",
+          "pl": "Zamkiem zarządza PTTK. Poza sezonem jest czynny od 9:00 do 17:00, ostatnie wejście o 16:00. Bilet kosztuje 30 zł, ulgowy 20 zł. 1 listopada zamek można zwiedzać tylko częściowo i bez przewodnika.",
+          "cs": "The castle is run by PTTK. Outside the season it is open from 9:00 to 17:00, with last entry at 16:00. A ticket costs 30 zł, reduced 20 zł. On 1 November the castle can be visited only in part and without a guide.",
+          "sk": "The castle is run by PTTK. Outside the season it is open from 9:00 to 17:00, with last entry at 16:00. A ticket costs 30 zł, reduced 20 zł. On 1 November the castle can be visited only in part and without a guide.",
+          "ro": "The castle is run by PTTK. Outside the season it is open from 9:00 to 17:00, with last entry at 16:00. A ticket costs 30 zł, reduced 20 zł. On 1 November the castle can be visited only in part and without a guide.",
+          "hu": "The castle is run by PTTK. Outside the season it is open from 9:00 to 17:00, with last entry at 16:00. A ticket costs 30 zł, reduced 20 zł. On 1 November the castle can be visited only in part and without a guide.",
+          "da": "The castle is run by PTTK. Outside the season it is open from 9:00 to 17:00, with last entry at 16:00. A ticket costs 30 zł, reduced 20 zł. On 1 November the castle can be visited only in part and without a guide."
+        }
+      ]
+    }
+  ]
+}
