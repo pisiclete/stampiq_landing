@@ -1,0 +1,1168 @@
+{
+  "category": "day-trips",
+  "markets": [
+    "NL",
+    "BE",
+    "LU"
+  ],
+  "langs": [
+    "en",
+    "de",
+    "fr",
+    "nl"
+  ],
+  "published_at": "2026-10-30T08:30:00+00:00",
+  "thumbnail": {
+    "src": "https://assets.stampiq.io/blog/846ce498d8ae6bd6/kdk-card.jpg",
+    "width": 1480,
+    "height": 1108
+  },
+  "languages": {
+    "en": {
+      "slug": "day-trip-kinderdijk-mills",
+      "title": "Day trip: the mills of Kinderdijk",
+      "description": "A 2014 stamp shows the mills of Kinderdijk. How to visit them in November, with the Blokweer of 1630, the Wisboom pumping station and Dordrecht."
+    },
+    "de": {
+      "slug": "tagesausflug-muehlen-von-kinderdijk",
+      "title": "Tagesausflug: die Mühlen von Kinderdijk",
+      "description": "Eine Marke von 2014 zeigt die Mühlen von Kinderdijk. Wie du sie im November besuchst, mit der Blokweer von 1630, dem Schöpfwerk Wisboom und Dordrecht."
+    },
+    "fr": {
+      "slug": "excursion-aux-moulins-de-kinderdijk",
+      "title": "Excursion : les moulins de Kinderdijk",
+      "description": "Un timbre de 2014 montre les moulins de Kinderdijk. Comment les visiter en novembre, avec le Blokweer de 1630, la station de pompage Wisboom et Dordrecht."
+    },
+    "it": {
+      "slug": "day-trip-kinderdijk-mills",
+      "title": "Day trip: the mills of Kinderdijk",
+      "description": "A 2014 stamp shows the mills of Kinderdijk. How to visit them in November, with the Blokweer of 1630, the Wisboom pumping station and Dordrecht."
+    },
+    "nl": {
+      "slug": "dagtrip-molens-van-kinderdijk",
+      "title": "Dagtrip: de molens van Kinderdijk",
+      "description": "Een postzegel uit 2014 toont de molens van Kinderdijk. Hoe je ze in november bezoekt, met de Blokweer uit 1630, gemaal Wisboom en Dordrecht."
+    },
+    "pl": {
+      "slug": "day-trip-kinderdijk-mills",
+      "title": "Day trip: the mills of Kinderdijk",
+      "description": "A 2014 stamp shows the mills of Kinderdijk. How to visit them in November, with the Blokweer of 1630, the Wisboom pumping station and Dordrecht."
+    },
+    "cs": {
+      "slug": "day-trip-kinderdijk-mills",
+      "title": "Day trip: the mills of Kinderdijk",
+      "description": "A 2014 stamp shows the mills of Kinderdijk. How to visit them in November, with the Blokweer of 1630, the Wisboom pumping station and Dordrecht."
+    },
+    "sk": {
+      "slug": "day-trip-kinderdijk-mills",
+      "title": "Day trip: the mills of Kinderdijk",
+      "description": "A 2014 stamp shows the mills of Kinderdijk. How to visit them in November, with the Blokweer of 1630, the Wisboom pumping station and Dordrecht."
+    },
+    "ro": {
+      "slug": "day-trip-kinderdijk-mills",
+      "title": "Day trip: the mills of Kinderdijk",
+      "description": "A 2014 stamp shows the mills of Kinderdijk. How to visit them in November, with the Blokweer of 1630, the Wisboom pumping station and Dordrecht."
+    },
+    "hu": {
+      "slug": "day-trip-kinderdijk-mills",
+      "title": "Day trip: the mills of Kinderdijk",
+      "description": "A 2014 stamp shows the mills of Kinderdijk. How to visit them in November, with the Blokweer of 1630, the Wisboom pumping station and Dordrecht."
+    },
+    "da": {
+      "slug": "day-trip-kinderdijk-mills",
+      "title": "Day trip: the mills of Kinderdijk",
+      "description": "A 2014 stamp shows the mills of Kinderdijk. How to visit them in November, with the Blokweer of 1630, the Wisboom pumping station and Dordrecht."
+    }
+  },
+  "header": {
+    "lead": {
+      "en": "About 60 people live in 16 of the 19 mills of Kinderdijk, a World Heritage site on a Dutch stamp of 2014. In November 2018 they handed tourists a postcard that read \"600,000 visitors a year. Sixty residents\".",
+      "de": "Rund 60 Menschen wohnen in 16 der 19 Mühlen von Kinderdijk, dem Welterbe auf einer niederländischen Briefmarke von 2014. Im November 2018 verteilten sie an Touristen eine Postkarte mit dem Satz „600,000 visitors a year. Sixty residents“.",
+      "fr": "Une soixantaine de personnes vivent dans 16 des 19 moulins de Kinderdijk, site du patrimoine mondial qui figure sur un timbre néerlandais de 2014. En novembre 2018, elles ont distribué aux touristes une carte postale sur laquelle on pouvait lire : « 600,000 visitors a year. Sixty residents ».",
+      "it": "About 60 people live in 16 of the 19 mills of Kinderdijk, a World Heritage site on a Dutch stamp of 2014. In November 2018 they handed tourists a postcard that read \"600,000 visitors a year. Sixty residents\".",
+      "nl": "In 16 van de 19 molens van Kinderdijk wonen ongeveer 60 mensen. Het molencomplex is werelderfgoed en staat op een Nederlandse postzegel uit 2014. In november 2018 kregen toeristen van de bewoners een ansichtkaart met de tekst „600,000 visitors a year. Sixty residents”.",
+      "pl": "About 60 people live in 16 of the 19 mills of Kinderdijk, a World Heritage site on a Dutch stamp of 2014. In November 2018 they handed tourists a postcard that read \"600,000 visitors a year. Sixty residents\".",
+      "cs": "About 60 people live in 16 of the 19 mills of Kinderdijk, a World Heritage site on a Dutch stamp of 2014. In November 2018 they handed tourists a postcard that read \"600,000 visitors a year. Sixty residents\".",
+      "sk": "About 60 people live in 16 of the 19 mills of Kinderdijk, a World Heritage site on a Dutch stamp of 2014. In November 2018 they handed tourists a postcard that read \"600,000 visitors a year. Sixty residents\".",
+      "ro": "About 60 people live in 16 of the 19 mills of Kinderdijk, a World Heritage site on a Dutch stamp of 2014. In November 2018 they handed tourists a postcard that read \"600,000 visitors a year. Sixty residents\".",
+      "hu": "About 60 people live in 16 of the 19 mills of Kinderdijk, a World Heritage site on a Dutch stamp of 2014. In November 2018 they handed tourists a postcard that read \"600,000 visitors a year. Sixty residents\".",
+      "da": "About 60 people live in 16 of the 19 mills of Kinderdijk, a World Heritage site on a Dutch stamp of 2014. In November 2018 they handed tourists a postcard that read \"600,000 visitors a year. Sixty residents\"."
+    },
+    "visual": {
+      "type": "stamp",
+      "stamp": {
+        "name": {
+          "en": "Kinderdijk Windmills, UNESCO World Heritage Site",
+          "de": "Mühlen von Kinderdijk, UNESCO-Welterbe",
+          "fr": "Moulins de Kinderdijk, site du patrimoine mondial de l'UNESCO",
+          "it": "Kinderdijk Windmills, UNESCO World Heritage Site",
+          "nl": "Molens van Kinderdijk, UNESCO-werelderfgoed",
+          "pl": "Kinderdijk Windmills, UNESCO World Heritage Site",
+          "cs": "Kinderdijk Windmills, UNESCO World Heritage Site",
+          "sk": "Kinderdijk Windmills, UNESCO World Heritage Site",
+          "ro": "Kinderdijk Windmills, UNESCO World Heritage Site",
+          "hu": "Kinderdijk Windmills, UNESCO World Heritage Site",
+          "da": "Kinderdijk Windmills, UNESCO World Heritage Site"
+        },
+        "year": 2014,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/142d745e03fe9987/kdk-stamp-nl_3212.png",
+          "width": 1100,
+          "height": 761
+        },
+        "country": "NL",
+        "stamp_id": "SIQ-NL-2014-075"
+      }
+    },
+    "buttons": [],
+    "location": "Kinderdijk, South Holland, Netherlands"
+  },
+  "blocks": [
+    {
+      "id": "discover",
+      "type": "text",
+      "label": {
+        "en": "In Discover",
+        "de": "In Entdecken",
+        "fr": "Dans Découvrir",
+        "it": "In Discover",
+        "nl": "In Ontdekken",
+        "pl": "In Discover",
+        "cs": "In Discover",
+        "sk": "In Discover",
+        "ro": "In Discover",
+        "hu": "In Discover",
+        "da": "In Discover"
+      },
+      "title": {
+        "en": "Mills on a World Heritage stamp",
+        "de": "Mühlen auf einer Welterbe-Marke",
+        "fr": "Des moulins sur un timbre du patrimoine mondial",
+        "it": "Mills on a World Heritage stamp",
+        "nl": "Molens op een werelderfgoedpostzegel",
+        "pl": "Mills on a World Heritage stamp",
+        "cs": "Mills on a World Heritage stamp",
+        "sk": "Mills on a World Heritage stamp",
+        "ro": "Mills on a World Heritage stamp",
+        "hu": "Mills on a World Heritage stamp",
+        "da": "Mills on a World Heritage stamp"
+      },
+      "visual": {
+        "type": "phone",
+        "animation": {
+          "src": "https://assets.stampiq.io/blog/020a7aabfb75bb57/kinderdijk.mp4",
+          "width": 960,
+          "height": 2080,
+          "poster": "https://assets.stampiq.io/blog/ad20cccfb8102696/kinderdijk.jpg"
+        }
+      },
+      "buttons": [],
+      "paragraphs": [
+        {
+          "en": "The Dutch World Heritage sheet of 2014 has one stamp with mills on it. Four of them stand along a canal with reeds on the bank, above the words \"Molencomplex Kinderdijk Elshout\" and the year 1997. The stamp leaves open where Kinderdijk is and whether anyone still lives in these mills.",
+          "de": "Auf dem niederländischen Welterbe-Bogen von 2014 gibt es eine Marke mit Mühlen. Vier davon stehen an einem Kanal, am Ufer wächst Schilf. Darunter stehen die Worte „Molencomplex Kinderdijk Elshout“ und die Jahreszahl 1997. Wo Kinderdijk liegt und ob in diesen Mühlen noch jemand wohnt, sagt die Marke nicht.",
+          "fr": "Le feuillet néerlandais consacré au patrimoine mondial, paru en 2014, comporte un timbre avec des moulins. Quatre d'entre eux se dressent le long d'un canal bordé de roseaux, au-dessus des mots « Molencomplex Kinderdijk Elshout » et de l'année 1997. Le timbre ne dit pas où se trouve Kinderdijk, ni si quelqu'un habite encore ces moulins.",
+          "it": "The Dutch World Heritage sheet of 2014 has one stamp with mills on it. Four of them stand along a canal with reeds on the bank, above the words \"Molencomplex Kinderdijk Elshout\" and the year 1997. The stamp leaves open where Kinderdijk is and whether anyone still lives in these mills.",
+          "nl": "Op het Nederlandse werelderfgoedvel uit 2014 staat één postzegel met molens. Vier molens staan langs een vaart met riet op de oever, boven de woorden „Molencomplex Kinderdijk Elshout” en het jaartal 1997. De postzegel zegt niet waar Kinderdijk ligt, en ook niet of er nog iemand in die molens woont.",
+          "pl": "The Dutch World Heritage sheet of 2014 has one stamp with mills on it. Four of them stand along a canal with reeds on the bank, above the words \"Molencomplex Kinderdijk Elshout\" and the year 1997. The stamp leaves open where Kinderdijk is and whether anyone still lives in these mills.",
+          "cs": "The Dutch World Heritage sheet of 2014 has one stamp with mills on it. Four of them stand along a canal with reeds on the bank, above the words \"Molencomplex Kinderdijk Elshout\" and the year 1997. The stamp leaves open where Kinderdijk is and whether anyone still lives in these mills.",
+          "sk": "The Dutch World Heritage sheet of 2014 has one stamp with mills on it. Four of them stand along a canal with reeds on the bank, above the words \"Molencomplex Kinderdijk Elshout\" and the year 1997. The stamp leaves open where Kinderdijk is and whether anyone still lives in these mills.",
+          "ro": "The Dutch World Heritage sheet of 2014 has one stamp with mills on it. Four of them stand along a canal with reeds on the bank, above the words \"Molencomplex Kinderdijk Elshout\" and the year 1997. The stamp leaves open where Kinderdijk is and whether anyone still lives in these mills.",
+          "hu": "The Dutch World Heritage sheet of 2014 has one stamp with mills on it. Four of them stand along a canal with reeds on the bank, above the words \"Molencomplex Kinderdijk Elshout\" and the year 1997. The stamp leaves open where Kinderdijk is and whether anyone still lives in these mills.",
+          "da": "The Dutch World Heritage sheet of 2014 has one stamp with mills on it. Four of them stand along a canal with reeds on the bank, above the words \"Molencomplex Kinderdijk Elshout\" and the year 1997. The stamp leaves open where Kinderdijk is and whether anyone still lives in these mills."
+        },
+        {
+          "en": "In StampIQ the way to this stamp starts on the Home screen, where the \"Today's Stamp Picks\" card opens \"Discover\". Under \"Series\", the list \"Choose a series\" includes Historic Buildings. With the flag filter set to the Netherlands, a swipe through the Dutch stamps of the series brings up the mills of 2014. A tap on the image opens the catalogue page. From there, \"Show on map\" puts the pin at Kinderdijk, south-east of Rotterdam.",
+          "de": "In StampIQ beginnt der Weg zu dieser Marke auf dem Bildschirm Start. Dort öffnet die Kachel „Briefmarken-Tipps des Tages“ den Bereich Entdecken. Unter „Serie“ steht in der Liste „Serie auswählen“ auch Historische Gebäude. Steht der Flaggenfilter auf den Niederlanden, führt ein Wischen durch die Marken der Serie zu den Mühlen von 2014. Ein Tippen auf das Bild öffnet die Katalogseite. Von dort setzt „Auf Karte anzeigen“ die Markierung auf Kinderdijk, südöstlich von Rotterdam.",
+          "fr": "Dans StampIQ, le chemin vers ce timbre part de l'écran Accueil : la carte « Sélection du jour » ouvre Découvrir. Sous « Séries », la liste « Choisis une série » contient Bâtiments historiques. Avec le filtre drapeau réglé sur les Pays-Bas, il suffit de faire défiler les timbres néerlandais de la série pour arriver aux moulins de 2014. Une pression sur l'image ouvre la fiche du catalogue. De là, « Voir sur la carte » place le repère sur Kinderdijk, au sud-est de Rotterdam.",
+          "it": "In StampIQ the way to this stamp starts on the Home screen, where the \"Today's Stamp Picks\" card opens \"Discover\". Under \"Series\", the list \"Choose a series\" includes Historic Buildings. With the flag filter set to the Netherlands, a swipe through the Dutch stamps of the series brings up the mills of 2014. A tap on the image opens the catalogue page. From there, \"Show on map\" puts the pin at Kinderdijk, south-east of Rotterdam.",
+          "nl": "In StampIQ begint de weg naar deze postzegel op Home: de kaart „Zegelkeuzes van vandaag” opent Ontdekken. Onder „Serie” staat in de lijst „Kies een serie” ook Historische gebouwen. Met het vlagfilter op Nederland blader je door de Nederlandse postzegels uit die serie tot je bij de molens van 2014 bent. Een tik op de afbeelding opent de cataloguspagina. Daar zet „Op kaart tonen” de pin op Kinderdijk, ten zuidoosten van Rotterdam.",
+          "pl": "In StampIQ the way to this stamp starts on the Home screen, where the \"Today's Stamp Picks\" card opens \"Discover\". Under \"Series\", the list \"Choose a series\" includes Historic Buildings. With the flag filter set to the Netherlands, a swipe through the Dutch stamps of the series brings up the mills of 2014. A tap on the image opens the catalogue page. From there, \"Show on map\" puts the pin at Kinderdijk, south-east of Rotterdam.",
+          "cs": "In StampIQ the way to this stamp starts on the Home screen, where the \"Today's Stamp Picks\" card opens \"Discover\". Under \"Series\", the list \"Choose a series\" includes Historic Buildings. With the flag filter set to the Netherlands, a swipe through the Dutch stamps of the series brings up the mills of 2014. A tap on the image opens the catalogue page. From there, \"Show on map\" puts the pin at Kinderdijk, south-east of Rotterdam.",
+          "sk": "In StampIQ the way to this stamp starts on the Home screen, where the \"Today's Stamp Picks\" card opens \"Discover\". Under \"Series\", the list \"Choose a series\" includes Historic Buildings. With the flag filter set to the Netherlands, a swipe through the Dutch stamps of the series brings up the mills of 2014. A tap on the image opens the catalogue page. From there, \"Show on map\" puts the pin at Kinderdijk, south-east of Rotterdam.",
+          "ro": "In StampIQ the way to this stamp starts on the Home screen, where the \"Today's Stamp Picks\" card opens \"Discover\". Under \"Series\", the list \"Choose a series\" includes Historic Buildings. With the flag filter set to the Netherlands, a swipe through the Dutch stamps of the series brings up the mills of 2014. A tap on the image opens the catalogue page. From there, \"Show on map\" puts the pin at Kinderdijk, south-east of Rotterdam.",
+          "hu": "In StampIQ the way to this stamp starts on the Home screen, where the \"Today's Stamp Picks\" card opens \"Discover\". Under \"Series\", the list \"Choose a series\" includes Historic Buildings. With the flag filter set to the Netherlands, a swipe through the Dutch stamps of the series brings up the mills of 2014. A tap on the image opens the catalogue page. From there, \"Show on map\" puts the pin at Kinderdijk, south-east of Rotterdam.",
+          "da": "In StampIQ the way to this stamp starts on the Home screen, where the \"Today's Stamp Picks\" card opens \"Discover\". Under \"Series\", the list \"Choose a series\" includes Historic Buildings. With the flag filter set to the Netherlands, a swipe through the Dutch stamps of the series brings up the mills of 2014. A tap on the image opens the catalogue page. From there, \"Show on map\" puts the pin at Kinderdijk, south-east of Rotterdam."
+        },
+        {
+          "en": "\"Series\", \"Themes\", \"Near me\", \"On this day\" and the country filter are part of Premium and Professional. A free account sees five stamps a day in \"For you\".",
+          "de": "„Serie“, „Themen“, „In meiner Nähe“, „Heute in der Geschichte“ und der Länderfilter gehören zu Premium und Professional. Mit einem kostenlosen Konto siehst du täglich fünf Marken unter „Für dich“.",
+          "fr": "« Séries », « Thèmes », « Près de moi » et « Un jour comme aujourd'hui », ainsi que le filtre par pays, font partie de Premium et de Professional. La formule gratuite donne accès à cinq timbres par jour dans « Pour toi ».",
+          "it": "\"Series\", \"Themes\", \"Near me\", \"On this day\" and the country filter are part of Premium and Professional. A free account sees five stamps a day in \"For you\".",
+          "nl": "„Serie”, „Thema's”, „In de buurt”, „Op deze dag” en het landfilter horen bij Premium en Professional. Met een gratis account zie je vijf postzegels per dag in „Voor jou”.",
+          "pl": "\"Series\", \"Themes\", \"Near me\", \"On this day\" and the country filter are part of Premium and Professional. A free account sees five stamps a day in \"For you\".",
+          "cs": "\"Series\", \"Themes\", \"Near me\", \"On this day\" and the country filter are part of Premium and Professional. A free account sees five stamps a day in \"For you\".",
+          "sk": "\"Series\", \"Themes\", \"Near me\", \"On this day\" and the country filter are part of Premium and Professional. A free account sees five stamps a day in \"For you\".",
+          "ro": "\"Series\", \"Themes\", \"Near me\", \"On this day\" and the country filter are part of Premium and Professional. A free account sees five stamps a day in \"For you\".",
+          "hu": "\"Series\", \"Themes\", \"Near me\", \"On this day\" and the country filter are part of Premium and Professional. A free account sees five stamps a day in \"For you\".",
+          "da": "\"Series\", \"Themes\", \"Near me\", \"On this day\" and the country filter are part of Premium and Professional. A free account sees five stamps a day in \"For you\"."
+        }
+      ]
+    },
+    {
+      "id": "stamp",
+      "type": "text",
+      "label": {
+        "en": "The stamp",
+        "de": "Die Briefmarke",
+        "fr": "Le timbre",
+        "it": "The stamp",
+        "nl": "De postzegel",
+        "pl": "The stamp",
+        "cs": "The stamp",
+        "sk": "The stamp",
+        "ro": "The stamp",
+        "hu": "The stamp",
+        "da": "The stamp"
+      },
+      "title": {
+        "en": "Molencomplex Kinderdijk Elshout",
+        "de": "Molencomplex Kinderdijk Elshout",
+        "fr": "Molencomplex Kinderdijk Elshout",
+        "it": "Molencomplex Kinderdijk Elshout",
+        "nl": "Molencomplex Kinderdijk Elshout",
+        "pl": "Molencomplex Kinderdijk Elshout",
+        "cs": "Molencomplex Kinderdijk Elshout",
+        "sk": "Molencomplex Kinderdijk Elshout",
+        "ro": "Molencomplex Kinderdijk Elshout",
+        "hu": "Molencomplex Kinderdijk Elshout",
+        "da": "Molencomplex Kinderdijk Elshout"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/65711a06d0280489/kdk-canal.jpg",
+          "width": 2400,
+          "credit": "Malis, public domain",
+          "height": 1800,
+          "caption": {
+            "en": "Mills along a reed-lined canal at Kinderdijk.",
+            "de": "Mühlen an einem von Schilf gesäumten Kanal bei Kinderdijk.",
+            "fr": "Des moulins le long d'un canal bordé de roseaux à Kinderdijk.",
+            "it": "Mills along a reed-lined canal at Kinderdijk.",
+            "nl": "Molens langs een vaart met riet bij Kinderdijk.",
+            "pl": "Mills along a reed-lined canal at Kinderdijk.",
+            "cs": "Mills along a reed-lined canal at Kinderdijk.",
+            "sk": "Mills along a reed-lined canal at Kinderdijk.",
+            "ro": "Mills along a reed-lined canal at Kinderdijk.",
+            "hu": "Mills along a reed-lined canal at Kinderdijk.",
+            "da": "Mills along a reed-lined canal at Kinderdijk."
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Kinderdijk_2.jpg"
+        }
+      },
+      "buttons": [],
+      "paragraphs": [
+        {
+          "en": "PostNL issued the sheet on 11 August 2014, ten stamps for domestic post designed by Piet Gerards. It was printed before the last Dutch site joined the list. The Van Nellefabriek in Rotterdam became World Heritage on 21 June 2014 and appears only in the prestige booklet. The Stelling van Amsterdam has two stamps on the sheet instead.",
+          "de": "PostNL gab den Bogen am 11. August 2014 heraus, zehn Marken für die Inlandspost, gestaltet von Piet Gerards. Gedruckt wurde er, bevor die letzte niederländische Stätte auf die Liste kam. Die Van Nellefabriek in Rotterdam wurde am 21. Juni 2014 Welterbe. Zu sehen ist sie nur im Prestigeheft. Auf dem Bogen hat stattdessen die Stelling van Amsterdam zwei Marken.",
+          "fr": "PostNL a émis le feuillet le 11 août 2014 : dix timbres pour le courrier intérieur, dessinés par Piet Gerards. Il a été imprimé avant l'inscription du dernier site néerlandais sur la liste. La Van Nellefabriek de Rotterdam est entrée au patrimoine mondial le 21 juin 2014 et ne figure que dans le carnet prestige. C'est la Stelling van Amsterdam qui occupe deux timbres du feuillet à sa place.",
+          "it": "PostNL issued the sheet on 11 August 2014, ten stamps for domestic post designed by Piet Gerards. It was printed before the last Dutch site joined the list. The Van Nellefabriek in Rotterdam became World Heritage on 21 June 2014 and appears only in the prestige booklet. The Stelling van Amsterdam has two stamps on the sheet instead.",
+          "nl": "PostNL gaf het vel uit op 11 augustus 2014, tien postzegels voor binnenlandse post, ontworpen door Piet Gerards. Het was al gedrukt voordat het laatste Nederlandse object op de lijst kwam. De Van Nellefabriek in Rotterdam werd op 21 juni 2014 werelderfgoed en staat alleen in het prestigeboekje. Op het vel staan in plaats daarvan twee postzegels van de Stelling van Amsterdam.",
+          "pl": "PostNL issued the sheet on 11 August 2014, ten stamps for domestic post designed by Piet Gerards. It was printed before the last Dutch site joined the list. The Van Nellefabriek in Rotterdam became World Heritage on 21 June 2014 and appears only in the prestige booklet. The Stelling van Amsterdam has two stamps on the sheet instead.",
+          "cs": "PostNL issued the sheet on 11 August 2014, ten stamps for domestic post designed by Piet Gerards. It was printed before the last Dutch site joined the list. The Van Nellefabriek in Rotterdam became World Heritage on 21 June 2014 and appears only in the prestige booklet. The Stelling van Amsterdam has two stamps on the sheet instead.",
+          "sk": "PostNL issued the sheet on 11 August 2014, ten stamps for domestic post designed by Piet Gerards. It was printed before the last Dutch site joined the list. The Van Nellefabriek in Rotterdam became World Heritage on 21 June 2014 and appears only in the prestige booklet. The Stelling van Amsterdam has two stamps on the sheet instead.",
+          "ro": "PostNL issued the sheet on 11 August 2014, ten stamps for domestic post designed by Piet Gerards. It was printed before the last Dutch site joined the list. The Van Nellefabriek in Rotterdam became World Heritage on 21 June 2014 and appears only in the prestige booklet. The Stelling van Amsterdam has two stamps on the sheet instead.",
+          "hu": "PostNL issued the sheet on 11 August 2014, ten stamps for domestic post designed by Piet Gerards. It was printed before the last Dutch site joined the list. The Van Nellefabriek in Rotterdam became World Heritage on 21 June 2014 and appears only in the prestige booklet. The Stelling van Amsterdam has two stamps on the sheet instead.",
+          "da": "PostNL issued the sheet on 11 August 2014, ten stamps for domestic post designed by Piet Gerards. It was printed before the last Dutch site joined the list. The Van Nellefabriek in Rotterdam became World Heritage on 21 June 2014 and appears only in the prestige booklet. The Stelling van Amsterdam has two stamps on the sheet instead."
+        },
+        {
+          "en": "The year 1997 on the stamp is when UNESCO inscribed the mill network of Kinderdijk-Elshout, on 6 December. Elshout is the name of the discharge sluices, where the water of the polders leaves for the river. The name Kinderdijk goes back to a legend from the St Elizabeth flood of November 1421. In it, people on the dyke saw a cradle drifting towards them with a sleeping baby inside, kept level by a cat that jumped from side to side.",
+          "de": "Die Jahreszahl 1997 auf der Marke steht für die Aufnahme des Mühlennetzes von Kinderdijk-Elshout durch die UNESCO am 6. Dezember. Elshout heißen die Schleusen, durch die das Wasser der Polder zum Fluss abfließt. Der Name Kinderdijk geht auf eine Legende aus der Elisabethenflut vom November 1421 zurück. Menschen auf dem Deich sahen eine Wiege auf sich zutreiben. Darin lag ein schlafendes Kind. Eine Katze hielt die Wiege im Gleichgewicht, indem sie von einer Seite zur anderen sprang.",
+          "fr": "L'année 1997 portée sur le timbre est celle où l'UNESCO a classé le réseau de moulins de Kinderdijk-Elshout, le 6 décembre. Elshout est le nom des écluses de décharge, par où l'eau des polders rejoint le fleuve. Le nom Kinderdijk remonte à une légende née de l'inondation de la Sainte-Élisabeth, en novembre 1421 : des gens sur la digue ont vu dériver vers eux un berceau où dormait un bébé, maintenu à l'horizontale par un chat qui sautait d'un bord à l'autre.",
+          "it": "The year 1997 on the stamp is when UNESCO inscribed the mill network of Kinderdijk-Elshout, on 6 December. Elshout is the name of the discharge sluices, where the water of the polders leaves for the river. The name Kinderdijk goes back to a legend from the St Elizabeth flood of November 1421. In it, people on the dyke saw a cradle drifting towards them with a sleeping baby inside, kept level by a cat that jumped from side to side.",
+          "nl": "Het jaartal 1997 op de postzegel is het jaar waarin UNESCO het molencomplex Kinderdijk-Elshout inschreef, op 6 december. Elshout is de naam van de uitwateringssluizen, waar het water uit de polders naar de rivier gaat. De naam Kinderdijk komt uit een legende over de Sint-Elisabethsvloed van november 1421. Mensen op de dijk zagen een wieg naar zich toe drijven met een slapende baby erin. Een kat sprong heen en weer en hield de wieg in evenwicht.",
+          "pl": "The year 1997 on the stamp is when UNESCO inscribed the mill network of Kinderdijk-Elshout, on 6 December. Elshout is the name of the discharge sluices, where the water of the polders leaves for the river. The name Kinderdijk goes back to a legend from the St Elizabeth flood of November 1421. In it, people on the dyke saw a cradle drifting towards them with a sleeping baby inside, kept level by a cat that jumped from side to side.",
+          "cs": "The year 1997 on the stamp is when UNESCO inscribed the mill network of Kinderdijk-Elshout, on 6 December. Elshout is the name of the discharge sluices, where the water of the polders leaves for the river. The name Kinderdijk goes back to a legend from the St Elizabeth flood of November 1421. In it, people on the dyke saw a cradle drifting towards them with a sleeping baby inside, kept level by a cat that jumped from side to side.",
+          "sk": "The year 1997 on the stamp is when UNESCO inscribed the mill network of Kinderdijk-Elshout, on 6 December. Elshout is the name of the discharge sluices, where the water of the polders leaves for the river. The name Kinderdijk goes back to a legend from the St Elizabeth flood of November 1421. In it, people on the dyke saw a cradle drifting towards them with a sleeping baby inside, kept level by a cat that jumped from side to side.",
+          "ro": "The year 1997 on the stamp is when UNESCO inscribed the mill network of Kinderdijk-Elshout, on 6 December. Elshout is the name of the discharge sluices, where the water of the polders leaves for the river. The name Kinderdijk goes back to a legend from the St Elizabeth flood of November 1421. In it, people on the dyke saw a cradle drifting towards them with a sleeping baby inside, kept level by a cat that jumped from side to side.",
+          "hu": "The year 1997 on the stamp is when UNESCO inscribed the mill network of Kinderdijk-Elshout, on 6 December. Elshout is the name of the discharge sluices, where the water of the polders leaves for the river. The name Kinderdijk goes back to a legend from the St Elizabeth flood of November 1421. In it, people on the dyke saw a cradle drifting towards them with a sleeping baby inside, kept level by a cat that jumped from side to side.",
+          "da": "The year 1997 on the stamp is when UNESCO inscribed the mill network of Kinderdijk-Elshout, on 6 December. Elshout is the name of the discharge sluices, where the water of the polders leaves for the river. The name Kinderdijk goes back to a legend from the St Elizabeth flood of November 1421. In it, people on the dyke saw a cradle drifting towards them with a sleeping baby inside, kept level by a cat that jumped from side to side."
+        }
+      ]
+    },
+    {
+      "id": "mills",
+      "type": "text",
+      "label": {
+        "en": "The story",
+        "de": "Die Geschichte",
+        "fr": "L'histoire",
+        "it": "The story",
+        "nl": "Het verhaal",
+        "pl": "The story",
+        "cs": "The story",
+        "sk": "The story",
+        "ro": "The story",
+        "hu": "The story",
+        "da": "The story"
+      },
+      "title": {
+        "en": "Families in the mills",
+        "de": "Familien in den Mühlen",
+        "fr": "Des familles dans les moulins",
+        "it": "Families in the mills",
+        "nl": "Gezinnen in de molens",
+        "pl": "Families in the mills",
+        "cs": "Families in the mills",
+        "sk": "Families in the mills",
+        "ro": "Families in the mills",
+        "hu": "Families in the mills",
+        "da": "Families in the mills"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/1e62ca217599f3ab/kdk-bed.jpg",
+          "width": 2400,
+          "credit": "Dennis G. Jarvis, CC BY-SA 2.0",
+          "height": 1600,
+          "caption": {
+            "en": "A box bed in a mill at Kinderdijk.",
+            "de": "Ein Butzenbett in einer Mühle von Kinderdijk.",
+            "fr": "Un lit clos dans un moulin de Kinderdijk.",
+            "it": "A box bed in a mill at Kinderdijk.",
+            "nl": "Een bedstee in een molen bij Kinderdijk.",
+            "pl": "A box bed in a mill at Kinderdijk.",
+            "cs": "A box bed in a mill at Kinderdijk.",
+            "sk": "A box bed in a mill at Kinderdijk.",
+            "ro": "A box bed in a mill at Kinderdijk.",
+            "hu": "A box bed in a mill at Kinderdijk.",
+            "da": "A box bed in a mill at Kinderdijk."
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Netherlands-4794_-_Bed_(12404839584).jpg"
+        }
+      },
+      "buttons": [],
+      "paragraphs": [
+        {
+          "en": "The Hoek family of millers came to Kinderdijk in 1744, with Jacob Hoek. The millers' families lived in the mills, some of them with more than ten children. Inside, the brick mills of the Nederwaard are round, which makes choosing furniture harder for the people who live in them. After the war, when the mills were taken out of service, the millers of the Nederwaard and their families were allowed to stay on.",
+          "de": "Die Müllerfamilie Hoek kam 1744 mit Jacob Hoek nach Kinderdijk. Die Familien der Müller wohnten in den Mühlen, manche mit mehr als zehn Kindern. Innen sind die Backsteinmühlen der Nederwaard rund, was die Wahl der Möbel erschwert. Nach dem Krieg wurden die Mühlen außer Betrieb genommen. Die Müller der Nederwaard durften mit ihren Familien wohnen bleiben.",
+          "fr": "La famille de meuniers Hoek est arrivée à Kinderdijk en 1744, avec Jacob Hoek. Les familles de meuniers vivaient dans les moulins, certaines avec plus de dix enfants. À l'intérieur, les moulins en brique du Nederwaard sont ronds, ce qui complique le choix des meubles pour ceux qui y vivent. Après la guerre, quand les moulins ont été mis hors service, les meuniers du Nederwaard et leurs familles ont pu rester sur place.",
+          "it": "The Hoek family of millers came to Kinderdijk in 1744, with Jacob Hoek. The millers' families lived in the mills, some of them with more than ten children. Inside, the brick mills of the Nederwaard are round, which makes choosing furniture harder for the people who live in them. After the war, when the mills were taken out of service, the millers of the Nederwaard and their families were allowed to stay on.",
+          "nl": "De molenaarsfamilie Hoek kwam in 1744 met Jacob Hoek naar Kinderdijk. De gezinnen van de molenaars woonden in de molens, sommige met meer dan tien kinderen. Vanbinnen zijn de stenen molens van de Nederwaard rond, wat het uitzoeken van meubels lastig maakt voor de bewoners. Na de oorlog, toen de molens uit dienst gingen, mochten de molenaars van de Nederwaard met hun gezin blijven wonen.",
+          "pl": "The Hoek family of millers came to Kinderdijk in 1744, with Jacob Hoek. The millers' families lived in the mills, some of them with more than ten children. Inside, the brick mills of the Nederwaard are round, which makes choosing furniture harder for the people who live in them. After the war, when the mills were taken out of service, the millers of the Nederwaard and their families were allowed to stay on.",
+          "cs": "The Hoek family of millers came to Kinderdijk in 1744, with Jacob Hoek. The millers' families lived in the mills, some of them with more than ten children. Inside, the brick mills of the Nederwaard are round, which makes choosing furniture harder for the people who live in them. After the war, when the mills were taken out of service, the millers of the Nederwaard and their families were allowed to stay on.",
+          "sk": "The Hoek family of millers came to Kinderdijk in 1744, with Jacob Hoek. The millers' families lived in the mills, some of them with more than ten children. Inside, the brick mills of the Nederwaard are round, which makes choosing furniture harder for the people who live in them. After the war, when the mills were taken out of service, the millers of the Nederwaard and their families were allowed to stay on.",
+          "ro": "The Hoek family of millers came to Kinderdijk in 1744, with Jacob Hoek. The millers' families lived in the mills, some of them with more than ten children. Inside, the brick mills of the Nederwaard are round, which makes choosing furniture harder for the people who live in them. After the war, when the mills were taken out of service, the millers of the Nederwaard and their families were allowed to stay on.",
+          "hu": "The Hoek family of millers came to Kinderdijk in 1744, with Jacob Hoek. The millers' families lived in the mills, some of them with more than ten children. Inside, the brick mills of the Nederwaard are round, which makes choosing furniture harder for the people who live in them. After the war, when the mills were taken out of service, the millers of the Nederwaard and their families were allowed to stay on.",
+          "da": "The Hoek family of millers came to Kinderdijk in 1744, with Jacob Hoek. The millers' families lived in the mills, some of them with more than ten children. Inside, the brick mills of the Nederwaard are round, which makes choosing furniture harder for the people who live in them. After the war, when the mills were taken out of service, the millers of the Nederwaard and their families were allowed to stay on."
+        },
+        {
+          "en": "On Saturday 10 November 2018 the residents handed tourists postcards in English, with \"Thanks for visiting\" on the front and \"600,000 visitors a year. Sixty residents\" on the back.",
+          "de": "Am Samstag, dem 10. November 2018, verteilten die Bewohner Postkarten auf Englisch an die Touristen. Vorne stand „Thanks for visiting“, hinten „600,000 visitors a year. Sixty residents“.",
+          "fr": "Le samedi 10 novembre 2018, les habitants ont distribué aux touristes des cartes postales en anglais, avec « Thanks for visiting » au recto et « 600,000 visitors a year. Sixty residents » au verso.",
+          "it": "On Saturday 10 November 2018 the residents handed tourists postcards in English, with \"Thanks for visiting\" on the front and \"600,000 visitors a year. Sixty residents\" on the back.",
+          "nl": "Op zaterdag 10 november 2018 deelden de bewoners Engelstalige ansichtkaarten uit aan toeristen, met „Thanks for visiting” op de voorkant en „600,000 visitors a year. Sixty residents” op de achterkant.",
+          "pl": "On Saturday 10 November 2018 the residents handed tourists postcards in English, with \"Thanks for visiting\" on the front and \"600,000 visitors a year. Sixty residents\" on the back.",
+          "cs": "On Saturday 10 November 2018 the residents handed tourists postcards in English, with \"Thanks for visiting\" on the front and \"600,000 visitors a year. Sixty residents\" on the back.",
+          "sk": "On Saturday 10 November 2018 the residents handed tourists postcards in English, with \"Thanks for visiting\" on the front and \"600,000 visitors a year. Sixty residents\" on the back.",
+          "ro": "On Saturday 10 November 2018 the residents handed tourists postcards in English, with \"Thanks for visiting\" on the front and \"600,000 visitors a year. Sixty residents\" on the back.",
+          "hu": "On Saturday 10 November 2018 the residents handed tourists postcards in English, with \"Thanks for visiting\" on the front and \"600,000 visitors a year. Sixty residents\" on the back.",
+          "da": "On Saturday 10 November 2018 the residents handed tourists postcards in English, with \"Thanks for visiting\" on the front and \"600,000 visitors a year. Sixty residents\" on the back."
+        },
+        {
+          "en": "Petra Hoek told de Volkskrant that she once got up in the morning and found a Japanese couple eating breakfast at her garden table. Another time a tourist told her and her eldest daughter to move off their own front step, so that he could photograph the mill. Peter Paul Klapwijk, who spoke for the residents, said: \"This is a world heritage site, not Disneyland.\"",
+          "de": "Petra Hoek erzählte der Zeitung de Volkskrant, dass sie eines Morgens aufstand und ein japanisches Paar an ihrem Gartentisch frühstücken sah. Ein anderes Mal forderte ein Tourist sie und ihre älteste Tochter auf, von der eigenen Türschwelle zu gehen, damit er die Mühle fotografieren konnte. Peter Paul Klapwijk, der für die Bewohner sprach, sagte: „Das hier ist ein Welterbe, kein Disneyland.“",
+          "fr": "Petra Hoek a raconté au quotidien de Volkskrant qu'un matin, en se levant, elle a trouvé un couple japonais en train de prendre le petit-déjeuner à sa table de jardin. Une autre fois, un touriste lui a dit, à elle et à sa fille aînée, de s'écarter de leur propre pas de porte pour pouvoir photographier le moulin. Peter Paul Klapwijk, porte-parole des habitants, a dit : « C'est un site du patrimoine mondial, pas Disneyland. »",
+          "it": "Petra Hoek told de Volkskrant that she once got up in the morning and found a Japanese couple eating breakfast at her garden table. Another time a tourist told her and her eldest daughter to move off their own front step, so that he could photograph the mill. Peter Paul Klapwijk, who spoke for the residents, said: \"This is a world heritage site, not Disneyland.\"",
+          "nl": "Petra Hoek vertelde de Volkskrant dat ze op een ochtend opstond en een Japans stel aan haar tuintafel zag ontbijten. Een andere keer zei een toerist tegen haar en haar oudste dochter dat ze van hun eigen stoep moesten gaan, zodat hij de molen kon fotograferen. Peter Paul Klapwijk, die namens de bewoners sprak, zei: „Dit is werelderfgoed, geen Disneyland.”",
+          "pl": "Petra Hoek told de Volkskrant that she once got up in the morning and found a Japanese couple eating breakfast at her garden table. Another time a tourist told her and her eldest daughter to move off their own front step, so that he could photograph the mill. Peter Paul Klapwijk, who spoke for the residents, said: \"This is a world heritage site, not Disneyland.\"",
+          "cs": "Petra Hoek told de Volkskrant that she once got up in the morning and found a Japanese couple eating breakfast at her garden table. Another time a tourist told her and her eldest daughter to move off their own front step, so that he could photograph the mill. Peter Paul Klapwijk, who spoke for the residents, said: \"This is a world heritage site, not Disneyland.\"",
+          "sk": "Petra Hoek told de Volkskrant that she once got up in the morning and found a Japanese couple eating breakfast at her garden table. Another time a tourist told her and her eldest daughter to move off their own front step, so that he could photograph the mill. Peter Paul Klapwijk, who spoke for the residents, said: \"This is a world heritage site, not Disneyland.\"",
+          "ro": "Petra Hoek told de Volkskrant that she once got up in the morning and found a Japanese couple eating breakfast at her garden table. Another time a tourist told her and her eldest daughter to move off their own front step, so that he could photograph the mill. Peter Paul Klapwijk, who spoke for the residents, said: \"This is a world heritage site, not Disneyland.\"",
+          "hu": "Petra Hoek told de Volkskrant that she once got up in the morning and found a Japanese couple eating breakfast at her garden table. Another time a tourist told her and her eldest daughter to move off their own front step, so that he could photograph the mill. Peter Paul Klapwijk, who spoke for the residents, said: \"This is a world heritage site, not Disneyland.\"",
+          "da": "Petra Hoek told de Volkskrant that she once got up in the morning and found a Japanese couple eating breakfast at her garden table. Another time a tourist told her and her eldest daughter to move off their own front step, so that he could photograph the mill. Peter Paul Klapwijk, who spoke for the residents, said: \"This is a world heritage site, not Disneyland.\""
+        }
+      ]
+    },
+    {
+      "id": "figures",
+      "type": "numbers",
+      "label": {
+        "en": "In figures",
+        "de": "In Zahlen",
+        "fr": "En chiffres",
+        "it": "In figures",
+        "nl": "In cijfers",
+        "pl": "In figures",
+        "cs": "In figures",
+        "sk": "In figures",
+        "ro": "In figures",
+        "hu": "In figures",
+        "da": "In figures"
+      },
+      "title": {
+        "en": "The mill network",
+        "de": "Das Mühlennetz",
+        "fr": "Le réseau de moulins",
+        "it": "The mill network",
+        "nl": "Het molencomplex",
+        "pl": "The mill network",
+        "cs": "The mill network",
+        "sk": "The mill network",
+        "ro": "The mill network",
+        "hu": "The mill network",
+        "da": "The mill network"
+      },
+      "numbers": [
+        {
+          "text": {
+            "en": "UNESCO counts 19 drainage mills on the World Heritage site.",
+            "de": "Die UNESCO zählt 19 Entwässerungsmühlen im Welterbe.",
+            "fr": "L'UNESCO compte 19 moulins de drainage sur le site du patrimoine mondial.",
+            "it": "UNESCO counts 19 drainage mills on the World Heritage site.",
+            "nl": "UNESCO rekent 19 poldermolens tot het werelderfgoed.",
+            "pl": "UNESCO counts 19 drainage mills on the World Heritage site.",
+            "cs": "UNESCO counts 19 drainage mills on the World Heritage site.",
+            "sk": "UNESCO counts 19 drainage mills on the World Heritage site.",
+            "ro": "UNESCO counts 19 drainage mills on the World Heritage site.",
+            "hu": "UNESCO counts 19 drainage mills on the World Heritage site.",
+            "da": "UNESCO counts 19 drainage mills on the World Heritage site."
+          },
+          "title": {
+            "en": "Mills",
+            "de": "Mühlen",
+            "fr": "Moulins",
+            "it": "Mills",
+            "nl": "Molens",
+            "pl": "Mills",
+            "cs": "Mills",
+            "sk": "Mills",
+            "ro": "Mills",
+            "hu": "Mills",
+            "da": "Mills"
+          },
+          "value": "19"
+        },
+        {
+          "text": {
+            "en": "The year the eight mills of the Nederwaard were built.",
+            "de": "In diesem Jahr wurden die acht Mühlen der Nederwaard gebaut.",
+            "fr": "L'année de construction des huit moulins du Nederwaard.",
+            "it": "The year the eight mills of the Nederwaard were built.",
+            "nl": "Het jaar waarin de acht molens van de Nederwaard werden gebouwd.",
+            "pl": "The year the eight mills of the Nederwaard were built.",
+            "cs": "The year the eight mills of the Nederwaard were built.",
+            "sk": "The year the eight mills of the Nederwaard were built.",
+            "ro": "The year the eight mills of the Nederwaard were built.",
+            "hu": "The year the eight mills of the Nederwaard were built.",
+            "da": "The year the eight mills of the Nederwaard were built."
+          },
+          "title": {
+            "en": "Nederwaard",
+            "de": "Nederwaard",
+            "fr": "Nederwaard",
+            "it": "Nederwaard",
+            "nl": "Nederwaard",
+            "pl": "Nederwaard",
+            "cs": "Nederwaard",
+            "sk": "Nederwaard",
+            "ro": "Nederwaard",
+            "hu": "Nederwaard",
+            "da": "Nederwaard"
+          },
+          "value": "1738"
+        },
+        {
+          "text": {
+            "en": "The Blokweer is more than a century older than the other mills.",
+            "de": "Die Blokweer ist über hundert Jahre älter als die übrigen Mühlen.",
+            "fr": "Le Blokweer a plus d'un siècle de plus que les autres moulins.",
+            "it": "The Blokweer is more than a century older than the other mills.",
+            "nl": "De Blokweer is ruim een eeuw ouder dan de andere molens.",
+            "pl": "The Blokweer is more than a century older than the other mills.",
+            "cs": "The Blokweer is more than a century older than the other mills.",
+            "sk": "The Blokweer is more than a century older than the other mills.",
+            "ro": "The Blokweer is more than a century older than the other mills.",
+            "hu": "The Blokweer is more than a century older than the other mills.",
+            "da": "The Blokweer is more than a century older than the other mills."
+          },
+          "title": {
+            "en": "Blokweer",
+            "de": "Blokweer",
+            "fr": "Blokweer",
+            "it": "Blokweer",
+            "nl": "Blokweer",
+            "pl": "Blokweer",
+            "cs": "Blokweer",
+            "sk": "Blokweer",
+            "ro": "Blokweer",
+            "hu": "Blokweer",
+            "da": "Blokweer"
+          },
+          "value": "1630"
+        },
+        {
+          "text": {
+            "en": "The steam pumping station of 1868 had the pumping power of seven mills.",
+            "de": "Das Dampfschöpfwerk von 1868 hatte die Pumpleistung von sieben Mühlen.",
+            "fr": "La station de pompage à vapeur de 1868 avait la puissance de sept moulins.",
+            "it": "The steam pumping station of 1868 had the pumping power of seven mills.",
+            "nl": "Het stoomgemaal uit 1868 had het pompvermogen van zeven molens.",
+            "pl": "The steam pumping station of 1868 had the pumping power of seven mills.",
+            "cs": "The steam pumping station of 1868 had the pumping power of seven mills.",
+            "sk": "The steam pumping station of 1868 had the pumping power of seven mills.",
+            "ro": "The steam pumping station of 1868 had the pumping power of seven mills.",
+            "hu": "The steam pumping station of 1868 had the pumping power of seven mills.",
+            "da": "The steam pumping station of 1868 had the pumping power of seven mills."
+          },
+          "title": {
+            "en": "Wisboom",
+            "de": "Wisboom",
+            "fr": "Wisboom",
+            "it": "Wisboom",
+            "nl": "Wisboom",
+            "pl": "Wisboom",
+            "cs": "Wisboom",
+            "sk": "Wisboom",
+            "ro": "Wisboom",
+            "hu": "Wisboom",
+            "da": "Wisboom"
+          },
+          "value": "7 mills"
+        }
+      ]
+    },
+    {
+      "id": "canal",
+      "type": "wide-photo",
+      "image": {
+        "src": "https://assets.stampiq.io/blog/cc0a3321882ebabf/kdk-row.jpg",
+        "width": 2400,
+        "credit": "Alf van Beem, CC0",
+        "height": 1800,
+        "caption": {
+          "en": "A long row of mills along the wide canal at Kinderdijk.",
+          "de": "Eine lange Reihe von Mühlen am breiten Kanal von Kinderdijk.",
+          "fr": "Une longue file de moulins le long du large canal de Kinderdijk.",
+          "it": "A long row of mills along the wide canal at Kinderdijk.",
+          "nl": "Een lange rij molens langs de brede vaart bij Kinderdijk.",
+          "pl": "A long row of mills along the wide canal at Kinderdijk.",
+          "cs": "A long row of mills along the wide canal at Kinderdijk.",
+          "sk": "A long row of mills along the wide canal at Kinderdijk.",
+          "ro": "A long row of mills along the wide canal at Kinderdijk.",
+          "hu": "A long row of mills along the wide canal at Kinderdijk.",
+          "da": "A long row of mills along the wide canal at Kinderdijk."
+        },
+        "source_url": "https://commons.wikimedia.org/wiki/File:Dutch_windmill_at_Kinderdijk_pic26.JPG"
+      }
+    },
+    {
+      "id": "visit",
+      "type": "text",
+      "label": {
+        "en": "The visit",
+        "de": "Der Besuch",
+        "fr": "La visite",
+        "it": "The visit",
+        "nl": "Het bezoek",
+        "pl": "The visit",
+        "cs": "The visit",
+        "sk": "The visit",
+        "ro": "The visit",
+        "hu": "The visit",
+        "da": "The visit"
+      },
+      "title": {
+        "en": "A path along the canals",
+        "de": "Ein Weg an den Kanälen entlang",
+        "fr": "Un chemin le long des canaux",
+        "it": "A path along the canals",
+        "nl": "Een pad langs de vaarten",
+        "pl": "A path along the canals",
+        "cs": "A path along the canals",
+        "sk": "A path along the canals",
+        "ro": "A path along the canals",
+        "hu": "A path along the canals",
+        "da": "A path along the canals"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/1cc11042063bd167/kdk-blokweer.jpg",
+          "width": 2400,
+          "credit": "Dennis G. Jarvis, CC BY-SA 2.0",
+          "height": 1600,
+          "caption": {
+            "en": "The Blokweer above the reeds under a grey sky.",
+            "de": "Die Blokweer über dem Schilf unter grauem Himmel.",
+            "fr": "Le Blokweer au-dessus des roseaux, sous un ciel gris.",
+            "it": "The Blokweer above the reeds under a grey sky.",
+            "nl": "De Blokweer boven het riet onder een grijze lucht.",
+            "pl": "The Blokweer above the reeds under a grey sky.",
+            "cs": "The Blokweer above the reeds under a grey sky.",
+            "sk": "The Blokweer above the reeds under a grey sky.",
+            "ro": "The Blokweer above the reeds under a grey sky.",
+            "hu": "The Blokweer above the reeds under a grey sky.",
+            "da": "The Blokweer above the reeds under a grey sky."
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Netherlands-4751_-_Hollow_Post_Mill_(12320949895).jpg"
+        }
+      },
+      "buttons": [],
+      "paragraphs": [
+        {
+          "en": "From the visitor centre a path follows the water, with the mills coming closer one after another. The mills stand in two rows of eight. The brick mills of the Nederwaard stand in a staggered line, so that each of them catches enough wind. The thatched wooden mills of the Overwaard stand in a straight row, because their embankment is narrower.",
+          "de": "Vom Besucherzentrum führt ein Weg am Wasser entlang. Eine Mühle nach der anderen rückt näher. Sie stehen in zwei Reihen zu je acht. Die Backsteinmühlen der Nederwaard stehen versetzt, damit jede genug Wind bekommt. Die reetgedeckten Holzmühlen der Overwaard stehen in gerader Reihe, weil ihr Damm schmaler ist.",
+          "fr": "Depuis le centre d'accueil, un chemin suit l'eau. Les moulins se rapprochent l'un après l'autre et forment deux rangées de huit. Ceux du Nederwaard, en brique, sont disposés en quinconce pour que chacun prenne assez de vent. Ceux de l'Overwaard, en bois couvert de chaume, forment une ligne droite, parce que leur digue est plus étroite.",
+          "it": "From the visitor centre a path follows the water, with the mills coming closer one after another. The mills stand in two rows of eight. The brick mills of the Nederwaard stand in a staggered line, so that each of them catches enough wind. The thatched wooden mills of the Overwaard stand in a straight row, because their embankment is narrower.",
+          "nl": "Vanaf het bezoekerscentrum volgt een pad het water. De molens komen één voor één dichterbij. Ze staan in twee rijen van acht. De stenen molens van de Nederwaard staan verspringend, zodat elke molen genoeg wind vangt. De met riet gedekte houten molens van de Overwaard staan in een rechte rij, omdat hun kade smaller is.",
+          "pl": "From the visitor centre a path follows the water, with the mills coming closer one after another. The mills stand in two rows of eight. The brick mills of the Nederwaard stand in a staggered line, so that each of them catches enough wind. The thatched wooden mills of the Overwaard stand in a straight row, because their embankment is narrower.",
+          "cs": "From the visitor centre a path follows the water, with the mills coming closer one after another. The mills stand in two rows of eight. The brick mills of the Nederwaard stand in a staggered line, so that each of them catches enough wind. The thatched wooden mills of the Overwaard stand in a straight row, because their embankment is narrower.",
+          "sk": "From the visitor centre a path follows the water, with the mills coming closer one after another. The mills stand in two rows of eight. The brick mills of the Nederwaard stand in a staggered line, so that each of them catches enough wind. The thatched wooden mills of the Overwaard stand in a straight row, because their embankment is narrower.",
+          "ro": "From the visitor centre a path follows the water, with the mills coming closer one after another. The mills stand in two rows of eight. The brick mills of the Nederwaard stand in a staggered line, so that each of them catches enough wind. The thatched wooden mills of the Overwaard stand in a straight row, because their embankment is narrower.",
+          "hu": "From the visitor centre a path follows the water, with the mills coming closer one after another. The mills stand in two rows of eight. The brick mills of the Nederwaard stand in a staggered line, so that each of them catches enough wind. The thatched wooden mills of the Overwaard stand in a straight row, because their embankment is narrower.",
+          "da": "From the visitor centre a path follows the water, with the mills coming closer one after another. The mills stand in two rows of eight. The brick mills of the Nederwaard stand in a staggered line, so that each of them catches enough wind. The thatched wooden mills of the Overwaard stand in a straight row, because their embankment is narrower."
+        },
+        {
+          "en": "Most of the mills along the path are homes. The two open to visitors are the museum mills, the Nederwaard and the Blokweer. The Hopper boat stops at both and at the visitor centre.",
+          "de": "Die meisten Mühlen am Weg sind Wohnhäuser. Für Besucher offen sind die beiden Museumsmühlen, die Nederwaard und die Blokweer. Das Boot Hopper hält an beiden und am Besucherzentrum.",
+          "fr": "La plupart des moulins le long du chemin sont habités. Les deux qui se visitent sont les moulins-musées, le Nederwaard et le Blokweer. Le bateau Hopper s'arrête aux deux et au centre d'accueil.",
+          "it": "Most of the mills along the path are homes. The two open to visitors are the museum mills, the Nederwaard and the Blokweer. The Hopper boat stops at both and at the visitor centre.",
+          "nl": "De meeste molens langs het pad zijn woonhuizen. Voor bezoekers zijn de twee museummolens open: de Nederwaard en de Blokweer. De boot Hopper stopt bij allebei en bij het bezoekerscentrum.",
+          "pl": "Most of the mills along the path are homes. The two open to visitors are the museum mills, the Nederwaard and the Blokweer. The Hopper boat stops at both and at the visitor centre.",
+          "cs": "Most of the mills along the path are homes. The two open to visitors are the museum mills, the Nederwaard and the Blokweer. The Hopper boat stops at both and at the visitor centre.",
+          "sk": "Most of the mills along the path are homes. The two open to visitors are the museum mills, the Nederwaard and the Blokweer. The Hopper boat stops at both and at the visitor centre.",
+          "ro": "Most of the mills along the path are homes. The two open to visitors are the museum mills, the Nederwaard and the Blokweer. The Hopper boat stops at both and at the visitor centre.",
+          "hu": "Most of the mills along the path are homes. The two open to visitors are the museum mills, the Nederwaard and the Blokweer. The Hopper boat stops at both and at the visitor centre.",
+          "da": "Most of the mills along the path are homes. The two open to visitors are the museum mills, the Nederwaard and the Blokweer. The Hopper boat stops at both and at the visitor centre."
+        },
+        {
+          "en": "In the museum mill of the Nederwaard you can lie down in the box bed upstairs and look into the tiny living room. A miller waits in the yard to answer questions.",
+          "de": "In der Museumsmühle Nederwaard kannst du dich oben ins Butzenbett legen und in die winzige Stube schauen. Im Hof steht ein Müller und beantwortet Fragen.",
+          "fr": "Dans le moulin-musée du Nederwaard, tu peux t'allonger dans le lit clos de l'étage et observer la minuscule salle de séjour. Un meunier attend dans la cour pour répondre aux questions.",
+          "it": "In the museum mill of the Nederwaard you can lie down in the box bed upstairs and look into the tiny living room. A miller waits in the yard to answer questions.",
+          "nl": "In de museummolen Nederwaard kun je boven in de bedstee gaan liggen en in het kleine woonkamertje kijken. Op het erf staat een molenaar klaar om vragen te beantwoorden.",
+          "pl": "In the museum mill of the Nederwaard you can lie down in the box bed upstairs and look into the tiny living room. A miller waits in the yard to answer questions.",
+          "cs": "In the museum mill of the Nederwaard you can lie down in the box bed upstairs and look into the tiny living room. A miller waits in the yard to answer questions.",
+          "sk": "In the museum mill of the Nederwaard you can lie down in the box bed upstairs and look into the tiny living room. A miller waits in the yard to answer questions.",
+          "ro": "In the museum mill of the Nederwaard you can lie down in the box bed upstairs and look into the tiny living room. A miller waits in the yard to answer questions.",
+          "hu": "In the museum mill of the Nederwaard you can lie down in the box bed upstairs and look into the tiny living room. A miller waits in the yard to answer questions.",
+          "da": "In the museum mill of the Nederwaard you can lie down in the box bed upstairs and look into the tiny living room. A miller waits in the yard to answer questions."
+        },
+        {
+          "en": "In the Blokweer, a wipmolen of 1630, millers in original costume show the life of a miller's family in the 1950s. Goats and a vegetable garden are in the yard. From outside you can see the scoop wheel move the water.",
+          "de": "In der Blokweer, einer Wippmühle von 1630, zeigen Müller in originaler Kleidung das Leben einer Müllerfamilie in den 1950er Jahren. Im Hof gibt es Ziegen und einen Gemüsegarten. Von außen siehst du, wie das Schöpfrad das Wasser bewegt.",
+          "fr": "Dans le Blokweer, un wipmolen de 1630, des meuniers en costume d'époque montrent la vie d'une famille de meuniers dans les années 1950. Des chèvres et un potager occupent la cour. De l'extérieur, on voit la roue à aubes déplacer l'eau.",
+          "it": "In the Blokweer, a wipmolen of 1630, millers in original costume show the life of a miller's family in the 1950s. Goats and a vegetable garden are in the yard. From outside you can see the scoop wheel move the water.",
+          "nl": "In de Blokweer, een wipmolen uit 1630, laten molenaars in originele kleding zien hoe een molenaarsgezin in de jaren vijftig leefde. Op het erf lopen geiten en ligt een moestuin. Van buiten zie je het scheprad het water verzetten.",
+          "pl": "In the Blokweer, a wipmolen of 1630, millers in original costume show the life of a miller's family in the 1950s. Goats and a vegetable garden are in the yard. From outside you can see the scoop wheel move the water.",
+          "cs": "In the Blokweer, a wipmolen of 1630, millers in original costume show the life of a miller's family in the 1950s. Goats and a vegetable garden are in the yard. From outside you can see the scoop wheel move the water.",
+          "sk": "In the Blokweer, a wipmolen of 1630, millers in original costume show the life of a miller's family in the 1950s. Goats and a vegetable garden are in the yard. From outside you can see the scoop wheel move the water.",
+          "ro": "In the Blokweer, a wipmolen of 1630, millers in original costume show the life of a miller's family in the 1950s. Goats and a vegetable garden are in the yard. From outside you can see the scoop wheel move the water.",
+          "hu": "In the Blokweer, a wipmolen of 1630, millers in original costume show the life of a miller's family in the 1950s. Goats and a vegetable garden are in the yard. From outside you can see the scoop wheel move the water.",
+          "da": "In the Blokweer, a wipmolen of 1630, millers in original costume show the life of a miller's family in the 1950s. Goats and a vegetable garden are in the yard. From outside you can see the scoop wheel move the water."
+        }
+      ]
+    },
+    {
+      "id": "practical",
+      "rows": [
+        {
+          "label": {
+            "en": "Address",
+            "de": "Adresse",
+            "fr": "Adresse",
+            "it": "Address",
+            "nl": "Adres",
+            "pl": "Address",
+            "cs": "Address",
+            "sk": "Address",
+            "ro": "Address",
+            "hu": "Address",
+            "da": "Address"
+          },
+          "value": {
+            "en": "Nederwaard 1b, 2961 AS Kinderdijk",
+            "de": "Nederwaard 1b, 2961 AS Kinderdijk",
+            "fr": "Nederwaard 1b, 2961 AS Kinderdijk",
+            "it": "Nederwaard 1b, 2961 AS Kinderdijk",
+            "nl": "Nederwaard 1b, 2961 AS Kinderdijk",
+            "pl": "Nederwaard 1b, 2961 AS Kinderdijk",
+            "cs": "Nederwaard 1b, 2961 AS Kinderdijk",
+            "sk": "Nederwaard 1b, 2961 AS Kinderdijk",
+            "ro": "Nederwaard 1b, 2961 AS Kinderdijk",
+            "hu": "Nederwaard 1b, 2961 AS Kinderdijk",
+            "da": "Nederwaard 1b, 2961 AS Kinderdijk"
+          }
+        },
+        {
+          "label": {
+            "en": "Until 1 November",
+            "de": "Bis 1. November",
+            "fr": "Jusqu'au 1er novembre",
+            "it": "Until 1 November",
+            "nl": "Tot 1 november",
+            "pl": "Until 1 November",
+            "cs": "Until 1 November",
+            "sk": "Until 1 November",
+            "ro": "Until 1 November",
+            "hu": "Until 1 November",
+            "da": "Until 1 November"
+          },
+          "value": {
+            "en": "Daily 09:00 to 17:30",
+            "de": "Täglich 09:00 bis 17:30 Uhr",
+            "fr": "Tous les jours de 9 h à 17 h 30",
+            "it": "Daily 09:00 to 17:30",
+            "nl": "Dagelijks 09.00 tot 17.30 uur",
+            "pl": "Daily 09:00 to 17:30",
+            "cs": "Daily 09:00 to 17:30",
+            "sk": "Daily 09:00 to 17:30",
+            "ro": "Daily 09:00 to 17:30",
+            "hu": "Daily 09:00 to 17:30",
+            "da": "Daily 09:00 to 17:30"
+          }
+        },
+        {
+          "label": {
+            "en": "From 2 November",
+            "de": "Ab 2. November",
+            "fr": "À partir du 2 novembre",
+            "it": "From 2 November",
+            "nl": "Vanaf 2 november",
+            "pl": "From 2 November",
+            "cs": "From 2 November",
+            "sk": "From 2 November",
+            "ro": "From 2 November",
+            "hu": "From 2 November",
+            "da": "From 2 November"
+          },
+          "value": {
+            "en": "Daily 10:30 to 16:00, closed on 25 December",
+            "de": "Täglich 10:30 bis 16:00 Uhr, am 25. Dezember geschlossen",
+            "fr": "Tous les jours de 10 h 30 à 16 h, fermé le 25 décembre",
+            "it": "Daily 10:30 to 16:00, closed on 25 December",
+            "nl": "Dagelijks 10.30 tot 16.00 uur, 25 december gesloten",
+            "pl": "Daily 10:30 to 16:00, closed on 25 December",
+            "cs": "Daily 10:30 to 16:00, closed on 25 December",
+            "sk": "Daily 10:30 to 16:00, closed on 25 December",
+            "ro": "Daily 10:30 to 16:00, closed on 25 December",
+            "hu": "Daily 10:30 to 16:00, closed on 25 December",
+            "da": "Daily 10:30 to 16:00, closed on 25 December"
+          }
+        },
+        {
+          "label": {
+            "en": "Tickets",
+            "de": "Tickets",
+            "fr": "Billets",
+            "it": "Tickets",
+            "nl": "Entree",
+            "pl": "Tickets",
+            "cs": "Tickets",
+            "sk": "Tickets",
+            "ro": "Tickets",
+            "hu": "Tickets",
+            "da": "Tickets"
+          },
+          "value": {
+            "en": "Adults €21, children 4 to 12 €9, under 4 free; 10% off when bought online",
+            "de": "Erwachsene 21 €, Kinder von 4 bis 12 Jahren 9 €, unter 4 Jahren frei; online 10 % günstiger",
+            "fr": "Adultes 21 €, enfants de 4 à 12 ans 9 €, gratuit pour les moins de 4 ans ; 10 % de réduction à l'achat en ligne",
+            "it": "Adults €21, children 4 to 12 €9, under 4 free; 10% off when bought online",
+            "nl": "Volwassenen € 21, kinderen van 4 tot 12 jaar € 9, tot 4 jaar gratis; online 10% korting",
+            "pl": "Adults €21, children 4 to 12 €9, under 4 free; 10% off when bought online",
+            "cs": "Adults €21, children 4 to 12 €9, under 4 free; 10% off when bought online",
+            "sk": "Adults €21, children 4 to 12 €9, under 4 free; 10% off when bought online",
+            "ro": "Adults €21, children 4 to 12 €9, under 4 free; 10% off when bought online",
+            "hu": "Adults €21, children 4 to 12 €9, under 4 free; 10% off when bought online",
+            "da": "Adults €21, children 4 to 12 €9, under 4 free; 10% off when bought online"
+          }
+        },
+        {
+          "label": {
+            "en": "Museumkaart",
+            "de": "Museumkaart",
+            "fr": "Museumkaart",
+            "it": "Museumkaart",
+            "nl": "Museumkaart",
+            "pl": "Museumkaart",
+            "cs": "Museumkaart",
+            "sk": "Museumkaart",
+            "ro": "Museumkaart",
+            "hu": "Museumkaart",
+            "da": "Museumkaart"
+          },
+          "value": {
+            "en": "No discount",
+            "de": "Keine Ermäßigung",
+            "fr": "Pas de réduction",
+            "it": "No discount",
+            "nl": "Geen korting",
+            "pl": "No discount",
+            "cs": "No discount",
+            "sk": "No discount",
+            "ro": "No discount",
+            "hu": "No discount",
+            "da": "No discount"
+          }
+        },
+        {
+          "label": {
+            "en": "Payment",
+            "de": "Bezahlung",
+            "fr": "Paiement",
+            "it": "Payment",
+            "nl": "Betalen",
+            "pl": "Payment",
+            "cs": "Payment",
+            "sk": "Payment",
+            "ro": "Payment",
+            "hu": "Payment",
+            "da": "Payment"
+          },
+          "value": {
+            "en": "Card only",
+            "de": "Nur Kartenzahlung",
+            "fr": "Carte uniquement",
+            "it": "Card only",
+            "nl": "Alleen met kaart",
+            "pl": "Card only",
+            "cs": "Card only",
+            "sk": "Card only",
+            "ro": "Card only",
+            "hu": "Card only",
+            "da": "Card only"
+          }
+        },
+        {
+          "label": {
+            "en": "Access",
+            "de": "Zugang",
+            "fr": "Accès",
+            "it": "Access",
+            "nl": "Toegankelijkheid",
+            "pl": "Access",
+            "cs": "Access",
+            "sk": "Access",
+            "ro": "Access",
+            "hu": "Access",
+            "da": "Access"
+          },
+          "value": {
+            "en": "Paths, yards and boats are accessible by wheelchair; the museum mills are not, because of narrow doors and steep stairs",
+            "de": "Wege, Höfe und Boote sind mit dem Rollstuhl zugänglich; die Museumsmühlen sind es wegen schmaler Türen und steiler Treppen nicht",
+            "fr": "Les chemins, les cours et les bateaux sont accessibles en fauteuil roulant ; les moulins-musées ne le sont pas, à cause des portes étroites et des escaliers raides",
+            "it": "Paths, yards and boats are accessible by wheelchair; the museum mills are not, because of narrow doors and steep stairs",
+            "nl": "Paden, erven en boten zijn toegankelijk met een rolstoel; de museummolens niet, door smalle deuren en steile trappen",
+            "pl": "Paths, yards and boats are accessible by wheelchair; the museum mills are not, because of narrow doors and steep stairs",
+            "cs": "Paths, yards and boats are accessible by wheelchair; the museum mills are not, because of narrow doors and steep stairs",
+            "sk": "Paths, yards and boats are accessible by wheelchair; the museum mills are not, because of narrow doors and steep stairs",
+            "ro": "Paths, yards and boats are accessible by wheelchair; the museum mills are not, because of narrow doors and steep stairs",
+            "hu": "Paths, yards and boats are accessible by wheelchair; the museum mills are not, because of narrow doors and steep stairs",
+            "da": "Paths, yards and boats are accessible by wheelchair; the museum mills are not, because of narrow doors and steep stairs"
+          }
+        },
+        {
+          "label": {
+            "en": "Contact",
+            "de": "Kontakt",
+            "fr": "Contact",
+            "it": "Contact",
+            "nl": "Contact",
+            "pl": "Contact",
+            "cs": "Contact",
+            "sk": "Contact",
+            "ro": "Contact",
+            "hu": "Contact",
+            "da": "Contact"
+          },
+          "value": {
+            "en": "+31 78 691 28 30, info@kinderdijk.nl",
+            "de": "+31 78 691 28 30, info@kinderdijk.nl",
+            "fr": "+31 78 691 28 30, info@kinderdijk.nl",
+            "it": "+31 78 691 28 30, info@kinderdijk.nl",
+            "nl": "+31 78 691 28 30, info@kinderdijk.nl",
+            "pl": "+31 78 691 28 30, info@kinderdijk.nl",
+            "cs": "+31 78 691 28 30, info@kinderdijk.nl",
+            "sk": "+31 78 691 28 30, info@kinderdijk.nl",
+            "ro": "+31 78 691 28 30, info@kinderdijk.nl",
+            "hu": "+31 78 691 28 30, info@kinderdijk.nl",
+            "da": "+31 78 691 28 30, info@kinderdijk.nl"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "Practical",
+        "de": "Praktisches",
+        "fr": "Infos pratiques",
+        "it": "Practical",
+        "nl": "Praktisch",
+        "pl": "Practical",
+        "cs": "Practical",
+        "sk": "Practical",
+        "ro": "Practical",
+        "hu": "Practical",
+        "da": "Practical"
+      },
+      "title": {
+        "en": "Opening hours and tickets",
+        "de": "Öffnungszeiten und Tickets",
+        "fr": "Horaires et billets",
+        "it": "Opening hours and tickets",
+        "nl": "Openingstijden en entree",
+        "pl": "Opening hours and tickets",
+        "cs": "Opening hours and tickets",
+        "sk": "Opening hours and tickets",
+        "ro": "Opening hours and tickets",
+        "hu": "Opening hours and tickets",
+        "da": "Opening hours and tickets"
+      },
+      "buttons": [
+        {
+          "href": "https://kinderdijk.nl/ticket-informatie/",
+          "label": {
+            "en": "Werelderfgoed Kinderdijk",
+            "de": "Werelderfgoed Kinderdijk",
+            "fr": "Werelderfgoed Kinderdijk",
+            "it": "Werelderfgoed Kinderdijk",
+            "nl": "Werelderfgoed Kinderdijk",
+            "pl": "Werelderfgoed Kinderdijk",
+            "cs": "Werelderfgoed Kinderdijk",
+            "sk": "Werelderfgoed Kinderdijk",
+            "ro": "Werelderfgoed Kinderdijk",
+            "hu": "Werelderfgoed Kinderdijk",
+            "da": "Werelderfgoed Kinderdijk"
+          }
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "type": "tiles",
+      "label": {
+        "en": "How to get there",
+        "de": "Anfahrt",
+        "fr": "Comment s'y rendre",
+        "it": "How to get there",
+        "nl": "Hoe je er komt",
+        "pl": "How to get there",
+        "cs": "How to get there",
+        "sk": "How to get there",
+        "ro": "How to get there",
+        "hu": "How to get there",
+        "da": "How to get there"
+      },
+      "tiles": [
+        {
+          "icon": "pin",
+          "text": {
+            "en": "The WaterShuttle from the Erasmus Bridge in Rotterdam (Willemskade) takes under half an hour and costs €9.75 single, daily until 25 October and Friday to Sunday after that.",
+            "de": "Der WaterShuttle von der Erasmusbrücke in Rotterdam (Willemskade) braucht keine halbe Stunde, die einfache Fahrt kostet 9,75 €. Bis 25. Oktober fährt er täglich, danach von Freitag bis Sonntag.",
+            "fr": "Le WaterShuttle part du pont Érasme à Rotterdam (Willemskade), met moins d'une demi-heure et coûte 9,75 € l'aller simple, tous les jours jusqu'au 25 octobre, puis du vendredi au dimanche.",
+            "it": "The WaterShuttle from the Erasmus Bridge in Rotterdam (Willemskade) takes under half an hour and costs €9.75 single, daily until 25 October and Friday to Sunday after that.",
+            "nl": "De WaterShuttle vertrekt in Rotterdam bij de Erasmusbrug (Willemskade) en doet er nog geen half uur over. Een enkele reis kost € 9,75. Tot 25 oktober vaart hij dagelijks, daarna van vrijdag tot en met zondag.",
+            "pl": "The WaterShuttle from the Erasmus Bridge in Rotterdam (Willemskade) takes under half an hour and costs €9.75 single, daily until 25 October and Friday to Sunday after that.",
+            "cs": "The WaterShuttle from the Erasmus Bridge in Rotterdam (Willemskade) takes under half an hour and costs €9.75 single, daily until 25 October and Friday to Sunday after that.",
+            "sk": "The WaterShuttle from the Erasmus Bridge in Rotterdam (Willemskade) takes under half an hour and costs €9.75 single, daily until 25 October and Friday to Sunday after that.",
+            "ro": "The WaterShuttle from the Erasmus Bridge in Rotterdam (Willemskade) takes under half an hour and costs €9.75 single, daily until 25 October and Friday to Sunday after that.",
+            "hu": "The WaterShuttle from the Erasmus Bridge in Rotterdam (Willemskade) takes under half an hour and costs €9.75 single, daily until 25 October and Friday to Sunday after that.",
+            "da": "The WaterShuttle from the Erasmus Bridge in Rotterdam (Willemskade) takes under half an hour and costs €9.75 single, daily until 25 October and Friday to Sunday after that."
+          },
+          "title": {
+            "en": "By WaterShuttle",
+            "de": "Mit dem WaterShuttle",
+            "fr": "En WaterShuttle",
+            "it": "By WaterShuttle",
+            "nl": "Met de WaterShuttle",
+            "pl": "By WaterShuttle",
+            "cs": "By WaterShuttle",
+            "sk": "By WaterShuttle",
+            "ro": "By WaterShuttle",
+            "hu": "By WaterShuttle",
+            "da": "By WaterShuttle"
+          }
+        },
+        {
+          "icon": "pin",
+          "text": {
+            "en": "Bus 489 runs twice an hour, every day, from the metro stop Rotterdam Kralingse Zoom to Kinderdijk Molenkade in about 35 minutes.",
+            "de": "Bus 489 fährt täglich zweimal pro Stunde von der Metrostation Rotterdam Kralingse Zoom nach Kinderdijk Molenkade und braucht etwa 35 Minuten.",
+            "fr": "Le bus 489 circule deux fois par heure, tous les jours, de la station de métro Rotterdam Kralingse Zoom à Kinderdijk Molenkade, en 35 minutes environ.",
+            "it": "Bus 489 runs twice an hour, every day, from the metro stop Rotterdam Kralingse Zoom to Kinderdijk Molenkade in about 35 minutes.",
+            "nl": "Bus 489 rijdt elke dag twee keer per uur van metrostation Rotterdam Kralingse Zoom naar Kinderdijk Molenkade, in ongeveer 35 minuten.",
+            "pl": "Bus 489 runs twice an hour, every day, from the metro stop Rotterdam Kralingse Zoom to Kinderdijk Molenkade in about 35 minutes.",
+            "cs": "Bus 489 runs twice an hour, every day, from the metro stop Rotterdam Kralingse Zoom to Kinderdijk Molenkade in about 35 minutes.",
+            "sk": "Bus 489 runs twice an hour, every day, from the metro stop Rotterdam Kralingse Zoom to Kinderdijk Molenkade in about 35 minutes.",
+            "ro": "Bus 489 runs twice an hour, every day, from the metro stop Rotterdam Kralingse Zoom to Kinderdijk Molenkade in about 35 minutes.",
+            "hu": "Bus 489 runs twice an hour, every day, from the metro stop Rotterdam Kralingse Zoom to Kinderdijk Molenkade in about 35 minutes.",
+            "da": "Bus 489 runs twice an hour, every day, from the metro stop Rotterdam Kralingse Zoom to Kinderdijk Molenkade in about 35 minutes."
+          },
+          "title": {
+            "en": "By bus",
+            "de": "Mit dem Bus",
+            "fr": "En bus",
+            "it": "By bus",
+            "nl": "Met de bus",
+            "pl": "By bus",
+            "cs": "By bus",
+            "sk": "By bus",
+            "ro": "By bus",
+            "hu": "By bus",
+            "da": "By bus"
+          }
+        },
+        {
+          "icon": "car",
+          "text": {
+            "en": "From 2 November, with the Transferium closed, parking at the entrance costs €9.75 per car with an entry ticket.",
+            "de": "Ab 2. November ist das Transferium geschlossen. Mit Eintrittskarte kostet das Parken am Eingang dann 9,75 € pro Auto.",
+            "fr": "À partir du 2 novembre, le Transferium étant fermé, le stationnement à l'entrée coûte 9,75 € par voiture avec un billet d'entrée.",
+            "it": "From 2 November, with the Transferium closed, parking at the entrance costs €9.75 per car with an entry ticket.",
+            "nl": "Vanaf 2 november is het Transferium gesloten. Parkeren bij de ingang kost dan € 9,75 per auto met een entreebewijs.",
+            "pl": "From 2 November, with the Transferium closed, parking at the entrance costs €9.75 per car with an entry ticket.",
+            "cs": "From 2 November, with the Transferium closed, parking at the entrance costs €9.75 per car with an entry ticket.",
+            "sk": "From 2 November, with the Transferium closed, parking at the entrance costs €9.75 per car with an entry ticket.",
+            "ro": "From 2 November, with the Transferium closed, parking at the entrance costs €9.75 per car with an entry ticket.",
+            "hu": "From 2 November, with the Transferium closed, parking at the entrance costs €9.75 per car with an entry ticket.",
+            "da": "From 2 November, with the Transferium closed, parking at the entrance costs €9.75 per car with an entry ticket."
+          },
+          "title": {
+            "en": "By car",
+            "de": "Mit dem Auto",
+            "fr": "En voiture",
+            "it": "By car",
+            "nl": "Met de auto",
+            "pl": "By car",
+            "cs": "By car",
+            "sk": "By car",
+            "ro": "By car",
+            "hu": "By car",
+            "da": "By car"
+          }
+        }
+      ],
+      "title": {
+        "en": "Boat, bus and car",
+        "de": "Boot, Bus und Auto",
+        "fr": "Bateau, bus et voiture",
+        "it": "Boat, bus and car",
+        "nl": "Boot, bus en auto",
+        "pl": "Boat, bus and car",
+        "cs": "Boat, bus and car",
+        "sk": "Boat, bus and car",
+        "ro": "Boat, bus and car",
+        "hu": "Boat, bus and car",
+        "da": "Boat, bus and car"
+      }
+    },
+    {
+      "id": "season",
+      "text": {
+        "en": "The Hopper is the only boat on the site from 1 November. From 2 November the last WaterShuttle back to Rotterdam leaves at 16:35, after the site has closed.",
+        "de": "Ab 1. November fährt auf dem Gelände nur noch der Hopper. Ab 2. November legt der letzte WaterShuttle nach Rotterdam um 16:35 Uhr ab, nach Schließung des Geländes.",
+        "fr": "À partir du 1er novembre, le Hopper est le seul bateau sur le site. À partir du 2 novembre, le dernier WaterShuttle vers Rotterdam part à 16 h 35, après la fermeture du site.",
+        "it": "The Hopper is the only boat on the site from 1 November. From 2 November the last WaterShuttle back to Rotterdam leaves at 16:35, after the site has closed.",
+        "nl": "Vanaf 1 november is de Hopper de enige boot op het terrein. Vanaf 2 november vertrekt de laatste WaterShuttle naar Rotterdam om 16.35 uur, nadat het terrein is gesloten.",
+        "pl": "The Hopper is the only boat on the site from 1 November. From 2 November the last WaterShuttle back to Rotterdam leaves at 16:35, after the site has closed.",
+        "cs": "The Hopper is the only boat on the site from 1 November. From 2 November the last WaterShuttle back to Rotterdam leaves at 16:35, after the site has closed.",
+        "sk": "The Hopper is the only boat on the site from 1 November. From 2 November the last WaterShuttle back to Rotterdam leaves at 16:35, after the site has closed.",
+        "ro": "The Hopper is the only boat on the site from 1 November. From 2 November the last WaterShuttle back to Rotterdam leaves at 16:35, after the site has closed.",
+        "hu": "The Hopper is the only boat on the site from 1 November. From 2 November the last WaterShuttle back to Rotterdam leaves at 16:35, after the site has closed.",
+        "da": "The Hopper is the only boat on the site from 1 November. From 2 November the last WaterShuttle back to Rotterdam leaves at 16:35, after the site has closed."
+      },
+      "type": "note"
+    },
+    {
+      "id": "afterwards",
+      "type": "text",
+      "label": {
+        "en": "Afterwards",
+        "de": "Danach",
+        "fr": "Après la visite",
+        "it": "Afterwards",
+        "nl": "Daarna",
+        "pl": "Afterwards",
+        "cs": "Afterwards",
+        "sk": "Afterwards",
+        "ro": "Afterwards",
+        "hu": "Afterwards",
+        "da": "Afterwards"
+      },
+      "title": {
+        "en": "Dordrecht and its Grote Kerk",
+        "de": "Dordrecht und die Grote Kerk",
+        "fr": "Dordrecht et sa Grote Kerk",
+        "it": "Dordrecht and its Grote Kerk",
+        "nl": "Dordrecht en de Grote Kerk",
+        "pl": "Dordrecht and its Grote Kerk",
+        "cs": "Dordrecht and its Grote Kerk",
+        "sk": "Dordrecht and its Grote Kerk",
+        "ro": "Dordrecht and its Grote Kerk",
+        "hu": "Dordrecht and its Grote Kerk",
+        "da": "Dordrecht and its Grote Kerk"
+      },
+      "visual": {
+        "type": "stamp",
+        "stamp": {
+          "name": {
+            "en": "Dordrecht, City View",
+            "de": "Dordrecht, Stadtansicht",
+            "fr": "Dordrecht, vue de la ville",
+            "it": "Dordrecht, City View",
+            "nl": "Dordrecht, stadsgezicht",
+            "pl": "Dordrecht, City View",
+            "cs": "Dordrecht, City View",
+            "sk": "Dordrecht, City View",
+            "ro": "Dordrecht, City View",
+            "hu": "Dordrecht, City View",
+            "da": "Dordrecht, City View"
+          },
+          "year": 1965,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/2f577b2fa44e055a/kdk-stamp-nl_844.png",
+            "width": 1100,
+            "height": 781
+          },
+          "country": "NL",
+          "stamp_id": "SIQ-NL-1965-009"
+        }
+      },
+      "buttons": [],
+      "paragraphs": [
+        {
+          "en": "Dordrecht is about 8 kilometres south of Kinderdijk. Bus 489 goes to Alblasserdam, where bus 416 to Dordrecht leaves every half hour, every day. On weekdays bus 93 runs once an hour between Dordrecht station and Kinderdijk.",
+          "de": "Dordrecht liegt rund 8 Kilometer südlich von Kinderdijk. Bus 489 fährt nach Alblasserdam, von dort fährt Bus 416 täglich alle halbe Stunde nach Dordrecht. Werktags fährt Bus 93 einmal pro Stunde zwischen dem Bahnhof Dordrecht und Kinderdijk.",
+          "fr": "Dordrecht se trouve à environ 8 kilomètres au sud de Kinderdijk. Le bus 489 va jusqu'à Alblasserdam, d'où le bus 416 part pour Dordrecht toutes les demi-heures, tous les jours. En semaine, le bus 93 relie la gare de Dordrecht à Kinderdijk une fois par heure.",
+          "it": "Dordrecht is about 8 kilometres south of Kinderdijk. Bus 489 goes to Alblasserdam, where bus 416 to Dordrecht leaves every half hour, every day. On weekdays bus 93 runs once an hour between Dordrecht station and Kinderdijk.",
+          "nl": "Dordrecht ligt ongeveer 8 kilometer ten zuiden van Kinderdijk. Bus 489 rijdt naar Alblasserdam, waar elke dag om het half uur bus 416 naar Dordrecht vertrekt. Op werkdagen rijdt bus 93 een keer per uur tussen station Dordrecht en Kinderdijk.",
+          "pl": "Dordrecht is about 8 kilometres south of Kinderdijk. Bus 489 goes to Alblasserdam, where bus 416 to Dordrecht leaves every half hour, every day. On weekdays bus 93 runs once an hour between Dordrecht station and Kinderdijk.",
+          "cs": "Dordrecht is about 8 kilometres south of Kinderdijk. Bus 489 goes to Alblasserdam, where bus 416 to Dordrecht leaves every half hour, every day. On weekdays bus 93 runs once an hour between Dordrecht station and Kinderdijk.",
+          "sk": "Dordrecht is about 8 kilometres south of Kinderdijk. Bus 489 goes to Alblasserdam, where bus 416 to Dordrecht leaves every half hour, every day. On weekdays bus 93 runs once an hour between Dordrecht station and Kinderdijk.",
+          "ro": "Dordrecht is about 8 kilometres south of Kinderdijk. Bus 489 goes to Alblasserdam, where bus 416 to Dordrecht leaves every half hour, every day. On weekdays bus 93 runs once an hour between Dordrecht station and Kinderdijk.",
+          "hu": "Dordrecht is about 8 kilometres south of Kinderdijk. Bus 489 goes to Alblasserdam, where bus 416 to Dordrecht leaves every half hour, every day. On weekdays bus 93 runs once an hour between Dordrecht station and Kinderdijk.",
+          "da": "Dordrecht is about 8 kilometres south of Kinderdijk. Bus 489 goes to Alblasserdam, where bus 416 to Dordrecht leaves every half hour, every day. On weekdays bus 93 runs once an hour between Dordrecht station and Kinderdijk."
+        },
+        {
+          "en": "A summer stamp of 1965, 18 cent + 12, shows the tower of the Grote Kerk above the houses on the waterfront. On the StampIQ map Papendrecht has a pin too, for a stamp of 2005 with a flag on a dyke. To the east, in Hoornaar, a stamp of 2013 shows the Oudendijkse Molen, a wipmolen like the Blokweer.",
+          "de": "Eine Sommermarke von 1965 zu 18 + 12 Cent zeigt den Turm der Grote Kerk über den Häusern am Wasser. Auf der Karte in StampIQ ist auch Papendrecht markiert: für eine Marke von 2005 mit einer Flagge auf einem Deich. Weiter östlich, in Hoornaar, zeigt eine Marke von 2013 die Oudendijkse Molen, eine Wippmühle wie die Blokweer.",
+          "fr": "Un timbre d'été de 1965, 18 cents + 12, montre la tour de la Grote Kerk au-dessus des maisons du quai. Sur la carte de StampIQ, Papendrecht a aussi un repère, pour un timbre de 2005 avec un drapeau sur une digue. À l'est, à Hoornaar, un timbre de 2013 montre l'Oudendijkse Molen, un wipmolen comme le Blokweer.",
+          "it": "A summer stamp of 1965, 18 cent + 12, shows the tower of the Grote Kerk above the houses on the waterfront. On the StampIQ map Papendrecht has a pin too, for a stamp of 2005 with a flag on a dyke. To the east, in Hoornaar, a stamp of 2013 shows the Oudendijkse Molen, a wipmolen like the Blokweer.",
+          "nl": "Een zomerzegel uit 1965, 18 cent + 12, toont de toren van de Grote Kerk boven de huizen aan het water. Op de kaart in StampIQ heeft ook Papendrecht een pin, voor een postzegel uit 2005 met een vlag op een dijk. Verder naar het oosten, in Hoornaar, staat op een postzegel uit 2013 de Oudendijkse Molen, een wipmolen zoals de Blokweer.",
+          "pl": "A summer stamp of 1965, 18 cent + 12, shows the tower of the Grote Kerk above the houses on the waterfront. On the StampIQ map Papendrecht has a pin too, for a stamp of 2005 with a flag on a dyke. To the east, in Hoornaar, a stamp of 2013 shows the Oudendijkse Molen, a wipmolen like the Blokweer.",
+          "cs": "A summer stamp of 1965, 18 cent + 12, shows the tower of the Grote Kerk above the houses on the waterfront. On the StampIQ map Papendrecht has a pin too, for a stamp of 2005 with a flag on a dyke. To the east, in Hoornaar, a stamp of 2013 shows the Oudendijkse Molen, a wipmolen like the Blokweer.",
+          "sk": "A summer stamp of 1965, 18 cent + 12, shows the tower of the Grote Kerk above the houses on the waterfront. On the StampIQ map Papendrecht has a pin too, for a stamp of 2005 with a flag on a dyke. To the east, in Hoornaar, a stamp of 2013 shows the Oudendijkse Molen, a wipmolen like the Blokweer.",
+          "ro": "A summer stamp of 1965, 18 cent + 12, shows the tower of the Grote Kerk above the houses on the waterfront. On the StampIQ map Papendrecht has a pin too, for a stamp of 2005 with a flag on a dyke. To the east, in Hoornaar, a stamp of 2013 shows the Oudendijkse Molen, a wipmolen like the Blokweer.",
+          "hu": "A summer stamp of 1965, 18 cent + 12, shows the tower of the Grote Kerk above the houses on the waterfront. On the StampIQ map Papendrecht has a pin too, for a stamp of 2005 with a flag on a dyke. To the east, in Hoornaar, a stamp of 2013 shows the Oudendijkse Molen, a wipmolen like the Blokweer.",
+          "da": "A summer stamp of 1965, 18 cent + 12, shows the tower of the Grote Kerk above the houses on the waterfront. On the StampIQ map Papendrecht has a pin too, for a stamp of 2005 with a flag on a dyke. To the east, in Hoornaar, a stamp of 2013 shows the Oudendijkse Molen, a wipmolen like the Blokweer."
+        },
+        {
+          "en": "The tower of the Grote Kerk has 275 steps. From the top you see the Van Brienenoord bridges and the Euromast to the west. In November the church and the tower are open only on the Saturdays 14, 21 and 28 November, from 12:00 to 16:00, for €4.",
+          "de": "Der Turm der Grote Kerk hat 275 Stufen. Von oben siehst du nach Westen die Van-Brienenoord-Brücken und den Euromast. Im November sind Kirche und Turm nur an den Samstagen 14., 21. und 28. November geöffnet, von 12:00 bis 16:00 Uhr, für 4 €.",
+          "fr": "La tour de la Grote Kerk compte 275 marches. Du sommet, on aperçoit les ponts Van Brienenoord et l'Euromast à l'ouest. En novembre, l'église et la tour n'ouvrent que les samedis 14, 21 et 28 novembre, de 12 h à 16 h, pour 4 €.",
+          "it": "The tower of the Grote Kerk has 275 steps. From the top you see the Van Brienenoord bridges and the Euromast to the west. In November the church and the tower are open only on the Saturdays 14, 21 and 28 November, from 12:00 to 16:00, for €4.",
+          "nl": "De toren van de Grote Kerk heeft 275 treden. Van boven zie je in het westen de Van Brienenoordbruggen en de Euromast. In november zijn de kerk en de toren alleen open op zaterdag 14, 21 en 28 november, van 12.00 tot 16.00 uur, voor € 4.",
+          "pl": "The tower of the Grote Kerk has 275 steps. From the top you see the Van Brienenoord bridges and the Euromast to the west. In November the church and the tower are open only on the Saturdays 14, 21 and 28 November, from 12:00 to 16:00, for €4.",
+          "cs": "The tower of the Grote Kerk has 275 steps. From the top you see the Van Brienenoord bridges and the Euromast to the west. In November the church and the tower are open only on the Saturdays 14, 21 and 28 November, from 12:00 to 16:00, for €4.",
+          "sk": "The tower of the Grote Kerk has 275 steps. From the top you see the Van Brienenoord bridges and the Euromast to the west. In November the church and the tower are open only on the Saturdays 14, 21 and 28 November, from 12:00 to 16:00, for €4.",
+          "ro": "The tower of the Grote Kerk has 275 steps. From the top you see the Van Brienenoord bridges and the Euromast to the west. In November the church and the tower are open only on the Saturdays 14, 21 and 28 November, from 12:00 to 16:00, for €4.",
+          "hu": "The tower of the Grote Kerk has 275 steps. From the top you see the Van Brienenoord bridges and the Euromast to the west. In November the church and the tower are open only on the Saturdays 14, 21 and 28 November, from 12:00 to 16:00, for €4.",
+          "da": "The tower of the Grote Kerk has 275 steps. From the top you see the Van Brienenoord bridges and the Euromast to the west. In November the church and the tower are open only on the Saturdays 14, 21 and 28 November, from 12:00 to 16:00, for €4."
+        }
+      ]
+    }
+  ]
+}
