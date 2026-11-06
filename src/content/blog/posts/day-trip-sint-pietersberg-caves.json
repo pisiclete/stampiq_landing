@@ -1,0 +1,1260 @@
+{
+  "category": "day-trips",
+  "markets": [
+    "NL",
+    "BE",
+    "LU"
+  ],
+  "langs": [
+    "en",
+    "de",
+    "fr",
+    "nl"
+  ],
+  "published_at": "2026-11-06T08:30:00+00:00",
+  "thumbnail": {
+    "src": "https://assets.stampiq.io/blog/3adbea2ca41c40c7/sp-quarry.jpg",
+    "width": 2400,
+    "height": 1350
+  },
+  "languages": {
+    "en": {
+      "slug": "day-trip-sint-pietersberg-caves",
+      "title": "Day trip: the caves of the Sint-Pietersberg",
+      "description": "A 2022 stamp sheet shows the Sint-Pietersberg near Maastricht. How to tour the marl tunnels 30 metres down, Fort Sint Pieter and the nearby town."
+    },
+    "de": {
+      "slug": "tagesausflug-hoehlen-sint-pietersberg",
+      "title": "Tagesausflug: die Höhlen des Sint-Pietersberg",
+      "description": "Ein Bogen von 2022 zeigt den Sint-Pietersberg bei Maastricht. So besuchst du die Mergelgänge 30 Meter unter der Erde, das Fort Sint Pieter und die Stadt."
+    },
+    "fr": {
+      "slug": "excursion-grottes-sint-pietersberg",
+      "title": "Excursion : les grottes du Sint-Pietersberg",
+      "description": "Un feuillet de 2022 montre le Sint-Pietersberg près de Maastricht. Visiter les galeries de marne à 30 mètres sous terre, le Fort Sint Pieter et la ville."
+    },
+    "it": {
+      "slug": "day-trip-sint-pietersberg-caves",
+      "title": "Day trip: the caves of the Sint-Pietersberg",
+      "description": "A 2022 stamp sheet shows the Sint-Pietersberg near Maastricht. How to tour the marl tunnels 30 metres down, Fort Sint Pieter and the nearby town."
+    },
+    "nl": {
+      "slug": "dagtrip-grotten-sint-pietersberg",
+      "title": "Dagtrip: de grotten van de Sint-Pietersberg",
+      "description": "Een postzegelvel uit 2022 toont de Sint-Pietersberg bij Maastricht. Zo bezoek je de mergelgangen op 30 meter diepte, Fort Sint Pieter en de stad."
+    },
+    "pl": {
+      "slug": "day-trip-sint-pietersberg-caves",
+      "title": "Day trip: the caves of the Sint-Pietersberg",
+      "description": "A 2022 stamp sheet shows the Sint-Pietersberg near Maastricht. How to tour the marl tunnels 30 metres down, Fort Sint Pieter and the nearby town."
+    },
+    "cs": {
+      "slug": "day-trip-sint-pietersberg-caves",
+      "title": "Day trip: the caves of the Sint-Pietersberg",
+      "description": "A 2022 stamp sheet shows the Sint-Pietersberg near Maastricht. How to tour the marl tunnels 30 metres down, Fort Sint Pieter and the nearby town."
+    },
+    "sk": {
+      "slug": "day-trip-sint-pietersberg-caves",
+      "title": "Day trip: the caves of the Sint-Pietersberg",
+      "description": "A 2022 stamp sheet shows the Sint-Pietersberg near Maastricht. How to tour the marl tunnels 30 metres down, Fort Sint Pieter and the nearby town."
+    },
+    "ro": {
+      "slug": "day-trip-sint-pietersberg-caves",
+      "title": "Day trip: the caves of the Sint-Pietersberg",
+      "description": "A 2022 stamp sheet shows the Sint-Pietersberg near Maastricht. How to tour the marl tunnels 30 metres down, Fort Sint Pieter and the nearby town."
+    },
+    "hu": {
+      "slug": "day-trip-sint-pietersberg-caves",
+      "title": "Day trip: the caves of the Sint-Pietersberg",
+      "description": "A 2022 stamp sheet shows the Sint-Pietersberg near Maastricht. How to tour the marl tunnels 30 metres down, Fort Sint Pieter and the nearby town."
+    },
+    "da": {
+      "slug": "day-trip-sint-pietersberg-caves",
+      "title": "Day trip: the caves of the Sint-Pietersberg",
+      "description": "A 2022 stamp sheet shows the Sint-Pietersberg near Maastricht. How to tour the marl tunnels 30 metres down, Fort Sint Pieter and the nearby town."
+    }
+  },
+  "header": {
+    "lead": {
+      "en": "In March 1942 Rembrandt's Night Watch was taken into a vault 35 metres inside the Sint-Pietersberg, south of Maastricht, and stayed there rolled up until June 1945. A PostNL sheet of 2022 puts the animals and plants of the hill on ten stamps, among them a bat that winters in its tunnels.",
+      "de": "Im März 1942 kam Rembrandts Nachtwache in einen Tresorraum 35 Meter tief im Sint-Pietersberg südlich von Maastricht. Zusammengerollt blieb sie dort bis Juni 1945. Ein PostNL-Bogen von 2022 zeigt Tiere und Pflanzen des Bergs auf zehn Briefmarken, darunter eine Fledermaus, die in seinen Gängen überwintert.",
+      "fr": "En mars 1942, La Ronde de nuit de Rembrandt a été descendue dans une chambre forte creusée à 35 mètres sous le Sint-Pietersberg, au sud de Maastricht. Elle y est restée enroulée jusqu'en juin 1945. Un feuillet PostNL de 2022 consacre dix timbres aux animaux et aux plantes de la colline, dont une chauve-souris qui hiverne dans ses galeries.",
+      "it": "In March 1942 Rembrandt's Night Watch was taken into a vault 35 metres inside the Sint-Pietersberg, south of Maastricht, and stayed there rolled up until June 1945. A PostNL sheet of 2022 puts the animals and plants of the hill on ten stamps, among them a bat that winters in its tunnels.",
+      "nl": "In maart 1942 werd Rembrandts Nachtwacht naar een kluis gebracht, 35 meter diep in de Sint-Pietersberg ten zuiden van Maastricht. Opgerold bleef het doek daar tot juni 1945. Een PostNL-vel uit 2022 zet de dieren en planten van de berg op tien postzegels, waaronder een vleermuis die in de gangen overwintert.",
+      "pl": "In March 1942 Rembrandt's Night Watch was taken into a vault 35 metres inside the Sint-Pietersberg, south of Maastricht, and stayed there rolled up until June 1945. A PostNL sheet of 2022 puts the animals and plants of the hill on ten stamps, among them a bat that winters in its tunnels.",
+      "cs": "In March 1942 Rembrandt's Night Watch was taken into a vault 35 metres inside the Sint-Pietersberg, south of Maastricht, and stayed there rolled up until June 1945. A PostNL sheet of 2022 puts the animals and plants of the hill on ten stamps, among them a bat that winters in its tunnels.",
+      "sk": "In March 1942 Rembrandt's Night Watch was taken into a vault 35 metres inside the Sint-Pietersberg, south of Maastricht, and stayed there rolled up until June 1945. A PostNL sheet of 2022 puts the animals and plants of the hill on ten stamps, among them a bat that winters in its tunnels.",
+      "ro": "In March 1942 Rembrandt's Night Watch was taken into a vault 35 metres inside the Sint-Pietersberg, south of Maastricht, and stayed there rolled up until June 1945. A PostNL sheet of 2022 puts the animals and plants of the hill on ten stamps, among them a bat that winters in its tunnels.",
+      "hu": "In March 1942 Rembrandt's Night Watch was taken into a vault 35 metres inside the Sint-Pietersberg, south of Maastricht, and stayed there rolled up until June 1945. A PostNL sheet of 2022 puts the animals and plants of the hill on ten stamps, among them a bat that winters in its tunnels.",
+      "da": "In March 1942 Rembrandt's Night Watch was taken into a vault 35 metres inside the Sint-Pietersberg, south of Maastricht, and stayed there rolled up until June 1945. A PostNL sheet of 2022 puts the animals and plants of the hill on ten stamps, among them a bat that winters in its tunnels."
+    },
+    "visual": {
+      "type": "stamp",
+      "stamp": {
+        "name": {
+          "en": "Whiskered Bat",
+          "de": "Bartfledermaus",
+          "fr": "Murin à moustaches",
+          "it": "Whiskered Bat",
+          "nl": "Baardvleermuis",
+          "pl": "Whiskered Bat",
+          "cs": "Whiskered Bat",
+          "sk": "Whiskered Bat",
+          "ro": "Whiskered Bat",
+          "hu": "Whiskered Bat",
+          "da": "Whiskered Bat"
+        },
+        "year": 2022,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/cde3aba7fde1e3fb/sp-stamp-bat.png",
+          "width": 1100,
+          "height": 822
+        },
+        "country": "NL",
+        "stamp_id": "SIQ-NL-2022-041"
+      }
+    },
+    "location": "Sint-Pietersberg, Maastricht, Limburg, Netherlands"
+  },
+  "blocks": [
+    {
+      "id": "web-map",
+      "type": "text",
+      "label": {
+        "en": "Planning at home",
+        "de": "Planung zu Hause",
+        "fr": "Préparer chez soi",
+        "it": "Planning at home",
+        "nl": "Thuis plannen",
+        "pl": "Planning at home",
+        "cs": "Planning at home",
+        "sk": "Planning at home",
+        "ro": "Planning at home",
+        "hu": "Planning at home",
+        "da": "Planning at home"
+      },
+      "title": {
+        "en": "The pin on the hill",
+        "de": "Der Pin auf dem Berg",
+        "fr": "Le repère sur la colline",
+        "it": "The pin on the hill",
+        "nl": "De pin op de berg",
+        "pl": "The pin on the hill",
+        "cs": "The pin on the hill",
+        "sk": "The pin on the hill",
+        "ro": "The pin on the hill",
+        "hu": "The pin on the hill",
+        "da": "The pin on the hill"
+      },
+      "visual": {
+        "type": "animation",
+        "animation": {
+          "src": "https://assets.stampiq.io/blog/74a2939850eae0dd/sint-pietersberg.mp4",
+          "width": 960,
+          "height": 510,
+          "poster": "https://assets.stampiq.io/blog/1250effb52b266da/sint-pietersberg.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "When you plan a weekend in Maastricht at home on the computer, the PostNL sheet \"Beleef de natuur - Sint-Pietersberg\" raises two questions. Where is the hill, and which of its stamps are still missing from the collection?",
+          "de": "Wenn du zu Hause am Computer ein Wochenende in Maastricht planst, wirft der PostNL-Bogen „Beleef de natuur - Sint-Pietersberg“ zwei Fragen auf. Wo liegt der Berg, und welche Marken des Bogens fehlen noch in der Sammlung?",
+          "fr": "Quand tu prépares chez toi, sur l'ordinateur, un week-end à Maastricht, le feuillet PostNL « Beleef de natuur - Sint-Pietersberg » soulève deux questions. Où se trouve cette colline ? Quels timbres du feuillet manquent encore à la collection ?",
+          "it": "When you plan a weekend in Maastricht at home on the computer, the PostNL sheet \"Beleef de natuur - Sint-Pietersberg\" raises two questions. Where is the hill, and which of its stamps are still missing from the collection?",
+          "nl": "Plan je thuis achter de computer een weekendje Maastricht, dan roept het PostNL-vel „Beleef de natuur - Sint-Pietersberg” twee vragen op. Waar ligt de berg precies, en welke postzegels uit het vel ontbreken nog in de verzameling?",
+          "pl": "When you plan a weekend in Maastricht at home on the computer, the PostNL sheet \"Beleef de natuur - Sint-Pietersberg\" raises two questions. Where is the hill, and which of its stamps are still missing from the collection?",
+          "cs": "When you plan a weekend in Maastricht at home on the computer, the PostNL sheet \"Beleef de natuur - Sint-Pietersberg\" raises two questions. Where is the hill, and which of its stamps are still missing from the collection?",
+          "sk": "When you plan a weekend in Maastricht at home on the computer, the PostNL sheet \"Beleef de natuur - Sint-Pietersberg\" raises two questions. Where is the hill, and which of its stamps are still missing from the collection?",
+          "ro": "When you plan a weekend in Maastricht at home on the computer, the PostNL sheet \"Beleef de natuur - Sint-Pietersberg\" raises two questions. Where is the hill, and which of its stamps are still missing from the collection?",
+          "hu": "When you plan a weekend in Maastricht at home on the computer, the PostNL sheet \"Beleef de natuur - Sint-Pietersberg\" raises two questions. Where is the hill, and which of its stamps are still missing from the collection?",
+          "da": "When you plan a weekend in Maastricht at home on the computer, the PostNL sheet \"Beleef de natuur - Sint-Pietersberg\" raises two questions. Where is the hill, and which of its stamps are still missing from the collection?"
+        },
+        {
+          "en": "The web app at app.stampiq.io answers both in the browser. It uses the account of the phone app, so the collection and the wishlist are the ones kept on the phone. It is available in Switzerland, Liechtenstein, Germany, Austria, the Netherlands and Poland.",
+          "de": "Die Web-App unter app.stampiq.io beantwortet beides im Browser. Sie nutzt dasselbe Konto wie die App auf dem Handy, Sammlung und Wunschliste sind also dieselben. Verfügbar ist sie in der Schweiz, Liechtenstein, Deutschland, Österreich, den Niederlanden und Polen.",
+          "fr": "L'application web app.stampiq.io répond à ces deux questions dans le navigateur. Elle utilise le compte de l'application mobile, donc la collection et la liste de souhaits sont celles du téléphone. Elle est disponible en Suisse, au Liechtenstein, en Allemagne, en Autriche, aux Pays-Bas et en Pologne.",
+          "it": "The web app at app.stampiq.io answers both in the browser. It uses the account of the phone app, so the collection and the wishlist are the ones kept on the phone. It is available in Switzerland, Liechtenstein, Germany, Austria, the Netherlands and Poland.",
+          "nl": "De webversie op app.stampiq.io beantwoordt beide vragen in de browser. Hij werkt met hetzelfde account als de app op je telefoon, dus je verzameling en je verlanglijst zijn dezelfde. Hij is beschikbaar in Zwitserland, Liechtenstein, Duitsland, Oostenrijk, Nederland en Polen.",
+          "pl": "The web app at app.stampiq.io answers both in the browser. It uses the account of the phone app, so the collection and the wishlist are the ones kept on the phone. It is available in Switzerland, Liechtenstein, Germany, Austria, the Netherlands and Poland.",
+          "cs": "The web app at app.stampiq.io answers both in the browser. It uses the account of the phone app, so the collection and the wishlist are the ones kept on the phone. It is available in Switzerland, Liechtenstein, Germany, Austria, the Netherlands and Poland.",
+          "sk": "The web app at app.stampiq.io answers both in the browser. It uses the account of the phone app, so the collection and the wishlist are the ones kept on the phone. It is available in Switzerland, Liechtenstein, Germany, Austria, the Netherlands and Poland.",
+          "ro": "The web app at app.stampiq.io answers both in the browser. It uses the account of the phone app, so the collection and the wishlist are the ones kept on the phone. It is available in Switzerland, Liechtenstein, Germany, Austria, the Netherlands and Poland.",
+          "hu": "The web app at app.stampiq.io answers both in the browser. It uses the account of the phone app, so the collection and the wishlist are the ones kept on the phone. It is available in Switzerland, Liechtenstein, Germany, Austria, the Netherlands and Poland.",
+          "da": "The web app at app.stampiq.io answers both in the browser. It uses the account of the phone app, so the collection and the wishlist are the ones kept on the phone. It is available in Switzerland, Liechtenstein, Germany, Austria, the Netherlands and Poland."
+        },
+        {
+          "en": "Under \"Map\", the view zoomed in on Maastricht shows one pin on the Sint-Pietersberg south of the town. Its carousel counts \"1 of 9\". Three of the stamps carry the label \"In Collection\". The bat is marked \"On wishlist\".",
+          "de": "Unter „Karte“ zeigt die Ansicht von Maastricht südlich der Stadt einen Pin auf dem Sint-Pietersberg. Sein Karussell zählt „1 von 9“. Drei Briefmarken sind mit „In der Sammlung“ markiert, die Fledermaus mit „Auf der Wunschliste“.",
+          "fr": "Dans l'onglet « Carte », la vue centrée sur Maastricht affiche un seul repère sur le Sint-Pietersberg, au sud de la ville. Son carrousel indique « 1 sur 9 ». Trois timbres portent l'étiquette « Dans la collection ». La chauve-souris porte la mention « Sur la liste de souhaits ».",
+          "it": "Under \"Map\", the view zoomed in on Maastricht shows one pin on the Sint-Pietersberg south of the town. Its carousel counts \"1 of 9\". Three of the stamps carry the label \"In Collection\". The bat is marked \"On wishlist\".",
+          "nl": "Onder „Kaart” staat, ingezoomd op Maastricht, één pin op de Sint-Pietersberg, ten zuiden van de stad. De carrousel telt „1 van 9”. Bij drie postzegels staat het label „In de verzameling”. Bij de vleermuis staat „Op verlanglijst”.",
+          "pl": "Under \"Map\", the view zoomed in on Maastricht shows one pin on the Sint-Pietersberg south of the town. Its carousel counts \"1 of 9\". Three of the stamps carry the label \"In Collection\". The bat is marked \"On wishlist\".",
+          "cs": "Under \"Map\", the view zoomed in on Maastricht shows one pin on the Sint-Pietersberg south of the town. Its carousel counts \"1 of 9\". Three of the stamps carry the label \"In Collection\". The bat is marked \"On wishlist\".",
+          "sk": "Under \"Map\", the view zoomed in on Maastricht shows one pin on the Sint-Pietersberg south of the town. Its carousel counts \"1 of 9\". Three of the stamps carry the label \"In Collection\". The bat is marked \"On wishlist\".",
+          "ro": "Under \"Map\", the view zoomed in on Maastricht shows one pin on the Sint-Pietersberg south of the town. Its carousel counts \"1 of 9\". Three of the stamps carry the label \"In Collection\". The bat is marked \"On wishlist\".",
+          "hu": "Under \"Map\", the view zoomed in on Maastricht shows one pin on the Sint-Pietersberg south of the town. Its carousel counts \"1 of 9\". Three of the stamps carry the label \"In Collection\". The bat is marked \"On wishlist\".",
+          "da": "Under \"Map\", the view zoomed in on Maastricht shows one pin on the Sint-Pietersberg south of the town. Its carousel counts \"1 of 9\". Three of the stamps carry the label \"In Collection\". The bat is marked \"On wishlist\"."
+        },
+        {
+          "en": "The tenth stamp, the butterfly marked \"GEHAKKELDE AURELIA\", has no location in the catalogue and is missing from the pin. On the Free plan the map shows three stamps per pin. A paid plan with the Dutch catalogue shows all nine.",
+          "de": "Die zehnte Marke, der Schmetterling mit der Aufschrift „GEHAKKELDE AURELIA“, hat im Katalog keinen Ort und fehlt deshalb am Pin. In der kostenlosen Version zeigt die Karte drei Briefmarken pro Pin. Mit einem Abo, das den niederländischen Katalog enthält, sind es alle neun.",
+          "fr": "Le dixième timbre, le papillon portant l'inscription « GEHAKKELDE AURELIA », n'a pas de lieu dans le catalogue et n'apparaît pas dans ce repère. Avec la formule gratuite, la carte montre trois timbres par repère. Une formule payante incluant le catalogue néerlandais affiche les neuf.",
+          "it": "The tenth stamp, the butterfly marked \"GEHAKKELDE AURELIA\", has no location in the catalogue and is missing from the pin. On the Free plan the map shows three stamps per pin. A paid plan with the Dutch catalogue shows all nine.",
+          "nl": "De tiende postzegel, de vlinder met het opschrift „GEHAKKELDE AURELIA”, heeft geen locatie in de catalogus en ontbreekt bij de pin. In de gratis versie toont de kaart drie postzegels per pin. Met een betaald abonnement waarin de Nederlandse catalogus zit, zie je alle negen.",
+          "pl": "The tenth stamp, the butterfly marked \"GEHAKKELDE AURELIA\", has no location in the catalogue and is missing from the pin. On the Free plan the map shows three stamps per pin. A paid plan with the Dutch catalogue shows all nine.",
+          "cs": "The tenth stamp, the butterfly marked \"GEHAKKELDE AURELIA\", has no location in the catalogue and is missing from the pin. On the Free plan the map shows three stamps per pin. A paid plan with the Dutch catalogue shows all nine.",
+          "sk": "The tenth stamp, the butterfly marked \"GEHAKKELDE AURELIA\", has no location in the catalogue and is missing from the pin. On the Free plan the map shows three stamps per pin. A paid plan with the Dutch catalogue shows all nine.",
+          "ro": "The tenth stamp, the butterfly marked \"GEHAKKELDE AURELIA\", has no location in the catalogue and is missing from the pin. On the Free plan the map shows three stamps per pin. A paid plan with the Dutch catalogue shows all nine.",
+          "hu": "The tenth stamp, the butterfly marked \"GEHAKKELDE AURELIA\", has no location in the catalogue and is missing from the pin. On the Free plan the map shows three stamps per pin. A paid plan with the Dutch catalogue shows all nine.",
+          "da": "The tenth stamp, the butterfly marked \"GEHAKKELDE AURELIA\", has no location in the catalogue and is missing from the pin. On the Free plan the map shows three stamps per pin. A paid plan with the Dutch catalogue shows all nine."
+        }
+      ]
+    },
+    {
+      "id": "sheet",
+      "type": "text",
+      "label": {
+        "en": "The stamps",
+        "de": "Die Briefmarken",
+        "fr": "Les timbres",
+        "it": "The stamps",
+        "nl": "De postzegels",
+        "pl": "The stamps",
+        "cs": "The stamps",
+        "sk": "The stamps",
+        "ro": "The stamps",
+        "hu": "The stamps",
+        "da": "The stamps"
+      },
+      "title": {
+        "en": "A sheet for the Sint-Pietersberg",
+        "de": "Ein Bogen für den Sint-Pietersberg",
+        "fr": "Un feuillet pour le Sint-Pietersberg",
+        "it": "A sheet for the Sint-Pietersberg",
+        "nl": "Een vel voor de Sint-Pietersberg",
+        "pl": "A sheet for the Sint-Pietersberg",
+        "cs": "A sheet for the Sint-Pietersberg",
+        "sk": "A sheet for the Sint-Pietersberg",
+        "ro": "A sheet for the Sint-Pietersberg",
+        "hu": "A sheet for the Sint-Pietersberg",
+        "da": "A sheet for the Sint-Pietersberg"
+      },
+      "visual": {
+        "type": "stamp",
+        "stamp": {
+          "name": {
+            "en": "Eurasian Eagle-Owl",
+            "de": "Uhu",
+            "fr": "Grand-duc d'Europe",
+            "it": "Eurasian Eagle-Owl",
+            "nl": "Oehoe",
+            "pl": "Eurasian Eagle-Owl",
+            "cs": "Eurasian Eagle-Owl",
+            "sk": "Eurasian Eagle-Owl",
+            "ro": "Eurasian Eagle-Owl",
+            "hu": "Eurasian Eagle-Owl",
+            "da": "Eurasian Eagle-Owl"
+          },
+          "year": 2022,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/f79d4cb1af368fd4/sp-stamp-owl.png",
+            "width": 1100,
+            "height": 830
+          },
+          "country": "NL",
+          "stamp_id": "SIQ-NL-2022-047"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "Frank Janse from Gouda designed the sheet from photographs of the agency Buiten-Beeld. A second, transparent layer of plants and animals, among them the fruit of the spotted arum, runs across the perforations and joins the stamps to each other and to the sheet margin. PostNL issued it on 13 June 2022 together with Natuurmonumenten, which looks after the nature area on the hill. Cartor printed 285,000 sheets.",
+          "de": "Frank Janse aus Gouda gestaltete den Bogen nach Fotos der Agentur Buiten-Beeld. Eine zweite, durchsichtige Ebene mit Pflanzen und Tieren, darunter die Frucht des Gefleckten Aronstabs, läuft über die Zähnung und verbindet die Marken miteinander und mit dem Bogenrand. PostNL gab ihn am 13. Juni 2022 zusammen mit Natuurmonumenten heraus. Natuurmonumenten betreut das Naturgebiet auf dem Berg. Cartor druckte 285.000 Bogen.",
+          "fr": "Frank Janse, de Gouda, a conçu le feuillet à partir de photographies de l'agence Buiten-Beeld. Une seconde couche transparente de plantes et d'animaux, dont les fruits de l'arum tacheté, traverse les dentelures et relie les timbres entre eux et à la marge du feuillet. PostNL l'a émis le 13 juin 2022 avec Natuurmonumenten, qui gère l'espace naturel de la colline. Cartor en a imprimé 285 000 exemplaires.",
+          "it": "Frank Janse from Gouda designed the sheet from photographs of the agency Buiten-Beeld. A second, transparent layer of plants and animals, among them the fruit of the spotted arum, runs across the perforations and joins the stamps to each other and to the sheet margin. PostNL issued it on 13 June 2022 together with Natuurmonumenten, which looks after the nature area on the hill. Cartor printed 285,000 sheets.",
+          "nl": "Frank Janse uit Gouda ontwierp het vel met foto's van fotobureau Buiten-Beeld. Een tweede, doorzichtige laag met planten en dieren, waaronder de vruchten van de gevlekte aronskelk, loopt over de tanding heen en verbindt de postzegels met elkaar en met de velrand. PostNL gaf het vel op 13 juni 2022 uit, samen met Natuurmonumenten, dat het natuurgebied op de berg beheert. Cartor drukte 285.000 vellen.",
+          "pl": "Frank Janse from Gouda designed the sheet from photographs of the agency Buiten-Beeld. A second, transparent layer of plants and animals, among them the fruit of the spotted arum, runs across the perforations and joins the stamps to each other and to the sheet margin. PostNL issued it on 13 June 2022 together with Natuurmonumenten, which looks after the nature area on the hill. Cartor printed 285,000 sheets.",
+          "cs": "Frank Janse from Gouda designed the sheet from photographs of the agency Buiten-Beeld. A second, transparent layer of plants and animals, among them the fruit of the spotted arum, runs across the perforations and joins the stamps to each other and to the sheet margin. PostNL issued it on 13 June 2022 together with Natuurmonumenten, which looks after the nature area on the hill. Cartor printed 285,000 sheets.",
+          "sk": "Frank Janse from Gouda designed the sheet from photographs of the agency Buiten-Beeld. A second, transparent layer of plants and animals, among them the fruit of the spotted arum, runs across the perforations and joins the stamps to each other and to the sheet margin. PostNL issued it on 13 June 2022 together with Natuurmonumenten, which looks after the nature area on the hill. Cartor printed 285,000 sheets.",
+          "ro": "Frank Janse from Gouda designed the sheet from photographs of the agency Buiten-Beeld. A second, transparent layer of plants and animals, among them the fruit of the spotted arum, runs across the perforations and joins the stamps to each other and to the sheet margin. PostNL issued it on 13 June 2022 together with Natuurmonumenten, which looks after the nature area on the hill. Cartor printed 285,000 sheets.",
+          "hu": "Frank Janse from Gouda designed the sheet from photographs of the agency Buiten-Beeld. A second, transparent layer of plants and animals, among them the fruit of the spotted arum, runs across the perforations and joins the stamps to each other and to the sheet margin. PostNL issued it on 13 June 2022 together with Natuurmonumenten, which looks after the nature area on the hill. Cartor printed 285,000 sheets.",
+          "da": "Frank Janse from Gouda designed the sheet from photographs of the agency Buiten-Beeld. A second, transparent layer of plants and animals, among them the fruit of the spotted arum, runs across the perforations and joins the stamps to each other and to the sheet margin. PostNL issued it on 13 June 2022 together with Natuurmonumenten, which looks after the nature area on the hill. Cartor printed 285,000 sheets."
+        },
+        {
+          "en": "The whiskered bat, BAARDVLEERMUIS on its stamp, is one of the bats that PostNL names as wintering in the tunnels of the hill, along with Natterer's bat and the pond bat. A tour in November goes through their winter roost.",
+          "de": "Auf ihrer Marke steht BAARDVLEERMUIS. Die Bartfledermaus gehört zu den Fledermäusen, die laut PostNL in den Gängen des Bergs überwintern, ebenso wie die Fransenfledermaus und die Teichfledermaus. Eine Führung im November geht durch ihr Winterquartier.",
+          "fr": "Le murin à moustaches, BAARDVLEERMUIS sur son timbre, fait partie des chauves-souris que PostNL cite comme hivernant dans les galeries de la colline, avec le murin de Natterer et le murin des marais. Une visite en novembre traverse leurs quartiers d'hiver.",
+          "it": "The whiskered bat, BAARDVLEERMUIS on its stamp, is one of the bats that PostNL names as wintering in the tunnels of the hill, along with Natterer's bat and the pond bat. A tour in November goes through their winter roost.",
+          "nl": "Op de postzegel staat BAARDVLEERMUIS. De baardvleermuis is een van de vleermuizen die volgens PostNL in de gangen van de berg overwinteren, net als de franjestaart en de meervleermuis. Een rondleiding in november gaat door hun winterverblijf.",
+          "pl": "The whiskered bat, BAARDVLEERMUIS on its stamp, is one of the bats that PostNL names as wintering in the tunnels of the hill, along with Natterer's bat and the pond bat. A tour in November goes through their winter roost.",
+          "cs": "The whiskered bat, BAARDVLEERMUIS on its stamp, is one of the bats that PostNL names as wintering in the tunnels of the hill, along with Natterer's bat and the pond bat. A tour in November goes through their winter roost.",
+          "sk": "The whiskered bat, BAARDVLEERMUIS on its stamp, is one of the bats that PostNL names as wintering in the tunnels of the hill, along with Natterer's bat and the pond bat. A tour in November goes through their winter roost.",
+          "ro": "The whiskered bat, BAARDVLEERMUIS on its stamp, is one of the bats that PostNL names as wintering in the tunnels of the hill, along with Natterer's bat and the pond bat. A tour in November goes through their winter roost.",
+          "hu": "The whiskered bat, BAARDVLEERMUIS on its stamp, is one of the bats that PostNL names as wintering in the tunnels of the hill, along with Natterer's bat and the pond bat. A tour in November goes through their winter roost.",
+          "da": "The whiskered bat, BAARDVLEERMUIS on its stamp, is one of the bats that PostNL names as wintering in the tunnels of the hill, along with Natterer's bat and the pond bat. A tour in November goes through their winter roost."
+        },
+        {
+          "en": "The OEHOE stamp shows the eagle-owl, which has bred in the ENCI quarry on the hill since 1997. In April 2026 the owl researcher Marjon Savelsberg heard one male there mate with two females about 800 metres apart.",
+          "de": "Die Marke OEHOE zeigt den Uhu, der seit 1997 im ENCI-Steinbruch am Berg brütet. Im April 2026 hörte die Eulenforscherin Marjon Savelsberg dort, wie sich ein Männchen mit zwei Weibchen paarte, die rund 800 Meter voneinander entfernt waren.",
+          "fr": "Le timbre OEHOE montre le grand-duc, qui niche depuis 1997 dans la carrière ENCI, sur la colline. En avril 2026, Marjon Savelsberg, qui étudie les hiboux, y a entendu un mâle s'accoupler avec deux femelles distantes d'environ 800 mètres l'une de l'autre.",
+          "it": "The OEHOE stamp shows the eagle-owl, which has bred in the ENCI quarry on the hill since 1997. In April 2026 the owl researcher Marjon Savelsberg heard one male there mate with two females about 800 metres apart.",
+          "nl": "De postzegel OEHOE toont de oehoe, die sinds 1997 in de ENCI-groeve op de berg broedt. In april 2026 hoorde uilenonderzoeker Marjon Savelsberg daar hoe één mannetje paarde met twee vrouwtjes die ongeveer 800 meter uit elkaar zaten.",
+          "pl": "The OEHOE stamp shows the eagle-owl, which has bred in the ENCI quarry on the hill since 1997. In April 2026 the owl researcher Marjon Savelsberg heard one male there mate with two females about 800 metres apart.",
+          "cs": "The OEHOE stamp shows the eagle-owl, which has bred in the ENCI quarry on the hill since 1997. In April 2026 the owl researcher Marjon Savelsberg heard one male there mate with two females about 800 metres apart.",
+          "sk": "The OEHOE stamp shows the eagle-owl, which has bred in the ENCI quarry on the hill since 1997. In April 2026 the owl researcher Marjon Savelsberg heard one male there mate with two females about 800 metres apart.",
+          "ro": "The OEHOE stamp shows the eagle-owl, which has bred in the ENCI quarry on the hill since 1997. In April 2026 the owl researcher Marjon Savelsberg heard one male there mate with two females about 800 metres apart.",
+          "hu": "The OEHOE stamp shows the eagle-owl, which has bred in the ENCI quarry on the hill since 1997. In April 2026 the owl researcher Marjon Savelsberg heard one male there mate with two females about 800 metres apart.",
+          "da": "The OEHOE stamp shows the eagle-owl, which has bred in the ENCI quarry on the hill since 1997. In April 2026 the owl researcher Marjon Savelsberg heard one male there mate with two females about 800 metres apart."
+        }
+      ]
+    },
+    {
+      "id": "tunnels",
+      "type": "text",
+      "label": {
+        "en": "Under the hill",
+        "de": "Unter dem Berg",
+        "fr": "Sous la colline",
+        "it": "Under the hill",
+        "nl": "Onder de berg",
+        "pl": "Under the hill",
+        "cs": "Under the hill",
+        "sk": "Under the hill",
+        "ro": "Under the hill",
+        "hu": "Under the hill",
+        "da": "Under the hill"
+      },
+      "title": {
+        "en": "The vault of the Night Watch",
+        "de": "Der Tresorraum der Nachtwache",
+        "fr": "La chambre forte de La Ronde de nuit",
+        "it": "The vault of the Night Watch",
+        "nl": "De kluis van de Nachtwacht",
+        "pl": "The vault of the Night Watch",
+        "cs": "The vault of the Night Watch",
+        "sk": "The vault of the Night Watch",
+        "ro": "The vault of the Night Watch",
+        "hu": "The vault of the Night Watch",
+        "da": "The vault of the Night Watch"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/e133a54f7a05d694/sp-welcome-drawing.jpg",
+          "width": 2400,
+          "credit": "Romaine, CC0",
+          "height": 1350,
+          "caption": {
+            "en": "A charcoal drawing with French, Belgian and Dutch flags in the Zonneberg tunnels.",
+            "de": "Eine Kohlezeichnung mit französischer, belgischer und niederländischer Flagge in den Zonneberg-Gängen.",
+            "fr": "Un dessin au fusain avec les drapeaux français, belge et néerlandais dans les galeries du Zonneberg.",
+            "it": "A charcoal drawing with French, Belgian and Dutch flags in the Zonneberg tunnels.",
+            "nl": "Een houtskooltekening met de Franse, Belgische en Nederlandse vlag in de gangen van Zonneberg.",
+            "pl": "A charcoal drawing with French, Belgian and Dutch flags in the Zonneberg tunnels.",
+            "cs": "A charcoal drawing with French, Belgian and Dutch flags in the Zonneberg tunnels.",
+            "sk": "A charcoal drawing with French, Belgian and Dutch flags in the Zonneberg tunnels.",
+            "ro": "A charcoal drawing with French, Belgian and Dutch flags in the Zonneberg tunnels.",
+            "hu": "A charcoal drawing with French, Belgian and Dutch flags in the Zonneberg tunnels.",
+            "da": "A charcoal drawing with French, Belgian and Dutch flags in the Zonneberg tunnels."
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Maastricht-Gangenstelsel_Zonneberg_(10).jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "In December 1941 the art stored in bunkers in the dunes at Heemskerk had to be moved, because the Germans were building the Atlantic Wall there. That winter a vault of 360 square metres was cut into the Sint-Pietersberg, 35 metres underground and behind concrete walls half a metre thick. About 800 works ended up in the vault, among them Vermeer's \"Little Street\" and Potter's \"Bull\".",
+          "de": "Im Dezember 1941 musste die Kunst aus den Bunkern in den Dünen bei Heemskerk weg, weil die Deutschen dort den Atlantikwall bauten. Noch im selben Winter wurde ein Tresorraum von 360 Quadratmetern in den Sint-Pietersberg geschlagen, 35 Meter unter der Erde und hinter einen halben Meter dicken Betonwänden. Rund 800 Werke kamen dort hinein, darunter Vermeers „Die kleine Straße“ und Potters „Der Stier“.",
+          "fr": "En décembre 1941, les œuvres d'art conservées dans des bunkers des dunes de Heemskerk ont dû être déplacées, parce que les Allemands y construisaient le mur de l'Atlantique. Cet hiver-là, une chambre forte de 360 mètres carrés a été creusée dans le Sint-Pietersberg, à 35 mètres sous terre, derrière des murs de béton d'un demi-mètre d'épaisseur. Environ 800 œuvres y ont été mises à l'abri, dont « La Ruelle » de Vermeer et « Le Taureau » de Potter.",
+          "it": "In December 1941 the art stored in bunkers in the dunes at Heemskerk had to be moved, because the Germans were building the Atlantic Wall there. That winter a vault of 360 square metres was cut into the Sint-Pietersberg, 35 metres underground and behind concrete walls half a metre thick. About 800 works ended up in the vault, among them Vermeer's \"Little Street\" and Potter's \"Bull\".",
+          "nl": "In december 1941 moest de kunst weg uit de bunkers in de duinen bij Heemskerk, omdat de Duitsers daar de Atlantikwall bouwden. Die winter werd in de Sint-Pietersberg een kluis van 360 vierkante meter uitgehakt, 35 meter onder de grond en achter betonnen muren van een halve meter dik. Ongeveer 800 werken kwamen in die kluis terecht, waaronder Vermeers „Het straatje” en Potters „De stier”.",
+          "pl": "In December 1941 the art stored in bunkers in the dunes at Heemskerk had to be moved, because the Germans were building the Atlantic Wall there. That winter a vault of 360 square metres was cut into the Sint-Pietersberg, 35 metres underground and behind concrete walls half a metre thick. About 800 works ended up in the vault, among them Vermeer's \"Little Street\" and Potter's \"Bull\".",
+          "cs": "In December 1941 the art stored in bunkers in the dunes at Heemskerk had to be moved, because the Germans were building the Atlantic Wall there. That winter a vault of 360 square metres was cut into the Sint-Pietersberg, 35 metres underground and behind concrete walls half a metre thick. About 800 works ended up in the vault, among them Vermeer's \"Little Street\" and Potter's \"Bull\".",
+          "sk": "In December 1941 the art stored in bunkers in the dunes at Heemskerk had to be moved, because the Germans were building the Atlantic Wall there. That winter a vault of 360 square metres was cut into the Sint-Pietersberg, 35 metres underground and behind concrete walls half a metre thick. About 800 works ended up in the vault, among them Vermeer's \"Little Street\" and Potter's \"Bull\".",
+          "ro": "In December 1941 the art stored in bunkers in the dunes at Heemskerk had to be moved, because the Germans were building the Atlantic Wall there. That winter a vault of 360 square metres was cut into the Sint-Pietersberg, 35 metres underground and behind concrete walls half a metre thick. About 800 works ended up in the vault, among them Vermeer's \"Little Street\" and Potter's \"Bull\".",
+          "hu": "In December 1941 the art stored in bunkers in the dunes at Heemskerk had to be moved, because the Germans were building the Atlantic Wall there. That winter a vault of 360 square metres was cut into the Sint-Pietersberg, 35 metres underground and behind concrete walls half a metre thick. About 800 works ended up in the vault, among them Vermeer's \"Little Street\" and Potter's \"Bull\".",
+          "da": "In December 1941 the art stored in bunkers in the dunes at Heemskerk had to be moved, because the Germans were building the Atlantic Wall there. That winter a vault of 360 square metres was cut into the Sint-Pietersberg, 35 metres underground and behind concrete walls half a metre thick. About 800 works ended up in the vault, among them Vermeer's \"Little Street\" and Potter's \"Bull\"."
+        },
+        {
+          "en": "The works were loaded into removal vans at Heemskerk on 23 March 1942. The Night Watch spent that night in the garage of the bus company Beentjes, whose buses the Germans had taken. Paula Beentjes remembers what her father told his drivers: \"Heren, u biedt vannacht onderdak aan de Nachtwacht\" (gentlemen, tonight you are giving shelter to the Night Watch). At seven the next morning the paintings went to Beverwijk station and on by train to Maastricht.",
+          "de": "Am 23. März 1942 wurden die Werke in Heemskerk in Möbelwagen geladen. Die Nachtwache stand in dieser Nacht in der Garage des Busunternehmens Beentjes, dessen Busse die Deutschen beschlagnahmt hatten. Paula Beentjes erinnert sich an die Worte ihres Vaters an die Fahrer: „Heren, u biedt vannacht onderdak aan de Nachtwacht“ (meine Herren, heute Nacht gebt ihr der Nachtwache Unterkunft). Am nächsten Morgen um sieben ging es weiter zum Bahnhof Beverwijk und mit dem Zug nach Maastricht.",
+          "fr": "Le 23 mars 1942, les œuvres ont été chargées à Heemskerk dans des camions de déménagement. La Ronde de nuit a passé la nuit dans le garage de la compagnie d'autocars Beentjes, dont les Allemands avaient réquisitionné les véhicules. Paula Beentjes se souvient de ce que son père a dit à ses chauffeurs : « Heren, u biedt vannacht onderdak aan de Nachtwacht » (messieurs, cette nuit vous hébergez La Ronde de nuit). Le lendemain à 7 h du matin, les tableaux sont partis pour la gare de Beverwijk, puis par le train jusqu'à Maastricht.",
+          "it": "The works were loaded into removal vans at Heemskerk on 23 March 1942. The Night Watch spent that night in the garage of the bus company Beentjes, whose buses the Germans had taken. Paula Beentjes remembers what her father told his drivers: \"Heren, u biedt vannacht onderdak aan de Nachtwacht\" (gentlemen, tonight you are giving shelter to the Night Watch). At seven the next morning the paintings went to Beverwijk station and on by train to Maastricht.",
+          "nl": "Op 23 maart 1942 werden de werken in Heemskerk in verhuiswagens geladen. De Nachtwacht stond die nacht in de garage van busbedrijf Beentjes, waarvan de Duitsers de bussen hadden gevorderd. Paula Beentjes herinnert zich wat haar vader tegen zijn chauffeurs zei: „Heren, u biedt vannacht onderdak aan de Nachtwacht.” De volgende ochtend om zeven uur gingen de schilderijen naar station Beverwijk en verder met de trein naar Maastricht.",
+          "pl": "The works were loaded into removal vans at Heemskerk on 23 March 1942. The Night Watch spent that night in the garage of the bus company Beentjes, whose buses the Germans had taken. Paula Beentjes remembers what her father told his drivers: \"Heren, u biedt vannacht onderdak aan de Nachtwacht\" (gentlemen, tonight you are giving shelter to the Night Watch). At seven the next morning the paintings went to Beverwijk station and on by train to Maastricht.",
+          "cs": "The works were loaded into removal vans at Heemskerk on 23 March 1942. The Night Watch spent that night in the garage of the bus company Beentjes, whose buses the Germans had taken. Paula Beentjes remembers what her father told his drivers: \"Heren, u biedt vannacht onderdak aan de Nachtwacht\" (gentlemen, tonight you are giving shelter to the Night Watch). At seven the next morning the paintings went to Beverwijk station and on by train to Maastricht.",
+          "sk": "The works were loaded into removal vans at Heemskerk on 23 March 1942. The Night Watch spent that night in the garage of the bus company Beentjes, whose buses the Germans had taken. Paula Beentjes remembers what her father told his drivers: \"Heren, u biedt vannacht onderdak aan de Nachtwacht\" (gentlemen, tonight you are giving shelter to the Night Watch). At seven the next morning the paintings went to Beverwijk station and on by train to Maastricht.",
+          "ro": "The works were loaded into removal vans at Heemskerk on 23 March 1942. The Night Watch spent that night in the garage of the bus company Beentjes, whose buses the Germans had taken. Paula Beentjes remembers what her father told his drivers: \"Heren, u biedt vannacht onderdak aan de Nachtwacht\" (gentlemen, tonight you are giving shelter to the Night Watch). At seven the next morning the paintings went to Beverwijk station and on by train to Maastricht.",
+          "hu": "The works were loaded into removal vans at Heemskerk on 23 March 1942. The Night Watch spent that night in the garage of the bus company Beentjes, whose buses the Germans had taken. Paula Beentjes remembers what her father told his drivers: \"Heren, u biedt vannacht onderdak aan de Nachtwacht\" (gentlemen, tonight you are giving shelter to the Night Watch). At seven the next morning the paintings went to Beverwijk station and on by train to Maastricht.",
+          "da": "The works were loaded into removal vans at Heemskerk on 23 March 1942. The Night Watch spent that night in the garage of the bus company Beentjes, whose buses the Germans had taken. Paula Beentjes remembers what her father told his drivers: \"Heren, u biedt vannacht onderdak aan de Nachtwacht\" (gentlemen, tonight you are giving shelter to the Night Watch). At seven the next morning the paintings went to Beverwijk station and on by train to Maastricht."
+        },
+        {
+          "en": "The Night Watch stayed in the vault, rolled on its cylinder, after Maastricht was liberated on 14 September 1944. On 25 June 1945 it left the town on a ship. Because a waterway was blocked, the ship went through Belgium. The painting was back in the Rijksmuseum four days later.",
+          "de": "Auch nach der Befreiung Maastrichts am 14. September 1944 blieb die Nachtwache, auf ihre Walze gerollt, im Tresorraum. Am 25. Juni 1945 verließ sie die Stadt auf einem Schiff. Weil ein Wasserweg blockiert war, fuhr das Schiff durch Belgien. Vier Tage später war das Gemälde wieder im Rijksmuseum.",
+          "fr": "La Ronde de nuit est restée dans la chambre forte, enroulée sur son cylindre, même après la libération de Maastricht le 14 septembre 1944. Elle a quitté la ville par bateau le 25 juin 1945. Comme une voie d'eau était bloquée, le bateau est passé par la Belgique. Quatre jours plus tard, le tableau était de retour au Rijksmuseum.",
+          "it": "The Night Watch stayed in the vault, rolled on its cylinder, after Maastricht was liberated on 14 September 1944. On 25 June 1945 it left the town on a ship. Because a waterway was blocked, the ship went through Belgium. The painting was back in the Rijksmuseum four days later.",
+          "nl": "Ook na de bevrijding van Maastricht op 14 september 1944 bleef de Nachtwacht opgerold op zijn cilinder in de kluis liggen. Op 25 juni 1945 verliet het doek de stad per schip. Omdat een vaarweg geblokkeerd was, voer het schip door België. Vier dagen later was het schilderij terug in het Rijksmuseum.",
+          "pl": "The Night Watch stayed in the vault, rolled on its cylinder, after Maastricht was liberated on 14 September 1944. On 25 June 1945 it left the town on a ship. Because a waterway was blocked, the ship went through Belgium. The painting was back in the Rijksmuseum four days later.",
+          "cs": "The Night Watch stayed in the vault, rolled on its cylinder, after Maastricht was liberated on 14 September 1944. On 25 June 1945 it left the town on a ship. Because a waterway was blocked, the ship went through Belgium. The painting was back in the Rijksmuseum four days later.",
+          "sk": "The Night Watch stayed in the vault, rolled on its cylinder, after Maastricht was liberated on 14 September 1944. On 25 June 1945 it left the town on a ship. Because a waterway was blocked, the ship went through Belgium. The painting was back in the Rijksmuseum four days later.",
+          "ro": "The Night Watch stayed in the vault, rolled on its cylinder, after Maastricht was liberated on 14 September 1944. On 25 June 1945 it left the town on a ship. Because a waterway was blocked, the ship went through Belgium. The painting was back in the Rijksmuseum four days later.",
+          "hu": "The Night Watch stayed in the vault, rolled on its cylinder, after Maastricht was liberated on 14 September 1944. On 25 June 1945 it left the town on a ship. Because a waterway was blocked, the ship went through Belgium. The painting was back in the Rijksmuseum four days later.",
+          "da": "The Night Watch stayed in the vault, rolled on its cylinder, after Maastricht was liberated on 14 September 1944. On 25 June 1945 it left the town on a ship. Because a waterway was blocked, the ship went through Belgium. The painting was back in the Rijksmuseum four days later."
+        },
+        {
+          "en": "The vault, kluis in Dutch, is shown on the longer tour \"Grotten Noord incl. Kluis\". The Grotten Noord tours start at Fort Sint Pieter. You follow the guide's lamp, the only light in the passages, into the hill. On the way the lamp lights up charcoal drawings and names scratched into the marl, many of them with a year.",
+          "de": "Der Tresorraum, auf Niederländisch kluis, ist auf der längeren Führung „Grotten Noord incl. Kluis“ zu sehen. Die Führungen durch die Grotten Noord beginnen am Fort Sint Pieter. Du folgst der Lampe des Führers, dem einzigen Licht in den Gängen, in den Berg hinein. Unterwegs beleuchtet sie Kohlezeichnungen und Namen, die in den Mergel geritzt sind, viele davon mit einer Jahreszahl.",
+          "fr": "La chambre forte, kluis en néerlandais, se découvre pendant la visite longue « Grotten Noord incl. Kluis ». Les visites des Grotten Noord partent du Fort Sint Pieter. Tu suis la lampe du guide, seule lumière des galeries, dans la colline. En chemin, elle éclaire des dessins au fusain et des noms gravés dans la marne, souvent avec une année.",
+          "it": "The vault, kluis in Dutch, is shown on the longer tour \"Grotten Noord incl. Kluis\". The Grotten Noord tours start at Fort Sint Pieter. You follow the guide's lamp, the only light in the passages, into the hill. On the way the lamp lights up charcoal drawings and names scratched into the marl, many of them with a year.",
+          "nl": "De kluis is te zien tijdens de langere rondleiding „Grotten Noord incl. Kluis”. De rondleidingen door Grotten Noord beginnen bij Fort Sint Pieter. Je loopt de berg in, achter de lamp van de gids aan, het enige licht in de gangen. Onderweg verlicht die lamp houtskooltekeningen en namen die in de mergel zijn gekrast, vaak met een jaartal erbij.",
+          "pl": "The vault, kluis in Dutch, is shown on the longer tour \"Grotten Noord incl. Kluis\". The Grotten Noord tours start at Fort Sint Pieter. You follow the guide's lamp, the only light in the passages, into the hill. On the way the lamp lights up charcoal drawings and names scratched into the marl, many of them with a year.",
+          "cs": "The vault, kluis in Dutch, is shown on the longer tour \"Grotten Noord incl. Kluis\". The Grotten Noord tours start at Fort Sint Pieter. You follow the guide's lamp, the only light in the passages, into the hill. On the way the lamp lights up charcoal drawings and names scratched into the marl, many of them with a year.",
+          "sk": "The vault, kluis in Dutch, is shown on the longer tour \"Grotten Noord incl. Kluis\". The Grotten Noord tours start at Fort Sint Pieter. You follow the guide's lamp, the only light in the passages, into the hill. On the way the lamp lights up charcoal drawings and names scratched into the marl, many of them with a year.",
+          "ro": "The vault, kluis in Dutch, is shown on the longer tour \"Grotten Noord incl. Kluis\". The Grotten Noord tours start at Fort Sint Pieter. You follow the guide's lamp, the only light in the passages, into the hill. On the way the lamp lights up charcoal drawings and names scratched into the marl, many of them with a year.",
+          "hu": "The vault, kluis in Dutch, is shown on the longer tour \"Grotten Noord incl. Kluis\". The Grotten Noord tours start at Fort Sint Pieter. You follow the guide's lamp, the only light in the passages, into the hill. On the way the lamp lights up charcoal drawings and names scratched into the marl, many of them with a year.",
+          "da": "The vault, kluis in Dutch, is shown on the longer tour \"Grotten Noord incl. Kluis\". The Grotten Noord tours start at Fort Sint Pieter. You follow the guide's lamp, the only light in the passages, into the hill. On the way the lamp lights up charcoal drawings and names scratched into the marl, many of them with a year."
+        },
+        {
+          "en": "Zonneberg, a second tunnel system with its own tour, has more wall drawings, among them a \"Bienvenu Welkom Welcome\" under French, Belgian and Dutch flags. People from Maastricht sheltered in these tunnels during the war.",
+          "de": "Im Zonneberg, einem zweiten Gangsystem mit eigener Führung, gibt es weitere Wandzeichnungen, darunter ein „Bienvenu Welkom Welcome“ unter französischer, belgischer und niederländischer Flagge. Im Krieg suchten Maastrichter in diesen Gängen Schutz.",
+          "fr": "Le Zonneberg, un second réseau de galeries avec sa propre visite, compte d'autres dessins muraux, dont un « Bienvenu Welkom Welcome » sous les drapeaux français, belge et néerlandais. Les habitants de Maastricht se sont réfugiés dans ces galeries pendant la guerre.",
+          "it": "Zonneberg, a second tunnel system with its own tour, has more wall drawings, among them a \"Bienvenu Welkom Welcome\" under French, Belgian and Dutch flags. People from Maastricht sheltered in these tunnels during the war.",
+          "nl": "Zonneberg, een tweede gangenstelsel met een eigen rondleiding, heeft meer muurtekeningen, waaronder een „Bienvenu Welkom Welcome” onder een Franse, Belgische en Nederlandse vlag. Maastrichtenaren schuilden in de oorlog in deze gangen.",
+          "pl": "Zonneberg, a second tunnel system with its own tour, has more wall drawings, among them a \"Bienvenu Welkom Welcome\" under French, Belgian and Dutch flags. People from Maastricht sheltered in these tunnels during the war.",
+          "cs": "Zonneberg, a second tunnel system with its own tour, has more wall drawings, among them a \"Bienvenu Welkom Welcome\" under French, Belgian and Dutch flags. People from Maastricht sheltered in these tunnels during the war.",
+          "sk": "Zonneberg, a second tunnel system with its own tour, has more wall drawings, among them a \"Bienvenu Welkom Welcome\" under French, Belgian and Dutch flags. People from Maastricht sheltered in these tunnels during the war.",
+          "ro": "Zonneberg, a second tunnel system with its own tour, has more wall drawings, among them a \"Bienvenu Welkom Welcome\" under French, Belgian and Dutch flags. People from Maastricht sheltered in these tunnels during the war.",
+          "hu": "Zonneberg, a second tunnel system with its own tour, has more wall drawings, among them a \"Bienvenu Welkom Welcome\" under French, Belgian and Dutch flags. People from Maastricht sheltered in these tunnels during the war.",
+          "da": "Zonneberg, a second tunnel system with its own tour, has more wall drawings, among them a \"Bienvenu Welkom Welcome\" under French, Belgian and Dutch flags. People from Maastricht sheltered in these tunnels during the war."
+        }
+      ]
+    },
+    {
+      "id": "figures",
+      "type": "numbers",
+      "label": {
+        "en": "In figures",
+        "de": "In Zahlen",
+        "fr": "En chiffres",
+        "it": "In figures",
+        "nl": "In cijfers",
+        "pl": "In figures",
+        "cs": "In figures",
+        "sk": "In figures",
+        "ro": "In figures",
+        "hu": "In figures",
+        "da": "In figures"
+      },
+      "title": {
+        "en": "The tunnels",
+        "de": "Die Gänge",
+        "fr": "Les galeries",
+        "it": "The tunnels",
+        "nl": "De gangen",
+        "pl": "The tunnels",
+        "cs": "The tunnels",
+        "sk": "The tunnels",
+        "ro": "The tunnels",
+        "hu": "The tunnels",
+        "da": "The tunnels"
+      },
+      "numbers": [
+        {
+          "text": {
+            "en": "The length of the tunnels that remain.",
+            "de": "So lang sind die erhaltenen Gänge.",
+            "fr": "La longueur des galeries encore existantes.",
+            "it": "The length of the tunnels that remain.",
+            "nl": "De lengte van de gangen die er nog zijn.",
+            "pl": "The length of the tunnels that remain.",
+            "cs": "The length of the tunnels that remain.",
+            "sk": "The length of the tunnels that remain.",
+            "ro": "The length of the tunnels that remain.",
+            "hu": "The length of the tunnels that remain.",
+            "da": "The length of the tunnels that remain."
+          },
+          "title": {
+            "en": "Passages",
+            "de": "Gänge",
+            "fr": "Galeries",
+            "it": "Passages",
+            "nl": "Gangen",
+            "pl": "Passages",
+            "cs": "Passages",
+            "sk": "Passages",
+            "ro": "Passages",
+            "hu": "Passages",
+            "da": "Passages"
+          },
+          "value": "68 km"
+        },
+        {
+          "text": {
+            "en": "The tours run about 30 metres underground.",
+            "de": "Die Führungen verlaufen rund 30 Meter unter der Erde.",
+            "fr": "Les visites se déroulent à environ 30 mètres sous terre.",
+            "it": "The tours run about 30 metres underground.",
+            "nl": "De rondleidingen gaan ongeveer 30 meter onder de grond.",
+            "pl": "The tours run about 30 metres underground.",
+            "cs": "The tours run about 30 metres underground.",
+            "sk": "The tours run about 30 metres underground.",
+            "ro": "The tours run about 30 metres underground.",
+            "hu": "The tours run about 30 metres underground.",
+            "da": "The tours run about 30 metres underground."
+          },
+          "title": {
+            "en": "Depth",
+            "de": "Tiefe",
+            "fr": "Profondeur",
+            "it": "Depth",
+            "nl": "Diepte",
+            "pl": "Depth",
+            "cs": "Depth",
+            "sk": "Depth",
+            "ro": "Depth",
+            "hu": "Depth",
+            "da": "Depth"
+          },
+          "value": "30 m"
+        },
+        {
+          "text": {
+            "en": "The temperature in the tunnels, the same all year.",
+            "de": "Die Temperatur in den Gängen bleibt das ganze Jahr über gleich.",
+            "fr": "La température des galeries, identique toute l'année.",
+            "it": "The temperature in the tunnels, the same all year.",
+            "nl": "De temperatuur in de gangen, het hele jaar door hetzelfde.",
+            "pl": "The temperature in the tunnels, the same all year.",
+            "cs": "The temperature in the tunnels, the same all year.",
+            "sk": "The temperature in the tunnels, the same all year.",
+            "ro": "The temperature in the tunnels, the same all year.",
+            "hu": "The temperature in the tunnels, the same all year.",
+            "da": "The temperature in the tunnels, the same all year."
+          },
+          "title": {
+            "en": "Temperature",
+            "de": "Temperatur",
+            "fr": "Température",
+            "it": "Temperature",
+            "nl": "Temperatuur",
+            "pl": "Temperature",
+            "cs": "Temperature",
+            "sk": "Temperature",
+            "ro": "Temperature",
+            "hu": "Temperature",
+            "da": "Temperature"
+          },
+          "value": "11 °C"
+        },
+        {
+          "text": {
+            "en": "The year of the oldest inscription found on the tunnel walls.",
+            "de": "Aus diesem Jahr stammt die älteste Inschrift, die an den Gangwänden gefunden wurde.",
+            "fr": "L'année de la plus ancienne inscription relevée sur les parois.",
+            "it": "The year of the oldest inscription found on the tunnel walls.",
+            "nl": "Het jaar van de oudste inscriptie die op de wanden is gevonden.",
+            "pl": "The year of the oldest inscription found on the tunnel walls.",
+            "cs": "The year of the oldest inscription found on the tunnel walls.",
+            "sk": "The year of the oldest inscription found on the tunnel walls.",
+            "ro": "The year of the oldest inscription found on the tunnel walls.",
+            "hu": "The year of the oldest inscription found on the tunnel walls.",
+            "da": "The year of the oldest inscription found on the tunnel walls."
+          },
+          "title": {
+            "en": "Oldest inscription",
+            "de": "Älteste Inschrift",
+            "fr": "Plus ancienne inscription",
+            "it": "Oldest inscription",
+            "nl": "Oudste inscriptie",
+            "pl": "Oldest inscription",
+            "cs": "Oldest inscription",
+            "sk": "Oldest inscription",
+            "ro": "Oldest inscription",
+            "hu": "Oldest inscription",
+            "da": "Oldest inscription"
+          },
+          "value": "1554"
+        }
+      ]
+    },
+    {
+      "id": "fort-photo",
+      "type": "wide-photo",
+      "image": {
+        "src": "https://assets.stampiq.io/blog/224ce069ba2e5a9c/sp-fort.jpg",
+        "width": 2400,
+        "credit": "ArthurMcGill, CC BY-SA 4.0",
+        "height": 1185,
+        "caption": {
+          "en": "Fort Sint Pieter on the hill.",
+          "de": "Das Fort Sint Pieter auf dem Berg.",
+          "fr": "Le Fort Sint Pieter sur la colline.",
+          "it": "Fort Sint Pieter on the hill.",
+          "nl": "Fort Sint Pieter op de berg.",
+          "pl": "Fort Sint Pieter on the hill.",
+          "cs": "Fort Sint Pieter on the hill.",
+          "sk": "Fort Sint Pieter on the hill.",
+          "ro": "Fort Sint Pieter on the hill.",
+          "hu": "Fort Sint Pieter on the hill.",
+          "da": "Fort Sint Pieter on the hill."
+        },
+        "source_url": "https://commons.wikimedia.org/wiki/File:2023_Fort_St._Pieter.JPG"
+      }
+    },
+    {
+      "id": "history",
+      "type": "text",
+      "label": {
+        "en": "From the marl",
+        "de": "Aus dem Mergel",
+        "fr": "Sorti de la marne",
+        "it": "From the marl",
+        "nl": "Uit de mergel",
+        "pl": "From the marl",
+        "cs": "From the marl",
+        "sk": "From the marl",
+        "ro": "From the marl",
+        "hu": "From the marl",
+        "da": "From the marl"
+      },
+      "title": {
+        "en": "The Mosasaurus skull",
+        "de": "Der Mosasaurus-Schädel",
+        "fr": "Le crâne du Mosasaurus",
+        "it": "The Mosasaurus skull",
+        "nl": "De schedel van de Mosasaurus",
+        "pl": "The Mosasaurus skull",
+        "cs": "The Mosasaurus skull",
+        "sk": "The Mosasaurus skull",
+        "ro": "The Mosasaurus skull",
+        "hu": "The Mosasaurus skull",
+        "da": "The Mosasaurus skull"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/3124ffe8f9345471/sp-mosasaurus.jpg",
+          "width": 1836,
+          "credit": "G. R. Levillaire, public domain",
+          "height": 845,
+          "caption": {
+            "en": "Workers lift the Mosasaurus skull out of the rock, engraving of 1799.",
+            "de": "Arbeiter heben den Mosasaurus-Schädel aus dem Fels, Stich von 1799.",
+            "fr": "Des ouvriers dégagent le crâne du Mosasaurus de la roche, gravure de 1799.",
+            "it": "Workers lift the Mosasaurus skull out of the rock, engraving of 1799.",
+            "nl": "Arbeiders halen de schedel van de Mosasaurus uit de rots, gravure uit 1799.",
+            "pl": "Workers lift the Mosasaurus skull out of the rock, engraving of 1799.",
+            "cs": "Workers lift the Mosasaurus skull out of the rock, engraving of 1799.",
+            "sk": "Workers lift the Mosasaurus skull out of the rock, engraving of 1799.",
+            "ro": "Workers lift the Mosasaurus skull out of the rock, engraving of 1799.",
+            "hu": "Workers lift the Mosasaurus skull out of the rock, engraving of 1799.",
+            "da": "Workers lift the Mosasaurus skull out of the rock, engraving of 1799."
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:MosasaurDiscovery.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "In the 1770s quarrymen found the skull of a sea reptile in the marl of the hill. The animal was later named Mosasaurus, the lizard from the Maas. After the French took Maastricht in 1794, the skull went to Paris, where the natural history museum still keeps it.",
+          "de": "In den 1770er-Jahren fanden Steinbrucharbeiter im Mergel des Bergs den Schädel eines Meeresreptils. Das Tier bekam später den Namen Mosasaurus, Echse von der Maas. Nachdem die Franzosen 1794 Maastricht eingenommen hatten, kam der Schädel nach Paris, wo ihn das Naturkundemuseum bis heute aufbewahrt.",
+          "fr": "Dans les années 1770, des carriers ont trouvé dans la marne de la colline le crâne d'un reptile marin. L'animal a été nommé plus tard Mosasaurus, le lézard de la Meuse. Après la prise de Maastricht par les Français en 1794, le crâne est parti à Paris, où le Muséum d'histoire naturelle le conserve toujours.",
+          "it": "In the 1770s quarrymen found the skull of a sea reptile in the marl of the hill. The animal was later named Mosasaurus, the lizard from the Maas. After the French took Maastricht in 1794, the skull went to Paris, where the natural history museum still keeps it.",
+          "nl": "In de jaren zeventig van de achttiende eeuw vonden blokbrekers in de mergel van de berg de schedel van een zeereptiel. Het dier kreeg later de naam Mosasaurus, de hagedis van de Maas. Nadat de Fransen Maastricht in 1794 hadden ingenomen, ging de schedel naar Parijs, waar het natuurhistorisch museum hem nog altijd bewaart.",
+          "pl": "In the 1770s quarrymen found the skull of a sea reptile in the marl of the hill. The animal was later named Mosasaurus, the lizard from the Maas. After the French took Maastricht in 1794, the skull went to Paris, where the natural history museum still keeps it.",
+          "cs": "In the 1770s quarrymen found the skull of a sea reptile in the marl of the hill. The animal was later named Mosasaurus, the lizard from the Maas. After the French took Maastricht in 1794, the skull went to Paris, where the natural history museum still keeps it.",
+          "sk": "In the 1770s quarrymen found the skull of a sea reptile in the marl of the hill. The animal was later named Mosasaurus, the lizard from the Maas. After the French took Maastricht in 1794, the skull went to Paris, where the natural history museum still keeps it.",
+          "ro": "In the 1770s quarrymen found the skull of a sea reptile in the marl of the hill. The animal was later named Mosasaurus, the lizard from the Maas. After the French took Maastricht in 1794, the skull went to Paris, where the natural history museum still keeps it.",
+          "hu": "In the 1770s quarrymen found the skull of a sea reptile in the marl of the hill. The animal was later named Mosasaurus, the lizard from the Maas. After the French took Maastricht in 1794, the skull went to Paris, where the natural history museum still keeps it.",
+          "da": "In the 1770s quarrymen found the skull of a sea reptile in the marl of the hill. The animal was later named Mosasaurus, the lizard from the Maas. After the French took Maastricht in 1794, the skull went to Paris, where the natural history museum still keeps it."
+        },
+        {
+          "en": "The story usually told comes from the French geologist Faujas de Saint-Fond. In his account the surgeon Hoffmann bought the skull from the quarrymen. The canon Godding, who owned the land, sued him and won it. When the French came, Faujas offered 600 bottles of wine for the skull. Twelve grenadiers brought it into the camp the next morning.",
+          "de": "Die Geschichte, die man meist liest, stammt vom französischen Geologen Faujas de Saint-Fond. Bei ihm kauft der Wundarzt Hoffmann den Arbeitern den Schädel ab. Der Kanoniker Godding, dem das Land gehörte, verklagt ihn und bekommt den Schädel zugesprochen. Als die Franzosen kommen, bietet Faujas 600 Flaschen Wein dafür. Am nächsten Morgen bringen zwölf Grenadiere den Schädel ins Lager.",
+          "fr": "L'histoire que l'on raconte d'ordinaire vient du géologue français Faujas de Saint-Fond. Dans son récit, le chirurgien Hoffmann achète le crâne aux carriers. Le chanoine Godding, propriétaire du terrain, lui fait un procès et obtient la pièce. À l'arrivée des Français, Faujas propose 600 bouteilles de vin pour le crâne. Le lendemain matin, douze grenadiers le rapportent au camp.",
+          "it": "The story usually told comes from the French geologist Faujas de Saint-Fond. In his account the surgeon Hoffmann bought the skull from the quarrymen. The canon Godding, who owned the land, sued him and won it. When the French came, Faujas offered 600 bottles of wine for the skull. Twelve grenadiers brought it into the camp the next morning.",
+          "nl": "Het verhaal dat meestal wordt verteld, komt van de Franse geoloog Faujas de Saint-Fond. In zijn versie kocht chirurgijn Hoffmann de schedel van de blokbrekers. Kanunnik Godding, de eigenaar van de grond, spande een rechtszaak tegen hem aan en kreeg de schedel toegewezen. Toen de Fransen kwamen, bood Faujas er 600 flessen wijn voor. De volgende ochtend brachten twaalf grenadiers de schedel het kamp binnen.",
+          "pl": "The story usually told comes from the French geologist Faujas de Saint-Fond. In his account the surgeon Hoffmann bought the skull from the quarrymen. The canon Godding, who owned the land, sued him and won it. When the French came, Faujas offered 600 bottles of wine for the skull. Twelve grenadiers brought it into the camp the next morning.",
+          "cs": "The story usually told comes from the French geologist Faujas de Saint-Fond. In his account the surgeon Hoffmann bought the skull from the quarrymen. The canon Godding, who owned the land, sued him and won it. When the French came, Faujas offered 600 bottles of wine for the skull. Twelve grenadiers brought it into the camp the next morning.",
+          "sk": "The story usually told comes from the French geologist Faujas de Saint-Fond. In his account the surgeon Hoffmann bought the skull from the quarrymen. The canon Godding, who owned the land, sued him and won it. When the French came, Faujas offered 600 bottles of wine for the skull. Twelve grenadiers brought it into the camp the next morning.",
+          "ro": "The story usually told comes from the French geologist Faujas de Saint-Fond. In his account the surgeon Hoffmann bought the skull from the quarrymen. The canon Godding, who owned the land, sued him and won it. When the French came, Faujas offered 600 bottles of wine for the skull. Twelve grenadiers brought it into the camp the next morning.",
+          "hu": "The story usually told comes from the French geologist Faujas de Saint-Fond. In his account the surgeon Hoffmann bought the skull from the quarrymen. The canon Godding, who owned the land, sued him and won it. When the French came, Faujas offered 600 bottles of wine for the skull. Twelve grenadiers brought it into the camp the next morning.",
+          "da": "The story usually told comes from the French geologist Faujas de Saint-Fond. In his account the surgeon Hoffmann bought the skull from the quarrymen. The canon Godding, who owned the land, sued him and won it. When the French came, Faujas offered 600 bottles of wine for the skull. Twelve grenadiers brought it into the camp the next morning."
+        },
+        {
+          "en": "In 1995 the historian Peggy Rompen showed from the records that Godding had owned the skull all along and that there had been no lawsuit. In her reading, Faujas probably paid nothing and told the story to justify taking the skull.",
+          "de": "1995 zeigte die Historikerin Peggy Rompen anhand der Akten, dass der Schädel die ganze Zeit Godding gehörte und es nie einen Prozess gab. Nach ihrer Lesart zahlte Faujas wahrscheinlich nichts und erzählte die Geschichte, um die Mitnahme des Schädels zu rechtfertigen.",
+          "fr": "En 1995, l'historienne Peggy Rompen a montré, documents à l'appui, que Godding avait possédé le crâne depuis le début et qu'il n'y avait jamais eu de procès. Selon elle, Faujas n'a probablement rien payé et a raconté cette histoire pour justifier la prise du crâne.",
+          "it": "In 1995 the historian Peggy Rompen showed from the records that Godding had owned the skull all along and that there had been no lawsuit. In her reading, Faujas probably paid nothing and told the story to justify taking the skull.",
+          "nl": "In 1995 liet historica Peggy Rompen aan de hand van archiefstukken zien dat Godding de schedel altijd al in bezit had en dat er geen rechtszaak was geweest. Volgens haar betaalde Faujas waarschijnlijk niets en vertelde hij het verhaal om het meenemen van de schedel te rechtvaardigen.",
+          "pl": "In 1995 the historian Peggy Rompen showed from the records that Godding had owned the skull all along and that there had been no lawsuit. In her reading, Faujas probably paid nothing and told the story to justify taking the skull.",
+          "cs": "In 1995 the historian Peggy Rompen showed from the records that Godding had owned the skull all along and that there had been no lawsuit. In her reading, Faujas probably paid nothing and told the story to justify taking the skull.",
+          "sk": "In 1995 the historian Peggy Rompen showed from the records that Godding had owned the skull all along and that there had been no lawsuit. In her reading, Faujas probably paid nothing and told the story to justify taking the skull.",
+          "ro": "In 1995 the historian Peggy Rompen showed from the records that Godding had owned the skull all along and that there had been no lawsuit. In her reading, Faujas probably paid nothing and told the story to justify taking the skull.",
+          "hu": "In 1995 the historian Peggy Rompen showed from the records that Godding had owned the skull all along and that there had been no lawsuit. In her reading, Faujas probably paid nothing and told the story to justify taking the skull.",
+          "da": "In 1995 the historian Peggy Rompen showed from the records that Godding had owned the skull all along and that there had been no lawsuit. In her reading, Faujas probably paid nothing and told the story to justify taking the skull."
+        }
+      ]
+    },
+    {
+      "id": "practical",
+      "rows": [
+        {
+          "label": {
+            "en": "Ticket shop",
+            "de": "Ticketverkauf",
+            "fr": "Billetterie",
+            "it": "Ticket shop",
+            "nl": "Kaartverkoop",
+            "pl": "Ticket shop",
+            "cs": "Ticket shop",
+            "sk": "Ticket shop",
+            "ro": "Ticket shop",
+            "hu": "Ticket shop",
+            "da": "Ticket shop"
+          },
+          "value": {
+            "en": "Luikerweg 80, 6212 NH Maastricht, in Fort Sint Pieter, where the tours start",
+            "de": "Luikerweg 80, 6212 NH Maastricht, im Fort Sint Pieter, wo die Führungen starten",
+            "fr": "Luikerweg 80, 6212 NH Maastricht, au Fort Sint Pieter, d'où partent les visites",
+            "it": "Luikerweg 80, 6212 NH Maastricht, in Fort Sint Pieter, where the tours start",
+            "nl": "Luikerweg 80, 6212 NH Maastricht, in Fort Sint Pieter, waar de rondleidingen beginnen",
+            "pl": "Luikerweg 80, 6212 NH Maastricht, in Fort Sint Pieter, where the tours start",
+            "cs": "Luikerweg 80, 6212 NH Maastricht, in Fort Sint Pieter, where the tours start",
+            "sk": "Luikerweg 80, 6212 NH Maastricht, in Fort Sint Pieter, where the tours start",
+            "ro": "Luikerweg 80, 6212 NH Maastricht, in Fort Sint Pieter, where the tours start",
+            "hu": "Luikerweg 80, 6212 NH Maastricht, in Fort Sint Pieter, where the tours start",
+            "da": "Luikerweg 80, 6212 NH Maastricht, in Fort Sint Pieter, where the tours start"
+          }
+        },
+        {
+          "label": {
+            "en": "Grotten Noord",
+            "de": "Grotten Noord",
+            "fr": "Grotten Noord",
+            "it": "Grotten Noord",
+            "nl": "Grotten Noord",
+            "pl": "Grotten Noord",
+            "cs": "Grotten Noord",
+            "sk": "Grotten Noord",
+            "ro": "Grotten Noord",
+            "hu": "Grotten Noord",
+            "da": "Grotten Noord"
+          },
+          "value": {
+            "en": "Every day of the year, about 1 hour 10 minutes, in Dutch and English",
+            "de": "Täglich das ganze Jahr, rund 1 Stunde 10 Minuten, auf Niederländisch und Englisch",
+            "fr": "Tous les jours de l'année, environ 1 h 10, en néerlandais et en anglais",
+            "it": "Every day of the year, about 1 hour 10 minutes, in Dutch and English",
+            "nl": "Elke dag van het jaar, ongeveer 1 uur en 10 minuten, in het Nederlands en Engels",
+            "pl": "Every day of the year, about 1 hour 10 minutes, in Dutch and English",
+            "cs": "Every day of the year, about 1 hour 10 minutes, in Dutch and English",
+            "sk": "Every day of the year, about 1 hour 10 minutes, in Dutch and English",
+            "ro": "Every day of the year, about 1 hour 10 minutes, in Dutch and English",
+            "hu": "Every day of the year, about 1 hour 10 minutes, in Dutch and English",
+            "da": "Every day of the year, about 1 hour 10 minutes, in Dutch and English"
+          }
+        },
+        {
+          "label": {
+            "en": "Fort Sint Pieter",
+            "de": "Fort Sint Pieter",
+            "fr": "Fort Sint Pieter",
+            "it": "Fort Sint Pieter",
+            "nl": "Fort Sint Pieter",
+            "pl": "Fort Sint Pieter",
+            "cs": "Fort Sint Pieter",
+            "sk": "Fort Sint Pieter",
+            "ro": "Fort Sint Pieter",
+            "hu": "Fort Sint Pieter",
+            "da": "Fort Sint Pieter"
+          },
+          "value": {
+            "en": "Every day of the year, about 1 hour",
+            "de": "Täglich das ganze Jahr, rund 1 Stunde",
+            "fr": "Tous les jours de l'année, environ 1 heure",
+            "it": "Every day of the year, about 1 hour",
+            "nl": "Elke dag van het jaar, ongeveer 1 uur",
+            "pl": "Every day of the year, about 1 hour",
+            "cs": "Every day of the year, about 1 hour",
+            "sk": "Every day of the year, about 1 hour",
+            "ro": "Every day of the year, about 1 hour",
+            "hu": "Every day of the year, about 1 hour",
+            "da": "Every day of the year, about 1 hour"
+          }
+        },
+        {
+          "label": {
+            "en": "Grotten Zonneberg",
+            "de": "Grotten Zonneberg",
+            "fr": "Grotten Zonneberg",
+            "it": "Grotten Zonneberg",
+            "nl": "Grotten Zonneberg",
+            "pl": "Grotten Zonneberg",
+            "cs": "Grotten Zonneberg",
+            "sk": "Grotten Zonneberg",
+            "ro": "Grotten Zonneberg",
+            "hu": "Grotten Zonneberg",
+            "da": "Grotten Zonneberg"
+          },
+          "value": {
+            "en": "Slavante 1, on set dates, about 1 hour 10 minutes, tickets online only",
+            "de": "Slavante 1, an festen Terminen, rund 1 Stunde 10 Minuten, Tickets nur online",
+            "fr": "Slavante 1, à dates fixes, environ 1 h 10, billets uniquement en ligne",
+            "it": "Slavante 1, on set dates, about 1 hour 10 minutes, tickets online only",
+            "nl": "Slavante 1, op vaste dagen, ongeveer 1 uur en 10 minuten, kaartjes alleen online",
+            "pl": "Slavante 1, on set dates, about 1 hour 10 minutes, tickets online only",
+            "cs": "Slavante 1, on set dates, about 1 hour 10 minutes, tickets online only",
+            "sk": "Slavante 1, on set dates, about 1 hour 10 minutes, tickets online only",
+            "ro": "Slavante 1, on set dates, about 1 hour 10 minutes, tickets online only",
+            "hu": "Slavante 1, on set dates, about 1 hour 10 minutes, tickets online only",
+            "da": "Slavante 1, on set dates, about 1 hour 10 minutes, tickets online only"
+          }
+        },
+        {
+          "label": {
+            "en": "Grotten Noord incl. Kluis",
+            "de": "Grotten Noord incl. Kluis",
+            "fr": "Grotten Noord incl. Kluis",
+            "it": "Grotten Noord incl. Kluis",
+            "nl": "Grotten Noord incl. Kluis",
+            "pl": "Grotten Noord incl. Kluis",
+            "cs": "Grotten Noord incl. Kluis",
+            "sk": "Grotten Noord incl. Kluis",
+            "ro": "Grotten Noord incl. Kluis",
+            "hu": "Grotten Noord incl. Kluis",
+            "da": "Grotten Noord incl. Kluis"
+          },
+          "value": {
+            "en": "On set dates, about 1 hour 40 minutes",
+            "de": "An festen Terminen, rund 1 Stunde 40 Minuten",
+            "fr": "À dates fixes, environ 1 h 40",
+            "it": "On set dates, about 1 hour 40 minutes",
+            "nl": "Op vaste dagen, ongeveer 1 uur en 40 minuten",
+            "pl": "On set dates, about 1 hour 40 minutes",
+            "cs": "On set dates, about 1 hour 40 minutes",
+            "sk": "On set dates, about 1 hour 40 minutes",
+            "ro": "On set dates, about 1 hour 40 minutes",
+            "hu": "On set dates, about 1 hour 40 minutes",
+            "da": "On set dates, about 1 hour 40 minutes"
+          }
+        },
+        {
+          "label": {
+            "en": "Tickets",
+            "de": "Tickets",
+            "fr": "Billets",
+            "it": "Tickets",
+            "nl": "Kaartjes",
+            "pl": "Tickets",
+            "cs": "Tickets",
+            "sk": "Tickets",
+            "ro": "Tickets",
+            "hu": "Tickets",
+            "da": "Tickets"
+          },
+          "value": {
+            "en": "From €9.95 for adults, €8.25 for ages 12 to 17, €7.25 for ages 4 to 11, under 4 free",
+            "de": "Ab 9,95 € für Erwachsene, 8,25 € von 12 bis 17 Jahren, 7,25 € von 4 bis 11 Jahren, unter 4 Jahren gratis",
+            "fr": "À partir de 9,95 € pour les adultes, 8,25 € de 12 à 17 ans, 7,25 € de 4 à 11 ans, gratuit pour les moins de 4 ans",
+            "it": "From €9.95 for adults, €8.25 for ages 12 to 17, €7.25 for ages 4 to 11, under 4 free",
+            "nl": "Vanaf € 9,95 voor volwassenen, € 8,25 voor 12 tot en met 17 jaar, € 7,25 voor 4 tot en met 11 jaar, onder 4 jaar gratis",
+            "pl": "From €9.95 for adults, €8.25 for ages 12 to 17, €7.25 for ages 4 to 11, under 4 free",
+            "cs": "From €9.95 for adults, €8.25 for ages 12 to 17, €7.25 for ages 4 to 11, under 4 free",
+            "sk": "From €9.95 for adults, €8.25 for ages 12 to 17, €7.25 for ages 4 to 11, under 4 free",
+            "ro": "From €9.95 for adults, €8.25 for ages 12 to 17, €7.25 for ages 4 to 11, under 4 free",
+            "hu": "From €9.95 for adults, €8.25 for ages 12 to 17, €7.25 for ages 4 to 11, under 4 free",
+            "da": "From €9.95 for adults, €8.25 for ages 12 to 17, €7.25 for ages 4 to 11, under 4 free"
+          }
+        },
+        {
+          "label": {
+            "en": "Fort and Grotten Noord",
+            "de": "Fort und Grotten Noord",
+            "fr": "Fort et Grotten Noord",
+            "it": "Fort and Grotten Noord",
+            "nl": "Fort en Grotten Noord",
+            "pl": "Fort and Grotten Noord",
+            "cs": "Fort and Grotten Noord",
+            "sk": "Fort and Grotten Noord",
+            "ro": "Fort and Grotten Noord",
+            "hu": "Fort and Grotten Noord",
+            "da": "Fort and Grotten Noord"
+          },
+          "value": {
+            "en": "25% off when both are booked together",
+            "de": "25 % Rabatt, wenn beides zusammen gebucht wird",
+            "fr": "25 % de réduction si les deux sont réservés ensemble",
+            "it": "25% off when both are booked together",
+            "nl": "25% korting als je ze samen boekt",
+            "pl": "25% off when both are booked together",
+            "cs": "25% off when both are booked together",
+            "sk": "25% off when both are booked together",
+            "ro": "25% off when both are booked together",
+            "hu": "25% off when both are booked together",
+            "da": "25% off when both are booked together"
+          }
+        },
+        {
+          "label": {
+            "en": "Booking",
+            "de": "Buchung",
+            "fr": "Réservation",
+            "it": "Booking",
+            "nl": "Reserveren",
+            "pl": "Booking",
+            "cs": "Booking",
+            "sk": "Booking",
+            "ro": "Booking",
+            "hu": "Booking",
+            "da": "Booking"
+          },
+          "value": {
+            "en": "Online, 1 to 7 days ahead; at most 14 people per tour",
+            "de": "Online, 1 bis 7 Tage im Voraus; höchstens 14 Personen pro Führung",
+            "fr": "En ligne, de 1 à 7 jours à l'avance ; 14 personnes au maximum par visite",
+            "it": "Online, 1 to 7 days ahead; at most 14 people per tour",
+            "nl": "Online, 1 tot 7 dagen vooraf; maximaal 14 personen per rondleiding",
+            "pl": "Online, 1 to 7 days ahead; at most 14 people per tour",
+            "cs": "Online, 1 to 7 days ahead; at most 14 people per tour",
+            "sk": "Online, 1 to 7 days ahead; at most 14 people per tour",
+            "ro": "Online, 1 to 7 days ahead; at most 14 people per tour",
+            "hu": "Online, 1 to 7 days ahead; at most 14 people per tour",
+            "da": "Online, 1 to 7 days ahead; at most 14 people per tour"
+          }
+        },
+        {
+          "label": {
+            "en": "What to bring",
+            "de": "Mitnehmen",
+            "fr": "À prévoir",
+            "it": "What to bring",
+            "nl": "Meenemen",
+            "pl": "What to bring",
+            "cs": "What to bring",
+            "sk": "What to bring",
+            "ro": "What to bring",
+            "hu": "What to bring",
+            "da": "What to bring"
+          },
+          "value": {
+            "en": "Warm clothes",
+            "de": "Warme Kleidung",
+            "fr": "Des vêtements chauds",
+            "it": "Warm clothes",
+            "nl": "Warme kleding",
+            "pl": "Warm clothes",
+            "cs": "Warm clothes",
+            "sk": "Warm clothes",
+            "ro": "Warm clothes",
+            "hu": "Warm clothes",
+            "da": "Warm clothes"
+          }
+        },
+        {
+          "label": {
+            "en": "Dogs",
+            "de": "Hunde",
+            "fr": "Chiens",
+            "it": "Dogs",
+            "nl": "Honden",
+            "pl": "Dogs",
+            "cs": "Dogs",
+            "sk": "Dogs",
+            "ro": "Dogs",
+            "hu": "Dogs",
+            "da": "Dogs"
+          },
+          "value": {
+            "en": "Not allowed, except assistance dogs",
+            "de": "Nicht erlaubt, außer Assistenzhunde",
+            "fr": "Interdits, sauf chiens d'assistance",
+            "it": "Not allowed, except assistance dogs",
+            "nl": "Niet toegestaan, behalve hulphonden",
+            "pl": "Not allowed, except assistance dogs",
+            "cs": "Not allowed, except assistance dogs",
+            "sk": "Not allowed, except assistance dogs",
+            "ro": "Not allowed, except assistance dogs",
+            "hu": "Not allowed, except assistance dogs",
+            "da": "Not allowed, except assistance dogs"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "Practical",
+        "de": "Praktisch",
+        "fr": "Pratique",
+        "it": "Practical",
+        "nl": "Praktisch",
+        "pl": "Practical",
+        "cs": "Practical",
+        "sk": "Practical",
+        "ro": "Practical",
+        "hu": "Practical",
+        "da": "Practical"
+      },
+      "title": {
+        "en": "Tours and the fort",
+        "de": "Führungen und das Fort",
+        "fr": "Les visites et le fort",
+        "it": "Tours and the fort",
+        "nl": "Rondleidingen en het fort",
+        "pl": "Tours and the fort",
+        "cs": "Tours and the fort",
+        "sk": "Tours and the fort",
+        "ro": "Tours and the fort",
+        "hu": "Tours and the fort",
+        "da": "Tours and the fort"
+      },
+      "buttons": [
+        {
+          "href": "https://www.exploremaastricht.nl/maastricht-underground",
+          "label": {
+            "en": "Maastricht Underground",
+            "de": "Maastricht Underground",
+            "fr": "Maastricht Underground",
+            "it": "Maastricht Underground",
+            "nl": "Maastricht Underground",
+            "pl": "Maastricht Underground",
+            "cs": "Maastricht Underground",
+            "sk": "Maastricht Underground",
+            "ro": "Maastricht Underground",
+            "hu": "Maastricht Underground",
+            "da": "Maastricht Underground"
+          }
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "type": "tiles",
+      "label": {
+        "en": "How to get there",
+        "de": "Anfahrt",
+        "fr": "Comment y aller",
+        "it": "How to get there",
+        "nl": "Hoe je er komt",
+        "pl": "How to get there",
+        "cs": "How to get there",
+        "sk": "How to get there",
+        "ro": "How to get there",
+        "hu": "How to get there",
+        "da": "How to get there"
+      },
+      "tiles": [
+        {
+          "icon": "pin",
+          "text": {
+            "en": "Bus 12 runs from Maastricht Centraal to the stop Fort Sint Pieter in about 14 minutes, every day until 19:00.",
+            "de": "Bus 12 fährt von Maastricht Centraal in rund 14 Minuten zur Haltestelle Fort Sint Pieter, täglich bis 19:00 Uhr.",
+            "fr": "Le bus 12 relie Maastricht Centraal à l'arrêt Fort Sint Pieter en 14 minutes environ, tous les jours jusqu'à 19 h.",
+            "it": "Bus 12 runs from Maastricht Centraal to the stop Fort Sint Pieter in about 14 minutes, every day until 19:00.",
+            "nl": "Bus 12 rijdt van Maastricht Centraal in ongeveer 14 minuten naar de halte Fort Sint Pieter, elke dag tot 19.00 uur.",
+            "pl": "Bus 12 runs from Maastricht Centraal to the stop Fort Sint Pieter in about 14 minutes, every day until 19:00.",
+            "cs": "Bus 12 runs from Maastricht Centraal to the stop Fort Sint Pieter in about 14 minutes, every day until 19:00.",
+            "sk": "Bus 12 runs from Maastricht Centraal to the stop Fort Sint Pieter in about 14 minutes, every day until 19:00.",
+            "ro": "Bus 12 runs from Maastricht Centraal to the stop Fort Sint Pieter in about 14 minutes, every day until 19:00.",
+            "hu": "Bus 12 runs from Maastricht Centraal to the stop Fort Sint Pieter in about 14 minutes, every day until 19:00.",
+            "da": "Bus 12 runs from Maastricht Centraal to the stop Fort Sint Pieter in about 14 minutes, every day until 19:00."
+          },
+          "title": {
+            "en": "By bus",
+            "de": "Mit dem Bus",
+            "fr": "En bus",
+            "it": "By bus",
+            "nl": "Met de bus",
+            "pl": "By bus",
+            "cs": "By bus",
+            "sk": "By bus",
+            "ro": "By bus",
+            "hu": "By bus",
+            "da": "By bus"
+          }
+        },
+        {
+          "icon": "walk",
+          "text": {
+            "en": "From the Maastricht Store on Kleine Staat in the centre it is a walk of 20 to 30 minutes.",
+            "de": "Vom Maastricht Store in der Kleine Staat im Zentrum sind es 20 bis 30 Minuten zu Fuß.",
+            "fr": "Depuis le Maastricht Store, sur Kleine Staat au centre-ville, il faut compter 20 à 30 minutes de marche.",
+            "it": "From the Maastricht Store on Kleine Staat in the centre it is a walk of 20 to 30 minutes.",
+            "nl": "Vanaf de Maastricht Store in de Kleine Staat in het centrum is het 20 tot 30 minuten lopen.",
+            "pl": "From the Maastricht Store on Kleine Staat in the centre it is a walk of 20 to 30 minutes.",
+            "cs": "From the Maastricht Store on Kleine Staat in the centre it is a walk of 20 to 30 minutes.",
+            "sk": "From the Maastricht Store on Kleine Staat in the centre it is a walk of 20 to 30 minutes.",
+            "ro": "From the Maastricht Store on Kleine Staat in the centre it is a walk of 20 to 30 minutes.",
+            "hu": "From the Maastricht Store on Kleine Staat in the centre it is a walk of 20 to 30 minutes.",
+            "da": "From the Maastricht Store on Kleine Staat in the centre it is a walk of 20 to 30 minutes."
+          },
+          "title": {
+            "en": "On foot",
+            "de": "Zu Fuß",
+            "fr": "À pied",
+            "it": "On foot",
+            "nl": "Te voet",
+            "pl": "On foot",
+            "cs": "On foot",
+            "sk": "On foot",
+            "ro": "On foot",
+            "hu": "On foot",
+            "da": "On foot"
+          }
+        },
+        {
+          "icon": "car",
+          "text": {
+            "en": "The car park Oog van Sint Pieter next to the fort costs €0.20 for the first two hours and €6 for a day, paid in advance.",
+            "de": "Der Parkplatz Oog van Sint Pieter neben dem Fort kostet 0,20 € für die ersten zwei Stunden und 6 € für einen Tag, zahlbar im Voraus.",
+            "fr": "Le parking Oog van Sint Pieter, à côté du fort, coûte 0,20 € pour les deux premières heures et 6 € la journée, à payer d'avance.",
+            "it": "The car park Oog van Sint Pieter next to the fort costs €0.20 for the first two hours and €6 for a day, paid in advance.",
+            "nl": "Parkeren op Oog van Sint Pieter naast het fort kost € 0,20 voor de eerste twee uur en € 6 voor een dag, vooraf te betalen.",
+            "pl": "The car park Oog van Sint Pieter next to the fort costs €0.20 for the first two hours and €6 for a day, paid in advance.",
+            "cs": "The car park Oog van Sint Pieter next to the fort costs €0.20 for the first two hours and €6 for a day, paid in advance.",
+            "sk": "The car park Oog van Sint Pieter next to the fort costs €0.20 for the first two hours and €6 for a day, paid in advance.",
+            "ro": "The car park Oog van Sint Pieter next to the fort costs €0.20 for the first two hours and €6 for a day, paid in advance.",
+            "hu": "The car park Oog van Sint Pieter next to the fort costs €0.20 for the first two hours and €6 for a day, paid in advance.",
+            "da": "The car park Oog van Sint Pieter next to the fort costs €0.20 for the first two hours and €6 for a day, paid in advance."
+          },
+          "title": {
+            "en": "By car",
+            "de": "Mit dem Auto",
+            "fr": "En voiture",
+            "it": "By car",
+            "nl": "Met de auto",
+            "pl": "By car",
+            "cs": "By car",
+            "sk": "By car",
+            "ro": "By car",
+            "hu": "By car",
+            "da": "By car"
+          }
+        }
+      ],
+      "title": {
+        "en": "From Maastricht Centraal",
+        "de": "Ab Maastricht Centraal",
+        "fr": "Depuis Maastricht Centraal",
+        "it": "From Maastricht Centraal",
+        "nl": "Vanaf Maastricht Centraal",
+        "pl": "From Maastricht Centraal",
+        "cs": "From Maastricht Centraal",
+        "sk": "From Maastricht Centraal",
+        "ro": "From Maastricht Centraal",
+        "hu": "From Maastricht Centraal",
+        "da": "From Maastricht Centraal"
+      }
+    },
+    {
+      "id": "access",
+      "text": {
+        "en": "The caves are not suitable for people who walk with difficulty. The fort cannot be visited in a wheelchair. Start times for November are only shown in the booking system.",
+        "de": "Für Menschen, die schlecht zu Fuß sind, sind die Höhlen nicht geeignet. Das Fort lässt sich nicht im Rollstuhl besichtigen. Die Startzeiten für November stehen nur im Buchungssystem.",
+        "fr": "Les grottes ne conviennent pas aux personnes qui marchent difficilement. Le fort ne se visite pas en fauteuil roulant. Les horaires de départ de novembre figurent uniquement dans le système de réservation.",
+        "it": "The caves are not suitable for people who walk with difficulty. The fort cannot be visited in a wheelchair. Start times for November are only shown in the booking system.",
+        "nl": "De grotten zijn niet geschikt voor mensen die slecht ter been zijn. Het fort is niet toegankelijk met een rolstoel. De starttijden voor november staan alleen in het reserveringssysteem.",
+        "pl": "The caves are not suitable for people who walk with difficulty. The fort cannot be visited in a wheelchair. Start times for November are only shown in the booking system.",
+        "cs": "The caves are not suitable for people who walk with difficulty. The fort cannot be visited in a wheelchair. Start times for November are only shown in the booking system.",
+        "sk": "The caves are not suitable for people who walk with difficulty. The fort cannot be visited in a wheelchair. Start times for November are only shown in the booking system.",
+        "ro": "The caves are not suitable for people who walk with difficulty. The fort cannot be visited in a wheelchair. Start times for November are only shown in the booking system.",
+        "hu": "The caves are not suitable for people who walk with difficulty. The fort cannot be visited in a wheelchair. Start times for November are only shown in the booking system.",
+        "da": "The caves are not suitable for people who walk with difficulty. The fort cannot be visited in a wheelchair. Start times for November are only shown in the booking system."
+      },
+      "type": "note"
+    },
+    {
+      "id": "afterwards",
+      "type": "text",
+      "label": {
+        "en": "Afterwards",
+        "de": "Danach",
+        "fr": "Ensuite",
+        "it": "Afterwards",
+        "nl": "Daarna",
+        "pl": "Afterwards",
+        "cs": "Afterwards",
+        "sk": "Afterwards",
+        "ro": "Afterwards",
+        "hu": "Afterwards",
+        "da": "Afterwards"
+      },
+      "title": {
+        "en": "Down to the Maas",
+        "de": "Hinunter zur Maas",
+        "fr": "Descendre vers la Meuse",
+        "it": "Down to the Maas",
+        "nl": "Naar de Maas",
+        "pl": "Down to the Maas",
+        "cs": "Down to the Maas",
+        "sk": "Down to the Maas",
+        "ro": "Down to the Maas",
+        "hu": "Down to the Maas",
+        "da": "Down to the Maas"
+      },
+      "visual": {
+        "type": "stamp",
+        "stamp": {
+          "name": {
+            "en": "Sint Servaasbrug, 100th Anniversary, Maastricht",
+            "de": "Sint Servaasbrug, 100 Jahre, Maastricht",
+            "fr": "Pont Saint-Servais, centenaire, Maastricht",
+            "it": "Sint Servaasbrug, 100th Anniversary, Maastricht",
+            "nl": "Sint Servaasbrug, 100-jarig jubileum, Maastricht",
+            "pl": "Sint Servaasbrug, 100th Anniversary, Maastricht",
+            "cs": "Sint Servaasbrug, 100th Anniversary, Maastricht",
+            "sk": "Sint Servaasbrug, 100th Anniversary, Maastricht",
+            "ro": "Sint Servaasbrug, 100th Anniversary, Maastricht",
+            "hu": "Sint Servaasbrug, 100th Anniversary, Maastricht",
+            "da": "Sint Servaasbrug, 100th Anniversary, Maastricht"
+          },
+          "year": 2011,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/7e6691104963e844/sp-stamp-servaasbrug.png",
+            "width": 1100,
+            "height": 772
+          },
+          "country": "NL",
+          "stamp_id": "SIQ-NL-2011-067"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "Back in the centre of Maastricht, the Sint Servaasbrug over the Maas has its own pin on the StampIQ map. It holds two stamps: one of 1968 by R.J. Draijer, and one of 2011 from a series for 100 years of the heritage society Bond Heemschut.",
+          "de": "Zurück im Zentrum von Maastricht hat die Sint Servaasbrug über die Maas einen eigenen Pin auf der StampIQ-Karte. Dort liegen zwei Briefmarken: eine von 1968 von R.J. Draijer und eine von 2011 aus einer Serie zum 100-jährigen Bestehen des Denkmalschutzvereins Bond Heemschut.",
+          "fr": "De retour dans le centre de Maastricht, le pont Saint-Servais sur la Meuse a son propre repère sur la carte StampIQ. Il réunit deux timbres : un de 1968 signé R.J. Draijer et un de 2011, tiré d'une série pour les 100 ans de l'association patrimoniale Bond Heemschut.",
+          "it": "Back in the centre of Maastricht, the Sint Servaasbrug over the Maas has its own pin on the StampIQ map. It holds two stamps: one of 1968 by R.J. Draijer, and one of 2011 from a series for 100 years of the heritage society Bond Heemschut.",
+          "nl": "Terug in het centrum van Maastricht heeft de Sint Servaasbrug over de Maas een eigen pin op de kaart van StampIQ. Er horen twee postzegels bij: een uit 1968 van R.J. Draijer en een uit 2011 uit een serie voor 100 jaar erfgoedvereniging Bond Heemschut.",
+          "pl": "Back in the centre of Maastricht, the Sint Servaasbrug over the Maas has its own pin on the StampIQ map. It holds two stamps: one of 1968 by R.J. Draijer, and one of 2011 from a series for 100 years of the heritage society Bond Heemschut.",
+          "cs": "Back in the centre of Maastricht, the Sint Servaasbrug over the Maas has its own pin on the StampIQ map. It holds two stamps: one of 1968 by R.J. Draijer, and one of 2011 from a series for 100 years of the heritage society Bond Heemschut.",
+          "sk": "Back in the centre of Maastricht, the Sint Servaasbrug over the Maas has its own pin on the StampIQ map. It holds two stamps: one of 1968 by R.J. Draijer, and one of 2011 from a series for 100 years of the heritage society Bond Heemschut.",
+          "ro": "Back in the centre of Maastricht, the Sint Servaasbrug over the Maas has its own pin on the StampIQ map. It holds two stamps: one of 1968 by R.J. Draijer, and one of 2011 from a series for 100 years of the heritage society Bond Heemschut.",
+          "hu": "Back in the centre of Maastricht, the Sint Servaasbrug over the Maas has its own pin on the StampIQ map. It holds two stamps: one of 1968 by R.J. Draijer, and one of 2011 from a series for 100 years of the heritage society Bond Heemschut.",
+          "da": "Back in the centre of Maastricht, the Sint Servaasbrug over the Maas has its own pin on the StampIQ map. It holds two stamps: one of 1968 by R.J. Draijer, and one of 2011 from a series for 100 years of the heritage society Bond Heemschut."
+        },
+        {
+          "en": "About 600 metres west of the bridge stands the Basilica of Saint Servatius. Its pin carries a stamp of 1984 by Paul Mijksenaar, with a statue of the saint and the words \"Sinte Servaes\" and \"384\" printed on it.",
+          "de": "Rund 600 Meter westlich der Brücke steht die Servatiusbasilika. An ihrem Pin hängt eine Marke von 1984 von Paul Mijksenaar, mit einer Statue des Heiligen und den Aufschriften „Sinte Servaes“ und „384“.",
+          "fr": "À environ 600 mètres à l'ouest du pont se dresse la basilique Saint-Servais. Son repère contient un timbre de 1984 de Paul Mijksenaar, avec une statue du saint et les mots « Sinte Servaes » et « 384 » imprimés dessus.",
+          "it": "About 600 metres west of the bridge stands the Basilica of Saint Servatius. Its pin carries a stamp of 1984 by Paul Mijksenaar, with a statue of the saint and the words \"Sinte Servaes\" and \"384\" printed on it.",
+          "nl": "Ongeveer 600 meter ten westen van de brug staat de Sint-Servaasbasiliek. Bij de pin van de basiliek hoort een postzegel uit 1984 van Paul Mijksenaar, met een beeld van de heilige en de woorden „Sinte Servaes” en „384” erop.",
+          "pl": "About 600 metres west of the bridge stands the Basilica of Saint Servatius. Its pin carries a stamp of 1984 by Paul Mijksenaar, with a statue of the saint and the words \"Sinte Servaes\" and \"384\" printed on it.",
+          "cs": "About 600 metres west of the bridge stands the Basilica of Saint Servatius. Its pin carries a stamp of 1984 by Paul Mijksenaar, with a statue of the saint and the words \"Sinte Servaes\" and \"384\" printed on it.",
+          "sk": "About 600 metres west of the bridge stands the Basilica of Saint Servatius. Its pin carries a stamp of 1984 by Paul Mijksenaar, with a statue of the saint and the words \"Sinte Servaes\" and \"384\" printed on it.",
+          "ro": "About 600 metres west of the bridge stands the Basilica of Saint Servatius. Its pin carries a stamp of 1984 by Paul Mijksenaar, with a statue of the saint and the words \"Sinte Servaes\" and \"384\" printed on it.",
+          "hu": "About 600 metres west of the bridge stands the Basilica of Saint Servatius. Its pin carries a stamp of 1984 by Paul Mijksenaar, with a statue of the saint and the words \"Sinte Servaes\" and \"384\" printed on it.",
+          "da": "About 600 metres west of the bridge stands the Basilica of Saint Servatius. Its pin carries a stamp of 1984 by Paul Mijksenaar, with a statue of the saint and the words \"Sinte Servaes\" and \"384\" printed on it."
+        },
+        {
+          "en": "The treasury of the basilica, at Keizer Karelplein 4, opens every day, on Sunday from 11:30, and closes at 17:00. Adults pay €7.50. The Museumkaart is not valid there.",
+          "de": "Die Schatzkammer der Basilika am Keizer Karelplein 4 ist täglich bis 17:00 Uhr geöffnet, sonntags ab 11:30 Uhr. Erwachsene zahlen 7,50 €. Die Museumkaart gilt dort nicht.",
+          "fr": "Le trésor de la basilique, au Keizer Karelplein 4, est ouvert tous les jours jusqu'à 17 h, le dimanche à partir de 11 h 30. L'entrée coûte 7,50 € pour les adultes. La Museumkaart n'y est pas acceptée.",
+          "it": "The treasury of the basilica, at Keizer Karelplein 4, opens every day, on Sunday from 11:30, and closes at 17:00. Adults pay €7.50. The Museumkaart is not valid there.",
+          "nl": "De schatkamer van de basiliek aan het Keizer Karelplein 4 is elke dag open en sluit om 17.00 uur. Op zondag gaat ze om 11.30 uur open. Volwassenen betalen € 7,50. De Museumkaart geldt er niet.",
+          "pl": "The treasury of the basilica, at Keizer Karelplein 4, opens every day, on Sunday from 11:30, and closes at 17:00. Adults pay €7.50. The Museumkaart is not valid there.",
+          "cs": "The treasury of the basilica, at Keizer Karelplein 4, opens every day, on Sunday from 11:30, and closes at 17:00. Adults pay €7.50. The Museumkaart is not valid there.",
+          "sk": "The treasury of the basilica, at Keizer Karelplein 4, opens every day, on Sunday from 11:30, and closes at 17:00. Adults pay €7.50. The Museumkaart is not valid there.",
+          "ro": "The treasury of the basilica, at Keizer Karelplein 4, opens every day, on Sunday from 11:30, and closes at 17:00. Adults pay €7.50. The Museumkaart is not valid there.",
+          "hu": "The treasury of the basilica, at Keizer Karelplein 4, opens every day, on Sunday from 11:30, and closes at 17:00. Adults pay €7.50. The Museumkaart is not valid there.",
+          "da": "The treasury of the basilica, at Keizer Karelplein 4, opens every day, on Sunday from 11:30, and closes at 17:00. Adults pay €7.50. The Museumkaart is not valid there."
+        }
+      ]
+    }
+  ]
+}
