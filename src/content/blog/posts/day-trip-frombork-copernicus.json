@@ -1,0 +1,1316 @@
+{
+  "category": "day-trips",
+  "markets": [
+    "PL"
+  ],
+  "langs": [
+    "en",
+    "pl"
+  ],
+  "published_at": "2026-11-06T09:00:00+00:00",
+  "thumbnail": {
+    "src": "https://assets.stampiq.io/blog/78dc680419c57756/fb-cathedral-lagoon.jpg",
+    "width": 2400,
+    "height": 1800
+  },
+  "languages": {
+    "en": {
+      "slug": "day-trip-frombork-copernicus",
+      "title": "Day trip: Cathedral Hill in Frombork",
+      "description": "A 1960 stamp shows a man with an instrument on a tower in Frombork. What the Copernicus museum says, his grave under glass and what is open on the hill."
+    },
+    "de": {
+      "slug": "day-trip-frombork-copernicus",
+      "title": "Day trip: Cathedral Hill in Frombork",
+      "description": "A 1960 stamp shows a man with an instrument on a tower in Frombork. What the Copernicus museum says, his grave under glass and what is open on the hill."
+    },
+    "fr": {
+      "slug": "day-trip-frombork-copernicus",
+      "title": "Day trip: Cathedral Hill in Frombork",
+      "description": "A 1960 stamp shows a man with an instrument on a tower in Frombork. What the Copernicus museum says, his grave under glass and what is open on the hill."
+    },
+    "it": {
+      "slug": "day-trip-frombork-copernicus",
+      "title": "Day trip: Cathedral Hill in Frombork",
+      "description": "A 1960 stamp shows a man with an instrument on a tower in Frombork. What the Copernicus museum says, his grave under glass and what is open on the hill."
+    },
+    "nl": {
+      "slug": "day-trip-frombork-copernicus",
+      "title": "Day trip: Cathedral Hill in Frombork",
+      "description": "A 1960 stamp shows a man with an instrument on a tower in Frombork. What the Copernicus museum says, his grave under glass and what is open on the hill."
+    },
+    "pl": {
+      "slug": "wycieczka-frombork-kopernik",
+      "title": "Wycieczka: Wzgórze Katedralne we Fromborku",
+      "description": "Znaczek z 1960 roku pokazuje człowieka z przyrządem na wieży we Fromborku. Co podaje Muzeum Kopernika, grób astronoma pod szybą i co jest otwarte na wzgórzu."
+    },
+    "cs": {
+      "slug": "day-trip-frombork-copernicus",
+      "title": "Day trip: Cathedral Hill in Frombork",
+      "description": "A 1960 stamp shows a man with an instrument on a tower in Frombork. What the Copernicus museum says, his grave under glass and what is open on the hill."
+    },
+    "sk": {
+      "slug": "day-trip-frombork-copernicus",
+      "title": "Day trip: Cathedral Hill in Frombork",
+      "description": "A 1960 stamp shows a man with an instrument on a tower in Frombork. What the Copernicus museum says, his grave under glass and what is open on the hill."
+    },
+    "ro": {
+      "slug": "day-trip-frombork-copernicus",
+      "title": "Day trip: Cathedral Hill in Frombork",
+      "description": "A 1960 stamp shows a man with an instrument on a tower in Frombork. What the Copernicus museum says, his grave under glass and what is open on the hill."
+    },
+    "hu": {
+      "slug": "day-trip-frombork-copernicus",
+      "title": "Day trip: Cathedral Hill in Frombork",
+      "description": "A 1960 stamp shows a man with an instrument on a tower in Frombork. What the Copernicus museum says, his grave under glass and what is open on the hill."
+    },
+    "da": {
+      "slug": "day-trip-frombork-copernicus",
+      "title": "Day trip: Cathedral Hill in Frombork",
+      "description": "A 1960 stamp shows a man with an instrument on a tower in Frombork. What the Copernicus museum says, his grave under glass and what is open on the hill."
+    }
+  },
+  "header": {
+    "lead": {
+      "en": "A Polish stamp of 1960 and Jan Matejko's painting of 1873 both show an astronomer under the stars on a tower in Frombork. The Copernicus museum on Cathedral Hill writes that Copernicus kept his books in the tower and observed the sky from the garden of his canonry.",
+      "de": "A Polish stamp of 1960 and Jan Matejko's painting of 1873 both show an astronomer under the stars on a tower in Frombork. The Copernicus museum on Cathedral Hill writes that Copernicus kept his books in the tower and observed the sky from the garden of his canonry.",
+      "fr": "A Polish stamp of 1960 and Jan Matejko's painting of 1873 both show an astronomer under the stars on a tower in Frombork. The Copernicus museum on Cathedral Hill writes that Copernicus kept his books in the tower and observed the sky from the garden of his canonry.",
+      "it": "A Polish stamp of 1960 and Jan Matejko's painting of 1873 both show an astronomer under the stars on a tower in Frombork. The Copernicus museum on Cathedral Hill writes that Copernicus kept his books in the tower and observed the sky from the garden of his canonry.",
+      "nl": "A Polish stamp of 1960 and Jan Matejko's painting of 1873 both show an astronomer under the stars on a tower in Frombork. The Copernicus museum on Cathedral Hill writes that Copernicus kept his books in the tower and observed the sky from the garden of his canonry.",
+      "pl": "Polski znaczek z 1960 roku i obraz Jana Matejki z 1873 roku pokazują astronoma pod gwiazdami na wieży we Fromborku. Muzeum Kopernika na Wzgórzu Katedralnym podaje, że Kopernik trzymał w wieży swoje księgi, a niebo obserwował z ogrodu przy kurii kanonickiej.",
+      "cs": "A Polish stamp of 1960 and Jan Matejko's painting of 1873 both show an astronomer under the stars on a tower in Frombork. The Copernicus museum on Cathedral Hill writes that Copernicus kept his books in the tower and observed the sky from the garden of his canonry.",
+      "sk": "A Polish stamp of 1960 and Jan Matejko's painting of 1873 both show an astronomer under the stars on a tower in Frombork. The Copernicus museum on Cathedral Hill writes that Copernicus kept his books in the tower and observed the sky from the garden of his canonry.",
+      "ro": "A Polish stamp of 1960 and Jan Matejko's painting of 1873 both show an astronomer under the stars on a tower in Frombork. The Copernicus museum on Cathedral Hill writes that Copernicus kept his books in the tower and observed the sky from the garden of his canonry.",
+      "hu": "A Polish stamp of 1960 and Jan Matejko's painting of 1873 both show an astronomer under the stars on a tower in Frombork. The Copernicus museum on Cathedral Hill writes that Copernicus kept his books in the tower and observed the sky from the garden of his canonry.",
+      "da": "A Polish stamp of 1960 and Jan Matejko's painting of 1873 both show an astronomer under the stars on a tower in Frombork. The Copernicus museum on Cathedral Hill writes that Copernicus kept his books in the tower and observed the sky from the garden of his canonry."
+    },
+    "visual": {
+      "type": "stamp",
+      "stamp": {
+        "name": {
+          "en": "Frombork, Historic City View",
+          "de": "Frombork, Historic City View",
+          "fr": "Frombork, Historic City View",
+          "it": "Frombork, Historic City View",
+          "nl": "Frombork, Historic City View",
+          "pl": "Frombork, historyczny widok miasta",
+          "cs": "Frombork, Historic City View",
+          "sk": "Frombork, Historic City View",
+          "ro": "Frombork, Historic City View",
+          "hu": "Frombork, Historic City View",
+          "da": "Frombork, Historic City View"
+        },
+        "year": 1960,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/b63d492acc833515/fb-stamp-1960.png",
+          "width": 1100,
+          "height": 880
+        },
+        "country": "PL",
+        "stamp_id": "SIQ-PL-1960-047"
+      }
+    },
+    "location": "Frombork, Warmian-Masurian Voivodeship, Poland"
+  },
+  "blocks": [
+    {
+      "id": "sigi",
+      "type": "text",
+      "label": {
+        "en": "In your collection",
+        "de": "In your collection",
+        "fr": "In your collection",
+        "it": "In your collection",
+        "nl": "In your collection",
+        "pl": "W Twojej kolekcji",
+        "cs": "In your collection",
+        "sk": "In your collection",
+        "ro": "In your collection",
+        "hu": "In your collection",
+        "da": "In your collection"
+      },
+      "title": {
+        "en": "A question for Sigi",
+        "de": "A question for Sigi",
+        "fr": "A question for Sigi",
+        "it": "A question for Sigi",
+        "nl": "A question for Sigi",
+        "pl": "Pytanie do Sigiego",
+        "cs": "A question for Sigi",
+        "sk": "A question for Sigi",
+        "ro": "A question for Sigi",
+        "hu": "A question for Sigi",
+        "da": "A question for Sigi"
+      },
+      "visual": {
+        "type": "phone",
+        "animation": {
+          "src": "https://assets.stampiq.io/blog/b3a72aa4c320d936/frombork.mp4",
+          "width": 960,
+          "height": 2080,
+          "poster": "https://assets.stampiq.io/blog/e71344b4d6eb8a9f/frombork.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "Your collection holds the 80 groszy Frombork stamp of 1960, engraved in violet-blue. A square brick tower with a pyramid roof stands at the left. Beside it, a small figure on a lower round tower points a long angled instrument at a starry sky with a crescent moon and a sun with a face. The cathedral and its spires fill the right side.",
+          "de": "Your collection holds the 80 groszy Frombork stamp of 1960, engraved in violet-blue. A square brick tower with a pyramid roof stands at the left. Beside it, a small figure on a lower round tower points a long angled instrument at a starry sky with a crescent moon and a sun with a face. The cathedral and its spires fill the right side.",
+          "fr": "Your collection holds the 80 groszy Frombork stamp of 1960, engraved in violet-blue. A square brick tower with a pyramid roof stands at the left. Beside it, a small figure on a lower round tower points a long angled instrument at a starry sky with a crescent moon and a sun with a face. The cathedral and its spires fill the right side.",
+          "it": "Your collection holds the 80 groszy Frombork stamp of 1960, engraved in violet-blue. A square brick tower with a pyramid roof stands at the left. Beside it, a small figure on a lower round tower points a long angled instrument at a starry sky with a crescent moon and a sun with a face. The cathedral and its spires fill the right side.",
+          "nl": "Your collection holds the 80 groszy Frombork stamp of 1960, engraved in violet-blue. A square brick tower with a pyramid roof stands at the left. Beside it, a small figure on a lower round tower points a long angled instrument at a starry sky with a crescent moon and a sun with a face. The cathedral and its spires fill the right side.",
+          "pl": "W Twojej kolekcji jest fioletowoniebieski, rytowany znaczek 80 gr z Fromborkiem z 1960 roku. Po lewej stoi czworokątna ceglana wieża z dachem w kształcie piramidy. Obok, na niższej okrągłej wieży, niewielka postać kieruje długi, pochylony przyrząd ku gwiaździstemu niebu z sierpem księżyca i słońcem z twarzą. Prawą stronę wypełnia katedra z wieżami.",
+          "cs": "Your collection holds the 80 groszy Frombork stamp of 1960, engraved in violet-blue. A square brick tower with a pyramid roof stands at the left. Beside it, a small figure on a lower round tower points a long angled instrument at a starry sky with a crescent moon and a sun with a face. The cathedral and its spires fill the right side.",
+          "sk": "Your collection holds the 80 groszy Frombork stamp of 1960, engraved in violet-blue. A square brick tower with a pyramid roof stands at the left. Beside it, a small figure on a lower round tower points a long angled instrument at a starry sky with a crescent moon and a sun with a face. The cathedral and its spires fill the right side.",
+          "ro": "Your collection holds the 80 groszy Frombork stamp of 1960, engraved in violet-blue. A square brick tower with a pyramid roof stands at the left. Beside it, a small figure on a lower round tower points a long angled instrument at a starry sky with a crescent moon and a sun with a face. The cathedral and its spires fill the right side.",
+          "hu": "Your collection holds the 80 groszy Frombork stamp of 1960, engraved in violet-blue. A square brick tower with a pyramid roof stands at the left. Beside it, a small figure on a lower round tower points a long angled instrument at a starry sky with a crescent moon and a sun with a face. The cathedral and its spires fill the right side.",
+          "da": "Your collection holds the 80 groszy Frombork stamp of 1960, engraved in violet-blue. A square brick tower with a pyramid roof stands at the left. Beside it, a small figure on a lower round tower points a long angled instrument at a starry sky with a crescent moon and a sun with a face. The cathedral and its spires fill the right side."
+        },
+        {
+          "en": "The stamp names the town and leaves the figure on the tower without a name. On the stamp's page, the Sigi icon \"Ask Sigi about this stamp\" opens a chat about this stamp alone. The question typed into \"Ask me anything...\" is whether the figure at the tower with the cross refers to a painting by Jan Matejko.",
+          "de": "The stamp names the town and leaves the figure on the tower without a name. On the stamp's page, the Sigi icon \"Ask Sigi about this stamp\" opens a chat about this stamp alone. The question typed into \"Ask me anything...\" is whether the figure at the tower with the cross refers to a painting by Jan Matejko.",
+          "fr": "The stamp names the town and leaves the figure on the tower without a name. On the stamp's page, the Sigi icon \"Ask Sigi about this stamp\" opens a chat about this stamp alone. The question typed into \"Ask me anything...\" is whether the figure at the tower with the cross refers to a painting by Jan Matejko.",
+          "it": "The stamp names the town and leaves the figure on the tower without a name. On the stamp's page, the Sigi icon \"Ask Sigi about this stamp\" opens a chat about this stamp alone. The question typed into \"Ask me anything...\" is whether the figure at the tower with the cross refers to a painting by Jan Matejko.",
+          "nl": "The stamp names the town and leaves the figure on the tower without a name. On the stamp's page, the Sigi icon \"Ask Sigi about this stamp\" opens a chat about this stamp alone. The question typed into \"Ask me anything...\" is whether the figure at the tower with the cross refers to a painting by Jan Matejko.",
+          "pl": "Na znaczku jest nazwa miasta, ale postać na wieży nie jest podpisana. Na stronie znaczka ikona Sigiego „Zapytaj Sigiego o ten znaczek” otwiera rozmowę o tym jednym znaczku. W polu „Zapytaj mnie o cokolwiek...” pada pytanie, czy postać na wieży z krzyżem nawiązuje do obrazu Jana Matejki.",
+          "cs": "The stamp names the town and leaves the figure on the tower without a name. On the stamp's page, the Sigi icon \"Ask Sigi about this stamp\" opens a chat about this stamp alone. The question typed into \"Ask me anything...\" is whether the figure at the tower with the cross refers to a painting by Jan Matejko.",
+          "sk": "The stamp names the town and leaves the figure on the tower without a name. On the stamp's page, the Sigi icon \"Ask Sigi about this stamp\" opens a chat about this stamp alone. The question typed into \"Ask me anything...\" is whether the figure at the tower with the cross refers to a painting by Jan Matejko.",
+          "ro": "The stamp names the town and leaves the figure on the tower without a name. On the stamp's page, the Sigi icon \"Ask Sigi about this stamp\" opens a chat about this stamp alone. The question typed into \"Ask me anything...\" is whether the figure at the tower with the cross refers to a painting by Jan Matejko.",
+          "hu": "The stamp names the town and leaves the figure on the tower without a name. On the stamp's page, the Sigi icon \"Ask Sigi about this stamp\" opens a chat about this stamp alone. The question typed into \"Ask me anything...\" is whether the figure at the tower with the cross refers to a painting by Jan Matejko.",
+          "da": "The stamp names the town and leaves the figure on the tower without a name. On the stamp's page, the Sigi icon \"Ask Sigi about this stamp\" opens a chat about this stamp alone. The question typed into \"Ask me anything...\" is whether the figure at the tower with the cross refers to a painting by Jan Matejko."
+        }
+      ]
+    },
+    {
+      "id": "painting",
+      "type": "text",
+      "label": {
+        "en": "The painting",
+        "de": "The painting",
+        "fr": "The painting",
+        "it": "The painting",
+        "nl": "The painting",
+        "pl": "Obraz",
+        "cs": "The painting",
+        "sk": "The painting",
+        "ro": "The painting",
+        "hu": "The painting",
+        "da": "The painting"
+      },
+      "title": {
+        "en": "Matejko's Copernicus",
+        "de": "Matejko's Copernicus",
+        "fr": "Matejko's Copernicus",
+        "it": "Matejko's Copernicus",
+        "nl": "Matejko's Copernicus",
+        "pl": "Kopernik Matejki",
+        "cs": "Matejko's Copernicus",
+        "sk": "Matejko's Copernicus",
+        "ro": "Matejko's Copernicus",
+        "hu": "Matejko's Copernicus",
+        "da": "Matejko's Copernicus"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/39bbd71f3e40a6ec/fb-matejko.jpg",
+          "width": 2400,
+          "credit": "Jan Matejko, public domain",
+          "height": 1726,
+          "caption": {
+            "en": "Jan Matejko, \"Astronomer Copernicus, or Conversations with God\", 1873, Jagiellonian University, Kraków.",
+            "de": "Jan Matejko, \"Astronomer Copernicus, or Conversations with God\", 1873, Jagiellonian University, Kraków.",
+            "fr": "Jan Matejko, \"Astronomer Copernicus, or Conversations with God\", 1873, Jagiellonian University, Kraków.",
+            "it": "Jan Matejko, \"Astronomer Copernicus, or Conversations with God\", 1873, Jagiellonian University, Kraków.",
+            "nl": "Jan Matejko, \"Astronomer Copernicus, or Conversations with God\", 1873, Jagiellonian University, Kraków.",
+            "pl": "Jan Matejko, „Astronom Kopernik, czyli rozmowa z Bogiem”, 1873, Uniwersytet Jagielloński, Kraków.",
+            "cs": "Jan Matejko, \"Astronomer Copernicus, or Conversations with God\", 1873, Jagiellonian University, Kraków.",
+            "sk": "Jan Matejko, \"Astronomer Copernicus, or Conversations with God\", 1873, Jagiellonian University, Kraków.",
+            "ro": "Jan Matejko, \"Astronomer Copernicus, or Conversations with God\", 1873, Jagiellonian University, Kraków.",
+            "hu": "Jan Matejko, \"Astronomer Copernicus, or Conversations with God\", 1873, Jagiellonian University, Kraków.",
+            "da": "Jan Matejko, \"Astronomer Copernicus, or Conversations with God\", 1873, Jagiellonian University, Kraków."
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jan_Matejko-Astronomer_Copernicus-Conversation_with_God.jpg"
+        }
+      },
+      "buttons": [],
+      "paragraphs": [
+        {
+          "en": "Matejko painted \"Astronomer Copernicus, or Conversations with God\" in 1873, 400 years after Copernicus was born. At night, Copernicus kneels on the high balcony of a tower, with the spires of Frombork cathedral behind him. The long wooden instrument at his back forms a cross against the sky.",
+          "de": "Matejko painted \"Astronomer Copernicus, or Conversations with God\" in 1873, 400 years after Copernicus was born. At night, Copernicus kneels on the high balcony of a tower, with the spires of Frombork cathedral behind him. The long wooden instrument at his back forms a cross against the sky.",
+          "fr": "Matejko painted \"Astronomer Copernicus, or Conversations with God\" in 1873, 400 years after Copernicus was born. At night, Copernicus kneels on the high balcony of a tower, with the spires of Frombork cathedral behind him. The long wooden instrument at his back forms a cross against the sky.",
+          "it": "Matejko painted \"Astronomer Copernicus, or Conversations with God\" in 1873, 400 years after Copernicus was born. At night, Copernicus kneels on the high balcony of a tower, with the spires of Frombork cathedral behind him. The long wooden instrument at his back forms a cross against the sky.",
+          "nl": "Matejko painted \"Astronomer Copernicus, or Conversations with God\" in 1873, 400 years after Copernicus was born. At night, Copernicus kneels on the high balcony of a tower, with the spires of Frombork cathedral behind him. The long wooden instrument at his back forms a cross against the sky.",
+          "pl": "Matejko namalował „Astronoma Kopernika, czyli rozmowę z Bogiem” w 1873 roku, 400 lat po urodzeniu astronoma. Jest noc, Kopernik klęczy na wysokim balkonie wieży, za nim rysują się wieże fromborskiej katedry. Długi drewniany przyrząd za jego plecami układa się na tle nieba w kształt krzyża.",
+          "cs": "Matejko painted \"Astronomer Copernicus, or Conversations with God\" in 1873, 400 years after Copernicus was born. At night, Copernicus kneels on the high balcony of a tower, with the spires of Frombork cathedral behind him. The long wooden instrument at his back forms a cross against the sky.",
+          "sk": "Matejko painted \"Astronomer Copernicus, or Conversations with God\" in 1873, 400 years after Copernicus was born. At night, Copernicus kneels on the high balcony of a tower, with the spires of Frombork cathedral behind him. The long wooden instrument at his back forms a cross against the sky.",
+          "ro": "Matejko painted \"Astronomer Copernicus, or Conversations with God\" in 1873, 400 years after Copernicus was born. At night, Copernicus kneels on the high balcony of a tower, with the spires of Frombork cathedral behind him. The long wooden instrument at his back forms a cross against the sky.",
+          "hu": "Matejko painted \"Astronomer Copernicus, or Conversations with God\" in 1873, 400 years after Copernicus was born. At night, Copernicus kneels on the high balcony of a tower, with the spires of Frombork cathedral behind him. The long wooden instrument at his back forms a cross against the sky.",
+          "da": "Matejko painted \"Astronomer Copernicus, or Conversations with God\" in 1873, 400 years after Copernicus was born. At night, Copernicus kneels on the high balcony of a tower, with the spires of Frombork cathedral behind him. The long wooden instrument at his back forms a cross against the sky."
+        },
+        {
+          "en": "The Copernicus museum in Frombork writes that he kept his books and manuscripts in the tower and stayed there himself in dangerous times, because its walls could be defended. He observed the sky from the garden of his canonry, his main house. There he set up instruments of fir wood on a well-levelled slab.",
+          "de": "The Copernicus museum in Frombork writes that he kept his books and manuscripts in the tower and stayed there himself in dangerous times, because its walls could be defended. He observed the sky from the garden of his canonry, his main house. There he set up instruments of fir wood on a well-levelled slab.",
+          "fr": "The Copernicus museum in Frombork writes that he kept his books and manuscripts in the tower and stayed there himself in dangerous times, because its walls could be defended. He observed the sky from the garden of his canonry, his main house. There he set up instruments of fir wood on a well-levelled slab.",
+          "it": "The Copernicus museum in Frombork writes that he kept his books and manuscripts in the tower and stayed there himself in dangerous times, because its walls could be defended. He observed the sky from the garden of his canonry, his main house. There he set up instruments of fir wood on a well-levelled slab.",
+          "nl": "The Copernicus museum in Frombork writes that he kept his books and manuscripts in the tower and stayed there himself in dangerous times, because its walls could be defended. He observed the sky from the garden of his canonry, his main house. There he set up instruments of fir wood on a well-levelled slab.",
+          "pl": "Muzeum Kopernika we Fromborku podaje, że Kopernik trzymał w wieży swoje księgi i rękopisy, a w niebezpiecznych czasach sam w niej mieszkał, bo jej murów dało się bronić. Niebo obserwował z ogrodu przy kurii kanonickiej, która była jego głównym domem. Ustawił tam przyrządy z jodłowego drewna na starannie wypoziomowanej płycie.",
+          "cs": "The Copernicus museum in Frombork writes that he kept his books and manuscripts in the tower and stayed there himself in dangerous times, because its walls could be defended. He observed the sky from the garden of his canonry, his main house. There he set up instruments of fir wood on a well-levelled slab.",
+          "sk": "The Copernicus museum in Frombork writes that he kept his books and manuscripts in the tower and stayed there himself in dangerous times, because its walls could be defended. He observed the sky from the garden of his canonry, his main house. There he set up instruments of fir wood on a well-levelled slab.",
+          "ro": "The Copernicus museum in Frombork writes that he kept his books and manuscripts in the tower and stayed there himself in dangerous times, because its walls could be defended. He observed the sky from the garden of his canonry, his main house. There he set up instruments of fir wood on a well-levelled slab.",
+          "hu": "The Copernicus museum in Frombork writes that he kept his books and manuscripts in the tower and stayed there himself in dangerous times, because its walls could be defended. He observed the sky from the garden of his canonry, his main house. There he set up instruments of fir wood on a well-levelled slab.",
+          "da": "The Copernicus museum in Frombork writes that he kept his books and manuscripts in the tower and stayed there himself in dangerous times, because its walls could be defended. He observed the sky from the garden of his canonry, his main house. There he set up instruments of fir wood on a well-levelled slab."
+        }
+      ]
+    },
+    {
+      "id": "stamps",
+      "type": "text",
+      "label": {
+        "en": "The stamps",
+        "de": "The stamps",
+        "fr": "The stamps",
+        "it": "The stamps",
+        "nl": "The stamps",
+        "pl": "Znaczki",
+        "cs": "The stamps",
+        "sk": "The stamps",
+        "ro": "The stamps",
+        "hu": "The stamps",
+        "da": "The stamps"
+      },
+      "title": {
+        "en": "Chomicz's view and Kaczmarczyk's tower",
+        "de": "Chomicz's view and Kaczmarczyk's tower",
+        "fr": "Chomicz's view and Kaczmarczyk's tower",
+        "it": "Chomicz's view and Kaczmarczyk's tower",
+        "nl": "Chomicz's view and Kaczmarczyk's tower",
+        "pl": "Widok Chomicza i wieża Kaczmarczyka",
+        "cs": "Chomicz's view and Kaczmarczyk's tower",
+        "sk": "Chomicz's view and Kaczmarczyk's tower",
+        "ro": "Chomicz's view and Kaczmarczyk's tower",
+        "hu": "Chomicz's view and Kaczmarczyk's tower",
+        "da": "Chomicz's view and Kaczmarczyk's tower"
+      },
+      "visual": {
+        "type": "stamp",
+        "stamp": {
+          "name": {
+            "en": "Copernicus Observatory, Frombork",
+            "de": "Copernicus Observatory, Frombork",
+            "fr": "Copernicus Observatory, Frombork",
+            "it": "Copernicus Observatory, Frombork",
+            "nl": "Copernicus Observatory, Frombork",
+            "pl": "Obserwatorium Kopernika, Frombork",
+            "cs": "Copernicus Observatory, Frombork",
+            "sk": "Copernicus Observatory, Frombork",
+            "ro": "Copernicus Observatory, Frombork",
+            "hu": "Copernicus Observatory, Frombork",
+            "da": "Copernicus Observatory, Frombork"
+          },
+          "year": 1962,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/7be0c932e9beb19d/fb-stamp-1962.png",
+            "width": 650,
+            "height": 1100
+          },
+          "country": "PL",
+          "stamp_id": "SIQ-PL-1962-032"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "W. Chomicz designed the 1960 stamp for the set \"Historyczne miasta polskie\", issued on 25 November 1960. It is the only one of the set's 18 stamps engraved by B. Brandt.",
+          "de": "W. Chomicz designed the 1960 stamp for the set \"Historyczne miasta polskie\", issued on 25 November 1960. It is the only one of the set's 18 stamps engraved by B. Brandt.",
+          "fr": "W. Chomicz designed the 1960 stamp for the set \"Historyczne miasta polskie\", issued on 25 November 1960. It is the only one of the set's 18 stamps engraved by B. Brandt.",
+          "it": "W. Chomicz designed the 1960 stamp for the set \"Historyczne miasta polskie\", issued on 25 November 1960. It is the only one of the set's 18 stamps engraved by B. Brandt.",
+          "nl": "W. Chomicz designed the 1960 stamp for the set \"Historyczne miasta polskie\", issued on 25 November 1960. It is the only one of the set's 18 stamps engraved by B. Brandt.",
+          "pl": "Znaczek z 1960 roku zaprojektował W. Chomicz do serii „Historyczne miasta polskie”, wydanej 25 listopada 1960 roku. To jedyny z 18 znaczków tej serii, który rytował B. Brandt.",
+          "cs": "W. Chomicz designed the 1960 stamp for the set \"Historyczne miasta polskie\", issued on 25 November 1960. It is the only one of the set's 18 stamps engraved by B. Brandt.",
+          "sk": "W. Chomicz designed the 1960 stamp for the set \"Historyczne miasta polskie\", issued on 25 November 1960. It is the only one of the set's 18 stamps engraved by B. Brandt.",
+          "ro": "W. Chomicz designed the 1960 stamp for the set \"Historyczne miasta polskie\", issued on 25 November 1960. It is the only one of the set's 18 stamps engraved by B. Brandt.",
+          "hu": "W. Chomicz designed the 1960 stamp for the set \"Historyczne miasta polskie\", issued on 25 November 1960. It is the only one of the set's 18 stamps engraved by B. Brandt.",
+          "da": "W. Chomicz designed the 1960 stamp for the set \"Historyczne miasta polskie\", issued on 25 November 1960. It is the only one of the set's 18 stamps engraved by B. Brandt."
+        },
+        {
+          "en": "Two years later the tower got a stamp of its own, Cz. Kaczmarczyk's 2.50 zł value of 21 July 1962 in the set \"Polskie Ziemie Północne\". Up its edges it reads \"WIEŻA GOTYCKA WE FROMBORKU\" and \"OBSERWATORIUM M. KOPERNIKA\": the Gothic tower in Frombork, Copernicus's observatory.",
+          "de": "Two years later the tower got a stamp of its own, Cz. Kaczmarczyk's 2.50 zł value of 21 July 1962 in the set \"Polskie Ziemie Północne\". Up its edges it reads \"WIEŻA GOTYCKA WE FROMBORKU\" and \"OBSERWATORIUM M. KOPERNIKA\": the Gothic tower in Frombork, Copernicus's observatory.",
+          "fr": "Two years later the tower got a stamp of its own, Cz. Kaczmarczyk's 2.50 zł value of 21 July 1962 in the set \"Polskie Ziemie Północne\". Up its edges it reads \"WIEŻA GOTYCKA WE FROMBORKU\" and \"OBSERWATORIUM M. KOPERNIKA\": the Gothic tower in Frombork, Copernicus's observatory.",
+          "it": "Two years later the tower got a stamp of its own, Cz. Kaczmarczyk's 2.50 zł value of 21 July 1962 in the set \"Polskie Ziemie Północne\". Up its edges it reads \"WIEŻA GOTYCKA WE FROMBORKU\" and \"OBSERWATORIUM M. KOPERNIKA\": the Gothic tower in Frombork, Copernicus's observatory.",
+          "nl": "Two years later the tower got a stamp of its own, Cz. Kaczmarczyk's 2.50 zł value of 21 July 1962 in the set \"Polskie Ziemie Północne\". Up its edges it reads \"WIEŻA GOTYCKA WE FROMBORKU\" and \"OBSERWATORIUM M. KOPERNIKA\": the Gothic tower in Frombork, Copernicus's observatory.",
+          "pl": "Dwa lata później wieża trafiła na osobny znaczek: nominał 2,50 zł projektu Cz. Kaczmarczyka z 21 lipca 1962 roku, z serii „Polskie Ziemie Północne”. Wzdłuż krawędzi biegną napisy „WIEŻA GOTYCKA WE FROMBORKU” i „OBSERWATORIUM M. KOPERNIKA”.",
+          "cs": "Two years later the tower got a stamp of its own, Cz. Kaczmarczyk's 2.50 zł value of 21 July 1962 in the set \"Polskie Ziemie Północne\". Up its edges it reads \"WIEŻA GOTYCKA WE FROMBORKU\" and \"OBSERWATORIUM M. KOPERNIKA\": the Gothic tower in Frombork, Copernicus's observatory.",
+          "sk": "Two years later the tower got a stamp of its own, Cz. Kaczmarczyk's 2.50 zł value of 21 July 1962 in the set \"Polskie Ziemie Północne\". Up its edges it reads \"WIEŻA GOTYCKA WE FROMBORKU\" and \"OBSERWATORIUM M. KOPERNIKA\": the Gothic tower in Frombork, Copernicus's observatory.",
+          "ro": "Two years later the tower got a stamp of its own, Cz. Kaczmarczyk's 2.50 zł value of 21 July 1962 in the set \"Polskie Ziemie Północne\". Up its edges it reads \"WIEŻA GOTYCKA WE FROMBORKU\" and \"OBSERWATORIUM M. KOPERNIKA\": the Gothic tower in Frombork, Copernicus's observatory.",
+          "hu": "Two years later the tower got a stamp of its own, Cz. Kaczmarczyk's 2.50 zł value of 21 July 1962 in the set \"Polskie Ziemie Północne\". Up its edges it reads \"WIEŻA GOTYCKA WE FROMBORKU\" and \"OBSERWATORIUM M. KOPERNIKA\": the Gothic tower in Frombork, Copernicus's observatory.",
+          "da": "Two years later the tower got a stamp of its own, Cz. Kaczmarczyk's 2.50 zł value of 21 July 1962 in the set \"Polskie Ziemie Północne\". Up its edges it reads \"WIEŻA GOTYCKA WE FROMBORKU\" and \"OBSERWATORIUM M. KOPERNIKA\": the Gothic tower in Frombork, Copernicus's observatory."
+        },
+        {
+          "en": "The tower has carried his name since the 17th century. In 1912 the first memorial room to him opened in the tower, with wooden copies of the triquetrum, quadrant and ring astrolabe he had used in his garden.",
+          "de": "The tower has carried his name since the 17th century. In 1912 the first memorial room to him opened in the tower, with wooden copies of the triquetrum, quadrant and ring astrolabe he had used in his garden.",
+          "fr": "The tower has carried his name since the 17th century. In 1912 the first memorial room to him opened in the tower, with wooden copies of the triquetrum, quadrant and ring astrolabe he had used in his garden.",
+          "it": "The tower has carried his name since the 17th century. In 1912 the first memorial room to him opened in the tower, with wooden copies of the triquetrum, quadrant and ring astrolabe he had used in his garden.",
+          "nl": "The tower has carried his name since the 17th century. In 1912 the first memorial room to him opened in the tower, with wooden copies of the triquetrum, quadrant and ring astrolabe he had used in his garden.",
+          "pl": "Wieża nosi jego imię od XVII wieku. W 1912 roku otwarto w niej pierwszą izbę pamięci Kopernika, z drewnianymi kopiami triquetrum, kwadrantu i astrolabium pierścieniowego, których używał w ogrodzie.",
+          "cs": "The tower has carried his name since the 17th century. In 1912 the first memorial room to him opened in the tower, with wooden copies of the triquetrum, quadrant and ring astrolabe he had used in his garden.",
+          "sk": "The tower has carried his name since the 17th century. In 1912 the first memorial room to him opened in the tower, with wooden copies of the triquetrum, quadrant and ring astrolabe he had used in his garden.",
+          "ro": "The tower has carried his name since the 17th century. In 1912 the first memorial room to him opened in the tower, with wooden copies of the triquetrum, quadrant and ring astrolabe he had used in his garden.",
+          "hu": "The tower has carried his name since the 17th century. In 1912 the first memorial room to him opened in the tower, with wooden copies of the triquetrum, quadrant and ring astrolabe he had used in his garden.",
+          "da": "The tower has carried his name since the 17th century. In 1912 the first memorial room to him opened in the tower, with wooden copies of the triquetrum, quadrant and ring astrolabe he had used in his garden."
+        }
+      ]
+    },
+    {
+      "id": "canon",
+      "type": "text",
+      "label": {
+        "en": "The canon",
+        "de": "The canon",
+        "fr": "The canon",
+        "it": "The canon",
+        "nl": "The canon",
+        "pl": "Kanonik",
+        "cs": "The canon",
+        "sk": "The canon",
+        "ro": "The canon",
+        "hu": "The canon",
+        "da": "The canon"
+      },
+      "title": {
+        "en": "Copernicus's last years",
+        "de": "Copernicus's last years",
+        "fr": "Copernicus's last years",
+        "it": "Copernicus's last years",
+        "nl": "Copernicus's last years",
+        "pl": "Ostatnie lata Kopernika",
+        "cs": "Copernicus's last years",
+        "sk": "Copernicus's last years",
+        "ro": "Copernicus's last years",
+        "hu": "Copernicus's last years",
+        "da": "Copernicus's last years"
+      },
+      "paragraphs": [
+        {
+          "en": "Copernicus lived in Frombork from 1510 as a canon of the cathedral chapter. In May 1539 Georg Joachim Rheticus, a young Lutheran mathematician from Wittenberg, arrived on the hill. He persuaded Copernicus to publish his work on the planets, finished in 1530. In autumn 1541 Rheticus left with the manuscript of De revolutionibus for a printer in Nuremberg.",
+          "de": "Copernicus lived in Frombork from 1510 as a canon of the cathedral chapter. In May 1539 Georg Joachim Rheticus, a young Lutheran mathematician from Wittenberg, arrived on the hill. He persuaded Copernicus to publish his work on the planets, finished in 1530. In autumn 1541 Rheticus left with the manuscript of De revolutionibus for a printer in Nuremberg.",
+          "fr": "Copernicus lived in Frombork from 1510 as a canon of the cathedral chapter. In May 1539 Georg Joachim Rheticus, a young Lutheran mathematician from Wittenberg, arrived on the hill. He persuaded Copernicus to publish his work on the planets, finished in 1530. In autumn 1541 Rheticus left with the manuscript of De revolutionibus for a printer in Nuremberg.",
+          "it": "Copernicus lived in Frombork from 1510 as a canon of the cathedral chapter. In May 1539 Georg Joachim Rheticus, a young Lutheran mathematician from Wittenberg, arrived on the hill. He persuaded Copernicus to publish his work on the planets, finished in 1530. In autumn 1541 Rheticus left with the manuscript of De revolutionibus for a printer in Nuremberg.",
+          "nl": "Copernicus lived in Frombork from 1510 as a canon of the cathedral chapter. In May 1539 Georg Joachim Rheticus, a young Lutheran mathematician from Wittenberg, arrived on the hill. He persuaded Copernicus to publish his work on the planets, finished in 1530. In autumn 1541 Rheticus left with the manuscript of De revolutionibus for a printer in Nuremberg.",
+          "pl": "Kopernik mieszkał we Fromborku od 1510 roku jako kanonik kapituły katedralnej. W maju 1539 roku na wzgórze przybył Georg Joachim Retyk, młody luterański matematyk z Wittenbergi. Namówił Kopernika, żeby wydał drukiem swoją pracę o planetach, ukończoną w 1530 roku. Jesienią 1541 roku Retyk wyjechał z rękopisem De revolutionibus do drukarza w Norymberdze.",
+          "cs": "Copernicus lived in Frombork from 1510 as a canon of the cathedral chapter. In May 1539 Georg Joachim Rheticus, a young Lutheran mathematician from Wittenberg, arrived on the hill. He persuaded Copernicus to publish his work on the planets, finished in 1530. In autumn 1541 Rheticus left with the manuscript of De revolutionibus for a printer in Nuremberg.",
+          "sk": "Copernicus lived in Frombork from 1510 as a canon of the cathedral chapter. In May 1539 Georg Joachim Rheticus, a young Lutheran mathematician from Wittenberg, arrived on the hill. He persuaded Copernicus to publish his work on the planets, finished in 1530. In autumn 1541 Rheticus left with the manuscript of De revolutionibus for a printer in Nuremberg.",
+          "ro": "Copernicus lived in Frombork from 1510 as a canon of the cathedral chapter. In May 1539 Georg Joachim Rheticus, a young Lutheran mathematician from Wittenberg, arrived on the hill. He persuaded Copernicus to publish his work on the planets, finished in 1530. In autumn 1541 Rheticus left with the manuscript of De revolutionibus for a printer in Nuremberg.",
+          "hu": "Copernicus lived in Frombork from 1510 as a canon of the cathedral chapter. In May 1539 Georg Joachim Rheticus, a young Lutheran mathematician from Wittenberg, arrived on the hill. He persuaded Copernicus to publish his work on the planets, finished in 1530. In autumn 1541 Rheticus left with the manuscript of De revolutionibus for a printer in Nuremberg.",
+          "da": "Copernicus lived in Frombork from 1510 as a canon of the cathedral chapter. In May 1539 Georg Joachim Rheticus, a young Lutheran mathematician from Wittenberg, arrived on the hill. He persuaded Copernicus to publish his work on the planets, finished in 1530. In autumn 1541 Rheticus left with the manuscript of De revolutionibus for a printer in Nuremberg."
+        },
+        {
+          "en": "A stroke in December 1542 left Copernicus unable to speak. The book came out in 1543. Copernicus died in Frombork that year, probably on 21 May. Bishop Tiedemann Giese wrote to Rheticus that Copernicus saw the finished book only at the last moment, on the day he died. The Copernicus portal of the university in Toruń thinks it more likely that the book reached Frombork after his death.",
+          "de": "A stroke in December 1542 left Copernicus unable to speak. The book came out in 1543. Copernicus died in Frombork that year, probably on 21 May. Bishop Tiedemann Giese wrote to Rheticus that Copernicus saw the finished book only at the last moment, on the day he died. The Copernicus portal of the university in Toruń thinks it more likely that the book reached Frombork after his death.",
+          "fr": "A stroke in December 1542 left Copernicus unable to speak. The book came out in 1543. Copernicus died in Frombork that year, probably on 21 May. Bishop Tiedemann Giese wrote to Rheticus that Copernicus saw the finished book only at the last moment, on the day he died. The Copernicus portal of the university in Toruń thinks it more likely that the book reached Frombork after his death.",
+          "it": "A stroke in December 1542 left Copernicus unable to speak. The book came out in 1543. Copernicus died in Frombork that year, probably on 21 May. Bishop Tiedemann Giese wrote to Rheticus that Copernicus saw the finished book only at the last moment, on the day he died. The Copernicus portal of the university in Toruń thinks it more likely that the book reached Frombork after his death.",
+          "nl": "A stroke in December 1542 left Copernicus unable to speak. The book came out in 1543. Copernicus died in Frombork that year, probably on 21 May. Bishop Tiedemann Giese wrote to Rheticus that Copernicus saw the finished book only at the last moment, on the day he died. The Copernicus portal of the university in Toruń thinks it more likely that the book reached Frombork after his death.",
+          "pl": "Udar w grudniu 1542 roku odebrał Kopernikowi mowę. Książka ukazała się w 1543 roku. W tym samym roku Kopernik zmarł we Fromborku, prawdopodobnie 21 maja. Biskup Tiedemann Giese pisał do Retyka, że Kopernik zobaczył gotową książkę dopiero w ostatniej chwili, w dniu swojej śmierci. Portal kopernikański uniwersytetu w Toruniu uważa za bardziej prawdopodobne, że książka dotarła do Fromborka już po jego śmierci.",
+          "cs": "A stroke in December 1542 left Copernicus unable to speak. The book came out in 1543. Copernicus died in Frombork that year, probably on 21 May. Bishop Tiedemann Giese wrote to Rheticus that Copernicus saw the finished book only at the last moment, on the day he died. The Copernicus portal of the university in Toruń thinks it more likely that the book reached Frombork after his death.",
+          "sk": "A stroke in December 1542 left Copernicus unable to speak. The book came out in 1543. Copernicus died in Frombork that year, probably on 21 May. Bishop Tiedemann Giese wrote to Rheticus that Copernicus saw the finished book only at the last moment, on the day he died. The Copernicus portal of the university in Toruń thinks it more likely that the book reached Frombork after his death.",
+          "ro": "A stroke in December 1542 left Copernicus unable to speak. The book came out in 1543. Copernicus died in Frombork that year, probably on 21 May. Bishop Tiedemann Giese wrote to Rheticus that Copernicus saw the finished book only at the last moment, on the day he died. The Copernicus portal of the university in Toruń thinks it more likely that the book reached Frombork after his death.",
+          "hu": "A stroke in December 1542 left Copernicus unable to speak. The book came out in 1543. Copernicus died in Frombork that year, probably on 21 May. Bishop Tiedemann Giese wrote to Rheticus that Copernicus saw the finished book only at the last moment, on the day he died. The Copernicus portal of the university in Toruń thinks it more likely that the book reached Frombork after his death.",
+          "da": "A stroke in December 1542 left Copernicus unable to speak. The book came out in 1543. Copernicus died in Frombork that year, probably on 21 May. Bishop Tiedemann Giese wrote to Rheticus that Copernicus saw the finished book only at the last moment, on the day he died. The Copernicus portal of the university in Toruń thinks it more likely that the book reached Frombork after his death."
+        }
+      ]
+    },
+    {
+      "id": "grave",
+      "type": "text",
+      "label": {
+        "en": "The cathedral",
+        "de": "The cathedral",
+        "fr": "The cathedral",
+        "it": "The cathedral",
+        "nl": "The cathedral",
+        "pl": "Katedra",
+        "cs": "The cathedral",
+        "sk": "The cathedral",
+        "ro": "The cathedral",
+        "hu": "The cathedral",
+        "da": "The cathedral"
+      },
+      "title": {
+        "en": "A grave under glass",
+        "de": "A grave under glass",
+        "fr": "A grave under glass",
+        "it": "A grave under glass",
+        "nl": "A grave under glass",
+        "pl": "Grób pod szybą",
+        "cs": "A grave under glass",
+        "sk": "A grave under glass",
+        "ro": "A grave under glass",
+        "hu": "A grave under glass",
+        "da": "A grave under glass"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/cc4f3ad85687d9fc/fb-coffin.jpg",
+          "width": 2400,
+          "credit": "Łukasz Niemiec, CC BY-SA 3.0 PL",
+          "height": 1600,
+          "caption": {
+            "en": "Copernicus's coffin with his portrait, under the glass panel in the cathedral floor.",
+            "de": "Copernicus's coffin with his portrait, under the glass panel in the cathedral floor.",
+            "fr": "Copernicus's coffin with his portrait, under the glass panel in the cathedral floor.",
+            "it": "Copernicus's coffin with his portrait, under the glass panel in the cathedral floor.",
+            "nl": "Copernicus's coffin with his portrait, under the glass panel in the cathedral floor.",
+            "pl": "Trumna Kopernika z jego portretem, pod szklaną płytą w posadzce katedry.",
+            "cs": "Copernicus's coffin with his portrait, under the glass panel in the cathedral floor.",
+            "sk": "Copernicus's coffin with his portrait, under the glass panel in the cathedral floor.",
+            "ro": "Copernicus's coffin with his portrait, under the glass panel in the cathedral floor.",
+            "hu": "Copernicus's coffin with his portrait, under the glass panel in the cathedral floor.",
+            "da": "Copernicus's coffin with his portrait, under the glass panel in the cathedral floor."
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Frombork_-_katedra_Wniebowzi%C4%99cia_NMP_i_%C5%9Bw._Andrzeja_(trumna_ze_szcz%C4%85tkami_Miko%C5%82aja_Kopernika).jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "In July 1626, during the Thirty Years' War, Frombork surrendered to King Gustav II Adolf of Sweden. His troops took the chapter library to Stockholm, with the books Copernicus had owned. The king later gave them to the university library in Uppsala.",
+          "de": "In July 1626, during the Thirty Years' War, Frombork surrendered to King Gustav II Adolf of Sweden. His troops took the chapter library to Stockholm, with the books Copernicus had owned. The king later gave them to the university library in Uppsala.",
+          "fr": "In July 1626, during the Thirty Years' War, Frombork surrendered to King Gustav II Adolf of Sweden. His troops took the chapter library to Stockholm, with the books Copernicus had owned. The king later gave them to the university library in Uppsala.",
+          "it": "In July 1626, during the Thirty Years' War, Frombork surrendered to King Gustav II Adolf of Sweden. His troops took the chapter library to Stockholm, with the books Copernicus had owned. The king later gave them to the university library in Uppsala.",
+          "nl": "In July 1626, during the Thirty Years' War, Frombork surrendered to King Gustav II Adolf of Sweden. His troops took the chapter library to Stockholm, with the books Copernicus had owned. The king later gave them to the university library in Uppsala.",
+          "pl": "W lipcu 1626 roku, podczas wojny trzydziestoletniej, Frombork poddał się królowi Szwecji Gustawowi II Adolfowi. Jego wojska wywiozły bibliotekę kapituły do Sztokholmu, razem z księgami, które należały do Kopernika. Król przekazał je później bibliotece uniwersyteckiej w Uppsali.",
+          "cs": "In July 1626, during the Thirty Years' War, Frombork surrendered to King Gustav II Adolf of Sweden. His troops took the chapter library to Stockholm, with the books Copernicus had owned. The king later gave them to the university library in Uppsala.",
+          "sk": "In July 1626, during the Thirty Years' War, Frombork surrendered to King Gustav II Adolf of Sweden. His troops took the chapter library to Stockholm, with the books Copernicus had owned. The king later gave them to the university library in Uppsala.",
+          "ro": "In July 1626, during the Thirty Years' War, Frombork surrendered to King Gustav II Adolf of Sweden. His troops took the chapter library to Stockholm, with the books Copernicus had owned. The king later gave them to the university library in Uppsala.",
+          "hu": "In July 1626, during the Thirty Years' War, Frombork surrendered to King Gustav II Adolf of Sweden. His troops took the chapter library to Stockholm, with the books Copernicus had owned. The king later gave them to the university library in Uppsala.",
+          "da": "In July 1626, during the Thirty Years' War, Frombork surrendered to King Gustav II Adolf of Sweden. His troops took the chapter library to Stockholm, with the books Copernicus had owned. The king later gave them to the university library in Uppsala."
+        },
+        {
+          "en": "A skeleton was found in 2005 under an altar in the south aisle of the cathedral. Göran Henriksson suggested looking for Copernicus's hair in his books in Uppsala. Ten hairs turned up in Johannes Stöffler's Calendarium Romanum magnum of 1518. Marie Allen's group matched two of them to the skeleton in 2008.",
+          "de": "A skeleton was found in 2005 under an altar in the south aisle of the cathedral. Göran Henriksson suggested looking for Copernicus's hair in his books in Uppsala. Ten hairs turned up in Johannes Stöffler's Calendarium Romanum magnum of 1518. Marie Allen's group matched two of them to the skeleton in 2008.",
+          "fr": "A skeleton was found in 2005 under an altar in the south aisle of the cathedral. Göran Henriksson suggested looking for Copernicus's hair in his books in Uppsala. Ten hairs turned up in Johannes Stöffler's Calendarium Romanum magnum of 1518. Marie Allen's group matched two of them to the skeleton in 2008.",
+          "it": "A skeleton was found in 2005 under an altar in the south aisle of the cathedral. Göran Henriksson suggested looking for Copernicus's hair in his books in Uppsala. Ten hairs turned up in Johannes Stöffler's Calendarium Romanum magnum of 1518. Marie Allen's group matched two of them to the skeleton in 2008.",
+          "nl": "A skeleton was found in 2005 under an altar in the south aisle of the cathedral. Göran Henriksson suggested looking for Copernicus's hair in his books in Uppsala. Ten hairs turned up in Johannes Stöffler's Calendarium Romanum magnum of 1518. Marie Allen's group matched two of them to the skeleton in 2008.",
+          "pl": "W 2005 roku pod ołtarzem w południowej nawie katedry znaleziono szkielet. Göran Henriksson zaproponował, żeby szukać włosów Kopernika w jego księgach w Uppsali. W Calendarium Romanum magnum Johannesa Stöfflera z 1518 roku znaleziono dziesięć włosów. Zespół Marie Allen dopasował dwa z nich do szkieletu w 2008 roku.",
+          "cs": "A skeleton was found in 2005 under an altar in the south aisle of the cathedral. Göran Henriksson suggested looking for Copernicus's hair in his books in Uppsala. Ten hairs turned up in Johannes Stöffler's Calendarium Romanum magnum of 1518. Marie Allen's group matched two of them to the skeleton in 2008.",
+          "sk": "A skeleton was found in 2005 under an altar in the south aisle of the cathedral. Göran Henriksson suggested looking for Copernicus's hair in his books in Uppsala. Ten hairs turned up in Johannes Stöffler's Calendarium Romanum magnum of 1518. Marie Allen's group matched two of them to the skeleton in 2008.",
+          "ro": "A skeleton was found in 2005 under an altar in the south aisle of the cathedral. Göran Henriksson suggested looking for Copernicus's hair in his books in Uppsala. Ten hairs turned up in Johannes Stöffler's Calendarium Romanum magnum of 1518. Marie Allen's group matched two of them to the skeleton in 2008.",
+          "hu": "A skeleton was found in 2005 under an altar in the south aisle of the cathedral. Göran Henriksson suggested looking for Copernicus's hair in his books in Uppsala. Ten hairs turned up in Johannes Stöffler's Calendarium Romanum magnum of 1518. Marie Allen's group matched two of them to the skeleton in 2008.",
+          "da": "A skeleton was found in 2005 under an altar in the south aisle of the cathedral. Göran Henriksson suggested looking for Copernicus's hair in his books in Uppsala. Ten hairs turned up in Johannes Stöffler's Calendarium Romanum magnum of 1518. Marie Allen's group matched two of them to the skeleton in 2008."
+        },
+        {
+          "en": "Copernicus was buried again in the cathedral on 22 May 2010. His coffin lies under a glass panel in the floor, with a painted portrait of him on its side.",
+          "de": "Copernicus was buried again in the cathedral on 22 May 2010. His coffin lies under a glass panel in the floor, with a painted portrait of him on its side.",
+          "fr": "Copernicus was buried again in the cathedral on 22 May 2010. His coffin lies under a glass panel in the floor, with a painted portrait of him on its side.",
+          "it": "Copernicus was buried again in the cathedral on 22 May 2010. His coffin lies under a glass panel in the floor, with a painted portrait of him on its side.",
+          "nl": "Copernicus was buried again in the cathedral on 22 May 2010. His coffin lies under a glass panel in the floor, with a painted portrait of him on its side.",
+          "pl": "Kopernika pochowano w katedrze ponownie 22 maja 2010 roku. Jego trumna leży pod szklaną płytą w posadzce, z malowanym portretem astronoma na boku.",
+          "cs": "Copernicus was buried again in the cathedral on 22 May 2010. His coffin lies under a glass panel in the floor, with a painted portrait of him on its side.",
+          "sk": "Copernicus was buried again in the cathedral on 22 May 2010. His coffin lies under a glass panel in the floor, with a painted portrait of him on its side.",
+          "ro": "Copernicus was buried again in the cathedral on 22 May 2010. His coffin lies under a glass panel in the floor, with a painted portrait of him on its side.",
+          "hu": "Copernicus was buried again in the cathedral on 22 May 2010. His coffin lies under a glass panel in the floor, with a painted portrait of him on its side.",
+          "da": "Copernicus was buried again in the cathedral on 22 May 2010. His coffin lies under a glass panel in the floor, with a painted portrait of him on its side."
+        }
+      ]
+    },
+    {
+      "id": "figures",
+      "type": "numbers",
+      "label": {
+        "en": "In figures",
+        "de": "In figures",
+        "fr": "In figures",
+        "it": "In figures",
+        "nl": "In figures",
+        "pl": "W liczbach",
+        "cs": "In figures",
+        "sk": "In figures",
+        "ro": "In figures",
+        "hu": "In figures",
+        "da": "In figures"
+      },
+      "title": {
+        "en": "Cathedral Hill and its stamp",
+        "de": "Cathedral Hill and its stamp",
+        "fr": "Cathedral Hill and its stamp",
+        "it": "Cathedral Hill and its stamp",
+        "nl": "Cathedral Hill and its stamp",
+        "pl": "Wzgórze Katedralne i jego znaczek",
+        "cs": "Cathedral Hill and its stamp",
+        "sk": "Cathedral Hill and its stamp",
+        "ro": "Cathedral Hill and its stamp",
+        "hu": "Cathedral Hill and its stamp",
+        "da": "Cathedral Hill and its stamp"
+      },
+      "numbers": [
+        {
+          "text": {
+            "en": "The length of the cathedral, built from 1329 to 1388.",
+            "de": "The length of the cathedral, built from 1329 to 1388.",
+            "fr": "The length of the cathedral, built from 1329 to 1388.",
+            "it": "The length of the cathedral, built from 1329 to 1388.",
+            "nl": "The length of the cathedral, built from 1329 to 1388.",
+            "pl": "Długość katedry, budowanej od 1329 do 1388 roku.",
+            "cs": "The length of the cathedral, built from 1329 to 1388.",
+            "sk": "The length of the cathedral, built from 1329 to 1388.",
+            "ro": "The length of the cathedral, built from 1329 to 1388.",
+            "hu": "The length of the cathedral, built from 1329 to 1388.",
+            "da": "The length of the cathedral, built from 1329 to 1388."
+          },
+          "title": {
+            "en": "Cathedral",
+            "de": "Cathedral",
+            "fr": "Cathedral",
+            "it": "Cathedral",
+            "nl": "Cathedral",
+            "pl": "Katedra",
+            "cs": "Cathedral",
+            "sk": "Cathedral",
+            "ro": "Cathedral",
+            "hu": "Cathedral",
+            "da": "Cathedral"
+          },
+          "value": "90 m"
+        },
+        {
+          "text": {
+            "en": "Copies printed of the 1960 Frombork stamp.",
+            "de": "Copies printed of the 1960 Frombork stamp.",
+            "fr": "Copies printed of the 1960 Frombork stamp.",
+            "it": "Copies printed of the 1960 Frombork stamp.",
+            "nl": "Copies printed of the 1960 Frombork stamp.",
+            "pl": "Nakład znaczka z Fromborkiem z 1960 roku.",
+            "cs": "Copies printed of the 1960 Frombork stamp.",
+            "sk": "Copies printed of the 1960 Frombork stamp.",
+            "ro": "Copies printed of the 1960 Frombork stamp.",
+            "hu": "Copies printed of the 1960 Frombork stamp.",
+            "da": "Copies printed of the 1960 Frombork stamp."
+          },
+          "title": {
+            "en": "Stamps",
+            "de": "Stamps",
+            "fr": "Stamps",
+            "it": "Stamps",
+            "nl": "Stamps",
+            "pl": "Znaczki",
+            "cs": "Stamps",
+            "sk": "Stamps",
+            "ro": "Stamps",
+            "hu": "Stamps",
+            "da": "Stamps"
+          },
+          "value": "3,560,000"
+        },
+        {
+          "text": {
+            "en": "The dome of the planetarium shows more than 6,000 stars.",
+            "de": "The dome of the planetarium shows more than 6,000 stars.",
+            "fr": "The dome of the planetarium shows more than 6,000 stars.",
+            "it": "The dome of the planetarium shows more than 6,000 stars.",
+            "nl": "The dome of the planetarium shows more than 6,000 stars.",
+            "pl": "Na kopule planetarium widać ponad 6000 gwiazd.",
+            "cs": "The dome of the planetarium shows more than 6,000 stars.",
+            "sk": "The dome of the planetarium shows more than 6,000 stars.",
+            "ro": "The dome of the planetarium shows more than 6,000 stars.",
+            "hu": "The dome of the planetarium shows more than 6,000 stars.",
+            "da": "The dome of the planetarium shows more than 6,000 stars."
+          },
+          "title": {
+            "en": "Planetarium",
+            "de": "Planetarium",
+            "fr": "Planetarium",
+            "it": "Planetarium",
+            "nl": "Planetarium",
+            "pl": "Planetarium",
+            "cs": "Planetarium",
+            "sk": "Planetarium",
+            "ro": "Planetarium",
+            "hu": "Planetarium",
+            "da": "Planetarium"
+          },
+          "value": "8 m"
+        },
+        {
+          "text": {
+            "en": "Copernicus made about 71 journeys to villages in Warmia from 1516 to 1521, to settle the chapter's empty land.",
+            "de": "Copernicus made about 71 journeys to villages in Warmia from 1516 to 1521, to settle the chapter's empty land.",
+            "fr": "Copernicus made about 71 journeys to villages in Warmia from 1516 to 1521, to settle the chapter's empty land.",
+            "it": "Copernicus made about 71 journeys to villages in Warmia from 1516 to 1521, to settle the chapter's empty land.",
+            "nl": "Copernicus made about 71 journeys to villages in Warmia from 1516 to 1521, to settle the chapter's empty land.",
+            "pl": "Od 1516 do 1521 roku Kopernik odbył około 71 podróży do wsi na Warmii, żeby zasiedlić puste ziemie kapituły.",
+            "cs": "Copernicus made about 71 journeys to villages in Warmia from 1516 to 1521, to settle the chapter's empty land.",
+            "sk": "Copernicus made about 71 journeys to villages in Warmia from 1516 to 1521, to settle the chapter's empty land.",
+            "ro": "Copernicus made about 71 journeys to villages in Warmia from 1516 to 1521, to settle the chapter's empty land.",
+            "hu": "Copernicus made about 71 journeys to villages in Warmia from 1516 to 1521, to settle the chapter's empty land.",
+            "da": "Copernicus made about 71 journeys to villages in Warmia from 1516 to 1521, to settle the chapter's empty land."
+          },
+          "title": {
+            "en": "Journeys",
+            "de": "Journeys",
+            "fr": "Journeys",
+            "it": "Journeys",
+            "nl": "Journeys",
+            "pl": "Podróże",
+            "cs": "Journeys",
+            "sk": "Journeys",
+            "ro": "Journeys",
+            "hu": "Journeys",
+            "da": "Journeys"
+          },
+          "value": "71"
+        }
+      ]
+    },
+    {
+      "id": "hill-lagoon",
+      "type": "wide-photo",
+      "image": {
+        "src": "https://assets.stampiq.io/blog/ec87c4c8927ee7ad/fb-hill-lagoon.jpg",
+        "width": 2400,
+        "credit": "Łukasz Niemiec, CC BY-SA 3.0 PL",
+        "height": 1600,
+        "caption": {
+          "en": "Cathedral Hill above the Vistula Lagoon, with the Radziejowski Tower on the right.",
+          "de": "Cathedral Hill above the Vistula Lagoon, with the Radziejowski Tower on the right.",
+          "fr": "Cathedral Hill above the Vistula Lagoon, with the Radziejowski Tower on the right.",
+          "it": "Cathedral Hill above the Vistula Lagoon, with the Radziejowski Tower on the right.",
+          "nl": "Cathedral Hill above the Vistula Lagoon, with the Radziejowski Tower on the right.",
+          "pl": "Wzgórze Katedralne nad Zalewem Wiślanym, po prawej Wieża Radziejowskiego.",
+          "cs": "Cathedral Hill above the Vistula Lagoon, with the Radziejowski Tower on the right.",
+          "sk": "Cathedral Hill above the Vistula Lagoon, with the Radziejowski Tower on the right.",
+          "ro": "Cathedral Hill above the Vistula Lagoon, with the Radziejowski Tower on the right.",
+          "hu": "Cathedral Hill above the Vistula Lagoon, with the Radziejowski Tower on the right.",
+          "da": "Cathedral Hill above the Vistula Lagoon, with the Radziejowski Tower on the right."
+        },
+        "source_url": "https://commons.wikimedia.org/wiki/File:Frombork_-_zesp%C3%B3%C5%82_Wzg%C3%B3rza_Katedralnego_(widok_od_strony_Zalewu_Wi%C5%9Blanego).jpg"
+      }
+    },
+    {
+      "id": "visit",
+      "type": "text",
+      "label": {
+        "en": "The visit",
+        "de": "The visit",
+        "fr": "The visit",
+        "it": "The visit",
+        "nl": "The visit",
+        "pl": "Zwiedzanie",
+        "cs": "The visit",
+        "sk": "The visit",
+        "ro": "The visit",
+        "hu": "The visit",
+        "da": "The visit"
+      },
+      "title": {
+        "en": "A walk round Cathedral Hill",
+        "de": "A walk round Cathedral Hill",
+        "fr": "A walk round Cathedral Hill",
+        "it": "A walk round Cathedral Hill",
+        "nl": "A walk round Cathedral Hill",
+        "pl": "Spacer po Wzgórzu Katedralnym",
+        "cs": "A walk round Cathedral Hill",
+        "sk": "A walk round Cathedral Hill",
+        "ro": "A walk round Cathedral Hill",
+        "hu": "A walk round Cathedral Hill",
+        "da": "A walk round Cathedral Hill"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/4e97ebb13691b84a/fb-copernicus-tower.jpg",
+          "width": 2400,
+          "credit": "Aleksander Durkiewicz, CC BY-SA 4.0",
+          "height": 1800,
+          "caption": {
+            "en": "The Copernicus Tower, on the right, seen from outside the walls of Cathedral Hill.",
+            "de": "The Copernicus Tower, on the right, seen from outside the walls of Cathedral Hill.",
+            "fr": "The Copernicus Tower, on the right, seen from outside the walls of Cathedral Hill.",
+            "it": "The Copernicus Tower, on the right, seen from outside the walls of Cathedral Hill.",
+            "nl": "The Copernicus Tower, on the right, seen from outside the walls of Cathedral Hill.",
+            "pl": "Wieża Kopernika, po prawej, widziana spoza murów Wzgórza Katedralnego.",
+            "cs": "The Copernicus Tower, on the right, seen from outside the walls of Cathedral Hill.",
+            "sk": "The Copernicus Tower, on the right, seen from outside the walls of Cathedral Hill.",
+            "ro": "The Copernicus Tower, on the right, seen from outside the walls of Cathedral Hill.",
+            "hu": "The Copernicus Tower, on the right, seen from outside the walls of Cathedral Hill.",
+            "da": "The Copernicus Tower, on the right, seen from outside the walls of Cathedral Hill."
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Wie%C5%BCa_Kopernika_3.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "Start outside the walls, on the slope below the Copernicus Tower. From here the tower looks as it does on both stamps. Copernicus's canonry and the garden with his instruments lay outside these walls.",
+          "de": "Start outside the walls, on the slope below the Copernicus Tower. From here the tower looks as it does on both stamps. Copernicus's canonry and the garden with his instruments lay outside these walls.",
+          "fr": "Start outside the walls, on the slope below the Copernicus Tower. From here the tower looks as it does on both stamps. Copernicus's canonry and the garden with his instruments lay outside these walls.",
+          "it": "Start outside the walls, on the slope below the Copernicus Tower. From here the tower looks as it does on both stamps. Copernicus's canonry and the garden with his instruments lay outside these walls.",
+          "nl": "Start outside the walls, on the slope below the Copernicus Tower. From here the tower looks as it does on both stamps. Copernicus's canonry and the garden with his instruments lay outside these walls.",
+          "pl": "Zacznij poza murami, na stoku pod Wieżą Kopernika. Stąd wieża wygląda tak jak na obu znaczkach. Kuria Kopernika i ogród z jego przyrządami znajdowały się poza tymi murami.",
+          "cs": "Start outside the walls, on the slope below the Copernicus Tower. From here the tower looks as it does on both stamps. Copernicus's canonry and the garden with his instruments lay outside these walls.",
+          "sk": "Start outside the walls, on the slope below the Copernicus Tower. From here the tower looks as it does on both stamps. Copernicus's canonry and the garden with his instruments lay outside these walls.",
+          "ro": "Start outside the walls, on the slope below the Copernicus Tower. From here the tower looks as it does on both stamps. Copernicus's canonry and the garden with his instruments lay outside these walls.",
+          "hu": "Start outside the walls, on the slope below the Copernicus Tower. From here the tower looks as it does on both stamps. Copernicus's canonry and the garden with his instruments lay outside these walls.",
+          "da": "Start outside the walls, on the slope below the Copernicus Tower. From here the tower looks as it does on both stamps. Copernicus's canonry and the garden with his instruments lay outside these walls."
+        },
+        {
+          "en": "The cathedral inside the walls is open. Bend over the glass panel in its floor to see the coffin and the portrait. The planetarium is in the base of the Radziejowski Tower, the cathedral's bell tower. It shows a facsimile page of De revolutionibus that has been to space.",
+          "de": "The cathedral inside the walls is open. Bend over the glass panel in its floor to see the coffin and the portrait. The planetarium is in the base of the Radziejowski Tower, the cathedral's bell tower. It shows a facsimile page of De revolutionibus that has been to space.",
+          "fr": "The cathedral inside the walls is open. Bend over the glass panel in its floor to see the coffin and the portrait. The planetarium is in the base of the Radziejowski Tower, the cathedral's bell tower. It shows a facsimile page of De revolutionibus that has been to space.",
+          "it": "The cathedral inside the walls is open. Bend over the glass panel in its floor to see the coffin and the portrait. The planetarium is in the base of the Radziejowski Tower, the cathedral's bell tower. It shows a facsimile page of De revolutionibus that has been to space.",
+          "nl": "The cathedral inside the walls is open. Bend over the glass panel in its floor to see the coffin and the portrait. The planetarium is in the base of the Radziejowski Tower, the cathedral's bell tower. It shows a facsimile page of De revolutionibus that has been to space.",
+          "pl": "Katedra w obrębie murów jest otwarta. Pochyl się nad szklaną płytą w posadzce, żeby zobaczyć trumnę i portret. Planetarium mieści się u podstawy Wieży Radziejowskiego, dzwonnicy katedry. Pokazują tam faksymile karty De revolutionibus, które było w kosmosie.",
+          "cs": "The cathedral inside the walls is open. Bend over the glass panel in its floor to see the coffin and the portrait. The planetarium is in the base of the Radziejowski Tower, the cathedral's bell tower. It shows a facsimile page of De revolutionibus that has been to space.",
+          "sk": "The cathedral inside the walls is open. Bend over the glass panel in its floor to see the coffin and the portrait. The planetarium is in the base of the Radziejowski Tower, the cathedral's bell tower. It shows a facsimile page of De revolutionibus that has been to space.",
+          "ro": "The cathedral inside the walls is open. Bend over the glass panel in its floor to see the coffin and the portrait. The planetarium is in the base of the Radziejowski Tower, the cathedral's bell tower. It shows a facsimile page of De revolutionibus that has been to space.",
+          "hu": "The cathedral inside the walls is open. Bend over the glass panel in its floor to see the coffin and the portrait. The planetarium is in the base of the Radziejowski Tower, the cathedral's bell tower. It shows a facsimile page of De revolutionibus that has been to space.",
+          "da": "The cathedral inside the walls is open. Bend over the glass panel in its floor to see the coffin and the portrait. The planetarium is in the base of the Radziejowski Tower, the cathedral's bell tower. It shows a facsimile page of De revolutionibus that has been to space."
+        },
+        {
+          "en": "Mieczysław Welter's Copernicus monument of 1973 stands at the foot of the hill. Its shape follows the wayside figures of Warmia.",
+          "de": "Mieczysław Welter's Copernicus monument of 1973 stands at the foot of the hill. Its shape follows the wayside figures of Warmia.",
+          "fr": "Mieczysław Welter's Copernicus monument of 1973 stands at the foot of the hill. Its shape follows the wayside figures of Warmia.",
+          "it": "Mieczysław Welter's Copernicus monument of 1973 stands at the foot of the hill. Its shape follows the wayside figures of Warmia.",
+          "nl": "Mieczysław Welter's Copernicus monument of 1973 stands at the foot of the hill. Its shape follows the wayside figures of Warmia.",
+          "pl": "U stóp wzgórza stoi pomnik Kopernika z 1973 roku, dzieło Mieczysława Weltera. Jego kształt nawiązuje do warmińskich figur przydrożnych.",
+          "cs": "Mieczysław Welter's Copernicus monument of 1973 stands at the foot of the hill. Its shape follows the wayside figures of Warmia.",
+          "sk": "Mieczysław Welter's Copernicus monument of 1973 stands at the foot of the hill. Its shape follows the wayside figures of Warmia.",
+          "ro": "Mieczysław Welter's Copernicus monument of 1973 stands at the foot of the hill. Its shape follows the wayside figures of Warmia.",
+          "hu": "Mieczysław Welter's Copernicus monument of 1973 stands at the foot of the hill. Its shape follows the wayside figures of Warmia.",
+          "da": "Mieczysław Welter's Copernicus monument of 1973 stands at the foot of the hill. Its shape follows the wayside figures of Warmia."
+        }
+      ]
+    },
+    {
+      "id": "practical",
+      "rows": [
+        {
+          "label": {
+            "en": "Ticket office",
+            "de": "Ticket office",
+            "fr": "Ticket office",
+            "it": "Ticket office",
+            "nl": "Ticket office",
+            "pl": "Kasa",
+            "cs": "Ticket office",
+            "sk": "Ticket office",
+            "ro": "Ticket office",
+            "hu": "Ticket office",
+            "da": "Ticket office"
+          },
+          "value": {
+            "en": "ul. Katedralna 8, in the South Gate on Cathedral Hill; daily 9:00 to 15:20",
+            "de": "ul. Katedralna 8, in the South Gate on Cathedral Hill; daily 9:00 to 15:20",
+            "fr": "ul. Katedralna 8, in the South Gate on Cathedral Hill; daily 9:00 to 15:20",
+            "it": "ul. Katedralna 8, in the South Gate on Cathedral Hill; daily 9:00 to 15:20",
+            "nl": "ul. Katedralna 8, in the South Gate on Cathedral Hill; daily 9:00 to 15:20",
+            "pl": "ul. Katedralna 8, w Bramie Południowej na Wzgórzu Katedralnym; codziennie od 9:00 do 15:20",
+            "cs": "ul. Katedralna 8, in the South Gate on Cathedral Hill; daily 9:00 to 15:20",
+            "sk": "ul. Katedralna 8, in the South Gate on Cathedral Hill; daily 9:00 to 15:20",
+            "ro": "ul. Katedralna 8, in the South Gate on Cathedral Hill; daily 9:00 to 15:20",
+            "hu": "ul. Katedralna 8, in the South Gate on Cathedral Hill; daily 9:00 to 15:20",
+            "da": "ul. Katedralna 8, in the South Gate on Cathedral Hill; daily 9:00 to 15:20"
+          }
+        },
+        {
+          "label": {
+            "en": "Cathedral",
+            "de": "Cathedral",
+            "fr": "Cathedral",
+            "it": "Cathedral",
+            "nl": "Cathedral",
+            "pl": "Katedra",
+            "cs": "Cathedral",
+            "sk": "Cathedral",
+            "ro": "Cathedral",
+            "hu": "Cathedral",
+            "da": "Cathedral"
+          },
+          "value": {
+            "en": "Monday to Saturday 10:00 to 16:00, Sunday 12:00 to 16:00; 14 zł, reduced 11 zł, pupils 8 zł; tickets in the Nowy Wikariat building on the hill",
+            "de": "Monday to Saturday 10:00 to 16:00, Sunday 12:00 to 16:00; 14 zł, reduced 11 zł, pupils 8 zł; tickets in the Nowy Wikariat building on the hill",
+            "fr": "Monday to Saturday 10:00 to 16:00, Sunday 12:00 to 16:00; 14 zł, reduced 11 zł, pupils 8 zł; tickets in the Nowy Wikariat building on the hill",
+            "it": "Monday to Saturday 10:00 to 16:00, Sunday 12:00 to 16:00; 14 zł, reduced 11 zł, pupils 8 zł; tickets in the Nowy Wikariat building on the hill",
+            "nl": "Monday to Saturday 10:00 to 16:00, Sunday 12:00 to 16:00; 14 zł, reduced 11 zł, pupils 8 zł; tickets in the Nowy Wikariat building on the hill",
+            "pl": "od poniedziałku do soboty od 10:00 do 16:00, w niedzielę od 12:00 do 16:00; 14 zł, ulgowy 11 zł, uczniowie 8 zł; bilety w budynku Nowego Wikariatu na wzgórzu",
+            "cs": "Monday to Saturday 10:00 to 16:00, Sunday 12:00 to 16:00; 14 zł, reduced 11 zł, pupils 8 zł; tickets in the Nowy Wikariat building on the hill",
+            "sk": "Monday to Saturday 10:00 to 16:00, Sunday 12:00 to 16:00; 14 zł, reduced 11 zł, pupils 8 zł; tickets in the Nowy Wikariat building on the hill",
+            "ro": "Monday to Saturday 10:00 to 16:00, Sunday 12:00 to 16:00; 14 zł, reduced 11 zł, pupils 8 zł; tickets in the Nowy Wikariat building on the hill",
+            "hu": "Monday to Saturday 10:00 to 16:00, Sunday 12:00 to 16:00; 14 zł, reduced 11 zł, pupils 8 zł; tickets in the Nowy Wikariat building on the hill",
+            "da": "Monday to Saturday 10:00 to 16:00, Sunday 12:00 to 16:00; 14 zł, reduced 11 zł, pupils 8 zł; tickets in the Nowy Wikariat building on the hill"
+          }
+        },
+        {
+          "label": {
+            "en": "Planetarium",
+            "de": "Planetarium",
+            "fr": "Planetarium",
+            "it": "Planetarium",
+            "nl": "Planetarium",
+            "pl": "Planetarium",
+            "cs": "Planetarium",
+            "sk": "Planetarium",
+            "ro": "Planetarium",
+            "hu": "Planetarium",
+            "da": "Planetarium"
+          },
+          "value": {
+            "en": "Daily 9:00 to 16:00; shows at 9:30, 10:20, 12:00, 13:40 and 15:20, extra shows at 11:10, 12:50 and 14:30; 16 zł, reduced 12 zł",
+            "de": "Daily 9:00 to 16:00; shows at 9:30, 10:20, 12:00, 13:40 and 15:20, extra shows at 11:10, 12:50 and 14:30; 16 zł, reduced 12 zł",
+            "fr": "Daily 9:00 to 16:00; shows at 9:30, 10:20, 12:00, 13:40 and 15:20, extra shows at 11:10, 12:50 and 14:30; 16 zł, reduced 12 zł",
+            "it": "Daily 9:00 to 16:00; shows at 9:30, 10:20, 12:00, 13:40 and 15:20, extra shows at 11:10, 12:50 and 14:30; 16 zł, reduced 12 zł",
+            "nl": "Daily 9:00 to 16:00; shows at 9:30, 10:20, 12:00, 13:40 and 15:20, extra shows at 11:10, 12:50 and 14:30; 16 zł, reduced 12 zł",
+            "pl": "codziennie od 9:00 do 16:00; seanse o 9:30, 10:20, 12:00, 13:40 i 15:20, dodatkowe o 11:10, 12:50 i 14:30; 16 zł, ulgowy 12 zł",
+            "cs": "Daily 9:00 to 16:00; shows at 9:30, 10:20, 12:00, 13:40 and 15:20, extra shows at 11:10, 12:50 and 14:30; 16 zł, reduced 12 zł",
+            "sk": "Daily 9:00 to 16:00; shows at 9:30, 10:20, 12:00, 13:40 and 15:20, extra shows at 11:10, 12:50 and 14:30; 16 zł, reduced 12 zł",
+            "ro": "Daily 9:00 to 16:00; shows at 9:30, 10:20, 12:00, 13:40 and 15:20, extra shows at 11:10, 12:50 and 14:30; 16 zł, reduced 12 zł",
+            "hu": "Daily 9:00 to 16:00; shows at 9:30, 10:20, 12:00, 13:40 and 15:20, extra shows at 11:10, 12:50 and 14:30; 16 zł, reduced 12 zł",
+            "da": "Daily 9:00 to 16:00; shows at 9:30, 10:20, 12:00, 13:40 and 15:20, extra shows at 11:10, 12:50 and 14:30; 16 zł, reduced 12 zł"
+          }
+        },
+        {
+          "label": {
+            "en": "Planetarium booking",
+            "de": "Planetarium booking",
+            "fr": "Planetarium booking",
+            "it": "Planetarium booking",
+            "nl": "Planetarium booking",
+            "pl": "Rezerwacja planetarium",
+            "cs": "Planetarium booking",
+            "sk": "Planetarium booking",
+            "ro": "Planetarium booking",
+            "hu": "Planetarium booking",
+            "da": "Planetarium booking"
+          },
+          "value": {
+            "en": "planetarium@muzeumkopernika.pl, +48 55 244 00 88, at the latest the day before",
+            "de": "planetarium@muzeumkopernika.pl, +48 55 244 00 88, at the latest the day before",
+            "fr": "planetarium@muzeumkopernika.pl, +48 55 244 00 88, at the latest the day before",
+            "it": "planetarium@muzeumkopernika.pl, +48 55 244 00 88, at the latest the day before",
+            "nl": "planetarium@muzeumkopernika.pl, +48 55 244 00 88, at the latest the day before",
+            "pl": "planetarium@muzeumkopernika.pl, +48 55 244 00 88, najpóźniej dzień wcześniej",
+            "cs": "planetarium@muzeumkopernika.pl, +48 55 244 00 88, at the latest the day before",
+            "sk": "planetarium@muzeumkopernika.pl, +48 55 244 00 88, at the latest the day before",
+            "ro": "planetarium@muzeumkopernika.pl, +48 55 244 00 88, at the latest the day before",
+            "hu": "planetarium@muzeumkopernika.pl, +48 55 244 00 88, at the latest the day before",
+            "da": "planetarium@muzeumkopernika.pl, +48 55 244 00 88, at the latest the day before"
+          }
+        },
+        {
+          "label": {
+            "en": "Hospital of the Holy Spirit",
+            "de": "Hospital of the Holy Spirit",
+            "fr": "Hospital of the Holy Spirit",
+            "it": "Hospital of the Holy Spirit",
+            "nl": "Hospital of the Holy Spirit",
+            "pl": "Szpital Ducha Świętego",
+            "cs": "Hospital of the Holy Spirit",
+            "sk": "Hospital of the Holy Spirit",
+            "ro": "Hospital of the Holy Spirit",
+            "hu": "Hospital of the Holy Spirit",
+            "da": "Hospital of the Holy Spirit"
+          },
+          "value": {
+            "en": "ul. Stara 6; Tuesday to Sunday 9:00 to 16:00; 16 zł, reduced 12 zł",
+            "de": "ul. Stara 6; Tuesday to Sunday 9:00 to 16:00; 16 zł, reduced 12 zł",
+            "fr": "ul. Stara 6; Tuesday to Sunday 9:00 to 16:00; 16 zł, reduced 12 zł",
+            "it": "ul. Stara 6; Tuesday to Sunday 9:00 to 16:00; 16 zł, reduced 12 zł",
+            "nl": "ul. Stara 6; Tuesday to Sunday 9:00 to 16:00; 16 zł, reduced 12 zł",
+            "pl": "ul. Stara 6; od wtorku do niedzieli od 9:00 do 16:00; 16 zł, ulgowy 12 zł",
+            "cs": "ul. Stara 6; Tuesday to Sunday 9:00 to 16:00; 16 zł, reduced 12 zł",
+            "sk": "ul. Stara 6; Tuesday to Sunday 9:00 to 16:00; 16 zł, reduced 12 zł",
+            "ro": "ul. Stara 6; Tuesday to Sunday 9:00 to 16:00; 16 zł, reduced 12 zł",
+            "hu": "ul. Stara 6; Tuesday to Sunday 9:00 to 16:00; 16 zł, reduced 12 zł",
+            "da": "ul. Stara 6; Tuesday to Sunday 9:00 to 16:00; 16 zł, reduced 12 zł"
+          }
+        },
+        {
+          "label": {
+            "en": "Park Astronomiczny",
+            "de": "Park Astronomiczny",
+            "fr": "Park Astronomiczny",
+            "it": "Park Astronomiczny",
+            "nl": "Park Astronomiczny",
+            "pl": "Park Astronomiczny",
+            "cs": "Park Astronomiczny",
+            "sk": "Park Astronomiczny",
+            "ro": "Park Astronomiczny",
+            "hu": "Park Astronomiczny",
+            "da": "Park Astronomiczny"
+          },
+          "value": {
+            "en": "Ronin 25; November Friday to Sunday 12:00 to 20:00, tours at 12:30, 13:30 and 14:30; 16 zł, sky show 19 zł",
+            "de": "Ronin 25; November Friday to Sunday 12:00 to 20:00, tours at 12:30, 13:30 and 14:30; 16 zł, sky show 19 zł",
+            "fr": "Ronin 25; November Friday to Sunday 12:00 to 20:00, tours at 12:30, 13:30 and 14:30; 16 zł, sky show 19 zł",
+            "it": "Ronin 25; November Friday to Sunday 12:00 to 20:00, tours at 12:30, 13:30 and 14:30; 16 zł, sky show 19 zł",
+            "nl": "Ronin 25; November Friday to Sunday 12:00 to 20:00, tours at 12:30, 13:30 and 14:30; 16 zł, sky show 19 zł",
+            "pl": "Ronin 25; w listopadzie od piątku do niedzieli od 12:00 do 20:00, zwiedzanie o 12:30, 13:30 i 14:30; 16 zł, pokaz nieba 19 zł",
+            "cs": "Ronin 25; November Friday to Sunday 12:00 to 20:00, tours at 12:30, 13:30 and 14:30; 16 zł, sky show 19 zł",
+            "sk": "Ronin 25; November Friday to Sunday 12:00 to 20:00, tours at 12:30, 13:30 and 14:30; 16 zł, sky show 19 zł",
+            "ro": "Ronin 25; November Friday to Sunday 12:00 to 20:00, tours at 12:30, 13:30 and 14:30; 16 zł, sky show 19 zł",
+            "hu": "Ronin 25; November Friday to Sunday 12:00 to 20:00, tours at 12:30, 13:30 and 14:30; 16 zł, sky show 19 zł",
+            "da": "Ronin 25; November Friday to Sunday 12:00 to 20:00, tours at 12:30, 13:30 and 14:30; 16 zł, sky show 19 zł"
+          }
+        },
+        {
+          "label": {
+            "en": "Closed",
+            "de": "Closed",
+            "fr": "Closed",
+            "it": "Closed",
+            "nl": "Closed",
+            "pl": "Nieczynne",
+            "cs": "Closed",
+            "sk": "Closed",
+            "ro": "Closed",
+            "hu": "Closed",
+            "da": "Closed"
+          },
+          "value": {
+            "en": "Main building and Copernicus Tower, until further notice",
+            "de": "Main building and Copernicus Tower, until further notice",
+            "fr": "Main building and Copernicus Tower, until further notice",
+            "it": "Main building and Copernicus Tower, until further notice",
+            "nl": "Main building and Copernicus Tower, until further notice",
+            "pl": "Budynek główny i Wieża Kopernika, do odwołania",
+            "cs": "Main building and Copernicus Tower, until further notice",
+            "sk": "Main building and Copernicus Tower, until further notice",
+            "ro": "Main building and Copernicus Tower, until further notice",
+            "hu": "Main building and Copernicus Tower, until further notice",
+            "da": "Main building and Copernicus Tower, until further notice"
+          }
+        },
+        {
+          "label": {
+            "en": "Access",
+            "de": "Access",
+            "fr": "Access",
+            "it": "Access",
+            "nl": "Access",
+            "pl": "Dostępność",
+            "cs": "Access",
+            "sk": "Access",
+            "ro": "Access",
+            "hu": "Access",
+            "da": "Access"
+          },
+          "value": {
+            "en": "Two flights of stairs lead up to the ticket office; the planetarium cannot be reached by wheelchair",
+            "de": "Two flights of stairs lead up to the ticket office; the planetarium cannot be reached by wheelchair",
+            "fr": "Two flights of stairs lead up to the ticket office; the planetarium cannot be reached by wheelchair",
+            "it": "Two flights of stairs lead up to the ticket office; the planetarium cannot be reached by wheelchair",
+            "nl": "Two flights of stairs lead up to the ticket office; the planetarium cannot be reached by wheelchair",
+            "pl": "Do kasy prowadzą dwa biegi schodów; do planetarium nie da się dostać wózkiem",
+            "cs": "Two flights of stairs lead up to the ticket office; the planetarium cannot be reached by wheelchair",
+            "sk": "Two flights of stairs lead up to the ticket office; the planetarium cannot be reached by wheelchair",
+            "ro": "Two flights of stairs lead up to the ticket office; the planetarium cannot be reached by wheelchair",
+            "hu": "Two flights of stairs lead up to the ticket office; the planetarium cannot be reached by wheelchair",
+            "da": "Two flights of stairs lead up to the ticket office; the planetarium cannot be reached by wheelchair"
+          }
+        },
+        {
+          "label": {
+            "en": "Contact",
+            "de": "Contact",
+            "fr": "Contact",
+            "it": "Contact",
+            "nl": "Contact",
+            "pl": "Kontakt",
+            "cs": "Contact",
+            "sk": "Contact",
+            "ro": "Contact",
+            "hu": "Contact",
+            "da": "Contact"
+          },
+          "value": {
+            "en": "+48 55 244 00 76, kasa@muzeumkopernika.pl",
+            "de": "+48 55 244 00 76, kasa@muzeumkopernika.pl",
+            "fr": "+48 55 244 00 76, kasa@muzeumkopernika.pl",
+            "it": "+48 55 244 00 76, kasa@muzeumkopernika.pl",
+            "nl": "+48 55 244 00 76, kasa@muzeumkopernika.pl",
+            "pl": "+48 55 244 00 76, kasa@muzeumkopernika.pl",
+            "cs": "+48 55 244 00 76, kasa@muzeumkopernika.pl",
+            "sk": "+48 55 244 00 76, kasa@muzeumkopernika.pl",
+            "ro": "+48 55 244 00 76, kasa@muzeumkopernika.pl",
+            "hu": "+48 55 244 00 76, kasa@muzeumkopernika.pl",
+            "da": "+48 55 244 00 76, kasa@muzeumkopernika.pl"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "Practical",
+        "de": "Practical",
+        "fr": "Practical",
+        "it": "Practical",
+        "nl": "Practical",
+        "pl": "Informacje praktyczne",
+        "cs": "Practical",
+        "sk": "Practical",
+        "ro": "Practical",
+        "hu": "Practical",
+        "da": "Practical"
+      },
+      "title": {
+        "en": "Tickets and opening times",
+        "de": "Tickets and opening times",
+        "fr": "Tickets and opening times",
+        "it": "Tickets and opening times",
+        "nl": "Tickets and opening times",
+        "pl": "Bilety i godziny otwarcia",
+        "cs": "Tickets and opening times",
+        "sk": "Tickets and opening times",
+        "ro": "Tickets and opening times",
+        "hu": "Tickets and opening times",
+        "da": "Tickets and opening times"
+      },
+      "buttons": [
+        {
+          "href": "https://muzeumkopernika.pl/",
+          "label": {
+            "en": "Muzeum Mikołaja Kopernika",
+            "de": "Muzeum Mikołaja Kopernika",
+            "fr": "Muzeum Mikołaja Kopernika",
+            "it": "Muzeum Mikołaja Kopernika",
+            "nl": "Muzeum Mikołaja Kopernika",
+            "pl": "Muzeum Mikołaja Kopernika",
+            "cs": "Muzeum Mikołaja Kopernika",
+            "sk": "Muzeum Mikołaja Kopernika",
+            "ro": "Muzeum Mikołaja Kopernika",
+            "hu": "Muzeum Mikołaja Kopernika",
+            "da": "Muzeum Mikołaja Kopernika"
+          }
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "type": "tiles",
+      "label": {
+        "en": "How to get there",
+        "de": "How to get there",
+        "fr": "How to get there",
+        "it": "How to get there",
+        "nl": "How to get there",
+        "pl": "Dojazd",
+        "cs": "How to get there",
+        "sk": "How to get there",
+        "ro": "How to get there",
+        "hu": "How to get there",
+        "da": "How to get there"
+      },
+      "tiles": [
+        {
+          "icon": "train",
+          "text": {
+            "en": "Elbląg is on the railway from Warsaw to Gdańsk; no passenger trains run on to Frombork.",
+            "de": "Elbląg is on the railway from Warsaw to Gdańsk; no passenger trains run on to Frombork.",
+            "fr": "Elbląg is on the railway from Warsaw to Gdańsk; no passenger trains run on to Frombork.",
+            "it": "Elbląg is on the railway from Warsaw to Gdańsk; no passenger trains run on to Frombork.",
+            "nl": "Elbląg is on the railway from Warsaw to Gdańsk; no passenger trains run on to Frombork.",
+            "pl": "Elbląg leży na linii kolejowej z Warszawy do Gdańska; dalej, do Fromborka, pociągi pasażerskie nie kursują.",
+            "cs": "Elbląg is on the railway from Warsaw to Gdańsk; no passenger trains run on to Frombork.",
+            "sk": "Elbląg is on the railway from Warsaw to Gdańsk; no passenger trains run on to Frombork.",
+            "ro": "Elbląg is on the railway from Warsaw to Gdańsk; no passenger trains run on to Frombork.",
+            "hu": "Elbląg is on the railway from Warsaw to Gdańsk; no passenger trains run on to Frombork.",
+            "da": "Elbląg is on the railway from Warsaw to Gdańsk; no passenger trains run on to Frombork."
+          },
+          "title": {
+            "en": "By train to Elbląg",
+            "de": "By train to Elbląg",
+            "fr": "By train to Elbląg",
+            "it": "By train to Elbląg",
+            "nl": "By train to Elbląg",
+            "pl": "Pociągiem do Elbląga",
+            "cs": "By train to Elbląg",
+            "sk": "By train to Elbląg",
+            "ro": "By train to Elbląg",
+            "hu": "By train to Elbląg",
+            "da": "By train to Elbląg"
+          }
+        },
+        {
+          "icon": "pin",
+          "text": {
+            "en": "PKS Elbląg runs buses from Elbląg to Frombork and gives the times by phone on +48 55 239 62 03, daily 6:00 to 21:00.",
+            "de": "PKS Elbląg runs buses from Elbląg to Frombork and gives the times by phone on +48 55 239 62 03, daily 6:00 to 21:00.",
+            "fr": "PKS Elbląg runs buses from Elbląg to Frombork and gives the times by phone on +48 55 239 62 03, daily 6:00 to 21:00.",
+            "it": "PKS Elbląg runs buses from Elbląg to Frombork and gives the times by phone on +48 55 239 62 03, daily 6:00 to 21:00.",
+            "nl": "PKS Elbląg runs buses from Elbląg to Frombork and gives the times by phone on +48 55 239 62 03, daily 6:00 to 21:00.",
+            "pl": "PKS Elbląg obsługuje połączenia autobusowe z Elbląga do Fromborka. Godziny odjazdów podaje telefonicznie pod numerem +48 55 239 62 03, codziennie od 6:00 do 21:00.",
+            "cs": "PKS Elbląg runs buses from Elbląg to Frombork and gives the times by phone on +48 55 239 62 03, daily 6:00 to 21:00.",
+            "sk": "PKS Elbląg runs buses from Elbląg to Frombork and gives the times by phone on +48 55 239 62 03, daily 6:00 to 21:00.",
+            "ro": "PKS Elbląg runs buses from Elbląg to Frombork and gives the times by phone on +48 55 239 62 03, daily 6:00 to 21:00.",
+            "hu": "PKS Elbląg runs buses from Elbląg to Frombork and gives the times by phone on +48 55 239 62 03, daily 6:00 to 21:00.",
+            "da": "PKS Elbląg runs buses from Elbląg to Frombork and gives the times by phone on +48 55 239 62 03, daily 6:00 to 21:00."
+          },
+          "title": {
+            "en": "By bus",
+            "de": "By bus",
+            "fr": "By bus",
+            "it": "By bus",
+            "nl": "By bus",
+            "pl": "Autobusem",
+            "cs": "By bus",
+            "sk": "By bus",
+            "ro": "By bus",
+            "hu": "By bus",
+            "da": "By bus"
+          }
+        },
+        {
+          "icon": "car",
+          "text": {
+            "en": "A car park lies opposite Cathedral Hill.",
+            "de": "A car park lies opposite Cathedral Hill.",
+            "fr": "A car park lies opposite Cathedral Hill.",
+            "it": "A car park lies opposite Cathedral Hill.",
+            "nl": "A car park lies opposite Cathedral Hill.",
+            "pl": "Naprzeciwko Wzgórza Katedralnego jest parking.",
+            "cs": "A car park lies opposite Cathedral Hill.",
+            "sk": "A car park lies opposite Cathedral Hill.",
+            "ro": "A car park lies opposite Cathedral Hill.",
+            "hu": "A car park lies opposite Cathedral Hill.",
+            "da": "A car park lies opposite Cathedral Hill."
+          },
+          "title": {
+            "en": "By car",
+            "de": "By car",
+            "fr": "By car",
+            "it": "By car",
+            "nl": "By car",
+            "pl": "Samochodem",
+            "cs": "By car",
+            "sk": "By car",
+            "ro": "By car",
+            "hu": "By car",
+            "da": "By car"
+          }
+        }
+      ],
+      "title": {
+        "en": "By bus or car",
+        "de": "By bus or car",
+        "fr": "By bus or car",
+        "it": "By bus or car",
+        "nl": "By bus or car",
+        "pl": "Autobusem albo samochodem",
+        "cs": "By bus or car",
+        "sk": "By bus or car",
+        "ro": "By bus or car",
+        "hu": "By bus or car",
+        "da": "By bus or car"
+      }
+    },
+    {
+      "id": "season",
+      "text": {
+        "en": "The museum's main building, the former Bishops' Palace, and the Copernicus Tower are closed for building works until further notice. The cathedral cannot be visited during services.",
+        "de": "The museum's main building, the former Bishops' Palace, and the Copernicus Tower are closed for building works until further notice. The cathedral cannot be visited during services.",
+        "fr": "The museum's main building, the former Bishops' Palace, and the Copernicus Tower are closed for building works until further notice. The cathedral cannot be visited during services.",
+        "it": "The museum's main building, the former Bishops' Palace, and the Copernicus Tower are closed for building works until further notice. The cathedral cannot be visited during services.",
+        "nl": "The museum's main building, the former Bishops' Palace, and the Copernicus Tower are closed for building works until further notice. The cathedral cannot be visited during services.",
+        "pl": "Budynek główny muzeum, dawny Pałac Biskupi, oraz Wieża Kopernika są do odwołania zamknięte z powodu prac budowlanych. Katedry nie można zwiedzać podczas nabożeństw.",
+        "cs": "The museum's main building, the former Bishops' Palace, and the Copernicus Tower are closed for building works until further notice. The cathedral cannot be visited during services.",
+        "sk": "The museum's main building, the former Bishops' Palace, and the Copernicus Tower are closed for building works until further notice. The cathedral cannot be visited during services.",
+        "ro": "The museum's main building, the former Bishops' Palace, and the Copernicus Tower are closed for building works until further notice. The cathedral cannot be visited during services.",
+        "hu": "The museum's main building, the former Bishops' Palace, and the Copernicus Tower are closed for building works until further notice. The cathedral cannot be visited during services.",
+        "da": "The museum's main building, the former Bishops' Palace, and the Copernicus Tower are closed for building works until further notice. The cathedral cannot be visited during services."
+      },
+      "type": "note"
+    },
+    {
+      "id": "afterwards",
+      "type": "text",
+      "label": {
+        "en": "Afterwards",
+        "de": "Afterwards",
+        "fr": "Afterwards",
+        "it": "Afterwards",
+        "nl": "Afterwards",
+        "pl": "Potem",
+        "cs": "Afterwards",
+        "sk": "Afterwards",
+        "ro": "Afterwards",
+        "hu": "Afterwards",
+        "da": "Afterwards"
+      },
+      "title": {
+        "en": "The castle in Lidzbark Warmiński",
+        "de": "The castle in Lidzbark Warmiński",
+        "fr": "The castle in Lidzbark Warmiński",
+        "it": "The castle in Lidzbark Warmiński",
+        "nl": "The castle in Lidzbark Warmiński",
+        "pl": "Zamek w Lidzbarku Warmińskim",
+        "cs": "The castle in Lidzbark Warmiński",
+        "sk": "The castle in Lidzbark Warmiński",
+        "ro": "The castle in Lidzbark Warmiński",
+        "hu": "The castle in Lidzbark Warmiński",
+        "da": "The castle in Lidzbark Warmiński"
+      },
+      "visual": {
+        "type": "stamp",
+        "stamp": {
+          "name": {
+            "en": "Lidzbark Warmiński Castle, Warmia",
+            "de": "Lidzbark Warmiński Castle, Warmia",
+            "fr": "Lidzbark Warmiński Castle, Warmia",
+            "it": "Lidzbark Warmiński Castle, Warmia",
+            "nl": "Lidzbark Warmiński Castle, Warmia",
+            "pl": "Zamek w Lidzbarku Warmińskim, Warmia",
+            "cs": "Lidzbark Warmiński Castle, Warmia",
+            "sk": "Lidzbark Warmiński Castle, Warmia",
+            "ro": "Lidzbark Warmiński Castle, Warmia",
+            "hu": "Lidzbark Warmiński Castle, Warmia",
+            "da": "Lidzbark Warmiński Castle, Warmia"
+          },
+          "year": 1971,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/52fd62cfe3bda474/fb-stamp-lidzbark.png",
+            "width": 1100,
+            "height": 666
+          },
+          "country": "PL",
+          "stamp_id": "SIQ-PL-1971-016"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "Before Frombork, Copernicus lived in the castle of Lidzbark Warmiński from 1503 to 1510, as secretary and physician to his uncle. Here he wrote the first outline of his astronomy. The castle lies south-east of Frombork and is reached by car.",
+          "de": "Before Frombork, Copernicus lived in the castle of Lidzbark Warmiński from 1503 to 1510, as secretary and physician to his uncle. Here he wrote the first outline of his astronomy. The castle lies south-east of Frombork and is reached by car.",
+          "fr": "Before Frombork, Copernicus lived in the castle of Lidzbark Warmiński from 1503 to 1510, as secretary and physician to his uncle. Here he wrote the first outline of his astronomy. The castle lies south-east of Frombork and is reached by car.",
+          "it": "Before Frombork, Copernicus lived in the castle of Lidzbark Warmiński from 1503 to 1510, as secretary and physician to his uncle. Here he wrote the first outline of his astronomy. The castle lies south-east of Frombork and is reached by car.",
+          "nl": "Before Frombork, Copernicus lived in the castle of Lidzbark Warmiński from 1503 to 1510, as secretary and physician to his uncle. Here he wrote the first outline of his astronomy. The castle lies south-east of Frombork and is reached by car.",
+          "pl": "Przed Fromborkiem Kopernik mieszkał od 1503 do 1510 roku w zamku w Lidzbarku Warmińskim, jako sekretarz i lekarz swojego wuja. Tu napisał pierwszy zarys swojej astronomii. Zamek leży na południowy wschód od Fromborka. Dojedziesz tam samochodem.",
+          "cs": "Before Frombork, Copernicus lived in the castle of Lidzbark Warmiński from 1503 to 1510, as secretary and physician to his uncle. Here he wrote the first outline of his astronomy. The castle lies south-east of Frombork and is reached by car.",
+          "sk": "Before Frombork, Copernicus lived in the castle of Lidzbark Warmiński from 1503 to 1510, as secretary and physician to his uncle. Here he wrote the first outline of his astronomy. The castle lies south-east of Frombork and is reached by car.",
+          "ro": "Before Frombork, Copernicus lived in the castle of Lidzbark Warmiński from 1503 to 1510, as secretary and physician to his uncle. Here he wrote the first outline of his astronomy. The castle lies south-east of Frombork and is reached by car.",
+          "hu": "Before Frombork, Copernicus lived in the castle of Lidzbark Warmiński from 1503 to 1510, as secretary and physician to his uncle. Here he wrote the first outline of his astronomy. The castle lies south-east of Frombork and is reached by car.",
+          "da": "Before Frombork, Copernicus lived in the castle of Lidzbark Warmiński from 1503 to 1510, as secretary and physician to his uncle. Here he wrote the first outline of his astronomy. The castle lies south-east of Frombork and is reached by car."
+        },
+        {
+          "en": "T. Michaluk's stamp of 5 March 1971 shows the red-brick castle with its corner turrets. On the map, Elbląg, where the bus from Frombork goes, has pins for the 1954 view of its old town and the 2022 stamp for its diocese.",
+          "de": "T. Michaluk's stamp of 5 March 1971 shows the red-brick castle with its corner turrets. On the map, Elbląg, where the bus from Frombork goes, has pins for the 1954 view of its old town and the 2022 stamp for its diocese.",
+          "fr": "T. Michaluk's stamp of 5 March 1971 shows the red-brick castle with its corner turrets. On the map, Elbląg, where the bus from Frombork goes, has pins for the 1954 view of its old town and the 2022 stamp for its diocese.",
+          "it": "T. Michaluk's stamp of 5 March 1971 shows the red-brick castle with its corner turrets. On the map, Elbląg, where the bus from Frombork goes, has pins for the 1954 view of its old town and the 2022 stamp for its diocese.",
+          "nl": "T. Michaluk's stamp of 5 March 1971 shows the red-brick castle with its corner turrets. On the map, Elbląg, where the bus from Frombork goes, has pins for the 1954 view of its old town and the 2022 stamp for its diocese.",
+          "pl": "Znaczek T. Michaluka z 5 marca 1971 roku pokazuje zamek z czerwonej cegły z narożnymi wieżyczkami. Na Mapie przy Elblągu, dokąd jedzie autobus z Fromborka, są pinezki znaczka z widokiem starego miasta z 1954 roku i znaczka diecezji elbląskiej z 2022 roku.",
+          "cs": "T. Michaluk's stamp of 5 March 1971 shows the red-brick castle with its corner turrets. On the map, Elbląg, where the bus from Frombork goes, has pins for the 1954 view of its old town and the 2022 stamp for its diocese.",
+          "sk": "T. Michaluk's stamp of 5 March 1971 shows the red-brick castle with its corner turrets. On the map, Elbląg, where the bus from Frombork goes, has pins for the 1954 view of its old town and the 2022 stamp for its diocese.",
+          "ro": "T. Michaluk's stamp of 5 March 1971 shows the red-brick castle with its corner turrets. On the map, Elbląg, where the bus from Frombork goes, has pins for the 1954 view of its old town and the 2022 stamp for its diocese.",
+          "hu": "T. Michaluk's stamp of 5 March 1971 shows the red-brick castle with its corner turrets. On the map, Elbląg, where the bus from Frombork goes, has pins for the 1954 view of its old town and the 2022 stamp for its diocese.",
+          "da": "T. Michaluk's stamp of 5 March 1971 shows the red-brick castle with its corner turrets. On the map, Elbląg, where the bus from Frombork goes, has pins for the 1954 view of its old town and the 2022 stamp for its diocese."
+        },
+        {
+          "en": "The Warmia Museum in the castle opens from Tuesday to Sunday out of season and closes on 1 and 11 November.",
+          "de": "The Warmia Museum in the castle opens from Tuesday to Sunday out of season and closes on 1 and 11 November.",
+          "fr": "The Warmia Museum in the castle opens from Tuesday to Sunday out of season and closes on 1 and 11 November.",
+          "it": "The Warmia Museum in the castle opens from Tuesday to Sunday out of season and closes on 1 and 11 November.",
+          "nl": "The Warmia Museum in the castle opens from Tuesday to Sunday out of season and closes on 1 and 11 November.",
+          "pl": "Muzeum Warmińskie w zamku jest poza sezonem otwarte od wtorku do niedzieli i zamknięte 1 oraz 11 listopada.",
+          "cs": "The Warmia Museum in the castle opens from Tuesday to Sunday out of season and closes on 1 and 11 November.",
+          "sk": "The Warmia Museum in the castle opens from Tuesday to Sunday out of season and closes on 1 and 11 November.",
+          "ro": "The Warmia Museum in the castle opens from Tuesday to Sunday out of season and closes on 1 and 11 November.",
+          "hu": "The Warmia Museum in the castle opens from Tuesday to Sunday out of season and closes on 1 and 11 November.",
+          "da": "The Warmia Museum in the castle opens from Tuesday to Sunday out of season and closes on 1 and 11 November."
+        }
+      ]
+    }
+  ]
+}
