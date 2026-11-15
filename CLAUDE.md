@@ -10,6 +10,7 @@ StampIQ Landing is the static marketing site and legal pages for stampiq.io, bui
 The site is active. The latest commit on 2026-10-02 makes the catalogue issue format number column optional. One open issue remains: final pricing and producibility confirmation from DDM for the DBZ 22 insert.
 
 ## Recent activity
+- 2026-11-15: YouTube ad code paths served as static 200 pages for Google Ads, excluded from sitemap (1 commit)
 - 2026-10-02: Catalogue issue format number column made optional (addc857)
 - 2026-09-24: Blog card layout fixes, centred text block, button support on steps/checklist/tiles/specs/issue blocks, privacy withdrawal clause and EEA authority wording corrected, German and French copy revised for native-speaker quality (6 commits)
 - 2026-09-23: Scan data paragraph added to privacy section (15d2b3e)
@@ -39,7 +40,6 @@ The site is active. The latest commit on 2026-10-02 makes the catalogue issue fo
 - 2026-07-10: Synced CLAUDE.md (74dca1f)
 - 2026-07-09: Sync CLAUDE.md (c686630)
 - 2026-07-08: sync CLAUDE.md (5c6daba)
-- 2026-07-07: synced CLAUDE.md (4491475)
 
 ## Open issues
 - Obtain final pricing and producibility confirmation from DDM for DBZ 22 insert.
