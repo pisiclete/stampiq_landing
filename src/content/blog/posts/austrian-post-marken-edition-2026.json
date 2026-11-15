@@ -1,0 +1,1604 @@
+{
+  "category": "new-issues",
+  "markets": [
+    "CH",
+    "LI",
+    "DE",
+    "AT"
+  ],
+  "langs": [
+    "en",
+    "de",
+    "fr",
+    "it"
+  ],
+  "published_at": "2026-10-24T07:10:00+00:00",
+  "thumbnail": {
+    "src": "https://assets.stampiq.io/blog/f6f1e48f7ce1b0d8/at-marken-edition-2026-card.png",
+    "width": 1920,
+    "height": 960
+  },
+  "languages": {
+    "en": {
+      "slug": "austrian-post-marken-edition-2026",
+      "title": "Austrian Post's Marken Edition, August to October 2026",
+      "description": "Ten Marken Edition issues from the Österreichische Post, August to October 2026: what each holds, its price against face value and its print run."
+    },
+    "de": {
+      "slug": "marken-edition-oesterreichische-post-2026",
+      "title": "Österreichs Marken Edition, August bis Oktober 2026",
+      "description": "Zehn Ausgaben der Marken Edition der Österreichischen Post von August bis Oktober 2026: Inhalt, Preis im Vergleich zum Nennwert und Auflage."
+    },
+    "fr": {
+      "slug": "poste-autrichienne-marken-edition-2026",
+      "title": "La Marken Edition autrichienne, août à octobre 2026",
+      "description": "Dix Marken Edition de la Poste autrichienne, d'août à octobre 2026 : le contenu de chaque édition, son prix par rapport à la valeur faciale et son tirage."
+    },
+    "it": {
+      "slug": "marken-edition-posta-austriaca-2026",
+      "title": "La Marken Edition austriaca, da agosto a ottobre 2026",
+      "description": "Dieci emissioni Marken Edition di Österreichische Post, da agosto a ottobre 2026: cosa contengono, il prezzo rispetto al valore facciale e la tiratura."
+    },
+    "nl": {
+      "slug": "austrian-post-marken-edition-2026",
+      "title": "Austrian Post's Marken Edition, August to October 2026",
+      "description": "Ten Marken Edition issues from the Österreichische Post, August to October 2026: what each holds, its price against face value and its print run."
+    },
+    "pl": {
+      "slug": "austrian-post-marken-edition-2026",
+      "title": "Austrian Post's Marken Edition, August to October 2026",
+      "description": "Ten Marken Edition issues from the Österreichische Post, August to October 2026: what each holds, its price against face value and its print run."
+    },
+    "cs": {
+      "slug": "austrian-post-marken-edition-2026",
+      "title": "Austrian Post's Marken Edition, August to October 2026",
+      "description": "Ten Marken Edition issues from the Österreichische Post, August to October 2026: what each holds, its price against face value and its print run."
+    },
+    "sk": {
+      "slug": "austrian-post-marken-edition-2026",
+      "title": "Austrian Post's Marken Edition, August to October 2026",
+      "description": "Ten Marken Edition issues from the Österreichische Post, August to October 2026: what each holds, its price against face value and its print run."
+    },
+    "ro": {
+      "slug": "austrian-post-marken-edition-2026",
+      "title": "Austrian Post's Marken Edition, August to October 2026",
+      "description": "Ten Marken Edition issues from the Österreichische Post, August to October 2026: what each holds, its price against face value and its print run."
+    },
+    "hu": {
+      "slug": "austrian-post-marken-edition-2026",
+      "title": "Austrian Post's Marken Edition, August to October 2026",
+      "description": "Ten Marken Edition issues from the Österreichische Post, August to October 2026: what each holds, its price against face value and its print run."
+    },
+    "da": {
+      "slug": "austrian-post-marken-edition-2026",
+      "title": "Austrian Post's Marken Edition, August to October 2026",
+      "description": "Ten Marken Edition issues from the Österreichische Post, August to October 2026: what each holds, its price against face value and its print run."
+    }
+  },
+  "header": {
+    "lead": {
+      "en": "Next to its special stamps, the Österreichische Post sells the Marken Edition: small runs of one to twenty stamps, sold above face value. Ten editions came out between August and October 2026.",
+      "de": "Neben den Sondermarken gibt die Österreichische Post die Marken Edition heraus: kleine Auflagen von einer bis zwanzig Briefmarken, die über dem Nennwert verkauft werden. Zwischen August und Oktober 2026 sind zehn Editionen erschienen.",
+      "fr": "À côté de ses timbres spéciaux, l'Österreichische Post vend la Marken Edition : de petits tirages d'un à vingt timbres, vendus au-dessus de la valeur faciale. Dix éditions sont parues entre août et octobre 2026.",
+      "it": "Oltre ai francobolli speciali, Österreichische Post vende la Marken Edition: piccole tirature da uno a venti francobolli, vendute sopra il valore facciale. Tra agosto e ottobre 2026 sono uscite dieci edizioni.",
+      "nl": "Next to its special stamps, the Österreichische Post sells the Marken Edition: small runs of one to twenty stamps, sold above face value. Ten editions came out between August and October 2026.",
+      "pl": "Next to its special stamps, the Österreichische Post sells the Marken Edition: small runs of one to twenty stamps, sold above face value. Ten editions came out between August and October 2026.",
+      "cs": "Next to its special stamps, the Österreichische Post sells the Marken Edition: small runs of one to twenty stamps, sold above face value. Ten editions came out between August and October 2026.",
+      "sk": "Next to its special stamps, the Österreichische Post sells the Marken Edition: small runs of one to twenty stamps, sold above face value. Ten editions came out between August and October 2026.",
+      "ro": "Next to its special stamps, the Österreichische Post sells the Marken Edition: small runs of one to twenty stamps, sold above face value. Ten editions came out between August and October 2026.",
+      "hu": "Next to its special stamps, the Österreichische Post sells the Marken Edition: small runs of one to twenty stamps, sold above face value. Ten editions came out between August and October 2026.",
+      "da": "Next to its special stamps, the Österreichische Post sells the Marken Edition: small runs of one to twenty stamps, sold above face value. Ten editions came out between August and October 2026."
+    },
+    "visual": {
+      "type": "stamp-fan",
+      "stamps": [
+        {
+          "name": {
+            "en": "Sehenswürdigkeiten in Österreich, 4 × €1.00",
+            "de": "Sehenswürdigkeiten in Österreich, 4 × 1,00 €",
+            "fr": "Sehenswürdigkeiten in Österreich, 4 × 1,00 €",
+            "it": "Sehenswürdigkeiten in Österreich, 4 × 1,00 €",
+            "nl": "Sehenswürdigkeiten in Österreich, 4 × €1.00",
+            "pl": "Sehenswürdigkeiten in Österreich, 4 × €1.00",
+            "cs": "Sehenswürdigkeiten in Österreich, 4 × €1.00",
+            "sk": "Sehenswürdigkeiten in Österreich, 4 × €1.00",
+            "ro": "Sehenswürdigkeiten in Österreich, 4 × €1.00",
+            "hu": "Sehenswürdigkeiten in Österreich, 4 × €1.00",
+            "da": "Sehenswürdigkeiten in Österreich, 4 × €1.00"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/de2046f1dcd1e28a/at-2026-126669.png",
+            "width": 1000,
+            "height": 656
+          },
+          "country": "AT",
+          "stamp_id": "at-post-126669"
+        },
+        {
+          "name": {
+            "en": "Heimische Tierwelt, 4 × €1.00",
+            "de": "Heimische Tierwelt, 4 × 1,00 €",
+            "fr": "Heimische Tierwelt, 4 × 1,00 €",
+            "it": "Heimische Tierwelt, 4 × 1,00 €",
+            "nl": "Heimische Tierwelt, 4 × €1.00",
+            "pl": "Heimische Tierwelt, 4 × €1.00",
+            "cs": "Heimische Tierwelt, 4 × €1.00",
+            "sk": "Heimische Tierwelt, 4 × €1.00",
+            "ro": "Heimische Tierwelt, 4 × €1.00",
+            "hu": "Heimische Tierwelt, 4 × €1.00",
+            "da": "Heimische Tierwelt, 4 × €1.00"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/37b1592b4891dd04/at-2026-126670.png",
+            "width": 1000,
+            "height": 656
+          },
+          "country": "AT",
+          "stamp_id": "at-post-126670"
+        },
+        {
+          "name": {
+            "en": "Goldenes Dachl, €1.00",
+            "de": "Goldenes Dachl, 1,00 €",
+            "fr": "Goldenes Dachl, 1,00 €",
+            "it": "Goldenes Dachl, 1,00 €",
+            "nl": "Goldenes Dachl, €1.00",
+            "pl": "Goldenes Dachl, €1.00",
+            "cs": "Goldenes Dachl, €1.00",
+            "sk": "Goldenes Dachl, €1.00",
+            "ro": "Goldenes Dachl, €1.00",
+            "hu": "Goldenes Dachl, €1.00",
+            "da": "Goldenes Dachl, €1.00"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/bcfa6dfc336253d5/at-2026-126649.png",
+            "width": 849,
+            "height": 1000
+          },
+          "country": "AT",
+          "stamp_id": "at-post-126649"
+        },
+        {
+          "name": {
+            "en": "Berühmte Maler 2026, 2 × €1.00",
+            "de": "Berühmte Maler 2026, 2 × 1,00 €",
+            "fr": "Berühmte Maler 2026, 2 × 1,00 €",
+            "it": "Berühmte Maler 2026, 2 × 1,00 €",
+            "nl": "Berühmte Maler 2026, 2 × €1.00",
+            "pl": "Berühmte Maler 2026, 2 × €1.00",
+            "cs": "Berühmte Maler 2026, 2 × €1.00",
+            "sk": "Berühmte Maler 2026, 2 × €1.00",
+            "ro": "Berühmte Maler 2026, 2 × €1.00",
+            "hu": "Berühmte Maler 2026, 2 × €1.00",
+            "da": "Berühmte Maler 2026, 2 × €1.00"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/a1f7f298dbd01874/at-2026-126683.png",
+            "width": 1000,
+            "height": 387
+          },
+          "country": "AT",
+          "stamp_id": "at-post-126683"
+        }
+      ]
+    },
+    "date_label": {
+      "en": "August to October 2026",
+      "de": "August bis Oktober 2026",
+      "fr": "Août à octobre 2026",
+      "it": "Da agosto a ottobre 2026",
+      "nl": "August to October 2026",
+      "pl": "August to October 2026",
+      "cs": "August to October 2026",
+      "sk": "August to October 2026",
+      "ro": "August to October 2026",
+      "hu": "August to October 2026",
+      "da": "August to October 2026"
+    }
+  },
+  "blocks": [
+    {
+      "id": "format",
+      "type": "text",
+      "label": {
+        "en": "The format",
+        "de": "Das Format",
+        "fr": "Le format",
+        "it": "Il formato",
+        "nl": "The format",
+        "pl": "The format",
+        "cs": "The format",
+        "sk": "The format",
+        "ro": "The format",
+        "hu": "The format",
+        "da": "The format"
+      },
+      "title": {
+        "en": "What a Marken Edition is",
+        "de": "Was eine Marken Edition ist",
+        "fr": "Ce qu'est une Marken Edition",
+        "it": "Che cos'è una Marken Edition",
+        "nl": "What a Marken Edition is",
+        "pl": "What a Marken Edition is",
+        "cs": "What a Marken Edition is",
+        "sk": "What a Marken Edition is",
+        "ro": "What a Marken Edition is",
+        "hu": "What a Marken Edition is",
+        "da": "What a Marken Edition is"
+      },
+      "paragraphs": [
+        {
+          "en": "The Post sells this line under two names, «Briefmarken Edition» and «Marken Edition». The number in the name is the number of stamps: ME1 holds one stamp, ME2 two, ME4 four, ME8 eight and ME20 twenty. All of them are wet-glue stamps.",
+          "de": "Die Post führt diese Linie unter zwei Namen, „Briefmarken Edition“ und „Marken Edition“. Die Zahl im Namen steht für die Anzahl der Marken: ME1 enthält eine Marke, ME2 zwei, ME4 vier, ME8 acht und ME20 zwanzig. Alle sind nassklebend.",
+          "fr": "La Poste vend cette ligne sous deux noms, « Briefmarken Edition » et « Marken Edition ». Le chiffre du nom indique le nombre de timbres : la ME1 en contient un, la ME2 deux, la ME4 quatre, la ME8 huit et la ME20 vingt. Ce sont tous des timbres à gomme humide.",
+          "it": "La Posta vende questa linea con due nomi, \"Briefmarken Edition\" e \"Marken Edition\". Il numero nel nome dice quanti francobolli contiene l'edizione: la ME1 ne ha uno, la ME2 due, la ME4 quattro, la ME8 otto e la ME20 venti. Sono tutti francobolli con gomma da inumidire.",
+          "nl": "The Post sells this line under two names, «Briefmarken Edition» and «Marken Edition». The number in the name is the number of stamps: ME1 holds one stamp, ME2 two, ME4 four, ME8 eight and ME20 twenty. All of them are wet-glue stamps.",
+          "pl": "The Post sells this line under two names, «Briefmarken Edition» and «Marken Edition». The number in the name is the number of stamps: ME1 holds one stamp, ME2 two, ME4 four, ME8 eight and ME20 twenty. All of them are wet-glue stamps.",
+          "cs": "The Post sells this line under two names, «Briefmarken Edition» and «Marken Edition». The number in the name is the number of stamps: ME1 holds one stamp, ME2 two, ME4 four, ME8 eight and ME20 twenty. All of them are wet-glue stamps.",
+          "sk": "The Post sells this line under two names, «Briefmarken Edition» and «Marken Edition». The number in the name is the number of stamps: ME1 holds one stamp, ME2 two, ME4 four, ME8 eight and ME20 twenty. All of them are wet-glue stamps.",
+          "ro": "The Post sells this line under two names, «Briefmarken Edition» and «Marken Edition». The number in the name is the number of stamps: ME1 holds one stamp, ME2 two, ME4 four, ME8 eight and ME20 twenty. All of them are wet-glue stamps.",
+          "hu": "The Post sells this line under two names, «Briefmarken Edition» and «Marken Edition». The number in the name is the number of stamps: ME1 holds one stamp, ME2 two, ME4 four, ME8 eight and ME20 twenty. All of them are wet-glue stamps.",
+          "da": "The Post sells this line under two names, «Briefmarken Edition» and «Marken Edition». The number in the name is the number of stamps: ME1 holds one stamp, ME2 two, ME4 four, ME8 eight and ME20 twenty. All of them are wet-glue stamps."
+        },
+        {
+          "en": "The ME1 and the ME4 come out every month, the ME2 every quarter. The ME8 and the ME20 appear six times a year in a folder with texts about the theme. The smaller editions are sent without packaging or text.",
+          "de": "ME1 und ME4 erscheinen jeden Monat, die ME2 jedes Quartal. ME8 und ME20 kommen sechsmal im Jahr, in einem Folder mit Texten zum Thema. Die kleineren Editionen werden ohne Verpackung und ohne Text verschickt.",
+          "fr": "La ME1 et la ME4 paraissent chaque mois, la ME2 chaque trimestre. La ME8 et la ME20 sortent six fois par an dans un livret accompagné de textes sur le thème. Les petites éditions sont envoyées sans emballage ni texte.",
+          "it": "La ME1 e la ME4 escono ogni mese, la ME2 ogni trimestre. La ME8 e la ME20 escono sei volte l'anno in un folder con testi sul tema. Le edizioni più piccole arrivano senza confezione e senza testi.",
+          "nl": "The ME1 and the ME4 come out every month, the ME2 every quarter. The ME8 and the ME20 appear six times a year in a folder with texts about the theme. The smaller editions are sent without packaging or text.",
+          "pl": "The ME1 and the ME4 come out every month, the ME2 every quarter. The ME8 and the ME20 appear six times a year in a folder with texts about the theme. The smaller editions are sent without packaging or text.",
+          "cs": "The ME1 and the ME4 come out every month, the ME2 every quarter. The ME8 and the ME20 appear six times a year in a folder with texts about the theme. The smaller editions are sent without packaging or text.",
+          "sk": "The ME1 and the ME4 come out every month, the ME2 every quarter. The ME8 and the ME20 appear six times a year in a folder with texts about the theme. The smaller editions are sent without packaging or text.",
+          "ro": "The ME1 and the ME4 come out every month, the ME2 every quarter. The ME8 and the ME20 appear six times a year in a folder with texts about the theme. The smaller editions are sent without packaging or text.",
+          "hu": "The ME1 and the ME4 come out every month, the ME2 every quarter. The ME8 and the ME20 appear six times a year in a folder with texts about the theme. The smaller editions are sent without packaging or text.",
+          "da": "The ME1 and the ME4 come out every month, the ME2 every quarter. The ME8 and the ME20 appear six times a year in a folder with texts about the theme. The smaller editions are sent without packaging or text."
+        },
+        {
+          "en": "The editions are sold through the online shop, the Sammler-Service and by subscription. For them the Post names no designer, printer or printing method. The shop gives print runs of 1,000 to 2,000 per edition.",
+          "de": "Die Editionen gibt es im Onlineshop, beim Sammler-Service und im Abo. Designer, Druckerei und Druckverfahren nennt die Post nicht. Der Shop gibt Auflagen von 1.000 bis 2.000 Stück je Edition an.",
+          "fr": "Les éditions sont vendues dans la boutique en ligne, auprès du Sammler-Service et par abonnement. Pour elles, la Poste n'indique ni le dessinateur, ni l'imprimeur, ni le procédé d'impression. La boutique annonce des tirages de 1 000 à 2 000 exemplaires par édition.",
+          "it": "Le edizioni si acquistano nel negozio online, al Sammler-Service e in abbonamento. Per questa linea la Posta non indica il bozzettista, la tipografia o il procedimento di stampa. Il negozio riporta tirature da 1.000 a 2.000 copie per edizione.",
+          "nl": "The editions are sold through the online shop, the Sammler-Service and by subscription. For them the Post names no designer, printer or printing method. The shop gives print runs of 1,000 to 2,000 per edition.",
+          "pl": "The editions are sold through the online shop, the Sammler-Service and by subscription. For them the Post names no designer, printer or printing method. The shop gives print runs of 1,000 to 2,000 per edition.",
+          "cs": "The editions are sold through the online shop, the Sammler-Service and by subscription. For them the Post names no designer, printer or printing method. The shop gives print runs of 1,000 to 2,000 per edition.",
+          "sk": "The editions are sold through the online shop, the Sammler-Service and by subscription. For them the Post names no designer, printer or printing method. The shop gives print runs of 1,000 to 2,000 per edition.",
+          "ro": "The editions are sold through the online shop, the Sammler-Service and by subscription. For them the Post names no designer, printer or printing method. The shop gives print runs of 1,000 to 2,000 per edition.",
+          "hu": "The editions are sold through the online shop, the Sammler-Service and by subscription. For them the Post names no designer, printer or printing method. The shop gives print runs of 1,000 to 2,000 per edition.",
+          "da": "The editions are sold through the online shop, the Sammler-Service and by subscription. For them the Post names no designer, printer or printing method. The shop gives print runs of 1,000 to 2,000 per edition."
+        }
+      ]
+    },
+    {
+      "id": "prices",
+      "type": "numbers",
+      "label": {
+        "en": "Price and face value",
+        "de": "Preis und Nennwert",
+        "fr": "Prix et valeur faciale",
+        "it": "Prezzo e valore facciale",
+        "nl": "Price and face value",
+        "pl": "Price and face value",
+        "cs": "Price and face value",
+        "sk": "Price and face value",
+        "ro": "Price and face value",
+        "hu": "Price and face value",
+        "da": "Price and face value"
+      },
+      "title": {
+        "en": "What each edition costs",
+        "de": "Was die einzelnen Editionen kosten",
+        "fr": "Ce que coûte chaque édition",
+        "it": "Quanto costa ogni edizione",
+        "nl": "What each edition costs",
+        "pl": "What each edition costs",
+        "cs": "What each edition costs",
+        "sk": "What each edition costs",
+        "ro": "What each edition costs",
+        "hu": "What each edition costs",
+        "da": "What each edition costs"
+      },
+      "numbers": [
+        {
+          "text": {
+            "en": "One stamp worth €1.00, or €2.30 by subscription.",
+            "de": "Eine Marke mit Nennwert 1,00 €, im Abo 2,30 €.",
+            "fr": "Un timbre, 1,00 € de valeur faciale, 2,30 € par abonnement.",
+            "it": "Un francobollo con valore facciale di 1,00 €, 2,30 € in abbonamento.",
+            "nl": "One stamp worth €1.00, or €2.30 by subscription.",
+            "pl": "One stamp worth €1.00, or €2.30 by subscription.",
+            "cs": "One stamp worth €1.00, or €2.30 by subscription.",
+            "sk": "One stamp worth €1.00, or €2.30 by subscription.",
+            "ro": "One stamp worth €1.00, or €2.30 by subscription.",
+            "hu": "One stamp worth €1.00, or €2.30 by subscription.",
+            "da": "One stamp worth €1.00, or €2.30 by subscription."
+          },
+          "title": {
+            "en": "ME1",
+            "de": "ME1",
+            "fr": "ME1",
+            "it": "ME1",
+            "nl": "ME1",
+            "pl": "ME1",
+            "cs": "ME1",
+            "sk": "ME1",
+            "ro": "ME1",
+            "hu": "ME1",
+            "da": "ME1"
+          },
+          "value": "€2.70"
+        },
+        {
+          "text": {
+            "en": "Four stamps worth €4.00, or €5.70 by subscription.",
+            "de": "Vier Marken mit Nennwert 4,00 €, im Abo 5,70 €.",
+            "fr": "Quatre timbres, 4,00 € de valeur faciale, 5,70 € par abonnement.",
+            "it": "Quattro francobolli con valore facciale di 4,00 €, 5,70 € in abbonamento.",
+            "nl": "Four stamps worth €4.00, or €5.70 by subscription.",
+            "pl": "Four stamps worth €4.00, or €5.70 by subscription.",
+            "cs": "Four stamps worth €4.00, or €5.70 by subscription.",
+            "sk": "Four stamps worth €4.00, or €5.70 by subscription.",
+            "ro": "Four stamps worth €4.00, or €5.70 by subscription.",
+            "hu": "Four stamps worth €4.00, or €5.70 by subscription.",
+            "da": "Four stamps worth €4.00, or €5.70 by subscription."
+          },
+          "title": {
+            "en": "ME4",
+            "de": "ME4",
+            "fr": "ME4",
+            "it": "ME4",
+            "nl": "ME4",
+            "pl": "ME4",
+            "cs": "ME4",
+            "sk": "ME4",
+            "ro": "ME4",
+            "hu": "ME4",
+            "da": "ME4"
+          },
+          "value": "€6.70"
+        },
+        {
+          "text": {
+            "en": "Eight stamps worth €9.00, or €11.10 by subscription.",
+            "de": "Acht Marken mit Nennwert 9,00 €, im Abo 11,10 €.",
+            "fr": "Huit timbres, 9,00 € de valeur faciale, 11,10 € par abonnement.",
+            "it": "Otto francobolli con valore facciale di 9,00 €, 11,10 € in abbonamento.",
+            "nl": "Eight stamps worth €9.00, or €11.10 by subscription.",
+            "pl": "Eight stamps worth €9.00, or €11.10 by subscription.",
+            "cs": "Eight stamps worth €9.00, or €11.10 by subscription.",
+            "sk": "Eight stamps worth €9.00, or €11.10 by subscription.",
+            "ro": "Eight stamps worth €9.00, or €11.10 by subscription.",
+            "hu": "Eight stamps worth €9.00, or €11.10 by subscription.",
+            "da": "Eight stamps worth €9.00, or €11.10 by subscription."
+          },
+          "title": {
+            "en": "ME8",
+            "de": "ME8",
+            "fr": "ME8",
+            "it": "ME8",
+            "nl": "ME8",
+            "pl": "ME8",
+            "cs": "ME8",
+            "sk": "ME8",
+            "ro": "ME8",
+            "hu": "ME8",
+            "da": "ME8"
+          },
+          "value": "€13.10"
+        },
+        {
+          "text": {
+            "en": "Twenty stamps worth €21.25, or €22.70 by subscription.",
+            "de": "Zwanzig Marken mit Nennwert 21,25 €, im Abo 22,70 €.",
+            "fr": "Vingt timbres, 21,25 € de valeur faciale, 22,70 € par abonnement.",
+            "it": "Venti francobolli con valore facciale di 21,25 €, 22,70 € in abbonamento.",
+            "nl": "Twenty stamps worth €21.25, or €22.70 by subscription.",
+            "pl": "Twenty stamps worth €21.25, or €22.70 by subscription.",
+            "cs": "Twenty stamps worth €21.25, or €22.70 by subscription.",
+            "sk": "Twenty stamps worth €21.25, or €22.70 by subscription.",
+            "ro": "Twenty stamps worth €21.25, or €22.70 by subscription.",
+            "hu": "Twenty stamps worth €21.25, or €22.70 by subscription.",
+            "da": "Twenty stamps worth €21.25, or €22.70 by subscription."
+          },
+          "title": {
+            "en": "ME20",
+            "de": "ME20",
+            "fr": "ME20",
+            "it": "ME20",
+            "nl": "ME20",
+            "pl": "ME20",
+            "cs": "ME20",
+            "sk": "ME20",
+            "ro": "ME20",
+            "hu": "ME20",
+            "da": "ME20"
+          },
+          "value": "€26.20"
+        }
+      ]
+    },
+    {
+      "id": "naturschaetze",
+      "date": {
+        "en": "August 2026",
+        "de": "August 2026",
+        "fr": "Août 2026",
+        "it": "Agosto 2026",
+        "nl": "August 2026",
+        "pl": "August 2026",
+        "cs": "August 2026",
+        "sk": "August 2026",
+        "ro": "August 2026",
+        "hu": "August 2026",
+        "da": "August 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Österreichs Naturschätze, 4 × €1.00",
+          "de": "Österreichs Naturschätze, 4 × 1,00 €",
+          "fr": "Österreichs Naturschätze, 4 × 1,00 €",
+          "it": "Österreichs Naturschätze, 4 × 1,00 €",
+          "nl": "Österreichs Naturschätze, 4 × €1.00",
+          "pl": "Österreichs Naturschätze, 4 × €1.00",
+          "cs": "Österreichs Naturschätze, 4 × €1.00",
+          "sk": "Österreichs Naturschätze, 4 × €1.00",
+          "ro": "Österreichs Naturschätze, 4 × €1.00",
+          "hu": "Österreichs Naturschätze, 4 × €1.00",
+          "da": "Österreichs Naturschätze, 4 × €1.00"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/dc27e35e95127713/at-2026-126668.png",
+          "width": 1000,
+          "height": 656
+        },
+        "country": "AT",
+        "stamp_id": "at-post-126668"
+      },
+      "title": {
+        "en": "Österreichs Naturschätze",
+        "de": "Österreichs Naturschätze",
+        "fr": "Österreichs Naturschätze",
+        "it": "Österreichs Naturschätze",
+        "nl": "Österreichs Naturschätze",
+        "pl": "Österreichs Naturschätze",
+        "cs": "Österreichs Naturschätze",
+        "sk": "Österreichs Naturschätze",
+        "ro": "Österreichs Naturschätze",
+        "hu": "Österreichs Naturschätze",
+        "da": "Österreichs Naturschätze"
+      },
+      "formats": [
+        {
+          "value": "€6.70",
+          "format": {
+            "en": "Marken Edition 4",
+            "de": "Marken Edition 4",
+            "fr": "Marken Edition 4",
+            "it": "Marken Edition 4",
+            "nl": "Marken Edition 4",
+            "pl": "Marken Edition 4",
+            "cs": "Marken Edition 4",
+            "sk": "Marken Edition 4",
+            "ro": "Marken Edition 4",
+            "hu": "Marken Edition 4",
+            "da": "Marken Edition 4"
+          }
+        },
+        {
+          "value": "€5.70",
+          "format": {
+            "en": "By subscription",
+            "de": "Im Abo",
+            "fr": "Par abonnement",
+            "it": "In abbonamento",
+            "nl": "By subscription",
+            "pl": "By subscription",
+            "cs": "By subscription",
+            "sk": "By subscription",
+            "ro": "By subscription",
+            "hu": "By subscription",
+            "da": "By subscription"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "This ME4 in the series «Österreichs Naturschätze» shows four landscapes from four federal states. The shop lists 1,000 copies.",
+          "de": "Diese ME4 aus der Serie „Österreichs Naturschätze“ zeigt vier Landschaften aus vier Bundesländern. Der Shop nennt eine Auflage von 1.000 Stück.",
+          "fr": "Cette ME4 de la série « Österreichs Naturschätze » montre quatre paysages de quatre Länder. La boutique annonce 1 000 exemplaires.",
+          "it": "Questa ME4 della serie \"Österreichs Naturschätze\" mostra quattro paesaggi di quattro Länder austriaci. Il negozio indica 1.000 copie.",
+          "nl": "This ME4 in the series «Österreichs Naturschätze» shows four landscapes from four federal states. The shop lists 1,000 copies.",
+          "pl": "This ME4 in the series «Österreichs Naturschätze» shows four landscapes from four federal states. The shop lists 1,000 copies.",
+          "cs": "This ME4 in the series «Österreichs Naturschätze» shows four landscapes from four federal states. The shop lists 1,000 copies.",
+          "sk": "This ME4 in the series «Österreichs Naturschätze» shows four landscapes from four federal states. The shop lists 1,000 copies.",
+          "ro": "This ME4 in the series «Österreichs Naturschätze» shows four landscapes from four federal states. The shop lists 1,000 copies.",
+          "hu": "This ME4 in the series «Österreichs Naturschätze» shows four landscapes from four federal states. The shop lists 1,000 copies.",
+          "da": "This ME4 in the series «Österreichs Naturschätze» shows four landscapes from four federal states. The shop lists 1,000 copies."
+        },
+        {
+          "en": "The Hintertuxer Gletscher lies at the end of the Tuxertal in Tyrol. Until 2022 it was the only ski area in Austria with skiing right through the summer.",
+          "de": "Der Hintertuxer Gletscher liegt am Ende des Tuxertals in Tirol. Bis 2022 war er das einzige Skigebiet Österreichs, in dem man auch im Sommer durchgehend fahren konnte.",
+          "fr": "Le Hintertuxer Gletscher se trouve au fond du Tuxertal, au Tyrol. Jusqu'en 2022, c'était le seul domaine skiable d'Autriche où l'on pouvait skier tout l'été.",
+          "it": "L'Hintertuxer Gletscher si trova in fondo alla Tuxertal, in Tirolo. Fino al 2022 era l'unica zona sciistica dell'Austria dove si poteva sciare per tutta l'estate.",
+          "nl": "The Hintertuxer Gletscher lies at the end of the Tuxertal in Tyrol. Until 2022 it was the only ski area in Austria with skiing right through the summer.",
+          "pl": "The Hintertuxer Gletscher lies at the end of the Tuxertal in Tyrol. Until 2022 it was the only ski area in Austria with skiing right through the summer.",
+          "cs": "The Hintertuxer Gletscher lies at the end of the Tuxertal in Tyrol. Until 2022 it was the only ski area in Austria with skiing right through the summer.",
+          "sk": "The Hintertuxer Gletscher lies at the end of the Tuxertal in Tyrol. Until 2022 it was the only ski area in Austria with skiing right through the summer.",
+          "ro": "The Hintertuxer Gletscher lies at the end of the Tuxertal in Tyrol. Until 2022 it was the only ski area in Austria with skiing right through the summer.",
+          "hu": "The Hintertuxer Gletscher lies at the end of the Tuxertal in Tyrol. Until 2022 it was the only ski area in Austria with skiing right through the summer.",
+          "da": "The Hintertuxer Gletscher lies at the end of the Tuxertal in Tyrol. Until 2022 it was the only ski area in Austria with skiing right through the summer."
+        },
+        {
+          "en": "The Seewaldsee in St. Koloman, Salzburg, lies at 1,074 m in a nature reserve. It has no real inflow and is fed by water from the surrounding bog and by rain.",
+          "de": "Der Seewaldsee in St. Koloman im Land Salzburg liegt auf 1.074 m in einem Naturschutzgebiet. Er hat keinen echten Zufluss. Gespeist wird er vom Wasser des umliegenden Moors und vom Regen.",
+          "fr": "Le Seewaldsee, à St. Koloman dans le Land de Salzbourg, se situe à 1 074 m d'altitude, au cœur d'une réserve naturelle. Il n'a pas de véritable affluent : il est alimenté par l'eau du marais alentour et par la pluie.",
+          "it": "Il Seewaldsee, a St. Koloman nel Salisburghese, sta a 1.074 m dentro una riserva naturale. Non ha un vero immissario. Lo alimentano l'acqua della torbiera intorno e la pioggia.",
+          "nl": "The Seewaldsee in St. Koloman, Salzburg, lies at 1,074 m in a nature reserve. It has no real inflow and is fed by water from the surrounding bog and by rain.",
+          "pl": "The Seewaldsee in St. Koloman, Salzburg, lies at 1,074 m in a nature reserve. It has no real inflow and is fed by water from the surrounding bog and by rain.",
+          "cs": "The Seewaldsee in St. Koloman, Salzburg, lies at 1,074 m in a nature reserve. It has no real inflow and is fed by water from the surrounding bog and by rain.",
+          "sk": "The Seewaldsee in St. Koloman, Salzburg, lies at 1,074 m in a nature reserve. It has no real inflow and is fed by water from the surrounding bog and by rain.",
+          "ro": "The Seewaldsee in St. Koloman, Salzburg, lies at 1,074 m in a nature reserve. It has no real inflow and is fed by water from the surrounding bog and by rain.",
+          "hu": "The Seewaldsee in St. Koloman, Salzburg, lies at 1,074 m in a nature reserve. It has no real inflow and is fed by water from the surrounding bog and by rain.",
+          "da": "The Seewaldsee in St. Koloman, Salzburg, lies at 1,074 m in a nature reserve. It has no real inflow and is fed by water from the surrounding bog and by rain."
+        },
+        {
+          "en": "The Leiser Berge in Lower Austria have been a nature park since 1970. Their limestone is full of fossils. After the fields are ploughed in autumn, walkers can pick up stones with fossil shells or ammonites.",
+          "de": "Die Leiser Berge in Niederösterreich sind seit 1970 Naturpark. Ihr Kalkstein steckt voller Fossilien. Wenn die Felder im Herbst gepflügt sind, können Spaziergänger dort Steine mit versteinerten Muscheln oder Ammoniten aufsammeln.",
+          "fr": "Les Leiser Berge, en Basse-Autriche, sont un parc naturel depuis 1970. Leur calcaire est riche en fossiles. Après les labours d'automne, les promeneurs ramassent dans les champs des pierres portant des coquillages fossiles ou des ammonites.",
+          "it": "I Leiser Berge, in Bassa Austria, sono parco naturale dal 1970. Il loro calcare è pieno di fossili. Dopo l'aratura d'autunno, chi passeggia sui campi può raccogliere sassi con conchiglie fossili o ammoniti.",
+          "nl": "The Leiser Berge in Lower Austria have been a nature park since 1970. Their limestone is full of fossils. After the fields are ploughed in autumn, walkers can pick up stones with fossil shells or ammonites.",
+          "pl": "The Leiser Berge in Lower Austria have been a nature park since 1970. Their limestone is full of fossils. After the fields are ploughed in autumn, walkers can pick up stones with fossil shells or ammonites.",
+          "cs": "The Leiser Berge in Lower Austria have been a nature park since 1970. Their limestone is full of fossils. After the fields are ploughed in autumn, walkers can pick up stones with fossil shells or ammonites.",
+          "sk": "The Leiser Berge in Lower Austria have been a nature park since 1970. Their limestone is full of fossils. After the fields are ploughed in autumn, walkers can pick up stones with fossil shells or ammonites.",
+          "ro": "The Leiser Berge in Lower Austria have been a nature park since 1970. Their limestone is full of fossils. After the fields are ploughed in autumn, walkers can pick up stones with fossil shells or ammonites.",
+          "hu": "The Leiser Berge in Lower Austria have been a nature park since 1970. Their limestone is full of fossils. After the fields are ploughed in autumn, walkers can pick up stones with fossil shells or ammonites.",
+          "da": "The Leiser Berge in Lower Austria have been a nature park since 1970. Their limestone is full of fossils. After the fields are ploughed in autumn, walkers can pick up stones with fossil shells or ammonites."
+        },
+        {
+          "en": "The Weißensee in Carinthia lies at 930 m. In winter its ice is up to 58 cm thick for about 80 days. Since 1989 Dutch skaters have held their «Alternative Elfstedentocht» on it every January.",
+          "de": "Der Weißensee in Kärnten liegt auf 930 m. Im Winter ist sein Eis an rund 80 Tagen bis zu 58 cm dick. Seit 1989 tragen niederländische Eisläufer dort jeden Januar ihre „Alternative Elfstedentocht“ aus.",
+          "fr": "Le Weißensee, en Carinthie, se trouve à 930 m d'altitude. En hiver, sa glace fait jusqu'à 58 cm d'épaisseur pendant environ 80 jours. Depuis 1989, les patineurs néerlandais y disputent chaque mois de janvier leur « Alternative Elfstedentocht ».",
+          "it": "Il Weißensee, in Carinzia, sta a 930 m. D'inverno il ghiaccio arriva a 58 cm di spessore per circa 80 giorni. Dal 1989 i pattinatori olandesi vi disputano ogni gennaio la loro \"Alternative Elfstedentocht\".",
+          "nl": "The Weißensee in Carinthia lies at 930 m. In winter its ice is up to 58 cm thick for about 80 days. Since 1989 Dutch skaters have held their «Alternative Elfstedentocht» on it every January.",
+          "pl": "The Weißensee in Carinthia lies at 930 m. In winter its ice is up to 58 cm thick for about 80 days. Since 1989 Dutch skaters have held their «Alternative Elfstedentocht» on it every January.",
+          "cs": "The Weißensee in Carinthia lies at 930 m. In winter its ice is up to 58 cm thick for about 80 days. Since 1989 Dutch skaters have held their «Alternative Elfstedentocht» on it every January.",
+          "sk": "The Weißensee in Carinthia lies at 930 m. In winter its ice is up to 58 cm thick for about 80 days. Since 1989 Dutch skaters have held their «Alternative Elfstedentocht» on it every January.",
+          "ro": "The Weißensee in Carinthia lies at 930 m. In winter its ice is up to 58 cm thick for about 80 days. Since 1989 Dutch skaters have held their «Alternative Elfstedentocht» on it every January.",
+          "hu": "The Weißensee in Carinthia lies at 930 m. In winter its ice is up to 58 cm thick for about 80 days. Since 1989 Dutch skaters have held their «Alternative Elfstedentocht» on it every January.",
+          "da": "The Weißensee in Carinthia lies at 930 m. In winter its ice is up to 58 cm thick for about 80 days. Since 1989 Dutch skaters have held their «Alternative Elfstedentocht» on it every January."
+        }
+      ]
+    },
+    {
+      "id": "singles",
+      "date": {
+        "en": "August to October 2026",
+        "de": "August bis Oktober 2026",
+        "fr": "Août à octobre 2026",
+        "it": "Da agosto a ottobre 2026",
+        "nl": "August to October 2026",
+        "pl": "August to October 2026",
+        "cs": "August to October 2026",
+        "sk": "August to October 2026",
+        "ro": "August to October 2026",
+        "hu": "August to October 2026",
+        "da": "August to October 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Goldenes Dachl, €1.00",
+          "de": "Goldenes Dachl, 1,00 €",
+          "fr": "Goldenes Dachl, 1,00 €",
+          "it": "Goldenes Dachl, 1,00 €",
+          "nl": "Goldenes Dachl, €1.00",
+          "pl": "Goldenes Dachl, €1.00",
+          "cs": "Goldenes Dachl, €1.00",
+          "sk": "Goldenes Dachl, €1.00",
+          "ro": "Goldenes Dachl, €1.00",
+          "hu": "Goldenes Dachl, €1.00",
+          "da": "Goldenes Dachl, €1.00"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/bcfa6dfc336253d5/at-2026-126649.png",
+          "width": 849,
+          "height": 1000
+        },
+        "country": "AT",
+        "stamp_id": "at-post-126649"
+      },
+      "title": {
+        "en": "The monthly single stamps",
+        "de": "Die monatlichen Einzelmarken",
+        "fr": "Le timbre de chaque mois",
+        "it": "I francobolli singoli mensili",
+        "nl": "The monthly single stamps",
+        "pl": "The monthly single stamps",
+        "cs": "The monthly single stamps",
+        "sk": "The monthly single stamps",
+        "ro": "The monthly single stamps",
+        "hu": "The monthly single stamps",
+        "da": "The monthly single stamps"
+      },
+      "formats": [
+        {
+          "value": "€2.70",
+          "format": {
+            "en": "Marken Edition 1, each",
+            "de": "Marken Edition 1, je",
+            "fr": "Marken Edition 1, à l'unité",
+            "it": "Marken Edition 1, ciascuna",
+            "nl": "Marken Edition 1, each",
+            "pl": "Marken Edition 1, each",
+            "cs": "Marken Edition 1, each",
+            "sk": "Marken Edition 1, each",
+            "ro": "Marken Edition 1, each",
+            "hu": "Marken Edition 1, each",
+            "da": "Marken Edition 1, each"
+          }
+        },
+        {
+          "value": "€2.30",
+          "format": {
+            "en": "By subscription",
+            "de": "Im Abo",
+            "fr": "Par abonnement",
+            "it": "In abbonamento",
+            "nl": "By subscription",
+            "pl": "By subscription",
+            "cs": "By subscription",
+            "sk": "By subscription",
+            "ro": "By subscription",
+            "hu": "By subscription",
+            "da": "By subscription"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "The ME1 brings one stamp a month, each printed with its month. August is «Stiftskirche Griffen» (2026/8), September «Goldenes Dachl» (2026/9) and October «Taschenuhr» (2026/10). The shop lists 2,000 copies of each.",
+          "de": "Die ME1 bringt jeden Monat eine Marke, auf der der jeweilige Monat aufgedruckt ist. Im August ist das „Stiftskirche Griffen“ (2026/8), im September „Goldenes Dachl“ (2026/9) und im Oktober „Taschenuhr“ (2026/10). Der Shop nennt je 2.000 Stück.",
+          "fr": "La ME1 propose un timbre par mois, chacun imprimé avec son mois. En août, c'est « Stiftskirche Griffen » (2026/8), en septembre « Goldenes Dachl » (2026/9) et en octobre « Taschenuhr » (2026/10). La boutique annonce 2 000 exemplaires de chacun.",
+          "it": "La ME1 porta un francobollo al mese, stampato con il proprio mese. Ad agosto è \"Stiftskirche Griffen\" (2026/8), a settembre \"Goldenes Dachl\" (2026/9) e a ottobre \"Taschenuhr\" (2026/10). Il negozio indica 2.000 copie per ciascuno.",
+          "nl": "The ME1 brings one stamp a month, each printed with its month. August is «Stiftskirche Griffen» (2026/8), September «Goldenes Dachl» (2026/9) and October «Taschenuhr» (2026/10). The shop lists 2,000 copies of each.",
+          "pl": "The ME1 brings one stamp a month, each printed with its month. August is «Stiftskirche Griffen» (2026/8), September «Goldenes Dachl» (2026/9) and October «Taschenuhr» (2026/10). The shop lists 2,000 copies of each.",
+          "cs": "The ME1 brings one stamp a month, each printed with its month. August is «Stiftskirche Griffen» (2026/8), September «Goldenes Dachl» (2026/9) and October «Taschenuhr» (2026/10). The shop lists 2,000 copies of each.",
+          "sk": "The ME1 brings one stamp a month, each printed with its month. August is «Stiftskirche Griffen» (2026/8), September «Goldenes Dachl» (2026/9) and October «Taschenuhr» (2026/10). The shop lists 2,000 copies of each.",
+          "ro": "The ME1 brings one stamp a month, each printed with its month. August is «Stiftskirche Griffen» (2026/8), September «Goldenes Dachl» (2026/9) and October «Taschenuhr» (2026/10). The shop lists 2,000 copies of each.",
+          "hu": "The ME1 brings one stamp a month, each printed with its month. August is «Stiftskirche Griffen» (2026/8), September «Goldenes Dachl» (2026/9) and October «Taschenuhr» (2026/10). The shop lists 2,000 copies of each.",
+          "da": "The ME1 brings one stamp a month, each printed with its month. August is «Stiftskirche Griffen» (2026/8), September «Goldenes Dachl» (2026/9) and October «Taschenuhr» (2026/10). The shop lists 2,000 copies of each."
+        },
+        {
+          "en": "The August stamp belongs to the series «Marienstatue». It is captioned «Stiftskirche Griffen» and shows a painted statue of the Virgin Mary in a gilded niche. Griffen in Carinthia was the only Premonstratensian house in the province, founded in 1236 by Bishop Eckbert of Bamberg. Since the abbey was dissolved in 1786, its church has been the parish church.",
+          "de": "Die Augustmarke gehört zur Serie „Marienstatue“. Sie trägt die Bezeichnung „Stiftskirche Griffen“ und zeigt eine bemalte Marienstatue in einer vergoldeten Nische. Griffen in Kärnten hatte das einzige Prämonstratenserstift des Landes, 1236 von Bischof Eckbert von Bamberg gegründet. Seit der Aufhebung des Stifts 1786 dient die Kirche als Pfarrkirche.",
+          "fr": "Le timbre d'août appartient à la série « Marienstatue ». Il porte la légende « Stiftskirche Griffen » et montre une statue peinte de la Vierge dans une niche dorée. Griffen, en Carinthie, abritait la seule maison de prémontrés de la province, fondée en 1236 par l'évêque Eckbert de Bamberg. Depuis la dissolution de l'abbaye en 1786, son église sert d'église paroissiale.",
+          "it": "Il francobollo di agosto appartiene alla serie \"Marienstatue\". Porta la scritta \"Stiftskirche Griffen\" e mostra una statua dipinta della Vergine dentro una nicchia dorata. Griffen, in Carinzia, ospitava l'unica casa premostratense della regione, fondata nel 1236 dal vescovo Eckbert di Bamberga. Dalla soppressione dell'abbazia nel 1786 la sua chiesa fa da parrocchiale.",
+          "nl": "The August stamp belongs to the series «Marienstatue». It is captioned «Stiftskirche Griffen» and shows a painted statue of the Virgin Mary in a gilded niche. Griffen in Carinthia was the only Premonstratensian house in the province, founded in 1236 by Bishop Eckbert of Bamberg. Since the abbey was dissolved in 1786, its church has been the parish church.",
+          "pl": "The August stamp belongs to the series «Marienstatue». It is captioned «Stiftskirche Griffen» and shows a painted statue of the Virgin Mary in a gilded niche. Griffen in Carinthia was the only Premonstratensian house in the province, founded in 1236 by Bishop Eckbert of Bamberg. Since the abbey was dissolved in 1786, its church has been the parish church.",
+          "cs": "The August stamp belongs to the series «Marienstatue». It is captioned «Stiftskirche Griffen» and shows a painted statue of the Virgin Mary in a gilded niche. Griffen in Carinthia was the only Premonstratensian house in the province, founded in 1236 by Bishop Eckbert of Bamberg. Since the abbey was dissolved in 1786, its church has been the parish church.",
+          "sk": "The August stamp belongs to the series «Marienstatue». It is captioned «Stiftskirche Griffen» and shows a painted statue of the Virgin Mary in a gilded niche. Griffen in Carinthia was the only Premonstratensian house in the province, founded in 1236 by Bishop Eckbert of Bamberg. Since the abbey was dissolved in 1786, its church has been the parish church.",
+          "ro": "The August stamp belongs to the series «Marienstatue». It is captioned «Stiftskirche Griffen» and shows a painted statue of the Virgin Mary in a gilded niche. Griffen in Carinthia was the only Premonstratensian house in the province, founded in 1236 by Bishop Eckbert of Bamberg. Since the abbey was dissolved in 1786, its church has been the parish church.",
+          "hu": "The August stamp belongs to the series «Marienstatue». It is captioned «Stiftskirche Griffen» and shows a painted statue of the Virgin Mary in a gilded niche. Griffen in Carinthia was the only Premonstratensian house in the province, founded in 1236 by Bishop Eckbert of Bamberg. Since the abbey was dissolved in 1786, its church has been the parish church.",
+          "da": "The August stamp belongs to the series «Marienstatue». It is captioned «Stiftskirche Griffen» and shows a painted statue of the Virgin Mary in a gilded niche. Griffen in Carinthia was the only Premonstratensian house in the province, founded in 1236 by Bishop Eckbert of Bamberg. Since the abbey was dissolved in 1786, its church has been the parish church."
+        },
+        {
+          "en": "The Goldenes Dachl in Innsbruck is a late Gothic oriel built for Emperor Maximilian I around 1500. Its roof has 2,657 fire-gilded copper shingles. In April 2012 eight of them were stolen from the scaffolding. All eight came back within days, two of them through a post box in Hall in Tirol. The Post already showed the oriel on a 6.40 schilling definitive in 1960.",
+          "de": "Das Goldene Dachl in Innsbruck ist ein spätgotischer Erker, der um 1500 für Kaiser Maximilian I. gebaut wurde. Auf seinem Dach liegen 2.657 feuervergoldete Kupferschindeln. Im April 2012 wurden acht davon vom Gerüst gestohlen. Alle acht kamen innerhalb weniger Tage zurück, zwei davon über einen Briefkasten in Hall in Tirol. Die Post zeigte den Erker schon 1960 auf einer Dauermarke zu 6,40 Schilling.",
+          "fr": "Le Goldenes Dachl d'Innsbruck est un oriel de style gothique tardif construit vers 1500 pour l'empereur Maximilien Ier. Son toit compte 2 657 bardeaux de cuivre dorés au feu. En avril 2012, huit d'entre eux ont été volés depuis l'échafaudage. Les huit sont réapparus en quelques jours, dont deux dans une boîte aux lettres à Hall in Tirol. La Poste avait déjà représenté l'oriel sur un timbre d'usage courant de 6,40 schillings en 1960.",
+          "it": "Il Goldenes Dachl di Innsbruck è un bovindo tardogotico costruito intorno al 1500 per l'imperatore Massimiliano I. Il tetto ha 2.657 scandole di rame dorate a fuoco. Nell'aprile 2012 otto scandole sono state rubate dal ponteggio. Tutte e otto sono tornate nel giro di pochi giorni, due di esse attraverso una buca delle lettere a Hall in Tirol. Il bovindo era già apparso nel 1960 su un francobollo d'uso corrente da 6,40 scellini.",
+          "nl": "The Goldenes Dachl in Innsbruck is a late Gothic oriel built for Emperor Maximilian I around 1500. Its roof has 2,657 fire-gilded copper shingles. In April 2012 eight of them were stolen from the scaffolding. All eight came back within days, two of them through a post box in Hall in Tirol. The Post already showed the oriel on a 6.40 schilling definitive in 1960.",
+          "pl": "The Goldenes Dachl in Innsbruck is a late Gothic oriel built for Emperor Maximilian I around 1500. Its roof has 2,657 fire-gilded copper shingles. In April 2012 eight of them were stolen from the scaffolding. All eight came back within days, two of them through a post box in Hall in Tirol. The Post already showed the oriel on a 6.40 schilling definitive in 1960.",
+          "cs": "The Goldenes Dachl in Innsbruck is a late Gothic oriel built for Emperor Maximilian I around 1500. Its roof has 2,657 fire-gilded copper shingles. In April 2012 eight of them were stolen from the scaffolding. All eight came back within days, two of them through a post box in Hall in Tirol. The Post already showed the oriel on a 6.40 schilling definitive in 1960.",
+          "sk": "The Goldenes Dachl in Innsbruck is a late Gothic oriel built for Emperor Maximilian I around 1500. Its roof has 2,657 fire-gilded copper shingles. In April 2012 eight of them were stolen from the scaffolding. All eight came back within days, two of them through a post box in Hall in Tirol. The Post already showed the oriel on a 6.40 schilling definitive in 1960.",
+          "ro": "The Goldenes Dachl in Innsbruck is a late Gothic oriel built for Emperor Maximilian I around 1500. Its roof has 2,657 fire-gilded copper shingles. In April 2012 eight of them were stolen from the scaffolding. All eight came back within days, two of them through a post box in Hall in Tirol. The Post already showed the oriel on a 6.40 schilling definitive in 1960.",
+          "hu": "The Goldenes Dachl in Innsbruck is a late Gothic oriel built for Emperor Maximilian I around 1500. Its roof has 2,657 fire-gilded copper shingles. In April 2012 eight of them were stolen from the scaffolding. All eight came back within days, two of them through a post box in Hall in Tirol. The Post already showed the oriel on a 6.40 schilling definitive in 1960.",
+          "da": "The Goldenes Dachl in Innsbruck is a late Gothic oriel built for Emperor Maximilian I around 1500. Its roof has 2,657 fire-gilded copper shingles. In April 2012 eight of them were stolen from the scaffolding. All eight came back within days, two of them through a post box in Hall in Tirol. The Post already showed the oriel on a 6.40 schilling definitive in 1960."
+        },
+        {
+          "en": "The October stamp, in the series «Technik», shows an open pocket watch from the back with its movement visible.",
+          "de": "Die Oktobermarke aus der Serie „Technik“ zeigt eine offene Taschenuhr von hinten, mit sichtbarem Uhrwerk.",
+          "fr": "Le timbre d'octobre, dans la série « Technik », montre une montre de poche ouverte, vue de dos, le mouvement apparent.",
+          "it": "Il francobollo di ottobre, della serie \"Technik\", mostra un orologio da tasca aperto, visto da dietro, con il movimento in vista.",
+          "nl": "The October stamp, in the series «Technik», shows an open pocket watch from the back with its movement visible.",
+          "pl": "The October stamp, in the series «Technik», shows an open pocket watch from the back with its movement visible.",
+          "cs": "The October stamp, in the series «Technik», shows an open pocket watch from the back with its movement visible.",
+          "sk": "The October stamp, in the series «Technik», shows an open pocket watch from the back with its movement visible.",
+          "ro": "The October stamp, in the series «Technik», shows an open pocket watch from the back with its movement visible.",
+          "hu": "The October stamp, in the series «Technik», shows an open pocket watch from the back with its movement visible.",
+          "da": "The October stamp, in the series «Technik», shows an open pocket watch from the back with its movement visible."
+        }
+      ]
+    },
+    {
+      "id": "sehenswuerdigkeiten",
+      "date": {
+        "en": "1 September 2026",
+        "de": "1. September 2026",
+        "fr": "1er septembre 2026",
+        "it": "1° settembre 2026",
+        "nl": "1 September 2026",
+        "pl": "1 September 2026",
+        "cs": "1 September 2026",
+        "sk": "1 September 2026",
+        "ro": "1 September 2026",
+        "hu": "1 September 2026",
+        "da": "1 September 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Sehenswürdigkeiten in Österreich, 4 × €1.00",
+          "de": "Sehenswürdigkeiten in Österreich, 4 × 1,00 €",
+          "fr": "Sehenswürdigkeiten in Österreich, 4 × 1,00 €",
+          "it": "Sehenswürdigkeiten in Österreich, 4 × 1,00 €",
+          "nl": "Sehenswürdigkeiten in Österreich, 4 × €1.00",
+          "pl": "Sehenswürdigkeiten in Österreich, 4 × €1.00",
+          "cs": "Sehenswürdigkeiten in Österreich, 4 × €1.00",
+          "sk": "Sehenswürdigkeiten in Österreich, 4 × €1.00",
+          "ro": "Sehenswürdigkeiten in Österreich, 4 × €1.00",
+          "hu": "Sehenswürdigkeiten in Österreich, 4 × €1.00",
+          "da": "Sehenswürdigkeiten in Österreich, 4 × €1.00"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/de2046f1dcd1e28a/at-2026-126669.png",
+          "width": 1000,
+          "height": 656
+        },
+        "country": "AT",
+        "stamp_id": "at-post-126669"
+      },
+      "title": {
+        "en": "Sehenswürdigkeiten in Österreich",
+        "de": "Sehenswürdigkeiten in Österreich",
+        "fr": "Sehenswürdigkeiten in Österreich",
+        "it": "Sehenswürdigkeiten in Österreich",
+        "nl": "Sehenswürdigkeiten in Österreich",
+        "pl": "Sehenswürdigkeiten in Österreich",
+        "cs": "Sehenswürdigkeiten in Österreich",
+        "sk": "Sehenswürdigkeiten in Österreich",
+        "ro": "Sehenswürdigkeiten in Österreich",
+        "hu": "Sehenswürdigkeiten in Österreich",
+        "da": "Sehenswürdigkeiten in Österreich"
+      },
+      "formats": [
+        {
+          "value": "€6.70",
+          "format": {
+            "en": "Marken Edition 4",
+            "de": "Marken Edition 4",
+            "fr": "Marken Edition 4",
+            "it": "Marken Edition 4",
+            "nl": "Marken Edition 4",
+            "pl": "Marken Edition 4",
+            "cs": "Marken Edition 4",
+            "sk": "Marken Edition 4",
+            "ro": "Marken Edition 4",
+            "hu": "Marken Edition 4",
+            "da": "Marken Edition 4"
+          }
+        },
+        {
+          "value": "€5.70",
+          "format": {
+            "en": "By subscription",
+            "de": "Im Abo",
+            "fr": "Par abonnement",
+            "it": "In abbonamento",
+            "nl": "By subscription",
+            "pl": "By subscription",
+            "cs": "By subscription",
+            "sk": "By subscription",
+            "ro": "By subscription",
+            "hu": "By subscription",
+            "da": "By subscription"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "The September ME4 shows four buildings. The shop lists 1,000 copies. Otto Wagner built the Kirche am Steinhof in Vienna from 1904 to 1907 for the patients of the psychiatric hospital Am Steinhof.",
+          "de": "Die September-ME4 zeigt vier Bauwerke. Der Shop nennt 1.000 Stück. Otto Wagner baute die Kirche am Steinhof in Wien von 1904 bis 1907 für die Patienten der psychiatrischen Anstalt Am Steinhof.",
+          "fr": "La ME4 de septembre montre quatre édifices. La boutique annonce 1 000 exemplaires. Otto Wagner a construit la Kirche am Steinhof à Vienne de 1904 à 1907 pour les patients de l'hôpital psychiatrique Am Steinhof.",
+          "it": "La ME4 di settembre mostra quattro edifici. Il negozio indica 1.000 copie. Otto Wagner costruì la Kirche am Steinhof a Vienna tra il 1904 e il 1907 per i pazienti dell'ospedale psichiatrico Am Steinhof.",
+          "nl": "The September ME4 shows four buildings. The shop lists 1,000 copies. Otto Wagner built the Kirche am Steinhof in Vienna from 1904 to 1907 for the patients of the psychiatric hospital Am Steinhof.",
+          "pl": "The September ME4 shows four buildings. The shop lists 1,000 copies. Otto Wagner built the Kirche am Steinhof in Vienna from 1904 to 1907 for the patients of the psychiatric hospital Am Steinhof.",
+          "cs": "The September ME4 shows four buildings. The shop lists 1,000 copies. Otto Wagner built the Kirche am Steinhof in Vienna from 1904 to 1907 for the patients of the psychiatric hospital Am Steinhof.",
+          "sk": "The September ME4 shows four buildings. The shop lists 1,000 copies. Otto Wagner built the Kirche am Steinhof in Vienna from 1904 to 1907 for the patients of the psychiatric hospital Am Steinhof.",
+          "ro": "The September ME4 shows four buildings. The shop lists 1,000 copies. Otto Wagner built the Kirche am Steinhof in Vienna from 1904 to 1907 for the patients of the psychiatric hospital Am Steinhof.",
+          "hu": "The September ME4 shows four buildings. The shop lists 1,000 copies. Otto Wagner built the Kirche am Steinhof in Vienna from 1904 to 1907 for the patients of the psychiatric hospital Am Steinhof.",
+          "da": "The September ME4 shows four buildings. The shop lists 1,000 copies. Otto Wagner built the Kirche am Steinhof in Vienna from 1904 to 1907 for the patients of the psychiatric hospital Am Steinhof."
+        },
+        {
+          "en": "The Deuringschlössle stands in the upper town of Bregenz. Johann Albert von Deuring bought it in 1660 and gave its old tower the onion dome. It was a hotel until 2015 and is a private home today.",
+          "de": "Das Deuringschlössle steht in der Bregenzer Oberstadt. Johann Albert von Deuring kaufte es 1660 und gab dem alten Turm die Zwiebelhaube. Bis 2015 war es ein Hotel, heute ist es ein Privathaus.",
+          "fr": "Le Deuringschlössle se dresse dans la ville haute de Bregenz. Johann Albert von Deuring l'a acheté en 1660 et a coiffé sa vieille tour d'un toit en bulbe. Hôtel jusqu'en 2015, c'est aujourd'hui une maison privée.",
+          "it": "Il Deuringschlössle sta nella città alta di Bregenz. Johann Albert von Deuring lo comprò nel 1660 e diede alla vecchia torre la cupola a cipolla. Fino al 2015 è stato un albergo, oggi è un'abitazione privata.",
+          "nl": "The Deuringschlössle stands in the upper town of Bregenz. Johann Albert von Deuring bought it in 1660 and gave its old tower the onion dome. It was a hotel until 2015 and is a private home today.",
+          "pl": "The Deuringschlössle stands in the upper town of Bregenz. Johann Albert von Deuring bought it in 1660 and gave its old tower the onion dome. It was a hotel until 2015 and is a private home today.",
+          "cs": "The Deuringschlössle stands in the upper town of Bregenz. Johann Albert von Deuring bought it in 1660 and gave its old tower the onion dome. It was a hotel until 2015 and is a private home today.",
+          "sk": "The Deuringschlössle stands in the upper town of Bregenz. Johann Albert von Deuring bought it in 1660 and gave its old tower the onion dome. It was a hotel until 2015 and is a private home today.",
+          "ro": "The Deuringschlössle stands in the upper town of Bregenz. Johann Albert von Deuring bought it in 1660 and gave its old tower the onion dome. It was a hotel until 2015 and is a private home today.",
+          "hu": "The Deuringschlössle stands in the upper town of Bregenz. Johann Albert von Deuring bought it in 1660 and gave its old tower the onion dome. It was a hotel until 2015 and is a private home today.",
+          "da": "The Deuringschlössle stands in the upper town of Bregenz. Johann Albert von Deuring bought it in 1660 and gave its old tower the onion dome. It was a hotel until 2015 and is a private home today."
+        },
+        {
+          "en": "Schloss Greillenstein in the Waldviertel has belonged to the Kuefstein family since 1534. The present castle was finished in 1604. In 1620 Maximilian of Bavaria, Tilly and Bucquoy met there to plan the campaign that led to the Battle of White Mountain.",
+          "de": "Schloss Greillenstein im Waldviertel gehört seit 1534 der Familie Kuefstein. Der heutige Bau war 1604 fertig. 1620 trafen sich dort Maximilian von Bayern, Tilly und Bucquoy, um den Feldzug zu planen, der zur Schlacht am Weißen Berg führte.",
+          "fr": "Le Schloss Greillenstein, dans le Waldviertel, appartient à la famille Kuefstein depuis 1534. Le château actuel a été achevé en 1604. En 1620, Maximilien de Bavière, Tilly et Bucquoy s'y sont retrouvés pour préparer la campagne qui a mené à la bataille de la Montagne Blanche.",
+          "it": "Lo Schloss Greillenstein, nel Waldviertel, appartiene alla famiglia Kuefstein dal 1534. Il castello attuale fu finito nel 1604. Nel 1620 vi si incontrarono Massimiliano di Baviera, Tilly e Bucquoy per preparare la campagna che portò alla battaglia della Montagna Bianca.",
+          "nl": "Schloss Greillenstein in the Waldviertel has belonged to the Kuefstein family since 1534. The present castle was finished in 1604. In 1620 Maximilian of Bavaria, Tilly and Bucquoy met there to plan the campaign that led to the Battle of White Mountain.",
+          "pl": "Schloss Greillenstein in the Waldviertel has belonged to the Kuefstein family since 1534. The present castle was finished in 1604. In 1620 Maximilian of Bavaria, Tilly and Bucquoy met there to plan the campaign that led to the Battle of White Mountain.",
+          "cs": "Schloss Greillenstein in the Waldviertel has belonged to the Kuefstein family since 1534. The present castle was finished in 1604. In 1620 Maximilian of Bavaria, Tilly and Bucquoy met there to plan the campaign that led to the Battle of White Mountain.",
+          "sk": "Schloss Greillenstein in the Waldviertel has belonged to the Kuefstein family since 1534. The present castle was finished in 1604. In 1620 Maximilian of Bavaria, Tilly and Bucquoy met there to plan the campaign that led to the Battle of White Mountain.",
+          "ro": "Schloss Greillenstein in the Waldviertel has belonged to the Kuefstein family since 1534. The present castle was finished in 1604. In 1620 Maximilian of Bavaria, Tilly and Bucquoy met there to plan the campaign that led to the Battle of White Mountain.",
+          "hu": "Schloss Greillenstein in the Waldviertel has belonged to the Kuefstein family since 1534. The present castle was finished in 1604. In 1620 Maximilian of Bavaria, Tilly and Bucquoy met there to plan the campaign that led to the Battle of White Mountain.",
+          "da": "Schloss Greillenstein in the Waldviertel has belonged to the Kuefstein family since 1534. The present castle was finished in 1604. In 1620 Maximilian of Bavaria, Tilly and Bucquoy met there to plan the campaign that led to the Battle of White Mountain."
+        },
+        {
+          "en": "The Friedenskircherl stands at 1,898 m on the Stoderzinken in Styria. Emil von Horstig built it in 1902 for all faiths, which is why it was never consecrated. For its 80th anniversary it got a stamp of its own in 1982.",
+          "de": "Das Friedenskircherl steht auf 1.898 m am Stoderzinken in der Steiermark. Emil von Horstig ließ es 1902 für alle Konfessionen bauen, deshalb wurde es nie geweiht. Zum 80. Jahrestag bekam es 1982 eine eigene Briefmarke.",
+          "fr": "Le Friedenskircherl se trouve à 1 898 m, sur le Stoderzinken en Styrie. Emil von Horstig l'a fait construire en 1902 pour toutes les confessions, c'est pourquoi il n'a jamais été consacré. Pour ses 80 ans, il a eu son propre timbre en 1982.",
+          "it": "Il Friedenskircherl sorge a 1.898 m sullo Stoderzinken, in Stiria. Emil von Horstig lo fece costruire nel 1902 per tutte le confessioni, perciò non è mai stato consacrato. Per gli 80 anni, nel 1982, ha avuto un francobollo tutto suo.",
+          "nl": "The Friedenskircherl stands at 1,898 m on the Stoderzinken in Styria. Emil von Horstig built it in 1902 for all faiths, which is why it was never consecrated. For its 80th anniversary it got a stamp of its own in 1982.",
+          "pl": "The Friedenskircherl stands at 1,898 m on the Stoderzinken in Styria. Emil von Horstig built it in 1902 for all faiths, which is why it was never consecrated. For its 80th anniversary it got a stamp of its own in 1982.",
+          "cs": "The Friedenskircherl stands at 1,898 m on the Stoderzinken in Styria. Emil von Horstig built it in 1902 for all faiths, which is why it was never consecrated. For its 80th anniversary it got a stamp of its own in 1982.",
+          "sk": "The Friedenskircherl stands at 1,898 m on the Stoderzinken in Styria. Emil von Horstig built it in 1902 for all faiths, which is why it was never consecrated. For its 80th anniversary it got a stamp of its own in 1982.",
+          "ro": "The Friedenskircherl stands at 1,898 m on the Stoderzinken in Styria. Emil von Horstig built it in 1902 for all faiths, which is why it was never consecrated. For its 80th anniversary it got a stamp of its own in 1982.",
+          "hu": "The Friedenskircherl stands at 1,898 m on the Stoderzinken in Styria. Emil von Horstig built it in 1902 for all faiths, which is why it was never consecrated. For its 80th anniversary it got a stamp of its own in 1982.",
+          "da": "The Friedenskircherl stands at 1,898 m on the Stoderzinken in Styria. Emil von Horstig built it in 1902 for all faiths, which is why it was never consecrated. For its 80th anniversary it got a stamp of its own in 1982."
+        }
+      ]
+    },
+    {
+      "id": "steinhof",
+      "type": "text",
+      "label": {
+        "en": "The church",
+        "de": "Die Kirche",
+        "fr": "L'église",
+        "it": "La chiesa",
+        "nl": "The church",
+        "pl": "The church",
+        "cs": "The church",
+        "sk": "The church",
+        "ro": "The church",
+        "hu": "The church",
+        "da": "The church"
+      },
+      "title": {
+        "en": "Otto Wagner's church for patients",
+        "de": "Otto Wagners Kirche für die Patienten",
+        "fr": "L'église d'Otto Wagner pour les patients",
+        "it": "La chiesa di Otto Wagner per i pazienti",
+        "nl": "Otto Wagner's church for patients",
+        "pl": "Otto Wagner's church for patients",
+        "cs": "Otto Wagner's church for patients",
+        "sk": "Otto Wagner's church for patients",
+        "ro": "Otto Wagner's church for patients",
+        "hu": "Otto Wagner's church for patients",
+        "da": "Otto Wagner's church for patients"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/da1d4fc93c2cd4f7/kirche-am-steinhof-bwag.jpg",
+          "width": 2000,
+          "credit": "Photo: C.Stadler/Bwag, CC BY-SA 4.0",
+          "height": 1333,
+          "caption": {
+            "en": "Kirche am Steinhof, Vienna",
+            "de": "Kirche am Steinhof, Wien",
+            "fr": "Kirche am Steinhof, Vienne",
+            "it": "Kirche am Steinhof, Vienna",
+            "nl": "Kirche am Steinhof, Vienna",
+            "pl": "Kirche am Steinhof, Vienna",
+            "cs": "Kirche am Steinhof, Vienna",
+            "sk": "Kirche am Steinhof, Vienna",
+            "ro": "Kirche am Steinhof, Vienna",
+            "hu": "Kirche am Steinhof, Vienna",
+            "da": "Kirche am Steinhof, Vienna"
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Penzing_(Wien)_-_Kirche_am_Steinhof_(8).JPG"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "Wagner planned the church around the patients who used it. It has a room for a doctor, toilets and emergency exits. The pews have no sharp corners. The floor slopes towards the altar. Holy water drips from a tap instead of standing in a basin, for hygiene.",
+          "de": "Wagner richtete die Kirche nach den Patienten aus, die sie benutzten. Es gibt einen Raum für einen Arzt, Toiletten und Notausgänge. Die Bänke haben keine scharfen Ecken. Der Boden fällt zum Altar hin ab. Das Weihwasser kommt aus hygienischen Gründen aus einem Hahn statt aus einem Becken.",
+          "fr": "Wagner a pensé l'église autour des patients qui l'utilisaient. Elle compte une pièce pour un médecin, des toilettes et des sorties de secours. Les bancs n'ont pas d'angles vifs. Le sol descend vers l'autel. Pour des raisons d'hygiène, l'eau bénite coule d'un robinet au lieu de stagner dans un bénitier.",
+          "it": "Wagner progettò la chiesa intorno ai pazienti che la usavano. C'è un locale per il medico, ci sono i servizi igienici e le uscite di emergenza. I banchi non hanno spigoli vivi. Il pavimento scende verso l'altare. Per motivi di igiene l'acqua santa gocciola da un rubinetto invece di restare in un'acquasantiera.",
+          "nl": "Wagner planned the church around the patients who used it. It has a room for a doctor, toilets and emergency exits. The pews have no sharp corners. The floor slopes towards the altar. Holy water drips from a tap instead of standing in a basin, for hygiene.",
+          "pl": "Wagner planned the church around the patients who used it. It has a room for a doctor, toilets and emergency exits. The pews have no sharp corners. The floor slopes towards the altar. Holy water drips from a tap instead of standing in a basin, for hygiene.",
+          "cs": "Wagner planned the church around the patients who used it. It has a room for a doctor, toilets and emergency exits. The pews have no sharp corners. The floor slopes towards the altar. Holy water drips from a tap instead of standing in a basin, for hygiene.",
+          "sk": "Wagner planned the church around the patients who used it. It has a room for a doctor, toilets and emergency exits. The pews have no sharp corners. The floor slopes towards the altar. Holy water drips from a tap instead of standing in a basin, for hygiene.",
+          "ro": "Wagner planned the church around the patients who used it. It has a room for a doctor, toilets and emergency exits. The pews have no sharp corners. The floor slopes towards the altar. Holy water drips from a tap instead of standing in a basin, for hygiene.",
+          "hu": "Wagner planned the church around the patients who used it. It has a room for a doctor, toilets and emergency exits. The pews have no sharp corners. The floor slopes towards the altar. Holy water drips from a tap instead of standing in a basin, for hygiene.",
+          "da": "Wagner planned the church around the patients who used it. It has a room for a doctor, toilets and emergency exits. The pews have no sharp corners. The floor slopes towards the altar. Holy water drips from a tap instead of standing in a basin, for hygiene."
+        },
+        {
+          "en": "Archduke Franz Ferdinand opened the church on 8 October 1907. In the restoration completed in 2006 the dome was gilded again with 2 kg of gold leaf.",
+          "de": "Erzherzog Franz Ferdinand eröffnete die Kirche am 8. Oktober 1907. Bei der 2006 abgeschlossenen Restaurierung wurde die Kuppel mit 2 kg Blattgold neu vergoldet.",
+          "fr": "L'archiduc François-Ferdinand a inauguré l'église le 8 octobre 1907. Lors de la restauration achevée en 2006, la coupole a été redorée avec 2 kg de feuille d'or.",
+          "it": "L'arciduca Francesco Ferdinando inaugurò la chiesa l'8 ottobre 1907. Con il restauro concluso nel 2006 la cupola è stata ridorata con 2 kg di foglia d'oro.",
+          "nl": "Archduke Franz Ferdinand opened the church on 8 October 1907. In the restoration completed in 2006 the dome was gilded again with 2 kg of gold leaf.",
+          "pl": "Archduke Franz Ferdinand opened the church on 8 October 1907. In the restoration completed in 2006 the dome was gilded again with 2 kg of gold leaf.",
+          "cs": "Archduke Franz Ferdinand opened the church on 8 October 1907. In the restoration completed in 2006 the dome was gilded again with 2 kg of gold leaf.",
+          "sk": "Archduke Franz Ferdinand opened the church on 8 October 1907. In the restoration completed in 2006 the dome was gilded again with 2 kg of gold leaf.",
+          "ro": "Archduke Franz Ferdinand opened the church on 8 October 1907. In the restoration completed in 2006 the dome was gilded again with 2 kg of gold leaf.",
+          "hu": "Archduke Franz Ferdinand opened the church on 8 October 1907. In the restoration completed in 2006 the dome was gilded again with 2 kg of gold leaf.",
+          "da": "Archduke Franz Ferdinand opened the church on 8 October 1907. In the restoration completed in 2006 the dome was gilded again with 2 kg of gold leaf."
+        }
+      ]
+    },
+    {
+      "id": "maler",
+      "date": {
+        "en": "1 September 2026",
+        "de": "1. September 2026",
+        "fr": "1er septembre 2026",
+        "it": "1° settembre 2026",
+        "nl": "1 September 2026",
+        "pl": "1 September 2026",
+        "cs": "1 September 2026",
+        "sk": "1 September 2026",
+        "ro": "1 September 2026",
+        "hu": "1 September 2026",
+        "da": "1 September 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Berühmte Maler 2026, 2 × €1.00",
+          "de": "Berühmte Maler 2026, 2 × 1,00 €",
+          "fr": "Berühmte Maler 2026, 2 × 1,00 €",
+          "it": "Berühmte Maler 2026, 2 × 1,00 €",
+          "nl": "Berühmte Maler 2026, 2 × €1.00",
+          "pl": "Berühmte Maler 2026, 2 × €1.00",
+          "cs": "Berühmte Maler 2026, 2 × €1.00",
+          "sk": "Berühmte Maler 2026, 2 × €1.00",
+          "ro": "Berühmte Maler 2026, 2 × €1.00",
+          "hu": "Berühmte Maler 2026, 2 × €1.00",
+          "da": "Berühmte Maler 2026, 2 × €1.00"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/a1f7f298dbd01874/at-2026-126683.png",
+          "width": 1000,
+          "height": 387
+        },
+        "country": "AT",
+        "stamp_id": "at-post-126683"
+      },
+      "title": {
+        "en": "Berühmte Maler 2026",
+        "de": "Berühmte Maler 2026",
+        "fr": "Berühmte Maler 2026",
+        "it": "Berühmte Maler 2026",
+        "nl": "Berühmte Maler 2026",
+        "pl": "Berühmte Maler 2026",
+        "cs": "Berühmte Maler 2026",
+        "sk": "Berühmte Maler 2026",
+        "ro": "Berühmte Maler 2026",
+        "hu": "Berühmte Maler 2026",
+        "da": "Berühmte Maler 2026"
+      },
+      "formats": [
+        {
+          "value": "€4.90",
+          "format": {
+            "en": "Marken Edition 2",
+            "de": "Marken Edition 2",
+            "fr": "Marken Edition 2",
+            "it": "Marken Edition 2",
+            "nl": "Marken Edition 2",
+            "pl": "Marken Edition 2",
+            "cs": "Marken Edition 2",
+            "sk": "Marken Edition 2",
+            "ro": "Marken Edition 2",
+            "hu": "Marken Edition 2",
+            "da": "Marken Edition 2"
+          }
+        },
+        {
+          "value": "€4.40",
+          "format": {
+            "en": "By subscription",
+            "de": "Im Abo",
+            "fr": "Par abonnement",
+            "it": "In abbonamento",
+            "nl": "By subscription",
+            "pl": "By subscription",
+            "cs": "By subscription",
+            "sk": "By subscription",
+            "ro": "By subscription",
+            "hu": "By subscription",
+            "da": "By subscription"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "The ME2 comes out once a quarter. This one holds two flower still lifes, one by Vincent van Gogh from 1886 and one by the Viennese painter Olga Wisinger-Florian. The shop lists 1,000 copies.",
+          "de": "Die ME2 erscheint einmal im Quartal. Diese Ausgabe enthält zwei Blumenstillleben, eines von Vincent van Gogh von 1886 und eines der Wiener Malerin Olga Wisinger-Florian. Der Shop nennt 1.000 Stück.",
+          "fr": "La ME2 paraît une fois par trimestre. Celle-ci réunit deux natures mortes de fleurs, l'une de Vincent van Gogh datée de 1886, l'autre de la peintre viennoise Olga Wisinger-Florian. La boutique annonce 1 000 exemplaires.",
+          "it": "La ME2 esce una volta a trimestre. Questa contiene due nature morte di fiori, una di Vincent van Gogh del 1886 e una della pittrice viennese Olga Wisinger-Florian. Il negozio indica 1.000 copie.",
+          "nl": "The ME2 comes out once a quarter. This one holds two flower still lifes, one by Vincent van Gogh from 1886 and one by the Viennese painter Olga Wisinger-Florian. The shop lists 1,000 copies.",
+          "pl": "The ME2 comes out once a quarter. This one holds two flower still lifes, one by Vincent van Gogh from 1886 and one by the Viennese painter Olga Wisinger-Florian. The shop lists 1,000 copies.",
+          "cs": "The ME2 comes out once a quarter. This one holds two flower still lifes, one by Vincent van Gogh from 1886 and one by the Viennese painter Olga Wisinger-Florian. The shop lists 1,000 copies.",
+          "sk": "The ME2 comes out once a quarter. This one holds two flower still lifes, one by Vincent van Gogh from 1886 and one by the Viennese painter Olga Wisinger-Florian. The shop lists 1,000 copies.",
+          "ro": "The ME2 comes out once a quarter. This one holds two flower still lifes, one by Vincent van Gogh from 1886 and one by the Viennese painter Olga Wisinger-Florian. The shop lists 1,000 copies.",
+          "hu": "The ME2 comes out once a quarter. This one holds two flower still lifes, one by Vincent van Gogh from 1886 and one by the Viennese painter Olga Wisinger-Florian. The shop lists 1,000 copies.",
+          "da": "The ME2 comes out once a quarter. This one holds two flower still lifes, one by Vincent van Gogh from 1886 and one by the Viennese painter Olga Wisinger-Florian. The shop lists 1,000 copies."
+        },
+        {
+          "en": "Wisinger-Florian (1844 to 1926) first trained as a concert pianist. She gave it up in 1874 because of a problem with her hand and turned to painting. She became one of Austria's Impressionist painters of landscapes and flowers. In April 2026 the Post also put her painting «Sommerabend» of 1896 on a special stamp.",
+          "de": "Wisinger-Florian (1844 bis 1926) ließ sich zuerst zur Konzertpianistin ausbilden. 1874 gab sie das wegen eines Handleidens auf und wandte sich der Malerei zu. Sie wurde eine der österreichischen Impressionistinnen und malte Landschaften und Blumen. Im April 2026 brachte die Post auch ihr Bild „Sommerabend“ von 1896 auf eine Sondermarke.",
+          "fr": "Wisinger-Florian (1844-1926) a d'abord été formée comme pianiste de concert. Elle y a renoncé en 1874 à cause d'un problème à la main et s'est tournée vers la peinture. Elle a compté parmi les peintres impressionnistes autrichiens de paysages et de fleurs. En avril 2026, la Poste a aussi repris son tableau « Sommerabend » de 1896 sur un timbre spécial.",
+          "it": "Wisinger-Florian (1844-1926) si era formata come pianista da concerto. Nel 1874 lasciò la musica per un problema a una mano e passò alla pittura. Divenne una delle pittrici impressioniste austriache di paesaggi e fiori. Nell'aprile 2026 la Posta ha messo su un francobollo speciale anche il suo quadro \"Sommerabend\" del 1896.",
+          "nl": "Wisinger-Florian (1844 to 1926) first trained as a concert pianist. She gave it up in 1874 because of a problem with her hand and turned to painting. She became one of Austria's Impressionist painters of landscapes and flowers. In April 2026 the Post also put her painting «Sommerabend» of 1896 on a special stamp.",
+          "pl": "Wisinger-Florian (1844 to 1926) first trained as a concert pianist. She gave it up in 1874 because of a problem with her hand and turned to painting. She became one of Austria's Impressionist painters of landscapes and flowers. In April 2026 the Post also put her painting «Sommerabend» of 1896 on a special stamp.",
+          "cs": "Wisinger-Florian (1844 to 1926) first trained as a concert pianist. She gave it up in 1874 because of a problem with her hand and turned to painting. She became one of Austria's Impressionist painters of landscapes and flowers. In April 2026 the Post also put her painting «Sommerabend» of 1896 on a special stamp.",
+          "sk": "Wisinger-Florian (1844 to 1926) first trained as a concert pianist. She gave it up in 1874 because of a problem with her hand and turned to painting. She became one of Austria's Impressionist painters of landscapes and flowers. In April 2026 the Post also put her painting «Sommerabend» of 1896 on a special stamp.",
+          "ro": "Wisinger-Florian (1844 to 1926) first trained as a concert pianist. She gave it up in 1874 because of a problem with her hand and turned to painting. She became one of Austria's Impressionist painters of landscapes and flowers. In April 2026 the Post also put her painting «Sommerabend» of 1896 on a special stamp.",
+          "hu": "Wisinger-Florian (1844 to 1926) first trained as a concert pianist. She gave it up in 1874 because of a problem with her hand and turned to painting. She became one of Austria's Impressionist painters of landscapes and flowers. In April 2026 the Post also put her painting «Sommerabend» of 1896 on a special stamp.",
+          "da": "Wisinger-Florian (1844 to 1926) first trained as a concert pianist. She gave it up in 1874 because of a problem with her hand and turned to painting. She became one of Austria's Impressionist painters of landscapes and flowers. In April 2026 the Post also put her painting «Sommerabend» of 1896 on a special stamp."
+        }
+      ]
+    },
+    {
+      "id": "folders",
+      "date": {
+        "en": "1 September 2026",
+        "de": "1. September 2026",
+        "fr": "1er septembre 2026",
+        "it": "1° settembre 2026",
+        "nl": "1 September 2026",
+        "pl": "1 September 2026",
+        "cs": "1 September 2026",
+        "sk": "1 September 2026",
+        "ro": "1 September 2026",
+        "hu": "1 September 2026",
+        "da": "1 September 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Tiere der Alpen, 20 stamps",
+          "de": "Tiere der Alpen, 20 Marken",
+          "fr": "Tiere der Alpen, 20 timbres",
+          "it": "Tiere der Alpen, 20 francobolli",
+          "nl": "Tiere der Alpen, 20 stamps",
+          "pl": "Tiere der Alpen, 20 stamps",
+          "cs": "Tiere der Alpen, 20 stamps",
+          "sk": "Tiere der Alpen, 20 stamps",
+          "ro": "Tiere der Alpen, 20 stamps",
+          "hu": "Tiere der Alpen, 20 stamps",
+          "da": "Tiere der Alpen, 20 stamps"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/976250e5bc20e2d9/at-2026-126610.png",
+          "width": 710,
+          "height": 1000
+        },
+        "country": "AT",
+        "stamp_id": "at-post-126610"
+      },
+      "title": {
+        "en": "The folders of 1 September",
+        "de": "Die Folder vom 1. September",
+        "fr": "Les livrets du 1er septembre",
+        "it": "I folder del 1° settembre",
+        "nl": "The folders of 1 September",
+        "pl": "The folders of 1 September",
+        "cs": "The folders of 1 September",
+        "sk": "The folders of 1 September",
+        "ro": "The folders of 1 September",
+        "hu": "The folders of 1 September",
+        "da": "The folders of 1 September"
+      },
+      "formats": [
+        {
+          "value": "€26.20",
+          "format": {
+            "en": "Die Kunst des Barock (ME20)",
+            "de": "Die Kunst des Barock (ME20)",
+            "fr": "Die Kunst des Barock (ME20)",
+            "it": "Die Kunst des Barock (ME20)",
+            "nl": "Die Kunst des Barock (ME20)",
+            "pl": "Die Kunst des Barock (ME20)",
+            "cs": "Die Kunst des Barock (ME20)",
+            "sk": "Die Kunst des Barock (ME20)",
+            "ro": "Die Kunst des Barock (ME20)",
+            "hu": "Die Kunst des Barock (ME20)",
+            "da": "Die Kunst des Barock (ME20)"
+          }
+        },
+        {
+          "value": "€26.20",
+          "format": {
+            "en": "Tiere der Alpen (ME20)",
+            "de": "Tiere der Alpen (ME20)",
+            "fr": "Tiere der Alpen (ME20)",
+            "it": "Tiere der Alpen (ME20)",
+            "nl": "Tiere der Alpen (ME20)",
+            "pl": "Tiere der Alpen (ME20)",
+            "cs": "Tiere der Alpen (ME20)",
+            "sk": "Tiere der Alpen (ME20)",
+            "ro": "Tiere der Alpen (ME20)",
+            "hu": "Tiere der Alpen (ME20)",
+            "da": "Tiere der Alpen (ME20)"
+          }
+        },
+        {
+          "value": "€13.10",
+          "format": {
+            "en": "Franz von Assisi (ME8)",
+            "de": "Franz von Assisi (ME8)",
+            "fr": "Franz von Assisi (ME8)",
+            "it": "Franz von Assisi (ME8)",
+            "nl": "Franz von Assisi (ME8)",
+            "pl": "Franz von Assisi (ME8)",
+            "cs": "Franz von Assisi (ME8)",
+            "sk": "Franz von Assisi (ME8)",
+            "ro": "Franz von Assisi (ME8)",
+            "hu": "Franz von Assisi (ME8)",
+            "da": "Franz von Assisi (ME8)"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "On 1 September the Post issued three editions in folders. «Die Kunst des Barock» and «Tiere der Alpen» each hold 20 stamps worth €21.25 in total. «Franz von Assisi» holds eight stamps worth €9.00. The shop lists 1,000 copies of each ME20 and 1,500 of the ME8.",
+          "de": "Am 1. September gab die Post drei Editionen im Folder heraus. „Die Kunst des Barock“ und „Tiere der Alpen“ enthalten je 20 Marken mit einem Nennwert von zusammen 21,25 €. „Franz von Assisi“ enthält acht Marken im Nennwert von 9,00 €. Der Shop nennt je 1.000 Stück für die beiden ME20 und 1.500 für die ME8.",
+          "fr": "Le 1er septembre, la Poste a sorti trois éditions en livret. « Die Kunst des Barock » et « Tiere der Alpen » contiennent chacune 20 timbres, pour une valeur totale de 21,25 €. « Franz von Assisi » en contient huit, pour 9,00 €. La boutique annonce 1 000 exemplaires de chaque ME20 et 1 500 de la ME8.",
+          "it": "Il 1° settembre la Posta ha emesso tre edizioni in folder. \"Die Kunst des Barock\" e \"Tiere der Alpen\" contengono ciascuna 20 francobolli per un valore facciale di 21,25 €. \"Franz von Assisi\" contiene otto francobolli per 9,00 €. Il negozio indica 1.000 copie per ogni ME20 e 1.500 per la ME8.",
+          "nl": "On 1 September the Post issued three editions in folders. «Die Kunst des Barock» and «Tiere der Alpen» each hold 20 stamps worth €21.25 in total. «Franz von Assisi» holds eight stamps worth €9.00. The shop lists 1,000 copies of each ME20 and 1,500 of the ME8.",
+          "pl": "On 1 September the Post issued three editions in folders. «Die Kunst des Barock» and «Tiere der Alpen» each hold 20 stamps worth €21.25 in total. «Franz von Assisi» holds eight stamps worth €9.00. The shop lists 1,000 copies of each ME20 and 1,500 of the ME8.",
+          "cs": "On 1 September the Post issued three editions in folders. «Die Kunst des Barock» and «Tiere der Alpen» each hold 20 stamps worth €21.25 in total. «Franz von Assisi» holds eight stamps worth €9.00. The shop lists 1,000 copies of each ME20 and 1,500 of the ME8.",
+          "sk": "On 1 September the Post issued three editions in folders. «Die Kunst des Barock» and «Tiere der Alpen» each hold 20 stamps worth €21.25 in total. «Franz von Assisi» holds eight stamps worth €9.00. The shop lists 1,000 copies of each ME20 and 1,500 of the ME8.",
+          "ro": "On 1 September the Post issued three editions in folders. «Die Kunst des Barock» and «Tiere der Alpen» each hold 20 stamps worth €21.25 in total. «Franz von Assisi» holds eight stamps worth €9.00. The shop lists 1,000 copies of each ME20 and 1,500 of the ME8.",
+          "hu": "On 1 September the Post issued three editions in folders. «Die Kunst des Barock» and «Tiere der Alpen» each hold 20 stamps worth €21.25 in total. «Franz von Assisi» holds eight stamps worth €9.00. The shop lists 1,000 copies of each ME20 and 1,500 of the ME8.",
+          "da": "On 1 September the Post issued three editions in folders. «Die Kunst des Barock» and «Tiere der Alpen» each hold 20 stamps worth €21.25 in total. «Franz von Assisi» holds eight stamps worth €9.00. The shop lists 1,000 copies of each ME20 and 1,500 of the ME8."
+        },
+        {
+          "en": "The cover of the baroque edition shows Vermeer's «Girl with a Pearl Earring» from the Mauritshuis in The Hague. By 12 October this edition had gone from the online shop.",
+          "de": "Auf dem Umschlag der Barock-Edition ist Vermeers „Mädchen mit dem Perlenohrring“ aus dem Mauritshuis in Den Haag zu sehen. Bis zum 12. Oktober war diese Edition aus dem Onlineshop verschwunden.",
+          "fr": "La couverture de l'édition baroque montre « La Jeune Fille à la perle » de Vermeer, conservée au Mauritshuis de La Haye. Le 12 octobre, cette édition avait disparu de la boutique en ligne.",
+          "it": "La copertina dell'edizione barocca mostra la \"Ragazza con l'orecchino di perla\" di Vermeer, conservata al Mauritshuis dell'Aia. Entro il 12 ottobre questa edizione era sparita dal negozio online.",
+          "nl": "The cover of the baroque edition shows Vermeer's «Girl with a Pearl Earring» from the Mauritshuis in The Hague. By 12 October this edition had gone from the online shop.",
+          "pl": "The cover of the baroque edition shows Vermeer's «Girl with a Pearl Earring» from the Mauritshuis in The Hague. By 12 October this edition had gone from the online shop.",
+          "cs": "The cover of the baroque edition shows Vermeer's «Girl with a Pearl Earring» from the Mauritshuis in The Hague. By 12 October this edition had gone from the online shop.",
+          "sk": "The cover of the baroque edition shows Vermeer's «Girl with a Pearl Earring» from the Mauritshuis in The Hague. By 12 October this edition had gone from the online shop.",
+          "ro": "The cover of the baroque edition shows Vermeer's «Girl with a Pearl Earring» from the Mauritshuis in The Hague. By 12 October this edition had gone from the online shop.",
+          "hu": "The cover of the baroque edition shows Vermeer's «Girl with a Pearl Earring» from the Mauritshuis in The Hague. By 12 October this edition had gone from the online shop.",
+          "da": "The cover of the baroque edition shows Vermeer's «Girl with a Pearl Earring» from the Mauritshuis in The Hague. By 12 October this edition had gone from the online shop."
+        },
+        {
+          "en": "In «Tiere der Alpen» fifteen stamps carry 1.00 and five carry 1.25. A marmot is on the folder.",
+          "de": "Bei „Tiere der Alpen“ tragen fünfzehn Marken den Nennwert 1,00 € und fünf den Nennwert 1,25 €. Auf dem Folder ist ein Murmeltier zu sehen.",
+          "fr": "Dans « Tiere der Alpen », quinze timbres sont à 1,00 € et cinq à 1,25 €. Une marmotte figure sur le livret.",
+          "it": "In \"Tiere der Alpen\" quindici francobolli hanno valore 1,00 e cinque 1,25. Sul folder c'è una marmotta.",
+          "nl": "In «Tiere der Alpen» fifteen stamps carry 1.00 and five carry 1.25. A marmot is on the folder.",
+          "pl": "In «Tiere der Alpen» fifteen stamps carry 1.00 and five carry 1.25. A marmot is on the folder.",
+          "cs": "In «Tiere der Alpen» fifteen stamps carry 1.00 and five carry 1.25. A marmot is on the folder.",
+          "sk": "In «Tiere der Alpen» fifteen stamps carry 1.00 and five carry 1.25. A marmot is on the folder.",
+          "ro": "In «Tiere der Alpen» fifteen stamps carry 1.00 and five carry 1.25. A marmot is on the folder.",
+          "hu": "In «Tiere der Alpen» fifteen stamps carry 1.00 and five carry 1.25. A marmot is on the folder.",
+          "da": "In «Tiere der Alpen» fifteen stamps carry 1.00 and five carry 1.25. A marmot is on the folder."
+        },
+        {
+          "en": "The Francis edition has four stamps at 1.00 and four at 1.25. Its folder shows the Basilica of San Francesco in Assisi. Francis died on 3 October 1226, so the edition came out in the year of the 800th anniversary of his death.",
+          "de": "Die Franziskus-Edition hat vier Marken zu 1,00 € und vier zu 1,25 €. Ihr Folder zeigt die Basilika San Francesco in Assisi. Franziskus starb am 3. Oktober 1226, die Edition erschien also im Jahr des 800. Todestags.",
+          "fr": "L'édition consacrée à François compte quatre timbres à 1,00 € et quatre à 1,25 €. Son livret montre la basilique Saint-François d'Assise. François est mort le 3 octobre 1226 : l'édition paraît donc l'année du 800e anniversaire de sa mort.",
+          "it": "L'edizione su Francesco ha quattro francobolli da 1,00 e quattro da 1,25. Il suo folder mostra la basilica di San Francesco ad Assisi. Francesco morì il 3 ottobre 1226, così l'edizione è uscita nell'anno degli 800 anni dalla sua morte.",
+          "nl": "The Francis edition has four stamps at 1.00 and four at 1.25. Its folder shows the Basilica of San Francesco in Assisi. Francis died on 3 October 1226, so the edition came out in the year of the 800th anniversary of his death.",
+          "pl": "The Francis edition has four stamps at 1.00 and four at 1.25. Its folder shows the Basilica of San Francesco in Assisi. Francis died on 3 October 1226, so the edition came out in the year of the 800th anniversary of his death.",
+          "cs": "The Francis edition has four stamps at 1.00 and four at 1.25. Its folder shows the Basilica of San Francesco in Assisi. Francis died on 3 October 1226, so the edition came out in the year of the 800th anniversary of his death.",
+          "sk": "The Francis edition has four stamps at 1.00 and four at 1.25. Its folder shows the Basilica of San Francesco in Assisi. Francis died on 3 October 1226, so the edition came out in the year of the 800th anniversary of his death.",
+          "ro": "The Francis edition has four stamps at 1.00 and four at 1.25. Its folder shows the Basilica of San Francesco in Assisi. Francis died on 3 October 1226, so the edition came out in the year of the 800th anniversary of his death.",
+          "hu": "The Francis edition has four stamps at 1.00 and four at 1.25. Its folder shows the Basilica of San Francesco in Assisi. Francis died on 3 October 1226, so the edition came out in the year of the 800th anniversary of his death.",
+          "da": "The Francis edition has four stamps at 1.00 and four at 1.25. Its folder shows the Basilica of San Francesco in Assisi. Francis died on 3 October 1226, so the edition came out in the year of the 800th anniversary of his death."
+        }
+      ]
+    },
+    {
+      "id": "tierwelt",
+      "date": {
+        "en": "1 October 2026",
+        "de": "1. Oktober 2026",
+        "fr": "1er octobre 2026",
+        "it": "1° ottobre 2026",
+        "nl": "1 October 2026",
+        "pl": "1 October 2026",
+        "cs": "1 October 2026",
+        "sk": "1 October 2026",
+        "ro": "1 October 2026",
+        "hu": "1 October 2026",
+        "da": "1 October 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Heimische Tierwelt, 4 × €1.00",
+          "de": "Heimische Tierwelt, 4 × 1,00 €",
+          "fr": "Heimische Tierwelt, 4 × 1,00 €",
+          "it": "Heimische Tierwelt, 4 × 1,00 €",
+          "nl": "Heimische Tierwelt, 4 × €1.00",
+          "pl": "Heimische Tierwelt, 4 × €1.00",
+          "cs": "Heimische Tierwelt, 4 × €1.00",
+          "sk": "Heimische Tierwelt, 4 × €1.00",
+          "ro": "Heimische Tierwelt, 4 × €1.00",
+          "hu": "Heimische Tierwelt, 4 × €1.00",
+          "da": "Heimische Tierwelt, 4 × €1.00"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/37b1592b4891dd04/at-2026-126670.png",
+          "width": 1000,
+          "height": 656
+        },
+        "country": "AT",
+        "stamp_id": "at-post-126670"
+      },
+      "title": {
+        "en": "Heimische Tierwelt",
+        "de": "Heimische Tierwelt",
+        "fr": "Heimische Tierwelt",
+        "it": "Heimische Tierwelt",
+        "nl": "Heimische Tierwelt",
+        "pl": "Heimische Tierwelt",
+        "cs": "Heimische Tierwelt",
+        "sk": "Heimische Tierwelt",
+        "ro": "Heimische Tierwelt",
+        "hu": "Heimische Tierwelt",
+        "da": "Heimische Tierwelt"
+      },
+      "formats": [
+        {
+          "value": "€6.70",
+          "format": {
+            "en": "Marken Edition 4",
+            "de": "Marken Edition 4",
+            "fr": "Marken Edition 4",
+            "it": "Marken Edition 4",
+            "nl": "Marken Edition 4",
+            "pl": "Marken Edition 4",
+            "cs": "Marken Edition 4",
+            "sk": "Marken Edition 4",
+            "ro": "Marken Edition 4",
+            "hu": "Marken Edition 4",
+            "da": "Marken Edition 4"
+          }
+        },
+        {
+          "value": "€5.70",
+          "format": {
+            "en": "By subscription",
+            "de": "Im Abo",
+            "fr": "Par abonnement",
+            "it": "In abbonamento",
+            "nl": "By subscription",
+            "pl": "By subscription",
+            "cs": "By subscription",
+            "sk": "By subscription",
+            "ro": "By subscription",
+            "hu": "By subscription",
+            "da": "By subscription"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "The October ME4 in the series «Heimische Tierwelt» shows the natterjack toad, the spoonbill, the red-tailed bumblebee and the capercaillie. The shop lists 1,000 copies.",
+          "de": "Die Oktober-ME4 aus der Serie „Heimische Tierwelt“ zeigt Kreuzkröte, Löffler, Steinhummel und Auerhuhn. Der Shop nennt 1.000 Stück.",
+          "fr": "La ME4 d'octobre, dans la série « Heimische Tierwelt », montre le crapaud calamite, la spatule blanche, le bourdon des pierres et le grand tétras. La boutique annonce 1 000 exemplaires.",
+          "it": "La ME4 di ottobre, della serie \"Heimische Tierwelt\", mostra il rospo calamita, la spatola, il bombo delle pietre e il gallo cedrone. Il negozio indica 1.000 copie.",
+          "nl": "The October ME4 in the series «Heimische Tierwelt» shows the natterjack toad, the spoonbill, the red-tailed bumblebee and the capercaillie. The shop lists 1,000 copies.",
+          "pl": "The October ME4 in the series «Heimische Tierwelt» shows the natterjack toad, the spoonbill, the red-tailed bumblebee and the capercaillie. The shop lists 1,000 copies.",
+          "cs": "The October ME4 in the series «Heimische Tierwelt» shows the natterjack toad, the spoonbill, the red-tailed bumblebee and the capercaillie. The shop lists 1,000 copies.",
+          "sk": "The October ME4 in the series «Heimische Tierwelt» shows the natterjack toad, the spoonbill, the red-tailed bumblebee and the capercaillie. The shop lists 1,000 copies.",
+          "ro": "The October ME4 in the series «Heimische Tierwelt» shows the natterjack toad, the spoonbill, the red-tailed bumblebee and the capercaillie. The shop lists 1,000 copies.",
+          "hu": "The October ME4 in the series «Heimische Tierwelt» shows the natterjack toad, the spoonbill, the red-tailed bumblebee and the capercaillie. The shop lists 1,000 copies.",
+          "da": "The October ME4 in the series «Heimische Tierwelt» shows the natterjack toad, the spoonbill, the red-tailed bumblebee and the capercaillie. The shop lists 1,000 copies."
+        },
+        {
+          "en": "The natterjack toad is strictly protected across the EU. A chorus of its males can be heard almost two kilometres away.",
+          "de": "Die Kreuzkröte ist EU-weit streng geschützt. Ein Chor ihrer Männchen ist fast zwei Kilometer weit zu hören.",
+          "fr": "Le crapaud calamite est strictement protégé dans toute l'UE. Le chœur des mâles s'entend à près de deux kilomètres.",
+          "it": "Il rospo calamita è rigorosamente protetto in tutta l'UE. Il coro dei maschi si sente fino a quasi due chilometri di distanza.",
+          "nl": "The natterjack toad is strictly protected across the EU. A chorus of its males can be heard almost two kilometres away.",
+          "pl": "The natterjack toad is strictly protected across the EU. A chorus of its males can be heard almost two kilometres away.",
+          "cs": "The natterjack toad is strictly protected across the EU. A chorus of its males can be heard almost two kilometres away.",
+          "sk": "The natterjack toad is strictly protected across the EU. A chorus of its males can be heard almost two kilometres away.",
+          "ro": "The natterjack toad is strictly protected across the EU. A chorus of its males can be heard almost two kilometres away.",
+          "hu": "The natterjack toad is strictly protected across the EU. A chorus of its males can be heard almost two kilometres away.",
+          "da": "The natterjack toad is strictly protected across the EU. A chorus of its males can be heard almost two kilometres away."
+        },
+        {
+          "en": "The spoonbill has been breeding again in eastern Austria since the 1990s. The red-tailed bumblebee was Insect of the Year 2005 in Germany and Austria. A stable population of capercaillie needs about 50,000 hectares of connected forest.",
+          "de": "Der Löffler brütet seit den 1990er-Jahren wieder im Osten Österreichs. Die Steinhummel war 2005 in Deutschland und Österreich Insekt des Jahres. Ein stabiler Bestand an Auerhühnern braucht rund 50.000 Hektar zusammenhängenden Wald.",
+          "fr": "La spatule blanche niche de nouveau dans l'est de l'Autriche depuis les années 1990. Le bourdon des pierres a été élu insecte de l'année 2005 en Allemagne et en Autriche. Une population stable de grands tétras a besoin d'environ 50 000 hectares de forêt d'un seul tenant.",
+          "it": "Dagli anni Novanta la spatola nidifica di nuovo nell'Austria orientale. Il bombo delle pietre è stato insetto dell'anno 2005 in Germania e in Austria. Una popolazione stabile di galli cedroni ha bisogno di circa 50.000 ettari di bosco continuo.",
+          "nl": "The spoonbill has been breeding again in eastern Austria since the 1990s. The red-tailed bumblebee was Insect of the Year 2005 in Germany and Austria. A stable population of capercaillie needs about 50,000 hectares of connected forest.",
+          "pl": "The spoonbill has been breeding again in eastern Austria since the 1990s. The red-tailed bumblebee was Insect of the Year 2005 in Germany and Austria. A stable population of capercaillie needs about 50,000 hectares of connected forest.",
+          "cs": "The spoonbill has been breeding again in eastern Austria since the 1990s. The red-tailed bumblebee was Insect of the Year 2005 in Germany and Austria. A stable population of capercaillie needs about 50,000 hectares of connected forest.",
+          "sk": "The spoonbill has been breeding again in eastern Austria since the 1990s. The red-tailed bumblebee was Insect of the Year 2005 in Germany and Austria. A stable population of capercaillie needs about 50,000 hectares of connected forest.",
+          "ro": "The spoonbill has been breeding again in eastern Austria since the 1990s. The red-tailed bumblebee was Insect of the Year 2005 in Germany and Austria. A stable population of capercaillie needs about 50,000 hectares of connected forest.",
+          "hu": "The spoonbill has been breeding again in eastern Austria since the 1990s. The red-tailed bumblebee was Insect of the Year 2005 in Germany and Austria. A stable population of capercaillie needs about 50,000 hectares of connected forest.",
+          "da": "The spoonbill has been breeding again in eastern Austria since the 1990s. The red-tailed bumblebee was Insect of the Year 2005 in Germany and Austria. A stable population of capercaillie needs about 50,000 hectares of connected forest."
+        }
+      ]
+    },
+    {
+      "id": "ordering",
+      "rows": [
+        {
+          "label": {
+            "en": "Online shop",
+            "de": "Onlineshop",
+            "fr": "Boutique en ligne",
+            "it": "Negozio online",
+            "nl": "Online shop",
+            "pl": "Online shop",
+            "cs": "Online shop",
+            "sk": "Online shop",
+            "ro": "Online shop",
+            "hu": "Online shop",
+            "da": "Online shop"
+          },
+          "value": {
+            "en": "onlineshop.post.at",
+            "de": "onlineshop.post.at",
+            "fr": "onlineshop.post.at",
+            "it": "onlineshop.post.at",
+            "nl": "onlineshop.post.at",
+            "pl": "onlineshop.post.at",
+            "cs": "onlineshop.post.at",
+            "sk": "onlineshop.post.at",
+            "ro": "onlineshop.post.at",
+            "hu": "onlineshop.post.at",
+            "da": "onlineshop.post.at"
+          }
+        },
+        {
+          "label": {
+            "en": "Sammler-Service",
+            "de": "Sammler-Service",
+            "fr": "Sammler-Service",
+            "it": "Sammler-Service",
+            "nl": "Sammler-Service",
+            "pl": "Sammler-Service",
+            "cs": "Sammler-Service",
+            "sk": "Sammler-Service",
+            "ro": "Sammler-Service",
+            "hu": "Sammler-Service",
+            "da": "Sammler-Service"
+          },
+          "value": {
+            "en": "Steinheilgasse 1, 1210 Wien",
+            "de": "Steinheilgasse 1, 1210 Wien",
+            "fr": "Steinheilgasse 1, 1210 Wien",
+            "it": "Steinheilgasse 1, 1210 Wien",
+            "nl": "Steinheilgasse 1, 1210 Wien",
+            "pl": "Steinheilgasse 1, 1210 Wien",
+            "cs": "Steinheilgasse 1, 1210 Wien",
+            "sk": "Steinheilgasse 1, 1210 Wien",
+            "ro": "Steinheilgasse 1, 1210 Wien",
+            "hu": "Steinheilgasse 1, 1210 Wien",
+            "da": "Steinheilgasse 1, 1210 Wien"
+          }
+        },
+        {
+          "label": {
+            "en": "Phone",
+            "de": "Telefon",
+            "fr": "Téléphone",
+            "it": "Telefono",
+            "nl": "Phone",
+            "pl": "Phone",
+            "cs": "Phone",
+            "sk": "Phone",
+            "ro": "Phone",
+            "hu": "Phone",
+            "da": "Phone"
+          },
+          "value": {
+            "en": "+43 57767 95095",
+            "de": "+43 57767 95095",
+            "fr": "+43 57767 95095",
+            "it": "+43 57767 95095",
+            "nl": "+43 57767 95095",
+            "pl": "+43 57767 95095",
+            "cs": "+43 57767 95095",
+            "sk": "+43 57767 95095",
+            "ro": "+43 57767 95095",
+            "hu": "+43 57767 95095",
+            "da": "+43 57767 95095"
+          }
+        },
+        {
+          "label": {
+            "en": "Email",
+            "de": "E-Mail",
+            "fr": "E-mail",
+            "it": "Email",
+            "nl": "Email",
+            "pl": "Email",
+            "cs": "Email",
+            "sk": "Email",
+            "ro": "Email",
+            "hu": "Email",
+            "da": "Email"
+          },
+          "value": {
+            "en": "sammler-service@post.at",
+            "de": "sammler-service@post.at",
+            "fr": "sammler-service@post.at",
+            "it": "sammler-service@post.at",
+            "nl": "sammler-service@post.at",
+            "pl": "sammler-service@post.at",
+            "cs": "sammler-service@post.at",
+            "sk": "sammler-service@post.at",
+            "ro": "sammler-service@post.at",
+            "hu": "sammler-service@post.at",
+            "da": "sammler-service@post.at"
+          }
+        },
+        {
+          "label": {
+            "en": "Hours",
+            "de": "Öffnungszeiten",
+            "fr": "Horaires",
+            "it": "Orari",
+            "nl": "Hours",
+            "pl": "Hours",
+            "cs": "Hours",
+            "sk": "Hours",
+            "ro": "Hours",
+            "hu": "Hours",
+            "da": "Hours"
+          },
+          "value": {
+            "en": "Monday to Friday, 8:00 to 16:00",
+            "de": "Montag bis Freitag, 8:00 bis 16:00 Uhr",
+            "fr": "Du lundi au vendredi, de 8 h à 16 h",
+            "it": "Da lunedì a venerdì, dalle 8.00 alle 16.00",
+            "nl": "Monday to Friday, 8:00 to 16:00",
+            "pl": "Monday to Friday, 8:00 to 16:00",
+            "cs": "Monday to Friday, 8:00 to 16:00",
+            "sk": "Monday to Friday, 8:00 to 16:00",
+            "ro": "Monday to Friday, 8:00 to 16:00",
+            "hu": "Monday to Friday, 8:00 to 16:00",
+            "da": "Monday to Friday, 8:00 to 16:00"
+          }
+        },
+        {
+          "label": {
+            "en": "Subscription",
+            "de": "Abo",
+            "fr": "Abonnement",
+            "it": "Abbonamento",
+            "nl": "Subscription",
+            "pl": "Subscription",
+            "cs": "Subscription",
+            "sk": "Subscription",
+            "ro": "Subscription",
+            "hu": "Subscription",
+            "da": "Subscription"
+          },
+          "value": {
+            "en": "One subscription per edition type",
+            "de": "Ein Abo je Editionstyp",
+            "fr": "Un abonnement par type d'édition",
+            "it": "Un abbonamento per ogni tipo di edizione",
+            "nl": "One subscription per edition type",
+            "pl": "One subscription per edition type",
+            "cs": "One subscription per edition type",
+            "sk": "One subscription per edition type",
+            "ro": "One subscription per edition type",
+            "hu": "One subscription per edition type",
+            "da": "One subscription per edition type"
+          }
+        },
+        {
+          "label": {
+            "en": "Sale period",
+            "de": "Verkaufszeitraum",
+            "fr": "Période de vente",
+            "it": "Periodo di vendita",
+            "nl": "Sale period",
+            "pl": "Sale period",
+            "cs": "Sale period",
+            "sk": "Sale period",
+            "ro": "Sale period",
+            "hu": "Sale period",
+            "da": "Sale period"
+          },
+          "value": {
+            "en": "While stock lasts",
+            "de": "Solange der Vorrat reicht",
+            "fr": "Jusqu'à épuisement des stocks",
+            "it": "Fino a esaurimento scorte",
+            "nl": "While stock lasts",
+            "pl": "While stock lasts",
+            "cs": "While stock lasts",
+            "sk": "While stock lasts",
+            "ro": "While stock lasts",
+            "hu": "While stock lasts",
+            "da": "While stock lasts"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "Ordering",
+        "de": "Bestellen",
+        "fr": "Commander",
+        "it": "Ordini",
+        "nl": "Ordering",
+        "pl": "Ordering",
+        "cs": "Ordering",
+        "sk": "Ordering",
+        "ro": "Ordering",
+        "hu": "Ordering",
+        "da": "Ordering"
+      },
+      "title": {
+        "en": "Where to order",
+        "de": "Wo es die Editionen gibt",
+        "fr": "Où commander",
+        "it": "Dove ordinare",
+        "nl": "Where to order",
+        "pl": "Where to order",
+        "cs": "Where to order",
+        "sk": "Where to order",
+        "ro": "Where to order",
+        "hu": "Where to order",
+        "da": "Where to order"
+      },
+      "buttons": [
+        {
+          "href": "https://onlineshop.post.at",
+          "label": {
+            "en": "Österreichische Post online shop",
+            "de": "Onlineshop der Österreichischen Post",
+            "fr": "Boutique en ligne de l'Österreichische Post",
+            "it": "Negozio online di Österreichische Post",
+            "nl": "Österreichische Post online shop",
+            "pl": "Österreichische Post online shop",
+            "cs": "Österreichische Post online shop",
+            "sk": "Österreichische Post online shop",
+            "ro": "Österreichische Post online shop",
+            "hu": "Österreichische Post online shop",
+            "da": "Österreichische Post online shop"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stampiq",
+      "text": {
+        "en": "The Marken Edition stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "de": "Die Marken der Marken Edition sind noch nicht in StampIQ. Wir nehmen sie später in den Katalog auf.",
+        "fr": "Les timbres de la Marken Edition ne sont pas encore dans StampIQ. Nous les ajouterons plus tard au catalogue.",
+        "it": "I francobolli della Marken Edition non sono ancora in StampIQ. Li aggiungeremo al catalogo più avanti.",
+        "nl": "The Marken Edition stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "pl": "The Marken Edition stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "cs": "The Marken Edition stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "sk": "The Marken Edition stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "ro": "The Marken Edition stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "hu": "The Marken Edition stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "da": "The Marken Edition stamps are not in StampIQ yet. We add them to the catalogue later."
+      },
+      "type": "note"
+    }
+  ]
+}

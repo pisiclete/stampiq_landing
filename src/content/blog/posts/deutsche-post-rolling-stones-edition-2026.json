@@ -1,0 +1,713 @@
+{
+  "category": "new-issues",
+  "markets": [
+    "CH",
+    "LI",
+    "DE",
+    "AT"
+  ],
+  "langs": [
+    "en",
+    "de",
+    "fr",
+    "it"
+  ],
+  "published_at": "2026-10-09T07:00:00+00:00",
+  "thumbnail": {
+    "src": "https://assets.stampiq.io/blog/e309b9fd1b26ca2a/de-rolling-stones-2026-card.png",
+    "width": 2093,
+    "height": 960
+  },
+  "languages": {
+    "en": {
+      "slug": "deutsche-post-rolling-stones-edition-2026",
+      "title": "The Rolling Stones edition from Deutsche Post",
+      "description": "Deutsche Post brought out its own Rolling Stones edition on 26 August 2026. The block sold out by 10 September, and the sheets are still on sale."
+    },
+    "de": {
+      "slug": "rolling-stones-edition-der-deutschen-post",
+      "title": "Die Rolling-Stones-Edition der Deutschen Post",
+      "description": "Am 26. August 2026 brachte die Deutsche Post eine eigene Rolling-Stones-Edition heraus. Der Block war am 10. September ausverkauft, die Bogen gibt es noch."
+    },
+    "fr": {
+      "slug": "edition-rolling-stones-deutsche-post-2026",
+      "title": "L'édition Rolling Stones de la Deutsche Post",
+      "description": "La Deutsche Post a sorti sa propre édition Rolling Stones le 26 août 2026. Le bloc était épuisé le 10 septembre, les feuilles sont toujours en vente."
+    },
+    "it": {
+      "slug": "edizione-rolling-stones-deutsche-post-2026",
+      "title": "L'edizione Rolling Stones di Deutsche Post",
+      "description": "Il 26 agosto 2026 Deutsche Post ha pubblicato la sua edizione Rolling Stones. Il foglietto è esaurito dal 10 settembre, i fogli sono ancora in vendita."
+    },
+    "nl": {
+      "slug": "deutsche-post-rolling-stones-edition-2026",
+      "title": "The Rolling Stones edition from Deutsche Post",
+      "description": "Deutsche Post brought out its own Rolling Stones edition on 26 August 2026. The block sold out by 10 September, and the sheets are still on sale."
+    },
+    "pl": {
+      "slug": "deutsche-post-rolling-stones-edition-2026",
+      "title": "The Rolling Stones edition from Deutsche Post",
+      "description": "Deutsche Post brought out its own Rolling Stones edition on 26 August 2026. The block sold out by 10 September, and the sheets are still on sale."
+    },
+    "cs": {
+      "slug": "deutsche-post-rolling-stones-edition-2026",
+      "title": "The Rolling Stones edition from Deutsche Post",
+      "description": "Deutsche Post brought out its own Rolling Stones edition on 26 August 2026. The block sold out by 10 September, and the sheets are still on sale."
+    },
+    "sk": {
+      "slug": "deutsche-post-rolling-stones-edition-2026",
+      "title": "The Rolling Stones edition from Deutsche Post",
+      "description": "Deutsche Post brought out its own Rolling Stones edition on 26 August 2026. The block sold out by 10 September, and the sheets are still on sale."
+    },
+    "ro": {
+      "slug": "deutsche-post-rolling-stones-edition-2026",
+      "title": "The Rolling Stones edition from Deutsche Post",
+      "description": "Deutsche Post brought out its own Rolling Stones edition on 26 August 2026. The block sold out by 10 September, and the sheets are still on sale."
+    },
+    "hu": {
+      "slug": "deutsche-post-rolling-stones-edition-2026",
+      "title": "The Rolling Stones edition from Deutsche Post",
+      "description": "Deutsche Post brought out its own Rolling Stones edition on 26 August 2026. The block sold out by 10 September, and the sheets are still on sale."
+    },
+    "da": {
+      "slug": "deutsche-post-rolling-stones-edition-2026",
+      "title": "The Rolling Stones edition from Deutsche Post",
+      "description": "Deutsche Post brought out its own Rolling Stones edition on 26 August 2026. The block sold out by 10 September, and the sheets are still on sale."
+    }
+  },
+  "header": {
+    "lead": {
+      "en": "In August Deutsche Post brought out a Rolling Stones edition of its own, outside the regular stamp programme. The block sold out by 10 September, and the sheets and the roll are still on sale.",
+      "de": "Im August hat die Deutsche Post eine eigene Rolling-Stones-Edition herausgebracht, außerhalb des regulären Briefmarkenprogramms. Der Block war am 10. September ausverkauft, die Bogen und die Rolle gibt es weiterhin.",
+      "fr": "En août, la Deutsche Post a sorti sa propre édition Rolling Stones, en dehors du programme philatélique habituel. Le bloc était épuisé le 10 septembre ; les feuilles et le rouleau sont toujours en vente.",
+      "it": "Ad agosto Deutsche Post ha pubblicato una propria edizione dedicata ai Rolling Stones, fuori dal programma ordinario delle emissioni. Il foglietto è esaurito dal 10 settembre, mentre i fogli e il rotolo sono ancora in vendita.",
+      "nl": "In August Deutsche Post brought out a Rolling Stones edition of its own, outside the regular stamp programme. The block sold out by 10 September, and the sheets and the roll are still on sale.",
+      "pl": "In August Deutsche Post brought out a Rolling Stones edition of its own, outside the regular stamp programme. The block sold out by 10 September, and the sheets and the roll are still on sale.",
+      "cs": "In August Deutsche Post brought out a Rolling Stones edition of its own, outside the regular stamp programme. The block sold out by 10 September, and the sheets and the roll are still on sale.",
+      "sk": "In August Deutsche Post brought out a Rolling Stones edition of its own, outside the regular stamp programme. The block sold out by 10 September, and the sheets and the roll are still on sale.",
+      "ro": "In August Deutsche Post brought out a Rolling Stones edition of its own, outside the regular stamp programme. The block sold out by 10 September, and the sheets and the roll are still on sale.",
+      "hu": "In August Deutsche Post brought out a Rolling Stones edition of its own, outside the regular stamp programme. The block sold out by 10 September, and the sheets and the roll are still on sale.",
+      "da": "In August Deutsche Post brought out a Rolling Stones edition of its own, outside the regular stamp programme. The block sold out by 10 September, and the sheets and the roll are still on sale."
+    },
+    "visual": {
+      "type": "stamp-fan",
+      "stamps": [
+        {
+          "name": {
+            "en": "The Rolling Stones, «Tongue» black, €0.95",
+            "de": "The Rolling Stones, „Tongue“ schwarz, 0,95 €",
+            "fr": "The Rolling Stones, « Tongue » noir, 0,95 €",
+            "it": "The Rolling Stones, \"Tongue\" nero, 0,95 €",
+            "nl": "The Rolling Stones, «Tongue» black, €0.95",
+            "pl": "The Rolling Stones, «Tongue» black, €0.95",
+            "cs": "The Rolling Stones, «Tongue» black, €0.95",
+            "sk": "The Rolling Stones, «Tongue» black, €0.95",
+            "ro": "The Rolling Stones, «Tongue» black, €0.95",
+            "hu": "The Rolling Stones, «Tongue» black, €0.95",
+            "da": "The Rolling Stones, «Tongue» black, €0.95"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/47b9f6a8df7ec71a/de-2026-rolling-stones-black.png",
+            "width": 767,
+            "height": 556
+          },
+          "country": "DE",
+          "stamp_id": "de-post-196010174"
+        },
+        {
+          "name": {
+            "en": "The Rolling Stones, «Tongue» pop art, €0.95",
+            "de": "The Rolling Stones, „Tongue“ Pop Art, 0,95 €",
+            "fr": "The Rolling Stones, « Tongue » pop art, 0,95 €",
+            "it": "The Rolling Stones, \"Tongue\" pop art, 0,95 €",
+            "nl": "The Rolling Stones, «Tongue» pop art, €0.95",
+            "pl": "The Rolling Stones, «Tongue» pop art, €0.95",
+            "cs": "The Rolling Stones, «Tongue» pop art, €0.95",
+            "sk": "The Rolling Stones, «Tongue» pop art, €0.95",
+            "ro": "The Rolling Stones, «Tongue» pop art, €0.95",
+            "hu": "The Rolling Stones, «Tongue» pop art, €0.95",
+            "da": "The Rolling Stones, «Tongue» pop art, €0.95"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/d49a0543af1e0251/de-2026-rolling-stones-popart.png",
+            "width": 761,
+            "height": 557
+          },
+          "country": "DE",
+          "stamp_id": "de-post-196010183"
+        },
+        {
+          "name": {
+            "en": "The Rolling Stones, «Tongue» pride, €0.95",
+            "de": "The Rolling Stones, „Tongue“ Pride, 0,95 €",
+            "fr": "The Rolling Stones, « Tongue » pride, 0,95 €",
+            "it": "The Rolling Stones, \"Tongue\" pride, 0,95 €",
+            "nl": "The Rolling Stones, «Tongue» pride, €0.95",
+            "pl": "The Rolling Stones, «Tongue» pride, €0.95",
+            "cs": "The Rolling Stones, «Tongue» pride, €0.95",
+            "sk": "The Rolling Stones, «Tongue» pride, €0.95",
+            "ro": "The Rolling Stones, «Tongue» pride, €0.95",
+            "hu": "The Rolling Stones, «Tongue» pride, €0.95",
+            "da": "The Rolling Stones, «Tongue» pride, €0.95"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/b8942f5594b66c7c/de-2026-rolling-stones-pride.png",
+            "width": 767,
+            "height": 558
+          },
+          "country": "DE",
+          "stamp_id": "de-post-196010186"
+        },
+        {
+          "name": {
+            "en": "The Rolling Stones, block with two stamps",
+            "de": "The Rolling Stones, Block mit zwei Marken",
+            "fr": "The Rolling Stones, bloc de deux timbres",
+            "it": "The Rolling Stones, foglietto con due francobolli",
+            "nl": "The Rolling Stones, block with two stamps",
+            "pl": "The Rolling Stones, block with two stamps",
+            "cs": "The Rolling Stones, block with two stamps",
+            "sk": "The Rolling Stones, block with two stamps",
+            "ro": "The Rolling Stones, block with two stamps",
+            "hu": "The Rolling Stones, block with two stamps",
+            "da": "The Rolling Stones, block with two stamps"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/830de72510417b1c/de-2026-rolling-stones-block.png",
+            "width": 531,
+            "height": 598
+          },
+          "country": "DE",
+          "stamp_id": "de-post-196010195"
+        }
+      ]
+    },
+    "date_label": {
+      "en": "26 August 2026",
+      "de": "26. August 2026",
+      "fr": "26 août 2026",
+      "it": "26 agosto 2026",
+      "nl": "26 August 2026",
+      "pl": "26 August 2026",
+      "cs": "26 August 2026",
+      "sk": "26 August 2026",
+      "ro": "26 August 2026",
+      "hu": "26 August 2026",
+      "da": "26 August 2026"
+    }
+  },
+  "blocks": [
+    {
+      "id": "edition",
+      "type": "text",
+      "label": {
+        "en": "The edition",
+        "de": "Die Edition",
+        "fr": "L'édition",
+        "it": "L'edizione",
+        "nl": "The edition",
+        "pl": "The edition",
+        "cs": "The edition",
+        "sk": "The edition",
+        "ro": "The edition",
+        "hu": "The edition",
+        "da": "The edition"
+      },
+      "title": {
+        "en": "A Rolling Stones edition from Deutsche Post",
+        "de": "Eine Rolling-Stones-Edition der Deutschen Post",
+        "fr": "Une édition Rolling Stones de la Deutsche Post",
+        "it": "Un'edizione Rolling Stones di Deutsche Post",
+        "nl": "A Rolling Stones edition from Deutsche Post",
+        "pl": "A Rolling Stones edition from Deutsche Post",
+        "cs": "A Rolling Stones edition from Deutsche Post",
+        "sk": "A Rolling Stones edition from Deutsche Post",
+        "ro": "A Rolling Stones edition from Deutsche Post",
+        "hu": "A Rolling Stones edition from Deutsche Post",
+        "da": "A Rolling Stones edition from Deutsche Post"
+      },
+      "paragraphs": [
+        {
+          "en": "On 26 August a Rolling Stones edition appeared in the Deutsche Post online shop without an announcement. The philatelic press noticed it the same day, and Deutsche Post's press release followed on 4 September. In between, on 3 September, a special post office sold the stamps at a concert by Stones guitarist Ronnie Wood in the E-Werk in Cologne.",
+          "de": "Am 26. August tauchte im Online-Shop der Deutschen Post ohne Ankündigung eine Rolling-Stones-Edition auf. Die philatelistische Presse bemerkte es noch am selben Tag, die Pressemitteilung der Deutschen Post kam am 4. September. Dazwischen, am 3. September, verkaufte ein Sonderpostamt die Marken beim Konzert von Stones-Gitarrist Ronnie Wood im Kölner E-Werk.",
+          "fr": "Le 26 août, une édition Rolling Stones est apparue sans annonce dans la boutique en ligne de la Deutsche Post. La presse philatélique l'a repérée le jour même ; le communiqué de la Deutsche Post est venu le 4 septembre. Entre les deux, le 3 septembre, un bureau de poste temporaire a vendu les timbres lors d'un concert de Ronnie Wood, guitariste des Stones, au E-Werk de Cologne.",
+          "it": "Il 26 agosto l'edizione Rolling Stones è comparsa senza preavviso nel negozio online di Deutsche Post. La stampa filatelica se ne è accorta lo stesso giorno; il comunicato di Deutsche Post è arrivato il 4 settembre. Nel frattempo, il 3 settembre, uno sportello postale temporaneo ha venduto i francobolli al concerto di Ronnie Wood, chitarrista degli Stones, all'E-Werk di Colonia.",
+          "nl": "On 26 August a Rolling Stones edition appeared in the Deutsche Post online shop without an announcement. The philatelic press noticed it the same day, and Deutsche Post's press release followed on 4 September. In between, on 3 September, a special post office sold the stamps at a concert by Stones guitarist Ronnie Wood in the E-Werk in Cologne.",
+          "pl": "On 26 August a Rolling Stones edition appeared in the Deutsche Post online shop without an announcement. The philatelic press noticed it the same day, and Deutsche Post's press release followed on 4 September. In between, on 3 September, a special post office sold the stamps at a concert by Stones guitarist Ronnie Wood in the E-Werk in Cologne.",
+          "cs": "On 26 August a Rolling Stones edition appeared in the Deutsche Post online shop without an announcement. The philatelic press noticed it the same day, and Deutsche Post's press release followed on 4 September. In between, on 3 September, a special post office sold the stamps at a concert by Stones guitarist Ronnie Wood in the E-Werk in Cologne.",
+          "sk": "On 26 August a Rolling Stones edition appeared in the Deutsche Post online shop without an announcement. The philatelic press noticed it the same day, and Deutsche Post's press release followed on 4 September. In between, on 3 September, a special post office sold the stamps at a concert by Stones guitarist Ronnie Wood in the E-Werk in Cologne.",
+          "ro": "On 26 August a Rolling Stones edition appeared in the Deutsche Post online shop without an announcement. The philatelic press noticed it the same day, and Deutsche Post's press release followed on 4 September. In between, on 3 September, a special post office sold the stamps at a concert by Stones guitarist Ronnie Wood in the E-Werk in Cologne.",
+          "hu": "On 26 August a Rolling Stones edition appeared in the Deutsche Post online shop without an announcement. The philatelic press noticed it the same day, and Deutsche Post's press release followed on 4 September. In between, on 3 September, a special post office sold the stamps at a concert by Stones guitarist Ronnie Wood in the E-Werk in Cologne.",
+          "da": "On 26 August a Rolling Stones edition appeared in the Deutsche Post online shop without an announcement. The philatelic press noticed it the same day, and Deutsche Post's press release followed on 4 September. In between, on 3 September, a special post office sold the stamps at a concert by Stones guitarist Ronnie Wood in the E-Werk in Cologne."
+        },
+        {
+          "en": "Deutsche Post brings out such editions itself, with partners, for example for Wacken and Rock am Ring. The regular special stamps come from the Federal Ministry of Finance, and this edition is not in its programme. The stamps are valid postage: 95 cents pays for a standard letter up to 20 g or a postcard in Germany.",
+          "de": "Solche Editionen bringt die Deutsche Post selbst heraus, zusammen mit Partnern, etwa für Wacken und Rock am Ring. Die regulären Sondermarken kommen vom Bundesministerium der Finanzen, und in dessen Programm steht diese Edition nicht. Die Marken sind frankaturgültig: 95 Cent decken einen Standardbrief bis 20 g oder eine Postkarte innerhalb Deutschlands.",
+          "fr": "La Deutsche Post édite elle-même ce genre de séries, avec des partenaires, comme pour Wacken ou Rock am Ring. Les timbres spéciaux habituels viennent du ministère fédéral des Finances, et cette édition ne figure pas dans son programme. Les timbres sont valables pour l'affranchissement : 95 centimes couvrent une lettre standard jusqu'à 20 g ou une carte postale en Allemagne.",
+          "it": "Edizioni di questo tipo Deutsche Post le realizza per conto proprio, insieme a partner, ad esempio per Wacken e Rock am Ring. I francobolli commemorativi ordinari provengono dal Ministero federale delle Finanze e questa edizione non rientra nel suo programma. I francobolli hanno valore postale: 95 centesimi coprono una lettera standard fino a 20 g o una cartolina in Germania.",
+          "nl": "Deutsche Post brings out such editions itself, with partners, for example for Wacken and Rock am Ring. The regular special stamps come from the Federal Ministry of Finance, and this edition is not in its programme. The stamps are valid postage: 95 cents pays for a standard letter up to 20 g or a postcard in Germany.",
+          "pl": "Deutsche Post brings out such editions itself, with partners, for example for Wacken and Rock am Ring. The regular special stamps come from the Federal Ministry of Finance, and this edition is not in its programme. The stamps are valid postage: 95 cents pays for a standard letter up to 20 g or a postcard in Germany.",
+          "cs": "Deutsche Post brings out such editions itself, with partners, for example for Wacken and Rock am Ring. The regular special stamps come from the Federal Ministry of Finance, and this edition is not in its programme. The stamps are valid postage: 95 cents pays for a standard letter up to 20 g or a postcard in Germany.",
+          "sk": "Deutsche Post brings out such editions itself, with partners, for example for Wacken and Rock am Ring. The regular special stamps come from the Federal Ministry of Finance, and this edition is not in its programme. The stamps are valid postage: 95 cents pays for a standard letter up to 20 g or a postcard in Germany.",
+          "ro": "Deutsche Post brings out such editions itself, with partners, for example for Wacken and Rock am Ring. The regular special stamps come from the Federal Ministry of Finance, and this edition is not in its programme. The stamps are valid postage: 95 cents pays for a standard letter up to 20 g or a postcard in Germany.",
+          "hu": "Deutsche Post brings out such editions itself, with partners, for example for Wacken and Rock am Ring. The regular special stamps come from the Federal Ministry of Finance, and this edition is not in its programme. The stamps are valid postage: 95 cents pays for a standard letter up to 20 g or a postcard in Germany.",
+          "da": "Deutsche Post brings out such editions itself, with partners, for example for Wacken and Rock am Ring. The regular special stamps come from the Federal Ministry of Finance, and this edition is not in its programme. The stamps are valid postage: 95 cents pays for a standard letter up to 20 g or a postcard in Germany."
+        }
+      ]
+    },
+    {
+      "id": "logo",
+      "type": "text",
+      "label": {
+        "en": "The logo",
+        "de": "Das Logo",
+        "fr": "Le logo",
+        "it": "Il logo",
+        "nl": "The logo",
+        "pl": "The logo",
+        "cs": "The logo",
+        "sk": "The logo",
+        "ro": "The logo",
+        "hu": "The logo",
+        "da": "The logo"
+      },
+      "title": {
+        "en": "The tongue and lips on the sheets",
+        "de": "Zunge und Lippen auf den Bogen",
+        "fr": "La langue et les lèvres sur les feuilles",
+        "it": "La lingua e le labbra sui fogli",
+        "nl": "The tongue and lips on the sheets",
+        "pl": "The tongue and lips on the sheets",
+        "cs": "The tongue and lips on the sheets",
+        "sk": "The tongue and lips on the sheets",
+        "ro": "The tongue and lips on the sheets",
+        "hu": "The tongue and lips on the sheets",
+        "da": "The tongue and lips on the sheets"
+      },
+      "visual": {
+        "type": "stamp",
+        "stamp": {
+          "name": {
+            "en": "The Rolling Stones, «Tongue» black, sheet of 10",
+            "de": "The Rolling Stones, „Tongue“ schwarz, Bogen mit 10 Marken",
+            "fr": "The Rolling Stones, « Tongue » noir, feuille de 10",
+            "it": "The Rolling Stones, \"Tongue\" nero, foglio da 10",
+            "nl": "The Rolling Stones, «Tongue» black, sheet of 10",
+            "pl": "The Rolling Stones, «Tongue» black, sheet of 10",
+            "cs": "The Rolling Stones, «Tongue» black, sheet of 10",
+            "sk": "The Rolling Stones, «Tongue» black, sheet of 10",
+            "ro": "The Rolling Stones, «Tongue» black, sheet of 10",
+            "hu": "The Rolling Stones, «Tongue» black, sheet of 10",
+            "da": "The Rolling Stones, «Tongue» black, sheet of 10"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/e34576ec0e2e989d/de-2026-rolling-stones-black-sheet.png",
+            "width": 423,
+            "height": 598
+          },
+          "country": "DE",
+          "stamp_id": "de-post-196010174-sheet"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "In 1970 the Rolling Stones needed a poster for their European tour and did not like what their record company Decca offered. Mick Jagger saw John Pasche's work at the degree show of the Royal College of Art in London and asked the student for the poster and for a logo. For the logo Jagger suggested the tongue of the Hindu goddess Kali.",
+          "de": "1970 brauchten die Rolling Stones ein Plakat für ihre Europatournee, und was ihre Plattenfirma Decca vorlegte, gefiel ihnen nicht. Mick Jagger sah bei der Abschlussausstellung des Royal College of Art in London Arbeiten von John Pasche und fragte den Studenten nach dem Plakat und nach einem Logo. Für das Logo schlug Jagger die Zunge der hinduistischen Göttin Kali vor.",
+          "fr": "En 1970, les Rolling Stones cherchaient une affiche pour leur tournée européenne et ce que proposait leur maison de disques Decca ne leur plaisait pas. Mick Jagger a vu le travail de John Pasche à l'exposition de fin d'études du Royal College of Art de Londres et a commandé à l'étudiant l'affiche et un logo. Pour ce logo, Jagger lui a suggéré la langue de la déesse hindoue Kali.",
+          "it": "Nel 1970 i Rolling Stones cercavano un manifesto per la tournée europea e quello proposto dalla casa discografica Decca non convinceva. Mick Jagger vide i lavori di John Pasche alla mostra dei diplomandi del Royal College of Art di Londra e chiese allo studente il manifesto e un logo. Per il logo Jagger suggerì la lingua della dea indù Kali.",
+          "nl": "In 1970 the Rolling Stones needed a poster for their European tour and did not like what their record company Decca offered. Mick Jagger saw John Pasche's work at the degree show of the Royal College of Art in London and asked the student for the poster and for a logo. For the logo Jagger suggested the tongue of the Hindu goddess Kali.",
+          "pl": "In 1970 the Rolling Stones needed a poster for their European tour and did not like what their record company Decca offered. Mick Jagger saw John Pasche's work at the degree show of the Royal College of Art in London and asked the student for the poster and for a logo. For the logo Jagger suggested the tongue of the Hindu goddess Kali.",
+          "cs": "In 1970 the Rolling Stones needed a poster for their European tour and did not like what their record company Decca offered. Mick Jagger saw John Pasche's work at the degree show of the Royal College of Art in London and asked the student for the poster and for a logo. For the logo Jagger suggested the tongue of the Hindu goddess Kali.",
+          "sk": "In 1970 the Rolling Stones needed a poster for their European tour and did not like what their record company Decca offered. Mick Jagger saw John Pasche's work at the degree show of the Royal College of Art in London and asked the student for the poster and for a logo. For the logo Jagger suggested the tongue of the Hindu goddess Kali.",
+          "ro": "In 1970 the Rolling Stones needed a poster for their European tour and did not like what their record company Decca offered. Mick Jagger saw John Pasche's work at the degree show of the Royal College of Art in London and asked the student for the poster and for a logo. For the logo Jagger suggested the tongue of the Hindu goddess Kali.",
+          "hu": "In 1970 the Rolling Stones needed a poster for their European tour and did not like what their record company Decca offered. Mick Jagger saw John Pasche's work at the degree show of the Royal College of Art in London and asked the student for the poster and for a logo. For the logo Jagger suggested the tongue of the Hindu goddess Kali.",
+          "da": "In 1970 the Rolling Stones needed a poster for their European tour and did not like what their record company Decca offered. Mick Jagger saw John Pasche's work at the degree show of the Royal College of Art in London and asked the student for the poster and for a logo. For the logo Jagger suggested the tongue of the Hindu goddess Kali."
+        },
+        {
+          "en": "Pasche was paid £50 for it, and another £200 in 1972. In 1984 he sold the copyright to the band for £26,000. In 2008 the Victoria and Albert Museum in London bought his original drawing for $92,500.",
+          "de": "Pasche bekam dafür 50 Pfund, 1972 noch einmal 200 Pfund. 1984 verkaufte er das Urheberrecht für 26.000 Pfund an die Band. 2008 kaufte das Victoria and Albert Museum in London seine Originalzeichnung für 92.500 Dollar.",
+          "fr": "Pasche a reçu 50 £ pour ce travail, puis 200 £ de plus en 1972. En 1984, il a cédé les droits au groupe pour 26 000 £. En 2008, le Victoria and Albert Museum de Londres a acheté son dessin original pour 92 500 $.",
+          "it": "Pasche ricevette 50 sterline e altre 200 nel 1972. Nel 1984 cedette i diritti alla band per 26.000 sterline. Nel 2008 il Victoria and Albert Museum di Londra acquistò il suo disegno originale per 92.500 dollari.",
+          "nl": "Pasche was paid £50 for it, and another £200 in 1972. In 1984 he sold the copyright to the band for £26,000. In 2008 the Victoria and Albert Museum in London bought his original drawing for $92,500.",
+          "pl": "Pasche was paid £50 for it, and another £200 in 1972. In 1984 he sold the copyright to the band for £26,000. In 2008 the Victoria and Albert Museum in London bought his original drawing for $92,500.",
+          "cs": "Pasche was paid £50 for it, and another £200 in 1972. In 1984 he sold the copyright to the band for £26,000. In 2008 the Victoria and Albert Museum in London bought his original drawing for $92,500.",
+          "sk": "Pasche was paid £50 for it, and another £200 in 1972. In 1984 he sold the copyright to the band for £26,000. In 2008 the Victoria and Albert Museum in London bought his original drawing for $92,500.",
+          "ro": "Pasche was paid £50 for it, and another £200 in 1972. In 1984 he sold the copyright to the band for £26,000. In 2008 the Victoria and Albert Museum in London bought his original drawing for $92,500.",
+          "hu": "Pasche was paid £50 for it, and another £200 in 1972. In 1984 he sold the copyright to the band for £26,000. In 2008 the Victoria and Albert Museum in London bought his original drawing for $92,500.",
+          "da": "Pasche was paid £50 for it, and another £200 in 1972. In 1984 he sold the copyright to the band for £26,000. In 2008 the Victoria and Albert Museum in London bought his original drawing for $92,500."
+        },
+        {
+          "en": "The logo the band uses today was redrawn in New York. Craig Braun needed it for the album «Sticky Fingers» and had only a fax of Pasche's sketch, so his illustrators drew it again with a narrower tongue. Some US newspapers name Ruby Mazur as the designer.",
+          "de": "Das Logo, das die Band heute verwendet, wurde in New York neu gezeichnet. Craig Braun brauchte es für das Album „Sticky Fingers“ und hatte nur ein Fax von Pasches Entwurf, also zeichneten seine Illustratoren es noch einmal, mit schmalerer Zunge. Einige US-Zeitungen nennen Ruby Mazur als Gestalter.",
+          "fr": "Le logo que le groupe utilise aujourd'hui a été redessiné à New York. Craig Braun en avait besoin pour l'album « Sticky Fingers » et ne disposait que d'un fax du croquis de Pasche ; ses illustrateurs l'ont donc redessiné, avec une langue plus étroite. Certains journaux américains citent Ruby Mazur comme auteur du dessin.",
+          "it": "Il logo che la band usa oggi è stato ridisegnato a New York. Craig Braun ne aveva bisogno per l'album \"Sticky Fingers\" e aveva solo un fax dello schizzo di Pasche, così i suoi illustratori lo rifecero con la lingua più stretta. Alcuni giornali statunitensi indicano Ruby Mazur come autore del disegno.",
+          "nl": "The logo the band uses today was redrawn in New York. Craig Braun needed it for the album «Sticky Fingers» and had only a fax of Pasche's sketch, so his illustrators drew it again with a narrower tongue. Some US newspapers name Ruby Mazur as the designer.",
+          "pl": "The logo the band uses today was redrawn in New York. Craig Braun needed it for the album «Sticky Fingers» and had only a fax of Pasche's sketch, so his illustrators drew it again with a narrower tongue. Some US newspapers name Ruby Mazur as the designer.",
+          "cs": "The logo the band uses today was redrawn in New York. Craig Braun needed it for the album «Sticky Fingers» and had only a fax of Pasche's sketch, so his illustrators drew it again with a narrower tongue. Some US newspapers name Ruby Mazur as the designer.",
+          "sk": "The logo the band uses today was redrawn in New York. Craig Braun needed it for the album «Sticky Fingers» and had only a fax of Pasche's sketch, so his illustrators drew it again with a narrower tongue. Some US newspapers name Ruby Mazur as the designer.",
+          "ro": "The logo the band uses today was redrawn in New York. Craig Braun needed it for the album «Sticky Fingers» and had only a fax of Pasche's sketch, so his illustrators drew it again with a narrower tongue. Some US newspapers name Ruby Mazur as the designer.",
+          "hu": "The logo the band uses today was redrawn in New York. Craig Braun needed it for the album «Sticky Fingers» and had only a fax of Pasche's sketch, so his illustrators drew it again with a narrower tongue. Some US newspapers name Ruby Mazur as the designer.",
+          "da": "The logo the band uses today was redrawn in New York. Craig Braun needed it for the album «Sticky Fingers» and had only a fax of Pasche's sketch, so his illustrators drew it again with a narrower tongue. Some US newspapers name Ruby Mazur as the designer."
+        },
+        {
+          "en": "The logo was first used on 26 March 1971, on VIP passes for a concert at the Marquee Club in London. The black sheet goes back to the same club: the stamps sit on a map of London, and the margin reads \"Marquee Club, 165 Oxford Street, London, 12. Juli 1962\", the place of the band's first concert.",
+          "de": "Zum ersten Mal verwendet wurde das Logo am 26. März 1971, auf VIP-Pässen für ein Konzert im Marquee Club in London. Der schwarze Bogen führt zum selben Club zurück: Die Marken liegen auf einem Stadtplan von London, und im Rand steht „Marquee Club, 165 Oxford Street, London, 12. Juli 1962“, der Ort des ersten Konzerts der Band.",
+          "fr": "Le logo a été utilisé pour la première fois le 26 mars 1971, sur des pass VIP pour un concert au Marquee Club de Londres. La feuille noire renvoie au même club : les timbres sont posés sur un plan de Londres et la marge porte la mention « Marquee Club, 165 Oxford Street, London, 12. Juli 1962 », le lieu du premier concert du groupe.",
+          "it": "Il logo venne usato per la prima volta il 26 marzo 1971 sui pass VIP di un concerto al Marquee Club di Londra. Il foglio nero rimanda allo stesso club: i francobolli sono disposti su una mappa di Londra e il bordo riporta \"Marquee Club, 165 Oxford Street, London, 12. Juli 1962\", il luogo del primo concerto della band.",
+          "nl": "The logo was first used on 26 March 1971, on VIP passes for a concert at the Marquee Club in London. The black sheet goes back to the same club: the stamps sit on a map of London, and the margin reads \"Marquee Club, 165 Oxford Street, London, 12. Juli 1962\", the place of the band's first concert.",
+          "pl": "The logo was first used on 26 March 1971, on VIP passes for a concert at the Marquee Club in London. The black sheet goes back to the same club: the stamps sit on a map of London, and the margin reads \"Marquee Club, 165 Oxford Street, London, 12. Juli 1962\", the place of the band's first concert.",
+          "cs": "The logo was first used on 26 March 1971, on VIP passes for a concert at the Marquee Club in London. The black sheet goes back to the same club: the stamps sit on a map of London, and the margin reads \"Marquee Club, 165 Oxford Street, London, 12. Juli 1962\", the place of the band's first concert.",
+          "sk": "The logo was first used on 26 March 1971, on VIP passes for a concert at the Marquee Club in London. The black sheet goes back to the same club: the stamps sit on a map of London, and the margin reads \"Marquee Club, 165 Oxford Street, London, 12. Juli 1962\", the place of the band's first concert.",
+          "ro": "The logo was first used on 26 March 1971, on VIP passes for a concert at the Marquee Club in London. The black sheet goes back to the same club: the stamps sit on a map of London, and the margin reads \"Marquee Club, 165 Oxford Street, London, 12. Juli 1962\", the place of the band's first concert.",
+          "hu": "The logo was first used on 26 March 1971, on VIP passes for a concert at the Marquee Club in London. The black sheet goes back to the same club: the stamps sit on a map of London, and the margin reads \"Marquee Club, 165 Oxford Street, London, 12. Juli 1962\", the place of the band's first concert.",
+          "da": "The logo was first used on 26 March 1971, on VIP passes for a concert at the Marquee Club in London. The black sheet goes back to the same club: the stamps sit on a map of London, and the margin reads \"Marquee Club, 165 Oxford Street, London, 12. Juli 1962\", the place of the band's first concert."
+        },
+        {
+          "en": "In 2012 Shepard Fairey updated the logo for the band's 50th anniversary, and after Charlie Watts died in 2021 it was black for the band's tour. On the pop art sheet every stamp has the logo in different colours, and the pride sheet has a rainbow tongue. Pasche is credited as the designer of all the sheets.",
+          "de": "2012 überarbeitete Shepard Fairey das Logo zum 50-jährigen Bestehen der Band, und nach dem Tod von Charlie Watts 2021 war es auf der Tournee schwarz. Auf dem Pop-Art-Bogen trägt jede Marke das Logo in anderen Farben, auf dem Pride-Bogen ist die Zunge ein Regenbogen. Als Gestalter aller Bogen ist Pasche angegeben.",
+          "fr": "En 2012, Shepard Fairey a actualisé le logo pour les 50 ans du groupe, et après la mort de Charlie Watts en 2021, il est passé au noir pour la tournée. Sur la feuille pop art, chaque timbre porte le logo dans une couleur différente, et la feuille pride montre une langue arc-en-ciel. Pasche est crédité comme créateur sur toutes les feuilles.",
+          "it": "Nel 2012 Shepard Fairey aggiornò il logo per i 50 anni della band e dopo la morte di Charlie Watts nel 2021 il logo in nero accompagnò la tournée. Sul foglio pop art ogni francobollo porta il logo in colori diversi, sul foglio pride la lingua è arcobaleno. Il disegno di tutti i fogli è attribuito a Pasche.",
+          "nl": "In 2012 Shepard Fairey updated the logo for the band's 50th anniversary, and after Charlie Watts died in 2021 it was black for the band's tour. On the pop art sheet every stamp has the logo in different colours, and the pride sheet has a rainbow tongue. Pasche is credited as the designer of all the sheets.",
+          "pl": "In 2012 Shepard Fairey updated the logo for the band's 50th anniversary, and after Charlie Watts died in 2021 it was black for the band's tour. On the pop art sheet every stamp has the logo in different colours, and the pride sheet has a rainbow tongue. Pasche is credited as the designer of all the sheets.",
+          "cs": "In 2012 Shepard Fairey updated the logo for the band's 50th anniversary, and after Charlie Watts died in 2021 it was black for the band's tour. On the pop art sheet every stamp has the logo in different colours, and the pride sheet has a rainbow tongue. Pasche is credited as the designer of all the sheets.",
+          "sk": "In 2012 Shepard Fairey updated the logo for the band's 50th anniversary, and after Charlie Watts died in 2021 it was black for the band's tour. On the pop art sheet every stamp has the logo in different colours, and the pride sheet has a rainbow tongue. Pasche is credited as the designer of all the sheets.",
+          "ro": "In 2012 Shepard Fairey updated the logo for the band's 50th anniversary, and after Charlie Watts died in 2021 it was black for the band's tour. On the pop art sheet every stamp has the logo in different colours, and the pride sheet has a rainbow tongue. Pasche is credited as the designer of all the sheets.",
+          "hu": "In 2012 Shepard Fairey updated the logo for the band's 50th anniversary, and after Charlie Watts died in 2021 it was black for the band's tour. On the pop art sheet every stamp has the logo in different colours, and the pride sheet has a rainbow tongue. Pasche is credited as the designer of all the sheets.",
+          "da": "In 2012 Shepard Fairey updated the logo for the band's 50th anniversary, and after Charlie Watts died in 2021 it was black for the band's tour. On the pop art sheet every stamp has the logo in different colours, and the pride sheet has a rainbow tongue. Pasche is credited as the designer of all the sheets."
+        }
+      ]
+    },
+    {
+      "id": "parts",
+      "date": {
+        "en": "26 August 2026",
+        "de": "26. August 2026",
+        "fr": "26 août 2026",
+        "it": "26 agosto 2026",
+        "nl": "26 August 2026",
+        "pl": "26 August 2026",
+        "cs": "26 August 2026",
+        "sk": "26 August 2026",
+        "ro": "26 August 2026",
+        "hu": "26 August 2026",
+        "da": "26 August 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "The Rolling Stones, «Tongue» black, pop art and pride",
+          "de": "The Rolling Stones, „Tongue“ schwarz, Pop Art und Pride",
+          "fr": "The Rolling Stones, « Tongue » noir, pop art et pride",
+          "it": "The Rolling Stones, \"Tongue\" nero, pop art e pride",
+          "nl": "The Rolling Stones, «Tongue» black, pop art and pride",
+          "pl": "The Rolling Stones, «Tongue» black, pop art and pride",
+          "cs": "The Rolling Stones, «Tongue» black, pop art and pride",
+          "sk": "The Rolling Stones, «Tongue» black, pop art and pride",
+          "ro": "The Rolling Stones, «Tongue» black, pop art and pride",
+          "hu": "The Rolling Stones, «Tongue» black, pop art and pride",
+          "da": "The Rolling Stones, «Tongue» black, pop art and pride"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/6b66217fa9e8a05f/de-2026-rolling-stones-sheets-set.png",
+          "width": 2426,
+          "height": 620
+        },
+        "country": "DE",
+        "stamp_id": "de-post-rolling-stones-sheets"
+      },
+      "title": {
+        "en": "The parts of the edition",
+        "de": "Die Teile der Edition",
+        "fr": "Les éléments de l'édition",
+        "it": "Le parti dell'edizione",
+        "nl": "The parts of the edition",
+        "pl": "The parts of the edition",
+        "cs": "The parts of the edition",
+        "sk": "The parts of the edition",
+        "ro": "The parts of the edition",
+        "hu": "The parts of the edition",
+        "da": "The parts of the edition"
+      },
+      "formats": [
+        {
+          "value": "€9.50",
+          "format": {
+            "en": "Sheet of 10, «Tongue» black, sold at €10.45",
+            "de": "Bogen mit 10 Marken, „Tongue“ schwarz, für 10,45 €",
+            "fr": "Feuille de 10, « Tongue » noir, vendue 10,45 €",
+            "it": "Foglio da 10, \"Tongue\" nero, in vendita a 10,45 €",
+            "nl": "Sheet of 10, «Tongue» black, sold at €10.45",
+            "pl": "Sheet of 10, «Tongue» black, sold at €10.45",
+            "cs": "Sheet of 10, «Tongue» black, sold at €10.45",
+            "sk": "Sheet of 10, «Tongue» black, sold at €10.45",
+            "ro": "Sheet of 10, «Tongue» black, sold at €10.45",
+            "hu": "Sheet of 10, «Tongue» black, sold at €10.45",
+            "da": "Sheet of 10, «Tongue» black, sold at €10.45"
+          }
+        },
+        {
+          "value": "€9.50",
+          "format": {
+            "en": "Sheet of 10, «Tongue» pop art, sold at €10.45",
+            "de": "Bogen mit 10 Marken, „Tongue“ Pop Art, für 10,45 €",
+            "fr": "Feuille de 10, « Tongue » pop art, vendue 10,45 €",
+            "it": "Foglio da 10, \"Tongue\" pop art, in vendita a 10,45 €",
+            "nl": "Sheet of 10, «Tongue» pop art, sold at €10.45",
+            "pl": "Sheet of 10, «Tongue» pop art, sold at €10.45",
+            "cs": "Sheet of 10, «Tongue» pop art, sold at €10.45",
+            "sk": "Sheet of 10, «Tongue» pop art, sold at €10.45",
+            "ro": "Sheet of 10, «Tongue» pop art, sold at €10.45",
+            "hu": "Sheet of 10, «Tongue» pop art, sold at €10.45",
+            "da": "Sheet of 10, «Tongue» pop art, sold at €10.45"
+          }
+        },
+        {
+          "value": "€9.50",
+          "format": {
+            "en": "Sheet of 10, «Tongue» pride, sold at €10.45",
+            "de": "Bogen mit 10 Marken, „Tongue“ Pride, für 10,45 €",
+            "fr": "Feuille de 10, « Tongue » pride, vendue 10,45 €",
+            "it": "Foglio da 10, \"Tongue\" pride, in vendita a 10,45 €",
+            "nl": "Sheet of 10, «Tongue» pride, sold at €10.45",
+            "pl": "Sheet of 10, «Tongue» pride, sold at €10.45",
+            "cs": "Sheet of 10, «Tongue» pride, sold at €10.45",
+            "sk": "Sheet of 10, «Tongue» pride, sold at €10.45",
+            "ro": "Sheet of 10, «Tongue» pride, sold at €10.45",
+            "hu": "Sheet of 10, «Tongue» pride, sold at €10.45",
+            "da": "Sheet of 10, «Tongue» pride, sold at €10.45"
+          }
+        },
+        {
+          "value": "€95.00",
+          "format": {
+            "en": "Roll of 100, «Tongue» classic, sold at €106.90",
+            "de": "Rolle mit 100 Marken, „Tongue“ Classic, für 106,90 €",
+            "fr": "Rouleau de 100, « Tongue » classic, vendu 106,90 €",
+            "it": "Rotolo da 100, \"Tongue\" classic, in vendita a 106,90 €",
+            "nl": "Roll of 100, «Tongue» classic, sold at €106.90",
+            "pl": "Roll of 100, «Tongue» classic, sold at €106.90",
+            "cs": "Roll of 100, «Tongue» classic, sold at €106.90",
+            "sk": "Roll of 100, «Tongue» classic, sold at €106.90",
+            "ro": "Roll of 100, «Tongue» classic, sold at €106.90",
+            "hu": "Roll of 100, «Tongue» classic, sold at €106.90",
+            "da": "Roll of 100, «Tongue» classic, sold at €106.90"
+          }
+        },
+        {
+          "value": "€1.90",
+          "format": {
+            "en": "Block with two stamps, sold at €6.05, sold out",
+            "de": "Block mit zwei Marken, für 6,05 €, ausverkauft",
+            "fr": "Bloc de deux timbres, vendu 6,05 €, épuisé",
+            "it": "Foglietto con due francobolli, in vendita a 6,05 €, esaurito",
+            "nl": "Block with two stamps, sold at €6.05, sold out",
+            "pl": "Block with two stamps, sold at €6.05, sold out",
+            "cs": "Block with two stamps, sold at €6.05, sold out",
+            "sk": "Block with two stamps, sold at €6.05, sold out",
+            "ro": "Block with two stamps, sold at €6.05, sold out",
+            "hu": "Block with two stamps, sold at €6.05, sold out",
+            "da": "Block with two stamps, sold at €6.05, sold out"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "The stamps are self-adhesive and digitally printed, ten to an A5 sheet. Deutsche Post sells them above face value: a sheet of ten 95-cent stamps costs €10.45, and the «Tongue» classic roll of 100 comes in a folding box for €106.90.",
+          "de": "Die Marken sind selbstklebend und im Digitaldruck hergestellt, zehn Stück auf einem Bogen im Format A5. Die Deutsche Post verkauft sie über dem Nennwert: Ein Bogen mit zehn Marken zu 95 Cent kostet 10,45 €, die Rolle mit 100 Marken „Tongue“ Classic kommt in einer Faltschachtel und kostet 106,90 €.",
+          "fr": "Les timbres sont autocollants et imprimés en numérique, dix par feuille A5. La Deutsche Post les vend au-dessus de la valeur faciale : une feuille de dix timbres à 95 centimes coûte 10,45 €, et le rouleau de 100 « Tongue » classic est livré dans une boîte pliante à 106,90 €.",
+          "it": "I francobolli sono autoadesivi e stampati in digitale, dieci su un foglio A5. Deutsche Post li vende a un prezzo superiore al valore nominale: un foglio da dieci francobolli da 95 centesimi costa 10,45 €; il rotolo da 100 \"Tongue\" classic arriva in una scatola pieghevole a 106,90 €.",
+          "nl": "The stamps are self-adhesive and digitally printed, ten to an A5 sheet. Deutsche Post sells them above face value: a sheet of ten 95-cent stamps costs €10.45, and the «Tongue» classic roll of 100 comes in a folding box for €106.90.",
+          "pl": "The stamps are self-adhesive and digitally printed, ten to an A5 sheet. Deutsche Post sells them above face value: a sheet of ten 95-cent stamps costs €10.45, and the «Tongue» classic roll of 100 comes in a folding box for €106.90.",
+          "cs": "The stamps are self-adhesive and digitally printed, ten to an A5 sheet. Deutsche Post sells them above face value: a sheet of ten 95-cent stamps costs €10.45, and the «Tongue» classic roll of 100 comes in a folding box for €106.90.",
+          "sk": "The stamps are self-adhesive and digitally printed, ten to an A5 sheet. Deutsche Post sells them above face value: a sheet of ten 95-cent stamps costs €10.45, and the «Tongue» classic roll of 100 comes in a folding box for €106.90.",
+          "ro": "The stamps are self-adhesive and digitally printed, ten to an A5 sheet. Deutsche Post sells them above face value: a sheet of ten 95-cent stamps costs €10.45, and the «Tongue» classic roll of 100 comes in a folding box for €106.90.",
+          "hu": "The stamps are self-adhesive and digitally printed, ten to an A5 sheet. Deutsche Post sells them above face value: a sheet of ten 95-cent stamps costs €10.45, and the «Tongue» classic roll of 100 comes in a folding box for €106.90.",
+          "da": "The stamps are self-adhesive and digitally printed, ten to an A5 sheet. Deutsche Post sells them above face value: a sheet of ten 95-cent stamps costs €10.45, and the «Tongue» classic roll of 100 comes in a folding box for €106.90."
+        },
+        {
+          "en": "The block with two stamps and the inscription \"IT'S ONLY ROCK 'N ROLL BUT I LIKE IT\" cost €6.05, which is €4.15 above its face value. It was printed in 3,500 copies and sold out by 10 September. Two small sheets with ten 5-cent and ten 10-cent stamps sold out by the same date.",
+          "de": "Der Block mit zwei Marken und der Aufschrift „IT'S ONLY ROCK 'N ROLL BUT I LIKE IT“ kostete 6,05 €, also 4,15 € über dem Nennwert. Gedruckt wurde er in einer Auflage von 3.500 Stück, am 10. September war er ausverkauft. Zwei kleine Bogen mit zehn Marken zu 5 Cent und zehn Marken zu 10 Cent waren am selben Tag ausverkauft.",
+          "fr": "Le bloc de deux timbres, avec l'inscription « IT'S ONLY ROCK 'N ROLL BUT I LIKE IT », coûtait 6,05 €, soit 4,15 € de plus que sa valeur faciale. Tiré à 3 500 exemplaires, il était épuisé le 10 septembre. Deux petites feuilles, l'une de dix timbres à 5 centimes, l'autre de dix timbres à 10 centimes, étaient épuisées à la même date.",
+          "it": "Il foglietto con due francobolli e la scritta \"IT'S ONLY ROCK 'N ROLL BUT I LIKE IT\" costava 6,05 €, cioè 4,15 € in più del valore nominale. È stato stampato in 3.500 copie ed è esaurito dal 10 settembre. Entro la stessa data si sono esauriti anche due piccoli fogli con dieci francobolli da 5 centesimi e dieci da 10 centesimi.",
+          "nl": "The block with two stamps and the inscription \"IT'S ONLY ROCK 'N ROLL BUT I LIKE IT\" cost €6.05, which is €4.15 above its face value. It was printed in 3,500 copies and sold out by 10 September. Two small sheets with ten 5-cent and ten 10-cent stamps sold out by the same date.",
+          "pl": "The block with two stamps and the inscription \"IT'S ONLY ROCK 'N ROLL BUT I LIKE IT\" cost €6.05, which is €4.15 above its face value. It was printed in 3,500 copies and sold out by 10 September. Two small sheets with ten 5-cent and ten 10-cent stamps sold out by the same date.",
+          "cs": "The block with two stamps and the inscription \"IT'S ONLY ROCK 'N ROLL BUT I LIKE IT\" cost €6.05, which is €4.15 above its face value. It was printed in 3,500 copies and sold out by 10 September. Two small sheets with ten 5-cent and ten 10-cent stamps sold out by the same date.",
+          "sk": "The block with two stamps and the inscription \"IT'S ONLY ROCK 'N ROLL BUT I LIKE IT\" cost €6.05, which is €4.15 above its face value. It was printed in 3,500 copies and sold out by 10 September. Two small sheets with ten 5-cent and ten 10-cent stamps sold out by the same date.",
+          "ro": "The block with two stamps and the inscription \"IT'S ONLY ROCK 'N ROLL BUT I LIKE IT\" cost €6.05, which is €4.15 above its face value. It was printed in 3,500 copies and sold out by 10 September. Two small sheets with ten 5-cent and ten 10-cent stamps sold out by the same date.",
+          "hu": "The block with two stamps and the inscription \"IT'S ONLY ROCK 'N ROLL BUT I LIKE IT\" cost €6.05, which is €4.15 above its face value. It was printed in 3,500 copies and sold out by 10 September. Two small sheets with ten 5-cent and ten 10-cent stamps sold out by the same date.",
+          "da": "The block with two stamps and the inscription \"IT'S ONLY ROCK 'N ROLL BUT I LIKE IT\" cost €6.05, which is €4.15 above its face value. It was printed in 3,500 copies and sold out by 10 September. Two small sheets with ten 5-cent and ten 10-cent stamps sold out by the same date."
+        },
+        {
+          "en": "Those small sheets and a gold edition at €149, limited to 750 copies, only became known through a special issue of Deutsche Post's «Stempel & Informationen», sent on 9 September.",
+          "de": "Von diesen kleinen Bogen und von einer Gold-Edition für 149 €, limitiert auf 750 Stück, erfuhr man erst durch eine Sonderausgabe von „Stempel & Informationen“ der Deutschen Post, die am 9. September verschickt wurde.",
+          "fr": "Ces petites feuilles et une édition or à 149 €, limitée à 750 exemplaires, n'ont été connues que par un numéro spécial de « Stempel & Informationen », envoyé par la Deutsche Post le 9 septembre.",
+          "it": "Di quei piccoli fogli e di un'edizione gold da 149 €, limitata a 750 copie, si è saputo solo da un numero speciale di \"Stempel & Informationen\" di Deutsche Post, inviato il 9 settembre.",
+          "nl": "Those small sheets and a gold edition at €149, limited to 750 copies, only became known through a special issue of Deutsche Post's «Stempel & Informationen», sent on 9 September.",
+          "pl": "Those small sheets and a gold edition at €149, limited to 750 copies, only became known through a special issue of Deutsche Post's «Stempel & Informationen», sent on 9 September.",
+          "cs": "Those small sheets and a gold edition at €149, limited to 750 copies, only became known through a special issue of Deutsche Post's «Stempel & Informationen», sent on 9 September.",
+          "sk": "Those small sheets and a gold edition at €149, limited to 750 copies, only became known through a special issue of Deutsche Post's «Stempel & Informationen», sent on 9 September.",
+          "ro": "Those small sheets and a gold edition at €149, limited to 750 copies, only became known through a special issue of Deutsche Post's «Stempel & Informationen», sent on 9 September.",
+          "hu": "Those small sheets and a gold edition at €149, limited to 750 copies, only became known through a special issue of Deutsche Post's «Stempel & Informationen», sent on 9 September.",
+          "da": "Those small sheets and a gold edition at €149, limited to 750 copies, only became known through a special issue of Deutsche Post's «Stempel & Informationen», sent on 9 September."
+        }
+      ]
+    },
+    {
+      "id": "ordering",
+      "rows": [
+        {
+          "label": {
+            "en": "Online",
+            "de": "Online",
+            "fr": "En ligne",
+            "it": "Online",
+            "nl": "Online",
+            "pl": "Online",
+            "cs": "Online",
+            "sk": "Online",
+            "ro": "Online",
+            "hu": "Online",
+            "da": "Online"
+          },
+          "value": {
+            "en": "shop.deutschepost.de/therollingstones",
+            "de": "shop.deutschepost.de/therollingstones",
+            "fr": "shop.deutschepost.de/therollingstones",
+            "it": "shop.deutschepost.de/therollingstones",
+            "nl": "shop.deutschepost.de/therollingstones",
+            "pl": "shop.deutschepost.de/therollingstones",
+            "cs": "shop.deutschepost.de/therollingstones",
+            "sk": "shop.deutschepost.de/therollingstones",
+            "ro": "shop.deutschepost.de/therollingstones",
+            "hu": "shop.deutschepost.de/therollingstones",
+            "da": "shop.deutschepost.de/therollingstones"
+          }
+        },
+        {
+          "label": {
+            "en": "By phone",
+            "de": "Telefon",
+            "fr": "Par téléphone",
+            "it": "Per telefono",
+            "nl": "By phone",
+            "pl": "By phone",
+            "cs": "By phone",
+            "sk": "By phone",
+            "ro": "By phone",
+            "hu": "By phone",
+            "da": "By phone"
+          },
+          "value": {
+            "en": "0961 3818 3818",
+            "de": "0961 3818 3818",
+            "fr": "0961 3818 3818",
+            "it": "0961 3818 3818",
+            "nl": "0961 3818 3818",
+            "pl": "0961 3818 3818",
+            "cs": "0961 3818 3818",
+            "sk": "0961 3818 3818",
+            "ro": "0961 3818 3818",
+            "hu": "0961 3818 3818",
+            "da": "0961 3818 3818"
+          }
+        },
+        {
+          "label": {
+            "en": "On sale on 2 October 2026",
+            "de": "Am 2. Oktober 2026 noch im Verkauf",
+            "fr": "En vente le 2 octobre 2026",
+            "it": "In vendita il 2 ottobre 2026",
+            "nl": "On sale on 2 October 2026",
+            "pl": "On sale on 2 October 2026",
+            "cs": "On sale on 2 October 2026",
+            "sk": "On sale on 2 October 2026",
+            "ro": "On sale on 2 October 2026",
+            "hu": "On sale on 2 October 2026",
+            "da": "On sale on 2 October 2026"
+          },
+          "value": {
+            "en": "the three sheets of 10 and the roll of 100",
+            "de": "die drei Bogen mit 10 Marken und die Rolle mit 100 Marken",
+            "fr": "les trois feuilles de 10 et le rouleau de 100",
+            "it": "i tre fogli da 10 e il rotolo da 100",
+            "nl": "the three sheets of 10 and the roll of 100",
+            "pl": "the three sheets of 10 and the roll of 100",
+            "cs": "the three sheets of 10 and the roll of 100",
+            "sk": "the three sheets of 10 and the roll of 100",
+            "ro": "the three sheets of 10 and the roll of 100",
+            "hu": "the three sheets of 10 and the roll of 100",
+            "da": "the three sheets of 10 and the roll of 100"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "Ordering",
+        "de": "Bestellen",
+        "fr": "Commander",
+        "it": "Ordini",
+        "nl": "Ordering",
+        "pl": "Ordering",
+        "cs": "Ordering",
+        "sk": "Ordering",
+        "ro": "Ordering",
+        "hu": "Ordering",
+        "da": "Ordering"
+      },
+      "title": {
+        "en": "Where to order",
+        "de": "Wo es die Marken gibt",
+        "fr": "Où commander",
+        "it": "Dove ordinare",
+        "nl": "Where to order",
+        "pl": "Where to order",
+        "cs": "Where to order",
+        "sk": "Where to order",
+        "ro": "Where to order",
+        "hu": "Where to order",
+        "da": "Where to order"
+      },
+      "buttons": [
+        {
+          "href": "https://shop.deutschepost.de/therollingstones",
+          "label": {
+            "en": "Deutsche Post shop",
+            "de": "Shop der Deutschen Post",
+            "fr": "Boutique de la Deutsche Post",
+            "it": "Shop Deutsche Post",
+            "nl": "Deutsche Post shop",
+            "pl": "Deutsche Post shop",
+            "cs": "Deutsche Post shop",
+            "sk": "Deutsche Post shop",
+            "ro": "Deutsche Post shop",
+            "hu": "Deutsche Post shop",
+            "da": "Deutsche Post shop"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stampiq",
+      "text": {
+        "en": "The Rolling Stones stamps are not in StampIQ yet. We add them to the catalogue later, together with the regular German issues.",
+        "de": "Die Rolling-Stones-Marken sind noch nicht in StampIQ. Wir nehmen sie später in den Katalog auf, zusammen mit den regulären deutschen Ausgaben.",
+        "fr": "Les timbres Rolling Stones ne sont pas encore dans StampIQ. Nous les ajouterons au catalogue plus tard, avec les émissions allemandes régulières.",
+        "it": "I francobolli dei Rolling Stones non sono ancora in StampIQ. Li aggiungeremo al catalogo più avanti, insieme alle emissioni ordinarie della Germania.",
+        "nl": "The Rolling Stones stamps are not in StampIQ yet. We add them to the catalogue later, together with the regular German issues.",
+        "pl": "The Rolling Stones stamps are not in StampIQ yet. We add them to the catalogue later, together with the regular German issues.",
+        "cs": "The Rolling Stones stamps are not in StampIQ yet. We add them to the catalogue later, together with the regular German issues.",
+        "sk": "The Rolling Stones stamps are not in StampIQ yet. We add them to the catalogue later, together with the regular German issues.",
+        "ro": "The Rolling Stones stamps are not in StampIQ yet. We add them to the catalogue later, together with the regular German issues.",
+        "hu": "The Rolling Stones stamps are not in StampIQ yet. We add them to the catalogue later, together with the regular German issues.",
+        "da": "The Rolling Stones stamps are not in StampIQ yet. We add them to the catalogue later, together with the regular German issues."
+      },
+      "type": "note"
+    }
+  ]
+}

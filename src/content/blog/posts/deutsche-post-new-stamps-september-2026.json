@@ -1,0 +1,1091 @@
+{
+  "category": "new-issues",
+  "markets": [
+    "CH",
+    "LI",
+    "DE",
+    "AT"
+  ],
+  "langs": [
+    "en",
+    "de",
+    "fr",
+    "it"
+  ],
+  "published_at": "2026-10-07T07:30:00+00:00",
+  "thumbnail": {
+    "src": "https://assets.stampiq.io/blog/e7ada558aa3bac39/de-new-issues-2026-09-03-card.png",
+    "width": 2201,
+    "height": 880
+  },
+  "languages": {
+    "en": {
+      "slug": "deutsche-post-new-stamps-september-2026",
+      "title": "New German stamps of 3 September 2026",
+      "description": "Deutsche Post issued five special stamps on 3 September 2026. One of them shows the Alexandria «Blue Boy» from 1847."
+    },
+    "de": {
+      "slug": "neue-briefmarken-deutsche-post-september-2026",
+      "title": "Neue deutsche Briefmarken vom 3. September 2026",
+      "description": "Die Deutsche Post hat am 3. September 2026 fünf Sonderbriefmarken herausgegeben. Eine davon zeigt den Alexandria „Blue Boy“ von 1847."
+    },
+    "fr": {
+      "slug": "nouveaux-timbres-allemands-septembre-2026",
+      "title": "Nouveaux timbres allemands du 3 septembre 2026",
+      "description": "La Deutsche Post a émis cinq timbres spéciaux le 3 septembre 2026. L'un d'eux montre le « Blue Boy » d'Alexandria de 1847."
+    },
+    "it": {
+      "slug": "nuovi-francobolli-tedeschi-settembre-2026",
+      "title": "Nuovi francobolli tedeschi del 3 settembre 2026",
+      "description": "Il 3 settembre 2026 Deutsche Post ha emesso cinque francobolli speciali. Uno di questi riproduce l'Alexandria \"Blue Boy\" del 1847."
+    },
+    "nl": {
+      "slug": "deutsche-post-new-stamps-september-2026",
+      "title": "New German stamps of 3 September 2026",
+      "description": "Deutsche Post issued five special stamps on 3 September 2026. One of them shows the Alexandria «Blue Boy» from 1847."
+    },
+    "pl": {
+      "slug": "deutsche-post-new-stamps-september-2026",
+      "title": "New German stamps of 3 September 2026",
+      "description": "Deutsche Post issued five special stamps on 3 September 2026. One of them shows the Alexandria «Blue Boy» from 1847."
+    },
+    "cs": {
+      "slug": "deutsche-post-new-stamps-september-2026",
+      "title": "New German stamps of 3 September 2026",
+      "description": "Deutsche Post issued five special stamps on 3 September 2026. One of them shows the Alexandria «Blue Boy» from 1847."
+    },
+    "sk": {
+      "slug": "deutsche-post-new-stamps-september-2026",
+      "title": "New German stamps of 3 September 2026",
+      "description": "Deutsche Post issued five special stamps on 3 September 2026. One of them shows the Alexandria «Blue Boy» from 1847."
+    },
+    "ro": {
+      "slug": "deutsche-post-new-stamps-september-2026",
+      "title": "New German stamps of 3 September 2026",
+      "description": "Deutsche Post issued five special stamps on 3 September 2026. One of them shows the Alexandria «Blue Boy» from 1847."
+    },
+    "hu": {
+      "slug": "deutsche-post-new-stamps-september-2026",
+      "title": "New German stamps of 3 September 2026",
+      "description": "Deutsche Post issued five special stamps on 3 September 2026. One of them shows the Alexandria «Blue Boy» from 1847."
+    },
+    "da": {
+      "slug": "deutsche-post-new-stamps-september-2026",
+      "title": "New German stamps of 3 September 2026",
+      "description": "Deutsche Post issued five special stamps on 3 September 2026. One of them shows the Alexandria «Blue Boy» from 1847."
+    }
+  },
+  "header": {
+    "lead": {
+      "en": "On 3 September Deutsche Post issued five special stamps. One of them shows the Alexandria «Blue Boy», a US stamp from 1847 that the Bund Deutscher Philatelisten calls an icon of philately.",
+      "de": "Am 3. September hat die Deutsche Post fünf Sonderbriefmarken herausgegeben. Eine davon zeigt den Alexandria „Blue Boy“, eine US-Marke von 1847, die der Bund Deutscher Philatelisten eine Ikone der Philatelie nennt.",
+      "fr": "Le 3 septembre, la Deutsche Post a émis cinq timbres spéciaux. L'un d'eux montre le « Blue Boy » d'Alexandria, un timbre américain de 1847 que le Bund Deutscher Philatelisten appelle une icône de la philatélie.",
+      "it": "Il 3 settembre Deutsche Post ha emesso cinque francobolli speciali. Uno di questi riproduce l'Alexandria \"Blue Boy\", un francobollo statunitense del 1847 che il Bund Deutscher Philatelisten considera un'icona della filatelia.",
+      "nl": "On 3 September Deutsche Post issued five special stamps. One of them shows the Alexandria «Blue Boy», a US stamp from 1847 that the Bund Deutscher Philatelisten calls an icon of philately.",
+      "pl": "On 3 September Deutsche Post issued five special stamps. One of them shows the Alexandria «Blue Boy», a US stamp from 1847 that the Bund Deutscher Philatelisten calls an icon of philately.",
+      "cs": "On 3 September Deutsche Post issued five special stamps. One of them shows the Alexandria «Blue Boy», a US stamp from 1847 that the Bund Deutscher Philatelisten calls an icon of philately.",
+      "sk": "On 3 September Deutsche Post issued five special stamps. One of them shows the Alexandria «Blue Boy», a US stamp from 1847 that the Bund Deutscher Philatelisten calls an icon of philately.",
+      "ro": "On 3 September Deutsche Post issued five special stamps. One of them shows the Alexandria «Blue Boy», a US stamp from 1847 that the Bund Deutscher Philatelisten calls an icon of philately.",
+      "hu": "On 3 September Deutsche Post issued five special stamps. One of them shows the Alexandria «Blue Boy», a US stamp from 1847 that the Bund Deutscher Philatelisten calls an icon of philately.",
+      "da": "On 3 September Deutsche Post issued five special stamps. One of them shows the Alexandria «Blue Boy», a US stamp from 1847 that the Bund Deutscher Philatelisten calls an icon of philately."
+    },
+    "visual": {
+      "type": "stamp-fan",
+      "stamps": [
+        {
+          "name": {
+            "en": "Schätze der Philatelie: The Alexandria «Blue Boy», €0.95",
+            "de": "Schätze der Philatelie: The Alexandria „Blue Boy“, 0,95 €",
+            "fr": "Schätze der Philatelie : The Alexandria « Blue Boy », 0,95 €",
+            "it": "Schätze der Philatelie: The Alexandria \"Blue Boy\", 0,95 €",
+            "nl": "Schätze der Philatelie: The Alexandria «Blue Boy», €0.95",
+            "pl": "Schätze der Philatelie: The Alexandria «Blue Boy», €0.95",
+            "cs": "Schätze der Philatelie: The Alexandria «Blue Boy», €0.95",
+            "sk": "Schätze der Philatelie: The Alexandria «Blue Boy», €0.95",
+            "ro": "Schätze der Philatelie: The Alexandria «Blue Boy», €0.95",
+            "hu": "Schätze der Philatelie: The Alexandria «Blue Boy», €0.95",
+            "da": "Schätze der Philatelie: The Alexandria «Blue Boy», €0.95"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/f35df95adcf5af56/de-2026-blue-boy.png",
+            "width": 749,
+            "height": 421
+          },
+          "country": "DE",
+          "stamp_id": "de-post-151105580"
+        },
+        {
+          "name": {
+            "en": "60 Jahre Star Trek, €0.95",
+            "de": "60 Jahre Star Trek, 0,95 €",
+            "fr": "60 Jahre Star Trek, 0,95 €",
+            "it": "60 Jahre Star Trek, 0,95 €",
+            "nl": "60 Jahre Star Trek, €0.95",
+            "pl": "60 Jahre Star Trek, €0.95",
+            "cs": "60 Jahre Star Trek, €0.95",
+            "sk": "60 Jahre Star Trek, €0.95",
+            "ro": "60 Jahre Star Trek, €0.95",
+            "hu": "60 Jahre Star Trek, €0.95",
+            "da": "60 Jahre Star Trek, €0.95"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/f0b2fbada327b650/de-2026-star-trek.png",
+            "width": 751,
+            "height": 420
+          },
+          "country": "DE",
+          "stamp_id": "de-post-151105589"
+        },
+        {
+          "name": {
+            "en": "Aenne Burda, €0.95",
+            "de": "Aenne Burda, 0,95 €",
+            "fr": "Aenne Burda, 0,95 €",
+            "it": "Aenne Burda, 0,95 €",
+            "nl": "Aenne Burda, €0.95",
+            "pl": "Aenne Burda, €0.95",
+            "cs": "Aenne Burda, €0.95",
+            "sk": "Aenne Burda, €0.95",
+            "ro": "Aenne Burda, €0.95",
+            "hu": "Aenne Burda, €0.95",
+            "da": "Aenne Burda, €0.95"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/7a7b8d95dc78f6c9/de-2026-aenne-burda.png",
+            "width": 747,
+            "height": 564
+          },
+          "country": "DE",
+          "stamp_id": "de-post-151105599"
+        },
+        {
+          "name": {
+            "en": "Anpassung an den Klimawandel, €0.95 + 0.40",
+            "de": "Anpassung an den Klimawandel, 0,95 € + 0,40 €",
+            "fr": "Anpassung an den Klimawandel, 0,95 + 0,40 €",
+            "it": "Anpassung an den Klimawandel, 0,95 € + 0,40 €",
+            "nl": "Anpassung an den Klimawandel, €0.95 + 0.40",
+            "pl": "Anpassung an den Klimawandel, €0.95 + 0.40",
+            "cs": "Anpassung an den Klimawandel, €0.95 + 0.40",
+            "sk": "Anpassung an den Klimawandel, €0.95 + 0.40",
+            "ro": "Anpassung an den Klimawandel, €0.95 + 0.40",
+            "hu": "Anpassung an den Klimawandel, €0.95 + 0.40",
+            "da": "Anpassung an den Klimawandel, €0.95 + 0.40"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/a7c7fafd8f4bcace/de-2026-klimawandel.png",
+            "width": 753,
+            "height": 421
+          },
+          "country": "DE",
+          "stamp_id": "de-post-151200150"
+        }
+      ]
+    },
+    "date_label": {
+      "en": "3 September 2026",
+      "de": "3. September 2026",
+      "fr": "3 septembre 2026",
+      "it": "3 settembre 2026",
+      "nl": "3 September 2026",
+      "pl": "3 September 2026",
+      "cs": "3 September 2026",
+      "sk": "3 September 2026",
+      "ro": "3 September 2026",
+      "hu": "3 September 2026",
+      "da": "3 September 2026"
+    }
+  },
+  "blocks": [
+    {
+      "id": "blue-boy",
+      "date": {
+        "en": "3 September 2026",
+        "de": "3. September 2026",
+        "fr": "3 septembre 2026",
+        "it": "3 settembre 2026",
+        "nl": "3 September 2026",
+        "pl": "3 September 2026",
+        "cs": "3 September 2026",
+        "sk": "3 September 2026",
+        "ro": "3 September 2026",
+        "hu": "3 September 2026",
+        "da": "3 September 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Schätze der Philatelie: The Alexandria «Blue Boy», €0.95",
+          "de": "Schätze der Philatelie: The Alexandria „Blue Boy“, 0,95 €",
+          "fr": "Schätze der Philatelie : The Alexandria « Blue Boy », 0,95 €",
+          "it": "Schätze der Philatelie: The Alexandria \"Blue Boy\", 0,95 €",
+          "nl": "Schätze der Philatelie: The Alexandria «Blue Boy», €0.95",
+          "pl": "Schätze der Philatelie: The Alexandria «Blue Boy», €0.95",
+          "cs": "Schätze der Philatelie: The Alexandria «Blue Boy», €0.95",
+          "sk": "Schätze der Philatelie: The Alexandria «Blue Boy», €0.95",
+          "ro": "Schätze der Philatelie: The Alexandria «Blue Boy», €0.95",
+          "hu": "Schätze der Philatelie: The Alexandria «Blue Boy», €0.95",
+          "da": "Schätze der Philatelie: The Alexandria «Blue Boy», €0.95"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/f35df95adcf5af56/de-2026-blue-boy.png",
+          "width": 749,
+          "height": 421
+        },
+        "country": "DE",
+        "stamp_id": "de-post-151105580"
+      },
+      "title": {
+        "en": "The Alexandria «Blue Boy»",
+        "de": "Der Alexandria „Blue Boy“",
+        "fr": "Le « Blue Boy » d'Alexandria",
+        "it": "L'Alexandria \"Blue Boy\"",
+        "nl": "The Alexandria «Blue Boy»",
+        "pl": "The Alexandria «Blue Boy»",
+        "cs": "The Alexandria «Blue Boy»",
+        "sk": "The Alexandria «Blue Boy»",
+        "ro": "The Alexandria «Blue Boy»",
+        "hu": "The Alexandria «Blue Boy»",
+        "da": "The Alexandria «Blue Boy»"
+      },
+      "formats": [
+        {
+          "value": "€0.95",
+          "format": {
+            "en": "Stamp",
+            "de": "Briefmarke",
+            "fr": "Timbre",
+            "it": "Francobollo",
+            "nl": "Stamp",
+            "pl": "Stamp",
+            "cs": "Stamp",
+            "sk": "Stamp",
+            "ro": "Stamp",
+            "hu": "Stamp",
+            "da": "Stamp"
+          }
+        },
+        {
+          "value": "€9.50",
+          "format": {
+            "en": "Sheet of 10",
+            "de": "Zehnerbogen",
+            "fr": "Feuille de 10",
+            "it": "Foglio da 10",
+            "nl": "Sheet of 10",
+            "pl": "Sheet of 10",
+            "cs": "Sheet of 10",
+            "sk": "Sheet of 10",
+            "ro": "Sheet of 10",
+            "hu": "Sheet of 10",
+            "da": "Sheet of 10"
+          }
+        },
+        {
+          "value": "€0.95",
+          "format": {
+            "en": "Block with one stamp",
+            "de": "Block mit einer Marke",
+            "fr": "Bloc d'un timbre",
+            "it": "Foglietto con un francobollo",
+            "nl": "Block with one stamp",
+            "pl": "Block with one stamp",
+            "cs": "Block with one stamp",
+            "sk": "Block with one stamp",
+            "ro": "Block with one stamp",
+            "hu": "Block with one stamp",
+            "da": "Block with one stamp"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "From 1845 the United States had a 5-cent rate for letters up to 300 miles, and no stamp for it. Until 1847 eleven postmasters had their own stamps printed. One of them was Daniel Bryan, postmaster in Alexandria, Virginia, for more than three decades.",
+          "de": "In den USA galt ab 1845 ein Porto von 5 Cent für Briefe bis 300 Meilen, eine Marke dafür gab es nicht. Bis 1847 ließen elf Postmeister eigene Marken drucken. Einer von ihnen war Daniel Bryan, über drei Jahrzehnte lang Postmeister in Alexandria, Virginia.",
+          "fr": "À partir de 1845, les États-Unis appliquaient un tarif de 5 cents pour les lettres jusqu'à 300 miles, sans timbre correspondant. Jusqu'en 1847, onze maîtres de poste ont fait imprimer leurs propres timbres. L'un d'eux était Daniel Bryan, maître de poste à Alexandria, en Virginie, pendant plus de trente ans.",
+          "it": "Dal 1845 negli Stati Uniti le lettere fino a 300 miglia costavano 5 centesimi, una tariffa per la quale non esisteva un francobollo. Fino al 1847 undici direttori di uffici postali fecero stampare francobolli propri. Uno di loro era Daniel Bryan, per oltre trent'anni direttore dell'ufficio postale di Alexandria, in Virginia.",
+          "nl": "From 1845 the United States had a 5-cent rate for letters up to 300 miles, and no stamp for it. Until 1847 eleven postmasters had their own stamps printed. One of them was Daniel Bryan, postmaster in Alexandria, Virginia, for more than three decades.",
+          "pl": "From 1845 the United States had a 5-cent rate for letters up to 300 miles, and no stamp for it. Until 1847 eleven postmasters had their own stamps printed. One of them was Daniel Bryan, postmaster in Alexandria, Virginia, for more than three decades.",
+          "cs": "From 1845 the United States had a 5-cent rate for letters up to 300 miles, and no stamp for it. Until 1847 eleven postmasters had their own stamps printed. One of them was Daniel Bryan, postmaster in Alexandria, Virginia, for more than three decades.",
+          "sk": "From 1845 the United States had a 5-cent rate for letters up to 300 miles, and no stamp for it. Until 1847 eleven postmasters had their own stamps printed. One of them was Daniel Bryan, postmaster in Alexandria, Virginia, for more than three decades.",
+          "ro": "From 1845 the United States had a 5-cent rate for letters up to 300 miles, and no stamp for it. Until 1847 eleven postmasters had their own stamps printed. One of them was Daniel Bryan, postmaster in Alexandria, Virginia, for more than three decades.",
+          "hu": "From 1845 the United States had a 5-cent rate for letters up to 300 miles, and no stamp for it. Until 1847 eleven postmasters had their own stamps printed. One of them was Daniel Bryan, postmaster in Alexandria, Virginia, for more than three decades.",
+          "da": "From 1845 the United States had a 5-cent rate for letters up to 300 miles, and no stamp for it. Until 1847 eleven postmasters had their own stamps printed. One of them was Daniel Bryan, postmaster in Alexandria, Virginia, for more than three decades."
+        },
+        {
+          "en": "Seven Alexandria stamps are known today, and only one of them is printed on blue paper. It is on a letter that James Wallace Hooff sent to his second cousin Jannett Hooff Brown in Richmond on 24 November 1847. The letter ends with \"Burn as usual\", and six years later the two married.",
+          "de": "Heute sind sieben Alexandria-Marken bekannt, und nur eine davon ist auf blaues Papier gedruckt. Sie klebt auf einem Brief, den James Wallace Hooff am 24. November 1847 an seine Cousine zweiten Grades Jannett Hooff Brown in Richmond schickte. Der Brief endet mit „Burn as usual“, sechs Jahre später heirateten die beiden.",
+          "fr": "On connaît aujourd'hui sept timbres d'Alexandria, et un seul est imprimé sur papier bleu. Il se trouve sur une lettre que James Wallace Hooff a envoyée le 24 novembre 1847 à sa petite-cousine Jannett Hooff Brown, à Richmond. La lettre se termine par « Burn as usual », et six ans plus tard les deux se sont mariés.",
+          "it": "Oggi si conoscono sette francobolli di Alexandria e uno solo è stampato su carta azzurra. Si trova su una lettera che James Wallace Hooff spedì il 24 novembre 1847 a Richmond, alla cugina di secondo grado Jannett Hooff Brown. La lettera si chiude con \"Burn as usual\" e sei anni dopo i due si sposarono.",
+          "nl": "Seven Alexandria stamps are known today, and only one of them is printed on blue paper. It is on a letter that James Wallace Hooff sent to his second cousin Jannett Hooff Brown in Richmond on 24 November 1847. The letter ends with \"Burn as usual\", and six years later the two married.",
+          "pl": "Seven Alexandria stamps are known today, and only one of them is printed on blue paper. It is on a letter that James Wallace Hooff sent to his second cousin Jannett Hooff Brown in Richmond on 24 November 1847. The letter ends with \"Burn as usual\", and six years later the two married.",
+          "cs": "Seven Alexandria stamps are known today, and only one of them is printed on blue paper. It is on a letter that James Wallace Hooff sent to his second cousin Jannett Hooff Brown in Richmond on 24 November 1847. The letter ends with \"Burn as usual\", and six years later the two married.",
+          "sk": "Seven Alexandria stamps are known today, and only one of them is printed on blue paper. It is on a letter that James Wallace Hooff sent to his second cousin Jannett Hooff Brown in Richmond on 24 November 1847. The letter ends with \"Burn as usual\", and six years later the two married.",
+          "ro": "Seven Alexandria stamps are known today, and only one of them is printed on blue paper. It is on a letter that James Wallace Hooff sent to his second cousin Jannett Hooff Brown in Richmond on 24 November 1847. The letter ends with \"Burn as usual\", and six years later the two married.",
+          "hu": "Seven Alexandria stamps are known today, and only one of them is printed on blue paper. It is on a letter that James Wallace Hooff sent to his second cousin Jannett Hooff Brown in Richmond on 24 November 1847. The letter ends with \"Burn as usual\", and six years later the two married.",
+          "da": "Seven Alexandria stamps are known today, and only one of them is printed on blue paper. It is on a letter that James Wallace Hooff sent to his second cousin Jannett Hooff Brown in Richmond on 24 November 1847. The letter ends with \"Burn as usual\", and six years later the two married."
+        },
+        {
+          "en": "In 1907 their daughter found the cover, and it was sold soon after for 3,000 dollars. Alfred Caspary owned it later. In 1981 it sold for one million dollars, and in 2019 for 1.18 million.",
+          "de": "1907 fand ihre Tochter den Beleg, kurz darauf wurde er für 3.000 Dollar verkauft. Später gehörte er Alfred Caspary. 1981 brachte er eine Million Dollar, 2019 dann 1,18 Millionen.",
+          "fr": "En 1907, leur fille a retrouvé la lettre, vendue peu après 3 000 dollars. Alfred Caspary l'a possédée plus tard. En 1981, elle est partie pour un million de dollars, et en 2019 pour 1,18 million.",
+          "it": "Nel 1907 la loro figlia ritrovò la busta, venduta poco dopo per 3.000 dollari. In seguito appartenne ad Alfred Caspary. Nel 1981 passò di mano per un milione di dollari e nel 2019 per 1,18 milioni.",
+          "nl": "In 1907 their daughter found the cover, and it was sold soon after for 3,000 dollars. Alfred Caspary owned it later. In 1981 it sold for one million dollars, and in 2019 for 1.18 million.",
+          "pl": "In 1907 their daughter found the cover, and it was sold soon after for 3,000 dollars. Alfred Caspary owned it later. In 1981 it sold for one million dollars, and in 2019 for 1.18 million.",
+          "cs": "In 1907 their daughter found the cover, and it was sold soon after for 3,000 dollars. Alfred Caspary owned it later. In 1981 it sold for one million dollars, and in 2019 for 1.18 million.",
+          "sk": "In 1907 their daughter found the cover, and it was sold soon after for 3,000 dollars. Alfred Caspary owned it later. In 1981 it sold for one million dollars, and in 2019 for 1.18 million.",
+          "ro": "In 1907 their daughter found the cover, and it was sold soon after for 3,000 dollars. Alfred Caspary owned it later. In 1981 it sold for one million dollars, and in 2019 for 1.18 million.",
+          "hu": "In 1907 their daughter found the cover, and it was sold soon after for 3,000 dollars. Alfred Caspary owned it later. In 1981 it sold for one million dollars, and in 2019 for 1.18 million.",
+          "da": "In 1907 their daughter found the cover, and it was sold soon after for 3,000 dollars. Alfred Caspary owned it later. In 1981 it sold for one million dollars, and in 2019 for 1.18 million."
+        },
+        {
+          "en": "The German stamp shows a section of the cover, in the series «Schätze der Philatelie». Hagen Verleger designed it. The block with one stamp shows the whole cover with the story printed next to it.",
+          "de": "Die deutsche Marke zeigt einen Ausschnitt des Belegs, in der Serie „Schätze der Philatelie“. Gestaltet hat sie Hagen Verleger. Der Block mit einer Marke zeigt den ganzen Beleg, daneben ist die Geschichte abgedruckt.",
+          "fr": "Le timbre allemand reprend un détail de la lettre, dans la série « Schätze der Philatelie ». Hagen Verleger l'a dessiné. Le bloc d'un timbre montre la lettre entière, avec son histoire imprimée à côté.",
+          "it": "Il francobollo tedesco riproduce un particolare della busta e fa parte della serie \"Schätze der Philatelie\". L'ha disegnato Hagen Verleger. Il foglietto con un francobollo mostra la busta intera, con accanto la sua storia.",
+          "nl": "The German stamp shows a section of the cover, in the series «Schätze der Philatelie». Hagen Verleger designed it. The block with one stamp shows the whole cover with the story printed next to it.",
+          "pl": "The German stamp shows a section of the cover, in the series «Schätze der Philatelie». Hagen Verleger designed it. The block with one stamp shows the whole cover with the story printed next to it.",
+          "cs": "The German stamp shows a section of the cover, in the series «Schätze der Philatelie». Hagen Verleger designed it. The block with one stamp shows the whole cover with the story printed next to it.",
+          "sk": "The German stamp shows a section of the cover, in the series «Schätze der Philatelie». Hagen Verleger designed it. The block with one stamp shows the whole cover with the story printed next to it.",
+          "ro": "The German stamp shows a section of the cover, in the series «Schätze der Philatelie». Hagen Verleger designed it. The block with one stamp shows the whole cover with the story printed next to it.",
+          "hu": "The German stamp shows a section of the cover, in the series «Schätze der Philatelie». Hagen Verleger designed it. The block with one stamp shows the whole cover with the story printed next to it.",
+          "da": "The German stamp shows a section of the cover, in the series «Schätze der Philatelie». Hagen Verleger designed it. The block with one stamp shows the whole cover with the story printed next to it."
+        }
+      ]
+    },
+    {
+      "id": "cover",
+      "type": "text",
+      "label": {
+        "en": "The cover",
+        "de": "Der Beleg",
+        "fr": "Le pli",
+        "it": "La busta",
+        "nl": "The cover",
+        "pl": "The cover",
+        "cs": "The cover",
+        "sk": "The cover",
+        "ro": "The cover",
+        "hu": "The cover",
+        "da": "The cover"
+      },
+      "title": {
+        "en": "The letter from 1847",
+        "de": "Der Brief von 1847",
+        "fr": "La lettre de 1847",
+        "it": "La lettera del 1847",
+        "nl": "The letter from 1847",
+        "pl": "The letter from 1847",
+        "cs": "The letter from 1847",
+        "sk": "The letter from 1847",
+        "ro": "The letter from 1847",
+        "hu": "The letter from 1847",
+        "da": "The letter from 1847"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/afb568e1e3d08f54/alexandria-blue-boy-cover-1847.jpg",
+          "width": 633,
+          "credit": "Public domain",
+          "height": 371,
+          "caption": {
+            "en": "The Alexandria «Blue Boy» cover, 1847",
+            "de": "Der Beleg mit dem Alexandria „Blue Boy“, 1847",
+            "fr": "La lettre au « Blue Boy » d'Alexandria, 1847",
+            "it": "La busta dell'Alexandria \"Blue Boy\", 1847",
+            "nl": "The Alexandria «Blue Boy» cover, 1847",
+            "pl": "The Alexandria «Blue Boy» cover, 1847",
+            "cs": "The Alexandria «Blue Boy» cover, 1847",
+            "sk": "The Alexandria «Blue Boy» cover, 1847",
+            "ro": "The Alexandria «Blue Boy» cover, 1847",
+            "hu": "The Alexandria «Blue Boy» cover, 1847",
+            "da": "The Alexandria «Blue Boy» cover, 1847"
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Scott_1X2.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "This is the original cover with the blue Alexandria stamp, addressed to Jannett Hooff Brown in Richmond.",
+          "de": "Das ist der Originalbeleg mit der blauen Alexandria-Marke, adressiert an Jannett Hooff Brown in Richmond.",
+          "fr": "Voici la lettre d'origine avec le timbre bleu d'Alexandria, adressée à Jannett Hooff Brown à Richmond.",
+          "it": "Questa è la busta originale con il francobollo azzurro di Alexandria, indirizzata a Jannett Hooff Brown a Richmond.",
+          "nl": "This is the original cover with the blue Alexandria stamp, addressed to Jannett Hooff Brown in Richmond.",
+          "pl": "This is the original cover with the blue Alexandria stamp, addressed to Jannett Hooff Brown in Richmond.",
+          "cs": "This is the original cover with the blue Alexandria stamp, addressed to Jannett Hooff Brown in Richmond.",
+          "sk": "This is the original cover with the blue Alexandria stamp, addressed to Jannett Hooff Brown in Richmond.",
+          "ro": "This is the original cover with the blue Alexandria stamp, addressed to Jannett Hooff Brown in Richmond.",
+          "hu": "This is the original cover with the blue Alexandria stamp, addressed to Jannett Hooff Brown in Richmond.",
+          "da": "This is the original cover with the blue Alexandria stamp, addressed to Jannett Hooff Brown in Richmond."
+        },
+        {
+          "en": "Deutsche Post's block shows the same cover next to a historical map of Virginia.",
+          "de": "Der Block der Deutschen Post zeigt denselben Beleg neben einer historischen Karte von Virginia.",
+          "fr": "Le bloc de la Deutsche Post montre cette même lettre à côté d'une carte historique de la Virginie.",
+          "it": "Il foglietto di Deutsche Post riprende la stessa busta accanto a una mappa storica della Virginia.",
+          "nl": "Deutsche Post's block shows the same cover next to a historical map of Virginia.",
+          "pl": "Deutsche Post's block shows the same cover next to a historical map of Virginia.",
+          "cs": "Deutsche Post's block shows the same cover next to a historical map of Virginia.",
+          "sk": "Deutsche Post's block shows the same cover next to a historical map of Virginia.",
+          "ro": "Deutsche Post's block shows the same cover next to a historical map of Virginia.",
+          "hu": "Deutsche Post's block shows the same cover next to a historical map of Virginia.",
+          "da": "Deutsche Post's block shows the same cover next to a historical map of Virginia."
+        }
+      ]
+    },
+    {
+      "id": "star-trek",
+      "date": {
+        "en": "3 September 2026",
+        "de": "3. September 2026",
+        "fr": "3 septembre 2026",
+        "it": "3 settembre 2026",
+        "nl": "3 September 2026",
+        "pl": "3 September 2026",
+        "cs": "3 September 2026",
+        "sk": "3 September 2026",
+        "ro": "3 September 2026",
+        "hu": "3 September 2026",
+        "da": "3 September 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "60 Jahre Star Trek, €0.95",
+          "de": "60 Jahre Star Trek, 0,95 €",
+          "fr": "60 Jahre Star Trek, 0,95 €",
+          "it": "60 Jahre Star Trek, 0,95 €",
+          "nl": "60 Jahre Star Trek, €0.95",
+          "pl": "60 Jahre Star Trek, €0.95",
+          "cs": "60 Jahre Star Trek, €0.95",
+          "sk": "60 Jahre Star Trek, €0.95",
+          "ro": "60 Jahre Star Trek, €0.95",
+          "hu": "60 Jahre Star Trek, €0.95",
+          "da": "60 Jahre Star Trek, €0.95"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/f0b2fbada327b650/de-2026-star-trek.png",
+          "width": 751,
+          "height": 420
+        },
+        "country": "DE",
+        "stamp_id": "de-post-151105589"
+      },
+      "title": {
+        "en": "Star Trek",
+        "de": "Star Trek",
+        "fr": "Star Trek",
+        "it": "Star Trek",
+        "nl": "Star Trek",
+        "pl": "Star Trek",
+        "cs": "Star Trek",
+        "sk": "Star Trek",
+        "ro": "Star Trek",
+        "hu": "Star Trek",
+        "da": "Star Trek"
+      },
+      "formats": [
+        {
+          "value": "€0.95",
+          "format": {
+            "en": "Stamp",
+            "de": "Briefmarke",
+            "fr": "Timbre",
+            "it": "Francobollo",
+            "nl": "Stamp",
+            "pl": "Stamp",
+            "cs": "Stamp",
+            "sk": "Stamp",
+            "ro": "Stamp",
+            "hu": "Stamp",
+            "da": "Stamp"
+          }
+        },
+        {
+          "value": "€9.50",
+          "format": {
+            "en": "Sheet of 10",
+            "de": "Zehnerbogen",
+            "fr": "Feuille de 10",
+            "it": "Foglio da 10",
+            "nl": "Sheet of 10",
+            "pl": "Sheet of 10",
+            "cs": "Sheet of 10",
+            "sk": "Sheet of 10",
+            "ro": "Sheet of 10",
+            "hu": "Sheet of 10",
+            "da": "Sheet of 10"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "Gene Roddenberry's Star Trek was first broadcast on 8 September 1966 and ran for 79 episodes in three seasons until 1969. German television showed it as «Raumschiff Enterprise» from 27 May 1972. Since 1979 there have been 13 Star Trek films, and in 2026 the newest series, «Star Trek: Starfleet Academy», started.",
+          "de": "Gene Roddenberrys Star Trek lief erstmals am 8. September 1966 und brachte es bis 1969 auf 79 Folgen in drei Staffeln. Im deutschen Fernsehen lief die Serie ab dem 27. Mai 1972 als „Raumschiff Enterprise“. Seit 1979 sind 13 Star-Trek-Filme erschienen, 2026 startete die neueste Serie „Star Trek: Starfleet Academy“.",
+          "fr": "Star Trek, de Gene Roddenberry, a été diffusé pour la première fois le 8 septembre 1966 et a compté 79 épisodes en trois saisons jusqu'en 1969. La télévision allemande l'a montré sous le titre « Raumschiff Enterprise » à partir du 27 mai 1972. Depuis 1979, 13 films Star Trek sont sortis, et en 2026 la plus récente série, « Star Trek : Starfleet Academy », a commencé.",
+          "it": "Star Trek, nata da un'idea di Gene Roddenberry, andò in onda per la prima volta l'8 settembre 1966 e fino al 1969 raggiunse 79 episodi in tre stagioni. In Germania la serie andò in onda dal 27 maggio 1972 con il titolo \"Raumschiff Enterprise\". Dal 1979 sono usciti 13 film di Star Trek e nel 2026 è partita la serie più recente, \"Star Trek: Starfleet Academy\".",
+          "nl": "Gene Roddenberry's Star Trek was first broadcast on 8 September 1966 and ran for 79 episodes in three seasons until 1969. German television showed it as «Raumschiff Enterprise» from 27 May 1972. Since 1979 there have been 13 Star Trek films, and in 2026 the newest series, «Star Trek: Starfleet Academy», started.",
+          "pl": "Gene Roddenberry's Star Trek was first broadcast on 8 September 1966 and ran for 79 episodes in three seasons until 1969. German television showed it as «Raumschiff Enterprise» from 27 May 1972. Since 1979 there have been 13 Star Trek films, and in 2026 the newest series, «Star Trek: Starfleet Academy», started.",
+          "cs": "Gene Roddenberry's Star Trek was first broadcast on 8 September 1966 and ran for 79 episodes in three seasons until 1969. German television showed it as «Raumschiff Enterprise» from 27 May 1972. Since 1979 there have been 13 Star Trek films, and in 2026 the newest series, «Star Trek: Starfleet Academy», started.",
+          "sk": "Gene Roddenberry's Star Trek was first broadcast on 8 September 1966 and ran for 79 episodes in three seasons until 1969. German television showed it as «Raumschiff Enterprise» from 27 May 1972. Since 1979 there have been 13 Star Trek films, and in 2026 the newest series, «Star Trek: Starfleet Academy», started.",
+          "ro": "Gene Roddenberry's Star Trek was first broadcast on 8 September 1966 and ran for 79 episodes in three seasons until 1969. German television showed it as «Raumschiff Enterprise» from 27 May 1972. Since 1979 there have been 13 Star Trek films, and in 2026 the newest series, «Star Trek: Starfleet Academy», started.",
+          "hu": "Gene Roddenberry's Star Trek was first broadcast on 8 September 1966 and ran for 79 episodes in three seasons until 1969. German television showed it as «Raumschiff Enterprise» from 27 May 1972. Since 1979 there have been 13 Star Trek films, and in 2026 the newest series, «Star Trek: Starfleet Academy», started.",
+          "da": "Gene Roddenberry's Star Trek was first broadcast on 8 September 1966 and ran for 79 episodes in three seasons until 1969. German television showed it as «Raumschiff Enterprise» from 27 May 1972. Since 1979 there have been 13 Star Trek films, and in 2026 the newest series, «Star Trek: Starfleet Academy», started."
+        },
+        {
+          "en": "The stamp shows the USS Enterprise NCC-1701 with Captain Kirk's line \"Wo noch nie ein Mensch gewesen ist\". Jan-Niklas Kröger designed it, and 1.3 million were printed.",
+          "de": "Die Marke zeigt die USS Enterprise NCC-1701 mit dem Satz von Captain Kirk „Wo noch nie ein Mensch gewesen ist“. Gestaltet hat sie Jan-Niklas Kröger, gedruckt wurden 1,3 Millionen Stück.",
+          "fr": "Le timbre montre l'USS Enterprise NCC-1701 avec la réplique du capitaine Kirk « Wo noch nie ein Mensch gewesen ist ». Jan-Niklas Kröger l'a dessiné, et il a été imprimé à 1,3 million d'exemplaires.",
+          "it": "Il francobollo mostra la USS Enterprise NCC-1701 con la frase del capitano Kirk \"Wo noch nie ein Mensch gewesen ist\". L'ha disegnato Jan-Niklas Kröger e la tiratura è di 1,3 milioni.",
+          "nl": "The stamp shows the USS Enterprise NCC-1701 with Captain Kirk's line \"Wo noch nie ein Mensch gewesen ist\". Jan-Niklas Kröger designed it, and 1.3 million were printed.",
+          "pl": "The stamp shows the USS Enterprise NCC-1701 with Captain Kirk's line \"Wo noch nie ein Mensch gewesen ist\". Jan-Niklas Kröger designed it, and 1.3 million were printed.",
+          "cs": "The stamp shows the USS Enterprise NCC-1701 with Captain Kirk's line \"Wo noch nie ein Mensch gewesen ist\". Jan-Niklas Kröger designed it, and 1.3 million were printed.",
+          "sk": "The stamp shows the USS Enterprise NCC-1701 with Captain Kirk's line \"Wo noch nie ein Mensch gewesen ist\". Jan-Niklas Kröger designed it, and 1.3 million were printed.",
+          "ro": "The stamp shows the USS Enterprise NCC-1701 with Captain Kirk's line \"Wo noch nie ein Mensch gewesen ist\". Jan-Niklas Kröger designed it, and 1.3 million were printed.",
+          "hu": "The stamp shows the USS Enterprise NCC-1701 with Captain Kirk's line \"Wo noch nie ein Mensch gewesen ist\". Jan-Niklas Kröger designed it, and 1.3 million were printed.",
+          "da": "The stamp shows the USS Enterprise NCC-1701 with Captain Kirk's line \"Wo noch nie ein Mensch gewesen ist\". Jan-Niklas Kröger designed it, and 1.3 million were printed."
+        },
+        {
+          "en": "On 8 September, Star Trek Day, Deutsche Post lit up the Post Tower in Bonn with the Star Trek logo. A special post office sold the stamp at the fan event in Movie Park Germany in Bottrop.",
+          "de": "Am 8. September, dem Star Trek Day, hat die Deutsche Post den Post Tower in Bonn mit dem Star-Trek-Logo beleuchtet. Beim Fan-Event im Movie Park Germany in Bottrop verkaufte ein Sonderpostamt die Marke.",
+          "fr": "Le 8 septembre, pour le Star Trek Day, la Deutsche Post a éclairé la Post Tower de Bonn avec le logo Star Trek. Un bureau de poste temporaire vendait le timbre lors de la rencontre de fans au Movie Park Germany, à Bottrop.",
+          "it": "L'8 settembre, Star Trek Day, Deutsche Post ha illuminato la Post Tower di Bonn con il logo di Star Trek. Un ufficio postale speciale ha venduto il francobollo al raduno dei fan al Movie Park Germany di Bottrop.",
+          "nl": "On 8 September, Star Trek Day, Deutsche Post lit up the Post Tower in Bonn with the Star Trek logo. A special post office sold the stamp at the fan event in Movie Park Germany in Bottrop.",
+          "pl": "On 8 September, Star Trek Day, Deutsche Post lit up the Post Tower in Bonn with the Star Trek logo. A special post office sold the stamp at the fan event in Movie Park Germany in Bottrop.",
+          "cs": "On 8 September, Star Trek Day, Deutsche Post lit up the Post Tower in Bonn with the Star Trek logo. A special post office sold the stamp at the fan event in Movie Park Germany in Bottrop.",
+          "sk": "On 8 September, Star Trek Day, Deutsche Post lit up the Post Tower in Bonn with the Star Trek logo. A special post office sold the stamp at the fan event in Movie Park Germany in Bottrop.",
+          "ro": "On 8 September, Star Trek Day, Deutsche Post lit up the Post Tower in Bonn with the Star Trek logo. A special post office sold the stamp at the fan event in Movie Park Germany in Bottrop.",
+          "hu": "On 8 September, Star Trek Day, Deutsche Post lit up the Post Tower in Bonn with the Star Trek logo. A special post office sold the stamp at the fan event in Movie Park Germany in Bottrop.",
+          "da": "On 8 September, Star Trek Day, Deutsche Post lit up the Post Tower in Bonn with the Star Trek logo. A special post office sold the stamp at the fan event in Movie Park Germany in Bottrop."
+        }
+      ]
+    },
+    {
+      "id": "bverfg",
+      "date": {
+        "en": "3 September 2026",
+        "de": "3. September 2026",
+        "fr": "3 septembre 2026",
+        "it": "3 settembre 2026",
+        "nl": "3 September 2026",
+        "pl": "3 September 2026",
+        "cs": "3 September 2026",
+        "sk": "3 September 2026",
+        "ro": "3 September 2026",
+        "hu": "3 September 2026",
+        "da": "3 September 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "75 Jahre Bundesverfassungsgericht, €0.95",
+          "de": "75 Jahre Bundesverfassungsgericht, 0,95 €",
+          "fr": "75 Jahre Bundesverfassungsgericht, 0,95 €",
+          "it": "75 Jahre Bundesverfassungsgericht, 0,95 €",
+          "nl": "75 Jahre Bundesverfassungsgericht, €0.95",
+          "pl": "75 Jahre Bundesverfassungsgericht, €0.95",
+          "cs": "75 Jahre Bundesverfassungsgericht, €0.95",
+          "sk": "75 Jahre Bundesverfassungsgericht, €0.95",
+          "ro": "75 Jahre Bundesverfassungsgericht, €0.95",
+          "hu": "75 Jahre Bundesverfassungsgericht, €0.95",
+          "da": "75 Jahre Bundesverfassungsgericht, €0.95"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/c652cdbeeec42e9b/de-2026-bverfg.png",
+          "width": 751,
+          "height": 416
+        },
+        "country": "DE",
+        "stamp_id": "de-post-151105598"
+      },
+      "title": {
+        "en": "The Federal Constitutional Court in Karlsruhe",
+        "de": "Das Bundesverfassungsgericht in Karlsruhe",
+        "fr": "La Cour constitutionnelle fédérale à Karlsruhe",
+        "it": "La Corte costituzionale federale a Karlsruhe",
+        "nl": "The Federal Constitutional Court in Karlsruhe",
+        "pl": "The Federal Constitutional Court in Karlsruhe",
+        "cs": "The Federal Constitutional Court in Karlsruhe",
+        "sk": "The Federal Constitutional Court in Karlsruhe",
+        "ro": "The Federal Constitutional Court in Karlsruhe",
+        "hu": "The Federal Constitutional Court in Karlsruhe",
+        "da": "The Federal Constitutional Court in Karlsruhe"
+      },
+      "formats": [
+        {
+          "value": "€0.95",
+          "format": {
+            "en": "Stamp",
+            "de": "Briefmarke",
+            "fr": "Timbre",
+            "it": "Francobollo",
+            "nl": "Stamp",
+            "pl": "Stamp",
+            "cs": "Stamp",
+            "sk": "Stamp",
+            "ro": "Stamp",
+            "hu": "Stamp",
+            "da": "Stamp"
+          }
+        },
+        {
+          "value": "€9.50",
+          "format": {
+            "en": "Sheet of 10",
+            "de": "Zehnerbogen",
+            "fr": "Feuille de 10",
+            "it": "Foglio da 10",
+            "nl": "Sheet of 10",
+            "pl": "Sheet of 10",
+            "cs": "Sheet of 10",
+            "sk": "Sheet of 10",
+            "ro": "Sheet of 10",
+            "hu": "Sheet of 10",
+            "da": "Sheet of 10"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "The Bundesverfassungsgericht is a court and a constitutional body at the same time. It began its work on 7 September 1951 in the Prinz-Max-Palais in Karlsruhe and gave its first decision two days later. Its two senates of eight judges each have decided more than 260,000 constitutional complaints.",
+          "de": "Das Bundesverfassungsgericht ist Gericht und Verfassungsorgan zugleich. Am 7. September 1951 nahm es im Prinz-Max-Palais in Karlsruhe seine Arbeit auf, zwei Tage später folgte die erste Entscheidung. Seine zwei Senate mit je acht Richterinnen und Richtern haben über 260.000 Verfassungsbeschwerden entschieden.",
+          "fr": "Le Bundesverfassungsgericht est à la fois un tribunal et un organe constitutionnel. Il a commencé ses travaux le 7 septembre 1951 au Prinz-Max-Palais de Karlsruhe et a rendu sa première décision deux jours plus tard. Ses deux sénats de huit juges chacun ont tranché plus de 260 000 recours constitutionnels.",
+          "it": "Il Bundesverfassungsgericht è allo stesso tempo un tribunale e un organo costituzionale. Ha iniziato la sua attività il 7 settembre 1951 nel Prinz-Max-Palais di Karlsruhe e due giorni dopo ha emesso la prima decisione. I suoi due senati, di otto giudici ciascuno, hanno deciso oltre 260.000 ricorsi costituzionali.",
+          "nl": "The Bundesverfassungsgericht is a court and a constitutional body at the same time. It began its work on 7 September 1951 in the Prinz-Max-Palais in Karlsruhe and gave its first decision two days later. Its two senates of eight judges each have decided more than 260,000 constitutional complaints.",
+          "pl": "The Bundesverfassungsgericht is a court and a constitutional body at the same time. It began its work on 7 September 1951 in the Prinz-Max-Palais in Karlsruhe and gave its first decision two days later. Its two senates of eight judges each have decided more than 260,000 constitutional complaints.",
+          "cs": "The Bundesverfassungsgericht is a court and a constitutional body at the same time. It began its work on 7 September 1951 in the Prinz-Max-Palais in Karlsruhe and gave its first decision two days later. Its two senates of eight judges each have decided more than 260,000 constitutional complaints.",
+          "sk": "The Bundesverfassungsgericht is a court and a constitutional body at the same time. It began its work on 7 September 1951 in the Prinz-Max-Palais in Karlsruhe and gave its first decision two days later. Its two senates of eight judges each have decided more than 260,000 constitutional complaints.",
+          "ro": "The Bundesverfassungsgericht is a court and a constitutional body at the same time. It began its work on 7 September 1951 in the Prinz-Max-Palais in Karlsruhe and gave its first decision two days later. Its two senates of eight judges each have decided more than 260,000 constitutional complaints.",
+          "hu": "The Bundesverfassungsgericht is a court and a constitutional body at the same time. It began its work on 7 September 1951 in the Prinz-Max-Palais in Karlsruhe and gave its first decision two days later. Its two senates of eight judges each have decided more than 260,000 constitutional complaints.",
+          "da": "The Bundesverfassungsgericht is a court and a constitutional body at the same time. It began its work on 7 September 1951 in the Prinz-Max-Palais in Karlsruhe and gave its first decision two days later. Its two senates of eight judges each have decided more than 260,000 constitutional complaints."
+        },
+        {
+          "en": "The stamp shows judges in red robes at the reading of a judgment, next to a large 75 in black, red and gold. Rudolf Grüttner and Sabine Matthes designed it.",
+          "de": "Die Marke zeigt Richterinnen und Richter in roten Roben bei einer Urteilsverkündung, daneben eine große 75 in Schwarz, Rot und Gold. Gestaltet haben sie Rudolf Grüttner und Sabine Matthes.",
+          "fr": "Le timbre montre des juges en robe rouge pendant le prononcé d'un arrêt, à côté d'un grand 75 en noir, rouge et or. Rudolf Grüttner et Sabine Matthes l'ont dessiné.",
+          "it": "Il francobollo mostra i giudici in toga rossa durante la lettura di una sentenza, accanto a un grande 75 in nero, rosso e oro. L'hanno disegnato Rudolf Grüttner e Sabine Matthes.",
+          "nl": "The stamp shows judges in red robes at the reading of a judgment, next to a large 75 in black, red and gold. Rudolf Grüttner and Sabine Matthes designed it.",
+          "pl": "The stamp shows judges in red robes at the reading of a judgment, next to a large 75 in black, red and gold. Rudolf Grüttner and Sabine Matthes designed it.",
+          "cs": "The stamp shows judges in red robes at the reading of a judgment, next to a large 75 in black, red and gold. Rudolf Grüttner and Sabine Matthes designed it.",
+          "sk": "The stamp shows judges in red robes at the reading of a judgment, next to a large 75 in black, red and gold. Rudolf Grüttner and Sabine Matthes designed it.",
+          "ro": "The stamp shows judges in red robes at the reading of a judgment, next to a large 75 in black, red and gold. Rudolf Grüttner and Sabine Matthes designed it.",
+          "hu": "The stamp shows judges in red robes at the reading of a judgment, next to a large 75 in black, red and gold. Rudolf Grüttner and Sabine Matthes designed it.",
+          "da": "The stamp shows judges in red robes at the reading of a judgment, next to a large 75 in black, red and gold. Rudolf Grüttner and Sabine Matthes designed it."
+        },
+        {
+          "en": "For the court's 25th anniversary the Bundespost issued a stamp in 1976. The first-day postmark from Bonn on that cover shows the court building of 1969.",
+          "de": "Zum 25-jährigen Bestehen des Gerichts gab die Bundespost 1976 eine Marke heraus. Der Ersttagsstempel aus Bonn auf diesem Beleg zeigt das Gerichtsgebäude von 1969.",
+          "fr": "Pour les 25 ans de la Cour, la Bundespost avait émis un timbre en 1976. Sur ce pli, le cachet premier jour de Bonn montre le bâtiment de la Cour de 1969.",
+          "it": "Per i 25 anni della Corte la Bundespost emise un francobollo nel 1976. Su quella busta l'annullo del primo giorno di Bonn mostra la sede della Corte del 1969.",
+          "nl": "For the court's 25th anniversary the Bundespost issued a stamp in 1976. The first-day postmark from Bonn on that cover shows the court building of 1969.",
+          "pl": "For the court's 25th anniversary the Bundespost issued a stamp in 1976. The first-day postmark from Bonn on that cover shows the court building of 1969.",
+          "cs": "For the court's 25th anniversary the Bundespost issued a stamp in 1976. The first-day postmark from Bonn on that cover shows the court building of 1969.",
+          "sk": "For the court's 25th anniversary the Bundespost issued a stamp in 1976. The first-day postmark from Bonn on that cover shows the court building of 1969.",
+          "ro": "For the court's 25th anniversary the Bundespost issued a stamp in 1976. The first-day postmark from Bonn on that cover shows the court building of 1969.",
+          "hu": "For the court's 25th anniversary the Bundespost issued a stamp in 1976. The first-day postmark from Bonn on that cover shows the court building of 1969.",
+          "da": "For the court's 25th anniversary the Bundespost issued a stamp in 1976. The first-day postmark from Bonn on that cover shows the court building of 1969."
+        }
+      ]
+    },
+    {
+      "id": "aenne-burda",
+      "date": {
+        "en": "3 September 2026",
+        "de": "3. September 2026",
+        "fr": "3 septembre 2026",
+        "it": "3 settembre 2026",
+        "nl": "3 September 2026",
+        "pl": "3 September 2026",
+        "cs": "3 September 2026",
+        "sk": "3 September 2026",
+        "ro": "3 September 2026",
+        "hu": "3 September 2026",
+        "da": "3 September 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Aenne Burda, €0.95",
+          "de": "Aenne Burda, 0,95 €",
+          "fr": "Aenne Burda, 0,95 €",
+          "it": "Aenne Burda, 0,95 €",
+          "nl": "Aenne Burda, €0.95",
+          "pl": "Aenne Burda, €0.95",
+          "cs": "Aenne Burda, €0.95",
+          "sk": "Aenne Burda, €0.95",
+          "ro": "Aenne Burda, €0.95",
+          "hu": "Aenne Burda, €0.95",
+          "da": "Aenne Burda, €0.95"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/7a7b8d95dc78f6c9/de-2026-aenne-burda.png",
+          "width": 747,
+          "height": 564
+        },
+        "country": "DE",
+        "stamp_id": "de-post-151105599"
+      },
+      "title": {
+        "en": "Aenne Burda",
+        "de": "Aenne Burda",
+        "fr": "Aenne Burda",
+        "it": "Aenne Burda",
+        "nl": "Aenne Burda",
+        "pl": "Aenne Burda",
+        "cs": "Aenne Burda",
+        "sk": "Aenne Burda",
+        "ro": "Aenne Burda",
+        "hu": "Aenne Burda",
+        "da": "Aenne Burda"
+      },
+      "formats": [
+        {
+          "value": "€0.95",
+          "format": {
+            "en": "Stamp",
+            "de": "Briefmarke",
+            "fr": "Timbre",
+            "it": "Francobollo",
+            "nl": "Stamp",
+            "pl": "Stamp",
+            "cs": "Stamp",
+            "sk": "Stamp",
+            "ro": "Stamp",
+            "hu": "Stamp",
+            "da": "Stamp"
+          }
+        },
+        {
+          "value": "€9.50",
+          "format": {
+            "en": "Sheet of 10",
+            "de": "Zehnerbogen",
+            "fr": "Feuille de 10",
+            "it": "Foglio da 10",
+            "nl": "Sheet of 10",
+            "pl": "Sheet of 10",
+            "cs": "Sheet of 10",
+            "sk": "Sheet of 10",
+            "ro": "Sheet of 10",
+            "hu": "Sheet of 10",
+            "da": "Sheet of 10"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "Aenne Burda was born Anna Magdalene Lemminger in Offenburg in 1909. In 1931 she married Franz Burda. At the end of the 1940s she took over a fashion publisher that was losing money, and from 1950 it published «Burda Moden».",
+          "de": "Aenne Burda wurde 1909 als Anna Magdalene Lemminger in Offenburg geboren. 1931 heiratete sie Franz Burda. Ende der 1940er Jahre übernahm sie einen Modeverlag, der Verluste machte, ab 1950 erschien dort „Burda Moden“.",
+          "fr": "Aenne Burda est née Anna Magdalene Lemminger à Offenburg en 1909. En 1931, elle a épousé Franz Burda. À la fin des années 1940, elle a repris une maison d'édition de mode qui perdait de l'argent, et celle-ci a publié « Burda Moden » à partir de 1950.",
+          "it": "Aenne Burda nacque a Offenburg nel 1909 come Anna Magdalene Lemminger. Nel 1931 sposò Franz Burda. Alla fine degli anni Quaranta rilevò una casa editrice di moda in perdita e dal 1950 vi pubblicò \"Burda Moden\".",
+          "nl": "Aenne Burda was born Anna Magdalene Lemminger in Offenburg in 1909. In 1931 she married Franz Burda. At the end of the 1940s she took over a fashion publisher that was losing money, and from 1950 it published «Burda Moden».",
+          "pl": "Aenne Burda was born Anna Magdalene Lemminger in Offenburg in 1909. In 1931 she married Franz Burda. At the end of the 1940s she took over a fashion publisher that was losing money, and from 1950 it published «Burda Moden».",
+          "cs": "Aenne Burda was born Anna Magdalene Lemminger in Offenburg in 1909. In 1931 she married Franz Burda. At the end of the 1940s she took over a fashion publisher that was losing money, and from 1950 it published «Burda Moden».",
+          "sk": "Aenne Burda was born Anna Magdalene Lemminger in Offenburg in 1909. In 1931 she married Franz Burda. At the end of the 1940s she took over a fashion publisher that was losing money, and from 1950 it published «Burda Moden».",
+          "ro": "Aenne Burda was born Anna Magdalene Lemminger in Offenburg in 1909. In 1931 she married Franz Burda. At the end of the 1940s she took over a fashion publisher that was losing money, and from 1950 it published «Burda Moden».",
+          "hu": "Aenne Burda was born Anna Magdalene Lemminger in Offenburg in 1909. In 1931 she married Franz Burda. At the end of the 1940s she took over a fashion publisher that was losing money, and from 1950 it published «Burda Moden».",
+          "da": "Aenne Burda was born Anna Magdalene Lemminger in Offenburg in 1909. In 1931 she married Franz Burda. At the end of the 1940s she took over a fashion publisher that was losing money, and from 1950 it published «Burda Moden»."
+        },
+        {
+          "en": "From 1952 every issue had sewing patterns. In 1989 «Burda Moden» came out in 120 countries with four million copies. She retired in 1994 and died in Offenburg in 2005.",
+          "de": "Ab 1952 lagen jedem Heft Schnittmuster bei. 1989 erschien „Burda Moden“ in 120 Ländern mit einer Auflage von vier Millionen. 1994 zog sie sich zurück, 2005 starb sie in Offenburg.",
+          "fr": "À partir de 1952, chaque numéro contenait des patrons de couture. En 1989, « Burda Moden » paraissait dans 120 pays à quatre millions d'exemplaires. Elle s'est retirée en 1994 et est morte à Offenburg en 2005.",
+          "it": "Dal 1952 ogni numero conteneva i cartamodelli. Nel 1989 \"Burda Moden\" usciva in 120 paesi con quattro milioni di copie. Si ritirò nel 1994 e morì a Offenburg nel 2005.",
+          "nl": "From 1952 every issue had sewing patterns. In 1989 «Burda Moden» came out in 120 countries with four million copies. She retired in 1994 and died in Offenburg in 2005.",
+          "pl": "From 1952 every issue had sewing patterns. In 1989 «Burda Moden» came out in 120 countries with four million copies. She retired in 1994 and died in Offenburg in 2005.",
+          "cs": "From 1952 every issue had sewing patterns. In 1989 «Burda Moden» came out in 120 countries with four million copies. She retired in 1994 and died in Offenburg in 2005.",
+          "sk": "From 1952 every issue had sewing patterns. In 1989 «Burda Moden» came out in 120 countries with four million copies. She retired in 1994 and died in Offenburg in 2005.",
+          "ro": "From 1952 every issue had sewing patterns. In 1989 «Burda Moden» came out in 120 countries with four million copies. She retired in 1994 and died in Offenburg in 2005.",
+          "hu": "From 1952 every issue had sewing patterns. In 1989 «Burda Moden» came out in 120 countries with four million copies. She retired in 1994 and died in Offenburg in 2005.",
+          "da": "From 1952 every issue had sewing patterns. In 1989 «Burda Moden» came out in 120 countries with four million copies. She retired in 1994 and died in Offenburg in 2005."
+        },
+        {
+          "en": "The stamp shows her in the 1950s. Its perforation is made of dashes and dots, after the cutting lines of the sewing patterns. Deutsche Post and the Bundesdruckerei chose it together for this stamp. The sheet margin calls her \"Wirtschaftswunderfrau\" and \"Königin der Kleider\". Jennifer Dengler designed the stamp.",
+          "de": "Die Marke zeigt sie in den 1950er Jahren. Ihre Zähnung besteht aus Strichen und Punkten, nach den Schnittlinien der Schnittmuster. Deutsche Post und Bundesdruckerei haben sie gemeinsam für diese Marke ausgewählt. Auf dem Bogenrand stehen „Wirtschaftswunderfrau“ und „Königin der Kleider“. Gestaltet hat die Marke Jennifer Dengler.",
+          "fr": "Le timbre la montre dans les années 1950. Sa dentelure est faite de tirets et de points, d'après les lignes de coupe des patrons de couture. La Deutsche Post et la Bundesdruckerei l'ont choisie ensemble pour ce timbre. La marge de feuille l'appelle « Wirtschaftswunderfrau » et « Königin der Kleider ». Jennifer Dengler a dessiné le timbre.",
+          "it": "Il francobollo la ritrae negli anni Cinquanta. La dentellatura è fatta di trattini e punti, come le linee di taglio dei cartamodelli. Deutsche Post e la Bundesdruckerei l'hanno scelta insieme per questo francobollo. Sul bordo del foglio si legge \"Wirtschaftswunderfrau\" e \"Königin der Kleider\". Il disegno è di Jennifer Dengler.",
+          "nl": "The stamp shows her in the 1950s. Its perforation is made of dashes and dots, after the cutting lines of the sewing patterns. Deutsche Post and the Bundesdruckerei chose it together for this stamp. The sheet margin calls her \"Wirtschaftswunderfrau\" and \"Königin der Kleider\". Jennifer Dengler designed the stamp.",
+          "pl": "The stamp shows her in the 1950s. Its perforation is made of dashes and dots, after the cutting lines of the sewing patterns. Deutsche Post and the Bundesdruckerei chose it together for this stamp. The sheet margin calls her \"Wirtschaftswunderfrau\" and \"Königin der Kleider\". Jennifer Dengler designed the stamp.",
+          "cs": "The stamp shows her in the 1950s. Its perforation is made of dashes and dots, after the cutting lines of the sewing patterns. Deutsche Post and the Bundesdruckerei chose it together for this stamp. The sheet margin calls her \"Wirtschaftswunderfrau\" and \"Königin der Kleider\". Jennifer Dengler designed the stamp.",
+          "sk": "The stamp shows her in the 1950s. Its perforation is made of dashes and dots, after the cutting lines of the sewing patterns. Deutsche Post and the Bundesdruckerei chose it together for this stamp. The sheet margin calls her \"Wirtschaftswunderfrau\" and \"Königin der Kleider\". Jennifer Dengler designed the stamp.",
+          "ro": "The stamp shows her in the 1950s. Its perforation is made of dashes and dots, after the cutting lines of the sewing patterns. Deutsche Post and the Bundesdruckerei chose it together for this stamp. The sheet margin calls her \"Wirtschaftswunderfrau\" and \"Königin der Kleider\". Jennifer Dengler designed the stamp.",
+          "hu": "The stamp shows her in the 1950s. Its perforation is made of dashes and dots, after the cutting lines of the sewing patterns. Deutsche Post and the Bundesdruckerei chose it together for this stamp. The sheet margin calls her \"Wirtschaftswunderfrau\" and \"Königin der Kleider\". Jennifer Dengler designed the stamp.",
+          "da": "The stamp shows her in the 1950s. Its perforation is made of dashes and dots, after the cutting lines of the sewing patterns. Deutsche Post and the Bundesdruckerei chose it together for this stamp. The sheet margin calls her \"Wirtschaftswunderfrau\" and \"Königin der Kleider\". Jennifer Dengler designed the stamp."
+        },
+        {
+          "en": "Deutsche Post also sells an Erinnerungsblatt with the stamp for €8.95.",
+          "de": "Dazu verkauft die Deutsche Post ein Erinnerungsblatt mit der Marke für 8,95 €.",
+          "fr": "La Deutsche Post vend aussi un Erinnerungsblatt avec le timbre à 8,95 €.",
+          "it": "Deutsche Post vende anche un Erinnerungsblatt con il francobollo a 8,95 €.",
+          "nl": "Deutsche Post also sells an Erinnerungsblatt with the stamp for €8.95.",
+          "pl": "Deutsche Post also sells an Erinnerungsblatt with the stamp for €8.95.",
+          "cs": "Deutsche Post also sells an Erinnerungsblatt with the stamp for €8.95.",
+          "sk": "Deutsche Post also sells an Erinnerungsblatt with the stamp for €8.95.",
+          "ro": "Deutsche Post also sells an Erinnerungsblatt with the stamp for €8.95.",
+          "hu": "Deutsche Post also sells an Erinnerungsblatt with the stamp for €8.95.",
+          "da": "Deutsche Post also sells an Erinnerungsblatt with the stamp for €8.95."
+        }
+      ]
+    },
+    {
+      "id": "klimawandel",
+      "date": {
+        "en": "3 September 2026",
+        "de": "3. September 2026",
+        "fr": "3 septembre 2026",
+        "it": "3 settembre 2026",
+        "nl": "3 September 2026",
+        "pl": "3 September 2026",
+        "cs": "3 September 2026",
+        "sk": "3 September 2026",
+        "ro": "3 September 2026",
+        "hu": "3 September 2026",
+        "da": "3 September 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Anpassung an den Klimawandel, €0.95 + 0.40",
+          "de": "Anpassung an den Klimawandel, 0,95 € + 0,40 €",
+          "fr": "Anpassung an den Klimawandel, 0,95 + 0,40 €",
+          "it": "Anpassung an den Klimawandel, 0,95 € + 0,40 €",
+          "nl": "Anpassung an den Klimawandel, €0.95 + 0.40",
+          "pl": "Anpassung an den Klimawandel, €0.95 + 0.40",
+          "cs": "Anpassung an den Klimawandel, €0.95 + 0.40",
+          "sk": "Anpassung an den Klimawandel, €0.95 + 0.40",
+          "ro": "Anpassung an den Klimawandel, €0.95 + 0.40",
+          "hu": "Anpassung an den Klimawandel, €0.95 + 0.40",
+          "da": "Anpassung an den Klimawandel, €0.95 + 0.40"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/a7c7fafd8f4bcace/de-2026-klimawandel.png",
+          "width": 753,
+          "height": 421
+        },
+        "country": "DE",
+        "stamp_id": "de-post-151200150"
+      },
+      "title": {
+        "en": "Adapting to climate change",
+        "de": "Anpassung an den Klimawandel",
+        "fr": "L'adaptation au changement climatique",
+        "it": "L'adattamento al cambiamento climatico",
+        "nl": "Adapting to climate change",
+        "pl": "Adapting to climate change",
+        "cs": "Adapting to climate change",
+        "sk": "Adapting to climate change",
+        "ro": "Adapting to climate change",
+        "hu": "Adapting to climate change",
+        "da": "Adapting to climate change"
+      },
+      "formats": [
+        {
+          "value": "€0.95 + 0.40",
+          "format": {
+            "en": "Stamp",
+            "de": "Briefmarke",
+            "fr": "Timbre",
+            "it": "Francobollo",
+            "nl": "Stamp",
+            "pl": "Stamp",
+            "cs": "Stamp",
+            "sk": "Stamp",
+            "ro": "Stamp",
+            "hu": "Stamp",
+            "da": "Stamp"
+          }
+        },
+        {
+          "value": "€13.50",
+          "format": {
+            "en": "Sheet of 10",
+            "de": "Zehnerbogen",
+            "fr": "Feuille de 10",
+            "it": "Foglio da 10",
+            "nl": "Sheet of 10",
+            "pl": "Sheet of 10",
+            "cs": "Sheet of 10",
+            "sk": "Sheet of 10",
+            "ro": "Sheet of 10",
+            "hu": "Sheet of 10",
+            "da": "Sheet of 10"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "The stamp shows a city with little asphalt and a lot of green space, rivers and trees, which help a city adapt to the climate. Constanze Hein designed it. Germany has had a federal climate adaptation act since summer 2024.",
+          "de": "Die Marke zeigt eine Stadt mit wenig Asphalt und viel Grün, mit Flüssen und Bäumen, die einer Stadt bei der Anpassung an das Klima helfen. Gestaltet hat sie Constanze Hein. In Deutschland gilt seit Sommer 2024 ein Bundes-Klimaanpassungsgesetz.",
+          "fr": "Le timbre montre une ville avec peu d'asphalte et beaucoup d'espaces verts, de cours d'eau et d'arbres, qui aident une ville à s'adapter au climat. Constanze Hein l'a dessiné. L'Allemagne a une loi fédérale sur l'adaptation au changement climatique depuis l'été 2024.",
+          "it": "Il francobollo mostra una città con poco asfalto e molto verde, con fiumi e alberi che aiutano la città ad adattarsi al clima. L'ha disegnato Constanze Hein. Dall'estate 2024 la Germania ha una legge federale sull'adattamento al cambiamento climatico.",
+          "nl": "The stamp shows a city with little asphalt and a lot of green space, rivers and trees, which help a city adapt to the climate. Constanze Hein designed it. Germany has had a federal climate adaptation act since summer 2024.",
+          "pl": "The stamp shows a city with little asphalt and a lot of green space, rivers and trees, which help a city adapt to the climate. Constanze Hein designed it. Germany has had a federal climate adaptation act since summer 2024.",
+          "cs": "The stamp shows a city with little asphalt and a lot of green space, rivers and trees, which help a city adapt to the climate. Constanze Hein designed it. Germany has had a federal climate adaptation act since summer 2024.",
+          "sk": "The stamp shows a city with little asphalt and a lot of green space, rivers and trees, which help a city adapt to the climate. Constanze Hein designed it. Germany has had a federal climate adaptation act since summer 2024.",
+          "ro": "The stamp shows a city with little asphalt and a lot of green space, rivers and trees, which help a city adapt to the climate. Constanze Hein designed it. Germany has had a federal climate adaptation act since summer 2024.",
+          "hu": "The stamp shows a city with little asphalt and a lot of green space, rivers and trees, which help a city adapt to the climate. Constanze Hein designed it. Germany has had a federal climate adaptation act since summer 2024.",
+          "da": "The stamp shows a city with little asphalt and a lot of green space, rivers and trees, which help a city adapt to the climate. Constanze Hein designed it. Germany has had a federal climate adaptation act since summer 2024."
+        },
+        {
+          "en": "Since 1992 an environment stamp with a surcharge has come out every two years. The surcharge goes to the Federal Environment Ministry, which funds environmental projects in Germany and abroad, and so far it has raised about 6 million euros. The sheet margin reads \"Gutes tun Mit Briefmarken helfen\".",
+          "de": "Seit 1992 erscheint alle zwei Jahre eine Umweltmarke mit Zuschlag. Der Zuschlag geht an das Bundesumweltministerium, das damit Umweltprojekte in Deutschland und im Ausland fördert, bisher sind so rund 6 Millionen Euro zusammengekommen. Auf dem Bogenrand steht „Gutes tun Mit Briefmarken helfen“.",
+          "fr": "Depuis 1992, un timbre pour l'environnement avec surtaxe paraît tous les deux ans. La surtaxe va au ministère fédéral de l'Environnement, qui finance des projets environnementaux en Allemagne et à l'étranger, et elle a rapporté jusqu'ici environ 6 millions d'euros. La marge de feuille porte l'inscription « Gutes tun Mit Briefmarken helfen ».",
+          "it": "Dal 1992 ogni due anni esce un francobollo dedicato all'ambiente con sovrattassa. La sovrattassa va al ministero federale dell'Ambiente, che finanzia progetti ambientali in Germania e all'estero, e finora ha raccolto circa 6 milioni di euro. Sul bordo del foglio si legge \"Gutes tun Mit Briefmarken helfen\".",
+          "nl": "Since 1992 an environment stamp with a surcharge has come out every two years. The surcharge goes to the Federal Environment Ministry, which funds environmental projects in Germany and abroad, and so far it has raised about 6 million euros. The sheet margin reads \"Gutes tun Mit Briefmarken helfen\".",
+          "pl": "Since 1992 an environment stamp with a surcharge has come out every two years. The surcharge goes to the Federal Environment Ministry, which funds environmental projects in Germany and abroad, and so far it has raised about 6 million euros. The sheet margin reads \"Gutes tun Mit Briefmarken helfen\".",
+          "cs": "Since 1992 an environment stamp with a surcharge has come out every two years. The surcharge goes to the Federal Environment Ministry, which funds environmental projects in Germany and abroad, and so far it has raised about 6 million euros. The sheet margin reads \"Gutes tun Mit Briefmarken helfen\".",
+          "sk": "Since 1992 an environment stamp with a surcharge has come out every two years. The surcharge goes to the Federal Environment Ministry, which funds environmental projects in Germany and abroad, and so far it has raised about 6 million euros. The sheet margin reads \"Gutes tun Mit Briefmarken helfen\".",
+          "ro": "Since 1992 an environment stamp with a surcharge has come out every two years. The surcharge goes to the Federal Environment Ministry, which funds environmental projects in Germany and abroad, and so far it has raised about 6 million euros. The sheet margin reads \"Gutes tun Mit Briefmarken helfen\".",
+          "hu": "Since 1992 an environment stamp with a surcharge has come out every two years. The surcharge goes to the Federal Environment Ministry, which funds environmental projects in Germany and abroad, and so far it has raised about 6 million euros. The sheet margin reads \"Gutes tun Mit Briefmarken helfen\".",
+          "da": "Since 1992 an environment stamp with a surcharge has come out every two years. The surcharge goes to the Federal Environment Ministry, which funds environmental projects in Germany and abroad, and so far it has raised about 6 million euros. The sheet margin reads \"Gutes tun Mit Briefmarken helfen\"."
+        },
+        {
+          "en": "Deutsche Post also sells a Schmuckblatt for €25.95 with the new stamp and ten German environment stamps from 1981 to 2024.",
+          "de": "Dazu verkauft die Deutsche Post ein Schmuckblatt für 25,95 € mit der neuen Marke und zehn deutschen Umweltmarken von 1981 bis 2024.",
+          "fr": "La Deutsche Post vend aussi un Schmuckblatt à 25,95 €, avec le nouveau timbre et dix timbres allemands pour l'environnement de 1981 à 2024.",
+          "it": "Deutsche Post vende anche uno Schmuckblatt a 25,95 € con il nuovo francobollo e dieci francobolli tedeschi dedicati all'ambiente dal 1981 al 2024.",
+          "nl": "Deutsche Post also sells a Schmuckblatt for €25.95 with the new stamp and ten German environment stamps from 1981 to 2024.",
+          "pl": "Deutsche Post also sells a Schmuckblatt for €25.95 with the new stamp and ten German environment stamps from 1981 to 2024.",
+          "cs": "Deutsche Post also sells a Schmuckblatt for €25.95 with the new stamp and ten German environment stamps from 1981 to 2024.",
+          "sk": "Deutsche Post also sells a Schmuckblatt for €25.95 with the new stamp and ten German environment stamps from 1981 to 2024.",
+          "ro": "Deutsche Post also sells a Schmuckblatt for €25.95 with the new stamp and ten German environment stamps from 1981 to 2024.",
+          "hu": "Deutsche Post also sells a Schmuckblatt for €25.95 with the new stamp and ten German environment stamps from 1981 to 2024.",
+          "da": "Deutsche Post also sells a Schmuckblatt for €25.95 with the new stamp and ten German environment stamps from 1981 to 2024."
+        }
+      ]
+    },
+    {
+      "id": "ordering",
+      "rows": [
+        {
+          "label": {
+            "en": "Deutsche Post shop",
+            "de": "Shop der Deutschen Post",
+            "fr": "Boutique de la Deutsche Post",
+            "it": "Negozio di Deutsche Post",
+            "nl": "Deutsche Post shop",
+            "pl": "Deutsche Post shop",
+            "cs": "Deutsche Post shop",
+            "sk": "Deutsche Post shop",
+            "ro": "Deutsche Post shop",
+            "hu": "Deutsche Post shop",
+            "da": "Deutsche Post shop"
+          },
+          "value": {
+            "en": "shop.deutschepost.de",
+            "de": "shop.deutschepost.de",
+            "fr": "shop.deutschepost.de",
+            "it": "shop.deutschepost.de",
+            "nl": "shop.deutschepost.de",
+            "pl": "shop.deutschepost.de",
+            "cs": "shop.deutschepost.de",
+            "sk": "shop.deutschepost.de",
+            "ro": "shop.deutschepost.de",
+            "hu": "shop.deutschepost.de",
+            "da": "shop.deutschepost.de"
+          }
+        },
+        {
+          "label": {
+            "en": "First-day sheets",
+            "de": "Ersttagsblätter",
+            "fr": "Feuillets premier jour",
+            "it": "Fogli del primo giorno",
+            "nl": "First-day sheets",
+            "pl": "First-day sheets",
+            "cs": "First-day sheets",
+            "sk": "First-day sheets",
+            "ro": "First-day sheets",
+            "hu": "First-day sheets",
+            "da": "First-day sheets"
+          },
+          "value": {
+            "en": "one per stamp, €1.15, for the environment stamp €1.55",
+            "de": "eins je Marke, 1,15 €, für die Umweltmarke 1,55 €",
+            "fr": "un par timbre, 1,15 €, et 1,55 € pour le timbre environnement",
+            "it": "uno per francobollo, 1,15 €, per il francobollo dedicato all'ambiente 1,55 €",
+            "nl": "one per stamp, €1.15, for the environment stamp €1.55",
+            "pl": "one per stamp, €1.15, for the environment stamp €1.55",
+            "cs": "one per stamp, €1.15, for the environment stamp €1.55",
+            "sk": "one per stamp, €1.15, for the environment stamp €1.55",
+            "ro": "one per stamp, €1.15, for the environment stamp €1.55",
+            "hu": "one per stamp, €1.15, for the environment stamp €1.55",
+            "da": "one per stamp, €1.15, for the environment stamp €1.55"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "Ordering",
+        "de": "Bestellen",
+        "fr": "Commander",
+        "it": "Ordini",
+        "nl": "Ordering",
+        "pl": "Ordering",
+        "cs": "Ordering",
+        "sk": "Ordering",
+        "ro": "Ordering",
+        "hu": "Ordering",
+        "da": "Ordering"
+      },
+      "title": {
+        "en": "Where to order",
+        "de": "Wo es die Marken gibt",
+        "fr": "Où commander",
+        "it": "Dove ordinare",
+        "nl": "Where to order",
+        "pl": "Where to order",
+        "cs": "Where to order",
+        "sk": "Where to order",
+        "ro": "Where to order",
+        "hu": "Where to order",
+        "da": "Where to order"
+      },
+      "buttons": [
+        {
+          "href": "https://shop.deutschepost.de",
+          "label": {
+            "en": "Deutsche Post shop",
+            "de": "Shop der Deutschen Post",
+            "fr": "Boutique de la Deutsche Post",
+            "it": "Negozio di Deutsche Post",
+            "nl": "Deutsche Post shop",
+            "pl": "Deutsche Post shop",
+            "cs": "Deutsche Post shop",
+            "sk": "Deutsche Post shop",
+            "ro": "Deutsche Post shop",
+            "hu": "Deutsche Post shop",
+            "da": "Deutsche Post shop"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stampiq",
+      "text": {
+        "en": "The September stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "de": "Die September-Marken sind noch nicht in StampIQ. Wir nehmen sie später in den Katalog auf.",
+        "fr": "Les timbres de septembre ne sont pas encore dans StampIQ. Nous les ajouterons au catalogue plus tard.",
+        "it": "I francobolli di settembre non sono ancora in StampIQ. Li aggiungeremo al catalogo più avanti.",
+        "nl": "The September stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "pl": "The September stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "cs": "The September stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "sk": "The September stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "ro": "The September stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "hu": "The September stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "da": "The September stamps are not in StampIQ yet. We add them to the catalogue later."
+      },
+      "type": "note"
+    }
+  ]
+}

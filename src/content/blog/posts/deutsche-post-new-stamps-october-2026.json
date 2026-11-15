@@ -1,0 +1,882 @@
+{
+  "category": "new-issues",
+  "markets": [
+    "CH",
+    "LI",
+    "DE",
+    "AT"
+  ],
+  "langs": [
+    "en",
+    "de",
+    "fr",
+    "it"
+  ],
+  "published_at": "2026-10-08T07:00:00+00:00",
+  "thumbnail": {
+    "src": "https://assets.stampiq.io/blog/17b963ad408762e9/de-new-issues-2026-10-01-card.png",
+    "width": 1477,
+    "height": 880
+  },
+  "languages": {
+    "en": {
+      "slug": "deutsche-post-new-stamps-october-2026",
+      "title": "New German stamps of 1 October 2026",
+      "description": "Deutsche Post issued four special stamps on 1 October 2026. The picture on the Himalaya stamp was made with artificial intelligence."
+    },
+    "de": {
+      "slug": "neue-deutsche-briefmarken-oktober-2026",
+      "title": "Neue deutsche Briefmarken vom 1. Oktober 2026",
+      "description": "Die Deutsche Post hat am 1. Oktober 2026 vier Sonderbriefmarken herausgegeben. Das Bild der Himalaya-Marke entstand mit künstlicher Intelligenz."
+    },
+    "fr": {
+      "slug": "nouveaux-timbres-allemands-octobre-2026",
+      "title": "Nouveaux timbres allemands du 1er octobre 2026",
+      "description": "La Deutsche Post a émis quatre timbres spéciaux le 1er octobre 2026. L'image du timbre Himalaya a été créée avec une intelligence artificielle."
+    },
+    "it": {
+      "slug": "nuovi-francobolli-tedeschi-ottobre-2026",
+      "title": "Nuovi francobolli tedeschi del 1° ottobre 2026",
+      "description": "Il 1° ottobre 2026 Deutsche Post ha emesso quattro francobolli speciali. L'immagine dell'Himalaya è stata creata con l'intelligenza artificiale."
+    },
+    "nl": {
+      "slug": "deutsche-post-new-stamps-october-2026",
+      "title": "New German stamps of 1 October 2026",
+      "description": "Deutsche Post issued four special stamps on 1 October 2026. The picture on the Himalaya stamp was made with artificial intelligence."
+    },
+    "pl": {
+      "slug": "deutsche-post-new-stamps-october-2026",
+      "title": "New German stamps of 1 October 2026",
+      "description": "Deutsche Post issued four special stamps on 1 October 2026. The picture on the Himalaya stamp was made with artificial intelligence."
+    },
+    "cs": {
+      "slug": "deutsche-post-new-stamps-october-2026",
+      "title": "New German stamps of 1 October 2026",
+      "description": "Deutsche Post issued four special stamps on 1 October 2026. The picture on the Himalaya stamp was made with artificial intelligence."
+    },
+    "sk": {
+      "slug": "deutsche-post-new-stamps-october-2026",
+      "title": "New German stamps of 1 October 2026",
+      "description": "Deutsche Post issued four special stamps on 1 October 2026. The picture on the Himalaya stamp was made with artificial intelligence."
+    },
+    "ro": {
+      "slug": "deutsche-post-new-stamps-october-2026",
+      "title": "New German stamps of 1 October 2026",
+      "description": "Deutsche Post issued four special stamps on 1 October 2026. The picture on the Himalaya stamp was made with artificial intelligence."
+    },
+    "hu": {
+      "slug": "deutsche-post-new-stamps-october-2026",
+      "title": "New German stamps of 1 October 2026",
+      "description": "Deutsche Post issued four special stamps on 1 October 2026. The picture on the Himalaya stamp was made with artificial intelligence."
+    },
+    "da": {
+      "slug": "deutsche-post-new-stamps-october-2026",
+      "title": "New German stamps of 1 October 2026",
+      "description": "Deutsche Post issued four special stamps on 1 October 2026. The picture on the Himalaya stamp was made with artificial intelligence."
+    }
+  },
+  "header": {
+    "lead": {
+      "en": "On 1 October Deutsche Post issued four special stamps. The picture on the Himalaya stamp was made with DALL-E, and the stamp also comes as a crypto stamp.",
+      "de": "Am 1. Oktober hat die Deutsche Post vier Sonderbriefmarken herausgegeben. Das Bild der Himalaya-Marke entstand mit DALL-E, und diese Marke gibt es auch als Krypto-Briefmarke.",
+      "fr": "Le 1er octobre, la Deutsche Post a émis quatre timbres spéciaux. L'image du timbre Himalaya a été créée avec DALL-E, et ce timbre existe aussi en crypto-timbre.",
+      "it": "Il 1° ottobre Deutsche Post ha emesso quattro francobolli speciali. L'immagine del francobollo sull'Himalaya è stata creata con DALL-E, e lo stesso soggetto esiste anche come crypto stamp.",
+      "nl": "On 1 October Deutsche Post issued four special stamps. The picture on the Himalaya stamp was made with DALL-E, and the stamp also comes as a crypto stamp.",
+      "pl": "On 1 October Deutsche Post issued four special stamps. The picture on the Himalaya stamp was made with DALL-E, and the stamp also comes as a crypto stamp.",
+      "cs": "On 1 October Deutsche Post issued four special stamps. The picture on the Himalaya stamp was made with DALL-E, and the stamp also comes as a crypto stamp.",
+      "sk": "On 1 October Deutsche Post issued four special stamps. The picture on the Himalaya stamp was made with DALL-E, and the stamp also comes as a crypto stamp.",
+      "ro": "On 1 October Deutsche Post issued four special stamps. The picture on the Himalaya stamp was made with DALL-E, and the stamp also comes as a crypto stamp.",
+      "hu": "On 1 October Deutsche Post issued four special stamps. The picture on the Himalaya stamp was made with DALL-E, and the stamp also comes as a crypto stamp.",
+      "da": "On 1 October Deutsche Post issued four special stamps. The picture on the Himalaya stamp was made with DALL-E, and the stamp also comes as a crypto stamp."
+    },
+    "visual": {
+      "type": "stamp-fan",
+      "stamps": [
+        {
+          "name": {
+            "en": "Shaun das Schaf, €0.95",
+            "de": "Shaun das Schaf, 0,95 €",
+            "fr": "Shaun das Schaf, 0,95 €",
+            "it": "Shaun das Schaf, 0,95 €",
+            "nl": "Shaun das Schaf, €0.95",
+            "pl": "Shaun das Schaf, €0.95",
+            "cs": "Shaun das Schaf, €0.95",
+            "sk": "Shaun das Schaf, €0.95",
+            "ro": "Shaun das Schaf, €0.95",
+            "hu": "Shaun das Schaf, €0.95",
+            "da": "Shaun das Schaf, €0.95"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/c57a96aa5205a5e2/de-2026-shaun.png",
+            "width": 750,
+            "height": 421
+          },
+          "country": "DE",
+          "stamp_id": "de-post-151105587"
+        },
+        {
+          "name": {
+            "en": "Spitzenklöppeln, €2.90",
+            "de": "Spitzenklöppeln, 2,90 €",
+            "fr": "Spitzenklöppeln, 2,90 €",
+            "it": "Spitzenklöppeln, 2,90 €",
+            "nl": "Spitzenklöppeln, €2.90",
+            "pl": "Spitzenklöppeln, €2.90",
+            "cs": "Spitzenklöppeln, €2.90",
+            "sk": "Spitzenklöppeln, €2.90",
+            "ro": "Spitzenklöppeln, €2.90",
+            "hu": "Spitzenklöppeln, €2.90",
+            "da": "Spitzenklöppeln, €2.90"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/33d2799672421228/de-2026-spitzenkloeppeln.png",
+            "width": 751,
+            "height": 569
+          },
+          "country": "DE",
+          "stamp_id": "de-post-151105601"
+        },
+        {
+          "name": {
+            "en": "Batman, €0.95",
+            "de": "Batman, 0,95 €",
+            "fr": "Batman, 0,95 €",
+            "it": "Batman, 0,95 €",
+            "nl": "Batman, €0.95",
+            "pl": "Batman, €0.95",
+            "cs": "Batman, €0.95",
+            "sk": "Batman, €0.95",
+            "ro": "Batman, €0.95",
+            "hu": "Batman, €0.95",
+            "da": "Batman, €0.95"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/9cdbebc0b42ebaee/de-2026-batman.png",
+            "width": 749,
+            "height": 417
+          },
+          "country": "DE",
+          "stamp_id": "de-post-151105602"
+        },
+        {
+          "name": {
+            "en": "Himalaya, €0.95",
+            "de": "Himalaya, 0,95 €",
+            "fr": "Himalaya, 0,95 €",
+            "it": "Himalaya, 0,95 €",
+            "nl": "Himalaya, €0.95",
+            "pl": "Himalaya, €0.95",
+            "cs": "Himalaya, €0.95",
+            "sk": "Himalaya, €0.95",
+            "ro": "Himalaya, €0.95",
+            "hu": "Himalaya, €0.95",
+            "da": "Himalaya, €0.95"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/c9c72a19c9e2c763/de-2026-himalaya.png",
+            "width": 748,
+            "height": 421
+          },
+          "country": "DE",
+          "stamp_id": "de-post-151105603"
+        }
+      ]
+    },
+    "date_label": {
+      "en": "1 October 2026",
+      "de": "1. Oktober 2026",
+      "fr": "1er octobre 2026",
+      "it": "1° ottobre 2026",
+      "nl": "1 October 2026",
+      "pl": "1 October 2026",
+      "cs": "1 October 2026",
+      "sk": "1 October 2026",
+      "ro": "1 October 2026",
+      "hu": "1 October 2026",
+      "da": "1 October 2026"
+    }
+  },
+  "blocks": [
+    {
+      "id": "shaun",
+      "date": {
+        "en": "1 October 2026",
+        "de": "1. Oktober 2026",
+        "fr": "1er octobre 2026",
+        "it": "1° ottobre 2026",
+        "nl": "1 October 2026",
+        "pl": "1 October 2026",
+        "cs": "1 October 2026",
+        "sk": "1 October 2026",
+        "ro": "1 October 2026",
+        "hu": "1 October 2026",
+        "da": "1 October 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Shaun das Schaf, €0.95",
+          "de": "Shaun das Schaf, 0,95 €",
+          "fr": "Shaun das Schaf, 0,95 €",
+          "it": "Shaun das Schaf, 0,95 €",
+          "nl": "Shaun das Schaf, €0.95",
+          "pl": "Shaun das Schaf, €0.95",
+          "cs": "Shaun das Schaf, €0.95",
+          "sk": "Shaun das Schaf, €0.95",
+          "ro": "Shaun das Schaf, €0.95",
+          "hu": "Shaun das Schaf, €0.95",
+          "da": "Shaun das Schaf, €0.95"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/c57a96aa5205a5e2/de-2026-shaun.png",
+          "width": 750,
+          "height": 421
+        },
+        "country": "DE",
+        "stamp_id": "de-post-151105587"
+      },
+      "title": {
+        "en": "Shaun das Schaf",
+        "de": "Shaun das Schaf",
+        "fr": "Shaun das Schaf",
+        "it": "Shaun das Schaf",
+        "nl": "Shaun das Schaf",
+        "pl": "Shaun das Schaf",
+        "cs": "Shaun das Schaf",
+        "sk": "Shaun das Schaf",
+        "ro": "Shaun das Schaf",
+        "hu": "Shaun das Schaf",
+        "da": "Shaun das Schaf"
+      },
+      "formats": [
+        {
+          "value": "€0.95",
+          "format": {
+            "en": "Stamp",
+            "de": "Briefmarke",
+            "fr": "Timbre",
+            "it": "Francobollo",
+            "nl": "Stamp",
+            "pl": "Stamp",
+            "cs": "Stamp",
+            "sk": "Stamp",
+            "ro": "Stamp",
+            "hu": "Stamp",
+            "da": "Stamp"
+          }
+        },
+        {
+          "value": "€9.50",
+          "format": {
+            "en": "Sheet of 10",
+            "de": "Bogen mit 10 Marken",
+            "fr": "Feuille de 10",
+            "it": "Foglio da 10",
+            "nl": "Sheet of 10",
+            "pl": "Sheet of 10",
+            "cs": "Sheet of 10",
+            "sk": "Sheet of 10",
+            "ro": "Sheet of 10",
+            "hu": "Sheet of 10",
+            "da": "Sheet of 10"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "Shaun first appeared in 1995 in the Wallace and Gromit film «A Close Shave». Since 2007 Aardman Animations in Bristol has made his own series with clay figures, and the seventh season started in 2025. The first cinema film came out in 2015.",
+          "de": "Shaun trat 1995 zum ersten Mal auf, im Wallace-und-Gromit-Film „A Close Shave“. Seit 2007 produziert Aardman Animations in Bristol eine eigene Serie mit ihm, gedreht mit Knetfiguren. Die siebte Staffel begann 2025, der erste Kinofilm kam 2015 heraus.",
+          "fr": "Shaun apparaît pour la première fois en 1995 dans le film de Wallace et Gromit « A Close Shave ». Depuis 2007, le studio Aardman Animations, à Bristol, lui consacre sa propre série en pâte à modeler, dont la septième saison a commencé en 2025. Le premier film pour le cinéma est sorti en 2015.",
+          "it": "Shaun compare per la prima volta nel 1995 nel film di Wallace e Gromit \"A Close Shave\". Dal 2007 lo studio Aardman Animations di Bristol gli dedica una serie tutta sua, girata con pupazzi di plastilina, e nel 2025 è iniziata la settima stagione. Il primo film per il cinema è uscito nel 2015.",
+          "nl": "Shaun first appeared in 1995 in the Wallace and Gromit film «A Close Shave». Since 2007 Aardman Animations in Bristol has made his own series with clay figures, and the seventh season started in 2025. The first cinema film came out in 2015.",
+          "pl": "Shaun first appeared in 1995 in the Wallace and Gromit film «A Close Shave». Since 2007 Aardman Animations in Bristol has made his own series with clay figures, and the seventh season started in 2025. The first cinema film came out in 2015.",
+          "cs": "Shaun first appeared in 1995 in the Wallace and Gromit film «A Close Shave». Since 2007 Aardman Animations in Bristol has made his own series with clay figures, and the seventh season started in 2025. The first cinema film came out in 2015.",
+          "sk": "Shaun first appeared in 1995 in the Wallace and Gromit film «A Close Shave». Since 2007 Aardman Animations in Bristol has made his own series with clay figures, and the seventh season started in 2025. The first cinema film came out in 2015.",
+          "ro": "Shaun first appeared in 1995 in the Wallace and Gromit film «A Close Shave». Since 2007 Aardman Animations in Bristol has made his own series with clay figures, and the seventh season started in 2025. The first cinema film came out in 2015.",
+          "hu": "Shaun first appeared in 1995 in the Wallace and Gromit film «A Close Shave». Since 2007 Aardman Animations in Bristol has made his own series with clay figures, and the seventh season started in 2025. The first cinema film came out in 2015.",
+          "da": "Shaun first appeared in 1995 in the Wallace and Gromit film «A Close Shave». Since 2007 Aardman Animations in Bristol has made his own series with clay figures, and the seventh season started in 2025. The first cinema film came out in 2015."
+        },
+        {
+          "en": "The third film, «Shaun das Schaf – Spuk im Kürbisfeld», runs in German cinemas from 1 October, the day the stamp came out. The stamp shows Shaun with Bitzer and the flock. It belongs to the series «Helden der Kindheit», and Jennifer Dengler designed it.",
+          "de": "Der dritte Film, „Shaun das Schaf – Spuk im Kürbisfeld“, läuft seit dem 1. Oktober in den deutschen Kinos, also seit dem Tag, an dem die Marke erschienen ist. Zu sehen sind Shaun, Bitzer und die Herde. Die Marke gehört zur Serie „Helden der Kindheit“, gestaltet hat sie Jennifer Dengler.",
+          "fr": "Le troisième film, « Shaun das Schaf – Spuk im Kürbisfeld », sort dans les salles allemandes le 1er octobre, le jour de l'émission du timbre. Le timbre montre Shaun avec Bitzer et le troupeau. Il appartient à la série « Helden der Kindheit » et a été dessiné par Jennifer Dengler.",
+          "it": "Il terzo film, \"Shaun das Schaf – Spuk im Kürbisfeld\", è nelle sale tedesche dal 1° ottobre, lo stesso giorno in cui è uscito il francobollo. Sul francobollo compaiono Shaun con Bitzer e il gregge. Fa parte della serie \"Helden der Kindheit\" e il disegno è di Jennifer Dengler.",
+          "nl": "The third film, «Shaun das Schaf – Spuk im Kürbisfeld», runs in German cinemas from 1 October, the day the stamp came out. The stamp shows Shaun with Bitzer and the flock. It belongs to the series «Helden der Kindheit», and Jennifer Dengler designed it.",
+          "pl": "The third film, «Shaun das Schaf – Spuk im Kürbisfeld», runs in German cinemas from 1 October, the day the stamp came out. The stamp shows Shaun with Bitzer and the flock. It belongs to the series «Helden der Kindheit», and Jennifer Dengler designed it.",
+          "cs": "The third film, «Shaun das Schaf – Spuk im Kürbisfeld», runs in German cinemas from 1 October, the day the stamp came out. The stamp shows Shaun with Bitzer and the flock. It belongs to the series «Helden der Kindheit», and Jennifer Dengler designed it.",
+          "sk": "The third film, «Shaun das Schaf – Spuk im Kürbisfeld», runs in German cinemas from 1 October, the day the stamp came out. The stamp shows Shaun with Bitzer and the flock. It belongs to the series «Helden der Kindheit», and Jennifer Dengler designed it.",
+          "ro": "The third film, «Shaun das Schaf – Spuk im Kürbisfeld», runs in German cinemas from 1 October, the day the stamp came out. The stamp shows Shaun with Bitzer and the flock. It belongs to the series «Helden der Kindheit», and Jennifer Dengler designed it.",
+          "hu": "The third film, «Shaun das Schaf – Spuk im Kürbisfeld», runs in German cinemas from 1 October, the day the stamp came out. The stamp shows Shaun with Bitzer and the flock. It belongs to the series «Helden der Kindheit», and Jennifer Dengler designed it.",
+          "da": "The third film, «Shaun das Schaf – Spuk im Kürbisfeld», runs in German cinemas from 1 October, the day the stamp came out. The stamp shows Shaun with Bitzer and the flock. It belongs to the series «Helden der Kindheit», and Jennifer Dengler designed it."
+        }
+      ]
+    },
+    {
+      "id": "spitzenkloeppeln",
+      "date": {
+        "en": "1 October 2026",
+        "de": "1. Oktober 2026",
+        "fr": "1er octobre 2026",
+        "it": "1° ottobre 2026",
+        "nl": "1 October 2026",
+        "pl": "1 October 2026",
+        "cs": "1 October 2026",
+        "sk": "1 October 2026",
+        "ro": "1 October 2026",
+        "hu": "1 October 2026",
+        "da": "1 October 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Spitzenklöppeln, €2.90",
+          "de": "Spitzenklöppeln, 2,90 €",
+          "fr": "Spitzenklöppeln, 2,90 €",
+          "it": "Spitzenklöppeln, 2,90 €",
+          "nl": "Spitzenklöppeln, €2.90",
+          "pl": "Spitzenklöppeln, €2.90",
+          "cs": "Spitzenklöppeln, €2.90",
+          "sk": "Spitzenklöppeln, €2.90",
+          "ro": "Spitzenklöppeln, €2.90",
+          "hu": "Spitzenklöppeln, €2.90",
+          "da": "Spitzenklöppeln, €2.90"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/33d2799672421228/de-2026-spitzenkloeppeln.png",
+          "width": 751,
+          "height": 569
+        },
+        "country": "DE",
+        "stamp_id": "de-post-151105601"
+      },
+      "title": {
+        "en": "Bobbin lace from the Oberpfälzer Wald",
+        "de": "Klöppelspitze aus dem Oberpfälzer Wald",
+        "fr": "La dentelle aux fuseaux de l'Oberpfälzer Wald",
+        "it": "Il merletto a tombolo dell'Oberpfälzer Wald",
+        "nl": "Bobbin lace from the Oberpfälzer Wald",
+        "pl": "Bobbin lace from the Oberpfälzer Wald",
+        "cs": "Bobbin lace from the Oberpfälzer Wald",
+        "sk": "Bobbin lace from the Oberpfälzer Wald",
+        "ro": "Bobbin lace from the Oberpfälzer Wald",
+        "hu": "Bobbin lace from the Oberpfälzer Wald",
+        "da": "Bobbin lace from the Oberpfälzer Wald"
+      },
+      "formats": [
+        {
+          "value": "€2.90",
+          "format": {
+            "en": "Stamp",
+            "de": "Briefmarke",
+            "fr": "Timbre",
+            "it": "Francobollo",
+            "nl": "Stamp",
+            "pl": "Stamp",
+            "cs": "Stamp",
+            "sk": "Stamp",
+            "ro": "Stamp",
+            "hu": "Stamp",
+            "da": "Stamp"
+          }
+        },
+        {
+          "value": "€29.00",
+          "format": {
+            "en": "Sheet of 10",
+            "de": "Bogen mit 10 Marken",
+            "fr": "Feuille de 10",
+            "it": "Foglio da 10",
+            "nl": "Sheet of 10",
+            "pl": "Sheet of 10",
+            "cs": "Sheet of 10",
+            "sk": "Sheet of 10",
+            "ro": "Sheet of 10",
+            "hu": "Sheet of 10",
+            "da": "Sheet of 10"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "Bobbin lace has been made in Italy and in the Erzgebirge since the 16th century. The lace is worked on a Klöppelsack, a roll sewn from fabric scraps and filled with hay, horsehair or wood wool, with the threads wound on bobbins.",
+          "de": "Spitze wird seit dem 16. Jahrhundert in Italien und im Erzgebirge geklöppelt. Gearbeitet wird auf dem Klöppelsack, einer Rolle aus zusammengenähten Stoffresten, gefüllt mit Heu, Rosshaar oder Holzwolle. Die Fäden sind dabei auf Klöppel gewickelt.",
+          "fr": "On fabrique de la dentelle aux fuseaux en Italie et dans l'Erzgebirge depuis le XVIe siècle. Elle se travaille sur un Klöppelsack, un rouleau cousu dans des chutes de tissu et rempli de foin, de crin de cheval ou de laine de bois. Les fils, eux, sont enroulés sur des fuseaux.",
+          "it": "In Italia e nell'Erzgebirge il merletto a tombolo si fa dal Cinquecento. Si lavora su un Klöppelsack, un cuscino a rullo cucito con ritagli di stoffa e imbottito di fieno, crine o lana di legno, mentre i fili sono avvolti sui fuselli.",
+          "nl": "Bobbin lace has been made in Italy and in the Erzgebirge since the 16th century. The lace is worked on a Klöppelsack, a roll sewn from fabric scraps and filled with hay, horsehair or wood wool, with the threads wound on bobbins.",
+          "pl": "Bobbin lace has been made in Italy and in the Erzgebirge since the 16th century. The lace is worked on a Klöppelsack, a roll sewn from fabric scraps and filled with hay, horsehair or wood wool, with the threads wound on bobbins.",
+          "cs": "Bobbin lace has been made in Italy and in the Erzgebirge since the 16th century. The lace is worked on a Klöppelsack, a roll sewn from fabric scraps and filled with hay, horsehair or wood wool, with the threads wound on bobbins.",
+          "sk": "Bobbin lace has been made in Italy and in the Erzgebirge since the 16th century. The lace is worked on a Klöppelsack, a roll sewn from fabric scraps and filled with hay, horsehair or wood wool, with the threads wound on bobbins.",
+          "ro": "Bobbin lace has been made in Italy and in the Erzgebirge since the 16th century. The lace is worked on a Klöppelsack, a roll sewn from fabric scraps and filled with hay, horsehair or wood wool, with the threads wound on bobbins.",
+          "hu": "Bobbin lace has been made in Italy and in the Erzgebirge since the 16th century. The lace is worked on a Klöppelsack, a roll sewn from fabric scraps and filled with hay, horsehair or wood wool, with the threads wound on bobbins.",
+          "da": "Bobbin lace has been made in Italy and in the Erzgebirge since the 16th century. The lace is worked on a Klöppelsack, a roll sewn from fabric scraps and filled with hay, horsehair or wood wool, with the threads wound on bobbins."
+        },
+        {
+          "en": "In 2016 bobbin lace from the Oberpfälzer Wald was added to Germany's national list of intangible cultural heritage, as an example for many regions where it is still made. Three lace schools opened there at the beginning of the 20th century, and former pupils still pass the craft on.",
+          "de": "2016 wurde das Klöppeln im Oberpfälzer Wald in das bundesweite Verzeichnis des immateriellen Kulturerbes aufgenommen, stellvertretend für viele Regionen, in denen noch geklöppelt wird. Anfang des 20. Jahrhunderts entstanden dort drei Klöppelschulen, und ehemalige Schülerinnen und Schüler geben das Handwerk bis heute weiter.",
+          "fr": "En 2016, la dentelle aux fuseaux de l'Oberpfälzer Wald a été inscrite sur la liste nationale allemande du patrimoine culturel immatériel, comme exemple des nombreuses régions où on la pratique encore. Trois écoles de dentelle y ont ouvert au début du XXe siècle, et d'anciens élèves transmettent toujours le métier.",
+          "it": "Nel 2016 il merletto a tombolo dell'Oberpfälzer Wald è entrato nella lista nazionale tedesca del patrimonio culturale immateriale, come esempio per le molte regioni in cui si pratica ancora. All'inizio del Novecento nella zona sono nate tre scuole di merletto, e chi le ha frequentate tramanda ancora il mestiere.",
+          "nl": "In 2016 bobbin lace from the Oberpfälzer Wald was added to Germany's national list of intangible cultural heritage, as an example for many regions where it is still made. Three lace schools opened there at the beginning of the 20th century, and former pupils still pass the craft on.",
+          "pl": "In 2016 bobbin lace from the Oberpfälzer Wald was added to Germany's national list of intangible cultural heritage, as an example for many regions where it is still made. Three lace schools opened there at the beginning of the 20th century, and former pupils still pass the craft on.",
+          "cs": "In 2016 bobbin lace from the Oberpfälzer Wald was added to Germany's national list of intangible cultural heritage, as an example for many regions where it is still made. Three lace schools opened there at the beginning of the 20th century, and former pupils still pass the craft on.",
+          "sk": "In 2016 bobbin lace from the Oberpfälzer Wald was added to Germany's national list of intangible cultural heritage, as an example for many regions where it is still made. Three lace schools opened there at the beginning of the 20th century, and former pupils still pass the craft on.",
+          "ro": "In 2016 bobbin lace from the Oberpfälzer Wald was added to Germany's national list of intangible cultural heritage, as an example for many regions where it is still made. Three lace schools opened there at the beginning of the 20th century, and former pupils still pass the craft on.",
+          "hu": "In 2016 bobbin lace from the Oberpfälzer Wald was added to Germany's national list of intangible cultural heritage, as an example for many regions where it is still made. Three lace schools opened there at the beginning of the 20th century, and former pupils still pass the craft on.",
+          "da": "In 2016 bobbin lace from the Oberpfälzer Wald was added to Germany's national list of intangible cultural heritage, as an example for many regions where it is still made. Three lace schools opened there at the beginning of the 20th century, and former pupils still pass the craft on."
+        },
+        {
+          "en": "The stamp shows a lace doily from the museum in the former lace school in Tiefenbach, with bobbins and pins. Daniela Burger designed it. Its 2.90 pays for a Maxibrief up to 1,000 g in Germany, and it is the highest value of the October stamps.",
+          "de": "Die Marke zeigt ein Spitzendeckchen aus dem Museum in der früheren Klöppelschule in Tiefenbach, dazu Klöppel und Nadeln. Gestaltet hat sie Daniela Burger. Mit 2,90 € frankierst du einen Maxibrief bis 1.000 g innerhalb Deutschlands. Damit ist sie der höchste Wert der Oktoberausgaben.",
+          "fr": "Le timbre montre un napperon de dentelle du musée installé dans l'ancienne école de dentelle de Tiefenbach, avec des fuseaux et des épingles. Daniela Burger l'a dessiné. Sa valeur faciale de 2,90 € couvre un Maxibrief jusqu'à 1 000 g en Allemagne, et c'est la valeur la plus élevée des timbres d'octobre.",
+          "it": "Il francobollo mostra un centrino in merletto conservato nel museo dell'ex scuola di merletto di Tiefenbach, insieme a fuselli e spilli. Il disegno è di Daniela Burger. Con i suoi 2,90 € si affranca un Maxibrief fino a 1.000 g in Germania, ed è il valore più alto tra i francobolli di ottobre.",
+          "nl": "The stamp shows a lace doily from the museum in the former lace school in Tiefenbach, with bobbins and pins. Daniela Burger designed it. Its 2.90 pays for a Maxibrief up to 1,000 g in Germany, and it is the highest value of the October stamps.",
+          "pl": "The stamp shows a lace doily from the museum in the former lace school in Tiefenbach, with bobbins and pins. Daniela Burger designed it. Its 2.90 pays for a Maxibrief up to 1,000 g in Germany, and it is the highest value of the October stamps.",
+          "cs": "The stamp shows a lace doily from the museum in the former lace school in Tiefenbach, with bobbins and pins. Daniela Burger designed it. Its 2.90 pays for a Maxibrief up to 1,000 g in Germany, and it is the highest value of the October stamps.",
+          "sk": "The stamp shows a lace doily from the museum in the former lace school in Tiefenbach, with bobbins and pins. Daniela Burger designed it. Its 2.90 pays for a Maxibrief up to 1,000 g in Germany, and it is the highest value of the October stamps.",
+          "ro": "The stamp shows a lace doily from the museum in the former lace school in Tiefenbach, with bobbins and pins. Daniela Burger designed it. Its 2.90 pays for a Maxibrief up to 1,000 g in Germany, and it is the highest value of the October stamps.",
+          "hu": "The stamp shows a lace doily from the museum in the former lace school in Tiefenbach, with bobbins and pins. Daniela Burger designed it. Its 2.90 pays for a Maxibrief up to 1,000 g in Germany, and it is the highest value of the October stamps.",
+          "da": "The stamp shows a lace doily from the museum in the former lace school in Tiefenbach, with bobbins and pins. Daniela Burger designed it. Its 2.90 pays for a Maxibrief up to 1,000 g in Germany, and it is the highest value of the October stamps."
+        }
+      ]
+    },
+    {
+      "id": "batman",
+      "date": {
+        "en": "1 October 2026",
+        "de": "1. Oktober 2026",
+        "fr": "1er octobre 2026",
+        "it": "1° ottobre 2026",
+        "nl": "1 October 2026",
+        "pl": "1 October 2026",
+        "cs": "1 October 2026",
+        "sk": "1 October 2026",
+        "ro": "1 October 2026",
+        "hu": "1 October 2026",
+        "da": "1 October 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Batman, €0.95",
+          "de": "Batman, 0,95 €",
+          "fr": "Batman, 0,95 €",
+          "it": "Batman, 0,95 €",
+          "nl": "Batman, €0.95",
+          "pl": "Batman, €0.95",
+          "cs": "Batman, €0.95",
+          "sk": "Batman, €0.95",
+          "ro": "Batman, €0.95",
+          "hu": "Batman, €0.95",
+          "da": "Batman, €0.95"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/9cdbebc0b42ebaee/de-2026-batman.png",
+          "width": 749,
+          "height": 417
+        },
+        "country": "DE",
+        "stamp_id": "de-post-151105602"
+      },
+      "title": {
+        "en": "Batman",
+        "de": "Batman",
+        "fr": "Batman",
+        "it": "Batman",
+        "nl": "Batman",
+        "pl": "Batman",
+        "cs": "Batman",
+        "sk": "Batman",
+        "ro": "Batman",
+        "hu": "Batman",
+        "da": "Batman"
+      },
+      "formats": [
+        {
+          "value": "€0.95",
+          "format": {
+            "en": "Stamp",
+            "de": "Briefmarke",
+            "fr": "Timbre",
+            "it": "Francobollo",
+            "nl": "Stamp",
+            "pl": "Stamp",
+            "cs": "Stamp",
+            "sk": "Stamp",
+            "ro": "Stamp",
+            "hu": "Stamp",
+            "da": "Stamp"
+          }
+        },
+        {
+          "value": "€9.50",
+          "format": {
+            "en": "Sheet of 10",
+            "de": "Bogen mit 10 Marken",
+            "fr": "Feuille de 10",
+            "it": "Foglio da 10",
+            "nl": "Sheet of 10",
+            "pl": "Sheet of 10",
+            "cs": "Sheet of 10",
+            "sk": "Sheet of 10",
+            "ro": "Sheet of 10",
+            "hu": "Sheet of 10",
+            "da": "Sheet of 10"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "Bob Kane and Bill Finger created Batman, who first appeared in «Detective Comics #27» in March 1939. In 1940 he got his own comic, «Batman #1», with the Joker and Catwoman.",
+          "de": "Bob Kane und Bill Finger haben Batman erfunden. Im März 1939 tauchte er zum ersten Mal in „Detective Comics #27“ auf, 1940 bekam er mit „Batman #1“ sein eigenes Heft, in dem auch Joker und Catwoman vorkamen.",
+          "fr": "Bob Kane et Bill Finger ont créé Batman, apparu pour la première fois dans « Detective Comics #27 » en mars 1939. En 1940, il a eu son propre comic, « Batman #1 », avec le Joker et Catwoman.",
+          "it": "Batman nasce da Bob Kane e Bill Finger ed esce per la prima volta in \"Detective Comics #27\" nel marzo 1939. Nel 1940 arriva il primo albo a lui dedicato, \"Batman #1\", con il Joker e Catwoman.",
+          "nl": "Bob Kane and Bill Finger created Batman, who first appeared in «Detective Comics #27» in March 1939. In 1940 he got his own comic, «Batman #1», with the Joker and Catwoman.",
+          "pl": "Bob Kane and Bill Finger created Batman, who first appeared in «Detective Comics #27» in March 1939. In 1940 he got his own comic, «Batman #1», with the Joker and Catwoman.",
+          "cs": "Bob Kane and Bill Finger created Batman, who first appeared in «Detective Comics #27» in March 1939. In 1940 he got his own comic, «Batman #1», with the Joker and Catwoman.",
+          "sk": "Bob Kane and Bill Finger created Batman, who first appeared in «Detective Comics #27» in March 1939. In 1940 he got his own comic, «Batman #1», with the Joker and Catwoman.",
+          "ro": "Bob Kane and Bill Finger created Batman, who first appeared in «Detective Comics #27» in March 1939. In 1940 he got his own comic, «Batman #1», with the Joker and Catwoman.",
+          "hu": "Bob Kane and Bill Finger created Batman, who first appeared in «Detective Comics #27» in March 1939. In 1940 he got his own comic, «Batman #1», with the Joker and Catwoman.",
+          "da": "Bob Kane and Bill Finger created Batman, who first appeared in «Detective Comics #27» in March 1939. In 1940 he got his own comic, «Batman #1», with the Joker and Catwoman."
+        },
+        {
+          "en": "The stamp shows him in front of comic panels, and the sheet margin has grey and white dots with the Batman logo. It is the last stamp in the series «Superhelden», which also had Superman, Wonder Woman and Flash.",
+          "de": "Die Marke zeigt ihn vor Comicbildern, der Bogenrand ist mit grauen und weißen Punkten und dem Batman-Logo bedruckt. Sie ist die letzte Marke der Serie „Superhelden“, in der auch Superman, Wonder Woman und Flash erschienen sind.",
+          "fr": "Le timbre le montre devant des cases de bande dessinée, et la marge de la feuille porte des points gris et blancs avec le logo de Batman. C'est le dernier timbre de la série « Superhelden », qui comptait aussi Superman, Wonder Woman et Flash.",
+          "it": "Sul francobollo è ritratto davanti a una serie di vignette, mentre il bordo del foglio ha pois grigi e bianchi con il logo di Batman. È l'ultimo francobollo della serie \"Superhelden\", in cui sono già usciti Superman, Wonder Woman e Flash.",
+          "nl": "The stamp shows him in front of comic panels, and the sheet margin has grey and white dots with the Batman logo. It is the last stamp in the series «Superhelden», which also had Superman, Wonder Woman and Flash.",
+          "pl": "The stamp shows him in front of comic panels, and the sheet margin has grey and white dots with the Batman logo. It is the last stamp in the series «Superhelden», which also had Superman, Wonder Woman and Flash.",
+          "cs": "The stamp shows him in front of comic panels, and the sheet margin has grey and white dots with the Batman logo. It is the last stamp in the series «Superhelden», which also had Superman, Wonder Woman and Flash.",
+          "sk": "The stamp shows him in front of comic panels, and the sheet margin has grey and white dots with the Batman logo. It is the last stamp in the series «Superhelden», which also had Superman, Wonder Woman and Flash.",
+          "ro": "The stamp shows him in front of comic panels, and the sheet margin has grey and white dots with the Batman logo. It is the last stamp in the series «Superhelden», which also had Superman, Wonder Woman and Flash.",
+          "hu": "The stamp shows him in front of comic panels, and the sheet margin has grey and white dots with the Batman logo. It is the last stamp in the series «Superhelden», which also had Superman, Wonder Woman and Flash.",
+          "da": "The stamp shows him in front of comic panels, and the sheet margin has grey and white dots with the Batman logo. It is the last stamp in the series «Superhelden», which also had Superman, Wonder Woman and Flash."
+        }
+      ]
+    },
+    {
+      "id": "himalaya",
+      "date": {
+        "en": "1 October 2026",
+        "de": "1. Oktober 2026",
+        "fr": "1er octobre 2026",
+        "it": "1° ottobre 2026",
+        "nl": "1 October 2026",
+        "pl": "1 October 2026",
+        "cs": "1 October 2026",
+        "sk": "1 October 2026",
+        "ro": "1 October 2026",
+        "hu": "1 October 2026",
+        "da": "1 October 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Himalaya, €0.95",
+          "de": "Himalaya, 0,95 €",
+          "fr": "Himalaya, 0,95 €",
+          "it": "Himalaya, 0,95 €",
+          "nl": "Himalaya, €0.95",
+          "pl": "Himalaya, €0.95",
+          "cs": "Himalaya, €0.95",
+          "sk": "Himalaya, €0.95",
+          "ro": "Himalaya, €0.95",
+          "hu": "Himalaya, €0.95",
+          "da": "Himalaya, €0.95"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/c9c72a19c9e2c763/de-2026-himalaya.png",
+          "width": 748,
+          "height": 421
+        },
+        "country": "DE",
+        "stamp_id": "de-post-151105603"
+      },
+      "title": {
+        "en": "The Himalaya",
+        "de": "Der Himalaya",
+        "fr": "L'Himalaya",
+        "it": "L'Himalaya",
+        "nl": "The Himalaya",
+        "pl": "The Himalaya",
+        "cs": "The Himalaya",
+        "sk": "The Himalaya",
+        "ro": "The Himalaya",
+        "hu": "The Himalaya",
+        "da": "The Himalaya"
+      },
+      "formats": [
+        {
+          "value": "€0.95",
+          "format": {
+            "en": "Stamp",
+            "de": "Briefmarke",
+            "fr": "Timbre",
+            "it": "Francobollo",
+            "nl": "Stamp",
+            "pl": "Stamp",
+            "cs": "Stamp",
+            "sk": "Stamp",
+            "ro": "Stamp",
+            "hu": "Stamp",
+            "da": "Stamp"
+          }
+        },
+        {
+          "value": "€9.50",
+          "format": {
+            "en": "Sheet of 10",
+            "de": "Bogen mit 10 Marken",
+            "fr": "Feuille de 10",
+            "it": "Foglio da 10",
+            "nl": "Sheet of 10",
+            "pl": "Sheet of 10",
+            "cs": "Sheet of 10",
+            "sk": "Sheet of 10",
+            "ro": "Sheet of 10",
+            "hu": "Sheet of 10",
+            "da": "Sheet of 10"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "The picture on this stamp was made with DALL-E, a program that generates images from data on the internet. Deutsche Post calls it a free interpretation of the Himalaya, and the sheet margin says so: \"KI: Künstliche Intelligenz\".",
+          "de": "Das Bild dieser Marke entstand mit DALL-E, einem Programm, das Bilder aus Daten im Internet erzeugt. Die Deutsche Post nennt es eine freie Interpretation des Himalaya, und auf dem Bogenrand steht „KI: Künstliche Intelligenz“.",
+          "fr": "L'image de ce timbre a été créée avec DALL-E, un programme qui génère des images à partir de données trouvées sur Internet. La Deutsche Post parle d'une interprétation libre de l'Himalaya, et la marge de la feuille le précise : « KI : Künstliche Intelligenz ».",
+          "it": "L'immagine di questo francobollo è stata creata con DALL-E, un programma che genera immagini a partire dai dati presenti su internet. Deutsche Post la definisce una libera interpretazione dell'Himalaya, e sul bordo del foglio è indicato: \"KI: Künstliche Intelligenz\".",
+          "nl": "The picture on this stamp was made with DALL-E, a program that generates images from data on the internet. Deutsche Post calls it a free interpretation of the Himalaya, and the sheet margin says so: \"KI: Künstliche Intelligenz\".",
+          "pl": "The picture on this stamp was made with DALL-E, a program that generates images from data on the internet. Deutsche Post calls it a free interpretation of the Himalaya, and the sheet margin says so: \"KI: Künstliche Intelligenz\".",
+          "cs": "The picture on this stamp was made with DALL-E, a program that generates images from data on the internet. Deutsche Post calls it a free interpretation of the Himalaya, and the sheet margin says so: \"KI: Künstliche Intelligenz\".",
+          "sk": "The picture on this stamp was made with DALL-E, a program that generates images from data on the internet. Deutsche Post calls it a free interpretation of the Himalaya, and the sheet margin says so: \"KI: Künstliche Intelligenz\".",
+          "ro": "The picture on this stamp was made with DALL-E, a program that generates images from data on the internet. Deutsche Post calls it a free interpretation of the Himalaya, and the sheet margin says so: \"KI: Künstliche Intelligenz\".",
+          "hu": "The picture on this stamp was made with DALL-E, a program that generates images from data on the internet. Deutsche Post calls it a free interpretation of the Himalaya, and the sheet margin says so: \"KI: Künstliche Intelligenz\".",
+          "da": "The picture on this stamp was made with DALL-E, a program that generates images from data on the internet. Deutsche Post calls it a free interpretation of the Himalaya, and the sheet margin says so: \"KI: Künstliche Intelligenz\"."
+        },
+        {
+          "en": "The name comes from Sanskrit and means place of snow. Ten of the 14 mountains higher than 8,000 m are in the Himalaya, among them Mount Everest at 8,848 m. Edmund Hillary and Tenzing Norgay first climbed it on 29 May 1953.",
+          "de": "Der Name kommt aus dem Sanskrit und bedeutet „Ort des Schnees“. Zehn der 14 Berge über 8.000 m liegen im Himalaya, darunter der Mount Everest mit 8.848 m. Edmund Hillary und Tenzing Norgay standen am 29. Mai 1953 als Erste auf dem Gipfel.",
+          "fr": "Le nom vient du sanskrit et signifie séjour des neiges. Dix des 14 sommets de plus de 8 000 m se trouvent dans l'Himalaya, dont l'Everest, à 8 848 m. Edmund Hillary et Tenzing Norgay l'ont gravi les premiers le 29 mai 1953.",
+          "it": "Il nome viene dal sanscrito e significa luogo della neve. Dieci delle 14 montagne che superano gli 8.000 m si trovano nell'Himalaya, tra cui l'Everest con i suoi 8.848 m. I primi a salirlo sono stati Edmund Hillary e Tenzing Norgay, il 29 maggio 1953.",
+          "nl": "The name comes from Sanskrit and means place of snow. Ten of the 14 mountains higher than 8,000 m are in the Himalaya, among them Mount Everest at 8,848 m. Edmund Hillary and Tenzing Norgay first climbed it on 29 May 1953.",
+          "pl": "The name comes from Sanskrit and means place of snow. Ten of the 14 mountains higher than 8,000 m are in the Himalaya, among them Mount Everest at 8,848 m. Edmund Hillary and Tenzing Norgay first climbed it on 29 May 1953.",
+          "cs": "The name comes from Sanskrit and means place of snow. Ten of the 14 mountains higher than 8,000 m are in the Himalaya, among them Mount Everest at 8,848 m. Edmund Hillary and Tenzing Norgay first climbed it on 29 May 1953.",
+          "sk": "The name comes from Sanskrit and means place of snow. Ten of the 14 mountains higher than 8,000 m are in the Himalaya, among them Mount Everest at 8,848 m. Edmund Hillary and Tenzing Norgay first climbed it on 29 May 1953.",
+          "ro": "The name comes from Sanskrit and means place of snow. Ten of the 14 mountains higher than 8,000 m are in the Himalaya, among them Mount Everest at 8,848 m. Edmund Hillary and Tenzing Norgay first climbed it on 29 May 1953.",
+          "hu": "The name comes from Sanskrit and means place of snow. Ten of the 14 mountains higher than 8,000 m are in the Himalaya, among them Mount Everest at 8,848 m. Edmund Hillary and Tenzing Norgay first climbed it on 29 May 1953.",
+          "da": "The name comes from Sanskrit and means place of snow. Ten of the 14 mountains higher than 8,000 m are in the Himalaya, among them Mount Everest at 8,848 m. Edmund Hillary and Tenzing Norgay first climbed it on 29 May 1953."
+        },
+        {
+          "en": "The stamp is the second in the series «Der Mensch als Entdecker», after the Mariana Trench. As for every stamp in the series, there is also a crypto stamp: a self-adhesive stamp with an NFT for €9.90. It comes in four colours, some rarer than others, and you get one at random in a sealed envelope.",
+          "de": "Die Marke ist die zweite der Serie „Der Mensch als Entdecker“, nach dem Marianengraben. Wie zu jeder Marke dieser Serie gibt es auch eine Krypto-Briefmarke: eine selbstklebende Marke mit NFT für 9,90 €. Sie erscheint in vier Farben, manche seltener als andere, und du bekommst eine davon zufällig in einem verschlossenen Umschlag.",
+          "fr": "Le timbre est le deuxième de la série « Der Mensch als Entdecker », après la fosse des Mariannes. Comme pour chaque timbre de la série, il existe aussi un crypto-timbre : un timbre autocollant avec un NFT, à 9,90 €. Il se décline en quatre couleurs, certaines plus rares que d'autres, et tu en reçois un au hasard dans une enveloppe scellée.",
+          "it": "Il francobollo è il secondo della serie \"Der Mensch als Entdecker\", dopo quello sulla Fossa delle Marianne. Come per ogni francobollo della serie esiste anche un crypto stamp: un francobollo autoadesivo con un NFT, a 9,90 €. Esce in quattro colori, alcuni più rari di altri, e se ne riceve uno a caso in una busta sigillata.",
+          "nl": "The stamp is the second in the series «Der Mensch als Entdecker», after the Mariana Trench. As for every stamp in the series, there is also a crypto stamp: a self-adhesive stamp with an NFT for €9.90. It comes in four colours, some rarer than others, and you get one at random in a sealed envelope.",
+          "pl": "The stamp is the second in the series «Der Mensch als Entdecker», after the Mariana Trench. As for every stamp in the series, there is also a crypto stamp: a self-adhesive stamp with an NFT for €9.90. It comes in four colours, some rarer than others, and you get one at random in a sealed envelope.",
+          "cs": "The stamp is the second in the series «Der Mensch als Entdecker», after the Mariana Trench. As for every stamp in the series, there is also a crypto stamp: a self-adhesive stamp with an NFT for €9.90. It comes in four colours, some rarer than others, and you get one at random in a sealed envelope.",
+          "sk": "The stamp is the second in the series «Der Mensch als Entdecker», after the Mariana Trench. As for every stamp in the series, there is also a crypto stamp: a self-adhesive stamp with an NFT for €9.90. It comes in four colours, some rarer than others, and you get one at random in a sealed envelope.",
+          "ro": "The stamp is the second in the series «Der Mensch als Entdecker», after the Mariana Trench. As for every stamp in the series, there is also a crypto stamp: a self-adhesive stamp with an NFT for €9.90. It comes in four colours, some rarer than others, and you get one at random in a sealed envelope.",
+          "hu": "The stamp is the second in the series «Der Mensch als Entdecker», after the Mariana Trench. As for every stamp in the series, there is also a crypto stamp: a self-adhesive stamp with an NFT for €9.90. It comes in four colours, some rarer than others, and you get one at random in a sealed envelope.",
+          "da": "The stamp is the second in the series «Der Mensch als Entdecker», after the Mariana Trench. As for every stamp in the series, there is also a crypto stamp: a self-adhesive stamp with an NFT for €9.90. It comes in four colours, some rarer than others, and you get one at random in a sealed envelope."
+        }
+      ]
+    },
+    {
+      "id": "mountains",
+      "type": "text",
+      "label": {
+        "en": "The real mountain",
+        "de": "Der echte Berg",
+        "fr": "La vraie montagne",
+        "it": "La montagna vera",
+        "nl": "The real mountain",
+        "pl": "The real mountain",
+        "cs": "The real mountain",
+        "sk": "The real mountain",
+        "ro": "The real mountain",
+        "hu": "The real mountain",
+        "da": "The real mountain"
+      },
+      "title": {
+        "en": "Mount Everest from the north",
+        "de": "Mount Everest von Norden",
+        "fr": "L'Everest vu du nord",
+        "it": "L'Everest dal versante nord",
+        "nl": "Mount Everest from the north",
+        "pl": "Mount Everest from the north",
+        "cs": "Mount Everest from the north",
+        "sk": "Mount Everest from the north",
+        "ro": "Mount Everest from the north",
+        "hu": "Mount Everest from the north",
+        "da": "Mount Everest from the north"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/0bfee7ef174ce524/everest-north-face-galuzzi-2006.jpg",
+          "width": 2000,
+          "credit": "Photo: Luca Galuzzi, CC BY-SA 3.0",
+          "height": 1333,
+          "caption": {
+            "en": "Mount Everest, north face",
+            "de": "Mount Everest, Nordwand",
+            "fr": "L'Everest, face nord",
+            "it": "Everest, parete nord",
+            "nl": "Mount Everest, north face",
+            "pl": "Mount Everest, north face",
+            "cs": "Mount Everest, north face",
+            "sk": "Mount Everest, north face",
+            "ro": "Mount Everest, north face",
+            "hu": "Mount Everest, north face",
+            "da": "Mount Everest, north face"
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Everest_North_Face_toward_Base_Camp_Tibet_Luca_Galuzzi_2006_edit_1.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "The mountains on the stamp were generated by DALL-E. This photo shows the north face of Mount Everest, taken in 2006 from the path to the base camp in Tibet, so you can put the stamp next to the real Himalaya.",
+          "de": "Die Berge auf der Marke hat DALL-E erzeugt. Dieses Foto zeigt die Nordwand des Mount Everest, aufgenommen 2006 vom Weg zum Basislager in Tibet. So kannst du die Marke neben den echten Himalaya legen.",
+          "fr": "Les montagnes du timbre ont été générées par DALL-E. Cette photo montre la face nord de l'Everest, prise en 2006 depuis le chemin qui mène au camp de base, au Tibet. Tu peux ainsi poser le timbre à côté du véritable Himalaya.",
+          "it": "Le montagne sul francobollo sono state generate da DALL-E. Questa foto, scattata nel 2006 lungo il sentiero verso il campo base in Tibet, mostra la parete nord dell'Everest: così puoi mettere il francobollo accanto all'Himalaya vero.",
+          "nl": "The mountains on the stamp were generated by DALL-E. This photo shows the north face of Mount Everest, taken in 2006 from the path to the base camp in Tibet, so you can put the stamp next to the real Himalaya.",
+          "pl": "The mountains on the stamp were generated by DALL-E. This photo shows the north face of Mount Everest, taken in 2006 from the path to the base camp in Tibet, so you can put the stamp next to the real Himalaya.",
+          "cs": "The mountains on the stamp were generated by DALL-E. This photo shows the north face of Mount Everest, taken in 2006 from the path to the base camp in Tibet, so you can put the stamp next to the real Himalaya.",
+          "sk": "The mountains on the stamp were generated by DALL-E. This photo shows the north face of Mount Everest, taken in 2006 from the path to the base camp in Tibet, so you can put the stamp next to the real Himalaya.",
+          "ro": "The mountains on the stamp were generated by DALL-E. This photo shows the north face of Mount Everest, taken in 2006 from the path to the base camp in Tibet, so you can put the stamp next to the real Himalaya.",
+          "hu": "The mountains on the stamp were generated by DALL-E. This photo shows the north face of Mount Everest, taken in 2006 from the path to the base camp in Tibet, so you can put the stamp next to the real Himalaya.",
+          "da": "The mountains on the stamp were generated by DALL-E. This photo shows the north face of Mount Everest, taken in 2006 from the path to the base camp in Tibet, so you can put the stamp next to the real Himalaya."
+        }
+      ]
+    },
+    {
+      "id": "ordering",
+      "rows": [
+        {
+          "label": {
+            "en": "Deutsche Post shop",
+            "de": "Shop der Deutschen Post",
+            "fr": "Boutique de la Deutsche Post",
+            "it": "Shop di Deutsche Post",
+            "nl": "Deutsche Post shop",
+            "pl": "Deutsche Post shop",
+            "cs": "Deutsche Post shop",
+            "sk": "Deutsche Post shop",
+            "ro": "Deutsche Post shop",
+            "hu": "Deutsche Post shop",
+            "da": "Deutsche Post shop"
+          },
+          "value": {
+            "en": "shop.deutschepost.de",
+            "de": "shop.deutschepost.de",
+            "fr": "shop.deutschepost.de",
+            "it": "shop.deutschepost.de",
+            "nl": "shop.deutschepost.de",
+            "pl": "shop.deutschepost.de",
+            "cs": "shop.deutschepost.de",
+            "sk": "shop.deutschepost.de",
+            "ro": "shop.deutschepost.de",
+            "hu": "shop.deutschepost.de",
+            "da": "shop.deutschepost.de"
+          }
+        },
+        {
+          "label": {
+            "en": "Crypto stamp Himalaya",
+            "de": "Krypto-Briefmarke Himalaya",
+            "fr": "Crypto-timbre Himalaya",
+            "it": "Crypto stamp Himalaya",
+            "nl": "Crypto stamp Himalaya",
+            "pl": "Crypto stamp Himalaya",
+            "cs": "Crypto stamp Himalaya",
+            "sk": "Crypto stamp Himalaya",
+            "ro": "Crypto stamp Himalaya",
+            "hu": "Crypto stamp Himalaya",
+            "da": "Crypto stamp Himalaya"
+          },
+          "value": {
+            "en": "€9.90, at most 10 per order",
+            "de": "9,90 €, höchstens 10 pro Bestellung",
+            "fr": "9,90 €, 10 au maximum par commande",
+            "it": "9,90 €, massimo 10 per ordine",
+            "nl": "€9.90, at most 10 per order",
+            "pl": "€9.90, at most 10 per order",
+            "cs": "€9.90, at most 10 per order",
+            "sk": "€9.90, at most 10 per order",
+            "ro": "€9.90, at most 10 per order",
+            "hu": "€9.90, at most 10 per order",
+            "da": "€9.90, at most 10 per order"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "Ordering",
+        "de": "Bestellen",
+        "fr": "Commande",
+        "it": "Ordini",
+        "nl": "Ordering",
+        "pl": "Ordering",
+        "cs": "Ordering",
+        "sk": "Ordering",
+        "ro": "Ordering",
+        "hu": "Ordering",
+        "da": "Ordering"
+      },
+      "title": {
+        "en": "Where to order",
+        "de": "Wo du die Marken bekommst",
+        "fr": "Où commander",
+        "it": "Dove ordinare",
+        "nl": "Where to order",
+        "pl": "Where to order",
+        "cs": "Where to order",
+        "sk": "Where to order",
+        "ro": "Where to order",
+        "hu": "Where to order",
+        "da": "Where to order"
+      },
+      "buttons": [
+        {
+          "href": "https://shop.deutschepost.de",
+          "label": {
+            "en": "Deutsche Post shop",
+            "de": "Shop der Deutschen Post",
+            "fr": "Boutique de la Deutsche Post",
+            "it": "Shop di Deutsche Post",
+            "nl": "Deutsche Post shop",
+            "pl": "Deutsche Post shop",
+            "cs": "Deutsche Post shop",
+            "sk": "Deutsche Post shop",
+            "ro": "Deutsche Post shop",
+            "hu": "Deutsche Post shop",
+            "da": "Deutsche Post shop"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stampiq",
+      "text": {
+        "en": "The October stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "de": "Die Oktobermarken sind noch nicht in StampIQ. Wir nehmen sie später in den Katalog auf.",
+        "fr": "Les timbres d'octobre ne sont pas encore dans StampIQ. Nous les ajouterons au catalogue plus tard.",
+        "it": "I francobolli di ottobre non sono ancora in StampIQ. Li aggiungiamo al catalogo più avanti.",
+        "nl": "The October stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "pl": "The October stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "cs": "The October stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "sk": "The October stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "ro": "The October stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "hu": "The October stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "da": "The October stamps are not in StampIQ yet. We add them to the catalogue later."
+      },
+      "type": "note"
+    }
+  ]
+}

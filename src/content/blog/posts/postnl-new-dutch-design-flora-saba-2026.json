@@ -1,0 +1,955 @@
+{
+  "category": "new-issues",
+  "markets": [
+    "NL",
+    "BE",
+    "LU"
+  ],
+  "langs": [
+    "en",
+    "de",
+    "fr",
+    "nl"
+  ],
+  "published_at": "2026-10-19T07:00:00+00:00",
+  "thumbnail": {
+    "src": "https://assets.stampiq.io/blog/6e657b2a7935e9d1/nl-2026-ndd-saba-card-v3.png",
+    "width": 1920,
+    "height": 960
+  },
+  "languages": {
+    "en": {
+      "slug": "postnl-new-dutch-design-flora-saba-2026",
+      "title": "New Dutch Design and Flora Saba: PostNL's last sheets",
+      "description": "The last New Dutch Design sheets of 2026 by ArtEZ students, and Flora Saba, the final sheet of the Caribbean years of Beleef de natuur."
+    },
+    "de": {
+      "slug": "postnl-new-dutch-design-flora-saba-2026",
+      "title": "New Dutch Design und Flora Saba: PostNLs letzte Bogen",
+      "description": "Die letzten Bogen von New Dutch Design 2026, gestaltet von ArtEZ-Studierenden, und Flora Saba, der Abschluss der karibischen Jahre von Beleef de natuur."
+    },
+    "fr": {
+      "slug": "new-dutch-design-flora-saba-2026",
+      "title": "New Dutch Design et Flora Saba : derniers feuillets PostNL",
+      "description": "Les derniers feuillets New Dutch Design de 2026, dessinés par des étudiants de l'ArtEZ, et Flora Saba, qui clôt les années caribéennes de Beleef de natuur."
+    },
+    "it": {
+      "slug": "postnl-new-dutch-design-flora-saba-2026",
+      "title": "New Dutch Design and Flora Saba: PostNL's last sheets",
+      "description": "The last New Dutch Design sheets of 2026 by ArtEZ students, and Flora Saba, the final sheet of the Caribbean years of Beleef de natuur."
+    },
+    "nl": {
+      "slug": "postnl-new-dutch-design-flora-saba-2026",
+      "title": "New Dutch Design en Flora Saba: laatste vellen van PostNL",
+      "description": "De laatste vellen van New Dutch Design uit 2026, ontworpen door studenten van ArtEZ, en Flora Saba, het slotvel van de Caribische jaren van Beleef de natuur."
+    },
+    "pl": {
+      "slug": "postnl-new-dutch-design-flora-saba-2026",
+      "title": "New Dutch Design and Flora Saba: PostNL's last sheets",
+      "description": "The last New Dutch Design sheets of 2026 by ArtEZ students, and Flora Saba, the final sheet of the Caribbean years of Beleef de natuur."
+    },
+    "cs": {
+      "slug": "postnl-new-dutch-design-flora-saba-2026",
+      "title": "New Dutch Design and Flora Saba: PostNL's last sheets",
+      "description": "The last New Dutch Design sheets of 2026 by ArtEZ students, and Flora Saba, the final sheet of the Caribbean years of Beleef de natuur."
+    },
+    "sk": {
+      "slug": "postnl-new-dutch-design-flora-saba-2026",
+      "title": "New Dutch Design and Flora Saba: PostNL's last sheets",
+      "description": "The last New Dutch Design sheets of 2026 by ArtEZ students, and Flora Saba, the final sheet of the Caribbean years of Beleef de natuur."
+    },
+    "ro": {
+      "slug": "postnl-new-dutch-design-flora-saba-2026",
+      "title": "New Dutch Design and Flora Saba: PostNL's last sheets",
+      "description": "The last New Dutch Design sheets of 2026 by ArtEZ students, and Flora Saba, the final sheet of the Caribbean years of Beleef de natuur."
+    },
+    "hu": {
+      "slug": "postnl-new-dutch-design-flora-saba-2026",
+      "title": "New Dutch Design and Flora Saba: PostNL's last sheets",
+      "description": "The last New Dutch Design sheets of 2026 by ArtEZ students, and Flora Saba, the final sheet of the Caribbean years of Beleef de natuur."
+    },
+    "da": {
+      "slug": "postnl-new-dutch-design-flora-saba-2026",
+      "title": "New Dutch Design and Flora Saba: PostNL's last sheets",
+      "description": "The last New Dutch Design sheets of 2026 by ArtEZ students, and Flora Saba, the final sheet of the Caribbean years of Beleef de natuur."
+    }
+  },
+  "header": {
+    "lead": {
+      "en": "Two PostNL series finished their year in August and September. New Dutch Design closed with two sheets by design students. Beleef de natuur closed its Caribbean years with the plants of Saba.",
+      "de": "Zwei Serien von PostNL haben ihr Jahr im August und September abgeschlossen. New Dutch Design endete mit zwei Bogen von Design-Studierenden. Beleef de natuur beendete die karibischen Jahre mit den Pflanzen von Saba.",
+      "fr": "Deux séries de PostNL terminent leur année en août et en septembre. New Dutch Design se conclut avec deux feuillets dessinés par des étudiants en design. Beleef de natuur clôt ses années caribéennes avec les plantes de Saba.",
+      "it": "Two PostNL series finished their year in August and September. New Dutch Design closed with two sheets by design students. Beleef de natuur closed its Caribbean years with the plants of Saba.",
+      "nl": "In augustus en september verschenen de laatste vellen van twee PostNL-series. New Dutch Design sloot af met twee vellen van studenten grafisch ontwerp. Beleef de natuur sloot de Caribische jaren af met de planten van Saba.",
+      "pl": "Two PostNL series finished their year in August and September. New Dutch Design closed with two sheets by design students. Beleef de natuur closed its Caribbean years with the plants of Saba.",
+      "cs": "Two PostNL series finished their year in August and September. New Dutch Design closed with two sheets by design students. Beleef de natuur closed its Caribbean years with the plants of Saba.",
+      "sk": "Two PostNL series finished their year in August and September. New Dutch Design closed with two sheets by design students. Beleef de natuur closed its Caribbean years with the plants of Saba.",
+      "ro": "Two PostNL series finished their year in August and September. New Dutch Design closed with two sheets by design students. Beleef de natuur closed its Caribbean years with the plants of Saba.",
+      "hu": "Two PostNL series finished their year in August and September. New Dutch Design closed with two sheets by design students. Beleef de natuur closed its Caribbean years with the plants of Saba.",
+      "da": "Two PostNL series finished their year in August and September. New Dutch Design closed with two sheets by design students. Beleef de natuur closed its Caribbean years with the plants of Saba."
+    },
+    "visual": {
+      "type": "stamp-fan",
+      "stamps": [
+        {
+          "name": {
+            "en": "New Dutch Design, Gloed van het Moment",
+            "de": "New Dutch Design, Gloed van het Moment",
+            "fr": "New Dutch Design, Gloed van het Moment",
+            "it": "New Dutch Design, Gloed van het Moment",
+            "nl": "New Dutch Design, Gloed van het Moment",
+            "pl": "New Dutch Design, Gloed van het Moment",
+            "cs": "New Dutch Design, Gloed van het Moment",
+            "sk": "New Dutch Design, Gloed van het Moment",
+            "ro": "New Dutch Design, Gloed van het Moment",
+            "hu": "New Dutch Design, Gloed van het Moment",
+            "da": "New Dutch Design, Gloed van het Moment"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/fc26b858de8430ee/nl-2026-ndd-gloed-zegel-v3.png",
+            "width": 488,
+            "height": 365
+          },
+          "country": "NL",
+          "stamp_id": "nl-postnl-460862-1"
+        },
+        {
+          "name": {
+            "en": "New Dutch Design, Echo van het Feest",
+            "de": "New Dutch Design, Echo van het Feest",
+            "fr": "New Dutch Design, Echo van het Feest",
+            "it": "New Dutch Design, Echo van het Feest",
+            "nl": "New Dutch Design, Echo van het Feest",
+            "pl": "New Dutch Design, Echo van het Feest",
+            "cs": "New Dutch Design, Echo van het Feest",
+            "sk": "New Dutch Design, Echo van het Feest",
+            "ro": "New Dutch Design, Echo van het Feest",
+            "hu": "New Dutch Design, Echo van het Feest",
+            "da": "New Dutch Design, Echo van het Feest"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/fe9d8dc2e475a300/nl-2026-ndd-echo-zegel-v3.png",
+            "width": 969,
+            "height": 733
+          },
+          "country": "NL",
+          "stamp_id": "nl-postnl-460961-1"
+        },
+        {
+          "name": {
+            "en": "Flora Saba, West Indian Treefern",
+            "de": "Flora Saba, West Indian Treefern",
+            "fr": "Flora Saba, fougère arborescente",
+            "it": "Flora Saba, West Indian Treefern",
+            "nl": "Flora Saba, West Indian Treefern",
+            "pl": "Flora Saba, West Indian Treefern",
+            "cs": "Flora Saba, West Indian Treefern",
+            "sk": "Flora Saba, West Indian Treefern",
+            "ro": "Flora Saba, West Indian Treefern",
+            "hu": "Flora Saba, West Indian Treefern",
+            "da": "Flora Saba, West Indian Treefern"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/aefa6e1bca1c63d6/nl-2026-flora-saba-boomvaren-v3.png",
+            "width": 482,
+            "height": 363
+          },
+          "country": "NL",
+          "stamp_id": "nl-postnl-460861-2"
+        },
+        {
+          "name": {
+            "en": "Flora Saba, Lobster Claws",
+            "de": "Flora Saba, Lobster Claws",
+            "fr": "Flora Saba, bec de perroquet",
+            "it": "Flora Saba, Lobster Claws",
+            "nl": "Flora Saba, Lobster Claws",
+            "pl": "Flora Saba, Lobster Claws",
+            "cs": "Flora Saba, Lobster Claws",
+            "sk": "Flora Saba, Lobster Claws",
+            "ro": "Flora Saba, Lobster Claws",
+            "hu": "Flora Saba, Lobster Claws",
+            "da": "Flora Saba, Lobster Claws"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/5379fdfebded3241/nl-2026-flora-saba-lobster-claws-v3.png",
+            "width": 483,
+            "height": 364
+          },
+          "country": "NL",
+          "stamp_id": "nl-postnl-460861-6"
+        }
+      ]
+    },
+    "date_label": {
+      "en": "10 August and 28 September 2026",
+      "de": "10. August und 28. September 2026",
+      "fr": "10 août et 28 septembre 2026",
+      "it": "10 August and 28 September 2026",
+      "nl": "10 augustus en 28 september 2026",
+      "pl": "10 August and 28 September 2026",
+      "cs": "10 August and 28 September 2026",
+      "sk": "10 August and 28 September 2026",
+      "ro": "10 August and 28 September 2026",
+      "hu": "10 August and 28 September 2026",
+      "da": "10 August and 28 September 2026"
+    }
+  },
+  "blocks": [
+    {
+      "id": "series",
+      "type": "text",
+      "label": {
+        "en": "The series",
+        "de": "Die Serien",
+        "fr": "La série",
+        "it": "The series",
+        "nl": "De series",
+        "pl": "The series",
+        "cs": "The series",
+        "sk": "The series",
+        "ro": "The series",
+        "hu": "The series",
+        "da": "The series"
+      },
+      "title": {
+        "en": "New Dutch Design and Beleef de natuur",
+        "de": "New Dutch Design und Beleef de natuur",
+        "fr": "New Dutch Design et Beleef de natuur",
+        "it": "New Dutch Design and Beleef de natuur",
+        "nl": "New Dutch Design en Beleef de natuur",
+        "pl": "New Dutch Design and Beleef de natuur",
+        "cs": "New Dutch Design and Beleef de natuur",
+        "sk": "New Dutch Design and Beleef de natuur",
+        "ro": "New Dutch Design and Beleef de natuur",
+        "hu": "New Dutch Design and Beleef de natuur",
+        "da": "New Dutch Design and Beleef de natuur"
+      },
+      "paragraphs": [
+        {
+          "en": "New Dutch Design shows the work of young graphic designers. The four sheets of 2026 were designed in the school year 2024-2025 by all 21 second-year Graphic Design students at ArtEZ in Zwolle. Curator Nicole Uniquole guided them for PostNL. She took them to the Nationaal Archief, where the design process of almost every Dutch stamp is kept.",
+          "de": "New Dutch Design zeigt Arbeiten junger Grafikdesigner. Die vier Bogen von 2026 entstanden im Schuljahr 2024-2025, gestaltet von allen 21 Studierenden des zweiten Jahres im Studiengang Graphic Design an der ArtEZ in Zwolle. Kuratorin Nicole Uniquole begleitete sie im Auftrag von PostNL. Sie nahm die Gruppe mit ins Nationaal Archief, wo die Entwürfe fast jeder niederländischen Briefmarke aufbewahrt werden.",
+          "fr": "New Dutch Design montre le travail de jeunes graphistes. Les quatre feuillets de 2026 ont été conçus pendant l'année scolaire 2024-2025 par les 21 étudiants de deuxième année en Graphic Design de l'ArtEZ à Zwolle. La curatrice Nicole Uniquole les a accompagnés pour PostNL. Elle les a emmenés au Nationaal Archief, où sont conservés les travaux de création de presque tous les timbres néerlandais.",
+          "it": "New Dutch Design shows the work of young graphic designers. The four sheets of 2026 were designed in the school year 2024-2025 by all 21 second-year Graphic Design students at ArtEZ in Zwolle. Curator Nicole Uniquole guided them for PostNL. She took them to the Nationaal Archief, where the design process of almost every Dutch stamp is kept.",
+          "nl": "New Dutch Design laat werk zien van jonge grafisch ontwerpers. De vier vellen van 2026 zijn in het schooljaar 2024-2025 ontworpen door alle 21 tweedejaarsstudenten Graphic Design van ArtEZ in Zwolle. Curator Nicole Uniquole begeleidde hen namens PostNL. Zij nam hen mee naar het Nationaal Archief, waar het ontwerpproces van bijna elke Nederlandse postzegel bewaard wordt.",
+          "pl": "New Dutch Design shows the work of young graphic designers. The four sheets of 2026 were designed in the school year 2024-2025 by all 21 second-year Graphic Design students at ArtEZ in Zwolle. Curator Nicole Uniquole guided them for PostNL. She took them to the Nationaal Archief, where the design process of almost every Dutch stamp is kept.",
+          "cs": "New Dutch Design shows the work of young graphic designers. The four sheets of 2026 were designed in the school year 2024-2025 by all 21 second-year Graphic Design students at ArtEZ in Zwolle. Curator Nicole Uniquole guided them for PostNL. She took them to the Nationaal Archief, where the design process of almost every Dutch stamp is kept.",
+          "sk": "New Dutch Design shows the work of young graphic designers. The four sheets of 2026 were designed in the school year 2024-2025 by all 21 second-year Graphic Design students at ArtEZ in Zwolle. Curator Nicole Uniquole guided them for PostNL. She took them to the Nationaal Archief, where the design process of almost every Dutch stamp is kept.",
+          "ro": "New Dutch Design shows the work of young graphic designers. The four sheets of 2026 were designed in the school year 2024-2025 by all 21 second-year Graphic Design students at ArtEZ in Zwolle. Curator Nicole Uniquole guided them for PostNL. She took them to the Nationaal Archief, where the design process of almost every Dutch stamp is kept.",
+          "hu": "New Dutch Design shows the work of young graphic designers. The four sheets of 2026 were designed in the school year 2024-2025 by all 21 second-year Graphic Design students at ArtEZ in Zwolle. Curator Nicole Uniquole guided them for PostNL. She took them to the Nationaal Archief, where the design process of almost every Dutch stamp is kept.",
+          "da": "New Dutch Design shows the work of young graphic designers. The four sheets of 2026 were designed in the school year 2024-2025 by all 21 second-year Graphic Design students at ArtEZ in Zwolle. Curator Nicole Uniquole guided them for PostNL. She took them to the Nationaal Archief, where the design process of almost every Dutch stamp is kept."
+        },
+        {
+          "en": "The theme of the series is celebrating. This year the students chose the call \"maak het bont\", make it bold. With four designs they ask you to stand still, let go, remember and celebrate being alive.",
+          "de": "Das Thema der Serie ist das Feiern. In diesem Jahr wählten die Studierenden den Aufruf „maak het bont“, mach es bunt. Mit vier Entwürfen bitten sie dich, innezuhalten, loszulassen, dich zu erinnern und das Leben zu feiern.",
+          "fr": "La série a pour thème la fête. Cette année, les étudiants ont choisi le mot d'ordre « maak het bont », autrement dit faire preuve d'audace. Avec quatre créations, ils t'invitent à t'arrêter, à lâcher prise, à te souvenir et à célébrer le fait d'être en vie.",
+          "it": "The theme of the series is celebrating. This year the students chose the call \"maak het bont\", make it bold. With four designs they ask you to stand still, let go, remember and celebrate being alive.",
+          "nl": "Het thema van de serie is vieren. Dit jaar kozen de studenten voor de oproep „maak het bont”. Met vier ontwerpen vragen ze je om stil te staan, los te laten, terug te denken en het leven te vieren.",
+          "pl": "The theme of the series is celebrating. This year the students chose the call \"maak het bont\", make it bold. With four designs they ask you to stand still, let go, remember and celebrate being alive.",
+          "cs": "The theme of the series is celebrating. This year the students chose the call \"maak het bont\", make it bold. With four designs they ask you to stand still, let go, remember and celebrate being alive.",
+          "sk": "The theme of the series is celebrating. This year the students chose the call \"maak het bont\", make it bold. With four designs they ask you to stand still, let go, remember and celebrate being alive.",
+          "ro": "The theme of the series is celebrating. This year the students chose the call \"maak het bont\", make it bold. With four designs they ask you to stand still, let go, remember and celebrate being alive.",
+          "hu": "The theme of the series is celebrating. This year the students chose the call \"maak het bont\", make it bold. With four designs they ask you to stand still, let go, remember and celebrate being alive.",
+          "da": "The theme of the series is celebrating. This year the students chose the call \"maak het bont\", make it bold. With four designs they ask you to stand still, let go, remember and celebrate being alive."
+        },
+        {
+          "en": "Beleef de natuur shows four sheets of ten plants or animals a year. From 2024 to 2026 it was about the Caribbean Netherlands: Bonaire, Sint Eustatius and Saba. Flora Saba is the last sheet of that cycle.",
+          "de": "Beleef de natuur bringt jedes Jahr vier Bogen mit je zehn Pflanzen oder Tieren. Von 2024 bis 2026 ging es um die karibischen Niederlande: Bonaire, Sint Eustatius und Saba. Flora Saba ist der letzte Bogen dieses Zyklus.",
+          "fr": "Beleef de natuur présente chaque année quatre feuillets de dix plantes ou animaux. De 2024 à 2026, la série a été consacrée aux Pays-Bas caribéens : Bonaire, Saint-Eustache et Saba. Flora Saba est le dernier feuillet de ce cycle.",
+          "it": "Beleef de natuur shows four sheets of ten plants or animals a year. From 2024 to 2026 it was about the Caribbean Netherlands: Bonaire, Sint Eustatius and Saba. Flora Saba is the last sheet of that cycle.",
+          "nl": "Van Beleef de natuur verschijnen elk jaar vier vellen met tien planten of dieren. Van 2024 tot en met 2026 ging het over Caribisch Nederland: Bonaire, Sint Eustatius en Saba. Flora Saba is het laatste vel van die reeks.",
+          "pl": "Beleef de natuur shows four sheets of ten plants or animals a year. From 2024 to 2026 it was about the Caribbean Netherlands: Bonaire, Sint Eustatius and Saba. Flora Saba is the last sheet of that cycle.",
+          "cs": "Beleef de natuur shows four sheets of ten plants or animals a year. From 2024 to 2026 it was about the Caribbean Netherlands: Bonaire, Sint Eustatius and Saba. Flora Saba is the last sheet of that cycle.",
+          "sk": "Beleef de natuur shows four sheets of ten plants or animals a year. From 2024 to 2026 it was about the Caribbean Netherlands: Bonaire, Sint Eustatius and Saba. Flora Saba is the last sheet of that cycle.",
+          "ro": "Beleef de natuur shows four sheets of ten plants or animals a year. From 2024 to 2026 it was about the Caribbean Netherlands: Bonaire, Sint Eustatius and Saba. Flora Saba is the last sheet of that cycle.",
+          "hu": "Beleef de natuur shows four sheets of ten plants or animals a year. From 2024 to 2026 it was about the Caribbean Netherlands: Bonaire, Sint Eustatius and Saba. Flora Saba is the last sheet of that cycle.",
+          "da": "Beleef de natuur shows four sheets of ten plants or animals a year. From 2024 to 2026 it was about the Caribbean Netherlands: Bonaire, Sint Eustatius and Saba. Flora Saba is the last sheet of that cycle."
+        }
+      ]
+    },
+    {
+      "id": "gloed",
+      "date": {
+        "en": "10 August 2026",
+        "de": "10. August 2026",
+        "fr": "10 août 2026",
+        "it": "10 August 2026",
+        "nl": "10 augustus 2026",
+        "pl": "10 August 2026",
+        "cs": "10 August 2026",
+        "sk": "10 August 2026",
+        "ro": "10 August 2026",
+        "hu": "10 August 2026",
+        "da": "10 August 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Gloed van het Moment, sheet of six",
+          "de": "Gloed van het Moment, Bogen mit sechs Marken",
+          "fr": "Gloed van het Moment, feuillet de six",
+          "it": "Gloed van het Moment, sheet of six",
+          "nl": "Gloed van het Moment, vel van zes",
+          "pl": "Gloed van het Moment, sheet of six",
+          "cs": "Gloed van het Moment, sheet of six",
+          "sk": "Gloed van het Moment, sheet of six",
+          "ro": "Gloed van het Moment, sheet of six",
+          "hu": "Gloed van het Moment, sheet of six",
+          "da": "Gloed van het Moment, sheet of six"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/96e51cc4a2bd8612/nl-2026-ndd-gloed-vel.png",
+          "width": 735,
+          "height": 1000
+        },
+        "country": "NL",
+        "stamp_id": "nl-postnl-460862"
+      },
+      "title": {
+        "en": "Gloed van het Moment, an autumn sunset",
+        "de": "Gloed van het Moment, ein Sonnenuntergang im Herbst",
+        "fr": "Gloed van het Moment, un coucher de soleil d'automne",
+        "it": "Gloed van het Moment, an autumn sunset",
+        "nl": "Gloed van het Moment, een zonsondergang in de herfst",
+        "pl": "Gloed van het Moment, an autumn sunset",
+        "cs": "Gloed van het Moment, an autumn sunset",
+        "sk": "Gloed van het Moment, an autumn sunset",
+        "ro": "Gloed van het Moment, an autumn sunset",
+        "hu": "Gloed van het Moment, an autumn sunset",
+        "da": "Gloed van het Moment, an autumn sunset"
+      },
+      "formats": [
+        {
+          "value": "€8.40",
+          "format": {
+            "en": "Sheet of six",
+            "de": "Bogen mit sechs Marken",
+            "fr": "Feuillet de six",
+            "it": "Sheet of six",
+            "nl": "Vel van zes",
+            "pl": "Sheet of six",
+            "cs": "Sheet of six",
+            "sk": "Sheet of six",
+            "ro": "Sheet of six",
+            "hu": "Sheet of six",
+            "da": "Sheet of six"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "One large pattern runs over the perforations from stamp to stamp and on into the margin. It shows an autumn sunset, with colours that change as the sunlight passes through the air in a different way. The colours and the shapes move from left to right to show time passing.",
+          "de": "Ein großes Muster läuft über die Zähnung von Marke zu Marke und weiter in den Bogenrand. Es zeigt einen Sonnenuntergang im Herbst, mit Farben, die sich ändern, weil das Sonnenlicht anders durch die Luft fällt. Farben und Formen wandern von links nach rechts und zeigen so, wie die Zeit vergeht.",
+          "fr": "Un seul motif court d'un timbre à l'autre par-dessus la dentelure et se prolonge dans la marge. Il montre un coucher de soleil d'automne, avec des couleurs qui changent selon la façon dont la lumière traverse l'air. Les couleurs et les formes se déplacent de gauche à droite pour montrer le temps qui passe.",
+          "it": "One large pattern runs over the perforations from stamp to stamp and on into the margin. It shows an autumn sunset, with colours that change as the sunlight passes through the air in a different way. The colours and the shapes move from left to right to show time passing.",
+          "nl": "Eén groot patroon loopt over de tanding heen van postzegel naar postzegel en door tot in de velrand. Het toont een zonsondergang in de herfst, met kleuren die veranderen doordat het zonlicht anders door de lucht valt. De kleuren en de vormen bewegen van links naar rechts om het verstrijken van de tijd te laten zien.",
+          "pl": "One large pattern runs over the perforations from stamp to stamp and on into the margin. It shows an autumn sunset, with colours that change as the sunlight passes through the air in a different way. The colours and the shapes move from left to right to show time passing.",
+          "cs": "One large pattern runs over the perforations from stamp to stamp and on into the margin. It shows an autumn sunset, with colours that change as the sunlight passes through the air in a different way. The colours and the shapes move from left to right to show time passing.",
+          "sk": "One large pattern runs over the perforations from stamp to stamp and on into the margin. It shows an autumn sunset, with colours that change as the sunlight passes through the air in a different way. The colours and the shapes move from left to right to show time passing.",
+          "ro": "One large pattern runs over the perforations from stamp to stamp and on into the margin. It shows an autumn sunset, with colours that change as the sunlight passes through the air in a different way. The colours and the shapes move from left to right to show time passing.",
+          "hu": "One large pattern runs over the perforations from stamp to stamp and on into the margin. It shows an autumn sunset, with colours that change as the sunlight passes through the air in a different way. The colours and the shapes move from left to right to show time passing.",
+          "da": "One large pattern runs over the perforations from stamp to stamp and on into the margin. It shows an autumn sunset, with colours that change as the sunlight passes through the air in a different way. The colours and the shapes move from left to right to show time passing."
+        },
+        {
+          "en": "The two designs on the sheet show two moments of the same sunset. The colours have no gradients. According to PostNL, people notice the colours of a setting sun change suddenly.",
+          "de": "Die beiden Entwürfe auf dem Bogen zeigen zwei Momente desselben Sonnenuntergangs. Die Farben wechseln ohne Verlauf. Laut PostNL nehmen Menschen die Farben einer untergehenden Sonne als plötzliche Wechsel wahr.",
+          "fr": "Les deux dessins du feuillet montrent deux moments du même coucher de soleil. Les couleurs sont posées sans dégradé. Selon PostNL, on perçoit les couleurs d'un soleil couchant comme des changements brusques.",
+          "it": "The two designs on the sheet show two moments of the same sunset. The colours have no gradients. According to PostNL, people notice the colours of a setting sun change suddenly.",
+          "nl": "De twee ontwerpen op het vel tonen twee momenten van dezelfde zonsondergang. De kleuren hebben geen kleurverloop. Volgens PostNL zien mensen de kleuren van een ondergaande zon ineens omslaan.",
+          "pl": "The two designs on the sheet show two moments of the same sunset. The colours have no gradients. According to PostNL, people notice the colours of a setting sun change suddenly.",
+          "cs": "The two designs on the sheet show two moments of the same sunset. The colours have no gradients. According to PostNL, people notice the colours of a setting sun change suddenly.",
+          "sk": "The two designs on the sheet show two moments of the same sunset. The colours have no gradients. According to PostNL, people notice the colours of a setting sun change suddenly.",
+          "ro": "The two designs on the sheet show two moments of the same sunset. The colours have no gradients. According to PostNL, people notice the colours of a setting sun change suddenly.",
+          "hu": "The two designs on the sheet show two moments of the same sunset. The colours have no gradients. According to PostNL, people notice the colours of a setting sun change suddenly.",
+          "da": "The two designs on the sheet show two moments of the same sunset. The colours have no gradients. According to PostNL, people notice the colours of a setting sun change suddenly."
+        },
+        {
+          "en": "Joh. Enschedé in Haarlem printed 75,000 sheets in offset. The stamps are gummed and carry the value 1.",
+          "de": "Joh. Enschedé in Haarlem druckte 75.000 Bogen im Offsetdruck. Die Marken sind gummiert und tragen die Wertstufe 1.",
+          "fr": "Joh. Enschedé, à Haarlem, a imprimé 75 000 feuillets en offset. Les timbres sont gommés et portent la valeur faciale 1.",
+          "it": "Joh. Enschedé in Haarlem printed 75,000 sheets in offset. The stamps are gummed and carry the value 1.",
+          "nl": "Joh. Enschedé in Haarlem drukte 75.000 vellen in offset. De postzegels zijn gegomd en hebben de waarde 1.",
+          "pl": "Joh. Enschedé in Haarlem printed 75,000 sheets in offset. The stamps are gummed and carry the value 1.",
+          "cs": "Joh. Enschedé in Haarlem printed 75,000 sheets in offset. The stamps are gummed and carry the value 1.",
+          "sk": "Joh. Enschedé in Haarlem printed 75,000 sheets in offset. The stamps are gummed and carry the value 1.",
+          "ro": "Joh. Enschedé in Haarlem printed 75,000 sheets in offset. The stamps are gummed and carry the value 1.",
+          "hu": "Joh. Enschedé in Haarlem printed 75,000 sheets in offset. The stamps are gummed and carry the value 1.",
+          "da": "Joh. Enschedé in Haarlem printed 75,000 sheets in offset. The stamps are gummed and carry the value 1."
+        }
+      ]
+    },
+    {
+      "id": "echo",
+      "date": {
+        "en": "28 September 2026",
+        "de": "28. September 2026",
+        "fr": "28 septembre 2026",
+        "it": "28 September 2026",
+        "nl": "28 september 2026",
+        "pl": "28 September 2026",
+        "cs": "28 September 2026",
+        "sk": "28 September 2026",
+        "ro": "28 September 2026",
+        "hu": "28 September 2026",
+        "da": "28 September 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Echo van het Feest, sheet of six",
+          "de": "Echo van het Feest, Bogen mit sechs Marken",
+          "fr": "Echo van het Feest, feuillet de six",
+          "it": "Echo van het Feest, sheet of six",
+          "nl": "Echo van het Feest, vel van zes",
+          "pl": "Echo van het Feest, sheet of six",
+          "cs": "Echo van het Feest, sheet of six",
+          "sk": "Echo van het Feest, sheet of six",
+          "ro": "Echo van het Feest, sheet of six",
+          "hu": "Echo van het Feest, sheet of six",
+          "da": "Echo van het Feest, sheet of six"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/8aeb46de9e359db4/nl-2026-ndd-echo-vel.png",
+          "width": 736,
+          "height": 1000
+        },
+        "country": "NL",
+        "stamp_id": "nl-postnl-460961"
+      },
+      "title": {
+        "en": "Echo van het Feest, the last sheet of the year",
+        "de": "Echo van het Feest, der letzte Bogen des Jahres",
+        "fr": "Echo van het Feest, le dernier feuillet de l'année",
+        "it": "Echo van het Feest, the last sheet of the year",
+        "nl": "Echo van het Feest, het laatste vel van het jaar",
+        "pl": "Echo van het Feest, the last sheet of the year",
+        "cs": "Echo van het Feest, the last sheet of the year",
+        "sk": "Echo van het Feest, the last sheet of the year",
+        "ro": "Echo van het Feest, the last sheet of the year",
+        "hu": "Echo van het Feest, the last sheet of the year",
+        "da": "Echo van het Feest, the last sheet of the year"
+      },
+      "formats": [
+        {
+          "value": "€8.40",
+          "format": {
+            "en": "Sheet of six",
+            "de": "Bogen mit sechs Marken",
+            "fr": "Feuillet de six",
+            "it": "Sheet of six",
+            "nl": "Vel van zes",
+            "pl": "Sheet of six",
+            "cs": "Sheet of six",
+            "sk": "Sheet of six",
+            "ro": "Sheet of six",
+            "hu": "Sheet of six",
+            "da": "Sheet of six"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "The fourth sheet shows the confetti left on the floor after a party, just before the clean-up starts. Dashes and circles fall across the sheet and run on into the margin. The students started from photos of confetti on the floor after a party.",
+          "de": "Der vierte Bogen zeigt das Konfetti, das nach einer Party auf dem Boden liegt, kurz bevor aufgeräumt wird. Striche und Kreise fallen über den Bogen und laufen weiter in den Rand. Ausgangspunkt der Studierenden waren Fotos von Konfetti auf dem Boden nach einem Fest.",
+          "fr": "Le quatrième feuillet montre les confettis restés au sol après une fête, juste avant le début du rangement. Des traits et des ronds tombent sur le feuillet et se poursuivent dans la marge. Les étudiants sont partis de photos de confettis au sol après une fête.",
+          "it": "The fourth sheet shows the confetti left on the floor after a party, just before the clean-up starts. Dashes and circles fall across the sheet and run on into the margin. The students started from photos of confetti on the floor after a party.",
+          "nl": "Het vierde vel toont de confetti die na een feest op de vloer achterblijft, vlak voordat het opruimen begint. Streepjes en rondjes vallen over het vel en lopen door tot in de velrand. De studenten werkten met foto's van confetti op de vloer na een feest.",
+          "pl": "The fourth sheet shows the confetti left on the floor after a party, just before the clean-up starts. Dashes and circles fall across the sheet and run on into the margin. The students started from photos of confetti on the floor after a party.",
+          "cs": "The fourth sheet shows the confetti left on the floor after a party, just before the clean-up starts. Dashes and circles fall across the sheet and run on into the margin. The students started from photos of confetti on the floor after a party.",
+          "sk": "The fourth sheet shows the confetti left on the floor after a party, just before the clean-up starts. Dashes and circles fall across the sheet and run on into the margin. The students started from photos of confetti on the floor after a party.",
+          "ro": "The fourth sheet shows the confetti left on the floor after a party, just before the clean-up starts. Dashes and circles fall across the sheet and run on into the margin. The students started from photos of confetti on the floor after a party.",
+          "hu": "The fourth sheet shows the confetti left on the floor after a party, just before the clean-up starts. Dashes and circles fall across the sheet and run on into the margin. The students started from photos of confetti on the floor after a party.",
+          "da": "The fourth sheet shows the confetti left on the floor after a party, just before the clean-up starts. Dashes and circles fall across the sheet and run on into the margin. The students started from photos of confetti on the floor after a party."
+        },
+        {
+          "en": "One of the students calls it the most contemporary of the four sheets of 2026. The typeface Vier was drawn for the series in 2025 by ArtEZ student Maureen Ketting.",
+          "de": "Einer der Studierenden nennt ihn den modernsten der vier Bogen von 2026. Die Schrift Vier wurde 2025 von der ArtEZ-Studentin Maureen Ketting für die Serie gezeichnet.",
+          "fr": "L'un des étudiants décrit ce feuillet comme le plus actuel des quatre de 2026. La police Vier a été dessinée pour la série en 2025 par Maureen Ketting, étudiante à l'ArtEZ.",
+          "it": "One of the students calls it the most contemporary of the four sheets of 2026. The typeface Vier was drawn for the series in 2025 by ArtEZ student Maureen Ketting.",
+          "nl": "Een van de studenten vindt dit het meest eigentijdse vel van de vier uit 2026. Het lettertype Vier is in 2025 voor de serie ontworpen door ArtEZ-student Maureen Ketting.",
+          "pl": "One of the students calls it the most contemporary of the four sheets of 2026. The typeface Vier was drawn for the series in 2025 by ArtEZ student Maureen Ketting.",
+          "cs": "One of the students calls it the most contemporary of the four sheets of 2026. The typeface Vier was drawn for the series in 2025 by ArtEZ student Maureen Ketting.",
+          "sk": "One of the students calls it the most contemporary of the four sheets of 2026. The typeface Vier was drawn for the series in 2025 by ArtEZ student Maureen Ketting.",
+          "ro": "One of the students calls it the most contemporary of the four sheets of 2026. The typeface Vier was drawn for the series in 2025 by ArtEZ student Maureen Ketting.",
+          "hu": "One of the students calls it the most contemporary of the four sheets of 2026. The typeface Vier was drawn for the series in 2025 by ArtEZ student Maureen Ketting.",
+          "da": "One of the students calls it the most contemporary of the four sheets of 2026. The typeface Vier was drawn for the series in 2025 by ArtEZ student Maureen Ketting."
+        },
+        {
+          "en": "This sheet also has 75,000 copies, printed in offset by Joh. Enschedé.",
+          "de": "Auch von diesem Bogen gibt es 75.000 Stück, gedruckt im Offsetdruck bei Joh. Enschedé.",
+          "fr": "Ce feuillet est lui aussi tiré à 75 000 exemplaires, imprimés en offset par Joh. Enschedé.",
+          "it": "This sheet also has 75,000 copies, printed in offset by Joh. Enschedé.",
+          "nl": "Ook van dit vel zijn er 75.000, in offset gedrukt door Joh. Enschedé.",
+          "pl": "This sheet also has 75,000 copies, printed in offset by Joh. Enschedé.",
+          "cs": "This sheet also has 75,000 copies, printed in offset by Joh. Enschedé.",
+          "sk": "This sheet also has 75,000 copies, printed in offset by Joh. Enschedé.",
+          "ro": "This sheet also has 75,000 copies, printed in offset by Joh. Enschedé.",
+          "hu": "This sheet also has 75,000 copies, printed in offset by Joh. Enschedé.",
+          "da": "This sheet also has 75,000 copies, printed in offset by Joh. Enschedé."
+        }
+      ]
+    },
+    {
+      "id": "flora",
+      "date": {
+        "en": "10 August 2026",
+        "de": "10. August 2026",
+        "fr": "10 août 2026",
+        "it": "10 August 2026",
+        "nl": "10 augustus 2026",
+        "pl": "10 August 2026",
+        "cs": "10 August 2026",
+        "sk": "10 August 2026",
+        "ro": "10 August 2026",
+        "hu": "10 August 2026",
+        "da": "10 August 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Flora Saba, sheet of ten",
+          "de": "Flora Saba, Bogen mit zehn Marken",
+          "fr": "Flora Saba, feuillet de dix",
+          "it": "Flora Saba, sheet of ten",
+          "nl": "Flora Saba, vel van tien",
+          "pl": "Flora Saba, sheet of ten",
+          "cs": "Flora Saba, sheet of ten",
+          "sk": "Flora Saba, sheet of ten",
+          "ro": "Flora Saba, sheet of ten",
+          "hu": "Flora Saba, sheet of ten",
+          "da": "Flora Saba, sheet of ten"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/6c4c3fb0f80ee59e/nl-2026-flora-saba-vel-v3.png",
+          "width": 756,
+          "height": 1000
+        },
+        "country": "NL",
+        "stamp_id": "nl-postnl-460861"
+      },
+      "title": {
+        "en": "Flora Saba, plants from the volcano",
+        "de": "Flora Saba, Pflanzen vom Vulkan",
+        "fr": "Flora Saba, les plantes du volcan",
+        "it": "Flora Saba, plants from the volcano",
+        "nl": "Flora Saba, planten van de vulkaan",
+        "pl": "Flora Saba, plants from the volcano",
+        "cs": "Flora Saba, plants from the volcano",
+        "sk": "Flora Saba, plants from the volcano",
+        "ro": "Flora Saba, plants from the volcano",
+        "hu": "Flora Saba, plants from the volcano",
+        "da": "Flora Saba, plants from the volcano"
+      },
+      "formats": [
+        {
+          "value": "€14.00",
+          "format": {
+            "en": "Sheet of ten",
+            "de": "Bogen mit zehn Marken",
+            "fr": "Feuillet de dix",
+            "it": "Sheet of ten",
+            "nl": "Vel van tien",
+            "pl": "Sheet of ten",
+            "cs": "Sheet of ten",
+            "sk": "Sheet of ten",
+            "ro": "Sheet of ten",
+            "hu": "Sheet of ten",
+            "da": "Sheet of ten"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "Frank Janse from Gouda shows each plant in its own surroundings: West Indian mahogany, tree fern, black-eyed Susan, tamarind, elephant ear, lobster claws, the bromeliad Aechmea lingulata, yellow blossom, Caribbean bladderwort and Sierran palm. Symbols from old topographic maps and pale pictures of the island's animals run over the perforations.",
+          "de": "Frank Janse aus Gouda zeigt jede Pflanze in ihrer eigenen Umgebung: Westindisches Mahagoni, Baumfarn, Schwarzäugige Susanne, Tamarinde, Elefantenohr, Hummerschere, die Bromelie Aechmea lingulata, Gelbe Blüte, Karibischer Wasserschlauch und Sierra-Palme. Zeichen aus alten topografischen Karten und blasse Bilder der Inseltiere laufen über die Zähnung.",
+          "fr": "Frank Janse, de Gouda, montre chaque plante dans son milieu : acajou des Antilles, fougère arborescente, suzanne-aux-yeux-noirs, tamarinier, oreille d'éléphant, bec de perroquet, la broméliacée Aechmea lingulata, fleur jaune, utriculaire des Caraïbes et palmier de la Sierra. Des symboles tirés d'anciennes cartes topographiques et des images pâles des animaux de l'île courent par-dessus la dentelure.",
+          "it": "Frank Janse from Gouda shows each plant in its own surroundings: West Indian mahogany, tree fern, black-eyed Susan, tamarind, elephant ear, lobster claws, the bromeliad Aechmea lingulata, yellow blossom, Caribbean bladderwort and Sierran palm. Symbols from old topographic maps and pale pictures of the island's animals run over the perforations.",
+          "nl": "Frank Janse uit Gouda laat elke plant in de eigen omgeving zien: West Indian mahogany, tree fern, black-eyed Susan, tamarind, elephant ear, lobster claws, de bromelia Aechmea lingulata, yellow blossom, Caribbean bladderwort en Sierran palm. Symbolen uit oude topografische kaarten en bleke afbeeldingen van de dieren van het eiland lopen over de tanding heen.",
+          "pl": "Frank Janse from Gouda shows each plant in its own surroundings: West Indian mahogany, tree fern, black-eyed Susan, tamarind, elephant ear, lobster claws, the bromeliad Aechmea lingulata, yellow blossom, Caribbean bladderwort and Sierran palm. Symbols from old topographic maps and pale pictures of the island's animals run over the perforations.",
+          "cs": "Frank Janse from Gouda shows each plant in its own surroundings: West Indian mahogany, tree fern, black-eyed Susan, tamarind, elephant ear, lobster claws, the bromeliad Aechmea lingulata, yellow blossom, Caribbean bladderwort and Sierran palm. Symbols from old topographic maps and pale pictures of the island's animals run over the perforations.",
+          "sk": "Frank Janse from Gouda shows each plant in its own surroundings: West Indian mahogany, tree fern, black-eyed Susan, tamarind, elephant ear, lobster claws, the bromeliad Aechmea lingulata, yellow blossom, Caribbean bladderwort and Sierran palm. Symbols from old topographic maps and pale pictures of the island's animals run over the perforations.",
+          "ro": "Frank Janse from Gouda shows each plant in its own surroundings: West Indian mahogany, tree fern, black-eyed Susan, tamarind, elephant ear, lobster claws, the bromeliad Aechmea lingulata, yellow blossom, Caribbean bladderwort and Sierran palm. Symbols from old topographic maps and pale pictures of the island's animals run over the perforations.",
+          "hu": "Frank Janse from Gouda shows each plant in its own surroundings: West Indian mahogany, tree fern, black-eyed Susan, tamarind, elephant ear, lobster claws, the bromeliad Aechmea lingulata, yellow blossom, Caribbean bladderwort and Sierran palm. Symbols from old topographic maps and pale pictures of the island's animals run over the perforations.",
+          "da": "Frank Janse from Gouda shows each plant in its own surroundings: West Indian mahogany, tree fern, black-eyed Susan, tamarind, elephant ear, lobster claws, the bromeliad Aechmea lingulata, yellow blossom, Caribbean bladderwort and Sierran palm. Symbols from old topographic maps and pale pictures of the island's animals run over the perforations."
+        },
+        {
+          "en": "The Caribbean bladderwort is a carnivorous plant. Tamarind and black-eyed Susan came to the Caribbean from Africa.",
+          "de": "Der Karibische Wasserschlauch ist eine fleischfressende Pflanze. Tamarinde und Schwarzäugige Susanne kamen aus Afrika in die Karibik.",
+          "fr": "L'utriculaire des Caraïbes est une plante carnivore. Le tamarinier et la suzanne-aux-yeux-noirs sont arrivés d'Afrique dans les Caraïbes.",
+          "it": "The Caribbean bladderwort is a carnivorous plant. Tamarind and black-eyed Susan came to the Caribbean from Africa.",
+          "nl": "De Caribbean bladderwort is een vleesetende plant. Tamarind en black-eyed Susan kwamen vanuit Afrika naar het Caribisch gebied.",
+          "pl": "The Caribbean bladderwort is a carnivorous plant. Tamarind and black-eyed Susan came to the Caribbean from Africa.",
+          "cs": "The Caribbean bladderwort is a carnivorous plant. Tamarind and black-eyed Susan came to the Caribbean from Africa.",
+          "sk": "The Caribbean bladderwort is a carnivorous plant. Tamarind and black-eyed Susan came to the Caribbean from Africa.",
+          "ro": "The Caribbean bladderwort is a carnivorous plant. Tamarind and black-eyed Susan came to the Caribbean from Africa.",
+          "hu": "The Caribbean bladderwort is a carnivorous plant. Tamarind and black-eyed Susan came to the Caribbean from Africa.",
+          "da": "The Caribbean bladderwort is a carnivorous plant. Tamarind and black-eyed Susan came to the Caribbean from Africa."
+        },
+        {
+          "en": "On the tree fern stamp a steel mast shows faintly through the mist. It stands in the summit crater of Mount Scenery, where Cable & Wireless built a relay station from 1972. FreestampMagazine counts it as the first building on about 350 stamps of the series.",
+          "de": "Auf der Marke mit dem Baumfarn zeichnet sich im Nebel schwach ein Stahlmast ab. Er steht im Gipfelkrater des Mount Scenery, wo Cable & Wireless ab 1972 eine Relaisstation baute. Laut FreestampMagazine ist er das erste Gebäude auf den rund 350 Marken der Serie.",
+          "fr": "Sur le timbre de la fougère arborescente, un mât en acier se devine dans la brume. Il se dresse dans le cratère sommital du Mount Scenery, où Cable & Wireless a construit une station relais à partir de 1972. Pour FreestampMagazine, c'est le premier bâtiment à apparaître sur les quelque 350 timbres de la série.",
+          "it": "On the tree fern stamp a steel mast shows faintly through the mist. It stands in the summit crater of Mount Scenery, where Cable & Wireless built a relay station from 1972. FreestampMagazine counts it as the first building on about 350 stamps of the series.",
+          "nl": "Op de postzegel met de tree fern is door de mist vaag een stalen mast te zien. Hij staat in de topkrater van Mount Scenery, waar Cable & Wireless vanaf 1972 een relaisstation bouwde. Volgens FreestampMagazine is dat het eerste gebouw op de ongeveer 350 postzegels van de serie.",
+          "pl": "On the tree fern stamp a steel mast shows faintly through the mist. It stands in the summit crater of Mount Scenery, where Cable & Wireless built a relay station from 1972. FreestampMagazine counts it as the first building on about 350 stamps of the series.",
+          "cs": "On the tree fern stamp a steel mast shows faintly through the mist. It stands in the summit crater of Mount Scenery, where Cable & Wireless built a relay station from 1972. FreestampMagazine counts it as the first building on about 350 stamps of the series.",
+          "sk": "On the tree fern stamp a steel mast shows faintly through the mist. It stands in the summit crater of Mount Scenery, where Cable & Wireless built a relay station from 1972. FreestampMagazine counts it as the first building on about 350 stamps of the series.",
+          "ro": "On the tree fern stamp a steel mast shows faintly through the mist. It stands in the summit crater of Mount Scenery, where Cable & Wireless built a relay station from 1972. FreestampMagazine counts it as the first building on about 350 stamps of the series.",
+          "hu": "On the tree fern stamp a steel mast shows faintly through the mist. It stands in the summit crater of Mount Scenery, where Cable & Wireless built a relay station from 1972. FreestampMagazine counts it as the first building on about 350 stamps of the series.",
+          "da": "On the tree fern stamp a steel mast shows faintly through the mist. It stands in the summit crater of Mount Scenery, where Cable & Wireless built a relay station from 1972. FreestampMagazine counts it as the first building on about 350 stamps of the series."
+        },
+        {
+          "en": "Joh. Enschedé printed 275,000 sheets. These stamps are self-adhesive.",
+          "de": "Joh. Enschedé druckte 275.000 Bogen. Diese Marken sind selbstklebend.",
+          "fr": "Joh. Enschedé a imprimé 275 000 feuillets. Ces timbres sont autocollants.",
+          "it": "Joh. Enschedé printed 275,000 sheets. These stamps are self-adhesive.",
+          "nl": "Joh. Enschedé drukte 275.000 vellen. Deze postzegels zijn zelfklevend.",
+          "pl": "Joh. Enschedé printed 275,000 sheets. These stamps are self-adhesive.",
+          "cs": "Joh. Enschedé printed 275,000 sheets. These stamps are self-adhesive.",
+          "sk": "Joh. Enschedé printed 275,000 sheets. These stamps are self-adhesive.",
+          "ro": "Joh. Enschedé printed 275,000 sheets. These stamps are self-adhesive.",
+          "hu": "Joh. Enschedé printed 275,000 sheets. These stamps are self-adhesive.",
+          "da": "Joh. Enschedé printed 275,000 sheets. These stamps are self-adhesive."
+        }
+      ]
+    },
+    {
+      "id": "island",
+      "type": "text",
+      "label": {
+        "en": "The island",
+        "de": "Die Insel",
+        "fr": "L'île",
+        "it": "The island",
+        "nl": "Het eiland",
+        "pl": "The island",
+        "cs": "The island",
+        "sk": "The island",
+        "ro": "The island",
+        "hu": "The island",
+        "da": "The island"
+      },
+      "title": {
+        "en": "Mount Scenery on Saba",
+        "de": "Mount Scenery auf Saba",
+        "fr": "Le Mount Scenery, à Saba",
+        "it": "Mount Scenery on Saba",
+        "nl": "Mount Scenery op Saba",
+        "pl": "Mount Scenery on Saba",
+        "cs": "Mount Scenery on Saba",
+        "sk": "Mount Scenery on Saba",
+        "ro": "Mount Scenery on Saba",
+        "hu": "Mount Scenery on Saba",
+        "da": "Mount Scenery on Saba"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/3826af5809b6a960/mount-scenery-mast.jpg",
+          "width": 2400,
+          "credit": "Photo: Christine Warner Hawks, CC BY 2.0",
+          "height": 1754,
+          "caption": {
+            "en": "The mast in the summit crater of Mount Scenery, the one on the tree fern stamp",
+            "de": "Der Mast im Gipfelkrater des Mount Scenery, derselbe wie auf der Marke mit dem Baumfarn",
+            "fr": "Le mât dans le cratère sommital du Mount Scenery, celui du timbre de la fougère arborescente",
+            "it": "The mast in the summit crater of Mount Scenery, the one on the tree fern stamp",
+            "nl": "De mast in de topkrater van Mount Scenery, dezelfde als op de postzegel met de tree fern",
+            "pl": "The mast in the summit crater of Mount Scenery, the one on the tree fern stamp",
+            "cs": "The mast in the summit crater of Mount Scenery, the one on the tree fern stamp",
+            "sk": "The mast in the summit crater of Mount Scenery, the one on the tree fern stamp",
+            "ro": "The mast in the summit crater of Mount Scenery, the one on the tree fern stamp",
+            "hu": "The mast in the summit crater of Mount Scenery, the one on the tree fern stamp",
+            "da": "The mast in the summit crater of Mount Scenery, the one on the tree fern stamp"
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Almost_to_the_top!_(6562062273).jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "Saba is a dormant volcano of 13 square kilometres, about four and a half kilometres across. Its top, Mount Scenery, is the highest point of the Netherlands; PostNL gives it 870 metres. Rainforest covers its slopes, cloud forest the top.",
+          "de": "Saba ist ein ruhender Vulkan mit 13 Quadratkilometern Fläche und rund viereinhalb Kilometern Durchmesser. Sein Gipfel, der Mount Scenery, ist der höchste Punkt der Niederlande. PostNL gibt 870 Meter an. Regenwald bedeckt die Hänge, Nebelwald den Gipfel.",
+          "fr": "Saba est un volcan endormi de 13 kilomètres carrés, large d'environ quatre kilomètres et demi. Son sommet, le Mount Scenery, est le point culminant des Pays-Bas ; PostNL indique 870 mètres. La forêt tropicale couvre ses pentes, la forêt de nuages le sommet.",
+          "it": "Saba is a dormant volcano of 13 square kilometres, about four and a half kilometres across. Its top, Mount Scenery, is the highest point of the Netherlands; PostNL gives it 870 metres. Rainforest covers its slopes, cloud forest the top.",
+          "nl": "Saba is een slapende vulkaan van 13 vierkante kilometer, ongeveer vierenhalve kilometer breed. De top, Mount Scenery, is het hoogste punt van Nederland; PostNL houdt 870 meter aan. Op de hellingen staat regenwoud, op de top nevelwoud.",
+          "pl": "Saba is a dormant volcano of 13 square kilometres, about four and a half kilometres across. Its top, Mount Scenery, is the highest point of the Netherlands; PostNL gives it 870 metres. Rainforest covers its slopes, cloud forest the top.",
+          "cs": "Saba is a dormant volcano of 13 square kilometres, about four and a half kilometres across. Its top, Mount Scenery, is the highest point of the Netherlands; PostNL gives it 870 metres. Rainforest covers its slopes, cloud forest the top.",
+          "sk": "Saba is a dormant volcano of 13 square kilometres, about four and a half kilometres across. Its top, Mount Scenery, is the highest point of the Netherlands; PostNL gives it 870 metres. Rainforest covers its slopes, cloud forest the top.",
+          "ro": "Saba is a dormant volcano of 13 square kilometres, about four and a half kilometres across. Its top, Mount Scenery, is the highest point of the Netherlands; PostNL gives it 870 metres. Rainforest covers its slopes, cloud forest the top.",
+          "hu": "Saba is a dormant volcano of 13 square kilometres, about four and a half kilometres across. Its top, Mount Scenery, is the highest point of the Netherlands; PostNL gives it 870 metres. Rainforest covers its slopes, cloud forest the top.",
+          "da": "Saba is a dormant volcano of 13 square kilometres, about four and a half kilometres across. Its top, Mount Scenery, is the highest point of the Netherlands; PostNL gives it 870 metres. Rainforest covers its slopes, cloud forest the top."
+        },
+        {
+          "en": "From Windwardside a path of 1,064 steps leads to the summit. It was laid by hand in the late 1960s. The Saba National Marine Park of 1,300 hectares surrounds the whole coast.",
+          "de": "Von Windwardside führt ein Weg mit 1.064 Stufen nach oben. Er wurde Ende der 1960er-Jahre von Hand angelegt. Der Saba National Marine Park mit 1.300 Hektar umschließt die ganze Küste.",
+          "fr": "Depuis Windwardside, un sentier de 1 064 marches mène au sommet. Ces marches ont été posées à la main à la fin des années 1960. Le Saba National Marine Park, de 1 300 hectares, entoure toute la côte.",
+          "it": "From Windwardside a path of 1,064 steps leads to the summit. It was laid by hand in the late 1960s. The Saba National Marine Park of 1,300 hectares surrounds the whole coast.",
+          "nl": "Vanuit Windwardside loopt een pad van 1.064 treden naar de top. Het is eind jaren zestig met de hand aangelegd. Het Saba National Marine Park van 1.300 hectare omringt de hele kust.",
+          "pl": "From Windwardside a path of 1,064 steps leads to the summit. It was laid by hand in the late 1960s. The Saba National Marine Park of 1,300 hectares surrounds the whole coast.",
+          "cs": "From Windwardside a path of 1,064 steps leads to the summit. It was laid by hand in the late 1960s. The Saba National Marine Park of 1,300 hectares surrounds the whole coast.",
+          "sk": "From Windwardside a path of 1,064 steps leads to the summit. It was laid by hand in the late 1960s. The Saba National Marine Park of 1,300 hectares surrounds the whole coast.",
+          "ro": "From Windwardside a path of 1,064 steps leads to the summit. It was laid by hand in the late 1960s. The Saba National Marine Park of 1,300 hectares surrounds the whole coast.",
+          "hu": "From Windwardside a path of 1,064 steps leads to the summit. It was laid by hand in the late 1960s. The Saba National Marine Park of 1,300 hectares surrounds the whole coast.",
+          "da": "From Windwardside a path of 1,064 steps leads to the summit. It was laid by hand in the late 1960s. The Saba National Marine Park of 1,300 hectares surrounds the whole coast."
+        }
+      ]
+    },
+    {
+      "id": "postset",
+      "date": {
+        "en": "2026",
+        "de": "2026",
+        "fr": "2026",
+        "it": "2026",
+        "nl": "2026",
+        "pl": "2026",
+        "cs": "2026",
+        "sk": "2026",
+        "ro": "2026",
+        "hu": "2026",
+        "da": "2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Postset Onderwaterleven Saba",
+          "de": "Postset Onderwaterleven Saba",
+          "fr": "Postset Onderwaterleven Saba",
+          "it": "Postset Onderwaterleven Saba",
+          "nl": "Postset Onderwaterleven Saba",
+          "pl": "Postset Onderwaterleven Saba",
+          "cs": "Postset Onderwaterleven Saba",
+          "sk": "Postset Onderwaterleven Saba",
+          "ro": "Postset Onderwaterleven Saba",
+          "hu": "Postset Onderwaterleven Saba",
+          "da": "Postset Onderwaterleven Saba"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/99917ec40ff76375/nl-2026-postset-onderwaterleven-saba.png",
+          "width": 1000,
+          "height": 695
+        },
+        "country": "NL",
+        "stamp_id": "nl-postnl-860016"
+      },
+      "title": {
+        "en": "Postset Onderwaterleven Saba",
+        "de": "Postset Onderwaterleven Saba",
+        "fr": "Postset Onderwaterleven Saba",
+        "it": "Postset Onderwaterleven Saba",
+        "nl": "Postset Onderwaterleven Saba",
+        "pl": "Postset Onderwaterleven Saba",
+        "cs": "Postset Onderwaterleven Saba",
+        "sk": "Postset Onderwaterleven Saba",
+        "ro": "Postset Onderwaterleven Saba",
+        "hu": "Postset Onderwaterleven Saba",
+        "da": "Postset Onderwaterleven Saba"
+      },
+      "formats": [
+        {
+          "value": "€6.95",
+          "format": {
+            "en": "Postset with sheet of three and three cards",
+            "de": "Postset mit Kleinbogen zu drei Marken und drei Karten",
+            "fr": "Postset avec feuillet de trois timbres et trois cartes",
+            "it": "Postset with sheet of three and three cards",
+            "nl": "Postset met vel van drie en drie kaarten",
+            "pl": "Postset with sheet of three and three cards",
+            "cs": "Postset with sheet of three and three cards",
+            "sk": "Postset with sheet of three and three cards",
+            "ro": "Postset with sheet of three and three cards",
+            "hu": "Postset with sheet of three and three cards",
+            "da": "Postset with sheet of three and three cards"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "The set holds a small unused sheet with three stamps and three cards, drawn by Medy Oberendorff. The stamps show a flamingo tongue snail, a longsnout butterflyfish and a reef squid in the white frame of the kaderpostzegels. They are drawn versions of three animals from the photo sheet of 8 June.",
+          "de": "Das Set enthält einen kleinen Bogen mit drei postfrischen Marken und drei Karten, gezeichnet von Medy Oberendorff. Die Marken zeigen eine Flamingozungenschnecke, einen Langschnauzen-Falterfisch und einen Riffkalmar im weißen Rahmen der Kaderpostzegels. Die drei Tiere stammen vom Fotobogen vom 8. Juni, hier als Zeichnung.",
+          "fr": "Le coffret contient un petit feuillet de trois timbres neufs et trois cartes, dessinés par Medy Oberendorff. Les timbres montrent une langue de flamant, un poisson-papillon à long museau et un calmar de récif dans le cadre blanc des kaderpostzegels. Ce sont les versions dessinées de trois animaux du feuillet photo du 8 juin.",
+          "it": "The set holds a small unused sheet with three stamps and three cards, drawn by Medy Oberendorff. The stamps show a flamingo tongue snail, a longsnout butterflyfish and a reef squid in the white frame of the kaderpostzegels. They are drawn versions of three animals from the photo sheet of 8 June.",
+          "nl": "In de set zitten een klein ongebruikt velletje met drie postzegels en drie kaarten, getekend door Medy Oberendorff. De postzegels tonen een flamingotongslak, een langsnuitvlindervis en een rifpijlinktvis in het witte kader van de kaderpostzegels. Het zijn getekende versies van drie dieren van het fotovel van 8 juni.",
+          "pl": "The set holds a small unused sheet with three stamps and three cards, drawn by Medy Oberendorff. The stamps show a flamingo tongue snail, a longsnout butterflyfish and a reef squid in the white frame of the kaderpostzegels. They are drawn versions of three animals from the photo sheet of 8 June.",
+          "cs": "The set holds a small unused sheet with three stamps and three cards, drawn by Medy Oberendorff. The stamps show a flamingo tongue snail, a longsnout butterflyfish and a reef squid in the white frame of the kaderpostzegels. They are drawn versions of three animals from the photo sheet of 8 June.",
+          "sk": "The set holds a small unused sheet with three stamps and three cards, drawn by Medy Oberendorff. The stamps show a flamingo tongue snail, a longsnout butterflyfish and a reef squid in the white frame of the kaderpostzegels. They are drawn versions of three animals from the photo sheet of 8 June.",
+          "ro": "The set holds a small unused sheet with three stamps and three cards, drawn by Medy Oberendorff. The stamps show a flamingo tongue snail, a longsnout butterflyfish and a reef squid in the white frame of the kaderpostzegels. They are drawn versions of three animals from the photo sheet of 8 June.",
+          "hu": "The set holds a small unused sheet with three stamps and three cards, drawn by Medy Oberendorff. The stamps show a flamingo tongue snail, a longsnout butterflyfish and a reef squid in the white frame of the kaderpostzegels. They are drawn versions of three animals from the photo sheet of 8 June.",
+          "da": "The set holds a small unused sheet with three stamps and three cards, drawn by Medy Oberendorff. The stamps show a flamingo tongue snail, a longsnout butterflyfish and a reef squid in the white frame of the kaderpostzegels. They are drawn versions of three animals from the photo sheet of 8 June."
+        },
+        {
+          "en": "PostNL gives the set away with a Collect Club order of €25 or more placed before 20 October.",
+          "de": "PostNL legt das Set gratis bei, wenn du im Collect Club vor dem 20. Oktober für 25 € oder mehr bestellst.",
+          "fr": "PostNL offre le coffret pour toute commande d'au moins 25 € passée auprès du Collect Club avant le 20 octobre.",
+          "it": "PostNL gives the set away with a Collect Club order of €25 or more placed before 20 October.",
+          "nl": "Wie vóór 20 oktober voor € 25 of meer bestelt bij de Collect Club, krijgt de set van PostNL erbij.",
+          "pl": "PostNL gives the set away with a Collect Club order of €25 or more placed before 20 October.",
+          "cs": "PostNL gives the set away with a Collect Club order of €25 or more placed before 20 October.",
+          "sk": "PostNL gives the set away with a Collect Club order of €25 or more placed before 20 October.",
+          "ro": "PostNL gives the set away with a Collect Club order of €25 or more placed before 20 October.",
+          "hu": "PostNL gives the set away with a Collect Club order of €25 or more placed before 20 October.",
+          "da": "PostNL gives the set away with a Collect Club order of €25 or more placed before 20 October."
+        }
+      ]
+    },
+    {
+      "id": "ordering",
+      "rows": [
+        {
+          "label": {
+            "en": "Online",
+            "de": "Online",
+            "fr": "En ligne",
+            "it": "Online",
+            "nl": "Online",
+            "pl": "Online",
+            "cs": "Online",
+            "sk": "Online",
+            "ro": "Online",
+            "hu": "Online",
+            "da": "Online"
+          },
+          "value": {
+            "en": "PostNL Collect Club shop",
+            "de": "PostNL Collect Club Shop",
+            "fr": "Boutique du PostNL Collect Club",
+            "it": "PostNL Collect Club shop",
+            "nl": "Webshop van de PostNL Collect Club",
+            "pl": "PostNL Collect Club shop",
+            "cs": "PostNL Collect Club shop",
+            "sk": "PostNL Collect Club shop",
+            "ro": "PostNL Collect Club shop",
+            "hu": "PostNL Collect Club shop",
+            "da": "PostNL Collect Club shop"
+          }
+        },
+        {
+          "label": {
+            "en": "Shops",
+            "de": "Läden",
+            "fr": "Magasins",
+            "it": "Shops",
+            "nl": "Winkels",
+            "pl": "Shops",
+            "cs": "Shops",
+            "sk": "Shops",
+            "ro": "Shops",
+            "hu": "Shops",
+            "da": "Shops"
+          },
+          "value": {
+            "en": "Post offices in Bruna shops",
+            "de": "Postschalter in Bruna-Läden",
+            "fr": "Bureaux de poste dans les magasins Bruna",
+            "it": "Post offices in Bruna shops",
+            "nl": "Postkantoren in Bruna-winkels",
+            "pl": "Post offices in Bruna shops",
+            "cs": "Post offices in Bruna shops",
+            "sk": "Post offices in Bruna shops",
+            "ro": "Post offices in Bruna shops",
+            "hu": "Post offices in Bruna shops",
+            "da": "Post offices in Bruna shops"
+          }
+        },
+        {
+          "label": {
+            "en": "By phone",
+            "de": "Telefon",
+            "fr": "Par téléphone",
+            "it": "By phone",
+            "nl": "Telefonisch",
+            "pl": "By phone",
+            "cs": "By phone",
+            "sk": "By phone",
+            "ro": "By phone",
+            "hu": "By phone",
+            "da": "By phone"
+          },
+          "value": {
+            "en": "Collect Club, 088 868 99 00",
+            "de": "Collect Club, 088 868 99 00",
+            "fr": "Collect Club, 088 868 99 00",
+            "it": "Collect Club, 088 868 99 00",
+            "nl": "Collect Club, 088 868 99 00",
+            "pl": "Collect Club, 088 868 99 00",
+            "cs": "Collect Club, 088 868 99 00",
+            "sk": "Collect Club, 088 868 99 00",
+            "ro": "Collect Club, 088 868 99 00",
+            "hu": "Collect Club, 088 868 99 00",
+            "da": "Collect Club, 088 868 99 00"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "Ordering",
+        "de": "Bestellen",
+        "fr": "Commander",
+        "it": "Ordering",
+        "nl": "Bestellen",
+        "pl": "Ordering",
+        "cs": "Ordering",
+        "sk": "Ordering",
+        "ro": "Ordering",
+        "hu": "Ordering",
+        "da": "Ordering"
+      },
+      "title": {
+        "en": "Where to buy the sheets",
+        "de": "Wo du die Bogen bekommst",
+        "fr": "Où acheter les feuillets",
+        "it": "Where to buy the sheets",
+        "nl": "Waar je de vellen koopt",
+        "pl": "Where to buy the sheets",
+        "cs": "Where to buy the sheets",
+        "sk": "Where to buy the sheets",
+        "ro": "Where to buy the sheets",
+        "hu": "Where to buy the sheets",
+        "da": "Where to buy the sheets"
+      },
+      "buttons": [
+        {
+          "href": "https://shop.postnl.nl/webshop/collect-club",
+          "label": {
+            "en": "PostNL Collect Club shop",
+            "de": "PostNL Collect Club Shop",
+            "fr": "Boutique du PostNL Collect Club",
+            "it": "PostNL Collect Club shop",
+            "nl": "Webshop van de PostNL Collect Club",
+            "pl": "PostNL Collect Club shop",
+            "cs": "PostNL Collect Club shop",
+            "sk": "PostNL Collect Club shop",
+            "ro": "PostNL Collect Club shop",
+            "hu": "PostNL Collect Club shop",
+            "da": "PostNL Collect Club shop"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stampiq",
+      "text": {
+        "en": "The photo stamps of Onderwaterleven Saba of 8 June are already in StampIQ. Gloed van het Moment, Echo van het Feest, Flora Saba and the Postset stamps are added to the catalogue later.",
+        "de": "Die Fotomarken von Onderwaterleven Saba vom 8. Juni sind bereits in StampIQ. Gloed van het Moment, Echo van het Feest, Flora Saba und die Marken aus dem Postset kommen später in den Katalog.",
+        "fr": "Les timbres photo d'Onderwaterleven Saba du 8 juin sont déjà dans StampIQ. Gloed van het Moment, Echo van het Feest, Flora Saba et les timbres du Postset seront ajoutés au catalogue plus tard.",
+        "it": "The photo stamps of Onderwaterleven Saba of 8 June are already in StampIQ. Gloed van het Moment, Echo van het Feest, Flora Saba and the Postset stamps are added to the catalogue later.",
+        "nl": "De fotopostzegels van Onderwaterleven Saba van 8 juni staan al in StampIQ. Gloed van het Moment, Echo van het Feest, Flora Saba en de postzegels uit de Postset komen later in de catalogus.",
+        "pl": "The photo stamps of Onderwaterleven Saba of 8 June are already in StampIQ. Gloed van het Moment, Echo van het Feest, Flora Saba and the Postset stamps are added to the catalogue later.",
+        "cs": "The photo stamps of Onderwaterleven Saba of 8 June are already in StampIQ. Gloed van het Moment, Echo van het Feest, Flora Saba and the Postset stamps are added to the catalogue later.",
+        "sk": "The photo stamps of Onderwaterleven Saba of 8 June are already in StampIQ. Gloed van het Moment, Echo van het Feest, Flora Saba and the Postset stamps are added to the catalogue later.",
+        "ro": "The photo stamps of Onderwaterleven Saba of 8 June are already in StampIQ. Gloed van het Moment, Echo van het Feest, Flora Saba and the Postset stamps are added to the catalogue later.",
+        "hu": "The photo stamps of Onderwaterleven Saba of 8 June are already in StampIQ. Gloed van het Moment, Echo van het Feest, Flora Saba and the Postset stamps are added to the catalogue later.",
+        "da": "The photo stamps of Onderwaterleven Saba of 8 June are already in StampIQ. Gloed van het Moment, Echo van het Feest, Flora Saba and the Postset stamps are added to the catalogue later."
+      },
+      "type": "note"
+    }
+  ]
+}

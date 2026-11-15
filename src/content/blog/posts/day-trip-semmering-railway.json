@@ -1,0 +1,1104 @@
+{
+  "category": "day-trips",
+  "markets": [
+    "CH",
+    "LI",
+    "DE",
+    "AT"
+  ],
+  "langs": [
+    "en",
+    "de",
+    "fr",
+    "it"
+  ],
+  "published_at": "2026-10-09T18:00:00+00:00",
+  "thumbnail": {
+    "src": "https://assets.stampiq.io/blog/3427826a2f14ca7c/sm-kalte-rinne.jpg",
+    "width": 2400,
+    "height": 1335
+  },
+  "languages": {
+    "en": {
+      "slug": "day-trip-semmering-railway",
+      "title": "Day trip: the Semmering railway on foot",
+      "description": "Austrian railway stamps meet on one mountain pass. How to walk the Semmering railway trail to the Kalte Rinne viaduct, and how to get there from Vienna."
+    },
+    "de": {
+      "slug": "tagesausflug-semmeringbahn-wanderung",
+      "title": "Tagesausflug: die Semmeringbahn zu Fuß",
+      "description": "Österreichische Eisenbahnmarken treffen sich auf einem Pass. So wanderst du den Bahnwanderweg zum Viadukt Kalte Rinne, und so kommst du von Wien hin."
+    },
+    "fr": {
+      "slug": "excursion-chemin-de-fer-semmering",
+      "title": "Excursion : le chemin de fer du Semmering à pied",
+      "description": "Des timbres ferroviaires autrichiens sur un même col. Le sentier jusqu'au viaduc de la Kalte Rinne, et comment y aller depuis Vienne."
+    },
+    "it": {
+      "slug": "gita-di-un-giorno-ferrovia-semmering",
+      "title": "Gita di un giorno: la ferrovia del Semmering a piedi",
+      "description": "Francobolli ferroviari austriaci su un solo passo. Il sentiero a piedi fino al viadotto Kalte Rinne e come arrivare da Vienna."
+    },
+    "nl": {
+      "slug": "day-trip-semmering-railway",
+      "title": "Day trip: the Semmering railway on foot",
+      "description": "Austrian railway stamps meet on one mountain pass. How to walk the Semmering railway trail to the Kalte Rinne viaduct, and how to get there from Vienna."
+    },
+    "pl": {
+      "slug": "day-trip-semmering-railway",
+      "title": "Day trip: the Semmering railway on foot",
+      "description": "Austrian railway stamps meet on one mountain pass. How to walk the Semmering railway trail to the Kalte Rinne viaduct, and how to get there from Vienna."
+    },
+    "cs": {
+      "slug": "day-trip-semmering-railway",
+      "title": "Day trip: the Semmering railway on foot",
+      "description": "Austrian railway stamps meet on one mountain pass. How to walk the Semmering railway trail to the Kalte Rinne viaduct, and how to get there from Vienna."
+    },
+    "sk": {
+      "slug": "day-trip-semmering-railway",
+      "title": "Day trip: the Semmering railway on foot",
+      "description": "Austrian railway stamps meet on one mountain pass. How to walk the Semmering railway trail to the Kalte Rinne viaduct, and how to get there from Vienna."
+    },
+    "ro": {
+      "slug": "day-trip-semmering-railway",
+      "title": "Day trip: the Semmering railway on foot",
+      "description": "Austrian railway stamps meet on one mountain pass. How to walk the Semmering railway trail to the Kalte Rinne viaduct, and how to get there from Vienna."
+    },
+    "hu": {
+      "slug": "day-trip-semmering-railway",
+      "title": "Day trip: the Semmering railway on foot",
+      "description": "Austrian railway stamps meet on one mountain pass. How to walk the Semmering railway trail to the Kalte Rinne viaduct, and how to get there from Vienna."
+    },
+    "da": {
+      "slug": "day-trip-semmering-railway",
+      "title": "Day trip: the Semmering railway on foot",
+      "description": "Austrian railway stamps meet on one mountain pass. How to walk the Semmering railway trail to the Kalte Rinne viaduct, and how to get there from Vienna."
+    }
+  },
+  "header": {
+    "lead": {
+      "en": "A stamp from 2001 shows the Kalte Rinne viaduct on the Semmering railway, two rows of stone arches in a green valley. You can walk to it from Semmering station, past the view on the old 20-schilling note.",
+      "de": "Eine Briefmarke von 2001 zeigt das Viadukt Kalte Rinne an der Semmeringbahn, zwei Reihen Steinbögen in einem grünen Tal. Vom Bahnhof Semmering kannst du hinwandern, vorbei an der Aussicht vom alten 20-Schilling-Schein.",
+      "fr": "Un timbre de 2001 montre le viaduc de la Kalte Rinne sur le chemin de fer du Semmering, deux rangées d'arches en pierre dans une vallée verte. Depuis la gare de Semmering, tu peux y aller à pied, en passant par le point de vue qui figurait sur l'ancien billet de 20 schillings.",
+      "it": "Un francobollo del 2001 mostra il viadotto Kalte Rinne sulla ferrovia del Semmering, due ordini di arcate in pietra in una valle verde. Ci arrivi a piedi dalla stazione di Semmering, passando dal punto panoramico che era sulla vecchia banconota da 20 scellini.",
+      "nl": "A stamp from 2001 shows the Kalte Rinne viaduct on the Semmering railway, two rows of stone arches in a green valley. You can walk to it from Semmering station, past the view on the old 20-schilling note.",
+      "pl": "A stamp from 2001 shows the Kalte Rinne viaduct on the Semmering railway, two rows of stone arches in a green valley. You can walk to it from Semmering station, past the view on the old 20-schilling note.",
+      "cs": "A stamp from 2001 shows the Kalte Rinne viaduct on the Semmering railway, two rows of stone arches in a green valley. You can walk to it from Semmering station, past the view on the old 20-schilling note.",
+      "sk": "A stamp from 2001 shows the Kalte Rinne viaduct on the Semmering railway, two rows of stone arches in a green valley. You can walk to it from Semmering station, past the view on the old 20-schilling note.",
+      "ro": "A stamp from 2001 shows the Kalte Rinne viaduct on the Semmering railway, two rows of stone arches in a green valley. You can walk to it from Semmering station, past the view on the old 20-schilling note.",
+      "hu": "A stamp from 2001 shows the Kalte Rinne viaduct on the Semmering railway, two rows of stone arches in a green valley. You can walk to it from Semmering station, past the view on the old 20-schilling note.",
+      "da": "A stamp from 2001 shows the Kalte Rinne viaduct on the Semmering railway, two rows of stone arches in a green valley. You can walk to it from Semmering station, past the view on the old 20-schilling note."
+    },
+    "visual": {
+      "type": "stamp",
+      "stamp": {
+        "name": {
+          "en": "Semmering Railway, Kalte Rinne Viaduct",
+          "de": "Semmeringbahn, Viadukt Kalte Rinne",
+          "fr": "Chemin de fer du Semmering, viaduc de la Kalte Rinne",
+          "it": "Ferrovia del Semmering, viadotto Kalte Rinne",
+          "nl": "Semmering Railway, Kalte Rinne Viaduct",
+          "pl": "Semmering Railway, Kalte Rinne Viaduct",
+          "cs": "Semmering Railway, Kalte Rinne Viaduct",
+          "sk": "Semmering Railway, Kalte Rinne Viaduct",
+          "ro": "Semmering Railway, Kalte Rinne Viaduct",
+          "hu": "Semmering Railway, Kalte Rinne Viaduct",
+          "da": "Semmering Railway, Kalte Rinne Viaduct"
+        },
+        "year": 2001,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/e500a9a2b3c624df/sm-stamp-kalte-rinne.png",
+          "width": 1012,
+          "height": 857
+        },
+        "country": "AT",
+        "stamp_id": "SIQ-AT-2001-016"
+      }
+    },
+    "buttons": [],
+    "location": "Semmering and Breitenstein, Lower Austria, Austria"
+  },
+  "blocks": [
+    {
+      "id": "map",
+      "type": "text",
+      "label": {
+        "en": "On the map",
+        "de": "Auf der Karte",
+        "fr": "Sur la carte",
+        "it": "Sulla mappa",
+        "nl": "On the map",
+        "pl": "On the map",
+        "cs": "On the map",
+        "sk": "On the map",
+        "ro": "On the map",
+        "hu": "On the map",
+        "da": "On the map"
+      },
+      "title": {
+        "en": "Railway stamps on one pass",
+        "de": "Eisenbahnmarken an einem Pass",
+        "fr": "Des timbres ferroviaires sur un col",
+        "it": "Francobolli ferroviari su un solo passo",
+        "nl": "Railway stamps on one pass",
+        "pl": "Railway stamps on one pass",
+        "cs": "Railway stamps on one pass",
+        "sk": "Railway stamps on one pass",
+        "ro": "Railway stamps on one pass",
+        "hu": "Railway stamps on one pass",
+        "da": "Railway stamps on one pass"
+      },
+      "visual": {
+        "type": "phone",
+        "animation": {
+          "src": "https://assets.stampiq.io/blog/a91f0e339fb3c8c1/day-trip-semmering-verkehr.mp4",
+          "width": 960,
+          "height": 2080,
+          "poster": "https://assets.stampiq.io/blog/9af3d26dbe224bb5/day-trip-semmering-verkehr.jpg"
+        }
+      },
+      "buttons": [],
+      "paragraphs": [
+        {
+          "en": "The theme \"Transport\" in the row at the top of the StampIQ map shows only the transport stamps. Over Austria, south of Vienna on the border of Lower Austria and Styria, several of them sit close together on one mountain pass, the Semmering.",
+          "de": "Das Thema „Verkehr“ in der Leiste oben auf der Karte von StampIQ zeigt nur die Verkehrsmarken. Über Österreich, südlich von Wien an der Grenze zwischen Niederösterreich und der Steiermark, liegen mehrere davon dicht beieinander auf einem Pass, dem Semmering.",
+          "fr": "Dans la rangée de thèmes en haut de la carte StampIQ, le thème « Transport » ne laisse que les timbres consacrés aux transports. Sur l'Autriche, au sud de Vienne, plusieurs d'entre eux se regroupent à la limite de la Basse-Autriche et de la Styrie, sur un même col de montagne : le Semmering.",
+          "it": "Il tema \"Trasporto\" nella riga in alto della Mappa di StampIQ lascia solo i francobolli sui trasporti. Sopra l'Austria, a sud di Vienna, al confine tra Bassa Austria e Stiria, diversi di questi francobolli si concentrano sullo stesso passo di montagna, il Semmering.",
+          "nl": "The theme \"Transport\" in the row at the top of the StampIQ map shows only the transport stamps. Over Austria, south of Vienna on the border of Lower Austria and Styria, several of them sit close together on one mountain pass, the Semmering.",
+          "pl": "The theme \"Transport\" in the row at the top of the StampIQ map shows only the transport stamps. Over Austria, south of Vienna on the border of Lower Austria and Styria, several of them sit close together on one mountain pass, the Semmering.",
+          "cs": "The theme \"Transport\" in the row at the top of the StampIQ map shows only the transport stamps. Over Austria, south of Vienna on the border of Lower Austria and Styria, several of them sit close together on one mountain pass, the Semmering.",
+          "sk": "The theme \"Transport\" in the row at the top of the StampIQ map shows only the transport stamps. Over Austria, south of Vienna on the border of Lower Austria and Styria, several of them sit close together on one mountain pass, the Semmering.",
+          "ro": "The theme \"Transport\" in the row at the top of the StampIQ map shows only the transport stamps. Over Austria, south of Vienna on the border of Lower Austria and Styria, several of them sit close together on one mountain pass, the Semmering.",
+          "hu": "The theme \"Transport\" in the row at the top of the StampIQ map shows only the transport stamps. Over Austria, south of Vienna on the border of Lower Austria and Styria, several of them sit close together on one mountain pass, the Semmering.",
+          "da": "The theme \"Transport\" in the row at the top of the StampIQ map shows only the transport stamps. Over Austria, south of Vienna on the border of Lower Austria and Styria, several of them sit close together on one mountain pass, the Semmering."
+        },
+        {
+          "en": "A stamp from 2001 shows a long stone viaduct with two rows of arches in a green valley, with the UNESCO emblem in the corner. A stamp from 2012 shows the same viaduct next to a portrait of Carl Ritter von Ghega. A dispenser stamp from February 2026 shows a red train on a two-tier viaduct and reads \"Semmeringbahn\".",
+          "de": "Eine Marke von 2001 zeigt ein langes steinernes Viadukt mit zwei Bogenreihen in einem grünen Tal, in der Ecke das UNESCO-Emblem. Eine Marke von 2012 zeigt dasselbe Viadukt neben einem Porträt von Carl Ritter von Ghega. Eine Automatenmarke vom Februar 2026 zeigt einen roten Zug auf einem zweistöckigen Viadukt und trägt die Aufschrift „Semmeringbahn“.",
+          "fr": "Un timbre de 2001 montre un long viaduc en pierre à deux étages d'arches dans une vallée verte, avec l'emblème de l'UNESCO dans un coin. Un timbre de 2012 montre le même viaduc à côté du portrait de Carl Ritter von Ghega. Un timbre de distributeur de février 2026 montre un train rouge sur un viaduc à deux niveaux, avec la mention « Semmeringbahn ».",
+          "it": "Un francobollo del 2001 mostra un lungo viadotto in pietra a due ordini di arcate in una valle verde, con l'emblema UNESCO nell'angolo. Un francobollo del 2012 mostra lo stesso viadotto accanto al ritratto di Carl Ritter von Ghega. Un francobollo da distributore del febbraio 2026 mostra un treno rosso su un viadotto a due piani e porta la scritta \"Semmeringbahn\".",
+          "nl": "A stamp from 2001 shows a long stone viaduct with two rows of arches in a green valley, with the UNESCO emblem in the corner. A stamp from 2012 shows the same viaduct next to a portrait of Carl Ritter von Ghega. A dispenser stamp from February 2026 shows a red train on a two-tier viaduct and reads \"Semmeringbahn\".",
+          "pl": "A stamp from 2001 shows a long stone viaduct with two rows of arches in a green valley, with the UNESCO emblem in the corner. A stamp from 2012 shows the same viaduct next to a portrait of Carl Ritter von Ghega. A dispenser stamp from February 2026 shows a red train on a two-tier viaduct and reads \"Semmeringbahn\".",
+          "cs": "A stamp from 2001 shows a long stone viaduct with two rows of arches in a green valley, with the UNESCO emblem in the corner. A stamp from 2012 shows the same viaduct next to a portrait of Carl Ritter von Ghega. A dispenser stamp from February 2026 shows a red train on a two-tier viaduct and reads \"Semmeringbahn\".",
+          "sk": "A stamp from 2001 shows a long stone viaduct with two rows of arches in a green valley, with the UNESCO emblem in the corner. A stamp from 2012 shows the same viaduct next to a portrait of Carl Ritter von Ghega. A dispenser stamp from February 2026 shows a red train on a two-tier viaduct and reads \"Semmeringbahn\".",
+          "ro": "A stamp from 2001 shows a long stone viaduct with two rows of arches in a green valley, with the UNESCO emblem in the corner. A stamp from 2012 shows the same viaduct next to a portrait of Carl Ritter von Ghega. A dispenser stamp from February 2026 shows a red train on a two-tier viaduct and reads \"Semmeringbahn\".",
+          "hu": "A stamp from 2001 shows a long stone viaduct with two rows of arches in a green valley, with the UNESCO emblem in the corner. A stamp from 2012 shows the same viaduct next to a portrait of Carl Ritter von Ghega. A dispenser stamp from February 2026 shows a red train on a two-tier viaduct and reads \"Semmeringbahn\".",
+          "da": "A stamp from 2001 shows a long stone viaduct with two rows of arches in a green valley, with the UNESCO emblem in the corner. A stamp from 2012 shows the same viaduct next to a portrait of Carl Ritter von Ghega. A dispenser stamp from February 2026 shows a red train on a two-tier viaduct and reads \"Semmeringbahn\"."
+        },
+        {
+          "en": "All three show the Semmering railway, the line Ghega planned over the pass between Gloggnitz and Mürzzuschlag. It opened in 1854 and has been a UNESCO World Heritage site since 1998. The viaduct on the first two stamps is the Kalte Rinne, and you can walk to it.",
+          "de": "Alle drei zeigen die Semmeringbahn, die Strecke, die Ghega über den Pass zwischen Gloggnitz und Mürzzuschlag plante. Sie wurde 1854 eröffnet und gehört seit 1998 zum UNESCO-Welterbe. Das Viadukt auf den ersten beiden Marken ist die Kalte Rinne, und dorthin kannst du wandern.",
+          "fr": "Tous les trois représentent le chemin de fer du Semmering, la ligne que Ghega a tracée par-dessus le col entre Gloggnitz et Mürzzuschlag. Elle a été ouverte en 1854 et elle est inscrite au patrimoine mondial de l'UNESCO depuis 1998. Le viaduc des deux premiers timbres est celui de la Kalte Rinne, et on peut s'y rendre à pied.",
+          "it": "Tutti e tre raffigurano la ferrovia del Semmering, la linea che Ghega progettò sul passo tra Gloggnitz e Mürzzuschlag. Fu inaugurata nel 1854 e dal 1998 è patrimonio mondiale UNESCO. Il viadotto dei primi due francobolli è il Kalte Rinne, e ci puoi arrivare a piedi.",
+          "nl": "All three show the Semmering railway, the line Ghega planned over the pass between Gloggnitz and Mürzzuschlag. It opened in 1854 and has been a UNESCO World Heritage site since 1998. The viaduct on the first two stamps is the Kalte Rinne, and you can walk to it.",
+          "pl": "All three show the Semmering railway, the line Ghega planned over the pass between Gloggnitz and Mürzzuschlag. It opened in 1854 and has been a UNESCO World Heritage site since 1998. The viaduct on the first two stamps is the Kalte Rinne, and you can walk to it.",
+          "cs": "All three show the Semmering railway, the line Ghega planned over the pass between Gloggnitz and Mürzzuschlag. It opened in 1854 and has been a UNESCO World Heritage site since 1998. The viaduct on the first two stamps is the Kalte Rinne, and you can walk to it.",
+          "sk": "All three show the Semmering railway, the line Ghega planned over the pass between Gloggnitz and Mürzzuschlag. It opened in 1854 and has been a UNESCO World Heritage site since 1998. The viaduct on the first two stamps is the Kalte Rinne, and you can walk to it.",
+          "ro": "All three show the Semmering railway, the line Ghega planned over the pass between Gloggnitz and Mürzzuschlag. It opened in 1854 and has been a UNESCO World Heritage site since 1998. The viaduct on the first two stamps is the Kalte Rinne, and you can walk to it.",
+          "hu": "All three show the Semmering railway, the line Ghega planned over the pass between Gloggnitz and Mürzzuschlag. It opened in 1854 and has been a UNESCO World Heritage site since 1998. The viaduct on the first two stamps is the Kalte Rinne, and you can walk to it.",
+          "da": "All three show the Semmering railway, the line Ghega planned over the pass between Gloggnitz and Mürzzuschlag. It opened in 1854 and has been a UNESCO World Heritage site since 1998. The viaduct on the first two stamps is the Kalte Rinne, and you can walk to it."
+        }
+      ]
+    },
+    {
+      "id": "stamps",
+      "type": "text",
+      "label": {
+        "en": "The stamps",
+        "de": "Die Briefmarken",
+        "fr": "Les timbres",
+        "it": "I francobolli",
+        "nl": "The stamps",
+        "pl": "The stamps",
+        "cs": "The stamps",
+        "sk": "The stamps",
+        "ro": "The stamps",
+        "hu": "The stamps",
+        "da": "The stamps"
+      },
+      "title": {
+        "en": "Ghega and his viaduct",
+        "de": "Ghega und sein Viadukt",
+        "fr": "Ghega et son viaduc",
+        "it": "Ghega e il suo viadotto",
+        "nl": "Ghega and his viaduct",
+        "pl": "Ghega and his viaduct",
+        "cs": "Ghega and his viaduct",
+        "sk": "Ghega and his viaduct",
+        "ro": "Ghega and his viaduct",
+        "hu": "Ghega and his viaduct",
+        "da": "Ghega and his viaduct"
+      },
+      "visual": {
+        "type": "stamp",
+        "stamp": {
+          "name": {
+            "en": "Carl Ritter von Ghega, 210th Birth Anniversary, Kalte Rinne Viaduct",
+            "de": "Carl Ritter von Ghega, 210. Geburtstag, Viadukt Kalte Rinne",
+            "fr": "Carl Ritter von Ghega, 210e anniversaire de sa naissance, viaduc de la Kalte Rinne",
+            "it": "Carl Ritter von Ghega, 210° anniversario della nascita, viadotto Kalte Rinne",
+            "nl": "Carl Ritter von Ghega, 210th Birth Anniversary, Kalte Rinne Viaduct",
+            "pl": "Carl Ritter von Ghega, 210th Birth Anniversary, Kalte Rinne Viaduct",
+            "cs": "Carl Ritter von Ghega, 210th Birth Anniversary, Kalte Rinne Viaduct",
+            "sk": "Carl Ritter von Ghega, 210th Birth Anniversary, Kalte Rinne Viaduct",
+            "ro": "Carl Ritter von Ghega, 210th Birth Anniversary, Kalte Rinne Viaduct",
+            "hu": "Carl Ritter von Ghega, 210th Birth Anniversary, Kalte Rinne Viaduct",
+            "da": "Carl Ritter von Ghega, 210th Birth Anniversary, Kalte Rinne Viaduct"
+          },
+          "year": 2012,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/796def2430233c7a/sm-stamp-ghega-2012.png",
+            "width": 1014,
+            "height": 851
+          },
+          "country": "AT",
+          "stamp_id": "SIQ-AT-2012-006"
+        }
+      },
+      "buttons": [],
+      "paragraphs": [
+        {
+          "en": "Austria has put Ghega on stamps more than once. The 1 schilling stamp of 1 March 1952, engraved by Ferdinand Lorber, shows his portrait in green with the words \"Erbauer der Semmering Bahn\", builder of the Semmering railway. It came out for the opening of a new tunnel at the top of the pass.",
+          "de": "Österreich hat Ghega mehr als einmal auf eine Briefmarke gesetzt. Die 1-Schilling-Marke vom 1. März 1952, gestochen von Ferdinand Lorber, zeigt sein Porträt in Grün mit den Worten „Erbauer der Semmering Bahn“. Sie erschien zur Eröffnung eines neuen Tunnels auf der Passhöhe.",
+          "fr": "L'Autriche a mis Ghega sur ses timbres à plusieurs reprises. Le timbre à 1 schilling du 1er mars 1952, gravé par Ferdinand Lorber, montre son portrait en vert avec la mention « Erbauer der Semmering Bahn », constructeur du chemin de fer du Semmering. Il a été émis pour l'ouverture d'un nouveau tunnel au sommet du col.",
+          "it": "L'Austria ha messo Ghega sui francobolli più di una volta. Il francobollo da 1 scellino del 1° marzo 1952, inciso da Ferdinand Lorber, ne mostra il ritratto in verde con la scritta \"Erbauer der Semmering Bahn\", costruttore della ferrovia del Semmering. Uscì per l'apertura di una nuova galleria in cima al passo.",
+          "nl": "Austria has put Ghega on stamps more than once. The 1 schilling stamp of 1 March 1952, engraved by Ferdinand Lorber, shows his portrait in green with the words \"Erbauer der Semmering Bahn\", builder of the Semmering railway. It came out for the opening of a new tunnel at the top of the pass.",
+          "pl": "Austria has put Ghega on stamps more than once. The 1 schilling stamp of 1 March 1952, engraved by Ferdinand Lorber, shows his portrait in green with the words \"Erbauer der Semmering Bahn\", builder of the Semmering railway. It came out for the opening of a new tunnel at the top of the pass.",
+          "cs": "Austria has put Ghega on stamps more than once. The 1 schilling stamp of 1 March 1952, engraved by Ferdinand Lorber, shows his portrait in green with the words \"Erbauer der Semmering Bahn\", builder of the Semmering railway. It came out for the opening of a new tunnel at the top of the pass.",
+          "sk": "Austria has put Ghega on stamps more than once. The 1 schilling stamp of 1 March 1952, engraved by Ferdinand Lorber, shows his portrait in green with the words \"Erbauer der Semmering Bahn\", builder of the Semmering railway. It came out for the opening of a new tunnel at the top of the pass.",
+          "ro": "Austria has put Ghega on stamps more than once. The 1 schilling stamp of 1 March 1952, engraved by Ferdinand Lorber, shows his portrait in green with the words \"Erbauer der Semmering Bahn\", builder of the Semmering railway. It came out for the opening of a new tunnel at the top of the pass.",
+          "hu": "Austria has put Ghega on stamps more than once. The 1 schilling stamp of 1 March 1952, engraved by Ferdinand Lorber, shows his portrait in green with the words \"Erbauer der Semmering Bahn\", builder of the Semmering railway. It came out for the opening of a new tunnel at the top of the pass.",
+          "da": "Austria has put Ghega on stamps more than once. The 1 schilling stamp of 1 March 1952, engraved by Ferdinand Lorber, shows his portrait in green with the words \"Erbauer der Semmering Bahn\", builder of the Semmering railway. It came out for the opening of a new tunnel at the top of the pass."
+        },
+        {
+          "en": "The 70 cent stamp of 2012 came out on his 210th birthday. Ernst Sladek drew Ghega in an oval on the left and the Kalte Rinne viaduct among autumn trees on the right, with the line \"160 Jahre Kalte Rinne Viadukt\" above it. Ghega was born in Venice in 1802, and as early as 1844 he proposed taking ordinary locomotives over the Semmering, without a rack or a rope.",
+          "de": "Die 70-Cent-Marke von 2012 kam zu seinem 210. Geburtstag heraus. Ernst Sladek zeichnete Ghega links in einem Oval und rechts das Viadukt Kalte Rinne zwischen herbstlichen Bäumen, darüber die Zeile „160 Jahre Kalte Rinne Viadukt“. Ghega wurde 1802 in Venedig geboren und schlug schon 1844 vor, gewöhnliche Lokomotiven über den Semmering zu führen, ohne Zahnstange und ohne Seil.",
+          "fr": "Le timbre à 70 cents de 2012 est paru le jour du 210e anniversaire de sa naissance. Ernst Sladek a dessiné Ghega dans un ovale à gauche et le viaduc de la Kalte Rinne au milieu des arbres d'automne à droite, avec la ligne « 160 Jahre Kalte Rinne Viadukt » au-dessus. Ghega est né à Venise en 1802 et proposait dès 1844 de franchir le Semmering avec des locomotives ordinaires, sans crémaillère ni câble.",
+          "it": "Il francobollo da 70 centesimi del 2012 uscì per il 210° anniversario della sua nascita. Ernst Sladek disegnò Ghega in un ovale a sinistra e il viadotto Kalte Rinne tra gli alberi d'autunno a destra, con sopra la scritta \"160 Jahre Kalte Rinne Viadukt\". Ghega era nato a Venezia nel 1802 e già nel 1844 propose di far passare sul Semmering locomotive normali, senza cremagliera né fune.",
+          "nl": "The 70 cent stamp of 2012 came out on his 210th birthday. Ernst Sladek drew Ghega in an oval on the left and the Kalte Rinne viaduct among autumn trees on the right, with the line \"160 Jahre Kalte Rinne Viadukt\" above it. Ghega was born in Venice in 1802, and as early as 1844 he proposed taking ordinary locomotives over the Semmering, without a rack or a rope.",
+          "pl": "The 70 cent stamp of 2012 came out on his 210th birthday. Ernst Sladek drew Ghega in an oval on the left and the Kalte Rinne viaduct among autumn trees on the right, with the line \"160 Jahre Kalte Rinne Viadukt\" above it. Ghega was born in Venice in 1802, and as early as 1844 he proposed taking ordinary locomotives over the Semmering, without a rack or a rope.",
+          "cs": "The 70 cent stamp of 2012 came out on his 210th birthday. Ernst Sladek drew Ghega in an oval on the left and the Kalte Rinne viaduct among autumn trees on the right, with the line \"160 Jahre Kalte Rinne Viadukt\" above it. Ghega was born in Venice in 1802, and as early as 1844 he proposed taking ordinary locomotives over the Semmering, without a rack or a rope.",
+          "sk": "The 70 cent stamp of 2012 came out on his 210th birthday. Ernst Sladek drew Ghega in an oval on the left and the Kalte Rinne viaduct among autumn trees on the right, with the line \"160 Jahre Kalte Rinne Viadukt\" above it. Ghega was born in Venice in 1802, and as early as 1844 he proposed taking ordinary locomotives over the Semmering, without a rack or a rope.",
+          "ro": "The 70 cent stamp of 2012 came out on his 210th birthday. Ernst Sladek drew Ghega in an oval on the left and the Kalte Rinne viaduct among autumn trees on the right, with the line \"160 Jahre Kalte Rinne Viadukt\" above it. Ghega was born in Venice in 1802, and as early as 1844 he proposed taking ordinary locomotives over the Semmering, without a rack or a rope.",
+          "hu": "The 70 cent stamp of 2012 came out on his 210th birthday. Ernst Sladek drew Ghega in an oval on the left and the Kalte Rinne viaduct among autumn trees on the right, with the line \"160 Jahre Kalte Rinne Viadukt\" above it. Ghega was born in Venice in 1802, and as early as 1844 he proposed taking ordinary locomotives over the Semmering, without a rack or a rope.",
+          "da": "The 70 cent stamp of 2012 came out on his 210th birthday. Ernst Sladek drew Ghega in an oval on the left and the Kalte Rinne viaduct among autumn trees on the right, with the line \"160 Jahre Kalte Rinne Viadukt\" above it. Ghega was born in Venice in 1802, and as early as 1844 he proposed taking ordinary locomotives over the Semmering, without a rack or a rope."
+        },
+        {
+          "en": "The 2026 stamp is one of four dispenser stamps of Austrian sights, printed by Enschedé in rolls, at 1.25 euro.",
+          "de": "Die Marke von 2026 ist eine von vier Automatenmarken mit österreichischen Sehenswürdigkeiten, gedruckt von Enschedé in Rollen, zu 1,25 Euro.",
+          "fr": "Le timbre de 2026 fait partie de quatre timbres de distributeur consacrés à des sites autrichiens, imprimés en rouleaux par Enschedé, à 1,25 euro.",
+          "it": "Il francobollo del 2026 è uno dei quattro francobolli da distributore dedicati ad attrazioni austriache, stampati in rotoli da Enschedé, del valore di 1,25 euro.",
+          "nl": "The 2026 stamp is one of four dispenser stamps of Austrian sights, printed by Enschedé in rolls, at 1.25 euro.",
+          "pl": "The 2026 stamp is one of four dispenser stamps of Austrian sights, printed by Enschedé in rolls, at 1.25 euro.",
+          "cs": "The 2026 stamp is one of four dispenser stamps of Austrian sights, printed by Enschedé in rolls, at 1.25 euro.",
+          "sk": "The 2026 stamp is one of four dispenser stamps of Austrian sights, printed by Enschedé in rolls, at 1.25 euro.",
+          "ro": "The 2026 stamp is one of four dispenser stamps of Austrian sights, printed by Enschedé in rolls, at 1.25 euro.",
+          "hu": "The 2026 stamp is one of four dispenser stamps of Austrian sights, printed by Enschedé in rolls, at 1.25 euro.",
+          "da": "The 2026 stamp is one of four dispenser stamps of Austrian sights, printed by Enschedé in rolls, at 1.25 euro."
+        }
+      ]
+    },
+    {
+      "id": "view",
+      "type": "text",
+      "label": {
+        "en": "The view",
+        "de": "Die Aussicht",
+        "fr": "Le point de vue",
+        "it": "Il panorama",
+        "nl": "The view",
+        "pl": "The view",
+        "cs": "The view",
+        "sk": "The view",
+        "ro": "The view",
+        "hu": "The view",
+        "da": "The view"
+      },
+      "title": {
+        "en": "The 20-Schilling-Blick",
+        "de": "Der 20-Schilling-Blick",
+        "fr": "Le 20-Schilling-Blick",
+        "it": "Il 20-Schilling-Blick",
+        "nl": "The 20-Schilling-Blick",
+        "pl": "The 20-Schilling-Blick",
+        "cs": "The 20-Schilling-Blick",
+        "sk": "The 20-Schilling-Blick",
+        "ro": "The 20-Schilling-Blick",
+        "hu": "The 20-Schilling-Blick",
+        "da": "The 20-Schilling-Blick"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/8dc1515bebf66375/sm-20-schilling.jpg",
+          "width": 2400,
+          "credit": "Uoaei1, CC BY-SA 4.0",
+          "height": 1600,
+          "caption": {
+            "en": "The Kalte Rinne viaduct, the Pollereswand and the Krauselklause viaduct from the 20-Schilling-Blick.",
+            "de": "Das Viadukt Kalte Rinne, die Pollereswand und das Krauselklause-Viadukt vom 20-Schilling-Blick aus.",
+            "fr": "Le viaduc de la Kalte Rinne, la Pollereswand et le viaduc de la Krauselklause vus du 20-Schilling-Blick.",
+            "it": "Il viadotto Kalte Rinne, la Pollereswand e il viadotto Krauselklause visti dal 20-Schilling-Blick.",
+            "nl": "The Kalte Rinne viaduct, the Pollereswand and the Krauselklause viaduct from the 20-Schilling-Blick.",
+            "pl": "The Kalte Rinne viaduct, the Pollereswand and the Krauselklause viaduct from the 20-Schilling-Blick.",
+            "cs": "The Kalte Rinne viaduct, the Pollereswand and the Krauselklause viaduct from the 20-Schilling-Blick.",
+            "sk": "The Kalte Rinne viaduct, the Pollereswand and the Krauselklause viaduct from the 20-Schilling-Blick.",
+            "ro": "The Kalte Rinne viaduct, the Pollereswand and the Krauselklause viaduct from the 20-Schilling-Blick.",
+            "hu": "The Kalte Rinne viaduct, the Pollereswand and the Krauselklause viaduct from the 20-Schilling-Blick.",
+            "da": "The Kalte Rinne viaduct, the Pollereswand and the Krauselklause viaduct from the 20-Schilling-Blick."
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Semmeringbahn_20-Schilling-Blick_01.JPG"
+        }
+      },
+      "buttons": [],
+      "paragraphs": [
+        {
+          "en": "From Semmering station the Bahnwanderweg, the railway hiking trail, follows the line downhill. After the Doppelreiter lookout comes a viewpoint called the 20-Schilling-Blick. It is named after the old banknote: the second-last 20-schilling note had Ghega on the front and this view on the back.",
+          "de": "Vom Bahnhof Semmering führt der Bahnwanderweg an der Strecke entlang bergab. Nach der Doppelreiter-Warte kommt ein Aussichtspunkt, der 20-Schilling-Blick heißt. Benannt ist er nach der alten Banknote: Auf der vorletzten 20-Schilling-Note war vorne Ghega zu sehen und hinten diese Aussicht.",
+          "fr": "Depuis la gare de Semmering, le Bahnwanderweg, le sentier qui accompagne la voie ferrée, descend le long de la ligne. Après le belvédère Doppelreiter vient un point de vue appelé le 20-Schilling-Blick. Il doit son nom à l'ancien billet de banque : l'avant-dernier billet de 20 schillings portait Ghega au recto et cette vue au verso.",
+          "it": "Dalla stazione di Semmering il Bahnwanderweg, il sentiero che segue la ferrovia, scende lungo la linea. Dopo il belvedere Doppelreiter arrivi a un punto panoramico chiamato 20-Schilling-Blick. Il nome viene dalla vecchia banconota: la penultima da 20 scellini aveva Ghega sul fronte e questa veduta sul retro.",
+          "nl": "From Semmering station the Bahnwanderweg, the railway hiking trail, follows the line downhill. After the Doppelreiter lookout comes a viewpoint called the 20-Schilling-Blick. It is named after the old banknote: the second-last 20-schilling note had Ghega on the front and this view on the back.",
+          "pl": "From Semmering station the Bahnwanderweg, the railway hiking trail, follows the line downhill. After the Doppelreiter lookout comes a viewpoint called the 20-Schilling-Blick. It is named after the old banknote: the second-last 20-schilling note had Ghega on the front and this view on the back.",
+          "cs": "From Semmering station the Bahnwanderweg, the railway hiking trail, follows the line downhill. After the Doppelreiter lookout comes a viewpoint called the 20-Schilling-Blick. It is named after the old banknote: the second-last 20-schilling note had Ghega on the front and this view on the back.",
+          "sk": "From Semmering station the Bahnwanderweg, the railway hiking trail, follows the line downhill. After the Doppelreiter lookout comes a viewpoint called the 20-Schilling-Blick. It is named after the old banknote: the second-last 20-schilling note had Ghega on the front and this view on the back.",
+          "ro": "From Semmering station the Bahnwanderweg, the railway hiking trail, follows the line downhill. After the Doppelreiter lookout comes a viewpoint called the 20-Schilling-Blick. It is named after the old banknote: the second-last 20-schilling note had Ghega on the front and this view on the back.",
+          "hu": "From Semmering station the Bahnwanderweg, the railway hiking trail, follows the line downhill. After the Doppelreiter lookout comes a viewpoint called the 20-Schilling-Blick. It is named after the old banknote: the second-last 20-schilling note had Ghega on the front and this view on the back.",
+          "da": "From Semmering station the Bahnwanderweg, the railway hiking trail, follows the line downhill. After the Doppelreiter lookout comes a viewpoint called the 20-Schilling-Blick. It is named after the old banknote: the second-last 20-schilling note had Ghega on the front and this view on the back."
+        },
+        {
+          "en": "From left to right are the Kalte Rinne viaduct, the Polleros tunnel under the rock face of the Pollereswand, the smaller Krauselklause viaduct with its tunnel, and the Rax behind them. A passing train crosses one viaduct and enters the rock.",
+          "de": "Von links nach rechts siehst du das Viadukt Kalte Rinne, den Polleros-Tunnel unter der Felswand der Pollereswand, das kleinere Krauselklause-Viadukt mit seinem Tunnel und dahinter die Rax. Ein Zug fährt über das eine Viadukt und verschwindet im Fels.",
+          "fr": "De gauche à droite, on voit le viaduc de la Kalte Rinne, le tunnel du Polleros sous la paroi de la Pollereswand, le plus petit viaduc de la Krauselklause avec son tunnel, et le Rax derrière. Un train qui passe franchit un viaduc puis entre dans le rocher.",
+          "it": "Da sinistra a destra ci sono il viadotto Kalte Rinne, la galleria del Polleros sotto la parete rocciosa della Pollereswand, il più piccolo viadotto Krauselklause con la sua galleria e, dietro, il Rax. Un treno di passaggio attraversa un viadotto ed entra nella roccia.",
+          "nl": "From left to right are the Kalte Rinne viaduct, the Polleros tunnel under the rock face of the Pollereswand, the smaller Krauselklause viaduct with its tunnel, and the Rax behind them. A passing train crosses one viaduct and enters the rock.",
+          "pl": "From left to right are the Kalte Rinne viaduct, the Polleros tunnel under the rock face of the Pollereswand, the smaller Krauselklause viaduct with its tunnel, and the Rax behind them. A passing train crosses one viaduct and enters the rock.",
+          "cs": "From left to right are the Kalte Rinne viaduct, the Polleros tunnel under the rock face of the Pollereswand, the smaller Krauselklause viaduct with its tunnel, and the Rax behind them. A passing train crosses one viaduct and enters the rock.",
+          "sk": "From left to right are the Kalte Rinne viaduct, the Polleros tunnel under the rock face of the Pollereswand, the smaller Krauselklause viaduct with its tunnel, and the Rax behind them. A passing train crosses one viaduct and enters the rock.",
+          "ro": "From left to right are the Kalte Rinne viaduct, the Polleros tunnel under the rock face of the Pollereswand, the smaller Krauselklause viaduct with its tunnel, and the Rax behind them. A passing train crosses one viaduct and enters the rock.",
+          "hu": "From left to right are the Kalte Rinne viaduct, the Polleros tunnel under the rock face of the Pollereswand, the smaller Krauselklause viaduct with its tunnel, and the Rax behind them. A passing train crosses one viaduct and enters the rock.",
+          "da": "From left to right are the Kalte Rinne viaduct, the Polleros tunnel under the rock face of the Pollereswand, the smaller Krauselklause viaduct with its tunnel, and the Rax behind them. A passing train crosses one viaduct and enters the rock."
+        },
+        {
+          "en": "A wooden picture frame at the viewpoint holds the view of the note. The 60 groschen stamp of the 1945 landscape series, drawn by A. Chmielowski after photographs, shows the same rock wall with the viaduct and the tunnel below it.",
+          "de": "Am Aussichtspunkt steht ein hölzerner Bilderrahmen mit dem Blick der Banknote. Die 60-Groschen-Marke der Landschaftsserie von 1945, von A. Chmielowski nach Fotografien gezeichnet, zeigt dieselbe Felswand mit dem Viadukt und dem Tunnel darunter.",
+          "fr": "Un cadre en bois installé au point de vue reprend l'image du billet. Le timbre à 60 groschen de la série des paysages de 1945, dessiné par A. Chmielowski d'après des photographies, montre la même paroi rocheuse avec le viaduc et le tunnel en dessous.",
+          "it": "Al punto panoramico una cornice di legno inquadra la veduta della banconota. Il francobollo da 60 groschen della serie paesaggi del 1945, disegnato da A. Chmielowski a partire da fotografie, mostra la stessa parete di roccia con il viadotto e la galleria sotto.",
+          "nl": "A wooden picture frame at the viewpoint holds the view of the note. The 60 groschen stamp of the 1945 landscape series, drawn by A. Chmielowski after photographs, shows the same rock wall with the viaduct and the tunnel below it.",
+          "pl": "A wooden picture frame at the viewpoint holds the view of the note. The 60 groschen stamp of the 1945 landscape series, drawn by A. Chmielowski after photographs, shows the same rock wall with the viaduct and the tunnel below it.",
+          "cs": "A wooden picture frame at the viewpoint holds the view of the note. The 60 groschen stamp of the 1945 landscape series, drawn by A. Chmielowski after photographs, shows the same rock wall with the viaduct and the tunnel below it.",
+          "sk": "A wooden picture frame at the viewpoint holds the view of the note. The 60 groschen stamp of the 1945 landscape series, drawn by A. Chmielowski after photographs, shows the same rock wall with the viaduct and the tunnel below it.",
+          "ro": "A wooden picture frame at the viewpoint holds the view of the note. The 60 groschen stamp of the 1945 landscape series, drawn by A. Chmielowski after photographs, shows the same rock wall with the viaduct and the tunnel below it.",
+          "hu": "A wooden picture frame at the viewpoint holds the view of the note. The 60 groschen stamp of the 1945 landscape series, drawn by A. Chmielowski after photographs, shows the same rock wall with the viaduct and the tunnel below it.",
+          "da": "A wooden picture frame at the viewpoint holds the view of the note. The 60 groschen stamp of the 1945 landscape series, drawn by A. Chmielowski after photographs, shows the same rock wall with the viaduct and the tunnel below it."
+        }
+      ]
+    },
+    {
+      "id": "figures",
+      "type": "numbers",
+      "label": {
+        "en": "In figures",
+        "de": "In Zahlen",
+        "fr": "En chiffres",
+        "it": "In cifre",
+        "nl": "In figures",
+        "pl": "In figures",
+        "cs": "In figures",
+        "sk": "In figures",
+        "ro": "In figures",
+        "hu": "In figures",
+        "da": "In figures"
+      },
+      "title": {
+        "en": "The railway over the pass",
+        "de": "Die Bahn über den Pass",
+        "fr": "La ligne par-dessus le col",
+        "it": "La ferrovia sul passo",
+        "nl": "The railway over the pass",
+        "pl": "The railway over the pass",
+        "cs": "The railway over the pass",
+        "sk": "The railway over the pass",
+        "ro": "The railway over the pass",
+        "hu": "The railway over the pass",
+        "da": "The railway over the pass"
+      },
+      "numbers": [
+        {
+          "text": {
+            "en": "The Kalte Rinne viaduct is 184 metres long, according to the Lower Austria tourist board.",
+            "de": "Das Viadukt Kalte Rinne ist nach Angaben des niederösterreichischen Tourismusverbands 184 Meter lang.",
+            "fr": "Le viaduc de la Kalte Rinne mesure 184 mètres de long, selon l'office du tourisme de Basse-Autriche.",
+            "it": "Il viadotto Kalte Rinne è lungo 184 metri, secondo l'ente turistico della Bassa Austria.",
+            "nl": "The Kalte Rinne viaduct is 184 metres long, according to the Lower Austria tourist board.",
+            "pl": "The Kalte Rinne viaduct is 184 metres long, according to the Lower Austria tourist board.",
+            "cs": "The Kalte Rinne viaduct is 184 metres long, according to the Lower Austria tourist board.",
+            "sk": "The Kalte Rinne viaduct is 184 metres long, according to the Lower Austria tourist board.",
+            "ro": "The Kalte Rinne viaduct is 184 metres long, according to the Lower Austria tourist board.",
+            "hu": "The Kalte Rinne viaduct is 184 metres long, according to the Lower Austria tourist board.",
+            "da": "The Kalte Rinne viaduct is 184 metres long, according to the Lower Austria tourist board."
+          },
+          "title": {
+            "en": "Length",
+            "de": "Länge",
+            "fr": "Longueur",
+            "it": "Lunghezza",
+            "nl": "Length",
+            "pl": "Length",
+            "cs": "Length",
+            "sk": "Length",
+            "ro": "Length",
+            "hu": "Length",
+            "da": "Length"
+          },
+          "value": "184 m"
+        },
+        {
+          "text": {
+            "en": "The viaduct stands 46 metres high on two tiers of arches.",
+            "de": "Das Viadukt steht 46 Meter hoch auf zwei Bogenreihen.",
+            "fr": "Le viaduc s'élève à 46 mètres sur deux étages d'arches.",
+            "it": "Il viadotto è alto 46 metri su due ordini di arcate.",
+            "nl": "The viaduct stands 46 metres high on two tiers of arches.",
+            "pl": "The viaduct stands 46 metres high on two tiers of arches.",
+            "cs": "The viaduct stands 46 metres high on two tiers of arches.",
+            "sk": "The viaduct stands 46 metres high on two tiers of arches.",
+            "ro": "The viaduct stands 46 metres high on two tiers of arches.",
+            "hu": "The viaduct stands 46 metres high on two tiers of arches.",
+            "da": "The viaduct stands 46 metres high on two tiers of arches."
+          },
+          "title": {
+            "en": "Height",
+            "de": "Höhe",
+            "fr": "Hauteur",
+            "it": "Altezza",
+            "nl": "Height",
+            "pl": "Height",
+            "cs": "Height",
+            "sk": "Height",
+            "ro": "Height",
+            "hu": "Height",
+            "da": "Height"
+          },
+          "value": "46 m"
+        },
+        {
+          "text": {
+            "en": "The railway over the Semmering opened in 1854.",
+            "de": "Die Bahn über den Semmering wurde 1854 eröffnet.",
+            "fr": "La ligne par-dessus le Semmering a été ouverte en 1854.",
+            "it": "La ferrovia sul Semmering fu inaugurata nel 1854.",
+            "nl": "The railway over the Semmering opened in 1854.",
+            "pl": "The railway over the Semmering opened in 1854.",
+            "cs": "The railway over the Semmering opened in 1854.",
+            "sk": "The railway over the Semmering opened in 1854.",
+            "ro": "The railway over the Semmering opened in 1854.",
+            "hu": "The railway over the Semmering opened in 1854.",
+            "da": "The railway over the Semmering opened in 1854."
+          },
+          "title": {
+            "en": "Opened",
+            "de": "Eröffnet",
+            "fr": "Ouverture",
+            "it": "Inaugurazione",
+            "nl": "Opened",
+            "pl": "Opened",
+            "cs": "Opened",
+            "sk": "Opened",
+            "ro": "Opened",
+            "hu": "Opened",
+            "da": "Opened"
+          },
+          "value": "1854"
+        },
+        {
+          "text": {
+            "en": "UNESCO listed the railway and the landscape around it in 1998.",
+            "de": "Die UNESCO nahm die Bahn und die Landschaft darum herum 1998 in die Liste auf.",
+            "fr": "L'UNESCO a inscrit la ligne et le paysage qui l'entoure en 1998.",
+            "it": "Nel 1998 l'UNESCO ha iscritto la ferrovia e il paesaggio intorno.",
+            "nl": "UNESCO listed the railway and the landscape around it in 1998.",
+            "pl": "UNESCO listed the railway and the landscape around it in 1998.",
+            "cs": "UNESCO listed the railway and the landscape around it in 1998.",
+            "sk": "UNESCO listed the railway and the landscape around it in 1998.",
+            "ro": "UNESCO listed the railway and the landscape around it in 1998.",
+            "hu": "UNESCO listed the railway and the landscape around it in 1998.",
+            "da": "UNESCO listed the railway and the landscape around it in 1998."
+          },
+          "title": {
+            "en": "World Heritage",
+            "de": "Welterbe",
+            "fr": "Patrimoine mondial",
+            "it": "Patrimonio mondiale",
+            "nl": "World Heritage",
+            "pl": "World Heritage",
+            "cs": "World Heritage",
+            "sk": "World Heritage",
+            "ro": "World Heritage",
+            "hu": "World Heritage",
+            "da": "World Heritage"
+          },
+          "value": "1998"
+        }
+      ]
+    },
+    {
+      "id": "panorama",
+      "type": "wide-photo",
+      "image": {
+        "src": "https://assets.stampiq.io/blog/007e0f5c5bccfe0b/sm-panorama.jpg",
+        "width": 3000,
+        "credit": "Linie29, CC BY-SA 4.0",
+        "height": 932,
+        "caption": {
+          "en": "The Pollereswand and two viaducts of the Semmering railway, seen from Breitenstein.",
+          "de": "Die Pollereswand und zwei Viadukte der Semmeringbahn, von Breitenstein aus gesehen.",
+          "fr": "La Pollereswand et deux viaducs du chemin de fer du Semmering, vus depuis Breitenstein.",
+          "it": "La Pollereswand e due viadotti della ferrovia del Semmering, visti da Breitenstein.",
+          "nl": "The Pollereswand and two viaducts of the Semmering railway, seen from Breitenstein.",
+          "pl": "The Pollereswand and two viaducts of the Semmering railway, seen from Breitenstein.",
+          "cs": "The Pollereswand and two viaducts of the Semmering railway, seen from Breitenstein.",
+          "sk": "The Pollereswand and two viaducts of the Semmering railway, seen from Breitenstein.",
+          "ro": "The Pollereswand and two viaducts of the Semmering railway, seen from Breitenstein.",
+          "hu": "The Pollereswand and two viaducts of the Semmering railway, seen from Breitenstein.",
+          "da": "The Pollereswand and two viaducts of the Semmering railway, seen from Breitenstein."
+        },
+        "source_url": "https://commons.wikimedia.org/wiki/File:Semmeringbahn_Panorama_Breitenstein.jpg"
+      }
+    },
+    {
+      "id": "walk",
+      "type": "text",
+      "label": {
+        "en": "The walk",
+        "de": "Die Wanderung",
+        "fr": "La randonnée",
+        "it": "La camminata",
+        "nl": "The walk",
+        "pl": "The walk",
+        "cs": "The walk",
+        "sk": "The walk",
+        "ro": "The walk",
+        "hu": "The walk",
+        "da": "The walk"
+      },
+      "title": {
+        "en": "Down to the Kalte Rinne",
+        "de": "Hinunter zur Kalten Rinne",
+        "fr": "Descente vers la Kalte Rinne",
+        "it": "Giù fino al Kalte Rinne",
+        "nl": "Down to the Kalte Rinne",
+        "pl": "Down to the Kalte Rinne",
+        "cs": "Down to the Kalte Rinne",
+        "sk": "Down to the Kalte Rinne",
+        "ro": "Down to the Kalte Rinne",
+        "hu": "Down to the Kalte Rinne",
+        "da": "Down to the Kalte Rinne"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/408b322aef37ea3f/sm-ghega-museum.jpg",
+          "width": 2400,
+          "credit": "Haeferl, CC BY-SA 3.0 at",
+          "height": 1800,
+          "caption": {
+            "en": "The Ghega museum in keeper's house 167, beside the Kalte Rinne viaduct.",
+            "de": "Das Ghega-Museum im Wächterhaus 167, neben dem Viadukt Kalte Rinne.",
+            "fr": "Le musée Ghega dans la maison de garde-voie 167, à côté du viaduc de la Kalte Rinne.",
+            "it": "Il museo Ghega nella casello ferroviario 167, accanto al viadotto Kalte Rinne.",
+            "nl": "The Ghega museum in keeper's house 167, beside the Kalte Rinne viaduct.",
+            "pl": "The Ghega museum in keeper's house 167, beside the Kalte Rinne viaduct.",
+            "cs": "The Ghega museum in keeper's house 167, beside the Kalte Rinne viaduct.",
+            "sk": "The Ghega museum in keeper's house 167, beside the Kalte Rinne viaduct.",
+            "ro": "The Ghega museum in keeper's house 167, beside the Kalte Rinne viaduct.",
+            "hu": "The Ghega museum in keeper's house 167, beside the Kalte Rinne viaduct.",
+            "da": "The Ghega museum in keeper's house 167, beside the Kalte Rinne viaduct."
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Breitenstein_-_Semmeringbahn_-_ehem_Bahnw%C3%A4rterh%C3%A4uschen_WH_167_Ghega-Museum.jpg"
+        }
+      },
+      "buttons": [],
+      "paragraphs": [
+        {
+          "en": "From the viewpoint the trail goes on past the Fleischmann bridge, where the remains of a builders' camp lie, and then climbs steeply to the Kalte Rinne viaduct. You stand below the two tiers of arches while the trains cross overhead.",
+          "de": "Vom Aussichtspunkt führt der Weg weiter an der Fleischmannbrücke vorbei, wo die Reste eines Lagers der Bauarbeiter liegen, und steigt dann steil zum Viadukt Kalte Rinne an. Du stehst unter den zwei Bogenreihen, während oben die Züge darüberfahren.",
+          "fr": "Du point de vue, le sentier continue et passe le pont Fleischmann, où subsistent les restes d'un campement de chantier, puis remonte en pente raide jusqu'au viaduc de la Kalte Rinne. Tu te retrouves sous les deux étages d'arches pendant que les trains passent au-dessus.",
+          "it": "Dal punto panoramico il sentiero prosegue oltre il ponte Fleischmann, dove restano le tracce di un accampamento dei costruttori, poi sale ripido fino al viadotto Kalte Rinne. Ti fermi sotto i due ordini di arcate mentre sopra passano i treni.",
+          "nl": "From the viewpoint the trail goes on past the Fleischmann bridge, where the remains of a builders' camp lie, and then climbs steeply to the Kalte Rinne viaduct. You stand below the two tiers of arches while the trains cross overhead.",
+          "pl": "From the viewpoint the trail goes on past the Fleischmann bridge, where the remains of a builders' camp lie, and then climbs steeply to the Kalte Rinne viaduct. You stand below the two tiers of arches while the trains cross overhead.",
+          "cs": "From the viewpoint the trail goes on past the Fleischmann bridge, where the remains of a builders' camp lie, and then climbs steeply to the Kalte Rinne viaduct. You stand below the two tiers of arches while the trains cross overhead.",
+          "sk": "From the viewpoint the trail goes on past the Fleischmann bridge, where the remains of a builders' camp lie, and then climbs steeply to the Kalte Rinne viaduct. You stand below the two tiers of arches while the trains cross overhead.",
+          "ro": "From the viewpoint the trail goes on past the Fleischmann bridge, where the remains of a builders' camp lie, and then climbs steeply to the Kalte Rinne viaduct. You stand below the two tiers of arches while the trains cross overhead.",
+          "hu": "From the viewpoint the trail goes on past the Fleischmann bridge, where the remains of a builders' camp lie, and then climbs steeply to the Kalte Rinne viaduct. You stand below the two tiers of arches while the trains cross overhead.",
+          "da": "From the viewpoint the trail goes on past the Fleischmann bridge, where the remains of a builders' camp lie, and then climbs steeply to the Kalte Rinne viaduct. You stand below the two tiers of arches while the trains cross overhead."
+        },
+        {
+          "en": "Next to the viaduct is keeper's house number 167, which is now the Ghega museum. The Club der Freunde Ghegas runs it, and inside are about 40 pictures, plans and drawings from the building of the line. Entry is by donation, and the museum opens at weekends until the end of October.",
+          "de": "Neben dem Viadukt steht das Wächterhaus Nummer 167, heute das Ghega-Museum. Der Club der Freunde Ghegas betreibt es, drinnen hängen rund 40 Bilder, Pläne und Zeichnungen vom Bau der Strecke. Eintritt gegen Spende, geöffnet ist an den Wochenenden bis Ende Oktober.",
+          "fr": "À côté du viaduc se trouve la maison de garde-voie numéro 167, aujourd'hui le musée Ghega. Le Club der Freunde Ghegas s'en occupe ; on y voit une quarantaine d'images, de plans et de dessins de la construction de la ligne. L'entrée se fait contre un don et le musée ouvre le week-end jusqu'à fin octobre.",
+          "it": "Accanto al viadotto c'è la casello ferroviario numero 167, oggi museo Ghega. Lo gestisce il Club der Freunde Ghegas e all'interno ci sono circa 40 immagini, planimetrie e disegni della costruzione della linea. L'ingresso è a offerta libera e il museo apre nei fine settimana fino a fine ottobre.",
+          "nl": "Next to the viaduct is keeper's house number 167, which is now the Ghega museum. The Club der Freunde Ghegas runs it, and inside are about 40 pictures, plans and drawings from the building of the line. Entry is by donation, and the museum opens at weekends until the end of October.",
+          "pl": "Next to the viaduct is keeper's house number 167, which is now the Ghega museum. The Club der Freunde Ghegas runs it, and inside are about 40 pictures, plans and drawings from the building of the line. Entry is by donation, and the museum opens at weekends until the end of October.",
+          "cs": "Next to the viaduct is keeper's house number 167, which is now the Ghega museum. The Club der Freunde Ghegas runs it, and inside are about 40 pictures, plans and drawings from the building of the line. Entry is by donation, and the museum opens at weekends until the end of October.",
+          "sk": "Next to the viaduct is keeper's house number 167, which is now the Ghega museum. The Club der Freunde Ghegas runs it, and inside are about 40 pictures, plans and drawings from the building of the line. Entry is by donation, and the museum opens at weekends until the end of October.",
+          "ro": "Next to the viaduct is keeper's house number 167, which is now the Ghega museum. The Club der Freunde Ghegas runs it, and inside are about 40 pictures, plans and drawings from the building of the line. Entry is by donation, and the museum opens at weekends until the end of October.",
+          "hu": "Next to the viaduct is keeper's house number 167, which is now the Ghega museum. The Club der Freunde Ghegas runs it, and inside are about 40 pictures, plans and drawings from the building of the line. Entry is by donation, and the museum opens at weekends until the end of October.",
+          "da": "Next to the viaduct is keeper's house number 167, which is now the Ghega museum. The Club der Freunde Ghegas runs it, and inside are about 40 pictures, plans and drawings from the building of the line. Entry is by donation, and the museum opens at weekends until the end of October."
+        },
+        {
+          "en": "From the museum the trail continues past the Krauselklause viaduct to Breitenstein station. From Semmering to Breitenstein it is just under 10 kilometres, and the tourist board gives 2 hours 50 minutes for it.",
+          "de": "Vom Museum geht der Weg weiter am Krauselklause-Viadukt vorbei bis zum Bahnhof Breitenstein. Von Semmering nach Breitenstein sind es knapp 10 Kilometer, der Tourismusverband gibt dafür 2 Stunden 50 Minuten an.",
+          "fr": "Depuis le musée, le sentier se poursuit devant le viaduc de la Krauselklause jusqu'à la gare de Breitenstein. De Semmering à Breitenstein, il y a un peu moins de 10 kilomètres, et l'office du tourisme compte 2 h 50.",
+          "it": "Dal museo il sentiero continua oltre il viadotto Krauselklause fino alla stazione di Breitenstein. Da Semmering a Breitenstein sono poco meno di 10 chilometri e l'ente turistico indica 2 ore e 50 minuti.",
+          "nl": "From the museum the trail continues past the Krauselklause viaduct to Breitenstein station. From Semmering to Breitenstein it is just under 10 kilometres, and the tourist board gives 2 hours 50 minutes for it.",
+          "pl": "From the museum the trail continues past the Krauselklause viaduct to Breitenstein station. From Semmering to Breitenstein it is just under 10 kilometres, and the tourist board gives 2 hours 50 minutes for it.",
+          "cs": "From the museum the trail continues past the Krauselklause viaduct to Breitenstein station. From Semmering to Breitenstein it is just under 10 kilometres, and the tourist board gives 2 hours 50 minutes for it.",
+          "sk": "From the museum the trail continues past the Krauselklause viaduct to Breitenstein station. From Semmering to Breitenstein it is just under 10 kilometres, and the tourist board gives 2 hours 50 minutes for it.",
+          "ro": "From the museum the trail continues past the Krauselklause viaduct to Breitenstein station. From Semmering to Breitenstein it is just under 10 kilometres, and the tourist board gives 2 hours 50 minutes for it.",
+          "hu": "From the museum the trail continues past the Krauselklause viaduct to Breitenstein station. From Semmering to Breitenstein it is just under 10 kilometres, and the tourist board gives 2 hours 50 minutes for it.",
+          "da": "From the museum the trail continues past the Krauselklause viaduct to Breitenstein station. From Semmering to Breitenstein it is just under 10 kilometres, and the tourist board gives 2 hours 50 minutes for it."
+        }
+      ]
+    },
+    {
+      "id": "practical",
+      "rows": [
+        {
+          "label": {
+            "en": "Trail",
+            "de": "Weg",
+            "fr": "Sentier",
+            "it": "Sentiero",
+            "nl": "Trail",
+            "pl": "Trail",
+            "cs": "Trail",
+            "sk": "Trail",
+            "ro": "Trail",
+            "hu": "Trail",
+            "da": "Trail"
+          },
+          "value": {
+            "en": "Bahnwanderweg from Semmering to Breitenstein, 9.92 km, 2 h 50 min; on to Payerbach 20.2 km in total",
+            "de": "Bahnwanderweg von Semmering nach Breitenstein, 9,92 km, 2 h 50 min; weiter nach Payerbach 20,2 km insgesamt",
+            "fr": "Bahnwanderweg de Semmering à Breitenstein, 9,92 km, 2 h 50 ; jusqu'à Payerbach 20,2 km au total",
+            "it": "Bahnwanderweg da Semmering a Breitenstein, 9,92 km, 2 h 50 min; proseguendo fino a Payerbach 20,2 km in tutto",
+            "nl": "Bahnwanderweg from Semmering to Breitenstein, 9.92 km, 2 h 50 min; on to Payerbach 20.2 km in total",
+            "pl": "Bahnwanderweg from Semmering to Breitenstein, 9.92 km, 2 h 50 min; on to Payerbach 20.2 km in total",
+            "cs": "Bahnwanderweg from Semmering to Breitenstein, 9.92 km, 2 h 50 min; on to Payerbach 20.2 km in total",
+            "sk": "Bahnwanderweg from Semmering to Breitenstein, 9.92 km, 2 h 50 min; on to Payerbach 20.2 km in total",
+            "ro": "Bahnwanderweg from Semmering to Breitenstein, 9.92 km, 2 h 50 min; on to Payerbach 20.2 km in total",
+            "hu": "Bahnwanderweg from Semmering to Breitenstein, 9.92 km, 2 h 50 min; on to Payerbach 20.2 km in total",
+            "da": "Bahnwanderweg from Semmering to Breitenstein, 9.92 km, 2 h 50 min; on to Payerbach 20.2 km in total"
+          }
+        },
+        {
+          "label": {
+            "en": "Detour",
+            "de": "Umleitung",
+            "fr": "Déviation",
+            "it": "Deviazione",
+            "nl": "Detour",
+            "pl": "Detour",
+            "cs": "Detour",
+            "sk": "Detour",
+            "ro": "Detour",
+            "hu": "Detour",
+            "da": "Detour"
+          },
+          "value": {
+            "en": "Between Semmering and Wolfsbergkogel stations the trail currently follows the Südbahnstraße and the Adlitzgrabenstraße",
+            "de": "Zwischen den Bahnhöfen Semmering und Wolfsbergkogel führt der Weg derzeit über die Südbahnstraße und die Adlitzgrabenstraße",
+            "fr": "Entre les gares de Semmering et de Wolfsbergkogel, le sentier suit actuellement la Südbahnstraße et l'Adlitzgrabenstraße",
+            "it": "Tra le stazioni di Semmering e Wolfsbergkogel il sentiero al momento segue la Südbahnstraße e l'Adlitzgrabenstraße",
+            "nl": "Between Semmering and Wolfsbergkogel stations the trail currently follows the Südbahnstraße and the Adlitzgrabenstraße",
+            "pl": "Between Semmering and Wolfsbergkogel stations the trail currently follows the Südbahnstraße and the Adlitzgrabenstraße",
+            "cs": "Between Semmering and Wolfsbergkogel stations the trail currently follows the Südbahnstraße and the Adlitzgrabenstraße",
+            "sk": "Between Semmering and Wolfsbergkogel stations the trail currently follows the Südbahnstraße and the Adlitzgrabenstraße",
+            "ro": "Between Semmering and Wolfsbergkogel stations the trail currently follows the Südbahnstraße and the Adlitzgrabenstraße",
+            "hu": "Between Semmering and Wolfsbergkogel stations the trail currently follows the Südbahnstraße and the Adlitzgrabenstraße",
+            "da": "Between Semmering and Wolfsbergkogel stations the trail currently follows the Südbahnstraße and the Adlitzgrabenstraße"
+          }
+        },
+        {
+          "label": {
+            "en": "Ghega museum",
+            "de": "Ghega-Museum",
+            "fr": "Musée Ghega",
+            "it": "Museo Ghega",
+            "nl": "Ghega museum",
+            "pl": "Ghega museum",
+            "cs": "Ghega museum",
+            "sk": "Ghega museum",
+            "ro": "Ghega museum",
+            "hu": "Ghega museum",
+            "da": "Ghega museum"
+          },
+          "value": {
+            "en": "Kalte Rinne Straße 45, 2673 Breitenstein; Saturdays, Sundays and holidays 10:00 to 16:00 until about 25 October; entry by donation",
+            "de": "Kalte Rinne Straße 45, 2673 Breitenstein; Samstag, Sonntag und Feiertage 10:00 bis 16:00 Uhr bis etwa 25. Oktober; Eintritt gegen Spende",
+            "fr": "Kalte Rinne Straße 45, 2673 Breitenstein ; samedis, dimanches et jours fériés de 10h00 à 16h00 jusqu'au 25 octobre environ ; entrée contre un don",
+            "it": "Kalte Rinne Straße 45, 2673 Breitenstein; sabato, domenica e festivi dalle 10:00 alle 16:00 fino al 25 ottobre circa; ingresso a offerta libera",
+            "nl": "Kalte Rinne Straße 45, 2673 Breitenstein; Saturdays, Sundays and holidays 10:00 to 16:00 until about 25 October; entry by donation",
+            "pl": "Kalte Rinne Straße 45, 2673 Breitenstein; Saturdays, Sundays and holidays 10:00 to 16:00 until about 25 October; entry by donation",
+            "cs": "Kalte Rinne Straße 45, 2673 Breitenstein; Saturdays, Sundays and holidays 10:00 to 16:00 until about 25 October; entry by donation",
+            "sk": "Kalte Rinne Straße 45, 2673 Breitenstein; Saturdays, Sundays and holidays 10:00 to 16:00 until about 25 October; entry by donation",
+            "ro": "Kalte Rinne Straße 45, 2673 Breitenstein; Saturdays, Sundays and holidays 10:00 to 16:00 until about 25 October; entry by donation",
+            "hu": "Kalte Rinne Straße 45, 2673 Breitenstein; Saturdays, Sundays and holidays 10:00 to 16:00 until about 25 October; entry by donation",
+            "da": "Kalte Rinne Straße 45, 2673 Breitenstein; Saturdays, Sundays and holidays 10:00 to 16:00 until about 25 October; entry by donation"
+          }
+        },
+        {
+          "label": {
+            "en": "Information Center",
+            "de": "Information Center",
+            "fr": "Information Center",
+            "it": "Information Center",
+            "nl": "Information Center",
+            "pl": "Information Center",
+            "cs": "Information Center",
+            "sk": "Information Center",
+            "ro": "Information Center",
+            "hu": "Information Center",
+            "da": "Information Center"
+          },
+          "value": {
+            "en": "Semmering station, Bahnhofstraße 24, 2680 Semmering; Thursday to Sunday and holidays 8:45 to 15:30 until 31 October; free; a model of the Kalte Rinne viaduct and a film room",
+            "de": "Bahnhof Semmering, Bahnhofstraße 24, 2680 Semmering; Donnerstag bis Sonntag und Feiertage 8:45 bis 15:30 Uhr bis 31. Oktober; kostenlos; ein Modell des Viadukts Kalte Rinne und ein Filmraum",
+            "fr": "Gare de Semmering, Bahnhofstraße 24, 2680 Semmering ; du jeudi au dimanche et jours fériés de 8h45 à 15h30 jusqu'au 31 octobre ; gratuit ; une maquette du viaduc de la Kalte Rinne et une salle de projection",
+            "it": "Stazione di Semmering, Bahnhofstraße 24, 2680 Semmering; da giovedì a domenica e nei festivi dalle 8:45 alle 15:30 fino al 31 ottobre; gratuito; un modello del viadotto Kalte Rinne e una sala proiezioni",
+            "nl": "Semmering station, Bahnhofstraße 24, 2680 Semmering; Thursday to Sunday and holidays 8:45 to 15:30 until 31 October; free; a model of the Kalte Rinne viaduct and a film room",
+            "pl": "Semmering station, Bahnhofstraße 24, 2680 Semmering; Thursday to Sunday and holidays 8:45 to 15:30 until 31 October; free; a model of the Kalte Rinne viaduct and a film room",
+            "cs": "Semmering station, Bahnhofstraße 24, 2680 Semmering; Thursday to Sunday and holidays 8:45 to 15:30 until 31 October; free; a model of the Kalte Rinne viaduct and a film room",
+            "sk": "Semmering station, Bahnhofstraße 24, 2680 Semmering; Thursday to Sunday and holidays 8:45 to 15:30 until 31 October; free; a model of the Kalte Rinne viaduct and a film room",
+            "ro": "Semmering station, Bahnhofstraße 24, 2680 Semmering; Thursday to Sunday and holidays 8:45 to 15:30 until 31 October; free; a model of the Kalte Rinne viaduct and a film room",
+            "hu": "Semmering station, Bahnhofstraße 24, 2680 Semmering; Thursday to Sunday and holidays 8:45 to 15:30 until 31 October; free; a model of the Kalte Rinne viaduct and a film room",
+            "da": "Semmering station, Bahnhofstraße 24, 2680 Semmering; Thursday to Sunday and holidays 8:45 to 15:30 until 31 October; free; a model of the Kalte Rinne viaduct and a film room"
+          }
+        },
+        {
+          "label": {
+            "en": "What to bring",
+            "de": "Mitnehmen",
+            "fr": "À emporter",
+            "it": "Cosa portare",
+            "nl": "What to bring",
+            "pl": "What to bring",
+            "cs": "What to bring",
+            "sk": "What to bring",
+            "ro": "What to bring",
+            "hu": "What to bring",
+            "da": "What to bring"
+          },
+          "value": {
+            "en": "Sturdy shoes, clothes against rain and cold, food and drink",
+            "de": "Feste Schuhe, Kleidung gegen Regen und Kälte, Essen und Trinken",
+            "fr": "Chaussures solides, vêtements contre la pluie et le froid, de quoi manger et boire",
+            "it": "Scarpe robuste, abbigliamento contro pioggia e freddo, cibo e bevande",
+            "nl": "Sturdy shoes, clothes against rain and cold, food and drink",
+            "pl": "Sturdy shoes, clothes against rain and cold, food and drink",
+            "cs": "Sturdy shoes, clothes against rain and cold, food and drink",
+            "sk": "Sturdy shoes, clothes against rain and cold, food and drink",
+            "ro": "Sturdy shoes, clothes against rain and cold, food and drink",
+            "hu": "Sturdy shoes, clothes against rain and cold, food and drink",
+            "da": "Sturdy shoes, clothes against rain and cold, food and drink"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "Practical",
+        "de": "Praktisches",
+        "fr": "Pratique",
+        "it": "Informazioni pratiche",
+        "nl": "Practical",
+        "pl": "Practical",
+        "cs": "Practical",
+        "sk": "Practical",
+        "ro": "Practical",
+        "hu": "Practical",
+        "da": "Practical"
+      },
+      "title": {
+        "en": "Trail, museum and opening times",
+        "de": "Weg, Museum und Öffnungszeiten",
+        "fr": "Sentier, musée et horaires",
+        "it": "Sentiero, museo e orari",
+        "nl": "Trail, museum and opening times",
+        "pl": "Trail, museum and opening times",
+        "cs": "Trail, museum and opening times",
+        "sk": "Trail, museum and opening times",
+        "ro": "Trail, museum and opening times",
+        "hu": "Trail, museum and opening times",
+        "da": "Trail, museum and opening times"
+      },
+      "buttons": [
+        {
+          "href": "https://www.wieneralpen.at/en/semmering-rax/railway-hiking",
+          "label": {
+            "en": "Wiener Alpen",
+            "de": "Wiener Alpen",
+            "fr": "Wiener Alpen",
+            "it": "Wiener Alpen",
+            "nl": "Wiener Alpen",
+            "pl": "Wiener Alpen",
+            "cs": "Wiener Alpen",
+            "sk": "Wiener Alpen",
+            "ro": "Wiener Alpen",
+            "hu": "Wiener Alpen",
+            "da": "Wiener Alpen"
+          }
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "type": "tiles",
+      "label": {
+        "en": "How to get there",
+        "de": "Anreise",
+        "fr": "Comment s'y rendre",
+        "it": "Come arrivare",
+        "nl": "How to get there",
+        "pl": "How to get there",
+        "cs": "How to get there",
+        "sk": "How to get there",
+        "ro": "How to get there",
+        "hu": "How to get there",
+        "da": "How to get there"
+      },
+      "tiles": [
+        {
+          "icon": "train",
+          "text": {
+            "en": "A railjet runs from Wien Hauptbahnhof to Semmering every two hours, in about 1 hour 15 minutes, and stops at Wien Meidling too.",
+            "de": "Der Railjet fährt alle zwei Stunden vom Wiener Hauptbahnhof nach Semmering, in etwa 1 Stunde 15 Minuten, und hält auch in Wien Meidling.",
+            "fr": "Un railjet relie Wien Hauptbahnhof à Semmering toutes les deux heures, en 1 h 15 environ, avec un arrêt à Wien Meidling.",
+            "it": "Un railjet parte da Wien Hauptbahnhof per Semmering ogni due ore e impiega circa 1 ora e 15 minuti, con fermata anche a Wien Meidling.",
+            "nl": "A railjet runs from Wien Hauptbahnhof to Semmering every two hours, in about 1 hour 15 minutes, and stops at Wien Meidling too.",
+            "pl": "A railjet runs from Wien Hauptbahnhof to Semmering every two hours, in about 1 hour 15 minutes, and stops at Wien Meidling too.",
+            "cs": "A railjet runs from Wien Hauptbahnhof to Semmering every two hours, in about 1 hour 15 minutes, and stops at Wien Meidling too.",
+            "sk": "A railjet runs from Wien Hauptbahnhof to Semmering every two hours, in about 1 hour 15 minutes, and stops at Wien Meidling too.",
+            "ro": "A railjet runs from Wien Hauptbahnhof to Semmering every two hours, in about 1 hour 15 minutes, and stops at Wien Meidling too.",
+            "hu": "A railjet runs from Wien Hauptbahnhof to Semmering every two hours, in about 1 hour 15 minutes, and stops at Wien Meidling too.",
+            "da": "A railjet runs from Wien Hauptbahnhof to Semmering every two hours, in about 1 hour 15 minutes, and stops at Wien Meidling too."
+          },
+          "title": {
+            "en": "By railjet",
+            "de": "Mit dem Railjet",
+            "fr": "En railjet",
+            "it": "Con il railjet",
+            "nl": "By railjet",
+            "pl": "By railjet",
+            "cs": "By railjet",
+            "sk": "By railjet",
+            "ro": "By railjet",
+            "hu": "By railjet",
+            "da": "By railjet"
+          }
+        },
+        {
+          "icon": "pin",
+          "text": {
+            "en": "The CJX 9 runs every hour from Wien Hauptbahnhof to Payerbach-Reichenau in 1 hour 6 minutes, and the R 91 goes on up to Breitenstein and Semmering every two hours.",
+            "de": "Der CJX 9 fährt stündlich vom Wiener Hauptbahnhof nach Payerbach-Reichenau in 1 Stunde 6 Minuten, der R 91 fährt alle zwei Stunden weiter hinauf nach Breitenstein und Semmering.",
+            "fr": "Le CJX 9 part toutes les heures de Wien Hauptbahnhof et atteint Payerbach-Reichenau en 1 h 06 ; le R 91 poursuit toutes les deux heures jusqu'à Breitenstein et Semmering.",
+            "it": "Il CJX 9 parte ogni ora da Wien Hauptbahnhof e arriva a Payerbach-Reichenau in 1 ora e 6 minuti; da lì il R 91 sale a Breitenstein e Semmering ogni due ore.",
+            "nl": "The CJX 9 runs every hour from Wien Hauptbahnhof to Payerbach-Reichenau in 1 hour 6 minutes, and the R 91 goes on up to Breitenstein and Semmering every two hours.",
+            "pl": "The CJX 9 runs every hour from Wien Hauptbahnhof to Payerbach-Reichenau in 1 hour 6 minutes, and the R 91 goes on up to Breitenstein and Semmering every two hours.",
+            "cs": "The CJX 9 runs every hour from Wien Hauptbahnhof to Payerbach-Reichenau in 1 hour 6 minutes, and the R 91 goes on up to Breitenstein and Semmering every two hours.",
+            "sk": "The CJX 9 runs every hour from Wien Hauptbahnhof to Payerbach-Reichenau in 1 hour 6 minutes, and the R 91 goes on up to Breitenstein and Semmering every two hours.",
+            "ro": "The CJX 9 runs every hour from Wien Hauptbahnhof to Payerbach-Reichenau in 1 hour 6 minutes, and the R 91 goes on up to Breitenstein and Semmering every two hours.",
+            "hu": "The CJX 9 runs every hour from Wien Hauptbahnhof to Payerbach-Reichenau in 1 hour 6 minutes, and the R 91 goes on up to Breitenstein and Semmering every two hours.",
+            "da": "The CJX 9 runs every hour from Wien Hauptbahnhof to Payerbach-Reichenau in 1 hour 6 minutes, and the R 91 goes on up to Breitenstein and Semmering every two hours."
+          },
+          "title": {
+            "en": "By regional train",
+            "de": "Mit dem Regionalzug",
+            "fr": "En train régional",
+            "it": "Con il treno regionale",
+            "nl": "By regional train",
+            "pl": "By regional train",
+            "cs": "By regional train",
+            "sk": "By regional train",
+            "ro": "By regional train",
+            "hu": "By regional train",
+            "da": "By regional train"
+          }
+        },
+        {
+          "icon": "walk",
+          "text": {
+            "en": "From Breitenstein station the R 91 takes about 8 minutes back up to Semmering and about 20 minutes down to Payerbach.",
+            "de": "Vom Bahnhof Breitenstein braucht der R 91 etwa 8 Minuten hinauf nach Semmering und etwa 20 Minuten hinunter nach Payerbach.",
+            "fr": "Depuis la gare de Breitenstein, le R 91 remonte à Semmering en 8 minutes environ et descend à Payerbach en 20 minutes environ.",
+            "it": "Dalla stazione di Breitenstein il R 91 risale a Semmering in circa 8 minuti e scende a Payerbach in circa 20.",
+            "nl": "From Breitenstein station the R 91 takes about 8 minutes back up to Semmering and about 20 minutes down to Payerbach.",
+            "pl": "From Breitenstein station the R 91 takes about 8 minutes back up to Semmering and about 20 minutes down to Payerbach.",
+            "cs": "From Breitenstein station the R 91 takes about 8 minutes back up to Semmering and about 20 minutes down to Payerbach.",
+            "sk": "From Breitenstein station the R 91 takes about 8 minutes back up to Semmering and about 20 minutes down to Payerbach.",
+            "ro": "From Breitenstein station the R 91 takes about 8 minutes back up to Semmering and about 20 minutes down to Payerbach.",
+            "hu": "From Breitenstein station the R 91 takes about 8 minutes back up to Semmering and about 20 minutes down to Payerbach.",
+            "da": "From Breitenstein station the R 91 takes about 8 minutes back up to Semmering and about 20 minutes down to Payerbach."
+          },
+          "title": {
+            "en": "Back from Breitenstein",
+            "de": "Zurück ab Breitenstein",
+            "fr": "Retour de Breitenstein",
+            "it": "Ritorno da Breitenstein",
+            "nl": "Back from Breitenstein",
+            "pl": "Back from Breitenstein",
+            "cs": "Back from Breitenstein",
+            "sk": "Back from Breitenstein",
+            "ro": "Back from Breitenstein",
+            "hu": "Back from Breitenstein",
+            "da": "Back from Breitenstein"
+          }
+        },
+        {
+          "icon": "car",
+          "text": {
+            "en": "There is free parking at Semmering station.",
+            "de": "Am Bahnhof Semmering gibt es kostenlose Parkplätze.",
+            "fr": "Le parking de la gare de Semmering est gratuit.",
+            "it": "Alla stazione di Semmering c'è un parcheggio gratuito.",
+            "nl": "There is free parking at Semmering station.",
+            "pl": "There is free parking at Semmering station.",
+            "cs": "There is free parking at Semmering station.",
+            "sk": "There is free parking at Semmering station.",
+            "ro": "There is free parking at Semmering station.",
+            "hu": "There is free parking at Semmering station.",
+            "da": "There is free parking at Semmering station."
+          },
+          "title": {
+            "en": "By car",
+            "de": "Mit dem Auto",
+            "fr": "En voiture",
+            "it": "In auto",
+            "nl": "By car",
+            "pl": "By car",
+            "cs": "By car",
+            "sk": "By car",
+            "ro": "By car",
+            "hu": "By car",
+            "da": "By car"
+          }
+        }
+      ],
+      "title": {
+        "en": "By train from Vienna",
+        "de": "Mit dem Zug aus Wien",
+        "fr": "En train depuis Vienne",
+        "it": "In treno da Vienna",
+        "nl": "By train from Vienna",
+        "pl": "By train from Vienna",
+        "cs": "By train from Vienna",
+        "sk": "By train from Vienna",
+        "ro": "By train from Vienna",
+        "hu": "By train from Vienna",
+        "da": "By train from Vienna"
+      }
+    },
+    {
+      "id": "season",
+      "text": {
+        "en": "The trail is walked only when there is no snow. The Ghega museum and the Information Center at Semmering station close at the end of October, and the Rax cable car stops from 16 November to 4 December.",
+        "de": "Der Weg wird nur begangen, wenn kein Schnee liegt. Das Ghega-Museum und das Information Center am Bahnhof Semmering schließen Ende Oktober, die Raxseilbahn steht vom 16. November bis 4. Dezember still.",
+        "fr": "Le sentier ne se parcourt que hors neige. Le musée Ghega et l'Information Center de la gare de Semmering ferment fin octobre, et le téléphérique du Rax s'arrête du 16 novembre au 4 décembre.",
+        "it": "Il sentiero si percorre solo quando non c'è neve. Il museo Ghega e l'Information Center alla stazione di Semmering chiudono a fine ottobre, e la funivia della Rax si ferma dal 16 novembre al 4 dicembre.",
+        "nl": "The trail is walked only when there is no snow. The Ghega museum and the Information Center at Semmering station close at the end of October, and the Rax cable car stops from 16 November to 4 December.",
+        "pl": "The trail is walked only when there is no snow. The Ghega museum and the Information Center at Semmering station close at the end of October, and the Rax cable car stops from 16 November to 4 December.",
+        "cs": "The trail is walked only when there is no snow. The Ghega museum and the Information Center at Semmering station close at the end of October, and the Rax cable car stops from 16 November to 4 December.",
+        "sk": "The trail is walked only when there is no snow. The Ghega museum and the Information Center at Semmering station close at the end of October, and the Rax cable car stops from 16 November to 4 December.",
+        "ro": "The trail is walked only when there is no snow. The Ghega museum and the Information Center at Semmering station close at the end of October, and the Rax cable car stops from 16 November to 4 December.",
+        "hu": "The trail is walked only when there is no snow. The Ghega museum and the Information Center at Semmering station close at the end of October, and the Rax cable car stops from 16 November to 4 December.",
+        "da": "The trail is walked only when there is no snow. The Ghega museum and the Information Center at Semmering station close at the end of October, and the Rax cable car stops from 16 November to 4 December."
+      },
+      "type": "note"
+    },
+    {
+      "id": "afterwards",
+      "type": "text",
+      "label": {
+        "en": "Afterwards",
+        "de": "Danach",
+        "fr": "Ensuite",
+        "it": "Dopo la camminata",
+        "nl": "Afterwards",
+        "pl": "Afterwards",
+        "cs": "Afterwards",
+        "sk": "Afterwards",
+        "ro": "Afterwards",
+        "hu": "Afterwards",
+        "da": "Afterwards"
+      },
+      "title": {
+        "en": "The Rax cable car",
+        "de": "Die Raxseilbahn",
+        "fr": "Le téléphérique du Rax",
+        "it": "La funivia della Rax",
+        "nl": "The Rax cable car",
+        "pl": "The Rax cable car",
+        "cs": "The Rax cable car",
+        "sk": "The Rax cable car",
+        "ro": "The Rax cable car",
+        "hu": "The Rax cable car",
+        "da": "The Rax cable car"
+      },
+      "visual": {
+        "type": "stamp",
+        "stamp": {
+          "name": {
+            "en": "Rax Cable Car, 100th Anniversary",
+            "de": "Raxseilbahn, 100 Jahre",
+            "fr": "Téléphérique du Rax, centenaire",
+            "it": "Funivia della Rax, 100° anniversario",
+            "nl": "Rax Cable Car, 100th Anniversary",
+            "pl": "Rax Cable Car, 100th Anniversary",
+            "cs": "Rax Cable Car, 100th Anniversary",
+            "sk": "Rax Cable Car, 100th Anniversary",
+            "ro": "Rax Cable Car, 100th Anniversary",
+            "hu": "Rax Cable Car, 100th Anniversary",
+            "da": "Rax Cable Car, 100th Anniversary"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/46e8712755fdbb3e/sm-stamp-rax.png",
+            "width": 1024,
+            "height": 1021
+          },
+          "country": "AT",
+          "stamp_id": "SIQ-AT-2026-179"
+        }
+      },
+      "buttons": [],
+      "paragraphs": [
+        {
+          "en": "From Payerbach-Reichenau, bus 341 takes 13 minutes to the valley station of the Rax cable car in Hirschwang. The cable car opened on 9 June 1926, and the operator calls it Austria's first aerial cableway for passengers. The ride up takes about eight minutes, and a stamp of 2026 marks its hundredth year with an old cabin on the cables. It runs daily until 25 October from 8:30 to 17:00, and until 15 November to 16:30.",
+          "de": "Von Payerbach-Reichenau fährt der Bus 341 in 13 Minuten zur Talstation der Raxseilbahn in Hirschwang. Die Seilbahn wurde am 9. Juni 1926 eröffnet, der Betreiber nennt sie die erste Personenseilbahn Österreichs. Die Fahrt hinauf dauert etwa acht Minuten, und eine Marke von 2026 zeigt zum hundertsten Jahr eine alte Kabine am Seil. Gefahren wird täglich bis 25. Oktober von 8:30 bis 17:00 Uhr, bis 15. November bis 16:30 Uhr.",
+          "fr": "De Payerbach-Reichenau, le bus 341 met 13 minutes pour rejoindre la station de départ du téléphérique du Rax, à Hirschwang. Le téléphérique a été inauguré le 9 juin 1926 et l'exploitant le présente comme le premier téléphérique autrichien pour voyageurs. La montée dure environ huit minutes, et un timbre de 2026 marque ses cent ans avec une ancienne cabine sur les câbles. Il circule tous les jours de 8h30 à 17h00 jusqu'au 25 octobre, puis jusqu'à 16h30 jusqu'au 15 novembre.",
+          "it": "Da Payerbach-Reichenau l'autobus 341 impiega 13 minuti per arrivare alla stazione a valle della funivia della Rax, a Hirschwang. La funivia fu inaugurata il 9 giugno 1926 e il gestore la definisce la prima funivia austriaca per il trasporto di persone. La salita dura circa otto minuti e un francobollo del 2026 ricorda i suoi cento anni con una vecchia cabina appesa ai cavi. È in funzione tutti i giorni dalle 8:30 alle 17:00 fino al 25 ottobre e fino alle 16:30 fino al 15 novembre.",
+          "nl": "From Payerbach-Reichenau, bus 341 takes 13 minutes to the valley station of the Rax cable car in Hirschwang. The cable car opened on 9 June 1926, and the operator calls it Austria's first aerial cableway for passengers. The ride up takes about eight minutes, and a stamp of 2026 marks its hundredth year with an old cabin on the cables. It runs daily until 25 October from 8:30 to 17:00, and until 15 November to 16:30.",
+          "pl": "From Payerbach-Reichenau, bus 341 takes 13 minutes to the valley station of the Rax cable car in Hirschwang. The cable car opened on 9 June 1926, and the operator calls it Austria's first aerial cableway for passengers. The ride up takes about eight minutes, and a stamp of 2026 marks its hundredth year with an old cabin on the cables. It runs daily until 25 October from 8:30 to 17:00, and until 15 November to 16:30.",
+          "cs": "From Payerbach-Reichenau, bus 341 takes 13 minutes to the valley station of the Rax cable car in Hirschwang. The cable car opened on 9 June 1926, and the operator calls it Austria's first aerial cableway for passengers. The ride up takes about eight minutes, and a stamp of 2026 marks its hundredth year with an old cabin on the cables. It runs daily until 25 October from 8:30 to 17:00, and until 15 November to 16:30.",
+          "sk": "From Payerbach-Reichenau, bus 341 takes 13 minutes to the valley station of the Rax cable car in Hirschwang. The cable car opened on 9 June 1926, and the operator calls it Austria's first aerial cableway for passengers. The ride up takes about eight minutes, and a stamp of 2026 marks its hundredth year with an old cabin on the cables. It runs daily until 25 October from 8:30 to 17:00, and until 15 November to 16:30.",
+          "ro": "From Payerbach-Reichenau, bus 341 takes 13 minutes to the valley station of the Rax cable car in Hirschwang. The cable car opened on 9 June 1926, and the operator calls it Austria's first aerial cableway for passengers. The ride up takes about eight minutes, and a stamp of 2026 marks its hundredth year with an old cabin on the cables. It runs daily until 25 October from 8:30 to 17:00, and until 15 November to 16:30.",
+          "hu": "From Payerbach-Reichenau, bus 341 takes 13 minutes to the valley station of the Rax cable car in Hirschwang. The cable car opened on 9 June 1926, and the operator calls it Austria's first aerial cableway for passengers. The ride up takes about eight minutes, and a stamp of 2026 marks its hundredth year with an old cabin on the cables. It runs daily until 25 October from 8:30 to 17:00, and until 15 November to 16:30.",
+          "da": "From Payerbach-Reichenau, bus 341 takes 13 minutes to the valley station of the Rax cable car in Hirschwang. The cable car opened on 9 June 1926, and the operator calls it Austria's first aerial cableway for passengers. The ride up takes about eight minutes, and a stamp of 2026 marks its hundredth year with an old cabin on the cables. It runs daily until 25 October from 8:30 to 17:00, and until 15 November to 16:30."
+        },
+        {
+          "en": "With the \"Transport\" filter cleared, the map shows more pins around the pass: the Südbahnhotel on a stamp of 2018, the 1952 Ghega stamp, and towards Puchberg the rack railway up the Schneeberg, on a stamp of 1997 and three of 2025. The Schneebergbahn runs to the summit until 1 November. The badge on each stamp shows which are already in your album.",
+          "de": "Ohne den Filter „Verkehr“ zeigt die Karte weitere Punkte rund um den Pass: das Südbahnhotel auf einer Marke von 2018, die Ghega-Marke von 1952 und Richtung Puchberg die Zahnradbahn auf den Schneeberg, auf einer Marke von 1997 und drei von 2025. Die Schneebergbahn fährt bis 1. November auf den Gipfel. Die Markierung an jeder Marke zeigt dir, welche schon in deinem Album sind.",
+          "fr": "Une fois le filtre « Transport » retiré, la carte montre d'autres points autour du col : le Südbahnhotel sur un timbre de 2018, le timbre Ghega de 1952, et vers Puchberg le chemin de fer à crémaillère du Schneeberg, sur un timbre de 1997 et trois de 2025. La Schneebergbahn monte au sommet jusqu'au 1er novembre. Le badge de chaque timbre indique ceux qui sont déjà dans ton album.",
+          "it": "Tolto il filtro \"Trasporto\", la Mappa mostra altri segnaposto intorno al passo: il Südbahnhotel su un francobollo del 2018, il francobollo di Ghega del 1952 e, verso Puchberg, la ferrovia a cremagliera dello Schneeberg, su un francobollo del 1997 e su tre del 2025. La Schneebergbahn sale in vetta fino al 1° novembre. Il contrassegno su ogni francobollo mostra quali hai già nell'album.",
+          "nl": "With the \"Transport\" filter cleared, the map shows more pins around the pass: the Südbahnhotel on a stamp of 2018, the 1952 Ghega stamp, and towards Puchberg the rack railway up the Schneeberg, on a stamp of 1997 and three of 2025. The Schneebergbahn runs to the summit until 1 November. The badge on each stamp shows which are already in your album.",
+          "pl": "With the \"Transport\" filter cleared, the map shows more pins around the pass: the Südbahnhotel on a stamp of 2018, the 1952 Ghega stamp, and towards Puchberg the rack railway up the Schneeberg, on a stamp of 1997 and three of 2025. The Schneebergbahn runs to the summit until 1 November. The badge on each stamp shows which are already in your album.",
+          "cs": "With the \"Transport\" filter cleared, the map shows more pins around the pass: the Südbahnhotel on a stamp of 2018, the 1952 Ghega stamp, and towards Puchberg the rack railway up the Schneeberg, on a stamp of 1997 and three of 2025. The Schneebergbahn runs to the summit until 1 November. The badge on each stamp shows which are already in your album.",
+          "sk": "With the \"Transport\" filter cleared, the map shows more pins around the pass: the Südbahnhotel on a stamp of 2018, the 1952 Ghega stamp, and towards Puchberg the rack railway up the Schneeberg, on a stamp of 1997 and three of 2025. The Schneebergbahn runs to the summit until 1 November. The badge on each stamp shows which are already in your album.",
+          "ro": "With the \"Transport\" filter cleared, the map shows more pins around the pass: the Südbahnhotel on a stamp of 2018, the 1952 Ghega stamp, and towards Puchberg the rack railway up the Schneeberg, on a stamp of 1997 and three of 2025. The Schneebergbahn runs to the summit until 1 November. The badge on each stamp shows which are already in your album.",
+          "hu": "With the \"Transport\" filter cleared, the map shows more pins around the pass: the Südbahnhotel on a stamp of 2018, the 1952 Ghega stamp, and towards Puchberg the rack railway up the Schneeberg, on a stamp of 1997 and three of 2025. The Schneebergbahn runs to the summit until 1 November. The badge on each stamp shows which are already in your album.",
+          "da": "With the \"Transport\" filter cleared, the map shows more pins around the pass: the Südbahnhotel on a stamp of 2018, the 1952 Ghega stamp, and towards Puchberg the rack railway up the Schneeberg, on a stamp of 1997 and three of 2025. The Schneebergbahn runs to the summit until 1 November. The badge on each stamp shows which are already in your album."
+        }
+      ]
+    }
+  ]
+}

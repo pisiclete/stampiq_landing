@@ -1,0 +1,1505 @@
+{
+  "category": "new-issues",
+  "markets": [
+    "CH",
+    "LI",
+    "DE",
+    "AT"
+  ],
+  "langs": [
+    "en",
+    "de",
+    "fr",
+    "it"
+  ],
+  "published_at": "2026-10-05T08:00:00+00:00",
+  "thumbnail": {
+    "src": "https://assets.stampiq.io/blog/c1bcc656aab7c311/ch-new-issues-2026-11-card.png",
+    "width": 1920,
+    "height": 960
+  },
+  "languages": {
+    "en": {
+      "slug": "swiss-post-new-stamps-november-2026",
+      "title": "New Swiss stamps for 5 November 2026",
+      "description": "Swiss Post issues its November stamps on 5 November 2026, and you can pre-order them now."
+    },
+    "de": {
+      "slug": "neue-schweizer-briefmarken-november-2026",
+      "title": "Neue Schweizer Briefmarken für den 5. November 2026",
+      "description": "Die Post gibt ihre Novembermarken am 5. November 2026 heraus. Vorbestellen kannst du sie schon jetzt."
+    },
+    "fr": {
+      "slug": "nouveaux-timbres-suisses-novembre-2026",
+      "title": "Nouveaux timbres suisses du 5 novembre 2026",
+      "description": "La Poste suisse émet ses timbres de novembre le 5 novembre 2026, et tu peux déjà les précommander."
+    },
+    "it": {
+      "slug": "nuovi-francobolli-svizzeri-novembre-2026",
+      "title": "Nuovi francobolli svizzeri dal 5 novembre 2026",
+      "description": "Il 5 novembre 2026 la Posta Svizzera emette i francobolli di novembre, e puoi già prenotarli ora."
+    },
+    "nl": {
+      "slug": "swiss-post-new-stamps-november-2026",
+      "title": "New Swiss stamps for 5 November 2026",
+      "description": "Swiss Post issues its November stamps on 5 November 2026, and you can pre-order them now."
+    },
+    "pl": {
+      "slug": "swiss-post-new-stamps-november-2026",
+      "title": "New Swiss stamps for 5 November 2026",
+      "description": "Swiss Post issues its November stamps on 5 November 2026, and you can pre-order them now."
+    },
+    "cs": {
+      "slug": "swiss-post-new-stamps-november-2026",
+      "title": "New Swiss stamps for 5 November 2026",
+      "description": "Swiss Post issues its November stamps on 5 November 2026, and you can pre-order them now."
+    },
+    "sk": {
+      "slug": "swiss-post-new-stamps-november-2026",
+      "title": "New Swiss stamps for 5 November 2026",
+      "description": "Swiss Post issues its November stamps on 5 November 2026, and you can pre-order them now."
+    },
+    "ro": {
+      "slug": "swiss-post-new-stamps-november-2026",
+      "title": "New Swiss stamps for 5 November 2026",
+      "description": "Swiss Post issues its November stamps on 5 November 2026, and you can pre-order them now."
+    },
+    "hu": {
+      "slug": "swiss-post-new-stamps-november-2026",
+      "title": "New Swiss stamps for 5 November 2026",
+      "description": "Swiss Post issues its November stamps on 5 November 2026, and you can pre-order them now."
+    },
+    "da": {
+      "slug": "swiss-post-new-stamps-november-2026",
+      "title": "New Swiss stamps for 5 November 2026",
+      "description": "Swiss Post issues its November stamps on 5 November 2026, and you can pre-order them now."
+    }
+  },
+  "header": {
+    "lead": {
+      "en": "On 5 November 2026 Swiss Post issues its November stamps. Swiss Post Philatelie sells them from 29 October, and you can pre-order them in the Swiss Post shop now.",
+      "de": "Am 5. November 2026 gibt die Post ihre Novembermarken heraus. Die Post-Philatelie verkauft sie ab dem 29. Oktober, und im Shop der Post kannst du sie jetzt schon vorbestellen.",
+      "fr": "Le 5 novembre 2026, la Poste suisse émet ses timbres de novembre. La Philatélie de la Poste les vend dès le 29 octobre, et tu peux déjà les précommander dans la boutique de la Poste.",
+      "it": "Il 5 novembre 2026 la Posta Svizzera emette i francobolli di novembre. Filatelia della Posta li vende dal 29 ottobre e nello shop della Posta puoi già prenotarli.",
+      "nl": "On 5 November 2026 Swiss Post issues its November stamps. Swiss Post Philatelie sells them from 29 October, and you can pre-order them in the Swiss Post shop now.",
+      "pl": "On 5 November 2026 Swiss Post issues its November stamps. Swiss Post Philatelie sells them from 29 October, and you can pre-order them in the Swiss Post shop now.",
+      "cs": "On 5 November 2026 Swiss Post issues its November stamps. Swiss Post Philatelie sells them from 29 October, and you can pre-order them in the Swiss Post shop now.",
+      "sk": "On 5 November 2026 Swiss Post issues its November stamps. Swiss Post Philatelie sells them from 29 October, and you can pre-order them in the Swiss Post shop now.",
+      "ro": "On 5 November 2026 Swiss Post issues its November stamps. Swiss Post Philatelie sells them from 29 October, and you can pre-order them in the Swiss Post shop now.",
+      "hu": "On 5 November 2026 Swiss Post issues its November stamps. Swiss Post Philatelie sells them from 29 October, and you can pre-order them in the Swiss Post shop now.",
+      "da": "On 5 November 2026 Swiss Post issues its November stamps. Swiss Post Philatelie sells them from 29 October, and you can pre-order them in the Swiss Post shop now."
+    },
+    "visual": {
+      "type": "stamp-fan",
+      "stamps": [
+        {
+          "name": {
+            "en": "Heidi Bucher, 1.20",
+            "de": "Heidi Bucher, 1.20",
+            "fr": "Heidi Bucher, 1.20",
+            "it": "Heidi Bucher, 1.20",
+            "nl": "Heidi Bucher, 1.20",
+            "pl": "Heidi Bucher, 1.20",
+            "cs": "Heidi Bucher, 1.20",
+            "sk": "Heidi Bucher, 1.20",
+            "ro": "Heidi Bucher, 1.20",
+            "hu": "Heidi Bucher, 1.20",
+            "da": "Heidi Bucher, 1.20"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/19734a9e30294a03/ch-2026-heidi-bucher-single.png",
+            "width": 1129,
+            "height": 917
+          },
+          "country": "CH",
+          "stamp_id": "ch-post-894093"
+        },
+        {
+          "name": {
+            "en": "Appenzeller Barthuhn, 2.75",
+            "de": "Appenzeller Barthuhn, 2.75",
+            "fr": "Appenzeller Barthuhn, 2.75",
+            "it": "Appenzeller Barthuhn, 2.75",
+            "nl": "Appenzeller Barthuhn, 2.75",
+            "pl": "Appenzeller Barthuhn, 2.75",
+            "cs": "Appenzeller Barthuhn, 2.75",
+            "sk": "Appenzeller Barthuhn, 2.75",
+            "ro": "Appenzeller Barthuhn, 2.75",
+            "hu": "Appenzeller Barthuhn, 2.75",
+            "da": "Appenzeller Barthuhn, 2.75"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/5945982337e6f7ad/ch-2026-barthuhn.png",
+            "width": 373,
+            "height": 439
+          },
+          "country": "CH",
+          "stamp_id": "ch-post-894089"
+        },
+        {
+          "name": {
+            "en": "Pro Juventute «Entdecken», 1.20+0.60",
+            "de": "Pro Juventute „Entdecken“, 1.20+0.60",
+            "fr": "Pro Juventute « Entdecken », 1.20+0.60",
+            "it": "Pro Juventute \"Entdecken\", 1.20+0.60",
+            "nl": "Pro Juventute «Entdecken», 1.20+0.60",
+            "pl": "Pro Juventute «Entdecken», 1.20+0.60",
+            "cs": "Pro Juventute «Entdecken», 1.20+0.60",
+            "sk": "Pro Juventute «Entdecken», 1.20+0.60",
+            "ro": "Pro Juventute «Entdecken», 1.20+0.60",
+            "hu": "Pro Juventute «Entdecken», 1.20+0.60",
+            "da": "Pro Juventute «Entdecken», 1.20+0.60"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/70f05651042e7440/ch-2026-entdecken.png",
+            "width": 563,
+            "height": 670
+          },
+          "country": "CH",
+          "stamp_id": "ch-post-893577"
+        },
+        {
+          "name": {
+            "en": "Christmas post, 1.20",
+            "de": "Weihnachtspost, 1.20",
+            "fr": "Poste de Noël, 1.20",
+            "it": "Posta natalizia, 1.20",
+            "nl": "Christmas post, 1.20",
+            "pl": "Christmas post, 1.20",
+            "cs": "Christmas post, 1.20",
+            "sk": "Christmas post, 1.20",
+            "ro": "Christmas post, 1.20",
+            "hu": "Christmas post, 1.20",
+            "da": "Christmas post, 1.20"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/1428abb2f614dfba/ch-2026-weihnachtspost.png",
+            "width": 564,
+            "height": 478
+          },
+          "country": "CH",
+          "stamp_id": "ch-post-893516"
+        }
+      ]
+    },
+    "date_label": {
+      "en": "5 November 2026",
+      "de": "5. November 2026",
+      "fr": "5 novembre 2026",
+      "it": "5 novembre 2026",
+      "nl": "5 November 2026",
+      "pl": "5 November 2026",
+      "cs": "5 November 2026",
+      "sk": "5 November 2026",
+      "ro": "5 November 2026",
+      "hu": "5 November 2026",
+      "da": "5 November 2026"
+    }
+  },
+  "blocks": [
+    {
+      "id": "issue-day",
+      "type": "text",
+      "label": {
+        "en": "Before you order",
+        "de": "Vor der Bestellung",
+        "fr": "Avant de commander",
+        "it": "Prima di ordinare",
+        "nl": "Before you order",
+        "pl": "Before you order",
+        "cs": "Before you order",
+        "sk": "Before you order",
+        "ro": "Before you order",
+        "hu": "Before you order",
+        "da": "Before you order"
+      },
+      "title": {
+        "en": "Pre-orders and the 2027 rates",
+        "de": "Vorbestellung und die Tarife 2027",
+        "fr": "Précommandes et tarifs 2027",
+        "it": "Prenotazioni e tariffe 2027",
+        "nl": "Pre-orders and the 2027 rates",
+        "pl": "Pre-orders and the 2027 rates",
+        "cs": "Pre-orders and the 2027 rates",
+        "sk": "Pre-orders and the 2027 rates",
+        "ro": "Pre-orders and the 2027 rates",
+        "hu": "Pre-orders and the 2027 rates",
+        "da": "Pre-orders and the 2027 rates"
+      },
+      "paragraphs": [
+        {
+          "en": "Swiss Post already takes orders for its November stamps, and they are valid for postage from 5 November. Most issues are sold as single stamps or sets, in blocks of four and in sheets of 10, and the farm animals also come as a souvenir sheet with the stamps in foil pockets.",
+          "de": "Die Post nimmt für ihre Novembermarken schon Bestellungen an, frankieren kannst du damit ab dem 5. November. Die meisten Ausgaben gibt es als Einzelmarke oder als Satz, im Viererblock und im Bogen zu 10 Marken, die Nutztiere zusätzlich als Souvenir mit den Marken in Folientaschen.",
+          "fr": "La Poste suisse accepte déjà les commandes pour ses timbres de novembre, valables pour l’affranchissement dès le 5 novembre. La plupart des émissions existent en timbres isolés ou en séries, en blocs de quatre et en feuilles de 10. Les animaux de ferme sont en plus proposés en feuillet souvenir, avec les timbres sous pochettes en film.",
+          "it": "La Posta accetta già gli ordini per i francobolli di novembre, che valgono per l'affrancatura dal 5 novembre. Quasi tutte le emissioni sono in vendita come francobolli singoli o in serie, in quartine e in fogli da 10; gli animali da reddito escono anche in un foglietto ricordo, con i francobolli in taschine di pellicola.",
+          "nl": "Swiss Post already takes orders for its November stamps, and they are valid for postage from 5 November. Most issues are sold as single stamps or sets, in blocks of four and in sheets of 10, and the farm animals also come as a souvenir sheet with the stamps in foil pockets.",
+          "pl": "Swiss Post already takes orders for its November stamps, and they are valid for postage from 5 November. Most issues are sold as single stamps or sets, in blocks of four and in sheets of 10, and the farm animals also come as a souvenir sheet with the stamps in foil pockets.",
+          "cs": "Swiss Post already takes orders for its November stamps, and they are valid for postage from 5 November. Most issues are sold as single stamps or sets, in blocks of four and in sheets of 10, and the farm animals also come as a souvenir sheet with the stamps in foil pockets.",
+          "sk": "Swiss Post already takes orders for its November stamps, and they are valid for postage from 5 November. Most issues are sold as single stamps or sets, in blocks of four and in sheets of 10, and the farm animals also come as a souvenir sheet with the stamps in foil pockets.",
+          "ro": "Swiss Post already takes orders for its November stamps, and they are valid for postage from 5 November. Most issues are sold as single stamps or sets, in blocks of four and in sheets of 10, and the farm animals also come as a souvenir sheet with the stamps in foil pockets.",
+          "hu": "Swiss Post already takes orders for its November stamps, and they are valid for postage from 5 November. Most issues are sold as single stamps or sets, in blocks of four and in sheets of 10, and the farm animals also come as a souvenir sheet with the stamps in foil pockets.",
+          "da": "Swiss Post already takes orders for its November stamps, and they are valid for postage from 5 November. Most issues are sold as single stamps or sets, in blocks of four and in sheets of 10, and the farm animals also come as a souvenir sheet with the stamps in foil pockets."
+        },
+        {
+          "en": "The five animal stamps already carry the postal rates for 2027. In 2027, 1.10 pays for a B-Post letter, 1.40 for an A-Post letter and 2.75 for an A-Post large letter.",
+          "de": "Die fünf Tiermarken tragen bereits die Posttarife für 2027. Dann kostet ein B-Post-Brief 1.10, ein A-Post-Brief 1.40 und ein A-Post-Großbrief 2.75.",
+          "fr": "Les cinq timbres consacrés aux animaux reprennent déjà les tarifs postaux de 2027. En 2027, 1.10 affranchit une lettre Courrier B, 1.40 une lettre Courrier A et 2.75 une grande lettre Courrier A.",
+          "it": "I cinque francobolli con gli animali portano già le tariffe postali del 2027. Nel 2027 con 1.10 si affranca una lettera Posta B, con 1.40 una lettera Posta A e con 2.75 una lettera grande formato Posta A.",
+          "nl": "The five animal stamps already carry the postal rates for 2027. In 2027, 1.10 pays for a B-Post letter, 1.40 for an A-Post letter and 2.75 for an A-Post large letter.",
+          "pl": "The five animal stamps already carry the postal rates for 2027. In 2027, 1.10 pays for a B-Post letter, 1.40 for an A-Post letter and 2.75 for an A-Post large letter.",
+          "cs": "The five animal stamps already carry the postal rates for 2027. In 2027, 1.10 pays for a B-Post letter, 1.40 for an A-Post letter and 2.75 for an A-Post large letter.",
+          "sk": "The five animal stamps already carry the postal rates for 2027. In 2027, 1.10 pays for a B-Post letter, 1.40 for an A-Post letter and 2.75 for an A-Post large letter.",
+          "ro": "The five animal stamps already carry the postal rates for 2027. In 2027, 1.10 pays for a B-Post letter, 1.40 for an A-Post letter and 2.75 for an A-Post large letter.",
+          "hu": "The five animal stamps already carry the postal rates for 2027. In 2027, 1.10 pays for a B-Post letter, 1.40 for an A-Post letter and 2.75 for an A-Post large letter.",
+          "da": "The five animal stamps already carry the postal rates for 2027. In 2027, 1.10 pays for a B-Post letter, 1.40 for an A-Post letter and 2.75 for an A-Post large letter."
+        }
+      ]
+    },
+    {
+      "id": "heidi-bucher",
+      "date": {
+        "en": "5 November 2026",
+        "de": "5. November 2026",
+        "fr": "5 novembre 2026",
+        "it": "5 novembre 2026",
+        "nl": "5 November 2026",
+        "pl": "5 November 2026",
+        "cs": "5 November 2026",
+        "sk": "5 November 2026",
+        "ro": "5 November 2026",
+        "hu": "5 November 2026",
+        "da": "5 November 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Heidi Bucher, 1.20",
+          "de": "Heidi Bucher, 1.20",
+          "fr": "Heidi Bucher, 1.20",
+          "it": "Heidi Bucher, 1.20",
+          "nl": "Heidi Bucher, 1.20",
+          "pl": "Heidi Bucher, 1.20",
+          "cs": "Heidi Bucher, 1.20",
+          "sk": "Heidi Bucher, 1.20",
+          "ro": "Heidi Bucher, 1.20",
+          "hu": "Heidi Bucher, 1.20",
+          "da": "Heidi Bucher, 1.20"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/19734a9e30294a03/ch-2026-heidi-bucher-single.png",
+          "width": 1129,
+          "height": 917
+        },
+        "country": "CH",
+        "stamp_id": "ch-post-894093"
+      },
+      "title": {
+        "en": "Heidi Bucher and her flying skin room",
+        "de": "Heidi Bucher und der Fliegende Hautraum",
+        "fr": "Heidi Bucher et sa chambre de peau volante",
+        "it": "Heidi Bucher e la stanza di pelle volante",
+        "nl": "Heidi Bucher and her flying skin room",
+        "pl": "Heidi Bucher and her flying skin room",
+        "cs": "Heidi Bucher and her flying skin room",
+        "sk": "Heidi Bucher and her flying skin room",
+        "ro": "Heidi Bucher and her flying skin room",
+        "hu": "Heidi Bucher and her flying skin room",
+        "da": "Heidi Bucher and her flying skin room"
+      },
+      "formats": [
+        {
+          "value": "CHF 1.20",
+          "format": {
+            "en": "Single stamp",
+            "de": "Einzelmarke",
+            "fr": "Timbre isolé",
+            "it": "Francobollo singolo",
+            "nl": "Single stamp",
+            "pl": "Single stamp",
+            "cs": "Single stamp",
+            "sk": "Single stamp",
+            "ro": "Single stamp",
+            "hu": "Single stamp",
+            "da": "Single stamp"
+          }
+        },
+        {
+          "value": "CHF 4.80",
+          "format": {
+            "en": "Block of four",
+            "de": "Viererblock",
+            "fr": "Bloc de quatre",
+            "it": "Quartina",
+            "nl": "Block of four",
+            "pl": "Block of four",
+            "cs": "Block of four",
+            "sk": "Block of four",
+            "ro": "Block of four",
+            "hu": "Block of four",
+            "da": "Block of four"
+          }
+        },
+        {
+          "value": "CHF 12.00",
+          "format": {
+            "en": "Miniature sheet of 10",
+            "de": "Kleinbogen zu 10 Marken",
+            "fr": "Petite feuille de 10",
+            "it": "Minifoglio da 10",
+            "nl": "Miniature sheet of 10",
+            "pl": "Miniature sheet of 10",
+            "cs": "Miniature sheet of 10",
+            "sk": "Miniature sheet of 10",
+            "ro": "Miniature sheet of 10",
+            "hu": "Miniature sheet of 10",
+            "da": "Miniature sheet of 10"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "Heidi Bucher was born in Winterthur in 1926 and died in 1993. The stamp shows «Fliegender Hautraum», which she made in 1981 at her grandparents' house in Winterthur. She covered whole rooms with liquid latex and fabric, let the layers dry and pulled them off the walls like a skin.",
+          "de": "Heidi Bucher wurde 1926 in Winterthur geboren und starb 1993. Die Marke zeigt „Fliegender Hautraum“, entstanden 1981 im Haus ihrer Großeltern in Winterthur. Sie überzog ganze Räume mit flüssigem Latex und Stoff, ließ die Schichten trocknen und zog sie wie eine Haut von den Wänden ab.",
+          "fr": "Heidi Bucher est née à Winterthour en 1926 et morte en 1993. Le timbre montre « Fliegender Hautraum », qu’elle a réalisé en 1981 dans la maison de ses grands-parents à Winterthour. Elle recouvrait des pièces entières de latex liquide et de tissu, laissait sécher les couches, puis les détachait des murs comme une peau.",
+          "it": "Heidi Bucher è nata a Winterthur nel 1926 ed è morta nel 1993. Il francobollo riproduce \"Fliegender Hautraum\", che ha realizzato nel 1981 nella casa dei nonni a Winterthur. Ricopriva intere stanze con lattice liquido e tessuto, lasciava asciugare gli strati e poi li staccava dalle pareti come una pelle.",
+          "nl": "Heidi Bucher was born in Winterthur in 1926 and died in 1993. The stamp shows «Fliegender Hautraum», which she made in 1981 at her grandparents' house in Winterthur. She covered whole rooms with liquid latex and fabric, let the layers dry and pulled them off the walls like a skin.",
+          "pl": "Heidi Bucher was born in Winterthur in 1926 and died in 1993. The stamp shows «Fliegender Hautraum», which she made in 1981 at her grandparents' house in Winterthur. She covered whole rooms with liquid latex and fabric, let the layers dry and pulled them off the walls like a skin.",
+          "cs": "Heidi Bucher was born in Winterthur in 1926 and died in 1993. The stamp shows «Fliegender Hautraum», which she made in 1981 at her grandparents' house in Winterthur. She covered whole rooms with liquid latex and fabric, let the layers dry and pulled them off the walls like a skin.",
+          "sk": "Heidi Bucher was born in Winterthur in 1926 and died in 1993. The stamp shows «Fliegender Hautraum», which she made in 1981 at her grandparents' house in Winterthur. She covered whole rooms with liquid latex and fabric, let the layers dry and pulled them off the walls like a skin.",
+          "ro": "Heidi Bucher was born in Winterthur in 1926 and died in 1993. The stamp shows «Fliegender Hautraum», which she made in 1981 at her grandparents' house in Winterthur. She covered whole rooms with liquid latex and fabric, let the layers dry and pulled them off the walls like a skin.",
+          "hu": "Heidi Bucher was born in Winterthur in 1926 and died in 1993. The stamp shows «Fliegender Hautraum», which she made in 1981 at her grandparents' house in Winterthur. She covered whole rooms with liquid latex and fabric, let the layers dry and pulled them off the walls like a skin.",
+          "da": "Heidi Bucher was born in Winterthur in 1926 and died in 1993. The stamp shows «Fliegender Hautraum», which she made in 1981 at her grandparents' house in Winterthur. She covered whole rooms with liquid latex and fabric, let the layers dry and pulled them off the walls like a skin."
+        },
+        {
+          "en": "She studied at the Kunstgewerbeschule in Zürich with Johannes Itten and Max Bill, and she lived in New York and in North America for some years. Wide recognition came only after her death: in 2017 her work was part of the main exhibition of the Venice Biennale, and today it is in MoMA, Tate Modern and the Centre Pompidou.",
+          "de": "Sie studierte an der Kunstgewerbeschule in Zürich bei Johannes Itten und Max Bill und lebte einige Jahre in New York und in Nordamerika. Breite Anerkennung kam erst nach ihrem Tod: 2017 war ihr Werk Teil der Hauptausstellung der Biennale von Venedig, heute ist es im MoMA, in der Tate Modern und im Centre Pompidou zu sehen.",
+          "fr": "Elle a étudié à la Kunstgewerbeschule de Zurich auprès de Johannes Itten et de Max Bill, et elle a vécu quelques années à New York et en Amérique du Nord. Son travail n’a été largement reconnu qu’après sa mort : en 2017, il figurait dans l’exposition principale de la Biennale de Venise, et il se trouve aujourd’hui au MoMA, à la Tate Modern et au Centre Pompidou.",
+          "it": "Ha studiato alla Kunstgewerbeschule di Zurigo con Johannes Itten e Max Bill e ha vissuto alcuni anni a New York e in Nord America. Il grande riconoscimento è arrivato solo dopo la sua morte: nel 2017 le sue opere erano esposte nella mostra principale della Biennale di Venezia, e oggi si trovano al MoMA, alla Tate Modern e al Centre Pompidou.",
+          "nl": "She studied at the Kunstgewerbeschule in Zürich with Johannes Itten and Max Bill, and she lived in New York and in North America for some years. Wide recognition came only after her death: in 2017 her work was part of the main exhibition of the Venice Biennale, and today it is in MoMA, Tate Modern and the Centre Pompidou.",
+          "pl": "She studied at the Kunstgewerbeschule in Zürich with Johannes Itten and Max Bill, and she lived in New York and in North America for some years. Wide recognition came only after her death: in 2017 her work was part of the main exhibition of the Venice Biennale, and today it is in MoMA, Tate Modern and the Centre Pompidou.",
+          "cs": "She studied at the Kunstgewerbeschule in Zürich with Johannes Itten and Max Bill, and she lived in New York and in North America for some years. Wide recognition came only after her death: in 2017 her work was part of the main exhibition of the Venice Biennale, and today it is in MoMA, Tate Modern and the Centre Pompidou.",
+          "sk": "She studied at the Kunstgewerbeschule in Zürich with Johannes Itten and Max Bill, and she lived in New York and in North America for some years. Wide recognition came only after her death: in 2017 her work was part of the main exhibition of the Venice Biennale, and today it is in MoMA, Tate Modern and the Centre Pompidou.",
+          "ro": "She studied at the Kunstgewerbeschule in Zürich with Johannes Itten and Max Bill, and she lived in New York and in North America for some years. Wide recognition came only after her death: in 2017 her work was part of the main exhibition of the Venice Biennale, and today it is in MoMA, Tate Modern and the Centre Pompidou.",
+          "hu": "She studied at the Kunstgewerbeschule in Zürich with Johannes Itten and Max Bill, and she lived in New York and in North America for some years. Wide recognition came only after her death: in 2017 her work was part of the main exhibition of the Venice Biennale, and today it is in MoMA, Tate Modern and the Centre Pompidou.",
+          "da": "She studied at the Kunstgewerbeschule in Zürich with Johannes Itten and Max Bill, and she lived in New York and in North America for some years. Wide recognition came only after her death: in 2017 her work was part of the main exhibition of the Venice Biennale, and today it is in MoMA, Tate Modern and the Centre Pompidou."
+        },
+        {
+          "en": "Her son Mayo Bucher designed the stamp from a photograph by Andreas Schwarber. It is gummed and printed by Cartor in France. The Kunst Museum Winterthur shows her work together with Liesl Raff in the exhibition «Closer» until 8 November.",
+          "de": "Ihr Sohn Mayo Bucher hat die Marke nach einer Fotografie von Andreas Schwarber gestaltet. Sie ist gummiert und wurde bei Cartor in Frankreich gedruckt. Das Kunst Museum Winterthur zeigt ihr Werk noch bis zum 8. November zusammen mit Liesl Raff in der Ausstellung „Closer“.",
+          "fr": "Son fils Mayo Bucher a conçu le timbre d’après une photographie d’Andreas Schwarber. Le timbre est gommé et imprimé par Cartor, en France. Le Kunst Museum Winterthur présente son œuvre avec celle de Liesl Raff dans l’exposition « Closer », jusqu’au 8 novembre.",
+          "it": "Il figlio Mayo Bucher ha disegnato il francobollo partendo da una fotografia di Andreas Schwarber. È gommato e stampato da Cartor, in Francia. Il Kunst Museum Winterthur espone le sue opere insieme a quelle di Liesl Raff nella mostra \"Closer\", fino all'8 novembre.",
+          "nl": "Her son Mayo Bucher designed the stamp from a photograph by Andreas Schwarber. It is gummed and printed by Cartor in France. The Kunst Museum Winterthur shows her work together with Liesl Raff in the exhibition «Closer» until 8 November.",
+          "pl": "Her son Mayo Bucher designed the stamp from a photograph by Andreas Schwarber. It is gummed and printed by Cartor in France. The Kunst Museum Winterthur shows her work together with Liesl Raff in the exhibition «Closer» until 8 November.",
+          "cs": "Her son Mayo Bucher designed the stamp from a photograph by Andreas Schwarber. It is gummed and printed by Cartor in France. The Kunst Museum Winterthur shows her work together with Liesl Raff in the exhibition «Closer» until 8 November.",
+          "sk": "Her son Mayo Bucher designed the stamp from a photograph by Andreas Schwarber. It is gummed and printed by Cartor in France. The Kunst Museum Winterthur shows her work together with Liesl Raff in the exhibition «Closer» until 8 November.",
+          "ro": "Her son Mayo Bucher designed the stamp from a photograph by Andreas Schwarber. It is gummed and printed by Cartor in France. The Kunst Museum Winterthur shows her work together with Liesl Raff in the exhibition «Closer» until 8 November.",
+          "hu": "Her son Mayo Bucher designed the stamp from a photograph by Andreas Schwarber. It is gummed and printed by Cartor in France. The Kunst Museum Winterthur shows her work together with Liesl Raff in the exhibition «Closer» until 8 November.",
+          "da": "Her son Mayo Bucher designed the stamp from a photograph by Andreas Schwarber. It is gummed and printed by Cartor in France. The Kunst Museum Winterthur shows her work together with Liesl Raff in the exhibition «Closer» until 8 November."
+        }
+      ]
+    },
+    {
+      "id": "farm-animals",
+      "date": {
+        "en": "5 November 2026",
+        "de": "5. November 2026",
+        "fr": "5 novembre 2026",
+        "it": "5 novembre 2026",
+        "nl": "5 November 2026",
+        "pl": "5 November 2026",
+        "cs": "5 November 2026",
+        "sk": "5 November 2026",
+        "ro": "5 November 2026",
+        "hu": "5 November 2026",
+        "da": "5 November 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Endangered Swiss farm animals, set",
+          "de": "Gefährdete Schweizer Nutztiere, Satz",
+          "fr": "Animaux de ferme suisses menacés, série",
+          "it": "Animali da reddito svizzeri minacciati, serie",
+          "nl": "Endangered Swiss farm animals, set",
+          "pl": "Endangered Swiss farm animals, set",
+          "cs": "Endangered Swiss farm animals, set",
+          "sk": "Endangered Swiss farm animals, set",
+          "ro": "Endangered Swiss farm animals, set",
+          "hu": "Endangered Swiss farm animals, set",
+          "da": "Endangered Swiss farm animals, set"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/125dfc372702faec/ch-2026-nutztiere-set.png",
+          "width": 1173,
+          "height": 913
+        },
+        "country": "CH",
+        "stamp_id": "ch-post-895330"
+      },
+      "title": {
+        "en": "Endangered Swiss farm animals",
+        "de": "Gefährdete Schweizer Nutztiere",
+        "fr": "Animaux de ferme suisses menacés",
+        "it": "Animali da reddito svizzeri minacciati",
+        "nl": "Endangered Swiss farm animals",
+        "pl": "Endangered Swiss farm animals",
+        "cs": "Endangered Swiss farm animals",
+        "sk": "Endangered Swiss farm animals",
+        "ro": "Endangered Swiss farm animals",
+        "hu": "Endangered Swiss farm animals",
+        "da": "Endangered Swiss farm animals"
+      },
+      "formats": [
+        {
+          "value": "CHF 9.85",
+          "format": {
+            "en": "Set of five",
+            "de": "Satz zu fünf Marken",
+            "fr": "Série de cinq",
+            "it": "Serie di cinque",
+            "nl": "Set of five",
+            "pl": "Set of five",
+            "cs": "Set of five",
+            "sk": "Set of five",
+            "ro": "Set of five",
+            "hu": "Set of five",
+            "da": "Set of five"
+          }
+        },
+        {
+          "value": "CHF 39.40",
+          "format": {
+            "en": "Set in blocks of four",
+            "de": "Satz in Viererblocks",
+            "fr": "Série en blocs de quatre",
+            "it": "Serie in quartine",
+            "nl": "Set in blocks of four",
+            "pl": "Set in blocks of four",
+            "cs": "Set in blocks of four",
+            "sk": "Set in blocks of four",
+            "ro": "Set in blocks of four",
+            "hu": "Set in blocks of four",
+            "da": "Set in blocks of four"
+          }
+        },
+        {
+          "value": "CHF 9.85",
+          "format": {
+            "en": "Souvenir sheet, the five stamps in foil pockets, sold at CHF 19.85",
+            "de": "Souvenir, die fünf Marken in Folientaschen, für CHF 19.85",
+            "fr": "Feuillet souvenir, les cinq timbres sous pochettes en film, vendu à CHF 19.85",
+            "it": "Foglietto ricordo, i cinque francobolli in taschine di pellicola, a CHF 19.85",
+            "nl": "Souvenir sheet, the five stamps in foil pockets, sold at CHF 19.85",
+            "pl": "Souvenir sheet, the five stamps in foil pockets, sold at CHF 19.85",
+            "cs": "Souvenir sheet, the five stamps in foil pockets, sold at CHF 19.85",
+            "sk": "Souvenir sheet, the five stamps in foil pockets, sold at CHF 19.85",
+            "ro": "Souvenir sheet, the five stamps in foil pockets, sold at CHF 19.85",
+            "hu": "Souvenir sheet, the five stamps in foil pockets, sold at CHF 19.85",
+            "da": "Souvenir sheet, the five stamps in foil pockets, sold at CHF 19.85"
+          }
+        },
+        {
+          "value": "CHF 11.00",
+          "format": {
+            "en": "Sheet of 10, Walliser Landschaf",
+            "de": "Bogen zu 10 Marken, Walliser Landschaf",
+            "fr": "Feuille de 10, Walliser Landschaf",
+            "it": "Foglio da 10, Walliser Landschaf",
+            "nl": "Sheet of 10, Walliser Landschaf",
+            "pl": "Sheet of 10, Walliser Landschaf",
+            "cs": "Sheet of 10, Walliser Landschaf",
+            "sk": "Sheet of 10, Walliser Landschaf",
+            "ro": "Sheet of 10, Walliser Landschaf",
+            "hu": "Sheet of 10, Walliser Landschaf",
+            "da": "Sheet of 10, Walliser Landschaf"
+          }
+        },
+        {
+          "value": "CHF 14.00",
+          "format": {
+            "en": "Sheet of 10, Dreifarben-Kleinscheckenkaninchen",
+            "de": "Bogen zu 10 Marken, Dreifarben-Kleinscheckenkaninchen",
+            "fr": "Feuille de 10, Dreifarben-Kleinscheckenkaninchen",
+            "it": "Foglio da 10, Dreifarben-Kleinscheckenkaninchen",
+            "nl": "Sheet of 10, Dreifarben-Kleinscheckenkaninchen",
+            "pl": "Sheet of 10, Dreifarben-Kleinscheckenkaninchen",
+            "cs": "Sheet of 10, Dreifarben-Kleinscheckenkaninchen",
+            "sk": "Sheet of 10, Dreifarben-Kleinscheckenkaninchen",
+            "ro": "Sheet of 10, Dreifarben-Kleinscheckenkaninchen",
+            "hu": "Sheet of 10, Dreifarben-Kleinscheckenkaninchen",
+            "da": "Sheet of 10, Dreifarben-Kleinscheckenkaninchen"
+          }
+        },
+        {
+          "value": "CHF 20.00",
+          "format": {
+            "en": "Sheet of 10, Kupferhalsziege",
+            "de": "Bogen zu 10 Marken, Kupferhalsziege",
+            "fr": "Feuille de 10, Kupferhalsziege",
+            "it": "Foglio da 10, Kupferhalsziege",
+            "nl": "Sheet of 10, Kupferhalsziege",
+            "pl": "Sheet of 10, Kupferhalsziege",
+            "cs": "Sheet of 10, Kupferhalsziege",
+            "sk": "Sheet of 10, Kupferhalsziege",
+            "ro": "Sheet of 10, Kupferhalsziege",
+            "hu": "Sheet of 10, Kupferhalsziege",
+            "da": "Sheet of 10, Kupferhalsziege"
+          }
+        },
+        {
+          "value": "CHF 26.00",
+          "format": {
+            "en": "Sheet of 10, Rätisches Grauvieh",
+            "de": "Bogen zu 10 Marken, Rätisches Grauvieh",
+            "fr": "Feuille de 10, Rätisches Grauvieh",
+            "it": "Foglio da 10, Rätisches Grauvieh",
+            "nl": "Sheet of 10, Rätisches Grauvieh",
+            "pl": "Sheet of 10, Rätisches Grauvieh",
+            "cs": "Sheet of 10, Rätisches Grauvieh",
+            "sk": "Sheet of 10, Rätisches Grauvieh",
+            "ro": "Sheet of 10, Rätisches Grauvieh",
+            "hu": "Sheet of 10, Rätisches Grauvieh",
+            "da": "Sheet of 10, Rätisches Grauvieh"
+          }
+        },
+        {
+          "value": "CHF 27.50",
+          "format": {
+            "en": "Sheet of 10, Appenzeller Barthuhn",
+            "de": "Bogen zu 10 Marken, Appenzeller Barthuhn",
+            "fr": "Feuille de 10, Appenzeller Barthuhn",
+            "it": "Foglio da 10, Appenzeller Barthuhn",
+            "nl": "Sheet of 10, Appenzeller Barthuhn",
+            "pl": "Sheet of 10, Appenzeller Barthuhn",
+            "cs": "Sheet of 10, Appenzeller Barthuhn",
+            "sk": "Sheet of 10, Appenzeller Barthuhn",
+            "ro": "Sheet of 10, Appenzeller Barthuhn",
+            "hu": "Sheet of 10, Appenzeller Barthuhn",
+            "da": "Sheet of 10, Appenzeller Barthuhn"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "Nadja Baltensweiler drew five old Swiss breeds that the foundation ProSpecieRara works to keep: the Walliser Landschaf sheep on the 1.10, the Dreifarben-Kleinscheckenkaninchen rabbit on the 1.40, the Kupferhalsziege goat on the 2.00, the Rätisches Grauvieh cattle on the 2.60 and the Appenzeller Barthuhn chicken on the 2.75.",
+          "de": "Nadja Baltensweiler hat fünf alte Schweizer Rassen gezeichnet, für deren Erhalt sich die Stiftung ProSpecieRara einsetzt: das Walliser Landschaf auf der 1.10, das Dreifarben-Kleinscheckenkaninchen auf der 1.40, die Kupferhalsziege auf der 2.00, das Rätische Grauvieh auf der 2.60 und das Appenzeller Barthuhn auf der 2.75.",
+          "fr": "Nadja Baltensweiler a dessiné cinq anciennes races suisses que la fondation ProSpecieRara aide à préserver : le mouton Walliser Landschaf sur le 1.10, le lapin Dreifarben-Kleinscheckenkaninchen sur le 1.40, la chèvre Kupferhalsziege sur le 2.00, le bovin Rätisches Grauvieh sur le 2.60 et la poule Appenzeller Barthuhn sur le 2.75.",
+          "it": "Nadja Baltensweiler ha disegnato cinque antiche razze svizzere che la fondazione ProSpecieRara aiuta a conservare: la pecora Walliser Landschaf sul valore da 1.10, il coniglio Dreifarben-Kleinscheckenkaninchen su quello da 1.40, la capra Kupferhalsziege sul 2.00, il bovino Rätisches Grauvieh sul 2.60 e la gallina Appenzeller Barthuhn sul 2.75.",
+          "nl": "Nadja Baltensweiler drew five old Swiss breeds that the foundation ProSpecieRara works to keep: the Walliser Landschaf sheep on the 1.10, the Dreifarben-Kleinscheckenkaninchen rabbit on the 1.40, the Kupferhalsziege goat on the 2.00, the Rätisches Grauvieh cattle on the 2.60 and the Appenzeller Barthuhn chicken on the 2.75.",
+          "pl": "Nadja Baltensweiler drew five old Swiss breeds that the foundation ProSpecieRara works to keep: the Walliser Landschaf sheep on the 1.10, the Dreifarben-Kleinscheckenkaninchen rabbit on the 1.40, the Kupferhalsziege goat on the 2.00, the Rätisches Grauvieh cattle on the 2.60 and the Appenzeller Barthuhn chicken on the 2.75.",
+          "cs": "Nadja Baltensweiler drew five old Swiss breeds that the foundation ProSpecieRara works to keep: the Walliser Landschaf sheep on the 1.10, the Dreifarben-Kleinscheckenkaninchen rabbit on the 1.40, the Kupferhalsziege goat on the 2.00, the Rätisches Grauvieh cattle on the 2.60 and the Appenzeller Barthuhn chicken on the 2.75.",
+          "sk": "Nadja Baltensweiler drew five old Swiss breeds that the foundation ProSpecieRara works to keep: the Walliser Landschaf sheep on the 1.10, the Dreifarben-Kleinscheckenkaninchen rabbit on the 1.40, the Kupferhalsziege goat on the 2.00, the Rätisches Grauvieh cattle on the 2.60 and the Appenzeller Barthuhn chicken on the 2.75.",
+          "ro": "Nadja Baltensweiler drew five old Swiss breeds that the foundation ProSpecieRara works to keep: the Walliser Landschaf sheep on the 1.10, the Dreifarben-Kleinscheckenkaninchen rabbit on the 1.40, the Kupferhalsziege goat on the 2.00, the Rätisches Grauvieh cattle on the 2.60 and the Appenzeller Barthuhn chicken on the 2.75.",
+          "hu": "Nadja Baltensweiler drew five old Swiss breeds that the foundation ProSpecieRara works to keep: the Walliser Landschaf sheep on the 1.10, the Dreifarben-Kleinscheckenkaninchen rabbit on the 1.40, the Kupferhalsziege goat on the 2.00, the Rätisches Grauvieh cattle on the 2.60 and the Appenzeller Barthuhn chicken on the 2.75.",
+          "da": "Nadja Baltensweiler drew five old Swiss breeds that the foundation ProSpecieRara works to keep: the Walliser Landschaf sheep on the 1.10, the Dreifarben-Kleinscheckenkaninchen rabbit on the 1.40, the Kupferhalsziege goat on the 2.00, the Rätisches Grauvieh cattle on the 2.60 and the Appenzeller Barthuhn chicken on the 2.75."
+        },
+        {
+          "en": "The Walliser Landschaf was close to dying out in the mid-1980s, and in 2022 the herdbook had 1,200 animals again. The Dreifarben-Kleinscheckenkaninchen comes from Winterthur, where a breeder started crossing English Spot and Japanese rabbits in 1967. On the Appenzeller Barthuhn both hens and cocks have a beard, and its small comb loses little heat in winter.",
+          "de": "Mitte der 1980er-Jahre stand das Walliser Landschaf kurz vor dem Aussterben, 2022 führte das Herdebuch wieder 1200 Tiere. Das Dreifarben-Kleinscheckenkaninchen stammt aus Winterthur, wo ein Züchter 1967 anfing, Englische Schecken und Japanerkaninchen zu kreuzen. Beim Appenzeller Barthuhn tragen Hennen wie Hähne einen Bart, und der kleine Kamm verliert im Winter wenig Wärme.",
+          "fr": "Le Walliser Landschaf a failli disparaître au milieu des années 1980 ; en 2022, le herd-book comptait de nouveau 1 200 animaux. Le Dreifarben-Kleinscheckenkaninchen vient de Winterthour, où un éleveur a commencé en 1967 à croiser des lapins Papillon anglais et des lapins japonais. Chez l’Appenzeller Barthuhn, les poules comme les coqs portent une barbe, et leur petite crête perd peu de chaleur en hiver.",
+          "it": "A metà degli anni Ottanta la Walliser Landschaf era vicina all'estinzione; nel 2022 il libro genealogico contava di nuovo 1.200 capi. Il Dreifarben-Kleinscheckenkaninchen viene da Winterthur, dove nel 1967 un allevatore ha cominciato a incrociare conigli English Spot e giapponesi. Nell'Appenzeller Barthuhn la barba ce l'hanno sia le galline sia i galli, e la cresta piccola d'inverno disperde poco calore.",
+          "nl": "The Walliser Landschaf was close to dying out in the mid-1980s, and in 2022 the herdbook had 1,200 animals again. The Dreifarben-Kleinscheckenkaninchen comes from Winterthur, where a breeder started crossing English Spot and Japanese rabbits in 1967. On the Appenzeller Barthuhn both hens and cocks have a beard, and its small comb loses little heat in winter.",
+          "pl": "The Walliser Landschaf was close to dying out in the mid-1980s, and in 2022 the herdbook had 1,200 animals again. The Dreifarben-Kleinscheckenkaninchen comes from Winterthur, where a breeder started crossing English Spot and Japanese rabbits in 1967. On the Appenzeller Barthuhn both hens and cocks have a beard, and its small comb loses little heat in winter.",
+          "cs": "The Walliser Landschaf was close to dying out in the mid-1980s, and in 2022 the herdbook had 1,200 animals again. The Dreifarben-Kleinscheckenkaninchen comes from Winterthur, where a breeder started crossing English Spot and Japanese rabbits in 1967. On the Appenzeller Barthuhn both hens and cocks have a beard, and its small comb loses little heat in winter.",
+          "sk": "The Walliser Landschaf was close to dying out in the mid-1980s, and in 2022 the herdbook had 1,200 animals again. The Dreifarben-Kleinscheckenkaninchen comes from Winterthur, where a breeder started crossing English Spot and Japanese rabbits in 1967. On the Appenzeller Barthuhn both hens and cocks have a beard, and its small comb loses little heat in winter.",
+          "ro": "The Walliser Landschaf was close to dying out in the mid-1980s, and in 2022 the herdbook had 1,200 animals again. The Dreifarben-Kleinscheckenkaninchen comes from Winterthur, where a breeder started crossing English Spot and Japanese rabbits in 1967. On the Appenzeller Barthuhn both hens and cocks have a beard, and its small comb loses little heat in winter.",
+          "hu": "The Walliser Landschaf was close to dying out in the mid-1980s, and in 2022 the herdbook had 1,200 animals again. The Dreifarben-Kleinscheckenkaninchen comes from Winterthur, where a breeder started crossing English Spot and Japanese rabbits in 1967. On the Appenzeller Barthuhn both hens and cocks have a beard, and its small comb loses little heat in winter.",
+          "da": "The Walliser Landschaf was close to dying out in the mid-1980s, and in 2022 the herdbook had 1,200 animals again. The Dreifarben-Kleinscheckenkaninchen comes from Winterthur, where a breeder started crossing English Spot and Japanese rabbits in 1967. On the Appenzeller Barthuhn both hens and cocks have a beard, and its small comb loses little heat in winter."
+        },
+        {
+          "en": "ProSpecieRara came across the Kupferhalsziege in 2006 and started its rescue with 28 animals. The Rätisches Grauvieh had been pushed out of Switzerland by 1920, and ProSpecieRara brought it back from Tyrol in 1985. The stamps are self-adhesive and printed by Enschedé in the Netherlands.",
+          "de": "Auf die Kupferhalsziege stieß ProSpecieRara 2006 und begann die Rettung der Rasse mit 28 Tieren. Bis 1920 war das Rätische Grauvieh aus der Schweiz verschwunden, 1985 holte ProSpecieRara es aus Tirol zurück. Die Marken sind selbstklebend und wurden bei Enschedé in den Niederlanden gedruckt.",
+          "fr": "ProSpecieRara a retrouvé la Kupferhalsziege en 2006 et a lancé son sauvetage avec 28 animaux. Le Rätisches Grauvieh avait disparu de Suisse en 1920, et ProSpecieRara l’a ramené du Tyrol en 1985. Les timbres sont autocollants et imprimés par Enschedé, aux Pays-Bas.",
+          "it": "ProSpecieRara ha trovato la Kupferhalsziege nel 2006 e ne ha avviato il salvataggio con 28 capi. Nel 1920 il Rätisches Grauvieh era ormai sparito dalla Svizzera; ProSpecieRara lo ha riportato dal Tirolo nel 1985. I francobolli sono autoadesivi e stampati da Enschedé nei Paesi Bassi.",
+          "nl": "ProSpecieRara came across the Kupferhalsziege in 2006 and started its rescue with 28 animals. The Rätisches Grauvieh had been pushed out of Switzerland by 1920, and ProSpecieRara brought it back from Tyrol in 1985. The stamps are self-adhesive and printed by Enschedé in the Netherlands.",
+          "pl": "ProSpecieRara came across the Kupferhalsziege in 2006 and started its rescue with 28 animals. The Rätisches Grauvieh had been pushed out of Switzerland by 1920, and ProSpecieRara brought it back from Tyrol in 1985. The stamps are self-adhesive and printed by Enschedé in the Netherlands.",
+          "cs": "ProSpecieRara came across the Kupferhalsziege in 2006 and started its rescue with 28 animals. The Rätisches Grauvieh had been pushed out of Switzerland by 1920, and ProSpecieRara brought it back from Tyrol in 1985. The stamps are self-adhesive and printed by Enschedé in the Netherlands.",
+          "sk": "ProSpecieRara came across the Kupferhalsziege in 2006 and started its rescue with 28 animals. The Rätisches Grauvieh had been pushed out of Switzerland by 1920, and ProSpecieRara brought it back from Tyrol in 1985. The stamps are self-adhesive and printed by Enschedé in the Netherlands.",
+          "ro": "ProSpecieRara came across the Kupferhalsziege in 2006 and started its rescue with 28 animals. The Rätisches Grauvieh had been pushed out of Switzerland by 1920, and ProSpecieRara brought it back from Tyrol in 1985. The stamps are self-adhesive and printed by Enschedé in the Netherlands.",
+          "hu": "ProSpecieRara came across the Kupferhalsziege in 2006 and started its rescue with 28 animals. The Rätisches Grauvieh had been pushed out of Switzerland by 1920, and ProSpecieRara brought it back from Tyrol in 1985. The stamps are self-adhesive and printed by Enschedé in the Netherlands.",
+          "da": "ProSpecieRara came across the Kupferhalsziege in 2006 and started its rescue with 28 animals. The Rätisches Grauvieh had been pushed out of Switzerland by 1920, and ProSpecieRara brought it back from Tyrol in 1985. The stamps are self-adhesive and printed by Enschedé in the Netherlands."
+        }
+      ]
+    },
+    {
+      "id": "pro-juventute",
+      "date": {
+        "en": "5 November 2026",
+        "de": "5. November 2026",
+        "fr": "5 novembre 2026",
+        "it": "5 novembre 2026",
+        "nl": "5 November 2026",
+        "pl": "5 November 2026",
+        "cs": "5 November 2026",
+        "sk": "5 November 2026",
+        "ro": "5 November 2026",
+        "hu": "5 November 2026",
+        "da": "5 November 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Pro Juventute 2026, set",
+          "de": "Pro Juventute 2026, Satz",
+          "fr": "Pro Juventute 2026, série",
+          "it": "Pro Juventute 2026, serie",
+          "nl": "Pro Juventute 2026, set",
+          "pl": "Pro Juventute 2026, set",
+          "cs": "Pro Juventute 2026, set",
+          "sk": "Pro Juventute 2026, set",
+          "ro": "Pro Juventute 2026, set",
+          "hu": "Pro Juventute 2026, set",
+          "da": "Pro Juventute 2026, set"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/a1b2228de6054b57/ch-2026-pro-juventute-set.png",
+          "width": 1154,
+          "height": 693
+        },
+        "country": "CH",
+        "stamp_id": "ch-post-893616"
+      },
+      "title": {
+        "en": "Pro Juventute: growing up is fun",
+        "de": "Pro Juventute: Aufwachsen macht Spaß",
+        "fr": "Pro Juventute : grandir est un plaisir",
+        "it": "Pro Juventute: crescere è bello",
+        "nl": "Pro Juventute: growing up is fun",
+        "pl": "Pro Juventute: growing up is fun",
+        "cs": "Pro Juventute: growing up is fun",
+        "sk": "Pro Juventute: growing up is fun",
+        "ro": "Pro Juventute: growing up is fun",
+        "hu": "Pro Juventute: growing up is fun",
+        "da": "Pro Juventute: growing up is fun"
+      },
+      "formats": [
+        {
+          "value": "CHF 3.30",
+          "format": {
+            "en": "Set of two",
+            "de": "Satz zu zwei Marken",
+            "fr": "Série de deux",
+            "it": "Serie di due",
+            "nl": "Set of two",
+            "pl": "Set of two",
+            "cs": "Set of two",
+            "sk": "Set of two",
+            "ro": "Set of two",
+            "hu": "Set of two",
+            "da": "Set of two"
+          }
+        },
+        {
+          "value": "CHF 13.20",
+          "format": {
+            "en": "Set in blocks of four",
+            "de": "Satz in Viererblocks",
+            "fr": "Série en blocs de quatre",
+            "it": "Serie in quartine",
+            "nl": "Set in blocks of four",
+            "pl": "Set in blocks of four",
+            "cs": "Set in blocks of four",
+            "sk": "Set in blocks of four",
+            "ro": "Set in blocks of four",
+            "hu": "Set in blocks of four",
+            "da": "Set in blocks of four"
+          }
+        },
+        {
+          "value": "CHF 19.80",
+          "format": {
+            "en": "Booklet, six of each stamp",
+            "de": "Markenheftchen mit je sechs Marken",
+            "fr": "Carnet, six fois chaque timbre",
+            "it": "Libretto, sei francobolli per soggetto",
+            "nl": "Booklet, six of each stamp",
+            "pl": "Booklet, six of each stamp",
+            "cs": "Booklet, six of each stamp",
+            "sk": "Booklet, six of each stamp",
+            "ro": "Booklet, six of each stamp",
+            "hu": "Booklet, six of each stamp",
+            "da": "Booklet, six of each stamp"
+          }
+        },
+        {
+          "value": "CHF 15.00",
+          "format": {
+            "en": "Sheet of 10, «Bestärken»",
+            "de": "Bogen zu 10 Marken, „Bestärken“",
+            "fr": "Feuille de 10, « Bestärken »",
+            "it": "Foglio da 10, \"Bestärken\"",
+            "nl": "Sheet of 10, «Bestärken»",
+            "pl": "Sheet of 10, «Bestärken»",
+            "cs": "Sheet of 10, «Bestärken»",
+            "sk": "Sheet of 10, «Bestärken»",
+            "ro": "Sheet of 10, «Bestärken»",
+            "hu": "Sheet of 10, «Bestärken»",
+            "da": "Sheet of 10, «Bestärken»"
+          }
+        },
+        {
+          "value": "CHF 18.00",
+          "format": {
+            "en": "Sheet of 10, «Entdecken»",
+            "de": "Bogen zu 10 Marken, „Entdecken“",
+            "fr": "Feuille de 10, « Entdecken »",
+            "it": "Foglio da 10, \"Entdecken\"",
+            "nl": "Sheet of 10, «Entdecken»",
+            "pl": "Sheet of 10, «Entdecken»",
+            "cs": "Sheet of 10, «Entdecken»",
+            "sk": "Sheet of 10, «Entdecken»",
+            "ro": "Sheet of 10, «Entdecken»",
+            "hu": "Sheet of 10, «Entdecken»",
+            "da": "Sheet of 10, «Entdecken»"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "Rahel Winiger drew a girl standing on her parents' hands for «Bestärken» and four children sailing a paper boat for «Entdecken». She took the idea of giving children roots and wings from Goethe, and she drew the lettering together with her eight-year-old daughter.",
+          "de": "Für „Bestärken“ hat Rahel Winiger ein Mädchen gezeichnet, das auf den Händen seiner Eltern steht, für „Entdecken“ vier Kinder in einem Papierschiff. Die Idee, Kindern Wurzeln und Flügel zu geben, stammt von Goethe, und den Schriftzug hat sie zusammen mit ihrer achtjährigen Tochter gestaltet.",
+          "fr": "Rahel Winiger a dessiné une fille debout sur les mains de ses parents pour « Bestärken », et quatre enfants qui naviguent sur un bateau en papier pour « Entdecken ». L’idée de donner aux enfants des racines et des ailes lui vient de Goethe, et elle a dessiné le lettrage avec sa fille de huit ans.",
+          "it": "Rahel Winiger ha disegnato una bambina in piedi sulle mani dei genitori per \"Bestärken\" e quattro bambini che navigano su una barchetta di carta per \"Entdecken\". L'idea di dare ai bambini radici e ali l'ha presa da Goethe, e le scritte le ha disegnate insieme alla figlia di otto anni.",
+          "nl": "Rahel Winiger drew a girl standing on her parents' hands for «Bestärken» and four children sailing a paper boat for «Entdecken». She took the idea of giving children roots and wings from Goethe, and she drew the lettering together with her eight-year-old daughter.",
+          "pl": "Rahel Winiger drew a girl standing on her parents' hands for «Bestärken» and four children sailing a paper boat for «Entdecken». She took the idea of giving children roots and wings from Goethe, and she drew the lettering together with her eight-year-old daughter.",
+          "cs": "Rahel Winiger drew a girl standing on her parents' hands for «Bestärken» and four children sailing a paper boat for «Entdecken». She took the idea of giving children roots and wings from Goethe, and she drew the lettering together with her eight-year-old daughter.",
+          "sk": "Rahel Winiger drew a girl standing on her parents' hands for «Bestärken» and four children sailing a paper boat for «Entdecken». She took the idea of giving children roots and wings from Goethe, and she drew the lettering together with her eight-year-old daughter.",
+          "ro": "Rahel Winiger drew a girl standing on her parents' hands for «Bestärken» and four children sailing a paper boat for «Entdecken». She took the idea of giving children roots and wings from Goethe, and she drew the lettering together with her eight-year-old daughter.",
+          "hu": "Rahel Winiger drew a girl standing on her parents' hands for «Bestärken» and four children sailing a paper boat for «Entdecken». She took the idea of giving children roots and wings from Goethe, and she drew the lettering together with her eight-year-old daughter.",
+          "da": "Rahel Winiger drew a girl standing on her parents' hands for «Bestärken» and four children sailing a paper boat for «Entdecken». She took the idea of giving children roots and wings from Goethe, and she drew the lettering together with her eight-year-old daughter."
+        },
+        {
+          "en": "«Bestärken» shows the parents' hands like a nest or roots, and the girl has the hint of wings. On «Entdecken» the children have a treasure map, a telescope and an anchor on board.",
+          "de": "Auf „Bestärken“ wirken die Hände der Eltern wie ein Nest oder wie Wurzeln, und das Mädchen hat angedeutete Flügel. Auf „Entdecken“ haben die Kinder eine Schatzkarte, ein Fernrohr und einen Anker an Bord.",
+          "fr": "Sur « Bestärken », les mains des parents forment comme un nid ou des racines, et la fille porte des ailes esquissées. Sur « Entdecken », les enfants ont à bord une carte au trésor, une longue-vue et une ancre.",
+          "it": "In \"Bestärken\" le mani dei genitori sembrano un nido o delle radici, e la bambina ha un accenno di ali. In \"Entdecken\" i bambini hanno a bordo una mappa del tesoro, un cannocchiale e un'ancora.",
+          "nl": "«Bestärken» shows the parents' hands like a nest or roots, and the girl has the hint of wings. On «Entdecken» the children have a treasure map, a telescope and an anchor on board.",
+          "pl": "«Bestärken» shows the parents' hands like a nest or roots, and the girl has the hint of wings. On «Entdecken» the children have a treasure map, a telescope and an anchor on board.",
+          "cs": "«Bestärken» shows the parents' hands like a nest or roots, and the girl has the hint of wings. On «Entdecken» the children have a treasure map, a telescope and an anchor on board.",
+          "sk": "«Bestärken» shows the parents' hands like a nest or roots, and the girl has the hint of wings. On «Entdecken» the children have a treasure map, a telescope and an anchor on board.",
+          "ro": "«Bestärken» shows the parents' hands like a nest or roots, and the girl has the hint of wings. On «Entdecken» the children have a treasure map, a telescope and an anchor on board.",
+          "hu": "«Bestärken» shows the parents' hands like a nest or roots, and the girl has the hint of wings. On «Entdecken» the children have a treasure map, a telescope and an anchor on board.",
+          "da": "«Bestärken» shows the parents' hands like a nest or roots, and the girl has the hint of wings. On «Entdecken» the children have a treasure map, a telescope and an anchor on board."
+        },
+        {
+          "en": "These are charity stamps: you pay CHF 1.50 and CHF 1.80, and they frank 1.00 and 1.20. This set is on sale until 30 June 2027, half a year less than the other November issues.",
+          "de": "Das sind Zuschlagsmarken: Du bezahlst CHF 1.50 und CHF 1.80, der Frankaturwert beträgt 1.00 und 1.20. Den Satz gibt es bis zum 30. Juni 2027, ein halbes Jahr kürzer als die übrigen Novemberausgaben.",
+          "fr": "Ce sont des timbres de bienfaisance : tu paies CHF 1.50 et CHF 1.80, et ils affranchissent 1.00 et 1.20. Cette série est en vente jusqu’au 30 juin 2027, soit six mois de moins que les autres émissions de novembre.",
+          "it": "Sono francobolli di beneficenza: costano CHF 1.50 e CHF 1.80 e affrancano 1.00 e 1.20. La serie resta in vendita fino al 30 giugno 2027, sei mesi in meno rispetto alle altre emissioni di novembre.",
+          "nl": "These are charity stamps: you pay CHF 1.50 and CHF 1.80, and they frank 1.00 and 1.20. This set is on sale until 30 June 2027, half a year less than the other November issues.",
+          "pl": "These are charity stamps: you pay CHF 1.50 and CHF 1.80, and they frank 1.00 and 1.20. This set is on sale until 30 June 2027, half a year less than the other November issues.",
+          "cs": "These are charity stamps: you pay CHF 1.50 and CHF 1.80, and they frank 1.00 and 1.20. This set is on sale until 30 June 2027, half a year less than the other November issues.",
+          "sk": "These are charity stamps: you pay CHF 1.50 and CHF 1.80, and they frank 1.00 and 1.20. This set is on sale until 30 June 2027, half a year less than the other November issues.",
+          "ro": "These are charity stamps: you pay CHF 1.50 and CHF 1.80, and they frank 1.00 and 1.20. This set is on sale until 30 June 2027, half a year less than the other November issues.",
+          "hu": "These are charity stamps: you pay CHF 1.50 and CHF 1.80, and they frank 1.00 and 1.20. This set is on sale until 30 June 2027, half a year less than the other November issues.",
+          "da": "These are charity stamps: you pay CHF 1.50 and CHF 1.80, and they frank 1.00 and 1.20. This set is on sale until 30 June 2027, half a year less than the other November issues."
+        }
+      ]
+    },
+    {
+      "id": "christmas",
+      "date": {
+        "en": "5 November 2026",
+        "de": "5. November 2026",
+        "fr": "5 novembre 2026",
+        "it": "5 novembre 2026",
+        "nl": "5 November 2026",
+        "pl": "5 November 2026",
+        "cs": "5 November 2026",
+        "sk": "5 November 2026",
+        "ro": "5 November 2026",
+        "hu": "5 November 2026",
+        "da": "5 November 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Christmas 2026, set",
+          "de": "Weihnachten 2026, Satz",
+          "fr": "Noël 2026, série",
+          "it": "Natale 2026, serie",
+          "nl": "Christmas 2026, set",
+          "pl": "Christmas 2026, set",
+          "cs": "Christmas 2026, set",
+          "sk": "Christmas 2026, set",
+          "ro": "Christmas 2026, set",
+          "hu": "Christmas 2026, set",
+          "da": "Christmas 2026, set"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/31f2ecc063d597b3/ch-2026-weihnachten-set.png",
+          "width": 1152,
+          "height": 979
+        },
+        "country": "CH",
+        "stamp_id": "ch-post-893528"
+      },
+      "title": {
+        "en": "Christmas with one family",
+        "de": "Weihnachten mit einer Familie",
+        "fr": "Noël avec la même famille",
+        "it": "Il Natale di una famiglia",
+        "nl": "Christmas with one family",
+        "pl": "Christmas with one family",
+        "cs": "Christmas with one family",
+        "sk": "Christmas with one family",
+        "ro": "Christmas with one family",
+        "hu": "Christmas with one family",
+        "da": "Christmas with one family"
+      },
+      "formats": [
+        {
+          "value": "CHF 6.60",
+          "format": {
+            "en": "Set of four",
+            "de": "Satz zu vier Marken",
+            "fr": "Série de quatre",
+            "it": "Serie di quattro",
+            "nl": "Set of four",
+            "pl": "Set of four",
+            "cs": "Set of four",
+            "sk": "Set of four",
+            "ro": "Set of four",
+            "hu": "Set of four",
+            "da": "Set of four"
+          }
+        },
+        {
+          "value": "CHF 26.40",
+          "format": {
+            "en": "Set in blocks of four",
+            "de": "Satz in Viererblocks",
+            "fr": "Série en blocs de quatre",
+            "it": "Serie in quartine",
+            "nl": "Set in blocks of four",
+            "pl": "Set in blocks of four",
+            "cs": "Set in blocks of four",
+            "sk": "Set in blocks of four",
+            "ro": "Set in blocks of four",
+            "hu": "Set in blocks of four",
+            "da": "Set in blocks of four"
+          }
+        },
+        {
+          "value": "CHF 10.00",
+          "format": {
+            "en": "Sheet of 10, Christmas market",
+            "de": "Bogen zu 10 Marken, Weihnachtsmarkt",
+            "fr": "Feuille de 10, marché de Noël",
+            "it": "Foglio da 10, mercatino di Natale",
+            "nl": "Sheet of 10, Christmas market",
+            "pl": "Sheet of 10, Christmas market",
+            "cs": "Sheet of 10, Christmas market",
+            "sk": "Sheet of 10, Christmas market",
+            "ro": "Sheet of 10, Christmas market",
+            "hu": "Sheet of 10, Christmas market",
+            "da": "Sheet of 10, Christmas market"
+          }
+        },
+        {
+          "value": "CHF 12.00",
+          "format": {
+            "en": "Sheet of 10, Christmas post",
+            "de": "Bogen zu 10 Marken, Weihnachtspost",
+            "fr": "Feuille de 10, poste de Noël",
+            "it": "Foglio da 10, posta natalizia",
+            "nl": "Sheet of 10, Christmas post",
+            "pl": "Sheet of 10, Christmas post",
+            "cs": "Sheet of 10, Christmas post",
+            "sk": "Sheet of 10, Christmas post",
+            "ro": "Sheet of 10, Christmas post",
+            "hu": "Sheet of 10, Christmas post",
+            "da": "Sheet of 10, Christmas post"
+          }
+        },
+        {
+          "value": "CHF 19.00",
+          "format": {
+            "en": "Sheet of 10, Christmas presents",
+            "de": "Bogen zu 10 Marken, Weihnachtsgeschenke",
+            "fr": "Feuille de 10, cadeaux de Noël",
+            "it": "Foglio da 10, regali di Natale",
+            "nl": "Sheet of 10, Christmas presents",
+            "pl": "Sheet of 10, Christmas presents",
+            "cs": "Sheet of 10, Christmas presents",
+            "sk": "Sheet of 10, Christmas presents",
+            "ro": "Sheet of 10, Christmas presents",
+            "hu": "Sheet of 10, Christmas presents",
+            "da": "Sheet of 10, Christmas presents"
+          }
+        },
+        {
+          "value": "CHF 25.00",
+          "format": {
+            "en": "Sheet of 10, Christmas dinner",
+            "de": "Bogen zu 10 Marken, Weihnachtsessen",
+            "fr": "Feuille de 10, repas de Noël",
+            "it": "Foglio da 10, cena di Natale",
+            "nl": "Sheet of 10, Christmas dinner",
+            "pl": "Sheet of 10, Christmas dinner",
+            "cs": "Sheet of 10, Christmas dinner",
+            "sk": "Sheet of 10, Christmas dinner",
+            "ro": "Sheet of 10, Christmas dinner",
+            "hu": "Sheet of 10, Christmas dinner",
+            "da": "Sheet of 10, Christmas dinner"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "Lemady Rochard follows one family through four moments: the Christmas market on the 1.00, posting Christmas letters on the 1.20, wrapping presents on the 1.90 and Christmas dinner on the 2.50. She is British, has lived in Switzerland for 13 years, and sends presents and home-made cards to family and friends in other countries.",
+          "de": "Lemady Rochard begleitet eine Familie durch vier Momente: den Weihnachtsmarkt auf der 1.00, das Aufgeben der Weihnachtspost auf der 1.20, das Einpacken der Geschenke auf der 1.90 und das Weihnachtsessen auf der 2.50. Sie ist Britin, lebt seit 13 Jahren in der Schweiz und schickt Geschenke und selbst gemachte Karten an Familie und Freunde in anderen Ländern.",
+          "fr": "Lemady Rochard suit une seule famille à travers quatre moments : le marché de Noël sur le 1.00, l’envoi des lettres de Noël sur le 1.20, l’emballage des cadeaux sur le 1.90 et le repas de Noël sur le 2.50. Britannique, elle vit en Suisse depuis 13 ans et envoie à sa famille et à ses amis d’autres pays des cadeaux et des cartes faites à la main.",
+          "it": "Lemady Rochard segue una famiglia in quattro momenti: il mercatino di Natale sull'1.00, le letterine da imbucare sull'1.20, i regali da incartare sull'1.90 e la cena di Natale sul 2.50. È britannica, vive in Svizzera da 13 anni e spedisce regali e biglietti fatti a mano a parenti e amici in altri Paesi.",
+          "nl": "Lemady Rochard follows one family through four moments: the Christmas market on the 1.00, posting Christmas letters on the 1.20, wrapping presents on the 1.90 and Christmas dinner on the 2.50. She is British, has lived in Switzerland for 13 years, and sends presents and home-made cards to family and friends in other countries.",
+          "pl": "Lemady Rochard follows one family through four moments: the Christmas market on the 1.00, posting Christmas letters on the 1.20, wrapping presents on the 1.90 and Christmas dinner on the 2.50. She is British, has lived in Switzerland for 13 years, and sends presents and home-made cards to family and friends in other countries.",
+          "cs": "Lemady Rochard follows one family through four moments: the Christmas market on the 1.00, posting Christmas letters on the 1.20, wrapping presents on the 1.90 and Christmas dinner on the 2.50. She is British, has lived in Switzerland for 13 years, and sends presents and home-made cards to family and friends in other countries.",
+          "sk": "Lemady Rochard follows one family through four moments: the Christmas market on the 1.00, posting Christmas letters on the 1.20, wrapping presents on the 1.90 and Christmas dinner on the 2.50. She is British, has lived in Switzerland for 13 years, and sends presents and home-made cards to family and friends in other countries.",
+          "ro": "Lemady Rochard follows one family through four moments: the Christmas market on the 1.00, posting Christmas letters on the 1.20, wrapping presents on the 1.90 and Christmas dinner on the 2.50. She is British, has lived in Switzerland for 13 years, and sends presents and home-made cards to family and friends in other countries.",
+          "hu": "Lemady Rochard follows one family through four moments: the Christmas market on the 1.00, posting Christmas letters on the 1.20, wrapping presents on the 1.90 and Christmas dinner on the 2.50. She is British, has lived in Switzerland for 13 years, and sends presents and home-made cards to family and friends in other countries.",
+          "da": "Lemady Rochard follows one family through four moments: the Christmas market on the 1.00, posting Christmas letters on the 1.20, wrapping presents on the 1.90 and Christmas dinner on the 2.50. She is British, has lived in Switzerland for 13 years, and sends presents and home-made cards to family and friends in other countries."
+        },
+        {
+          "en": "In 2025, 31,034 children sent letters to Father Christmas through Swiss Post, and a branch in Ticino answered them.",
+          "de": "2025 haben 31.034 Kinder über die Post einen Brief ans Christkind geschickt, beantwortet wurden die Briefe von einer Filiale im Tessin.",
+          "fr": "En 2025, 31 034 enfants ont écrit au Père Noël par l’intermédiaire de la Poste suisse, et un office de poste du Tessin leur a répondu.",
+          "it": "Nel 2025, 31.034 bambini hanno scritto a Babbo Natale tramite la Posta, e a rispondere è stata una filiale in Ticino.",
+          "nl": "In 2025, 31,034 children sent letters to Father Christmas through Swiss Post, and a branch in Ticino answered them.",
+          "pl": "In 2025, 31,034 children sent letters to Father Christmas through Swiss Post, and a branch in Ticino answered them.",
+          "cs": "In 2025, 31,034 children sent letters to Father Christmas through Swiss Post, and a branch in Ticino answered them.",
+          "sk": "In 2025, 31,034 children sent letters to Father Christmas through Swiss Post, and a branch in Ticino answered them.",
+          "ro": "In 2025, 31,034 children sent letters to Father Christmas through Swiss Post, and a branch in Ticino answered them.",
+          "hu": "In 2025, 31,034 children sent letters to Father Christmas through Swiss Post, and a branch in Ticino answered them.",
+          "da": "In 2025, 31,034 children sent letters to Father Christmas through Swiss Post, and a branch in Ticino answered them."
+        },
+        {
+          "en": "The sheets come with Christmas stickers. On 4 and 5 December the Christmas post office «Bethlehem» at Fellerstrasse 42p in Bern cancels mail with its own postmark.",
+          "de": "Zu den Bogen gibt es Weihnachtssticker. Am 4. und 5. Dezember versieht das Weihnachtspostbüro „Bethlehem“ an der Fellerstrasse 42p in Bern die Post mit einem eigenen Stempel.",
+          "fr": "Les feuilles sont accompagnées d’autocollants de Noël. Les 4 et 5 décembre, l’office de poste de Noël « Bethlehem », à la Fellerstrasse 42p à Berne, oblitère le courrier avec son propre cachet postal.",
+          "it": "I fogli contengono adesivi natalizi. Il 4 e il 5 dicembre l'ufficio postale natalizio \"Bethlehem\", in Fellerstrasse 42p a Berna, annulla la posta con il proprio timbro postale.",
+          "nl": "The sheets come with Christmas stickers. On 4 and 5 December the Christmas post office «Bethlehem» at Fellerstrasse 42p in Bern cancels mail with its own postmark.",
+          "pl": "The sheets come with Christmas stickers. On 4 and 5 December the Christmas post office «Bethlehem» at Fellerstrasse 42p in Bern cancels mail with its own postmark.",
+          "cs": "The sheets come with Christmas stickers. On 4 and 5 December the Christmas post office «Bethlehem» at Fellerstrasse 42p in Bern cancels mail with its own postmark.",
+          "sk": "The sheets come with Christmas stickers. On 4 and 5 December the Christmas post office «Bethlehem» at Fellerstrasse 42p in Bern cancels mail with its own postmark.",
+          "ro": "The sheets come with Christmas stickers. On 4 and 5 December the Christmas post office «Bethlehem» at Fellerstrasse 42p in Bern cancels mail with its own postmark.",
+          "hu": "The sheets come with Christmas stickers. On 4 and 5 December the Christmas post office «Bethlehem» at Fellerstrasse 42p in Bern cancels mail with its own postmark.",
+          "da": "The sheets come with Christmas stickers. On 4 and 5 December the Christmas post office «Bethlehem» at Fellerstrasse 42p in Bern cancels mail with its own postmark."
+        }
+      ]
+    },
+    {
+      "id": "junior",
+      "date": {
+        "en": "5 November 2026",
+        "de": "5. November 2026",
+        "fr": "5 novembre 2026",
+        "it": "5 novembre 2026",
+        "nl": "5 November 2026",
+        "pl": "5 November 2026",
+        "cs": "5 November 2026",
+        "sk": "5 November 2026",
+        "ro": "5 November 2026",
+        "hu": "5 November 2026",
+        "da": "5 November 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "75 years of JUNIOR, 1.20",
+          "de": "75 Jahre JUNIOR, 1.20",
+          "fr": "75 ans de JUNIOR, 1.20",
+          "it": "75 anni di JUNIOR, 1.20",
+          "nl": "75 years of JUNIOR, 1.20",
+          "pl": "75 years of JUNIOR, 1.20",
+          "cs": "75 years of JUNIOR, 1.20",
+          "sk": "75 years of JUNIOR, 1.20",
+          "ro": "75 years of JUNIOR, 1.20",
+          "hu": "75 years of JUNIOR, 1.20",
+          "da": "75 years of JUNIOR, 1.20"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/35d6a52cbf7e64d0/ch-2026-junior.png",
+          "width": 1165,
+          "height": 990
+        },
+        "country": "CH",
+        "stamp_id": "ch-post-893581"
+      },
+      "title": {
+        "en": "The JUNIOR magazine and Klexx",
+        "de": "Das Magazin JUNIOR und Klexx",
+        "fr": "Le magazine JUNIOR et Klexx",
+        "it": "La rivista JUNIOR e Klexx",
+        "nl": "The JUNIOR magazine and Klexx",
+        "pl": "The JUNIOR magazine and Klexx",
+        "cs": "The JUNIOR magazine and Klexx",
+        "sk": "The JUNIOR magazine and Klexx",
+        "ro": "The JUNIOR magazine and Klexx",
+        "hu": "The JUNIOR magazine and Klexx",
+        "da": "The JUNIOR magazine and Klexx"
+      },
+      "formats": [
+        {
+          "value": "CHF 1.20",
+          "format": {
+            "en": "Single stamp",
+            "de": "Einzelmarke",
+            "fr": "Timbre isolé",
+            "it": "Francobollo singolo",
+            "nl": "Single stamp",
+            "pl": "Single stamp",
+            "cs": "Single stamp",
+            "sk": "Single stamp",
+            "ro": "Single stamp",
+            "hu": "Single stamp",
+            "da": "Single stamp"
+          }
+        },
+        {
+          "value": "CHF 4.80",
+          "format": {
+            "en": "Block of four",
+            "de": "Viererblock",
+            "fr": "Bloc de quatre",
+            "it": "Quartina",
+            "nl": "Block of four",
+            "pl": "Block of four",
+            "cs": "Block of four",
+            "sk": "Block of four",
+            "ro": "Block of four",
+            "hu": "Block of four",
+            "da": "Block of four"
+          }
+        },
+        {
+          "value": "CHF 12.00",
+          "format": {
+            "en": "Miniature sheet of 10",
+            "de": "Kleinbogen zu 10 Marken",
+            "fr": "Petite feuille de 10",
+            "it": "Minifoglio da 10",
+            "nl": "Miniature sheet of 10",
+            "pl": "Miniature sheet of 10",
+            "cs": "Miniature sheet of 10",
+            "sk": "Miniature sheet of 10",
+            "ro": "Miniature sheet of 10",
+            "hu": "Miniature sheet of 10",
+            "da": "Miniature sheet of 10"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "JUNIOR has been handed out for free in Swiss shops and pharmacies since November 1951. It comes out every month, and 170,000 copies go out in Switzerland. The stamp shows Klexx, the dog of the main character Junior, bringing the birthday wishes.",
+          "de": "JUNIOR liegt seit November 1951 kostenlos in Schweizer Läden und Apotheken aus. Das Heft erscheint jeden Monat, 170.000 Exemplare werden in der Schweiz verteilt. Auf der Marke bringt Klexx, der Hund der Hauptfigur Junior, die Geburtstagswünsche.",
+          "fr": "JUNIOR est distribué gratuitement dans les magasins et les pharmacies de Suisse depuis novembre 1951. Il paraît chaque mois et est diffusé à 170 000 exemplaires dans le pays. Le timbre montre Klexx, le chien du personnage principal Junior, qui apporte les vœux d’anniversaire.",
+          "it": "JUNIOR viene distribuita gratis nei negozi e nelle farmacie svizzere dal novembre 1951. Esce ogni mese e in Svizzera ne circolano 170.000 copie. Sul francobollo è Klexx, il cane del protagonista Junior, a portare gli auguri di compleanno.",
+          "nl": "JUNIOR has been handed out for free in Swiss shops and pharmacies since November 1951. It comes out every month, and 170,000 copies go out in Switzerland. The stamp shows Klexx, the dog of the main character Junior, bringing the birthday wishes.",
+          "pl": "JUNIOR has been handed out for free in Swiss shops and pharmacies since November 1951. It comes out every month, and 170,000 copies go out in Switzerland. The stamp shows Klexx, the dog of the main character Junior, bringing the birthday wishes.",
+          "cs": "JUNIOR has been handed out for free in Swiss shops and pharmacies since November 1951. It comes out every month, and 170,000 copies go out in Switzerland. The stamp shows Klexx, the dog of the main character Junior, bringing the birthday wishes.",
+          "sk": "JUNIOR has been handed out for free in Swiss shops and pharmacies since November 1951. It comes out every month, and 170,000 copies go out in Switzerland. The stamp shows Klexx, the dog of the main character Junior, bringing the birthday wishes.",
+          "ro": "JUNIOR has been handed out for free in Swiss shops and pharmacies since November 1951. It comes out every month, and 170,000 copies go out in Switzerland. The stamp shows Klexx, the dog of the main character Junior, bringing the birthday wishes.",
+          "hu": "JUNIOR has been handed out for free in Swiss shops and pharmacies since November 1951. It comes out every month, and 170,000 copies go out in Switzerland. The stamp shows Klexx, the dog of the main character Junior, bringing the birthday wishes.",
+          "da": "JUNIOR has been handed out for free in Swiss shops and pharmacies since November 1951. It comes out every month, and 170,000 copies go out in Switzerland. The stamp shows Klexx, the dog of the main character Junior, bringing the birthday wishes."
+        },
+        {
+          "en": "Hans-Rudolf Hug published the first issue in 1951 as a gift that shops could hand to children. The publisher is still a family company, run by the third generation since 2010.",
+          "de": "Hans-Rudolf Hug brachte 1951 die erste Ausgabe heraus, als Geschenk, das Läden an Kinder weitergeben konnten. Der Verlag ist bis heute ein Familienbetrieb und wird seit 2010 in dritter Generation geführt.",
+          "fr": "Hans-Rudolf Hug a publié le premier numéro en 1951, comme un cadeau que les commerçants pouvaient offrir aux enfants. La maison d’édition est restée une entreprise familiale, dirigée depuis 2010 par la troisième génération.",
+          "it": "Hans-Rudolf Hug ha pubblicato il primo numero nel 1951 come regalo che i negozi potevano dare ai bambini. La casa editrice è ancora un'azienda di famiglia e dal 2010 è alla terza generazione.",
+          "nl": "Hans-Rudolf Hug published the first issue in 1951 as a gift that shops could hand to children. The publisher is still a family company, run by the third generation since 2010.",
+          "pl": "Hans-Rudolf Hug published the first issue in 1951 as a gift that shops could hand to children. The publisher is still a family company, run by the third generation since 2010.",
+          "cs": "Hans-Rudolf Hug published the first issue in 1951 as a gift that shops could hand to children. The publisher is still a family company, run by the third generation since 2010.",
+          "sk": "Hans-Rudolf Hug published the first issue in 1951 as a gift that shops could hand to children. The publisher is still a family company, run by the third generation since 2010.",
+          "ro": "Hans-Rudolf Hug published the first issue in 1951 as a gift that shops could hand to children. The publisher is still a family company, run by the third generation since 2010.",
+          "hu": "Hans-Rudolf Hug published the first issue in 1951 as a gift that shops could hand to children. The publisher is still a family company, run by the third generation since 2010.",
+          "da": "Hans-Rudolf Hug published the first issue in 1951 as a gift that shops could hand to children. The publisher is still a family company, run by the third generation since 2010."
+        },
+        {
+          "en": "The stamp is self-adhesive and printed by Gutenberg in Schaan, Liechtenstein. The picture is credited to Hug-Verlag in Thalwil, which publishes the magazine, and the miniature sheet comes with stickers.",
+          "de": "Die Marke ist selbstklebend und wurde bei Gutenberg in Schaan, Liechtenstein, gedruckt. Das Bild stammt vom Hug-Verlag in Thalwil, der das Magazin herausgibt, und zum Kleinbogen gibt es Sticker.",
+          "fr": "Le timbre est autocollant et imprimé par Gutenberg à Schaan, au Liechtenstein. L’image est créditée à Hug-Verlag, à Thalwil, l’éditeur du magazine, et la petite feuille est accompagnée d’autocollants.",
+          "it": "Il francobollo è autoadesivo e stampato da Gutenberg a Schaan, nel Liechtenstein. L'immagine è accreditata alla Hug-Verlag di Thalwil, che pubblica la rivista, e il minifoglio contiene degli adesivi.",
+          "nl": "The stamp is self-adhesive and printed by Gutenberg in Schaan, Liechtenstein. The picture is credited to Hug-Verlag in Thalwil, which publishes the magazine, and the miniature sheet comes with stickers.",
+          "pl": "The stamp is self-adhesive and printed by Gutenberg in Schaan, Liechtenstein. The picture is credited to Hug-Verlag in Thalwil, which publishes the magazine, and the miniature sheet comes with stickers.",
+          "cs": "The stamp is self-adhesive and printed by Gutenberg in Schaan, Liechtenstein. The picture is credited to Hug-Verlag in Thalwil, which publishes the magazine, and the miniature sheet comes with stickers.",
+          "sk": "The stamp is self-adhesive and printed by Gutenberg in Schaan, Liechtenstein. The picture is credited to Hug-Verlag in Thalwil, which publishes the magazine, and the miniature sheet comes with stickers.",
+          "ro": "The stamp is self-adhesive and printed by Gutenberg in Schaan, Liechtenstein. The picture is credited to Hug-Verlag in Thalwil, which publishes the magazine, and the miniature sheet comes with stickers.",
+          "hu": "The stamp is self-adhesive and printed by Gutenberg in Schaan, Liechtenstein. The picture is credited to Hug-Verlag in Thalwil, which publishes the magazine, and the miniature sheet comes with stickers.",
+          "da": "The stamp is self-adhesive and printed by Gutenberg in Schaan, Liechtenstein. The picture is credited to Hug-Verlag in Thalwil, which publishes the magazine, and the miniature sheet comes with stickers."
+        }
+      ]
+    },
+    {
+      "id": "brig",
+      "date": {
+        "en": "5 November 2026",
+        "de": "5. November 2026",
+        "fr": "5 novembre 2026",
+        "it": "5 novembre 2026",
+        "nl": "5 November 2026",
+        "pl": "5 November 2026",
+        "cs": "5 November 2026",
+        "sk": "5 November 2026",
+        "ro": "5 November 2026",
+        "hu": "5 November 2026",
+        "da": "5 November 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Tag der Briefmarke 2026 Brig, souvenir sheet",
+          "de": "Tag der Briefmarke 2026 Brig, Block",
+          "fr": "Journée du timbre 2026 Brigue, bloc-feuillet",
+          "it": "Giornata del francobollo 2026 Briga, foglietto",
+          "nl": "Tag der Briefmarke 2026 Brig, souvenir sheet",
+          "pl": "Tag der Briefmarke 2026 Brig, souvenir sheet",
+          "cs": "Tag der Briefmarke 2026 Brig, souvenir sheet",
+          "sk": "Tag der Briefmarke 2026 Brig, souvenir sheet",
+          "ro": "Tag der Briefmarke 2026 Brig, souvenir sheet",
+          "hu": "Tag der Briefmarke 2026 Brig, souvenir sheet",
+          "da": "Tag der Briefmarke 2026 Brig, souvenir sheet"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/8f90c8effe6d7407/ch-2026-brig-block.png",
+          "width": 1170,
+          "height": 453
+        },
+        "country": "CH",
+        "stamp_id": "ch-post-893010"
+      },
+      "title": {
+        "en": "Tag der Briefmarke in Brig",
+        "de": "Tag der Briefmarke in Brig",
+        "fr": "La Journée du timbre à Brigue",
+        "it": "La Giornata del francobollo a Briga",
+        "nl": "Tag der Briefmarke in Brig",
+        "pl": "Tag der Briefmarke in Brig",
+        "cs": "Tag der Briefmarke in Brig",
+        "sk": "Tag der Briefmarke in Brig",
+        "ro": "Tag der Briefmarke in Brig",
+        "hu": "Tag der Briefmarke in Brig",
+        "da": "Tag der Briefmarke in Brig"
+      },
+      "formats": [
+        {
+          "value": "CHF 1.80",
+          "format": {
+            "en": "Souvenir sheet with two stamps",
+            "de": "Block mit zwei Marken",
+            "fr": "Bloc-feuillet de deux timbres",
+            "it": "Foglietto con due francobolli",
+            "nl": "Souvenir sheet with two stamps",
+            "pl": "Souvenir sheet with two stamps",
+            "cs": "Souvenir sheet with two stamps",
+            "sk": "Souvenir sheet with two stamps",
+            "ro": "Souvenir sheet with two stamps",
+            "hu": "Souvenir sheet with two stamps",
+            "da": "Souvenir sheet with two stamps"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "Sybille Eyer from Brig drew her town for this year's Tag der Briefmarke: the Sebastiansplatz on one stamp, the Stockalper Palace on the other, and in the margin the eagle that stands for the Simplon Pass. Each stamp is 60 centimes with a 30-centime surcharge, and the gummed block costs CHF 1.80.",
+          "de": "Sybille Eyer aus Brig hat für den diesjährigen Tag der Briefmarke ihre Stadt gezeichnet: den Sebastiansplatz auf der einen Marke, das Stockalperschloss auf der anderen und im Blockrand den Adler, der für den Simplonpass steht. Jede Marke hat einen Frankaturwert von 60 Rappen plus 30 Rappen Zuschlag, der gummierte Block kostet CHF 1.80.",
+          "fr": "Sybille Eyer, de Brigue, a dessiné sa ville pour la Journée du timbre de cette année : la Sebastiansplatz sur un timbre, le palais Stockalper sur l’autre, et dans la marge l’aigle qui représente le col du Simplon. Chaque timbre vaut 60 centimes avec une surtaxe de 30 centimes, et le bloc gommé coûte CHF 1.80.",
+          "it": "Sybille Eyer, di Briga, ha disegnato la sua città per la Giornata del francobollo di quest'anno: la Sebastiansplatz su un francobollo, il palazzo Stockalper sull'altro e, nel margine, l'aquila che rappresenta il passo del Sempione. Ogni francobollo vale 60 centesimi con una soprattassa di 30 centesimi, e il foglietto gommato costa CHF 1.80.",
+          "nl": "Sybille Eyer from Brig drew her town for this year's Tag der Briefmarke: the Sebastiansplatz on one stamp, the Stockalper Palace on the other, and in the margin the eagle that stands for the Simplon Pass. Each stamp is 60 centimes with a 30-centime surcharge, and the gummed block costs CHF 1.80.",
+          "pl": "Sybille Eyer from Brig drew her town for this year's Tag der Briefmarke: the Sebastiansplatz on one stamp, the Stockalper Palace on the other, and in the margin the eagle that stands for the Simplon Pass. Each stamp is 60 centimes with a 30-centime surcharge, and the gummed block costs CHF 1.80.",
+          "cs": "Sybille Eyer from Brig drew her town for this year's Tag der Briefmarke: the Sebastiansplatz on one stamp, the Stockalper Palace on the other, and in the margin the eagle that stands for the Simplon Pass. Each stamp is 60 centimes with a 30-centime surcharge, and the gummed block costs CHF 1.80.",
+          "sk": "Sybille Eyer from Brig drew her town for this year's Tag der Briefmarke: the Sebastiansplatz on one stamp, the Stockalper Palace on the other, and in the margin the eagle that stands for the Simplon Pass. Each stamp is 60 centimes with a 30-centime surcharge, and the gummed block costs CHF 1.80.",
+          "ro": "Sybille Eyer from Brig drew her town for this year's Tag der Briefmarke: the Sebastiansplatz on one stamp, the Stockalper Palace on the other, and in the margin the eagle that stands for the Simplon Pass. Each stamp is 60 centimes with a 30-centime surcharge, and the gummed block costs CHF 1.80.",
+          "hu": "Sybille Eyer from Brig drew her town for this year's Tag der Briefmarke: the Sebastiansplatz on one stamp, the Stockalper Palace on the other, and in the margin the eagle that stands for the Simplon Pass. Each stamp is 60 centimes with a 30-centime surcharge, and the gummed block costs CHF 1.80.",
+          "da": "Sybille Eyer from Brig drew her town for this year's Tag der Briefmarke: the Sebastiansplatz on one stamp, the Stockalper Palace on the other, and in the margin the eagle that stands for the Simplon Pass. Each stamp is 60 centimes with a 30-centime surcharge, and the gummed block costs CHF 1.80."
+        },
+        {
+          "en": "The national stamp exhibition PhilaBrig26 runs at the Simplonhalle in Brig from 19 to 21 November, and we have a stand there.",
+          "de": "Die nationale Briefmarkenausstellung PhilaBrig26 läuft vom 19. bis 21. November in der Simplonhalle in Brig, wir sind dort mit einem Stand.",
+          "fr": "L’exposition philatélique nationale PhilaBrig26 a lieu à la Simplonhalle de Brigue du 19 au 21 novembre, et nous y tenons un stand.",
+          "it": "L'esposizione filatelica nazionale PhilaBrig26 si tiene alla Simplonhalle di Briga dal 19 al 21 novembre, e noi ci siamo con uno stand.",
+          "nl": "The national stamp exhibition PhilaBrig26 runs at the Simplonhalle in Brig from 19 to 21 November, and we have a stand there.",
+          "pl": "The national stamp exhibition PhilaBrig26 runs at the Simplonhalle in Brig from 19 to 21 November, and we have a stand there.",
+          "cs": "The national stamp exhibition PhilaBrig26 runs at the Simplonhalle in Brig from 19 to 21 November, and we have a stand there.",
+          "sk": "The national stamp exhibition PhilaBrig26 runs at the Simplonhalle in Brig from 19 to 21 November, and we have a stand there.",
+          "ro": "The national stamp exhibition PhilaBrig26 runs at the Simplonhalle in Brig from 19 to 21 November, and we have a stand there.",
+          "hu": "The national stamp exhibition PhilaBrig26 runs at the Simplonhalle in Brig from 19 to 21 November, and we have a stand there.",
+          "da": "The national stamp exhibition PhilaBrig26 runs at the Simplonhalle in Brig from 19 to 21 November, and we have a stand there."
+        }
+      ]
+    },
+    {
+      "id": "dates",
+      "rows": [
+        {
+          "label": {
+            "en": "Swiss Post Philatelie",
+            "de": "Post-Philatelie",
+            "fr": "Philatélie de la Poste",
+            "it": "Filatelia della Posta",
+            "nl": "Swiss Post Philatelie",
+            "pl": "Swiss Post Philatelie",
+            "cs": "Swiss Post Philatelie",
+            "sk": "Swiss Post Philatelie",
+            "ro": "Swiss Post Philatelie",
+            "hu": "Swiss Post Philatelie",
+            "da": "Swiss Post Philatelie"
+          },
+          "value": {
+            "en": "from 29 October 2026",
+            "de": "ab 29. Oktober 2026",
+            "fr": "dès le 29 octobre 2026",
+            "it": "dal 29 ottobre 2026",
+            "nl": "from 29 October 2026",
+            "pl": "from 29 October 2026",
+            "cs": "from 29 October 2026",
+            "sk": "from 29 October 2026",
+            "ro": "from 29 October 2026",
+            "hu": "from 29 October 2026",
+            "da": "from 29 October 2026"
+          }
+        },
+        {
+          "label": {
+            "en": "Post offices",
+            "de": "Poststellen",
+            "fr": "Offices de poste",
+            "it": "Uffici postali",
+            "nl": "Post offices",
+            "pl": "Post offices",
+            "cs": "Post offices",
+            "sk": "Post offices",
+            "ro": "Post offices",
+            "hu": "Post offices",
+            "da": "Post offices"
+          },
+          "value": {
+            "en": "from 5 November 2026",
+            "de": "ab 5. November 2026",
+            "fr": "dès le 5 novembre 2026",
+            "it": "dal 5 novembre 2026",
+            "nl": "from 5 November 2026",
+            "pl": "from 5 November 2026",
+            "cs": "from 5 November 2026",
+            "sk": "from 5 November 2026",
+            "ro": "from 5 November 2026",
+            "hu": "from 5 November 2026",
+            "da": "from 5 November 2026"
+          }
+        },
+        {
+          "label": {
+            "en": "Valid for postage",
+            "de": "Frankaturgültig",
+            "fr": "Valable pour l’affranchissement",
+            "it": "Validi per l'affrancatura",
+            "nl": "Valid for postage",
+            "pl": "Valid for postage",
+            "cs": "Valid for postage",
+            "sk": "Valid for postage",
+            "ro": "Valid for postage",
+            "hu": "Valid for postage",
+            "da": "Valid for postage"
+          },
+          "value": {
+            "en": "from 5 November 2026, without time limit",
+            "de": "ab 5. November 2026, unbefristet",
+            "fr": "dès le 5 novembre 2026, sans limite de temps",
+            "it": "dal 5 novembre 2026, senza limiti di tempo",
+            "nl": "from 5 November 2026, without time limit",
+            "pl": "from 5 November 2026, without time limit",
+            "cs": "from 5 November 2026, without time limit",
+            "sk": "from 5 November 2026, without time limit",
+            "ro": "from 5 November 2026, without time limit",
+            "hu": "from 5 November 2026, without time limit",
+            "da": "from 5 November 2026, without time limit"
+          }
+        },
+        {
+          "label": {
+            "en": "On sale until",
+            "de": "Im Verkauf bis",
+            "fr": "En vente jusqu’au",
+            "it": "In vendita fino al",
+            "nl": "On sale until",
+            "pl": "On sale until",
+            "cs": "On sale until",
+            "sk": "On sale until",
+            "ro": "On sale until",
+            "hu": "On sale until",
+            "da": "On sale until"
+          },
+          "value": {
+            "en": "31 December 2027",
+            "de": "31. Dezember 2027",
+            "fr": "31 décembre 2027",
+            "it": "31 dicembre 2027",
+            "nl": "31 December 2027",
+            "pl": "31 December 2027",
+            "cs": "31 December 2027",
+            "sk": "31 December 2027",
+            "ro": "31 December 2027",
+            "hu": "31 December 2027",
+            "da": "31 December 2027"
+          }
+        },
+        {
+          "label": {
+            "en": "Pro Juventute on sale until",
+            "de": "Pro Juventute im Verkauf bis",
+            "fr": "Pro Juventute en vente jusqu’au",
+            "it": "Pro Juventute in vendita fino al",
+            "nl": "Pro Juventute on sale until",
+            "pl": "Pro Juventute on sale until",
+            "cs": "Pro Juventute on sale until",
+            "sk": "Pro Juventute on sale until",
+            "ro": "Pro Juventute on sale until",
+            "hu": "Pro Juventute on sale until",
+            "da": "Pro Juventute on sale until"
+          },
+          "value": {
+            "en": "30 June 2027",
+            "de": "30. Juni 2027",
+            "fr": "30 juin 2027",
+            "it": "30 giugno 2027",
+            "nl": "30 June 2027",
+            "pl": "30 June 2027",
+            "cs": "30 June 2027",
+            "sk": "30 June 2027",
+            "ro": "30 June 2027",
+            "hu": "30 June 2027",
+            "da": "30 June 2027"
+          }
+        },
+        {
+          "label": {
+            "en": "Christmas post office «Bethlehem», Bern",
+            "de": "Weihnachtspostbüro „Bethlehem“, Bern",
+            "fr": "Office de poste de Noël « Bethlehem », Berne",
+            "it": "Ufficio postale natalizio \"Bethlehem\", Berna",
+            "nl": "Christmas post office «Bethlehem», Bern",
+            "pl": "Christmas post office «Bethlehem», Bern",
+            "cs": "Christmas post office «Bethlehem», Bern",
+            "sk": "Christmas post office «Bethlehem», Bern",
+            "ro": "Christmas post office «Bethlehem», Bern",
+            "hu": "Christmas post office «Bethlehem», Bern",
+            "da": "Christmas post office «Bethlehem», Bern"
+          },
+          "value": {
+            "en": "4 and 5 December 2026",
+            "de": "4. und 5. Dezember 2026",
+            "fr": "4 et 5 décembre 2026",
+            "it": "4 e 5 dicembre 2026",
+            "nl": "4 and 5 December 2026",
+            "pl": "4 and 5 December 2026",
+            "cs": "4 and 5 December 2026",
+            "sk": "4 and 5 December 2026",
+            "ro": "4 and 5 December 2026",
+            "hu": "4 and 5 December 2026",
+            "da": "4 and 5 December 2026"
+          }
+        },
+        {
+          "label": {
+            "en": "PhilaBrig26, Simplonhalle Brig",
+            "de": "PhilaBrig26, Simplonhalle Brig",
+            "fr": "PhilaBrig26, Simplonhalle Brig",
+            "it": "PhilaBrig26, Simplonhalle Brig",
+            "nl": "PhilaBrig26, Simplonhalle Brig",
+            "pl": "PhilaBrig26, Simplonhalle Brig",
+            "cs": "PhilaBrig26, Simplonhalle Brig",
+            "sk": "PhilaBrig26, Simplonhalle Brig",
+            "ro": "PhilaBrig26, Simplonhalle Brig",
+            "hu": "PhilaBrig26, Simplonhalle Brig",
+            "da": "PhilaBrig26, Simplonhalle Brig"
+          },
+          "value": {
+            "en": "19 to 21 November 2026",
+            "de": "19. bis 21. November 2026",
+            "fr": "du 19 au 21 novembre 2026",
+            "it": "dal 19 al 21 novembre 2026",
+            "nl": "19 to 21 November 2026",
+            "pl": "19 to 21 November 2026",
+            "cs": "19 to 21 November 2026",
+            "sk": "19 to 21 November 2026",
+            "ro": "19 to 21 November 2026",
+            "hu": "19 to 21 November 2026",
+            "da": "19 to 21 November 2026"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "Dates",
+        "de": "Termine",
+        "fr": "Dates",
+        "it": "Date",
+        "nl": "Dates",
+        "pl": "Dates",
+        "cs": "Dates",
+        "sk": "Dates",
+        "ro": "Dates",
+        "hu": "Dates",
+        "da": "Dates"
+      },
+      "title": {
+        "en": "Sale and validity",
+        "de": "Verkauf und Gültigkeit",
+        "fr": "Vente et validité",
+        "it": "Vendita e validità",
+        "nl": "Sale and validity",
+        "pl": "Sale and validity",
+        "cs": "Sale and validity",
+        "sk": "Sale and validity",
+        "ro": "Sale and validity",
+        "hu": "Sale and validity",
+        "da": "Sale and validity"
+      },
+      "buttons": [
+        {
+          "href": "https://shop.post.ch",
+          "label": {
+            "en": "Swiss Post shop",
+            "de": "Shop der Post",
+            "fr": "Boutique de la Poste",
+            "it": "Shop della Posta",
+            "nl": "Swiss Post shop",
+            "pl": "Swiss Post shop",
+            "cs": "Swiss Post shop",
+            "sk": "Swiss Post shop",
+            "ro": "Swiss Post shop",
+            "hu": "Swiss Post shop",
+            "da": "Swiss Post shop"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stampiq",
+      "text": {
+        "en": "The November stamps are not in StampIQ yet. We add them to the catalogue after the issue day.",
+        "de": "Die Novembermarken sind noch nicht in StampIQ. Wir nehmen sie nach dem Ausgabetag in den Katalog auf.",
+        "fr": "Les timbres de novembre ne sont pas encore dans StampIQ. Nous les ajoutons au catalogue après le jour d’émission.",
+        "it": "I francobolli di novembre non sono ancora in StampIQ. Li aggiungiamo al catalogo dopo il giorno di emissione.",
+        "nl": "The November stamps are not in StampIQ yet. We add them to the catalogue after the issue day.",
+        "pl": "The November stamps are not in StampIQ yet. We add them to the catalogue after the issue day.",
+        "cs": "The November stamps are not in StampIQ yet. We add them to the catalogue after the issue day.",
+        "sk": "The November stamps are not in StampIQ yet. We add them to the catalogue after the issue day.",
+        "ro": "The November stamps are not in StampIQ yet. We add them to the catalogue after the issue day.",
+        "hu": "The November stamps are not in StampIQ yet. We add them to the catalogue after the issue day.",
+        "da": "The November stamps are not in StampIQ yet. We add them to the catalogue after the issue day."
+      },
+      "type": "note"
+    }
+  ]
+}

@@ -19,7 +19,7 @@ export default defineConfig({
       // (not /privacy) and language roots serve at /de/ (with trailing slash).
       // Astro's sitemap defaults to clean URLs — fix each entry to match the
       // actual served URL.
-      filter: (page) => !blogRedirects.has(page.endsWith('/') ? page : `${page}/`),
+      filter: (page) => !page.startsWith('https://stampiq.io/p/') && !blogRedirects.has(page.endsWith('/') ? page : `${page}/`),
       serialize(item) {
         let url = item.url;
         if (/\/(privacy|terms|delete-account)$/.test(url)) {

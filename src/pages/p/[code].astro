@@ -1,0 +1,12 @@
+---
+// Google Ads rejects a final URL that answers 404, and /p/<CODE> is otherwise
+// served by the 404 page. These codes get the same page as a static file so
+// GitHub Pages answers 200.
+import PromoPage from '../404.astro';
+
+export function getStaticPaths() {
+  return ['ALBUM36', 'ZAHN36', 'EULE36', 'STEMPEL36'].map((code) => ({ params: { code } }));
+}
+---
+
+<PromoPage />

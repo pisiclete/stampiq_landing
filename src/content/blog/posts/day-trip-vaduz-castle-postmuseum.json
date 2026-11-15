@@ -1,0 +1,1210 @@
+{
+  "category": "day-trips",
+  "markets": [
+    "CH",
+    "LI",
+    "DE",
+    "AT"
+  ],
+  "langs": [
+    "en",
+    "de",
+    "fr",
+    "it"
+  ],
+  "published_at": "2026-10-30T08:00:00+00:00",
+  "thumbnail": {
+    "src": "https://assets.stampiq.io/blog/7d30b9b863e6e339/vaduz-castle-autumn.jpg",
+    "width": 2400,
+    "height": 1600
+  },
+  "languages": {
+    "en": {
+      "slug": "day-trip-vaduz-castle-postmuseum",
+      "title": "Day trip: Vaduz Castle and the PostMuseum",
+      "description": "Vaduz Castle on a 2010 stamp: the walk up the Schlossweg and the free PostMuseum, which keeps every stamp Liechtenstein has issued."
+    },
+    "de": {
+      "slug": "tagesausflug-schloss-vaduz-postmuseum",
+      "title": "Tagesausflug: Schloss Vaduz und das PostMuseum",
+      "description": "Schloss Vaduz auf einer Briefmarke von 2010: hinauf über den Schlossweg und ins PostMuseum, das jede Briefmarke Liechtensteins bewahrt. Eintritt frei."
+    },
+    "fr": {
+      "slug": "excursion-chateau-vaduz-postmuseum",
+      "title": "Excursion : le château de Vaduz et le PostMuseum",
+      "description": "Le château de Vaduz sur un timbre de 2010 : la montée du Schlossweg et le PostMuseum gratuit, qui conserve tous les timbres du Liechtenstein."
+    },
+    "it": {
+      "slug": "gita-castello-di-vaduz-postmuseum",
+      "title": "Gita di un giorno: Castello di Vaduz e PostMuseum",
+      "description": "Il Castello di Vaduz su un francobollo del 2010: la salita lungo lo Schlossweg e il PostMuseum gratuito con tutti i francobolli del Liechtenstein."
+    },
+    "nl": {
+      "slug": "day-trip-vaduz-castle-postmuseum",
+      "title": "Day trip: Vaduz Castle and the PostMuseum",
+      "description": "Vaduz Castle on a 2010 stamp: the walk up the Schlossweg and the free PostMuseum, which keeps every stamp Liechtenstein has issued."
+    },
+    "pl": {
+      "slug": "day-trip-vaduz-castle-postmuseum",
+      "title": "Day trip: Vaduz Castle and the PostMuseum",
+      "description": "Vaduz Castle on a 2010 stamp: the walk up the Schlossweg and the free PostMuseum, which keeps every stamp Liechtenstein has issued."
+    },
+    "cs": {
+      "slug": "day-trip-vaduz-castle-postmuseum",
+      "title": "Day trip: Vaduz Castle and the PostMuseum",
+      "description": "Vaduz Castle on a 2010 stamp: the walk up the Schlossweg and the free PostMuseum, which keeps every stamp Liechtenstein has issued."
+    },
+    "sk": {
+      "slug": "day-trip-vaduz-castle-postmuseum",
+      "title": "Day trip: Vaduz Castle and the PostMuseum",
+      "description": "Vaduz Castle on a 2010 stamp: the walk up the Schlossweg and the free PostMuseum, which keeps every stamp Liechtenstein has issued."
+    },
+    "ro": {
+      "slug": "day-trip-vaduz-castle-postmuseum",
+      "title": "Day trip: Vaduz Castle and the PostMuseum",
+      "description": "Vaduz Castle on a 2010 stamp: the walk up the Schlossweg and the free PostMuseum, which keeps every stamp Liechtenstein has issued."
+    },
+    "hu": {
+      "slug": "day-trip-vaduz-castle-postmuseum",
+      "title": "Day trip: Vaduz Castle and the PostMuseum",
+      "description": "Vaduz Castle on a 2010 stamp: the walk up the Schlossweg and the free PostMuseum, which keeps every stamp Liechtenstein has issued."
+    },
+    "da": {
+      "slug": "day-trip-vaduz-castle-postmuseum",
+      "title": "Day trip: Vaduz Castle and the PostMuseum",
+      "description": "Vaduz Castle on a 2010 stamp: the walk up the Schlossweg and the free PostMuseum, which keeps every stamp Liechtenstein has issued."
+    }
+  },
+  "header": {
+    "lead": {
+      "en": "On 10 June 1931 the Graf Zeppelin hovered above a meadow in Schaan and pulled up Liechtenstein's mail on a rope, with a bottle of Vaduz wine. The post issued two stamps for the flight, at a time when stamps and postage brought in over a quarter of the state's income.",
+      "de": "Am 10. Juni 1931 schwebte der „Graf Zeppelin“ über einer Wiese in Schaan und zog die liechtensteinische Post an einem Seil nach oben, dazu eine Flasche Vaduzer Wein. Die Post gab zwei Briefmarken für den Flug heraus, zu einer Zeit, als Briefmarken und Porto über ein Viertel der Staatseinnahmen ausmachten.",
+      "fr": "Le 10 juin 1931, le Graf Zeppelin reste en vol stationnaire au-dessus d'une prairie de Schaan et hisse le courrier liechtensteinois au bout d'une corde, avec une bouteille de vin de Vaduz. La poste a émis deux timbres pour ce vol, à une époque où les timbres et l'affranchissement rapportaient plus d'un quart des recettes de l'État.",
+      "it": "Il 10 giugno 1931 il Graf Zeppelin rimase sospeso sopra un prato di Schaan e issò con una fune la posta del Liechtenstein, insieme a una bottiglia di vino di Vaduz. Per quel volo la posta emise due francobolli, in un'epoca in cui francobolli e affrancature portavano allo Stato più di un quarto delle entrate.",
+      "nl": "On 10 June 1931 the Graf Zeppelin hovered above a meadow in Schaan and pulled up Liechtenstein's mail on a rope, with a bottle of Vaduz wine. The post issued two stamps for the flight, at a time when stamps and postage brought in over a quarter of the state's income.",
+      "pl": "On 10 June 1931 the Graf Zeppelin hovered above a meadow in Schaan and pulled up Liechtenstein's mail on a rope, with a bottle of Vaduz wine. The post issued two stamps for the flight, at a time when stamps and postage brought in over a quarter of the state's income.",
+      "cs": "On 10 June 1931 the Graf Zeppelin hovered above a meadow in Schaan and pulled up Liechtenstein's mail on a rope, with a bottle of Vaduz wine. The post issued two stamps for the flight, at a time when stamps and postage brought in over a quarter of the state's income.",
+      "sk": "On 10 June 1931 the Graf Zeppelin hovered above a meadow in Schaan and pulled up Liechtenstein's mail on a rope, with a bottle of Vaduz wine. The post issued two stamps for the flight, at a time when stamps and postage brought in over a quarter of the state's income.",
+      "ro": "On 10 June 1931 the Graf Zeppelin hovered above a meadow in Schaan and pulled up Liechtenstein's mail on a rope, with a bottle of Vaduz wine. The post issued two stamps for the flight, at a time when stamps and postage brought in over a quarter of the state's income.",
+      "hu": "On 10 June 1931 the Graf Zeppelin hovered above a meadow in Schaan and pulled up Liechtenstein's mail on a rope, with a bottle of Vaduz wine. The post issued two stamps for the flight, at a time when stamps and postage brought in over a quarter of the state's income.",
+      "da": "On 10 June 1931 the Graf Zeppelin hovered above a meadow in Schaan and pulled up Liechtenstein's mail on a rope, with a bottle of Vaduz wine. The post issued two stamps for the flight, at a time when stamps and postage brought in over a quarter of the state's income."
+    },
+    "visual": {
+      "type": "stamp",
+      "stamp": {
+        "name": {
+          "en": "Vaduz Castle, Autumn",
+          "de": "Schloss Vaduz, Herbst",
+          "fr": "Château de Vaduz, automne",
+          "it": "Castello di Vaduz, autunno",
+          "nl": "Vaduz Castle, Autumn",
+          "pl": "Vaduz Castle, Autumn",
+          "cs": "Vaduz Castle, Autumn",
+          "sk": "Vaduz Castle, Autumn",
+          "ro": "Vaduz Castle, Autumn",
+          "hu": "Vaduz Castle, Autumn",
+          "da": "Vaduz Castle, Autumn"
+        },
+        "year": 2010,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/8312750c35b7a8c4/vaduz-stamp-fl_1513.png",
+          "width": 1100,
+          "height": 1345
+        },
+        "country": "LI",
+        "stamp_id": "SIQ-FL-2010-025"
+      }
+    },
+    "location": "Vaduz, Liechtenstein"
+  },
+  "blocks": [
+    {
+      "id": "catalogue",
+      "type": "text",
+      "label": {
+        "en": "In the catalogue",
+        "de": "Im Katalog",
+        "fr": "Dans le catalogue",
+        "it": "Nel catalogo",
+        "nl": "In the catalogue",
+        "pl": "In the catalogue",
+        "cs": "In the catalogue",
+        "sk": "In the catalogue",
+        "ro": "In the catalogue",
+        "hu": "In the catalogue",
+        "da": "In the catalogue"
+      },
+      "title": {
+        "en": "Liechtenstein's first stamps",
+        "de": "Liechtensteins erste Briefmarken",
+        "fr": "Les premiers timbres du Liechtenstein",
+        "it": "I primi francobolli del Liechtenstein",
+        "nl": "Liechtenstein's first stamps",
+        "pl": "Liechtenstein's first stamps",
+        "cs": "Liechtenstein's first stamps",
+        "sk": "Liechtenstein's first stamps",
+        "ro": "Liechtenstein's first stamps",
+        "hu": "Liechtenstein's first stamps",
+        "da": "Liechtenstein's first stamps"
+      },
+      "visual": {
+        "type": "phone",
+        "animation": {
+          "src": "https://assets.stampiq.io/blog/2a59f27794b1e46a/vaduz.mp4",
+          "width": 960,
+          "height": 2080,
+          "poster": "https://assets.stampiq.io/blog/c796ad1a4f1fd632/vaduz.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "A Liechtenstein album begins with three stamps of 1912, of 5, 10 and 25 Heller, each with Prince Johann II in profile. The lettering around the portrait reads \"FÜRSTENTUM LIECHTENSTEIN\" and \"K.K. ÖSTERR. POST\", the imperial and royal Austrian post. Why does a principality print the name of its neighbour's post on its first stamps?",
+          "de": "Ein Liechtenstein-Album beginnt mit drei Briefmarken von 1912, zu 5, 10 und 25 Heller, jede mit Fürst Johann II. im Profil. Rund um das Porträt steht „FÜRSTENTUM LIECHTENSTEIN“ und „K.K. ÖSTERR. POST“, die kaiserlich-königliche österreichische Post. Warum druckt ein Fürstentum auf seine ersten Briefmarken den Namen der Post des Nachbarn?",
+          "fr": "Un album du Liechtenstein commence par trois timbres de 1912, à 5, 10 et 25 heller, chacun montrant le prince Jean II de profil. Autour du portrait, on lit « FÜRSTENTUM LIECHTENSTEIN » et « K.K. ÖSTERR. POST », la poste impériale et royale autrichienne. Pourquoi une principauté imprime-t-elle le nom de la poste de son voisin sur ses premiers timbres ?",
+          "it": "Un album del Liechtenstein si apre con tre francobolli del 1912, da 5, 10 e 25 Heller, ognuno con il principe Giovanni II di profilo. La scritta intorno al ritratto dice \"FÜRSTENTUM LIECHTENSTEIN\" e \"K.K. ÖSTERR. POST\", la posta imperiale e regia austriaca. Perché un principato stampa sui suoi primi francobolli il nome della posta del vicino?",
+          "nl": "A Liechtenstein album begins with three stamps of 1912, of 5, 10 and 25 Heller, each with Prince Johann II in profile. The lettering around the portrait reads \"FÜRSTENTUM LIECHTENSTEIN\" and \"K.K. ÖSTERR. POST\", the imperial and royal Austrian post. Why does a principality print the name of its neighbour's post on its first stamps?",
+          "pl": "A Liechtenstein album begins with three stamps of 1912, of 5, 10 and 25 Heller, each with Prince Johann II in profile. The lettering around the portrait reads \"FÜRSTENTUM LIECHTENSTEIN\" and \"K.K. ÖSTERR. POST\", the imperial and royal Austrian post. Why does a principality print the name of its neighbour's post on its first stamps?",
+          "cs": "A Liechtenstein album begins with three stamps of 1912, of 5, 10 and 25 Heller, each with Prince Johann II in profile. The lettering around the portrait reads \"FÜRSTENTUM LIECHTENSTEIN\" and \"K.K. ÖSTERR. POST\", the imperial and royal Austrian post. Why does a principality print the name of its neighbour's post on its first stamps?",
+          "sk": "A Liechtenstein album begins with three stamps of 1912, of 5, 10 and 25 Heller, each with Prince Johann II in profile. The lettering around the portrait reads \"FÜRSTENTUM LIECHTENSTEIN\" and \"K.K. ÖSTERR. POST\", the imperial and royal Austrian post. Why does a principality print the name of its neighbour's post on its first stamps?",
+          "ro": "A Liechtenstein album begins with three stamps of 1912, of 5, 10 and 25 Heller, each with Prince Johann II in profile. The lettering around the portrait reads \"FÜRSTENTUM LIECHTENSTEIN\" and \"K.K. ÖSTERR. POST\", the imperial and royal Austrian post. Why does a principality print the name of its neighbour's post on its first stamps?",
+          "hu": "A Liechtenstein album begins with three stamps of 1912, of 5, 10 and 25 Heller, each with Prince Johann II in profile. The lettering around the portrait reads \"FÜRSTENTUM LIECHTENSTEIN\" and \"K.K. ÖSTERR. POST\", the imperial and royal Austrian post. Why does a principality print the name of its neighbour's post on its first stamps?",
+          "da": "A Liechtenstein album begins with three stamps of 1912, of 5, 10 and 25 Heller, each with Prince Johann II in profile. The lettering around the portrait reads \"FÜRSTENTUM LIECHTENSTEIN\" and \"K.K. ÖSTERR. POST\", the imperial and royal Austrian post. Why does a principality print the name of its neighbour's post on its first stamps?"
+        },
+        {
+          "en": "The \"Catalog\" tile on the Home screen of StampIQ opens the catalogues by country. In Liechtenstein, sorting by \"Year\" and turning the arrow puts the oldest first, with the three stamps of 1912 at the top. On the 5 Heller, \"Show on map\" puts the pin on Vaduz Castle. The carousel on the pin moves on to the other stamps placed there. In the StampIQ catalogue 367 stamps have their pin on the castle. Many of them show portraits of the princes or coats of arms, placed on the castle as the residence of the princely family.",
+          "de": "Über die Kachel „Katalog“ auf dem Startbildschirm von StampIQ öffnest du die Länderkataloge. Sortierst du Liechtenstein nach „Jahr“ und drehst den Pfeil um, stehen die ältesten Briefmarken oben, die drei von 1912 an der Spitze. Bei der 5-Heller-Marke setzt „Auf Karte anzeigen“ die Nadel auf Schloss Vaduz. Das Karussell an der Nadel führt weiter zu den anderen Briefmarken, die dort verortet sind. Im StampIQ-Katalog haben 367 Briefmarken ihre Nadel auf dem Schloss. Viele davon zeigen Porträts der Fürsten oder Wappen und sind dem Schloss als Wohnsitz der fürstlichen Familie zugeordnet.",
+          "fr": "La tuile « Catalogue » de l'écran Accueil de StampIQ ouvre les catalogues par pays. Pour le Liechtenstein, le tri par « Année » avec la flèche inversée place les plus anciens en tête, soit les trois timbres de 1912. Sur le 5 heller, « Voir sur la carte » pose le repère sur le château de Vaduz. Le carrousel du repère fait défiler les autres timbres situés au même endroit. Dans le catalogue StampIQ, 367 timbres ont leur repère sur le château. Beaucoup montrent des portraits de princes ou des armoiries, rattachés au château parce qu'il est la résidence de la famille princière.",
+          "it": "La scheda \"Catalogo\" nella schermata Home di StampIQ apre i cataloghi per Paese. Per il Liechtenstein, ordinando per \"Anno\" e invertendo la freccia, i più antichi finiscono in cima, con i tre francobolli del 1912 al primo posto. Sul 5 Heller, \"Mostra sulla mappa\" porta il segnaposto sul Castello di Vaduz. Il carosello sul segnaposto permette poi di scorrere gli altri francobolli collocati nello stesso punto. Nel catalogo StampIQ i francobolli con il segnaposto sul castello sono 367. Molti mostrano ritratti dei principi o stemmi, collocati sul castello come residenza della famiglia principesca.",
+          "nl": "The \"Catalog\" tile on the Home screen of StampIQ opens the catalogues by country. In Liechtenstein, sorting by \"Year\" and turning the arrow puts the oldest first, with the three stamps of 1912 at the top. On the 5 Heller, \"Show on map\" puts the pin on Vaduz Castle. The carousel on the pin moves on to the other stamps placed there. In the StampIQ catalogue 367 stamps have their pin on the castle. Many of them show portraits of the princes or coats of arms, placed on the castle as the residence of the princely family.",
+          "pl": "The \"Catalog\" tile on the Home screen of StampIQ opens the catalogues by country. In Liechtenstein, sorting by \"Year\" and turning the arrow puts the oldest first, with the three stamps of 1912 at the top. On the 5 Heller, \"Show on map\" puts the pin on Vaduz Castle. The carousel on the pin moves on to the other stamps placed there. In the StampIQ catalogue 367 stamps have their pin on the castle. Many of them show portraits of the princes or coats of arms, placed on the castle as the residence of the princely family.",
+          "cs": "The \"Catalog\" tile on the Home screen of StampIQ opens the catalogues by country. In Liechtenstein, sorting by \"Year\" and turning the arrow puts the oldest first, with the three stamps of 1912 at the top. On the 5 Heller, \"Show on map\" puts the pin on Vaduz Castle. The carousel on the pin moves on to the other stamps placed there. In the StampIQ catalogue 367 stamps have their pin on the castle. Many of them show portraits of the princes or coats of arms, placed on the castle as the residence of the princely family.",
+          "sk": "The \"Catalog\" tile on the Home screen of StampIQ opens the catalogues by country. In Liechtenstein, sorting by \"Year\" and turning the arrow puts the oldest first, with the three stamps of 1912 at the top. On the 5 Heller, \"Show on map\" puts the pin on Vaduz Castle. The carousel on the pin moves on to the other stamps placed there. In the StampIQ catalogue 367 stamps have their pin on the castle. Many of them show portraits of the princes or coats of arms, placed on the castle as the residence of the princely family.",
+          "ro": "The \"Catalog\" tile on the Home screen of StampIQ opens the catalogues by country. In Liechtenstein, sorting by \"Year\" and turning the arrow puts the oldest first, with the three stamps of 1912 at the top. On the 5 Heller, \"Show on map\" puts the pin on Vaduz Castle. The carousel on the pin moves on to the other stamps placed there. In the StampIQ catalogue 367 stamps have their pin on the castle. Many of them show portraits of the princes or coats of arms, placed on the castle as the residence of the princely family.",
+          "hu": "The \"Catalog\" tile on the Home screen of StampIQ opens the catalogues by country. In Liechtenstein, sorting by \"Year\" and turning the arrow puts the oldest first, with the three stamps of 1912 at the top. On the 5 Heller, \"Show on map\" puts the pin on Vaduz Castle. The carousel on the pin moves on to the other stamps placed there. In the StampIQ catalogue 367 stamps have their pin on the castle. Many of them show portraits of the princes or coats of arms, placed on the castle as the residence of the princely family.",
+          "da": "The \"Catalog\" tile on the Home screen of StampIQ opens the catalogues by country. In Liechtenstein, sorting by \"Year\" and turning the arrow puts the oldest first, with the three stamps of 1912 at the top. On the 5 Heller, \"Show on map\" puts the pin on Vaduz Castle. The carousel on the pin moves on to the other stamps placed there. In the StampIQ catalogue 367 stamps have their pin on the castle. Many of them show portraits of the princes or coats of arms, placed on the castle as the residence of the princely family."
+        },
+        {
+          "en": "Austria had run the post in Liechtenstein since the first post office opened in Balzers in 1839. The postal treaty of 4 October 1911 left the post with Austria. Liechtenstein got the right to issue its own stamps, to show that it was a sovereign state. The first three, designed by Koloman Moser, came out on 1 February 1912. The money from their sale went to the state treasury. Austrian stamps stayed valid beside them until the Swiss PTT took over the post on 1 February 1921. Letters franked with stamps of both countries are called \"Mitläufer\".",
+          "de": "Österreich betrieb die Post in Liechtenstein seit 1839, als in Balzers das erste Postamt öffnete. Der Postvertrag vom 4. Oktober 1911 beließ die Post bei Österreich. Liechtenstein erhielt das Recht, eigene Briefmarken herauszugeben, um sich als souveräner Staat zu zeigen. Die ersten drei, entworfen von Koloman Moser, erschienen am 1. Februar 1912. Der Erlös ging in die Staatskasse. Österreichische Briefmarken blieben daneben gültig, bis die Schweizer PTT am 1. Februar 1921 die Post übernahm. Briefe, die mit Marken beider Länder frankiert sind, heißen „Mitläufer“.",
+          "fr": "L'Autriche assurait le service postal au Liechtenstein depuis l'ouverture du premier bureau de poste à Balzers en 1839. Le traité postal du 4 octobre 1911 laissa la poste à l'Autriche. Le Liechtenstein obtint le droit d'émettre ses propres timbres, pour montrer qu'il était un État souverain. Les trois premiers, dessinés par Koloman Moser, parurent le 1er février 1912. Le produit de leur vente allait au Trésor de l'État. Les timbres autrichiens restèrent valables en parallèle jusqu'à la reprise de la poste par les PTT suisses, le 1er février 1921. On appelle « Mitläufer » les lettres affranchies avec des timbres des deux pays.",
+          "it": "L'Austria gestiva la posta nel Liechtenstein da quando, nel 1839, aprì a Balzers il primo ufficio postale. Il trattato postale del 4 ottobre 1911 lasciò il servizio all'Austria. Il Liechtenstein ottenne il diritto di emettere francobolli propri, per mostrare di essere uno Stato sovrano. I primi tre, disegnati da Koloman Moser, uscirono il 1° febbraio 1912. Il ricavato della vendita andava alla cassa dello Stato. Accanto a essi i francobolli austriaci restarono validi finché le PTT svizzere non assunsero il servizio postale, il 1° febbraio 1921. Le lettere affrancate con francobolli di entrambi i Paesi si chiamano \"Mitläufer\".",
+          "nl": "Austria had run the post in Liechtenstein since the first post office opened in Balzers in 1839. The postal treaty of 4 October 1911 left the post with Austria. Liechtenstein got the right to issue its own stamps, to show that it was a sovereign state. The first three, designed by Koloman Moser, came out on 1 February 1912. The money from their sale went to the state treasury. Austrian stamps stayed valid beside them until the Swiss PTT took over the post on 1 February 1921. Letters franked with stamps of both countries are called \"Mitläufer\".",
+          "pl": "Austria had run the post in Liechtenstein since the first post office opened in Balzers in 1839. The postal treaty of 4 October 1911 left the post with Austria. Liechtenstein got the right to issue its own stamps, to show that it was a sovereign state. The first three, designed by Koloman Moser, came out on 1 February 1912. The money from their sale went to the state treasury. Austrian stamps stayed valid beside them until the Swiss PTT took over the post on 1 February 1921. Letters franked with stamps of both countries are called \"Mitläufer\".",
+          "cs": "Austria had run the post in Liechtenstein since the first post office opened in Balzers in 1839. The postal treaty of 4 October 1911 left the post with Austria. Liechtenstein got the right to issue its own stamps, to show that it was a sovereign state. The first three, designed by Koloman Moser, came out on 1 February 1912. The money from their sale went to the state treasury. Austrian stamps stayed valid beside them until the Swiss PTT took over the post on 1 February 1921. Letters franked with stamps of both countries are called \"Mitläufer\".",
+          "sk": "Austria had run the post in Liechtenstein since the first post office opened in Balzers in 1839. The postal treaty of 4 October 1911 left the post with Austria. Liechtenstein got the right to issue its own stamps, to show that it was a sovereign state. The first three, designed by Koloman Moser, came out on 1 February 1912. The money from their sale went to the state treasury. Austrian stamps stayed valid beside them until the Swiss PTT took over the post on 1 February 1921. Letters franked with stamps of both countries are called \"Mitläufer\".",
+          "ro": "Austria had run the post in Liechtenstein since the first post office opened in Balzers in 1839. The postal treaty of 4 October 1911 left the post with Austria. Liechtenstein got the right to issue its own stamps, to show that it was a sovereign state. The first three, designed by Koloman Moser, came out on 1 February 1912. The money from their sale went to the state treasury. Austrian stamps stayed valid beside them until the Swiss PTT took over the post on 1 February 1921. Letters franked with stamps of both countries are called \"Mitläufer\".",
+          "hu": "Austria had run the post in Liechtenstein since the first post office opened in Balzers in 1839. The postal treaty of 4 October 1911 left the post with Austria. Liechtenstein got the right to issue its own stamps, to show that it was a sovereign state. The first three, designed by Koloman Moser, came out on 1 February 1912. The money from their sale went to the state treasury. Austrian stamps stayed valid beside them until the Swiss PTT took over the post on 1 February 1921. Letters franked with stamps of both countries are called \"Mitläufer\".",
+          "da": "Austria had run the post in Liechtenstein since the first post office opened in Balzers in 1839. The postal treaty of 4 October 1911 left the post with Austria. Liechtenstein got the right to issue its own stamps, to show that it was a sovereign state. The first three, designed by Koloman Moser, came out on 1 February 1912. The money from their sale went to the state treasury. Austrian stamps stayed valid beside them until the Swiss PTT took over the post on 1 February 1921. Letters franked with stamps of both countries are called \"Mitläufer\"."
+        }
+      ]
+    },
+    {
+      "id": "stamp",
+      "type": "text",
+      "label": {
+        "en": "The story",
+        "de": "Die Geschichte",
+        "fr": "L'histoire",
+        "it": "La storia",
+        "nl": "The story",
+        "pl": "The story",
+        "cs": "The story",
+        "sk": "The story",
+        "ro": "The story",
+        "hu": "The story",
+        "da": "The story"
+      },
+      "title": {
+        "en": "Zeppelin mail from Schaan",
+        "de": "Zeppelinpost aus Schaan",
+        "fr": "Le courrier du zeppelin à Schaan",
+        "it": "Posta Zeppelin da Schaan",
+        "nl": "Zeppelin mail from Schaan",
+        "pl": "Zeppelin mail from Schaan",
+        "cs": "Zeppelin mail from Schaan",
+        "sk": "Zeppelin mail from Schaan",
+        "ro": "Zeppelin mail from Schaan",
+        "hu": "Zeppelin mail from Schaan",
+        "da": "Zeppelin mail from Schaan"
+      },
+      "visual": {
+        "type": "stamp",
+        "stamp": {
+          "name": {
+            "en": "Vaduz Castle, Winter",
+            "de": "Schloss Vaduz, Winter",
+            "fr": "Château de Vaduz, hiver",
+            "it": "Castello di Vaduz, inverno",
+            "nl": "Vaduz Castle, Winter",
+            "pl": "Vaduz Castle, Winter",
+            "cs": "Vaduz Castle, Winter",
+            "sk": "Vaduz Castle, Winter",
+            "ro": "Vaduz Castle, Winter",
+            "hu": "Vaduz Castle, Winter",
+            "da": "Vaduz Castle, Winter"
+          },
+          "year": 2010,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/9059ab3853fe8841/vaduz-stamp-fl_1514.png",
+            "width": 1100,
+            "height": 1337
+          },
+          "country": "LI",
+          "stamp_id": "SIQ-FL-2010-026"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "At eight in the morning on 10 June 1931, in bad weather, thousands of people stood on a meadow in Schaan used as an airfield. The government was there with its stamp adviser, the German dealer Hermann E. Sieger. At 8.20 the airship LZ 127 \"Graf Zeppelin\" came in from Bendern and hovered 38 to 45 metres above the grass.",
+          "de": "Am 10. Juni 1931 standen um acht Uhr morgens bei schlechtem Wetter Tausende auf einer Wiese in Schaan, die als Flugfeld diente. Die Regierung war dabei, dazu ihr Briefmarkenberater, der deutsche Händler Hermann E. Sieger. Um 8.20 Uhr kam das Luftschiff LZ 127 „Graf Zeppelin“ von Bendern her und schwebte 38 bis 45 Meter über dem Gras.",
+          "fr": "Le 10 juin 1931 à huit heures du matin, par mauvais temps, des milliers de personnes se tenaient sur une prairie de Schaan qui servait de terrain d'aviation. Le gouvernement était là avec son conseiller en philatélie, le négociant allemand Hermann E. Sieger. À 8 h 20, le dirigeable LZ 127 « Graf Zeppelin » arriva de Bendern et resta en vol stationnaire entre 38 et 45 mètres au-dessus du pré.",
+          "it": "Alle otto del mattino del 10 giugno 1931, con brutto tempo, migliaia di persone si trovavano su un prato di Schaan usato come campo d'aviazione. C'era il governo con il suo consulente filatelico, il commerciante tedesco Hermann E. Sieger. Alle 8.20 il dirigibile LZ 127 \"Graf Zeppelin\" arrivò da Bendern e rimase sospeso a un'altezza tra 38 e 45 metri sopra il prato.",
+          "nl": "At eight in the morning on 10 June 1931, in bad weather, thousands of people stood on a meadow in Schaan used as an airfield. The government was there with its stamp adviser, the German dealer Hermann E. Sieger. At 8.20 the airship LZ 127 \"Graf Zeppelin\" came in from Bendern and hovered 38 to 45 metres above the grass.",
+          "pl": "At eight in the morning on 10 June 1931, in bad weather, thousands of people stood on a meadow in Schaan used as an airfield. The government was there with its stamp adviser, the German dealer Hermann E. Sieger. At 8.20 the airship LZ 127 \"Graf Zeppelin\" came in from Bendern and hovered 38 to 45 metres above the grass.",
+          "cs": "At eight in the morning on 10 June 1931, in bad weather, thousands of people stood on a meadow in Schaan used as an airfield. The government was there with its stamp adviser, the German dealer Hermann E. Sieger. At 8.20 the airship LZ 127 \"Graf Zeppelin\" came in from Bendern and hovered 38 to 45 metres above the grass.",
+          "sk": "At eight in the morning on 10 June 1931, in bad weather, thousands of people stood on a meadow in Schaan used as an airfield. The government was there with its stamp adviser, the German dealer Hermann E. Sieger. At 8.20 the airship LZ 127 \"Graf Zeppelin\" came in from Bendern and hovered 38 to 45 metres above the grass.",
+          "ro": "At eight in the morning on 10 June 1931, in bad weather, thousands of people stood on a meadow in Schaan used as an airfield. The government was there with its stamp adviser, the German dealer Hermann E. Sieger. At 8.20 the airship LZ 127 \"Graf Zeppelin\" came in from Bendern and hovered 38 to 45 metres above the grass.",
+          "hu": "At eight in the morning on 10 June 1931, in bad weather, thousands of people stood on a meadow in Schaan used as an airfield. The government was there with its stamp adviser, the German dealer Hermann E. Sieger. At 8.20 the airship LZ 127 \"Graf Zeppelin\" came in from Bendern and hovered 38 to 45 metres above the grass.",
+          "da": "At eight in the morning on 10 June 1931, in bad weather, thousands of people stood on a meadow in Schaan used as an airfield. The government was there with its stamp adviser, the German dealer Hermann E. Sieger. At 8.20 the airship LZ 127 \"Graf Zeppelin\" came in from Bendern and hovered 38 to 45 metres above the grass."
+        },
+        {
+          "en": "From that height the mail went up on a rope with a hook: four sacks, 80 kilos in all, with a bottle of Vaduz wine. Inside were 6,697 letters and 7,145 postcards with a special Zeppelin postmark. At 8.55 the airship went out of sight behind the Gonzen. It flew via Zurich and Bern to Lausanne, where the mail was dropped.",
+          "de": "Aus dieser Höhe ging die Post an einem Seil mit Haken nach oben: vier Säcke, zusammen 80 Kilo, dazu eine Flasche Vaduzer Wein. Darin lagen 6.697 Briefe und 7.145 Postkarten mit einem Zeppelin-Sonderstempel. Um 8.55 Uhr verschwand das Luftschiff hinter dem Gonzen. Es flog über Zürich und Bern nach Lausanne, wo die Post abgeworfen wurde.",
+          "fr": "Le courrier monta jusqu'à lui au bout d'une corde munie d'un crochet : quatre sacs, 80 kilos en tout, et une bouteille de vin de Vaduz. Ils contenaient 6 697 lettres et 7 145 cartes postales avec un cachet postal spécial du zeppelin. À 8 h 55, le dirigeable disparut derrière le Gonzen. Il passa par Zurich et Berne jusqu'à Lausanne, où le courrier fut largué.",
+          "it": "Da quell'altezza la posta venne issata con una fune munita di gancio: quattro sacchi, 80 chili in tutto, con una bottiglia di vino di Vaduz. Dentro c'erano 6.697 lettere e 7.145 cartoline con un annullo speciale Zeppelin. Alle 8.55 il dirigibile sparì dietro il Gonzen. Volò via Zurigo e Berna fino a Losanna, dove la posta fu sganciata.",
+          "nl": "From that height the mail went up on a rope with a hook: four sacks, 80 kilos in all, with a bottle of Vaduz wine. Inside were 6,697 letters and 7,145 postcards with a special Zeppelin postmark. At 8.55 the airship went out of sight behind the Gonzen. It flew via Zurich and Bern to Lausanne, where the mail was dropped.",
+          "pl": "From that height the mail went up on a rope with a hook: four sacks, 80 kilos in all, with a bottle of Vaduz wine. Inside were 6,697 letters and 7,145 postcards with a special Zeppelin postmark. At 8.55 the airship went out of sight behind the Gonzen. It flew via Zurich and Bern to Lausanne, where the mail was dropped.",
+          "cs": "From that height the mail went up on a rope with a hook: four sacks, 80 kilos in all, with a bottle of Vaduz wine. Inside were 6,697 letters and 7,145 postcards with a special Zeppelin postmark. At 8.55 the airship went out of sight behind the Gonzen. It flew via Zurich and Bern to Lausanne, where the mail was dropped.",
+          "sk": "From that height the mail went up on a rope with a hook: four sacks, 80 kilos in all, with a bottle of Vaduz wine. Inside were 6,697 letters and 7,145 postcards with a special Zeppelin postmark. At 8.55 the airship went out of sight behind the Gonzen. It flew via Zurich and Bern to Lausanne, where the mail was dropped.",
+          "ro": "From that height the mail went up on a rope with a hook: four sacks, 80 kilos in all, with a bottle of Vaduz wine. Inside were 6,697 letters and 7,145 postcards with a special Zeppelin postmark. At 8.55 the airship went out of sight behind the Gonzen. It flew via Zurich and Bern to Lausanne, where the mail was dropped.",
+          "hu": "From that height the mail went up on a rope with a hook: four sacks, 80 kilos in all, with a bottle of Vaduz wine. Inside were 6,697 letters and 7,145 postcards with a special Zeppelin postmark. At 8.55 the airship went out of sight behind the Gonzen. It flew via Zurich and Bern to Lausanne, where the mail was dropped.",
+          "da": "From that height the mail went up on a rope with a hook: four sacks, 80 kilos in all, with a bottle of Vaduz wine. Inside were 6,697 letters and 7,145 postcards with a special Zeppelin postmark. At 8.55 the airship went out of sight behind the Gonzen. It flew via Zurich and Bern to Lausanne, where the mail was dropped."
+        },
+        {
+          "en": "The post had issued two Zeppelin stamps for the flight, of 1 and 2 francs. They sold so fast that they brought about 65,000 francs into the post account. At that time stamp sales and postage made up over a quarter of the state's income. When Prince Franz I stepped down in 1938, the St. Louis Post-Dispatch called him the prince of the \"Postage Stamp State\" in its headline.",
+          "de": "Für den Flug hatte die Post zwei Zeppelinmarken zu 1 und 2 Franken herausgegeben. Sie verkauften sich so schnell, dass rund 65.000 Franken auf das Postkonto kamen. Briefmarkenverkauf und Porto machten damals über ein Viertel der Staatseinnahmen aus. Als Fürst Franz I. 1938 zurücktrat, nannte ihn der St. Louis Post-Dispatch in seiner Schlagzeile den Fürsten des „Postage Stamp State“.",
+          "fr": "La poste avait émis deux timbres zeppelin pour ce vol, à 1 et 2 francs. Ils se vendirent si vite qu'ils rapportèrent environ 65 000 francs au compte de la poste. À cette époque, la vente de timbres et l'affranchissement représentaient plus d'un quart des recettes de l'État. Quand le prince François Ier se retira en 1938, le St. Louis Post-Dispatch le désigna dans son titre comme le prince du « Postage Stamp State », l'État du timbre-poste.",
+          "it": "Per quel volo la posta aveva emesso due francobolli Zeppelin, da 1 e 2 franchi. Si vendettero così in fretta che portarono circa 65.000 franchi nelle casse della posta. All'epoca la vendita di francobolli e le affrancature costituivano più di un quarto delle entrate dello Stato. Quando il principe Francesco I si ritirò nel 1938, il St. Louis Post-Dispatch lo definì nel titolo il principe del \"Postage Stamp State\".",
+          "nl": "The post had issued two Zeppelin stamps for the flight, of 1 and 2 francs. They sold so fast that they brought about 65,000 francs into the post account. At that time stamp sales and postage made up over a quarter of the state's income. When Prince Franz I stepped down in 1938, the St. Louis Post-Dispatch called him the prince of the \"Postage Stamp State\" in its headline.",
+          "pl": "The post had issued two Zeppelin stamps for the flight, of 1 and 2 francs. They sold so fast that they brought about 65,000 francs into the post account. At that time stamp sales and postage made up over a quarter of the state's income. When Prince Franz I stepped down in 1938, the St. Louis Post-Dispatch called him the prince of the \"Postage Stamp State\" in its headline.",
+          "cs": "The post had issued two Zeppelin stamps for the flight, of 1 and 2 francs. They sold so fast that they brought about 65,000 francs into the post account. At that time stamp sales and postage made up over a quarter of the state's income. When Prince Franz I stepped down in 1938, the St. Louis Post-Dispatch called him the prince of the \"Postage Stamp State\" in its headline.",
+          "sk": "The post had issued two Zeppelin stamps for the flight, of 1 and 2 francs. They sold so fast that they brought about 65,000 francs into the post account. At that time stamp sales and postage made up over a quarter of the state's income. When Prince Franz I stepped down in 1938, the St. Louis Post-Dispatch called him the prince of the \"Postage Stamp State\" in its headline.",
+          "ro": "The post had issued two Zeppelin stamps for the flight, of 1 and 2 francs. They sold so fast that they brought about 65,000 francs into the post account. At that time stamp sales and postage made up over a quarter of the state's income. When Prince Franz I stepped down in 1938, the St. Louis Post-Dispatch called him the prince of the \"Postage Stamp State\" in its headline.",
+          "hu": "The post had issued two Zeppelin stamps for the flight, of 1 and 2 francs. They sold so fast that they brought about 65,000 francs into the post account. At that time stamp sales and postage made up over a quarter of the state's income. When Prince Franz I stepped down in 1938, the St. Louis Post-Dispatch called him the prince of the \"Postage Stamp State\" in its headline.",
+          "da": "The post had issued two Zeppelin stamps for the flight, of 1 and 2 francs. They sold so fast that they brought about 65,000 francs into the post account. At that time stamp sales and postage made up over a quarter of the state's income. When Prince Franz I stepped down in 1938, the St. Louis Post-Dispatch called him the prince of the \"Postage Stamp State\" in its headline."
+        },
+        {
+          "en": "The Europa stamp of 1979, \"Zeppelin über Schloss Vaduz\", shows the airship above the castle. It is inscribed \"ERSTER ZEPPELIN-SONDERFLUG 1931\" and has its pin there in StampIQ. The picture here is the winter stamp of 2010 from Jacques Sonderer's set \"Schloss Vaduz in den vier Jahreszeiten\", with the castle painted in watercolour.",
+          "de": "Die Europamarke von 1979, „Zeppelin über Schloss Vaduz“, zeigt das Luftschiff über dem Schloss. Sie trägt die Inschrift „ERSTER ZEPPELIN-SONDERFLUG 1931“. In StampIQ steht ihre Nadel ebenfalls am Schloss. Das Bild hier ist die Wintermarke von 2010 aus Jacques Sonderers Serie „Schloss Vaduz in den vier Jahreszeiten“, das Schloss als Aquarell.",
+          "fr": "Le timbre Europa de 1979, « Zeppelin über Schloss Vaduz », montre le dirigeable au-dessus du château. Il porte l'inscription « ERSTER ZEPPELIN-SONDERFLUG 1931 ». Dans StampIQ, son repère est posé sur le château. Le timbre montré ici est celui de l'hiver, émis en 2010 dans la série « Schloss Vaduz in den vier Jahreszeiten » de Jacques Sonderer, avec le château peint à l'aquarelle.",
+          "it": "Il francobollo Europa del 1979, \"Zeppelin über Schloss Vaduz\", mostra il dirigibile sopra il castello. Porta la scritta \"ERSTER ZEPPELIN-SONDERFLUG 1931\". In StampIQ il suo segnaposto è proprio lì. Il francobollo illustrato qui è quello invernale del 2010, dalla serie di Jacques Sonderer \"Schloss Vaduz in den vier Jahreszeiten\", con il castello dipinto ad acquerello.",
+          "nl": "The Europa stamp of 1979, \"Zeppelin über Schloss Vaduz\", shows the airship above the castle. It is inscribed \"ERSTER ZEPPELIN-SONDERFLUG 1931\" and has its pin there in StampIQ. The picture here is the winter stamp of 2010 from Jacques Sonderer's set \"Schloss Vaduz in den vier Jahreszeiten\", with the castle painted in watercolour.",
+          "pl": "The Europa stamp of 1979, \"Zeppelin über Schloss Vaduz\", shows the airship above the castle. It is inscribed \"ERSTER ZEPPELIN-SONDERFLUG 1931\" and has its pin there in StampIQ. The picture here is the winter stamp of 2010 from Jacques Sonderer's set \"Schloss Vaduz in den vier Jahreszeiten\", with the castle painted in watercolour.",
+          "cs": "The Europa stamp of 1979, \"Zeppelin über Schloss Vaduz\", shows the airship above the castle. It is inscribed \"ERSTER ZEPPELIN-SONDERFLUG 1931\" and has its pin there in StampIQ. The picture here is the winter stamp of 2010 from Jacques Sonderer's set \"Schloss Vaduz in den vier Jahreszeiten\", with the castle painted in watercolour.",
+          "sk": "The Europa stamp of 1979, \"Zeppelin über Schloss Vaduz\", shows the airship above the castle. It is inscribed \"ERSTER ZEPPELIN-SONDERFLUG 1931\" and has its pin there in StampIQ. The picture here is the winter stamp of 2010 from Jacques Sonderer's set \"Schloss Vaduz in den vier Jahreszeiten\", with the castle painted in watercolour.",
+          "ro": "The Europa stamp of 1979, \"Zeppelin über Schloss Vaduz\", shows the airship above the castle. It is inscribed \"ERSTER ZEPPELIN-SONDERFLUG 1931\" and has its pin there in StampIQ. The picture here is the winter stamp of 2010 from Jacques Sonderer's set \"Schloss Vaduz in den vier Jahreszeiten\", with the castle painted in watercolour.",
+          "hu": "The Europa stamp of 1979, \"Zeppelin über Schloss Vaduz\", shows the airship above the castle. It is inscribed \"ERSTER ZEPPELIN-SONDERFLUG 1931\" and has its pin there in StampIQ. The picture here is the winter stamp of 2010 from Jacques Sonderer's set \"Schloss Vaduz in den vier Jahreszeiten\", with the castle painted in watercolour.",
+          "da": "The Europa stamp of 1979, \"Zeppelin über Schloss Vaduz\", shows the airship above the castle. It is inscribed \"ERSTER ZEPPELIN-SONDERFLUG 1931\" and has its pin there in StampIQ. The picture here is the winter stamp of 2010 from Jacques Sonderer's set \"Schloss Vaduz in den vier Jahreszeiten\", with the castle painted in watercolour."
+        }
+      ]
+    },
+    {
+      "id": "castle",
+      "type": "text",
+      "label": {
+        "en": "Walking up",
+        "de": "Der Aufstieg",
+        "fr": "La montée",
+        "it": "La salita",
+        "nl": "Walking up",
+        "pl": "Walking up",
+        "cs": "Walking up",
+        "sk": "Walking up",
+        "ro": "Walking up",
+        "hu": "Walking up",
+        "da": "Walking up"
+      },
+      "title": {
+        "en": "The Schlossweg to the castle lawn",
+        "de": "Der Schlossweg zur Schlosswiese",
+        "fr": "Le Schlossweg jusqu'à la pelouse du château",
+        "it": "Lo Schlossweg fino al prato del castello",
+        "nl": "The Schlossweg to the castle lawn",
+        "pl": "The Schlossweg to the castle lawn",
+        "cs": "The Schlossweg to the castle lawn",
+        "sk": "The Schlossweg to the castle lawn",
+        "ro": "The Schlossweg to the castle lawn",
+        "hu": "The Schlossweg to the castle lawn",
+        "da": "The Schlossweg to the castle lawn"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/4dc5941a78a7c4f3/vaduz-castle-lawn.jpg",
+          "width": 2400,
+          "credit": "Christian David, CC BY-SA 4.0",
+          "height": 1661,
+          "caption": {
+            "en": "The keep and the round bastion of Vaduz Castle, seen from the path to the castle lawn.",
+            "de": "Bergfried und runde Bastion von Schloss Vaduz, vom Weg zur Schlosswiese aus gesehen.",
+            "fr": "Le donjon et le bastion rond du château de Vaduz, vus du chemin qui mène à la pelouse du château.",
+            "it": "Il mastio e il bastione rotondo del Castello di Vaduz, visti dal sentiero che porta al prato del castello.",
+            "nl": "The keep and the round bastion of Vaduz Castle, seen from the path to the castle lawn.",
+            "pl": "The keep and the round bastion of Vaduz Castle, seen from the path to the castle lawn.",
+            "cs": "The keep and the round bastion of Vaduz Castle, seen from the path to the castle lawn.",
+            "sk": "The keep and the round bastion of Vaduz Castle, seen from the path to the castle lawn.",
+            "ro": "The keep and the round bastion of Vaduz Castle, seen from the path to the castle lawn.",
+            "hu": "The keep and the round bastion of Vaduz Castle, seen from the path to the castle lawn.",
+            "da": "The keep and the round bastion of Vaduz Castle, seen from the path to the castle lawn."
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_de_Vaduz_-_2022.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "From the pedestrian zone the Schlossweg climbs past the princely vineyards. Halfway up, the small terrace Känzile looks out over Vaduz and across the Rhine. The path ends on the castle lawn, where you stand below the keep and the south bastion on their rock. At the bottom the walls of the keep are about 4 metres thick.",
+          "de": "Von der Fußgängerzone führt der Schlossweg bergauf an den fürstlichen Rebbergen vorbei. Auf halber Höhe geht der Blick von der kleinen Terrasse Känzile über Vaduz und über den Rhein. Der Weg endet auf der Schlosswiese, unterhalb von Bergfried und Südbastion auf ihrem Felsen. Unten sind die Mauern des Bergfrieds etwa 4 Meter dick.",
+          "fr": "Depuis la zone piétonne, le Schlossweg grimpe le long des vignes princières. À mi-parcours, la petite terrasse Känzile donne sur Vaduz et sur l'autre rive du Rhin. Le chemin se termine sur la pelouse du château, au pied du donjon et du bastion sud posés sur leur rocher. À la base, les murs du donjon font environ 4 mètres d'épaisseur.",
+          "it": "Dalla zona pedonale lo Schlossweg sale costeggiando i vigneti principeschi. A metà strada la piccola terrazza Känzile si affaccia su Vaduz e oltre il Reno. Il sentiero finisce sul prato del castello, dove ti trovi sotto il mastio e il bastione sud, che si ergono sulla rupe. Alla base le mura del mastio sono spesse circa 4 metri.",
+          "nl": "From the pedestrian zone the Schlossweg climbs past the princely vineyards. Halfway up, the small terrace Känzile looks out over Vaduz and across the Rhine. The path ends on the castle lawn, where you stand below the keep and the south bastion on their rock. At the bottom the walls of the keep are about 4 metres thick.",
+          "pl": "From the pedestrian zone the Schlossweg climbs past the princely vineyards. Halfway up, the small terrace Känzile looks out over Vaduz and across the Rhine. The path ends on the castle lawn, where you stand below the keep and the south bastion on their rock. At the bottom the walls of the keep are about 4 metres thick.",
+          "cs": "From the pedestrian zone the Schlossweg climbs past the princely vineyards. Halfway up, the small terrace Känzile looks out over Vaduz and across the Rhine. The path ends on the castle lawn, where you stand below the keep and the south bastion on their rock. At the bottom the walls of the keep are about 4 metres thick.",
+          "sk": "From the pedestrian zone the Schlossweg climbs past the princely vineyards. Halfway up, the small terrace Känzile looks out over Vaduz and across the Rhine. The path ends on the castle lawn, where you stand below the keep and the south bastion on their rock. At the bottom the walls of the keep are about 4 metres thick.",
+          "ro": "From the pedestrian zone the Schlossweg climbs past the princely vineyards. Halfway up, the small terrace Känzile looks out over Vaduz and across the Rhine. The path ends on the castle lawn, where you stand below the keep and the south bastion on their rock. At the bottom the walls of the keep are about 4 metres thick.",
+          "hu": "From the pedestrian zone the Schlossweg climbs past the princely vineyards. Halfway up, the small terrace Känzile looks out over Vaduz and across the Rhine. The path ends on the castle lawn, where you stand below the keep and the south bastion on their rock. At the bottom the walls of the keep are about 4 metres thick.",
+          "da": "From the pedestrian zone the Schlossweg climbs past the princely vineyards. Halfway up, the small terrace Känzile looks out over Vaduz and across the Rhine. The path ends on the castle lawn, where you stand below the keep and the south bastion on their rock. At the bottom the walls of the keep are about 4 metres thick."
+        }
+      ]
+    },
+    {
+      "id": "figures",
+      "type": "numbers",
+      "label": {
+        "en": "In figures",
+        "de": "In Zahlen",
+        "fr": "En chiffres",
+        "it": "In cifre",
+        "nl": "In figures",
+        "pl": "In figures",
+        "cs": "In figures",
+        "sk": "In figures",
+        "ro": "In figures",
+        "hu": "In figures",
+        "da": "In figures"
+      },
+      "title": {
+        "en": "Castle and stamps",
+        "de": "Schloss und Briefmarken",
+        "fr": "Le château et les timbres",
+        "it": "Castello e francobolli",
+        "nl": "Castle and stamps",
+        "pl": "Castle and stamps",
+        "cs": "Castle and stamps",
+        "sk": "Castle and stamps",
+        "ro": "Castle and stamps",
+        "hu": "Castle and stamps",
+        "da": "Castle and stamps"
+      },
+      "numbers": [
+        {
+          "text": {
+            "en": "The year the Liechtenstein family bought the castle with the County of Vaduz.",
+            "de": "In diesem Jahr kaufte die Familie Liechtenstein das Schloss mit der Grafschaft Vaduz.",
+            "fr": "L'année où la famille de Liechtenstein acheta le château avec le comté de Vaduz.",
+            "it": "L'anno in cui la famiglia del Liechtenstein acquistò il castello insieme alla contea di Vaduz.",
+            "nl": "The year the Liechtenstein family bought the castle with the County of Vaduz.",
+            "pl": "The year the Liechtenstein family bought the castle with the County of Vaduz.",
+            "cs": "The year the Liechtenstein family bought the castle with the County of Vaduz.",
+            "sk": "The year the Liechtenstein family bought the castle with the County of Vaduz.",
+            "ro": "The year the Liechtenstein family bought the castle with the County of Vaduz.",
+            "hu": "The year the Liechtenstein family bought the castle with the County of Vaduz.",
+            "da": "The year the Liechtenstein family bought the castle with the County of Vaduz."
+          },
+          "title": {
+            "en": "Owner",
+            "de": "Besitz",
+            "fr": "Propriétaire",
+            "it": "Proprietà",
+            "nl": "Owner",
+            "pl": "Owner",
+            "cs": "Owner",
+            "sk": "Owner",
+            "ro": "Owner",
+            "hu": "Owner",
+            "da": "Owner"
+          },
+          "value": "1712"
+        },
+        {
+          "text": {
+            "en": "The height above sea level of the rock the castle stands on.",
+            "de": "So hoch über dem Meer liegt der Felsen, auf dem das Schloss steht.",
+            "fr": "L'altitude du rocher sur lequel se dresse le château.",
+            "it": "L'altitudine della rupe su cui sorge il castello.",
+            "nl": "The height above sea level of the rock the castle stands on.",
+            "pl": "The height above sea level of the rock the castle stands on.",
+            "cs": "The height above sea level of the rock the castle stands on.",
+            "sk": "The height above sea level of the rock the castle stands on.",
+            "ro": "The height above sea level of the rock the castle stands on.",
+            "hu": "The height above sea level of the rock the castle stands on.",
+            "da": "The height above sea level of the rock the castle stands on."
+          },
+          "title": {
+            "en": "Castle rock",
+            "de": "Schlossfelsen",
+            "fr": "Rocher du château",
+            "it": "Rupe del castello",
+            "nl": "Castle rock",
+            "pl": "Castle rock",
+            "cs": "Castle rock",
+            "sk": "Castle rock",
+            "ro": "Castle rock",
+            "hu": "Castle rock",
+            "da": "Castle rock"
+          },
+          "value": "570 m"
+        },
+        {
+          "text": {
+            "en": "The approximate length of the footpath from the pedestrian zone to the castle lawn.",
+            "de": "Ungefähr so lang ist der Fußweg von der Fußgängerzone bis zur Schlosswiese.",
+            "fr": "La longueur approximative du chemin qui va de la zone piétonne à la pelouse du château.",
+            "it": "La lunghezza indicativa del sentiero dalla zona pedonale al prato del castello.",
+            "nl": "The approximate length of the footpath from the pedestrian zone to the castle lawn.",
+            "pl": "The approximate length of the footpath from the pedestrian zone to the castle lawn.",
+            "cs": "The approximate length of the footpath from the pedestrian zone to the castle lawn.",
+            "sk": "The approximate length of the footpath from the pedestrian zone to the castle lawn.",
+            "ro": "The approximate length of the footpath from the pedestrian zone to the castle lawn.",
+            "hu": "The approximate length of the footpath from the pedestrian zone to the castle lawn.",
+            "da": "The approximate length of the footpath from the pedestrian zone to the castle lawn."
+          },
+          "title": {
+            "en": "Schlossweg",
+            "de": "Schlossweg",
+            "fr": "Schlossweg",
+            "it": "Schlossweg",
+            "nl": "Schlossweg",
+            "pl": "Schlossweg",
+            "cs": "Schlossweg",
+            "sk": "Schlossweg",
+            "ro": "Schlossweg",
+            "hu": "Schlossweg",
+            "da": "Schlossweg"
+          },
+          "value": "1 km"
+        },
+        {
+          "text": {
+            "en": "The year the PostMuseum in Vaduz was founded.",
+            "de": "In diesem Jahr wurde das PostMuseum in Vaduz gegründet.",
+            "fr": "L'année de la fondation du PostMuseum à Vaduz.",
+            "it": "L'anno di fondazione del PostMuseum di Vaduz.",
+            "nl": "The year the PostMuseum in Vaduz was founded.",
+            "pl": "The year the PostMuseum in Vaduz was founded.",
+            "cs": "The year the PostMuseum in Vaduz was founded.",
+            "sk": "The year the PostMuseum in Vaduz was founded.",
+            "ro": "The year the PostMuseum in Vaduz was founded.",
+            "hu": "The year the PostMuseum in Vaduz was founded.",
+            "da": "The year the PostMuseum in Vaduz was founded."
+          },
+          "title": {
+            "en": "PostMuseum",
+            "de": "PostMuseum",
+            "fr": "PostMuseum",
+            "it": "PostMuseum",
+            "nl": "PostMuseum",
+            "pl": "PostMuseum",
+            "cs": "PostMuseum",
+            "sk": "PostMuseum",
+            "ro": "PostMuseum",
+            "hu": "PostMuseum",
+            "da": "PostMuseum"
+          },
+          "value": "1930"
+        }
+      ]
+    },
+    {
+      "id": "staedtle",
+      "type": "wide-photo",
+      "image": {
+        "src": "https://assets.stampiq.io/blog/73f4f396f5d3074c/vaduz-englaenderbau.jpg",
+        "width": 2400,
+        "credit": "Rafael P. D. Suppmann, CC BY-SA 4.0",
+        "height": 1600,
+        "caption": {
+          "en": "The Engländerbau on the Städtle, home of the PostMuseum, with the castle on the hill above.",
+          "de": "Der Engländerbau am Städtle mit dem PostMuseum, darüber auf dem Hügel das Schloss.",
+          "fr": "L'Engländerbau sur le Städtle, siège du PostMuseum, avec le château sur la hauteur.",
+          "it": "L'Engländerbau sullo Städtle, sede del PostMuseum, con il castello sulla collina alle spalle.",
+          "nl": "The Engländerbau on the Städtle, home of the PostMuseum, with the castle on the hill above.",
+          "pl": "The Engländerbau on the Städtle, home of the PostMuseum, with the castle on the hill above.",
+          "cs": "The Engländerbau on the Städtle, home of the PostMuseum, with the castle on the hill above.",
+          "sk": "The Engländerbau on the Städtle, home of the PostMuseum, with the castle on the hill above.",
+          "ro": "The Engländerbau on the Städtle, home of the PostMuseum, with the castle on the hill above.",
+          "hu": "The Engländerbau on the Städtle, home of the PostMuseum, with the castle on the hill above.",
+          "da": "The Engländerbau on the Städtle, home of the PostMuseum, with the castle on the hill above."
+        },
+        "source_url": "https://commons.wikimedia.org/wiki/File:2018-10-05_Liechtenstein,_Vaduz,_Postmuseum_(KPFC)_01.jpg"
+      }
+    },
+    {
+      "id": "visit",
+      "type": "text",
+      "label": {
+        "en": "On site",
+        "de": "Vor Ort",
+        "fr": "Sur place",
+        "it": "Sul posto",
+        "nl": "On site",
+        "pl": "On site",
+        "cs": "On site",
+        "sk": "On site",
+        "ro": "On site",
+        "hu": "On site",
+        "da": "On site"
+      },
+      "title": {
+        "en": "The PostMuseum in the Engländerbau",
+        "de": "Das PostMuseum im Engländerbau",
+        "fr": "Le PostMuseum dans l'Engländerbau",
+        "it": "Il PostMuseum nell'Engländerbau",
+        "nl": "The PostMuseum in the Engländerbau",
+        "pl": "The PostMuseum in the Engländerbau",
+        "cs": "The PostMuseum in the Engländerbau",
+        "sk": "The PostMuseum in the Engländerbau",
+        "ro": "The PostMuseum in the Engländerbau",
+        "hu": "The PostMuseum in the Engländerbau",
+        "da": "The PostMuseum in the Engländerbau"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/23932efd3e968d52/vaduz-moser-design.jpg",
+          "width": 1759,
+          "credit": "Pakeha, CC BY-SA 4.0",
+          "height": 2000,
+          "caption": {
+            "en": "Koloman Moser's 1912 design for a 2 Heller stamp, on show in the SchatzKammer.",
+            "de": "Koloman Mosers Entwurf von 1912 für eine 2-Heller-Marke, ausgestellt in der SchatzKammer.",
+            "fr": "Le projet de Koloman Moser pour un timbre à 2 heller, daté de 1912, exposé à la SchatzKammer.",
+            "it": "Il bozzetto di Koloman Moser del 1912 per un francobollo da 2 Heller, esposto nella SchatzKammer.",
+            "nl": "Koloman Moser's 1912 design for a 2 Heller stamp, on show in the SchatzKammer.",
+            "pl": "Koloman Moser's 1912 design for a 2 Heller stamp, on show in the SchatzKammer.",
+            "cs": "Koloman Moser's 1912 design for a 2 Heller stamp, on show in the SchatzKammer.",
+            "sk": "Koloman Moser's 1912 design for a 2 Heller stamp, on show in the SchatzKammer.",
+            "ro": "Koloman Moser's 1912 design for a 2 Heller stamp, on show in the SchatzKammer.",
+            "hu": "Koloman Moser's 1912 design for a 2 Heller stamp, on show in the SchatzKammer.",
+            "da": "Koloman Moser's 1912 design for a 2 Heller stamp, on show in the SchatzKammer."
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Briefmarkenentwurf_von_Kolomon_Moser_1912_(1).jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "Down in the Städtle, the PostMuseum is in the Engländerbau. Hermann E. Sieger, the adviser from the meadow in Schaan, had started it the year before the flight with a gift of 2,667 Liechtenstein stamps. It keeps a copy of every stamp the country's post has issued since 1912. Only a selection is on display at any one time. In the digital catalogue, in the museum and online, you can look up every one of them, the two Zeppelin stamps of 1931 among them.",
+          "de": "Unten am Städtle liegt das PostMuseum im Engländerbau. Hermann E. Sieger, der Briefmarkenberater von der Wiese in Schaan, gründete es im Jahr vor dem Flug mit einer Schenkung von 2.667 liechtensteinischen Briefmarken. Es bewahrt ein Exemplar jeder Briefmarke auf, die die Post des Landes seit 1912 herausgegeben hat. Gezeigt wird immer nur eine Auswahl. Im digitalen Katalog kannst du im Museum und online jede einzelne nachschlagen, auch die beiden Zeppelinmarken von 1931.",
+          "fr": "En bas, sur le Städtle, le PostMuseum occupe l'Engländerbau. Hermann E. Sieger, le conseiller présent sur la prairie de Schaan, l'avait fondé l'année précédant le vol, avec un don de 2 667 timbres du Liechtenstein. Il conserve un exemplaire de chaque timbre émis par la poste du pays depuis 1912. Seule une sélection est exposée à la fois. Le catalogue numérique, au musée comme en ligne, permet de les consulter tous, y compris les deux timbres zeppelin de 1931.",
+          "it": "Giù nello Städtle, il PostMuseum si trova nell'Engländerbau. Lo aveva fondato Hermann E. Sieger, il consulente presente sul prato di Schaan, l'anno prima del volo, con una donazione di 2.667 francobolli del Liechtenstein. Conserva un esemplare di ogni francobollo emesso dalla posta del Paese dal 1912. In esposizione c'è sempre solo una selezione. Nel catalogo digitale, in museo e online, puoi consultarli tutti, compresi i due francobolli Zeppelin del 1931.",
+          "nl": "Down in the Städtle, the PostMuseum is in the Engländerbau. Hermann E. Sieger, the adviser from the meadow in Schaan, had started it the year before the flight with a gift of 2,667 Liechtenstein stamps. It keeps a copy of every stamp the country's post has issued since 1912. Only a selection is on display at any one time. In the digital catalogue, in the museum and online, you can look up every one of them, the two Zeppelin stamps of 1931 among them.",
+          "pl": "Down in the Städtle, the PostMuseum is in the Engländerbau. Hermann E. Sieger, the adviser from the meadow in Schaan, had started it the year before the flight with a gift of 2,667 Liechtenstein stamps. It keeps a copy of every stamp the country's post has issued since 1912. Only a selection is on display at any one time. In the digital catalogue, in the museum and online, you can look up every one of them, the two Zeppelin stamps of 1931 among them.",
+          "cs": "Down in the Städtle, the PostMuseum is in the Engländerbau. Hermann E. Sieger, the adviser from the meadow in Schaan, had started it the year before the flight with a gift of 2,667 Liechtenstein stamps. It keeps a copy of every stamp the country's post has issued since 1912. Only a selection is on display at any one time. In the digital catalogue, in the museum and online, you can look up every one of them, the two Zeppelin stamps of 1931 among them.",
+          "sk": "Down in the Städtle, the PostMuseum is in the Engländerbau. Hermann E. Sieger, the adviser from the meadow in Schaan, had started it the year before the flight with a gift of 2,667 Liechtenstein stamps. It keeps a copy of every stamp the country's post has issued since 1912. Only a selection is on display at any one time. In the digital catalogue, in the museum and online, you can look up every one of them, the two Zeppelin stamps of 1931 among them.",
+          "ro": "Down in the Städtle, the PostMuseum is in the Engländerbau. Hermann E. Sieger, the adviser from the meadow in Schaan, had started it the year before the flight with a gift of 2,667 Liechtenstein stamps. It keeps a copy of every stamp the country's post has issued since 1912. Only a selection is on display at any one time. In the digital catalogue, in the museum and online, you can look up every one of them, the two Zeppelin stamps of 1931 among them.",
+          "hu": "Down in the Städtle, the PostMuseum is in the Engländerbau. Hermann E. Sieger, the adviser from the meadow in Schaan, had started it the year before the flight with a gift of 2,667 Liechtenstein stamps. It keeps a copy of every stamp the country's post has issued since 1912. Only a selection is on display at any one time. In the digital catalogue, in the museum and online, you can look up every one of them, the two Zeppelin stamps of 1931 among them.",
+          "da": "Down in the Städtle, the PostMuseum is in the Engländerbau. Hermann E. Sieger, the adviser from the meadow in Schaan, had started it the year before the flight with a gift of 2,667 Liechtenstein stamps. It keeps a copy of every stamp the country's post has issued since 1912. Only a selection is on display at any one time. In the digital catalogue, in the museum and online, you can look up every one of them, the two Zeppelin stamps of 1931 among them."
+        },
+        {
+          "en": "An interactive display in the museum follows the Lindau Messenger, which ran once a week from Lindau through today's Liechtenstein to Milan until 1826, with mail, goods and passengers. Goethe travelled with it on his way home from Italy in 1788. He is said to have spent the night of 1 to 2 June in the Taverne zum Adler, an imperial inn and post station at Städtle 43. The building is now the LandesMuseum.",
+          "de": "Eine interaktive Station im Museum folgt dem Lindauer Boten, der bis 1826 einmal pro Woche von Lindau durch das heutige Liechtenstein nach Mailand fuhr, mit Post, Waren und Reisenden. Goethe fuhr 1788 auf dem Heimweg aus Italien mit ihm. Die Nacht vom 1. auf den 2. Juni soll er in der Taverne zum Adler verbracht haben, einem Reichsgasthaus und einer Poststation am Städtle 43. Im Gebäude ist heute das LandesMuseum.",
+          "fr": "Une installation interactive du musée suit le messager de Lindau. Jusqu'en 1826, il reliait une fois par semaine Lindau à Milan en traversant l'actuel Liechtenstein, avec le courrier, des marchandises et des voyageurs. Goethe voyagea avec lui en 1788, au retour d'Italie. Il aurait passé la nuit du 1er au 2 juin à la Taverne zum Adler, auberge impériale et relais de poste au Städtle 43. Le bâtiment abrite aujourd'hui le LandesMuseum.",
+          "it": "Un'installazione interattiva nel museo segue il corriere di Lindau, che fino al 1826 viaggiava una volta alla settimana da Lindau a Milano passando per l'odierno Liechtenstein, con posta, merci e passeggeri. Con questo corriere viaggiò anche Goethe nel 1788, tornando dall'Italia. Si dice che abbia passato la notte fra il 1° e il 2 giugno nella Taverne zum Adler, locanda imperiale e stazione di posta a Städtle 43. Oggi l'edificio ospita il LandesMuseum.",
+          "nl": "An interactive display in the museum follows the Lindau Messenger, which ran once a week from Lindau through today's Liechtenstein to Milan until 1826, with mail, goods and passengers. Goethe travelled with it on his way home from Italy in 1788. He is said to have spent the night of 1 to 2 June in the Taverne zum Adler, an imperial inn and post station at Städtle 43. The building is now the LandesMuseum.",
+          "pl": "An interactive display in the museum follows the Lindau Messenger, which ran once a week from Lindau through today's Liechtenstein to Milan until 1826, with mail, goods and passengers. Goethe travelled with it on his way home from Italy in 1788. He is said to have spent the night of 1 to 2 June in the Taverne zum Adler, an imperial inn and post station at Städtle 43. The building is now the LandesMuseum.",
+          "cs": "An interactive display in the museum follows the Lindau Messenger, which ran once a week from Lindau through today's Liechtenstein to Milan until 1826, with mail, goods and passengers. Goethe travelled with it on his way home from Italy in 1788. He is said to have spent the night of 1 to 2 June in the Taverne zum Adler, an imperial inn and post station at Städtle 43. The building is now the LandesMuseum.",
+          "sk": "An interactive display in the museum follows the Lindau Messenger, which ran once a week from Lindau through today's Liechtenstein to Milan until 1826, with mail, goods and passengers. Goethe travelled with it on his way home from Italy in 1788. He is said to have spent the night of 1 to 2 June in the Taverne zum Adler, an imperial inn and post station at Städtle 43. The building is now the LandesMuseum.",
+          "ro": "An interactive display in the museum follows the Lindau Messenger, which ran once a week from Lindau through today's Liechtenstein to Milan until 1826, with mail, goods and passengers. Goethe travelled with it on his way home from Italy in 1788. He is said to have spent the night of 1 to 2 June in the Taverne zum Adler, an imperial inn and post station at Städtle 43. The building is now the LandesMuseum.",
+          "hu": "An interactive display in the museum follows the Lindau Messenger, which ran once a week from Lindau through today's Liechtenstein to Milan until 1826, with mail, goods and passengers. Goethe travelled with it on his way home from Italy in 1788. He is said to have spent the night of 1 to 2 June in the Taverne zum Adler, an imperial inn and post station at Städtle 43. The building is now the LandesMuseum.",
+          "da": "An interactive display in the museum follows the Lindau Messenger, which ran once a week from Lindau through today's Liechtenstein to Milan until 1826, with mail, goods and passengers. Goethe travelled with it on his way home from Italy in 1788. He is said to have spent the night of 1 to 2 June in the Taverne zum Adler, an imperial inn and post station at Städtle 43. The building is now the LandesMuseum."
+        },
+        {
+          "en": "In the SchatzKammer, also on the Städtle, one of Koloman Moser's designs of 1912 is on show. It is for a 2 Heller value, with the prince in profile inside an ornamental frame, the way he appears on the 5 Heller.",
+          "de": "In der SchatzKammer, ebenfalls am Städtle, ist einer der Entwürfe von Koloman Moser aus dem Jahr 1912 zu sehen. Er ist für einen Wert zu 2 Heller gedacht, mit dem Fürsten im Profil in einem Zierrahmen, so wie er auf der 5-Heller-Marke erscheint.",
+          "fr": "La SchatzKammer, également sur le Städtle, expose l'un des projets de Koloman Moser de 1912. Il s'agit d'une valeur à 2 heller, avec le prince de profil dans un cadre ornemental, comme sur le 5 heller.",
+          "it": "Nella SchatzKammer, anch'essa sullo Städtle, è esposto uno dei bozzetti di Koloman Moser del 1912. Si tratta di un valore da 2 Heller, con il principe di profilo dentro una cornice ornamentale, come sul 5 Heller.",
+          "nl": "In the SchatzKammer, also on the Städtle, one of Koloman Moser's designs of 1912 is on show. It is for a 2 Heller value, with the prince in profile inside an ornamental frame, the way he appears on the 5 Heller.",
+          "pl": "In the SchatzKammer, also on the Städtle, one of Koloman Moser's designs of 1912 is on show. It is for a 2 Heller value, with the prince in profile inside an ornamental frame, the way he appears on the 5 Heller.",
+          "cs": "In the SchatzKammer, also on the Städtle, one of Koloman Moser's designs of 1912 is on show. It is for a 2 Heller value, with the prince in profile inside an ornamental frame, the way he appears on the 5 Heller.",
+          "sk": "In the SchatzKammer, also on the Städtle, one of Koloman Moser's designs of 1912 is on show. It is for a 2 Heller value, with the prince in profile inside an ornamental frame, the way he appears on the 5 Heller.",
+          "ro": "In the SchatzKammer, also on the Städtle, one of Koloman Moser's designs of 1912 is on show. It is for a 2 Heller value, with the prince in profile inside an ornamental frame, the way he appears on the 5 Heller.",
+          "hu": "In the SchatzKammer, also on the Städtle, one of Koloman Moser's designs of 1912 is on show. It is for a 2 Heller value, with the prince in profile inside an ornamental frame, the way he appears on the 5 Heller.",
+          "da": "In the SchatzKammer, also on the Städtle, one of Koloman Moser's designs of 1912 is on show. It is for a 2 Heller value, with the prince in profile inside an ornamental frame, the way he appears on the 5 Heller."
+        }
+      ]
+    },
+    {
+      "id": "practical",
+      "rows": [
+        {
+          "label": {
+            "en": "PostMuseum",
+            "de": "PostMuseum",
+            "fr": "PostMuseum",
+            "it": "PostMuseum",
+            "nl": "PostMuseum",
+            "pl": "PostMuseum",
+            "cs": "PostMuseum",
+            "sk": "PostMuseum",
+            "ro": "PostMuseum",
+            "hu": "PostMuseum",
+            "da": "PostMuseum"
+          },
+          "value": {
+            "en": "Engländerbau, Städtle, 9490 Vaduz; daily 10:00 to 17:00, Mondays too; free entry",
+            "de": "Engländerbau, Städtle, 9490 Vaduz; täglich 10:00 bis 17:00 Uhr, auch montags; Eintritt frei",
+            "fr": "Engländerbau, Städtle, 9490 Vaduz ; tous les jours de 10 h à 17 h, lundi compris ; entrée libre",
+            "it": "Engländerbau, Städtle, 9490 Vaduz; tutti i giorni dalle 10:00 alle 17:00, lunedì compreso; ingresso gratuito",
+            "nl": "Engländerbau, Städtle, 9490 Vaduz; daily 10:00 to 17:00, Mondays too; free entry",
+            "pl": "Engländerbau, Städtle, 9490 Vaduz; daily 10:00 to 17:00, Mondays too; free entry",
+            "cs": "Engländerbau, Städtle, 9490 Vaduz; daily 10:00 to 17:00, Mondays too; free entry",
+            "sk": "Engländerbau, Städtle, 9490 Vaduz; daily 10:00 to 17:00, Mondays too; free entry",
+            "ro": "Engländerbau, Städtle, 9490 Vaduz; daily 10:00 to 17:00, Mondays too; free entry",
+            "hu": "Engländerbau, Städtle, 9490 Vaduz; daily 10:00 to 17:00, Mondays too; free entry",
+            "da": "Engländerbau, Städtle, 9490 Vaduz; daily 10:00 to 17:00, Mondays too; free entry"
+          }
+        },
+        {
+          "label": {
+            "en": "SchatzKammer",
+            "de": "SchatzKammer",
+            "fr": "SchatzKammer",
+            "it": "SchatzKammer",
+            "nl": "SchatzKammer",
+            "pl": "SchatzKammer",
+            "cs": "SchatzKammer",
+            "sk": "SchatzKammer",
+            "ro": "SchatzKammer",
+            "hu": "SchatzKammer",
+            "da": "SchatzKammer"
+          },
+          "value": {
+            "en": "Daily 10:00 to 17:00; CHF 8, reduced CHF 6; at most twelve visitors inside at a time",
+            "de": "Täglich 10:00 bis 17:00 Uhr; CHF 8, ermäßigt CHF 6; höchstens zwölf Besucher gleichzeitig im Raum",
+            "fr": "Tous les jours de 10 h à 17 h ; CHF 8, tarif réduit CHF 6 ; douze visiteurs au maximum à l'intérieur en même temps",
+            "it": "Tutti i giorni dalle 10:00 alle 17:00; CHF 8, ridotto CHF 6; al massimo dodici visitatori alla volta",
+            "nl": "Daily 10:00 to 17:00; CHF 8, reduced CHF 6; at most twelve visitors inside at a time",
+            "pl": "Daily 10:00 to 17:00; CHF 8, reduced CHF 6; at most twelve visitors inside at a time",
+            "cs": "Daily 10:00 to 17:00; CHF 8, reduced CHF 6; at most twelve visitors inside at a time",
+            "sk": "Daily 10:00 to 17:00; CHF 8, reduced CHF 6; at most twelve visitors inside at a time",
+            "ro": "Daily 10:00 to 17:00; CHF 8, reduced CHF 6; at most twelve visitors inside at a time",
+            "hu": "Daily 10:00 to 17:00; CHF 8, reduced CHF 6; at most twelve visitors inside at a time",
+            "da": "Daily 10:00 to 17:00; CHF 8, reduced CHF 6; at most twelve visitors inside at a time"
+          }
+        },
+        {
+          "label": {
+            "en": "LandesMuseum",
+            "de": "LandesMuseum",
+            "fr": "LandesMuseum",
+            "it": "LandesMuseum",
+            "nl": "LandesMuseum",
+            "pl": "LandesMuseum",
+            "cs": "LandesMuseum",
+            "sk": "LandesMuseum",
+            "ro": "LandesMuseum",
+            "hu": "LandesMuseum",
+            "da": "LandesMuseum"
+          },
+          "value": {
+            "en": "Städtle 43, 9490 Vaduz; Tuesday to Sunday 10:00 to 17:00, Wednesday until 20:00, closed on Mondays; CHF 10, reduced CHF 7",
+            "de": "Städtle 43, 9490 Vaduz; Dienstag bis Sonntag 10:00 bis 17:00 Uhr, Mittwoch bis 20:00 Uhr, montags geschlossen; CHF 10, ermäßigt CHF 7",
+            "fr": "Städtle 43, 9490 Vaduz ; du mardi au dimanche de 10 h à 17 h, mercredi jusqu'à 20 h, fermé le lundi ; CHF 10, tarif réduit CHF 7",
+            "it": "Städtle 43, 9490 Vaduz; da martedì a domenica dalle 10:00 alle 17:00, mercoledì fino alle 20:00, lunedì chiuso; CHF 10, ridotto CHF 7",
+            "nl": "Städtle 43, 9490 Vaduz; Tuesday to Sunday 10:00 to 17:00, Wednesday until 20:00, closed on Mondays; CHF 10, reduced CHF 7",
+            "pl": "Städtle 43, 9490 Vaduz; Tuesday to Sunday 10:00 to 17:00, Wednesday until 20:00, closed on Mondays; CHF 10, reduced CHF 7",
+            "cs": "Städtle 43, 9490 Vaduz; Tuesday to Sunday 10:00 to 17:00, Wednesday until 20:00, closed on Mondays; CHF 10, reduced CHF 7",
+            "sk": "Städtle 43, 9490 Vaduz; Tuesday to Sunday 10:00 to 17:00, Wednesday until 20:00, closed on Mondays; CHF 10, reduced CHF 7",
+            "ro": "Städtle 43, 9490 Vaduz; Tuesday to Sunday 10:00 to 17:00, Wednesday until 20:00, closed on Mondays; CHF 10, reduced CHF 7",
+            "hu": "Städtle 43, 9490 Vaduz; Tuesday to Sunday 10:00 to 17:00, Wednesday until 20:00, closed on Mondays; CHF 10, reduced CHF 7",
+            "da": "Städtle 43, 9490 Vaduz; Tuesday to Sunday 10:00 to 17:00, Wednesday until 20:00, closed on Mondays; CHF 10, reduced CHF 7"
+          }
+        },
+        {
+          "label": {
+            "en": "Combined ticket",
+            "de": "Kombiticket",
+            "fr": "Billet combiné",
+            "it": "Biglietto combinato",
+            "nl": "Combined ticket",
+            "pl": "Combined ticket",
+            "cs": "Combined ticket",
+            "sk": "Combined ticket",
+            "ro": "Combined ticket",
+            "hu": "Combined ticket",
+            "da": "Combined ticket"
+          },
+          "value": {
+            "en": "SchatzKammer and LandesMuseum CHF 13, reduced CHF 10",
+            "de": "SchatzKammer und LandesMuseum CHF 13, ermäßigt CHF 10",
+            "fr": "SchatzKammer et LandesMuseum CHF 13, tarif réduit CHF 10",
+            "it": "SchatzKammer e LandesMuseum CHF 13, ridotto CHF 10",
+            "nl": "SchatzKammer and LandesMuseum CHF 13, reduced CHF 10",
+            "pl": "SchatzKammer and LandesMuseum CHF 13, reduced CHF 10",
+            "cs": "SchatzKammer and LandesMuseum CHF 13, reduced CHF 10",
+            "sk": "SchatzKammer and LandesMuseum CHF 13, reduced CHF 10",
+            "ro": "SchatzKammer and LandesMuseum CHF 13, reduced CHF 10",
+            "hu": "SchatzKammer and LandesMuseum CHF 13, reduced CHF 10",
+            "da": "SchatzKammer and LandesMuseum CHF 13, reduced CHF 10"
+          }
+        },
+        {
+          "label": {
+            "en": "Children",
+            "de": "Kinder",
+            "fr": "Enfants",
+            "it": "Bambini",
+            "nl": "Children",
+            "pl": "Children",
+            "cs": "Children",
+            "sk": "Children",
+            "ro": "Children",
+            "hu": "Children",
+            "da": "Children"
+          },
+          "value": {
+            "en": "Free up to the age of 16",
+            "de": "Bis 16 Jahre frei",
+            "fr": "Gratuit jusqu'à 16 ans",
+            "it": "Gratis fino a 16 anni",
+            "nl": "Free up to the age of 16",
+            "pl": "Free up to the age of 16",
+            "cs": "Free up to the age of 16",
+            "sk": "Free up to the age of 16",
+            "ro": "Free up to the age of 16",
+            "hu": "Free up to the age of 16",
+            "da": "Free up to the age of 16"
+          }
+        },
+        {
+          "label": {
+            "en": "Closed",
+            "de": "Geschlossen",
+            "fr": "Jours de fermeture",
+            "it": "Chiusure",
+            "nl": "Closed",
+            "pl": "Closed",
+            "cs": "Closed",
+            "sk": "Closed",
+            "ro": "Closed",
+            "hu": "Closed",
+            "da": "Closed"
+          },
+          "value": {
+            "en": "24, 25 and 31 December, 1 January",
+            "de": "24., 25. und 31. Dezember, 1. Januar",
+            "fr": "24, 25 et 31 décembre, 1er janvier",
+            "it": "24, 25 e 31 dicembre, 1° gennaio",
+            "nl": "24, 25 and 31 December, 1 January",
+            "pl": "24, 25 and 31 December, 1 January",
+            "cs": "24, 25 and 31 December, 1 January",
+            "sk": "24, 25 and 31 December, 1 January",
+            "ro": "24, 25 and 31 December, 1 January",
+            "hu": "24, 25 and 31 December, 1 January",
+            "da": "24, 25 and 31 December, 1 January"
+          }
+        },
+        {
+          "label": {
+            "en": "Exhibition",
+            "de": "Ausstellung",
+            "fr": "Exposition",
+            "it": "Mostra",
+            "nl": "Exhibition",
+            "pl": "Exhibition",
+            "cs": "Exhibition",
+            "sk": "Exhibition",
+            "ro": "Exhibition",
+            "hu": "Exhibition",
+            "da": "Exhibition"
+          },
+          "value": {
+            "en": "\"Ohne Liebe geht es nicht\", stamps by Silvia Ruppen, 29 October 2026 to 25 April 2027; tour with the curator and the designer on 20 November at 14:30",
+            "de": "„Ohne Liebe geht es nicht“, Briefmarken von Silvia Ruppen, 29. Oktober 2026 bis 25. April 2027; Führung mit Kuratorin und Gestalterin am 20. November um 14:30 Uhr",
+            "fr": "« Ohne Liebe geht es nicht », timbres de Silvia Ruppen, du 29 octobre 2026 au 25 avril 2027 ; visite guidée avec la commissaire d'exposition et la graphiste le 20 novembre à 14 h 30",
+            "it": "\"Ohne Liebe geht es nicht\", francobolli di Silvia Ruppen, dal 29 ottobre 2026 al 25 aprile 2027; visita guidata con la curatrice e la designer il 20 novembre alle 14:30",
+            "nl": "\"Ohne Liebe geht es nicht\", stamps by Silvia Ruppen, 29 October 2026 to 25 April 2027; tour with the curator and the designer on 20 November at 14:30",
+            "pl": "\"Ohne Liebe geht es nicht\", stamps by Silvia Ruppen, 29 October 2026 to 25 April 2027; tour with the curator and the designer on 20 November at 14:30",
+            "cs": "\"Ohne Liebe geht es nicht\", stamps by Silvia Ruppen, 29 October 2026 to 25 April 2027; tour with the curator and the designer on 20 November at 14:30",
+            "sk": "\"Ohne Liebe geht es nicht\", stamps by Silvia Ruppen, 29 October 2026 to 25 April 2027; tour with the curator and the designer on 20 November at 14:30",
+            "ro": "\"Ohne Liebe geht es nicht\", stamps by Silvia Ruppen, 29 October 2026 to 25 April 2027; tour with the curator and the designer on 20 November at 14:30",
+            "hu": "\"Ohne Liebe geht es nicht\", stamps by Silvia Ruppen, 29 October 2026 to 25 April 2027; tour with the curator and the designer on 20 November at 14:30",
+            "da": "\"Ohne Liebe geht es nicht\", stamps by Silvia Ruppen, 29 October 2026 to 25 April 2027; tour with the curator and the designer on 20 November at 14:30"
+          }
+        },
+        {
+          "label": {
+            "en": "Castle",
+            "de": "Schloss",
+            "fr": "Château",
+            "it": "Castello",
+            "nl": "Castle",
+            "pl": "Castle",
+            "cs": "Castle",
+            "sk": "Castle",
+            "ro": "Castle",
+            "hu": "Castle",
+            "da": "Castle"
+          },
+          "value": {
+            "en": "Seen from the castle lawn at the end of the Schlossweg",
+            "de": "Von der Schlosswiese am Ende des Schlosswegs aus zu sehen",
+            "fr": "Visible depuis la pelouse du château, au bout du Schlossweg",
+            "it": "Visibile dal prato del castello, al termine dello Schlossweg",
+            "nl": "Seen from the castle lawn at the end of the Schlossweg",
+            "pl": "Seen from the castle lawn at the end of the Schlossweg",
+            "cs": "Seen from the castle lawn at the end of the Schlossweg",
+            "sk": "Seen from the castle lawn at the end of the Schlossweg",
+            "ro": "Seen from the castle lawn at the end of the Schlossweg",
+            "hu": "Seen from the castle lawn at the end of the Schlossweg",
+            "da": "Seen from the castle lawn at the end of the Schlossweg"
+          }
+        },
+        {
+          "label": {
+            "en": "PostMuseum phone",
+            "de": "Telefon PostMuseum",
+            "fr": "Téléphone du PostMuseum",
+            "it": "Telefono PostMuseum",
+            "nl": "PostMuseum phone",
+            "pl": "PostMuseum phone",
+            "cs": "PostMuseum phone",
+            "sk": "PostMuseum phone",
+            "ro": "PostMuseum phone",
+            "hu": "PostMuseum phone",
+            "da": "PostMuseum phone"
+          },
+          "value": {
+            "en": "+423 239 68 46",
+            "de": "+423 239 68 46",
+            "fr": "+423 239 68 46",
+            "it": "+423 239 68 46",
+            "nl": "+423 239 68 46",
+            "pl": "+423 239 68 46",
+            "cs": "+423 239 68 46",
+            "sk": "+423 239 68 46",
+            "ro": "+423 239 68 46",
+            "hu": "+423 239 68 46",
+            "da": "+423 239 68 46"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "Practical",
+        "de": "Praktisch",
+        "fr": "Pratique",
+        "it": "Informazioni pratiche",
+        "nl": "Practical",
+        "pl": "Practical",
+        "cs": "Practical",
+        "sk": "Practical",
+        "ro": "Practical",
+        "hu": "Practical",
+        "da": "Practical"
+      },
+      "title": {
+        "en": "Museum opening times and prices",
+        "de": "Öffnungszeiten und Preise der Museen",
+        "fr": "Horaires et tarifs des musées",
+        "it": "Orari e prezzi dei musei",
+        "nl": "Museum opening times and prices",
+        "pl": "Museum opening times and prices",
+        "cs": "Museum opening times and prices",
+        "sk": "Museum opening times and prices",
+        "ro": "Museum opening times and prices",
+        "hu": "Museum opening times and prices",
+        "da": "Museum opening times and prices"
+      },
+      "buttons": [
+        {
+          "href": "https://www.landesmuseum.li/en/visit",
+          "label": {
+            "en": "Liechtensteinisches LandesMuseum",
+            "de": "Liechtensteinisches LandesMuseum",
+            "fr": "Liechtensteinisches LandesMuseum",
+            "it": "Liechtensteinisches LandesMuseum",
+            "nl": "Liechtensteinisches LandesMuseum",
+            "pl": "Liechtensteinisches LandesMuseum",
+            "cs": "Liechtensteinisches LandesMuseum",
+            "sk": "Liechtensteinisches LandesMuseum",
+            "ro": "Liechtensteinisches LandesMuseum",
+            "hu": "Liechtensteinisches LandesMuseum",
+            "da": "Liechtensteinisches LandesMuseum"
+          }
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "type": "tiles",
+      "label": {
+        "en": "How to get there",
+        "de": "Anreise",
+        "fr": "Accès",
+        "it": "Come arrivare",
+        "nl": "How to get there",
+        "pl": "How to get there",
+        "cs": "How to get there",
+        "sk": "How to get there",
+        "ro": "How to get there",
+        "hu": "How to get there",
+        "da": "How to get there"
+      },
+      "tiles": [
+        {
+          "icon": "pin",
+          "text": {
+            "en": "From Sargans station bus 12E reaches the stop Vaduz Post in 23 minutes and line 11 in 32 minutes.",
+            "de": "Ab Bahnhof Sargans erreicht der Bus 12E die Haltestelle Vaduz Post in 23 Minuten, die Linie 11 in 32 Minuten.",
+            "fr": "Depuis la gare de Sargans, le bus 12E atteint l'arrêt Vaduz Post en 23 minutes, la ligne 11 en 32 minutes.",
+            "it": "Dalla stazione di Sargans l'autobus 12E raggiunge la fermata Vaduz Post in 23 minuti, la linea 11 in 32 minuti.",
+            "nl": "From Sargans station bus 12E reaches the stop Vaduz Post in 23 minutes and line 11 in 32 minutes.",
+            "pl": "From Sargans station bus 12E reaches the stop Vaduz Post in 23 minutes and line 11 in 32 minutes.",
+            "cs": "From Sargans station bus 12E reaches the stop Vaduz Post in 23 minutes and line 11 in 32 minutes.",
+            "sk": "From Sargans station bus 12E reaches the stop Vaduz Post in 23 minutes and line 11 in 32 minutes.",
+            "ro": "From Sargans station bus 12E reaches the stop Vaduz Post in 23 minutes and line 11 in 32 minutes.",
+            "hu": "From Sargans station bus 12E reaches the stop Vaduz Post in 23 minutes and line 11 in 32 minutes.",
+            "da": "From Sargans station bus 12E reaches the stop Vaduz Post in 23 minutes and line 11 in 32 minutes."
+          },
+          "title": {
+            "en": "From Sargans",
+            "de": "Ab Sargans",
+            "fr": "Depuis Sargans",
+            "it": "Da Sargans",
+            "nl": "From Sargans",
+            "pl": "From Sargans",
+            "cs": "From Sargans",
+            "sk": "From Sargans",
+            "ro": "From Sargans",
+            "hu": "From Sargans",
+            "da": "From Sargans"
+          }
+        },
+        {
+          "icon": "pin",
+          "text": {
+            "en": "Line 12 to Schaan Bahnhof and line 11 on to Vaduz Post take 18 minutes together.",
+            "de": "Die Linie 12 bis Schaan Bahnhof und die Linie 11 weiter bis Vaduz Post brauchen zusammen 18 Minuten.",
+            "fr": "La ligne 12 jusqu'à Schaan Bahnhof, puis la ligne 11 jusqu'à Vaduz Post : 18 minutes au total.",
+            "it": "La linea 12 fino a Schaan Bahnhof e poi la linea 11 fino a Vaduz Post richiedono insieme 18 minuti.",
+            "nl": "Line 12 to Schaan Bahnhof and line 11 on to Vaduz Post take 18 minutes together.",
+            "pl": "Line 12 to Schaan Bahnhof and line 11 on to Vaduz Post take 18 minutes together.",
+            "cs": "Line 12 to Schaan Bahnhof and line 11 on to Vaduz Post take 18 minutes together.",
+            "sk": "Line 12 to Schaan Bahnhof and line 11 on to Vaduz Post take 18 minutes together.",
+            "ro": "Line 12 to Schaan Bahnhof and line 11 on to Vaduz Post take 18 minutes together.",
+            "hu": "Line 12 to Schaan Bahnhof and line 11 on to Vaduz Post take 18 minutes together.",
+            "da": "Line 12 to Schaan Bahnhof and line 11 on to Vaduz Post take 18 minutes together."
+          },
+          "title": {
+            "en": "From Buchs SG",
+            "de": "Ab Buchs SG",
+            "fr": "Depuis Buchs SG",
+            "it": "Da Buchs SG",
+            "nl": "From Buchs SG",
+            "pl": "From Buchs SG",
+            "cs": "From Buchs SG",
+            "sk": "From Buchs SG",
+            "ro": "From Buchs SG",
+            "hu": "From Buchs SG",
+            "da": "From Buchs SG"
+          }
+        },
+        {
+          "icon": "pin",
+          "text": {
+            "en": "Line 11 runs direct from Feldkirch station to Vaduz Post in 45 minutes.",
+            "de": "Die Linie 11 fährt vom Bahnhof Feldkirch direkt in 45 Minuten nach Vaduz Post.",
+            "fr": "La ligne 11 relie directement la gare de Feldkirch à Vaduz Post en 45 minutes.",
+            "it": "La linea 11 collega direttamente la stazione di Feldkirch a Vaduz Post in 45 minuti.",
+            "nl": "Line 11 runs direct from Feldkirch station to Vaduz Post in 45 minutes.",
+            "pl": "Line 11 runs direct from Feldkirch station to Vaduz Post in 45 minutes.",
+            "cs": "Line 11 runs direct from Feldkirch station to Vaduz Post in 45 minutes.",
+            "sk": "Line 11 runs direct from Feldkirch station to Vaduz Post in 45 minutes.",
+            "ro": "Line 11 runs direct from Feldkirch station to Vaduz Post in 45 minutes.",
+            "hu": "Line 11 runs direct from Feldkirch station to Vaduz Post in 45 minutes.",
+            "da": "Line 11 runs direct from Feldkirch station to Vaduz Post in 45 minutes."
+          },
+          "title": {
+            "en": "From Feldkirch",
+            "de": "Ab Feldkirch",
+            "fr": "Depuis Feldkirch",
+            "it": "Da Feldkirch",
+            "nl": "From Feldkirch",
+            "pl": "From Feldkirch",
+            "cs": "From Feldkirch",
+            "sk": "From Feldkirch",
+            "ro": "From Feldkirch",
+            "hu": "From Feldkirch",
+            "da": "From Feldkirch"
+          }
+        },
+        {
+          "icon": "car",
+          "text": {
+            "en": "From Switzerland take the A13 exit Sevelen/Vaduz and park in the Parkhaus Zentrum or the Parkhaus Marktplatz.",
+            "de": "Aus der Schweiz über die A13 bis zur Ausfahrt Sevelen/Vaduz, dann ins Parkhaus Zentrum oder ins Parkhaus Marktplatz.",
+            "fr": "Depuis la Suisse, prends la sortie Sevelen/Vaduz de l'A13 et gare-toi au Parkhaus Zentrum ou au Parkhaus Marktplatz.",
+            "it": "Dalla Svizzera si prende l'uscita Sevelen/Vaduz della A13 e si parcheggia nel Parkhaus Zentrum o nel Parkhaus Marktplatz.",
+            "nl": "From Switzerland take the A13 exit Sevelen/Vaduz and park in the Parkhaus Zentrum or the Parkhaus Marktplatz.",
+            "pl": "From Switzerland take the A13 exit Sevelen/Vaduz and park in the Parkhaus Zentrum or the Parkhaus Marktplatz.",
+            "cs": "From Switzerland take the A13 exit Sevelen/Vaduz and park in the Parkhaus Zentrum or the Parkhaus Marktplatz.",
+            "sk": "From Switzerland take the A13 exit Sevelen/Vaduz and park in the Parkhaus Zentrum or the Parkhaus Marktplatz.",
+            "ro": "From Switzerland take the A13 exit Sevelen/Vaduz and park in the Parkhaus Zentrum or the Parkhaus Marktplatz.",
+            "hu": "From Switzerland take the A13 exit Sevelen/Vaduz and park in the Parkhaus Zentrum or the Parkhaus Marktplatz.",
+            "da": "From Switzerland take the A13 exit Sevelen/Vaduz and park in the Parkhaus Zentrum or the Parkhaus Marktplatz."
+          },
+          "title": {
+            "en": "By car",
+            "de": "Mit dem Auto",
+            "fr": "En voiture",
+            "it": "In auto",
+            "nl": "By car",
+            "pl": "By car",
+            "cs": "By car",
+            "sk": "By car",
+            "ro": "By car",
+            "hu": "By car",
+            "da": "By car"
+          }
+        }
+      ],
+      "title": {
+        "en": "Bus lines and car parks",
+        "de": "Buslinien und Parkhäuser",
+        "fr": "Lignes de bus et parkings",
+        "it": "Linee di autobus e parcheggi",
+        "nl": "Bus lines and car parks",
+        "pl": "Bus lines and car parks",
+        "cs": "Bus lines and car parks",
+        "sk": "Bus lines and car parks",
+        "ro": "Bus lines and car parks",
+        "hu": "Bus lines and car parks",
+        "da": "Bus lines and car parks"
+      }
+    },
+    {
+      "id": "season",
+      "text": {
+        "en": "Vaduz Castle is a private residence and cannot be visited. On 1 November the princely crypt beside the cathedral opens for that one day, for people who want to remember the late members of the princely house.",
+        "de": "Schloss Vaduz ist Privatwohnsitz und kann nicht besichtigt werden. Am 1. November öffnet die fürstliche Gruft neben der Kathedrale für diesen einen Tag, für alle, die der verstorbenen Mitglieder des Fürstenhauses gedenken wollen.",
+        "fr": "Le château de Vaduz est une résidence privée. Il ne se visite pas. Le 1er novembre, et ce jour-là seulement, la crypte princière à côté de la cathédrale ouvre à qui veut se recueillir à la mémoire des membres défunts de la maison princière.",
+        "it": "Il Castello di Vaduz è una residenza privata e non si può visitare. Il 1° novembre la cripta principesca accanto alla cattedrale apre solo per quel giorno, per chi vuole ricordare i defunti della casa principesca.",
+        "nl": "Vaduz Castle is a private residence and cannot be visited. On 1 November the princely crypt beside the cathedral opens for that one day, for people who want to remember the late members of the princely house.",
+        "pl": "Vaduz Castle is a private residence and cannot be visited. On 1 November the princely crypt beside the cathedral opens for that one day, for people who want to remember the late members of the princely house.",
+        "cs": "Vaduz Castle is a private residence and cannot be visited. On 1 November the princely crypt beside the cathedral opens for that one day, for people who want to remember the late members of the princely house.",
+        "sk": "Vaduz Castle is a private residence and cannot be visited. On 1 November the princely crypt beside the cathedral opens for that one day, for people who want to remember the late members of the princely house.",
+        "ro": "Vaduz Castle is a private residence and cannot be visited. On 1 November the princely crypt beside the cathedral opens for that one day, for people who want to remember the late members of the princely house.",
+        "hu": "Vaduz Castle is a private residence and cannot be visited. On 1 November the princely crypt beside the cathedral opens for that one day, for people who want to remember the late members of the princely house.",
+        "da": "Vaduz Castle is a private residence and cannot be visited. On 1 November the princely crypt beside the cathedral opens for that one day, for people who want to remember the late members of the princely house."
+      },
+      "type": "note"
+    },
+    {
+      "id": "afterwards",
+      "type": "text",
+      "label": {
+        "en": "Afterwards",
+        "de": "Danach",
+        "fr": "Ensuite",
+        "it": "Dopo la visita",
+        "nl": "Afterwards",
+        "pl": "Afterwards",
+        "cs": "Afterwards",
+        "sk": "Afterwards",
+        "ro": "Afterwards",
+        "hu": "Afterwards",
+        "da": "Afterwards"
+      },
+      "title": {
+        "en": "The Schattenburg in Feldkirch",
+        "de": "Die Schattenburg in Feldkirch",
+        "fr": "La Schattenburg à Feldkirch",
+        "it": "Lo Schattenburg a Feldkirch",
+        "nl": "The Schattenburg in Feldkirch",
+        "pl": "The Schattenburg in Feldkirch",
+        "cs": "The Schattenburg in Feldkirch",
+        "sk": "The Schattenburg in Feldkirch",
+        "ro": "The Schattenburg in Feldkirch",
+        "hu": "The Schattenburg in Feldkirch",
+        "da": "The Schattenburg in Feldkirch"
+      },
+      "visual": {
+        "type": "stamp",
+        "stamp": {
+          "name": {
+            "en": "Schattenburg Castle, Feldkirch",
+            "de": "Schattenburg, Feldkirch",
+            "fr": "Schattenburg, Feldkirch",
+            "it": "Castello Schattenburg, Feldkirch",
+            "nl": "Schattenburg Castle, Feldkirch",
+            "pl": "Schattenburg Castle, Feldkirch",
+            "cs": "Schattenburg Castle, Feldkirch",
+            "sk": "Schattenburg Castle, Feldkirch",
+            "ro": "Schattenburg Castle, Feldkirch",
+            "hu": "Schattenburg Castle, Feldkirch",
+            "da": "Schattenburg Castle, Feldkirch"
+          },
+          "year": 1967,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/09f7003d1adec09b/vaduz-stamp-at_1261.png",
+            "width": 1100,
+            "height": 1287
+          },
+          "country": "AT",
+          "stamp_id": "SIQ-AT-1967-002"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "Bus line 11 continues from Vaduz to Feldkirch in Austria, where the Schattenburg stands. In 1967 the Austrian post put it on a 1.30 schilling stamp by A. Pilch, inscribed \"SCHATTENBURG / FELDKIRCH\".",
+          "de": "Die Buslinie 11 fährt von Vaduz weiter nach Feldkirch in Österreich, wo die Schattenburg steht. 1967 setzte die österreichische Post sie auf eine Briefmarke zu 1,30 Schilling, gestaltet von A. Pilch, mit der Inschrift „SCHATTENBURG / FELDKIRCH“.",
+          "fr": "La ligne de bus 11 continue de Vaduz jusqu'à Feldkirch, en Autriche, où se dresse la Schattenburg. En 1967, la poste autrichienne l'a représentée sur un timbre à 1,30 schilling dessiné par A. Pilch, avec l'inscription « SCHATTENBURG / FELDKIRCH ».",
+          "it": "La linea 11 prosegue da Vaduz fino a Feldkirch, in Austria, dove sorge il castello Schattenburg. Nel 1967 la posta austriaca gli dedicò un francobollo da 1,30 scellini di A. Pilch, con la scritta \"SCHATTENBURG / FELDKIRCH\".",
+          "nl": "Bus line 11 continues from Vaduz to Feldkirch in Austria, where the Schattenburg stands. In 1967 the Austrian post put it on a 1.30 schilling stamp by A. Pilch, inscribed \"SCHATTENBURG / FELDKIRCH\".",
+          "pl": "Bus line 11 continues from Vaduz to Feldkirch in Austria, where the Schattenburg stands. In 1967 the Austrian post put it on a 1.30 schilling stamp by A. Pilch, inscribed \"SCHATTENBURG / FELDKIRCH\".",
+          "cs": "Bus line 11 continues from Vaduz to Feldkirch in Austria, where the Schattenburg stands. In 1967 the Austrian post put it on a 1.30 schilling stamp by A. Pilch, inscribed \"SCHATTENBURG / FELDKIRCH\".",
+          "sk": "Bus line 11 continues from Vaduz to Feldkirch in Austria, where the Schattenburg stands. In 1967 the Austrian post put it on a 1.30 schilling stamp by A. Pilch, inscribed \"SCHATTENBURG / FELDKIRCH\".",
+          "ro": "Bus line 11 continues from Vaduz to Feldkirch in Austria, where the Schattenburg stands. In 1967 the Austrian post put it on a 1.30 schilling stamp by A. Pilch, inscribed \"SCHATTENBURG / FELDKIRCH\".",
+          "hu": "Bus line 11 continues from Vaduz to Feldkirch in Austria, where the Schattenburg stands. In 1967 the Austrian post put it on a 1.30 schilling stamp by A. Pilch, inscribed \"SCHATTENBURG / FELDKIRCH\".",
+          "da": "Bus line 11 continues from Vaduz to Feldkirch in Austria, where the Schattenburg stands. In 1967 the Austrian post put it on a 1.30 schilling stamp by A. Pilch, inscribed \"SCHATTENBURG / FELDKIRCH\"."
+        },
+        {
+          "en": "Feldkirch has more pins on the StampIQ map. The Liechtenstein stamp \"FELDKIRCH/AT\" of 2023 has its pin in the Marktgasse. An Austrian and a Swiss stamp of 2022 mark 150 years of the railway \"FELDKIRCH–SCHAAN–BUCHS, 1872–2022\". Both are pinned at Feldkirch station.",
+          "de": "Feldkirch hat weitere Nadeln auf der Karte von StampIQ. Die liechtensteinische Briefmarke „FELDKIRCH/AT“ von 2023 hat ihre Nadel in der Marktgasse. Eine österreichische und eine schweizerische Briefmarke von 2022 erinnern an 150 Jahre Eisenbahn „FELDKIRCH–SCHAAN–BUCHS, 1872–2022“. Beide sind am Bahnhof Feldkirch verortet.",
+          "fr": "Feldkirch compte d'autres repères sur la carte StampIQ. Le timbre liechtensteinois « FELDKIRCH/AT » de 2023 a le sien dans la Marktgasse. Un timbre autrichien et un timbre suisse de 2022 marquent les 150 ans du chemin de fer « FELDKIRCH–SCHAAN–BUCHS, 1872–2022 ». Tous deux sont placés à la gare de Feldkirch.",
+          "it": "Feldkirch ha altri segnaposto sulla mappa di StampIQ. Il francobollo del Liechtenstein \"FELDKIRCH/AT\" del 2023 ha il suo segnaposto nella Marktgasse. Un francobollo austriaco e uno svizzero del 2022 ricordano i 150 anni della ferrovia \"FELDKIRCH–SCHAAN–BUCHS, 1872–2022\". Entrambi sono collocati alla stazione di Feldkirch.",
+          "nl": "Feldkirch has more pins on the StampIQ map. The Liechtenstein stamp \"FELDKIRCH/AT\" of 2023 has its pin in the Marktgasse. An Austrian and a Swiss stamp of 2022 mark 150 years of the railway \"FELDKIRCH–SCHAAN–BUCHS, 1872–2022\". Both are pinned at Feldkirch station.",
+          "pl": "Feldkirch has more pins on the StampIQ map. The Liechtenstein stamp \"FELDKIRCH/AT\" of 2023 has its pin in the Marktgasse. An Austrian and a Swiss stamp of 2022 mark 150 years of the railway \"FELDKIRCH–SCHAAN–BUCHS, 1872–2022\". Both are pinned at Feldkirch station.",
+          "cs": "Feldkirch has more pins on the StampIQ map. The Liechtenstein stamp \"FELDKIRCH/AT\" of 2023 has its pin in the Marktgasse. An Austrian and a Swiss stamp of 2022 mark 150 years of the railway \"FELDKIRCH–SCHAAN–BUCHS, 1872–2022\". Both are pinned at Feldkirch station.",
+          "sk": "Feldkirch has more pins on the StampIQ map. The Liechtenstein stamp \"FELDKIRCH/AT\" of 2023 has its pin in the Marktgasse. An Austrian and a Swiss stamp of 2022 mark 150 years of the railway \"FELDKIRCH–SCHAAN–BUCHS, 1872–2022\". Both are pinned at Feldkirch station.",
+          "ro": "Feldkirch has more pins on the StampIQ map. The Liechtenstein stamp \"FELDKIRCH/AT\" of 2023 has its pin in the Marktgasse. An Austrian and a Swiss stamp of 2022 mark 150 years of the railway \"FELDKIRCH–SCHAAN–BUCHS, 1872–2022\". Both are pinned at Feldkirch station.",
+          "hu": "Feldkirch has more pins on the StampIQ map. The Liechtenstein stamp \"FELDKIRCH/AT\" of 2023 has its pin in the Marktgasse. An Austrian and a Swiss stamp of 2022 mark 150 years of the railway \"FELDKIRCH–SCHAAN–BUCHS, 1872–2022\". Both are pinned at Feldkirch station.",
+          "da": "Feldkirch has more pins on the StampIQ map. The Liechtenstein stamp \"FELDKIRCH/AT\" of 2023 has its pin in the Marktgasse. An Austrian and a Swiss stamp of 2022 mark 150 years of the railway \"FELDKIRCH–SCHAAN–BUCHS, 1872–2022\". Both are pinned at Feldkirch station."
+        },
+        {
+          "en": "From November the Schattenburg is open Tuesday to Friday from 13:30 to 16:00, and on Saturdays, Sundays and holidays from 11:00 to 16:00. It is closed on Mondays and on Sunday 1 November.",
+          "de": "Ab November ist die Schattenburg Dienstag bis Freitag von 13:30 bis 16:00 Uhr geöffnet, an Samstagen, Sonntagen und Feiertagen von 11:00 bis 16:00 Uhr. Montags und am Sonntag, 1. November, bleibt sie geschlossen.",
+          "fr": "À partir de novembre, la Schattenburg est ouverte du mardi au vendredi de 13 h 30 à 16 h, et les samedis, dimanches et jours fériés de 11 h à 16 h. Elle est fermée le lundi et le dimanche 1er novembre.",
+          "it": "Da novembre lo Schattenburg è aperto dal martedì al venerdì dalle 13:30 alle 16:00, il sabato, la domenica e nei giorni festivi dalle 11:00 alle 16:00. Il lunedì resta chiuso, così come domenica 1° novembre.",
+          "nl": "From November the Schattenburg is open Tuesday to Friday from 13:30 to 16:00, and on Saturdays, Sundays and holidays from 11:00 to 16:00. It is closed on Mondays and on Sunday 1 November.",
+          "pl": "From November the Schattenburg is open Tuesday to Friday from 13:30 to 16:00, and on Saturdays, Sundays and holidays from 11:00 to 16:00. It is closed on Mondays and on Sunday 1 November.",
+          "cs": "From November the Schattenburg is open Tuesday to Friday from 13:30 to 16:00, and on Saturdays, Sundays and holidays from 11:00 to 16:00. It is closed on Mondays and on Sunday 1 November.",
+          "sk": "From November the Schattenburg is open Tuesday to Friday from 13:30 to 16:00, and on Saturdays, Sundays and holidays from 11:00 to 16:00. It is closed on Mondays and on Sunday 1 November.",
+          "ro": "From November the Schattenburg is open Tuesday to Friday from 13:30 to 16:00, and on Saturdays, Sundays and holidays from 11:00 to 16:00. It is closed on Mondays and on Sunday 1 November.",
+          "hu": "From November the Schattenburg is open Tuesday to Friday from 13:30 to 16:00, and on Saturdays, Sundays and holidays from 11:00 to 16:00. It is closed on Mondays and on Sunday 1 November.",
+          "da": "From November the Schattenburg is open Tuesday to Friday from 13:30 to 16:00, and on Saturdays, Sundays and holidays from 11:00 to 16:00. It is closed on Mondays and on Sunday 1 November."
+        }
+      ]
+    }
+  ]
+}

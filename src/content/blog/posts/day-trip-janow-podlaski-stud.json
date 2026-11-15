@@ -1,0 +1,1189 @@
+{
+  "category": "day-trips",
+  "markets": [
+    "PL"
+  ],
+  "langs": [
+    "en",
+    "pl"
+  ],
+  "published_at": "2026-10-30T09:00:00+00:00",
+  "thumbnail": {
+    "src": "https://assets.stampiq.io/blog/119a82a6b0be31f3/janow-card.jpg",
+    "width": 2400,
+    "height": 1600
+  },
+  "languages": {
+    "en": {
+      "slug": "day-trip-janow-podlaski-stud",
+      "title": "Day trip: the Arabian horse stud at Janów Podlaski",
+      "description": "A 2017 sheetlet shows nine horses of the stud at Janów Podlaski. The guided tour, the horse cemetery and the 1939 story of Witeź II."
+    },
+    "de": {
+      "slug": "day-trip-janow-podlaski-stud",
+      "title": "Day trip: the Arabian horse stud at Janów Podlaski",
+      "description": "A 2017 sheetlet shows nine horses of the stud at Janów Podlaski. The guided tour, the horse cemetery and the 1939 story of Witeź II."
+    },
+    "fr": {
+      "slug": "day-trip-janow-podlaski-stud",
+      "title": "Day trip: the Arabian horse stud at Janów Podlaski",
+      "description": "A 2017 sheetlet shows nine horses of the stud at Janów Podlaski. The guided tour, the horse cemetery and the 1939 story of Witeź II."
+    },
+    "it": {
+      "slug": "day-trip-janow-podlaski-stud",
+      "title": "Day trip: the Arabian horse stud at Janów Podlaski",
+      "description": "A 2017 sheetlet shows nine horses of the stud at Janów Podlaski. The guided tour, the horse cemetery and the 1939 story of Witeź II."
+    },
+    "nl": {
+      "slug": "day-trip-janow-podlaski-stud",
+      "title": "Day trip: the Arabian horse stud at Janów Podlaski",
+      "description": "A 2017 sheetlet shows nine horses of the stud at Janów Podlaski. The guided tour, the horse cemetery and the 1939 story of Witeź II."
+    },
+    "pl": {
+      "slug": "wycieczka-stadnina-janow-podlaski",
+      "title": "Wycieczka: stadnina koni arabskich w Janowie Podlaskim",
+      "description": "Arkusik z 2017 roku pokazuje dziewięć koni ze stadniny w Janowie Podlaskim. Zwiedzanie z przewodnikiem, cmentarz koni i historia Witezia II z 1939 roku."
+    },
+    "cs": {
+      "slug": "day-trip-janow-podlaski-stud",
+      "title": "Day trip: the Arabian horse stud at Janów Podlaski",
+      "description": "A 2017 sheetlet shows nine horses of the stud at Janów Podlaski. The guided tour, the horse cemetery and the 1939 story of Witeź II."
+    },
+    "sk": {
+      "slug": "day-trip-janow-podlaski-stud",
+      "title": "Day trip: the Arabian horse stud at Janów Podlaski",
+      "description": "A 2017 sheetlet shows nine horses of the stud at Janów Podlaski. The guided tour, the horse cemetery and the 1939 story of Witeź II."
+    },
+    "ro": {
+      "slug": "day-trip-janow-podlaski-stud",
+      "title": "Day trip: the Arabian horse stud at Janów Podlaski",
+      "description": "A 2017 sheetlet shows nine horses of the stud at Janów Podlaski. The guided tour, the horse cemetery and the 1939 story of Witeź II."
+    },
+    "hu": {
+      "slug": "day-trip-janow-podlaski-stud",
+      "title": "Day trip: the Arabian horse stud at Janów Podlaski",
+      "description": "A 2017 sheetlet shows nine horses of the stud at Janów Podlaski. The guided tour, the horse cemetery and the 1939 story of Witeź II."
+    },
+    "da": {
+      "slug": "day-trip-janow-podlaski-stud",
+      "title": "Day trip: the Arabian horse stud at Janów Podlaski",
+      "description": "A 2017 sheetlet shows nine horses of the stud at Janów Podlaski. The guided tour, the horse cemetery and the 1939 story of Witeź II."
+    }
+  },
+  "header": {
+    "lead": {
+      "en": "When the lights and noise of a military lorry reached a night column of 260 horses from Janów Podlaski in September 1939, eighty of them bolted. The young stallion Witeź was led back and recognised by the crowned J branded on his shoulder. A crowned J also stands on the stud's gate today.",
+      "de": "When the lights and noise of a military lorry reached a night column of 260 horses from Janów Podlaski in September 1939, eighty of them bolted. The young stallion Witeź was led back and recognised by the crowned J branded on his shoulder. A crowned J also stands on the stud's gate today.",
+      "fr": "When the lights and noise of a military lorry reached a night column of 260 horses from Janów Podlaski in September 1939, eighty of them bolted. The young stallion Witeź was led back and recognised by the crowned J branded on his shoulder. A crowned J also stands on the stud's gate today.",
+      "it": "When the lights and noise of a military lorry reached a night column of 260 horses from Janów Podlaski in September 1939, eighty of them bolted. The young stallion Witeź was led back and recognised by the crowned J branded on his shoulder. A crowned J also stands on the stud's gate today.",
+      "nl": "When the lights and noise of a military lorry reached a night column of 260 horses from Janów Podlaski in September 1939, eighty of them bolted. The young stallion Witeź was led back and recognised by the crowned J branded on his shoulder. A crowned J also stands on the stud's gate today.",
+      "pl": "Gdy we wrześniu 1939 roku do nocnej kolumny 260 koni z Janowa Podlaskiego dotarły światła i hałas wojskowej ciężarówki, osiemdziesiąt koni poniosło. Młodego ogiera Witezia przyprowadzono z powrotem i rozpoznano po koronowanym J wypalonym na łopatce. Koronowane J widnieje dziś także na bramie stadniny.",
+      "cs": "When the lights and noise of a military lorry reached a night column of 260 horses from Janów Podlaski in September 1939, eighty of them bolted. The young stallion Witeź was led back and recognised by the crowned J branded on his shoulder. A crowned J also stands on the stud's gate today.",
+      "sk": "When the lights and noise of a military lorry reached a night column of 260 horses from Janów Podlaski in September 1939, eighty of them bolted. The young stallion Witeź was led back and recognised by the crowned J branded on his shoulder. A crowned J also stands on the stud's gate today.",
+      "ro": "When the lights and noise of a military lorry reached a night column of 260 horses from Janów Podlaski in September 1939, eighty of them bolted. The young stallion Witeź was led back and recognised by the crowned J branded on his shoulder. A crowned J also stands on the stud's gate today.",
+      "hu": "When the lights and noise of a military lorry reached a night column of 260 horses from Janów Podlaski in September 1939, eighty of them bolted. The young stallion Witeź was led back and recognised by the crowned J branded on his shoulder. A crowned J also stands on the stud's gate today.",
+      "da": "When the lights and noise of a military lorry reached a night column of 260 horses from Janów Podlaski in September 1939, eighty of them bolted. The young stallion Witeź was led back and recognised by the crowned J branded on his shoulder. A crowned J also stands on the stud's gate today."
+    },
+    "visual": {
+      "type": "stamp",
+      "stamp": {
+        "name": {
+          "en": "Janów Podlaski Stud, 200th Anniversary, Arabian Horse",
+          "de": "Janów Podlaski Stud, 200th Anniversary, Arabian Horse",
+          "fr": "Janów Podlaski Stud, 200th Anniversary, Arabian Horse",
+          "it": "Janów Podlaski Stud, 200th Anniversary, Arabian Horse",
+          "nl": "Janów Podlaski Stud, 200th Anniversary, Arabian Horse",
+          "pl": "Stadnina Koni Janów Podlaski, 200. rocznica, koń arabski",
+          "cs": "Janów Podlaski Stud, 200th Anniversary, Arabian Horse",
+          "sk": "Janów Podlaski Stud, 200th Anniversary, Arabian Horse",
+          "ro": "Janów Podlaski Stud, 200th Anniversary, Arabian Horse",
+          "hu": "Janów Podlaski Stud, 200th Anniversary, Arabian Horse",
+          "da": "Janów Podlaski Stud, 200th Anniversary, Arabian Horse"
+        },
+        "year": 2017,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/b35f84bfa95894da/janow-stamp-pinga.png",
+          "width": 1100,
+          "height": 670
+        },
+        "country": "PL",
+        "stamp_id": "SIQ-PL-2017-026"
+      }
+    },
+    "location": "Janów Podlaski, Lublin Voivodeship, Poland"
+  },
+  "blocks": [
+    {
+      "id": "sheetlet",
+      "type": "text",
+      "label": {
+        "en": "In the catalogue",
+        "de": "In the catalogue",
+        "fr": "In the catalogue",
+        "it": "In the catalogue",
+        "nl": "In the catalogue",
+        "pl": "W katalogu",
+        "cs": "In the catalogue",
+        "sk": "In the catalogue",
+        "ro": "In the catalogue",
+        "hu": "In the catalogue",
+        "da": "In the catalogue"
+      },
+      "title": {
+        "en": "A sheetlet of named horses",
+        "de": "A sheetlet of named horses",
+        "fr": "A sheetlet of named horses",
+        "it": "A sheetlet of named horses",
+        "nl": "A sheetlet of named horses",
+        "pl": "Arkusik z imionami koni",
+        "cs": "A sheetlet of named horses",
+        "sk": "A sheetlet of named horses",
+        "ro": "A sheetlet of named horses",
+        "hu": "A sheetlet of named horses",
+        "da": "A sheetlet of named horses"
+      },
+      "visual": {
+        "type": "phone",
+        "animation": {
+          "src": "https://assets.stampiq.io/blog/63c78ff95a1b604f/janow.mp4",
+          "width": 960,
+          "height": 2080,
+          "poster": "https://assets.stampiq.io/blog/3fcfeb2368bad2d0/janow.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "The 2017 sheetlet marks 200 years of the stud at Janów Podlaski. Each of its nine stamps shows an Arabian horse at a white paddock fence and names it in capitals, PINGA and PIANISSIMA among them. With the sheetlet on the desk, the question is where this stud is and what of its history can still be seen there.",
+          "de": "The 2017 sheetlet marks 200 years of the stud at Janów Podlaski. Each of its nine stamps shows an Arabian horse at a white paddock fence and names it in capitals, PINGA and PIANISSIMA among them. With the sheetlet on the desk, the question is where this stud is and what of its history can still be seen there.",
+          "fr": "The 2017 sheetlet marks 200 years of the stud at Janów Podlaski. Each of its nine stamps shows an Arabian horse at a white paddock fence and names it in capitals, PINGA and PIANISSIMA among them. With the sheetlet on the desk, the question is where this stud is and what of its history can still be seen there.",
+          "it": "The 2017 sheetlet marks 200 years of the stud at Janów Podlaski. Each of its nine stamps shows an Arabian horse at a white paddock fence and names it in capitals, PINGA and PIANISSIMA among them. With the sheetlet on the desk, the question is where this stud is and what of its history can still be seen there.",
+          "nl": "The 2017 sheetlet marks 200 years of the stud at Janów Podlaski. Each of its nine stamps shows an Arabian horse at a white paddock fence and names it in capitals, PINGA and PIANISSIMA among them. With the sheetlet on the desk, the question is where this stud is and what of its history can still be seen there.",
+          "pl": "Arkusik z 2017 roku upamiętnia 200 lat stadniny w Janowie Podlaskim. Każdy z dziewięciu znaczków pokazuje konia arabskiego przy białym ogrodzeniu padoku i podaje jego imię wielkimi literami, m.in. PINGA i PIANISSIMA. Arkusik leży na biurku i nasuwa pytanie, gdzie ta stadnina jest i co z jej historii można tam jeszcze zobaczyć.",
+          "cs": "The 2017 sheetlet marks 200 years of the stud at Janów Podlaski. Each of its nine stamps shows an Arabian horse at a white paddock fence and names it in capitals, PINGA and PIANISSIMA among them. With the sheetlet on the desk, the question is where this stud is and what of its history can still be seen there.",
+          "sk": "The 2017 sheetlet marks 200 years of the stud at Janów Podlaski. Each of its nine stamps shows an Arabian horse at a white paddock fence and names it in capitals, PINGA and PIANISSIMA among them. With the sheetlet on the desk, the question is where this stud is and what of its history can still be seen there.",
+          "ro": "The 2017 sheetlet marks 200 years of the stud at Janów Podlaski. Each of its nine stamps shows an Arabian horse at a white paddock fence and names it in capitals, PINGA and PIANISSIMA among them. With the sheetlet on the desk, the question is where this stud is and what of its history can still be seen there.",
+          "hu": "The 2017 sheetlet marks 200 years of the stud at Janów Podlaski. Each of its nine stamps shows an Arabian horse at a white paddock fence and names it in capitals, PINGA and PIANISSIMA among them. With the sheetlet on the desk, the question is where this stud is and what of its history can still be seen there.",
+          "da": "The 2017 sheetlet marks 200 years of the stud at Janów Podlaski. Each of its nine stamps shows an Arabian horse at a white paddock fence and names it in capitals, PINGA and PIANISSIMA among them. With the sheetlet on the desk, the question is where this stud is and what of its history can still be seen there."
+        },
+        {
+          "en": "In StampIQ, \"Catalog\" on the Home screen leads to Poland. A search for \"Janów\" in the field \"By number, name or theme\" lists the stamps of the stud. On the page of the PINGA stamp, \"Add to Collection\" opens a sheet that asks for the \"Status\", here \"Mint (NH)\", and the condition of the copy. Browsing a whole country catalogue needs a paid plan: Premium includes one country, Professional all of them.",
+          "de": "In StampIQ, \"Catalog\" on the Home screen leads to Poland. A search for \"Janów\" in the field \"By number, name or theme\" lists the stamps of the stud. On the page of the PINGA stamp, \"Add to Collection\" opens a sheet that asks for the \"Status\", here \"Mint (NH)\", and the condition of the copy. Browsing a whole country catalogue needs a paid plan: Premium includes one country, Professional all of them.",
+          "fr": "In StampIQ, \"Catalog\" on the Home screen leads to Poland. A search for \"Janów\" in the field \"By number, name or theme\" lists the stamps of the stud. On the page of the PINGA stamp, \"Add to Collection\" opens a sheet that asks for the \"Status\", here \"Mint (NH)\", and the condition of the copy. Browsing a whole country catalogue needs a paid plan: Premium includes one country, Professional all of them.",
+          "it": "In StampIQ, \"Catalog\" on the Home screen leads to Poland. A search for \"Janów\" in the field \"By number, name or theme\" lists the stamps of the stud. On the page of the PINGA stamp, \"Add to Collection\" opens a sheet that asks for the \"Status\", here \"Mint (NH)\", and the condition of the copy. Browsing a whole country catalogue needs a paid plan: Premium includes one country, Professional all of them.",
+          "nl": "In StampIQ, \"Catalog\" on the Home screen leads to Poland. A search for \"Janów\" in the field \"By number, name or theme\" lists the stamps of the stud. On the page of the PINGA stamp, \"Add to Collection\" opens a sheet that asks for the \"Status\", here \"Mint (NH)\", and the condition of the copy. Browsing a whole country catalogue needs a paid plan: Premium includes one country, Professional all of them.",
+          "pl": "W StampIQ „Katalog” na ekranie Główna prowadzi do Polski. Wpisanie „Janów” w polu „Według numeru, nazwy lub tematu” wyświetla znaczki związane ze stadniną. Na stronie znaczka PINGA przycisk „Dodaj do kolekcji” otwiera panel z pytaniem o „Status”, tutaj „Czysty (**)”, i o stan zachowania egzemplarza. Przeglądanie całego katalogu krajowego wymaga płatnego planu: Premium obejmuje jeden kraj, Professional wszystkie.",
+          "cs": "In StampIQ, \"Catalog\" on the Home screen leads to Poland. A search for \"Janów\" in the field \"By number, name or theme\" lists the stamps of the stud. On the page of the PINGA stamp, \"Add to Collection\" opens a sheet that asks for the \"Status\", here \"Mint (NH)\", and the condition of the copy. Browsing a whole country catalogue needs a paid plan: Premium includes one country, Professional all of them.",
+          "sk": "In StampIQ, \"Catalog\" on the Home screen leads to Poland. A search for \"Janów\" in the field \"By number, name or theme\" lists the stamps of the stud. On the page of the PINGA stamp, \"Add to Collection\" opens a sheet that asks for the \"Status\", here \"Mint (NH)\", and the condition of the copy. Browsing a whole country catalogue needs a paid plan: Premium includes one country, Professional all of them.",
+          "ro": "In StampIQ, \"Catalog\" on the Home screen leads to Poland. A search for \"Janów\" in the field \"By number, name or theme\" lists the stamps of the stud. On the page of the PINGA stamp, \"Add to Collection\" opens a sheet that asks for the \"Status\", here \"Mint (NH)\", and the condition of the copy. Browsing a whole country catalogue needs a paid plan: Premium includes one country, Professional all of them.",
+          "hu": "In StampIQ, \"Catalog\" on the Home screen leads to Poland. A search for \"Janów\" in the field \"By number, name or theme\" lists the stamps of the stud. On the page of the PINGA stamp, \"Add to Collection\" opens a sheet that asks for the \"Status\", here \"Mint (NH)\", and the condition of the copy. Browsing a whole country catalogue needs a paid plan: Premium includes one country, Professional all of them.",
+          "da": "In StampIQ, \"Catalog\" on the Home screen leads to Poland. A search for \"Janów\" in the field \"By number, name or theme\" lists the stamps of the stud. On the page of the PINGA stamp, \"Add to Collection\" opens a sheet that asks for the \"Status\", here \"Mint (NH)\", and the condition of the copy. Browsing a whole country catalogue needs a paid plan: Premium includes one country, Professional all of them."
+        },
+        {
+          "en": "Opened again from the collection, the stamp now carries the badge \"In Collection\". \"Show on map\" moves to its pin at Janów Podlaski, north of Biała Podlaska in the east of Poland. Twenty stamps from 1963 to 2017 share this pin. Paging through them leads to a stallion on a stamp of 1967 that reads \"JANÓW PODLASKI 1817-1967\". The pin sits in the village. The stud is in Wygoda, about 2 km to the north-east.",
+          "de": "Opened again from the collection, the stamp now carries the badge \"In Collection\". \"Show on map\" moves to its pin at Janów Podlaski, north of Biała Podlaska in the east of Poland. Twenty stamps from 1963 to 2017 share this pin. Paging through them leads to a stallion on a stamp of 1967 that reads \"JANÓW PODLASKI 1817-1967\". The pin sits in the village. The stud is in Wygoda, about 2 km to the north-east.",
+          "fr": "Opened again from the collection, the stamp now carries the badge \"In Collection\". \"Show on map\" moves to its pin at Janów Podlaski, north of Biała Podlaska in the east of Poland. Twenty stamps from 1963 to 2017 share this pin. Paging through them leads to a stallion on a stamp of 1967 that reads \"JANÓW PODLASKI 1817-1967\". The pin sits in the village. The stud is in Wygoda, about 2 km to the north-east.",
+          "it": "Opened again from the collection, the stamp now carries the badge \"In Collection\". \"Show on map\" moves to its pin at Janów Podlaski, north of Biała Podlaska in the east of Poland. Twenty stamps from 1963 to 2017 share this pin. Paging through them leads to a stallion on a stamp of 1967 that reads \"JANÓW PODLASKI 1817-1967\". The pin sits in the village. The stud is in Wygoda, about 2 km to the north-east.",
+          "nl": "Opened again from the collection, the stamp now carries the badge \"In Collection\". \"Show on map\" moves to its pin at Janów Podlaski, north of Biała Podlaska in the east of Poland. Twenty stamps from 1963 to 2017 share this pin. Paging through them leads to a stallion on a stamp of 1967 that reads \"JANÓW PODLASKI 1817-1967\". The pin sits in the village. The stud is in Wygoda, about 2 km to the north-east.",
+          "pl": "Znaczek otwarty ponownie z kolekcji ma teraz oznaczenie „W kolekcji”. „Pokaż na mapie” przenosi do jego pinezki w Janowie Podlaskim, na północ od Białej Podlaskiej we wschodniej Polsce. Tę samą pinezkę ma dwadzieścia znaczków z lat od 1963 do 2017. Przeglądając je, trafia się na ogiera ze znaczka z 1967 roku z napisem „JANÓW PODLASKI 1817-1967”. Pinezka wskazuje wieś. Sama stadnina leży w Wygodzie, około 2 km na północny wschód.",
+          "cs": "Opened again from the collection, the stamp now carries the badge \"In Collection\". \"Show on map\" moves to its pin at Janów Podlaski, north of Biała Podlaska in the east of Poland. Twenty stamps from 1963 to 2017 share this pin. Paging through them leads to a stallion on a stamp of 1967 that reads \"JANÓW PODLASKI 1817-1967\". The pin sits in the village. The stud is in Wygoda, about 2 km to the north-east.",
+          "sk": "Opened again from the collection, the stamp now carries the badge \"In Collection\". \"Show on map\" moves to its pin at Janów Podlaski, north of Biała Podlaska in the east of Poland. Twenty stamps from 1963 to 2017 share this pin. Paging through them leads to a stallion on a stamp of 1967 that reads \"JANÓW PODLASKI 1817-1967\". The pin sits in the village. The stud is in Wygoda, about 2 km to the north-east.",
+          "ro": "Opened again from the collection, the stamp now carries the badge \"In Collection\". \"Show on map\" moves to its pin at Janów Podlaski, north of Biała Podlaska in the east of Poland. Twenty stamps from 1963 to 2017 share this pin. Paging through them leads to a stallion on a stamp of 1967 that reads \"JANÓW PODLASKI 1817-1967\". The pin sits in the village. The stud is in Wygoda, about 2 km to the north-east.",
+          "hu": "Opened again from the collection, the stamp now carries the badge \"In Collection\". \"Show on map\" moves to its pin at Janów Podlaski, north of Biała Podlaska in the east of Poland. Twenty stamps from 1963 to 2017 share this pin. Paging through them leads to a stallion on a stamp of 1967 that reads \"JANÓW PODLASKI 1817-1967\". The pin sits in the village. The stud is in Wygoda, about 2 km to the north-east.",
+          "da": "Opened again from the collection, the stamp now carries the badge \"In Collection\". \"Show on map\" moves to its pin at Janów Podlaski, north of Biała Podlaska in the east of Poland. Twenty stamps from 1963 to 2017 share this pin. Paging through them leads to a stallion on a stamp of 1967 that reads \"JANÓW PODLASKI 1817-1967\". The pin sits in the village. The stud is in Wygoda, about 2 km to the north-east."
+        }
+      ]
+    },
+    {
+      "id": "stamps",
+      "type": "text",
+      "label": {
+        "en": "The stamps",
+        "de": "The stamps",
+        "fr": "The stamps",
+        "it": "The stamps",
+        "nl": "The stamps",
+        "pl": "Znaczki",
+        "cs": "The stamps",
+        "sk": "The stamps",
+        "ro": "The stamps",
+        "hu": "The stamps",
+        "da": "The stamps"
+      },
+      "title": {
+        "en": "Ofir and Witeź II",
+        "de": "Ofir and Witeź II",
+        "fr": "Ofir and Witeź II",
+        "it": "Ofir and Witeź II",
+        "nl": "Ofir and Witeź II",
+        "pl": "Ofir i Witeź II",
+        "cs": "Ofir and Witeź II",
+        "sk": "Ofir and Witeź II",
+        "ro": "Ofir and Witeź II",
+        "hu": "Ofir and Witeź II",
+        "da": "Ofir and Witeź II"
+      },
+      "visual": {
+        "type": "stamp",
+        "stamp": {
+          "name": {
+            "en": "Witeź II, Arabian Stallion",
+            "de": "Witeź II, Arabian Stallion",
+            "fr": "Witeź II, Arabian Stallion",
+            "it": "Witeź II, Arabian Stallion",
+            "nl": "Witeź II, Arabian Stallion",
+            "pl": "Witeź II, ogier arabski",
+            "cs": "Witeź II, Arabian Stallion",
+            "sk": "Witeź II, Arabian Stallion",
+            "ro": "Witeź II, Arabian Stallion",
+            "hu": "Witeź II, Arabian Stallion",
+            "da": "Witeź II, Arabian Stallion"
+          },
+          "year": 1963,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/b1f7b0e80eac92b5/janow-stamp-witez.png",
+            "width": 826,
+            "height": 1100
+          },
+          "country": "PL",
+          "stamp_id": "SIQ-PL-1963-084"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "The 1967 stamp is a 6.60 zł value by B. Kamiński from the set \"Jeździectwo\", issued on 27 February. It also reads \"OG. OFIR\", short for ogier Ofir, the stallion Ofir.",
+          "de": "The 1967 stamp is a 6.60 zł value by B. Kamiński from the set \"Jeździectwo\", issued on 27 February. It also reads \"OG. OFIR\", short for ogier Ofir, the stallion Ofir.",
+          "fr": "The 1967 stamp is a 6.60 zł value by B. Kamiński from the set \"Jeździectwo\", issued on 27 February. It also reads \"OG. OFIR\", short for ogier Ofir, the stallion Ofir.",
+          "it": "The 1967 stamp is a 6.60 zł value by B. Kamiński from the set \"Jeździectwo\", issued on 27 February. It also reads \"OG. OFIR\", short for ogier Ofir, the stallion Ofir.",
+          "nl": "The 1967 stamp is a 6.60 zł value by B. Kamiński from the set \"Jeździectwo\", issued on 27 February. It also reads \"OG. OFIR\", short for ogier Ofir, the stallion Ofir.",
+          "pl": "Znaczek z 1967 roku to nominał 6,60 zł z serii „Jeździectwo”, zaprojektowany przez B. Kamińskiego i wydany 27 lutego. Jest na nim także napis „OG. OFIR”, czyli skrót od „ogier Ofir”.",
+          "cs": "The 1967 stamp is a 6.60 zł value by B. Kamiński from the set \"Jeździectwo\", issued on 27 February. It also reads \"OG. OFIR\", short for ogier Ofir, the stallion Ofir.",
+          "sk": "The 1967 stamp is a 6.60 zł value by B. Kamiński from the set \"Jeździectwo\", issued on 27 February. It also reads \"OG. OFIR\", short for ogier Ofir, the stallion Ofir.",
+          "ro": "The 1967 stamp is a 6.60 zł value by B. Kamiński from the set \"Jeździectwo\", issued on 27 February. It also reads \"OG. OFIR\", short for ogier Ofir, the stallion Ofir.",
+          "hu": "The 1967 stamp is a 6.60 zł value by B. Kamiński from the set \"Jeździectwo\", issued on 27 February. It also reads \"OG. OFIR\", short for ogier Ofir, the stallion Ofir.",
+          "da": "The 1967 stamp is a 6.60 zł value by B. Kamiński from the set \"Jeździectwo\", issued on 27 February. It also reads \"OG. OFIR\", short for ogier Ofir, the stallion Ofir."
+        },
+        {
+          "en": "Ofir was the sire of four colts born at Janów in 1938: Witraż, Wielki Szlem, Witeź II and Wyrwidąb. They are known as the Great Four, or the 4W.",
+          "de": "Ofir was the sire of four colts born at Janów in 1938: Witraż, Wielki Szlem, Witeź II and Wyrwidąb. They are known as the Great Four, or the 4W.",
+          "fr": "Ofir was the sire of four colts born at Janów in 1938: Witraż, Wielki Szlem, Witeź II and Wyrwidąb. They are known as the Great Four, or the 4W.",
+          "it": "Ofir was the sire of four colts born at Janów in 1938: Witraż, Wielki Szlem, Witeź II and Wyrwidąb. They are known as the Great Four, or the 4W.",
+          "nl": "Ofir was the sire of four colts born at Janów in 1938: Witraż, Wielki Szlem, Witeź II and Wyrwidąb. They are known as the Great Four, or the 4W.",
+          "pl": "Ofir był ojcem czterech ogierków urodzonych w Janowie w 1938 roku: Witraża, Wielkiego Szlema, Witezia II i Wyrwidęba. Znane są jako Wielka Czwórka, czyli 4W.",
+          "cs": "Ofir was the sire of four colts born at Janów in 1938: Witraż, Wielki Szlem, Witeź II and Wyrwidąb. They are known as the Great Four, or the 4W.",
+          "sk": "Ofir was the sire of four colts born at Janów in 1938: Witraż, Wielki Szlem, Witeź II and Wyrwidąb. They are known as the Great Four, or the 4W.",
+          "ro": "Ofir was the sire of four colts born at Janów in 1938: Witraż, Wielki Szlem, Witeź II and Wyrwidąb. They are known as the Great Four, or the 4W.",
+          "hu": "Ofir was the sire of four colts born at Janów in 1938: Witraż, Wielki Szlem, Witeź II and Wyrwidąb. They are known as the Great Four, or the 4W.",
+          "da": "Ofir was the sire of four colts born at Janów in 1938: Witraż, Wielki Szlem, Witeź II and Wyrwidąb. They are known as the Great Four, or the 4W."
+        },
+        {
+          "en": "Witeź II has a stamp of his own. Ludwik Maciąg drew him for the set \"Konie polskie\" of 31 December 1963, a 1.55 zł value that reads \"WITEŹ II OGIER ARABSKI\". When it came out, Witeź was living in the United States, where he died two years later.",
+          "de": "Witeź II has a stamp of his own. Ludwik Maciąg drew him for the set \"Konie polskie\" of 31 December 1963, a 1.55 zł value that reads \"WITEŹ II OGIER ARABSKI\". When it came out, Witeź was living in the United States, where he died two years later.",
+          "fr": "Witeź II has a stamp of his own. Ludwik Maciąg drew him for the set \"Konie polskie\" of 31 December 1963, a 1.55 zł value that reads \"WITEŹ II OGIER ARABSKI\". When it came out, Witeź was living in the United States, where he died two years later.",
+          "it": "Witeź II has a stamp of his own. Ludwik Maciąg drew him for the set \"Konie polskie\" of 31 December 1963, a 1.55 zł value that reads \"WITEŹ II OGIER ARABSKI\". When it came out, Witeź was living in the United States, where he died two years later.",
+          "nl": "Witeź II has a stamp of his own. Ludwik Maciąg drew him for the set \"Konie polskie\" of 31 December 1963, a 1.55 zł value that reads \"WITEŹ II OGIER ARABSKI\". When it came out, Witeź was living in the United States, where he died two years later.",
+          "pl": "Witeź II ma własny znaczek. Ludwik Maciąg narysował go do serii „Konie polskie” wydanej 31 grudnia 1963 roku: nominał 1,55 zł z napisem „WITEŹ II OGIER ARABSKI”. Gdy znaczek się ukazał, Witeź żył w Stanach Zjednoczonych, gdzie dwa lata później padł.",
+          "cs": "Witeź II has a stamp of his own. Ludwik Maciąg drew him for the set \"Konie polskie\" of 31 December 1963, a 1.55 zł value that reads \"WITEŹ II OGIER ARABSKI\". When it came out, Witeź was living in the United States, where he died two years later.",
+          "sk": "Witeź II has a stamp of his own. Ludwik Maciąg drew him for the set \"Konie polskie\" of 31 December 1963, a 1.55 zł value that reads \"WITEŹ II OGIER ARABSKI\". When it came out, Witeź was living in the United States, where he died two years later.",
+          "ro": "Witeź II has a stamp of his own. Ludwik Maciąg drew him for the set \"Konie polskie\" of 31 December 1963, a 1.55 zł value that reads \"WITEŹ II OGIER ARABSKI\". When it came out, Witeź was living in the United States, where he died two years later.",
+          "hu": "Witeź II has a stamp of his own. Ludwik Maciąg drew him for the set \"Konie polskie\" of 31 December 1963, a 1.55 zł value that reads \"WITEŹ II OGIER ARABSKI\". When it came out, Witeź was living in the United States, where he died two years later.",
+          "da": "Witeź II has a stamp of his own. Ludwik Maciąg drew him for the set \"Konie polskie\" of 31 December 1963, a 1.55 zł value that reads \"WITEŹ II OGIER ARABSKI\". When it came out, Witeź was living in the United States, where he died two years later."
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "type": "text",
+      "label": {
+        "en": "The story",
+        "de": "The story",
+        "fr": "The story",
+        "it": "The story",
+        "nl": "The story",
+        "pl": "Historia",
+        "cs": "The story",
+        "sk": "The story",
+        "ro": "The story",
+        "hu": "The story",
+        "da": "The story"
+      },
+      "title": {
+        "en": "Witeź and the night column",
+        "de": "Witeź and the night column",
+        "fr": "Witeź and the night column",
+        "it": "Witeź and the night column",
+        "nl": "Witeź and the night column",
+        "pl": "Witeź i nocna kolumna",
+        "cs": "Witeź and the night column",
+        "sk": "Witeź and the night column",
+        "ro": "Witeź and the night column",
+        "hu": "Witeź and the night column",
+        "da": "Witeź and the night column"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/35fe1e25c02a01bf/janow-gate.jpg",
+          "width": 2400,
+          "credit": "Tsaag Valren, CC BY-SA 4.0",
+          "height": 1800,
+          "caption": {
+            "en": "The crowned J and the year 1817 on the gate of the stud.",
+            "de": "The crowned J and the year 1817 on the gate of the stud.",
+            "fr": "The crowned J and the year 1817 on the gate of the stud.",
+            "it": "The crowned J and the year 1817 on the gate of the stud.",
+            "nl": "The crowned J and the year 1817 on the gate of the stud.",
+            "pl": "Koronowane J i rok 1817 na bramie stadniny.",
+            "cs": "The crowned J and the year 1817 on the gate of the stud.",
+            "sk": "The crowned J and the year 1817 on the gate of the stud.",
+            "ro": "The crowned J and the year 1817 on the gate of the stud.",
+            "hu": "The crowned J and the year 1817 on the gate of the stud.",
+            "da": "The crowned J and the year 1817 on the gate of the stud."
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jan%C3%B3w_Podlaski_State_Stud_49.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "German planes attacked the stud on 4 September 1939. The next day the horses and 19 wagons left Janów in a column two kilometres long, moving only at night. One night the lights and noise of a military lorry made the horses bolt. Eighty of them ran off, the young stallion Witeź among them.",
+          "de": "German planes attacked the stud on 4 September 1939. The next day the horses and 19 wagons left Janów in a column two kilometres long, moving only at night. One night the lights and noise of a military lorry made the horses bolt. Eighty of them ran off, the young stallion Witeź among them.",
+          "fr": "German planes attacked the stud on 4 September 1939. The next day the horses and 19 wagons left Janów in a column two kilometres long, moving only at night. One night the lights and noise of a military lorry made the horses bolt. Eighty of them ran off, the young stallion Witeź among them.",
+          "it": "German planes attacked the stud on 4 September 1939. The next day the horses and 19 wagons left Janów in a column two kilometres long, moving only at night. One night the lights and noise of a military lorry made the horses bolt. Eighty of them ran off, the young stallion Witeź among them.",
+          "nl": "German planes attacked the stud on 4 September 1939. The next day the horses and 19 wagons left Janów in a column two kilometres long, moving only at night. One night the lights and noise of a military lorry made the horses bolt. Eighty of them ran off, the young stallion Witeź among them.",
+          "pl": "Niemieckie samoloty zaatakowały stadninę 4 września 1939 roku. Następnego dnia konie i 19 wozów ruszyły z Janowa w dwukilometrowej kolumnie, która szła tylko nocą. Pewnej nocy światła i hałas wojskowej ciężarówki spłoszyły konie. Osiemdziesiąt z nich uciekło, a wśród nich młody ogier Witeź.",
+          "cs": "German planes attacked the stud on 4 September 1939. The next day the horses and 19 wagons left Janów in a column two kilometres long, moving only at night. One night the lights and noise of a military lorry made the horses bolt. Eighty of them ran off, the young stallion Witeź among them.",
+          "sk": "German planes attacked the stud on 4 September 1939. The next day the horses and 19 wagons left Janów in a column two kilometres long, moving only at night. One night the lights and noise of a military lorry made the horses bolt. Eighty of them ran off, the young stallion Witeź among them.",
+          "ro": "German planes attacked the stud on 4 September 1939. The next day the horses and 19 wagons left Janów in a column two kilometres long, moving only at night. One night the lights and noise of a military lorry made the horses bolt. Eighty of them ran off, the young stallion Witeź among them.",
+          "hu": "German planes attacked the stud on 4 September 1939. The next day the horses and 19 wagons left Janów in a column two kilometres long, moving only at night. One night the lights and noise of a military lorry made the horses bolt. Eighty of them ran off, the young stallion Witeź among them.",
+          "da": "German planes attacked the stud on 4 September 1939. The next day the horses and 19 wagons left Janów in a column two kilometres long, moving only at night. One night the lights and noise of a military lorry made the horses bolt. Eighty of them ran off, the young stallion Witeź among them."
+        },
+        {
+          "en": "A forestry worker found him. The man had no feed for a horse and led the stallion back to the stud. Witeź was recognised by his brands: a crowned J on his right shoulder and the number 222 on his left. A crowned J also stands on the iron gate of the stud today.",
+          "de": "A forestry worker found him. The man had no feed for a horse and led the stallion back to the stud. Witeź was recognised by his brands: a crowned J on his right shoulder and the number 222 on his left. A crowned J also stands on the iron gate of the stud today.",
+          "fr": "A forestry worker found him. The man had no feed for a horse and led the stallion back to the stud. Witeź was recognised by his brands: a crowned J on his right shoulder and the number 222 on his left. A crowned J also stands on the iron gate of the stud today.",
+          "it": "A forestry worker found him. The man had no feed for a horse and led the stallion back to the stud. Witeź was recognised by his brands: a crowned J on his right shoulder and the number 222 on his left. A crowned J also stands on the iron gate of the stud today.",
+          "nl": "A forestry worker found him. The man had no feed for a horse and led the stallion back to the stud. Witeź was recognised by his brands: a crowned J on his right shoulder and the number 222 on his left. A crowned J also stands on the iron gate of the stud today.",
+          "pl": "Znalazł go pracownik leśny. Nie miał paszy dla konia, więc odprowadził ogiera do stadniny. Witezia rozpoznano po piętnach: koronowanym J na prawej łopatce i numerze 222 na lewej. Koronowane J jest dziś także na żelaznej bramie stadniny.",
+          "cs": "A forestry worker found him. The man had no feed for a horse and led the stallion back to the stud. Witeź was recognised by his brands: a crowned J on his right shoulder and the number 222 on his left. A crowned J also stands on the iron gate of the stud today.",
+          "sk": "A forestry worker found him. The man had no feed for a horse and led the stallion back to the stud. Witeź was recognised by his brands: a crowned J on his right shoulder and the number 222 on his left. A crowned J also stands on the iron gate of the stud today.",
+          "ro": "A forestry worker found him. The man had no feed for a horse and led the stallion back to the stud. Witeź was recognised by his brands: a crowned J on his right shoulder and the number 222 on his left. A crowned J also stands on the iron gate of the stud today.",
+          "hu": "A forestry worker found him. The man had no feed for a horse and led the stallion back to the stud. Witeź was recognised by his brands: a crowned J on his right shoulder and the number 222 on his left. A crowned J also stands on the iron gate of the stud today.",
+          "da": "A forestry worker found him. The man had no feed for a horse and led the stallion back to the stud. Witeź was recognised by his brands: a crowned J on his right shoulder and the number 222 on his left. A crowned J also stands on the iron gate of the stud today."
+        },
+        {
+          "en": "The column turned back as well and reached Janów on 24 September. Soviet troops then took horses from the stud to Tersk in the Caucasus. Ofir, the stallion of the 1967 stamp, was among them and never came back.",
+          "de": "The column turned back as well and reached Janów on 24 September. Soviet troops then took horses from the stud to Tersk in the Caucasus. Ofir, the stallion of the 1967 stamp, was among them and never came back.",
+          "fr": "The column turned back as well and reached Janów on 24 September. Soviet troops then took horses from the stud to Tersk in the Caucasus. Ofir, the stallion of the 1967 stamp, was among them and never came back.",
+          "it": "The column turned back as well and reached Janów on 24 September. Soviet troops then took horses from the stud to Tersk in the Caucasus. Ofir, the stallion of the 1967 stamp, was among them and never came back.",
+          "nl": "The column turned back as well and reached Janów on 24 September. Soviet troops then took horses from the stud to Tersk in the Caucasus. Ofir, the stallion of the 1967 stamp, was among them and never came back.",
+          "pl": "Kolumna również zawróciła i 24 września dotarła do Janowa. Potem wojska radzieckie wywiozły konie ze stadniny do Terska na Kaukazie. Był wśród nich Ofir, ogier ze znaczka z 1967 roku. Nigdy nie wrócił.",
+          "cs": "The column turned back as well and reached Janów on 24 September. Soviet troops then took horses from the stud to Tersk in the Caucasus. Ofir, the stallion of the 1967 stamp, was among them and never came back.",
+          "sk": "The column turned back as well and reached Janów on 24 September. Soviet troops then took horses from the stud to Tersk in the Caucasus. Ofir, the stallion of the 1967 stamp, was among them and never came back.",
+          "ro": "The column turned back as well and reached Janów on 24 September. Soviet troops then took horses from the stud to Tersk in the Caucasus. Ofir, the stallion of the 1967 stamp, was among them and never came back.",
+          "hu": "The column turned back as well and reached Janów on 24 September. Soviet troops then took horses from the stud to Tersk in the Caucasus. Ofir, the stallion of the 1967 stamp, was among them and never came back.",
+          "da": "The column turned back as well and reached Janów on 24 September. Soviet troops then took horses from the stud to Tersk in the Caucasus. Ofir, the stallion of the 1967 stamp, was among them and never came back."
+        },
+        {
+          "en": "Witeź stayed at Janów until 1942. That year he was taken to Młynów in Volhynia and then to Hostau in the Sudetes. On 28 April 1945 the horses of Hostau were moved 300 km to Bavaria, with Witeź ridden for part of the way. A ship took him on to the US Army remount station at Front Royal, Virginia. He died on a pasture in 1965.",
+          "de": "Witeź stayed at Janów until 1942. That year he was taken to Młynów in Volhynia and then to Hostau in the Sudetes. On 28 April 1945 the horses of Hostau were moved 300 km to Bavaria, with Witeź ridden for part of the way. A ship took him on to the US Army remount station at Front Royal, Virginia. He died on a pasture in 1965.",
+          "fr": "Witeź stayed at Janów until 1942. That year he was taken to Młynów in Volhynia and then to Hostau in the Sudetes. On 28 April 1945 the horses of Hostau were moved 300 km to Bavaria, with Witeź ridden for part of the way. A ship took him on to the US Army remount station at Front Royal, Virginia. He died on a pasture in 1965.",
+          "it": "Witeź stayed at Janów until 1942. That year he was taken to Młynów in Volhynia and then to Hostau in the Sudetes. On 28 April 1945 the horses of Hostau were moved 300 km to Bavaria, with Witeź ridden for part of the way. A ship took him on to the US Army remount station at Front Royal, Virginia. He died on a pasture in 1965.",
+          "nl": "Witeź stayed at Janów until 1942. That year he was taken to Młynów in Volhynia and then to Hostau in the Sudetes. On 28 April 1945 the horses of Hostau were moved 300 km to Bavaria, with Witeź ridden for part of the way. A ship took him on to the US Army remount station at Front Royal, Virginia. He died on a pasture in 1965.",
+          "pl": "Witeź został w Janowie do 1942 roku. Wtedy trafił do Młynowa na Wołyniu, a stamtąd do Hostau w Sudetach. 28 kwietnia 1945 roku konie z Hostau przeprowadzono 300 km do Bawarii. Część drogi Witeź pokonał pod jeźdźcem. Potem popłynął statkiem do stacji remontu koni armii amerykańskiej we Front Royal w Wirginii. Padł na pastwisku w 1965 roku.",
+          "cs": "Witeź stayed at Janów until 1942. That year he was taken to Młynów in Volhynia and then to Hostau in the Sudetes. On 28 April 1945 the horses of Hostau were moved 300 km to Bavaria, with Witeź ridden for part of the way. A ship took him on to the US Army remount station at Front Royal, Virginia. He died on a pasture in 1965.",
+          "sk": "Witeź stayed at Janów until 1942. That year he was taken to Młynów in Volhynia and then to Hostau in the Sudetes. On 28 April 1945 the horses of Hostau were moved 300 km to Bavaria, with Witeź ridden for part of the way. A ship took him on to the US Army remount station at Front Royal, Virginia. He died on a pasture in 1965.",
+          "ro": "Witeź stayed at Janów until 1942. That year he was taken to Młynów in Volhynia and then to Hostau in the Sudetes. On 28 April 1945 the horses of Hostau were moved 300 km to Bavaria, with Witeź ridden for part of the way. A ship took him on to the US Army remount station at Front Royal, Virginia. He died on a pasture in 1965.",
+          "hu": "Witeź stayed at Janów until 1942. That year he was taken to Młynów in Volhynia and then to Hostau in the Sudetes. On 28 April 1945 the horses of Hostau were moved 300 km to Bavaria, with Witeź ridden for part of the way. A ship took him on to the US Army remount station at Front Royal, Virginia. He died on a pasture in 1965.",
+          "da": "Witeź stayed at Janów until 1942. That year he was taken to Młynów in Volhynia and then to Hostau in the Sudetes. On 28 April 1945 the horses of Hostau were moved 300 km to Bavaria, with Witeź ridden for part of the way. A ship took him on to the US Army remount station at Front Royal, Virginia. He died on a pasture in 1965."
+        }
+      ]
+    },
+    {
+      "id": "figures",
+      "type": "numbers",
+      "label": {
+        "en": "In figures",
+        "de": "In figures",
+        "fr": "In figures",
+        "it": "In figures",
+        "nl": "In figures",
+        "pl": "W liczbach",
+        "cs": "In figures",
+        "sk": "In figures",
+        "ro": "In figures",
+        "hu": "In figures",
+        "da": "In figures"
+      },
+      "title": {
+        "en": "The stud",
+        "de": "The stud",
+        "fr": "The stud",
+        "it": "The stud",
+        "nl": "The stud",
+        "pl": "Stadnina",
+        "cs": "The stud",
+        "sk": "The stud",
+        "ro": "The stud",
+        "hu": "The stud",
+        "da": "The stud"
+      },
+      "numbers": [
+        {
+          "text": {
+            "en": "The year the stud was founded.",
+            "de": "The year the stud was founded.",
+            "fr": "The year the stud was founded.",
+            "it": "The year the stud was founded.",
+            "nl": "The year the stud was founded.",
+            "pl": "Rok założenia stadniny.",
+            "cs": "The year the stud was founded.",
+            "sk": "The year the stud was founded.",
+            "ro": "The year the stud was founded.",
+            "hu": "The year the stud was founded.",
+            "da": "The year the stud was founded."
+          },
+          "title": {
+            "en": "Founded",
+            "de": "Founded",
+            "fr": "Founded",
+            "it": "Founded",
+            "nl": "Founded",
+            "pl": "Założenie",
+            "cs": "Founded",
+            "sk": "Founded",
+            "ro": "Founded",
+            "hu": "Founded",
+            "da": "Founded"
+          },
+          "value": "1817"
+        },
+        {
+          "text": {
+            "en": "The horses that left the stud on 5 September 1939.",
+            "de": "The horses that left the stud on 5 September 1939.",
+            "fr": "The horses that left the stud on 5 September 1939.",
+            "it": "The horses that left the stud on 5 September 1939.",
+            "nl": "The horses that left the stud on 5 September 1939.",
+            "pl": "Konie, które opuściły stadninę 5 września 1939 roku.",
+            "cs": "The horses that left the stud on 5 September 1939.",
+            "sk": "The horses that left the stud on 5 September 1939.",
+            "ro": "The horses that left the stud on 5 September 1939.",
+            "hu": "The horses that left the stud on 5 September 1939.",
+            "da": "The horses that left the stud on 5 September 1939."
+          },
+          "title": {
+            "en": "Horses",
+            "de": "Horses",
+            "fr": "Horses",
+            "it": "Horses",
+            "nl": "Horses",
+            "pl": "Konie",
+            "cs": "Horses",
+            "sk": "Horses",
+            "ro": "Horses",
+            "hu": "Horses",
+            "da": "Horses"
+          },
+          "value": "260"
+        },
+        {
+          "text": {
+            "en": "The distance the column covered in twelve days before it came back.",
+            "de": "The distance the column covered in twelve days before it came back.",
+            "fr": "The distance the column covered in twelve days before it came back.",
+            "it": "The distance the column covered in twelve days before it came back.",
+            "nl": "The distance the column covered in twelve days before it came back.",
+            "pl": "Droga, którą kolumna pokonała w dwanaście dni, zanim wróciła.",
+            "cs": "The distance the column covered in twelve days before it came back.",
+            "sk": "The distance the column covered in twelve days before it came back.",
+            "ro": "The distance the column covered in twelve days before it came back.",
+            "hu": "The distance the column covered in twelve days before it came back.",
+            "da": "The distance the column covered in twelve days before it came back."
+          },
+          "title": {
+            "en": "The column",
+            "de": "The column",
+            "fr": "The column",
+            "it": "The column",
+            "nl": "The column",
+            "pl": "Kolumna",
+            "cs": "The column",
+            "sk": "The column",
+            "ro": "The column",
+            "hu": "The column",
+            "da": "The column"
+          },
+          "value": "350 km"
+        },
+        {
+          "text": {
+            "en": "The foals Witeź II left in the United States.",
+            "de": "The foals Witeź II left in the United States.",
+            "fr": "The foals Witeź II left in the United States.",
+            "it": "The foals Witeź II left in the United States.",
+            "nl": "The foals Witeź II left in the United States.",
+            "pl": "Źrebięta, które Witeź II pozostawił po sobie w Stanach Zjednoczonych.",
+            "cs": "The foals Witeź II left in the United States.",
+            "sk": "The foals Witeź II left in the United States.",
+            "ro": "The foals Witeź II left in the United States.",
+            "hu": "The foals Witeź II left in the United States.",
+            "da": "The foals Witeź II left in the United States."
+          },
+          "title": {
+            "en": "Foals",
+            "de": "Foals",
+            "fr": "Foals",
+            "it": "Foals",
+            "nl": "Foals",
+            "pl": "Źrebięta",
+            "cs": "Foals",
+            "sk": "Foals",
+            "ro": "Foals",
+            "hu": "Foals",
+            "da": "Foals"
+          },
+          "value": "215"
+        }
+      ]
+    },
+    {
+      "id": "clock-stable",
+      "type": "wide-photo",
+      "image": {
+        "src": "https://assets.stampiq.io/blog/00fd8b147402bed1/janow-wide.jpg",
+        "width": 2400,
+        "credit": "Andrzej Topczewski, CC BY-SA 4.0",
+        "height": 1600,
+        "caption": {
+          "en": "The stable with the clock tower at Janów Podlaski.",
+          "de": "The stable with the clock tower at Janów Podlaski.",
+          "fr": "The stable with the clock tower at Janów Podlaski.",
+          "it": "The stable with the clock tower at Janów Podlaski.",
+          "nl": "The stable with the clock tower at Janów Podlaski.",
+          "pl": "Stajnia z wieżą zegarową w Janowie Podlaskim.",
+          "cs": "The stable with the clock tower at Janów Podlaski.",
+          "sk": "The stable with the clock tower at Janów Podlaski.",
+          "ro": "The stable with the clock tower at Janów Podlaski.",
+          "hu": "The stable with the clock tower at Janów Podlaski.",
+          "da": "The stable with the clock tower at Janów Podlaski."
+        },
+        "source_url": "https://commons.wikimedia.org/wiki/File:Stajnia_pod_zegarem._Jan%C3%B3w.jpg"
+      }
+    },
+    {
+      "id": "visit",
+      "type": "text",
+      "label": {
+        "en": "The visit",
+        "de": "The visit",
+        "fr": "The visit",
+        "it": "The visit",
+        "nl": "The visit",
+        "pl": "Wizyta",
+        "cs": "The visit",
+        "sk": "The visit",
+        "ro": "The visit",
+        "hu": "The visit",
+        "da": "The visit"
+      },
+      "title": {
+        "en": "The guided tour of the stud",
+        "de": "The guided tour of the stud",
+        "fr": "The guided tour of the stud",
+        "it": "The guided tour of the stud",
+        "nl": "The guided tour of the stud",
+        "pl": "Zwiedzanie z przewodnikiem",
+        "cs": "The guided tour of the stud",
+        "sk": "The guided tour of the stud",
+        "ro": "The guided tour of the stud",
+        "hu": "The guided tour of the stud",
+        "da": "The guided tour of the stud"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/e846654625f578d6/janow-plaque.jpg",
+          "width": 2400,
+          "credit": "Tsaag Valren, CC BY-SA 4.0",
+          "height": 1800,
+          "caption": {
+            "en": "Pianissima's plaque in the horse cemetery.",
+            "de": "Pianissima's plaque in the horse cemetery.",
+            "fr": "Pianissima's plaque in the horse cemetery.",
+            "it": "Pianissima's plaque in the horse cemetery.",
+            "nl": "Pianissima's plaque in the horse cemetery.",
+            "pl": "Tablica Pianissimy na cmentarzu koni.",
+            "cs": "Pianissima's plaque in the horse cemetery.",
+            "sk": "Pianissima's plaque in the horse cemetery.",
+            "ro": "Pianissima's plaque in the horse cemetery.",
+            "hu": "Pianissima's plaque in the horse cemetery.",
+            "da": "Pianissima's plaque in the horse cemetery."
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Jan%C3%B3w_Podlaski_State_Stud_45.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "The visit starts at the entrance in Wygoda. In the iron oval of the gate, a gold J sits under a crown, with a rearing horse at its side and a plate reading \"1817\". The guided tour walks along the paddock while the guide talks about the horses. It passes the Stajnia Czołowa, which Henryk Marconi designed.",
+          "de": "The visit starts at the entrance in Wygoda. In the iron oval of the gate, a gold J sits under a crown, with a rearing horse at its side and a plate reading \"1817\". The guided tour walks along the paddock while the guide talks about the horses. It passes the Stajnia Czołowa, which Henryk Marconi designed.",
+          "fr": "The visit starts at the entrance in Wygoda. In the iron oval of the gate, a gold J sits under a crown, with a rearing horse at its side and a plate reading \"1817\". The guided tour walks along the paddock while the guide talks about the horses. It passes the Stajnia Czołowa, which Henryk Marconi designed.",
+          "it": "The visit starts at the entrance in Wygoda. In the iron oval of the gate, a gold J sits under a crown, with a rearing horse at its side and a plate reading \"1817\". The guided tour walks along the paddock while the guide talks about the horses. It passes the Stajnia Czołowa, which Henryk Marconi designed.",
+          "nl": "The visit starts at the entrance in Wygoda. In the iron oval of the gate, a gold J sits under a crown, with a rearing horse at its side and a plate reading \"1817\". The guided tour walks along the paddock while the guide talks about the horses. It passes the Stajnia Czołowa, which Henryk Marconi designed.",
+          "pl": "Wizyta zaczyna się przy wjeździe w Wygodzie. W żelaznym owalu bramy widać złote J pod koroną, obok niego konia stającego dęba i tabliczkę z rokiem „1817”. Zwiedzanie prowadzi wzdłuż padoku, przewodnik opowiada przy tym o koniach. Po drodze mija się Stajnię Czołową, którą zaprojektował Henryk Marconi.",
+          "cs": "The visit starts at the entrance in Wygoda. In the iron oval of the gate, a gold J sits under a crown, with a rearing horse at its side and a plate reading \"1817\". The guided tour walks along the paddock while the guide talks about the horses. It passes the Stajnia Czołowa, which Henryk Marconi designed.",
+          "sk": "The visit starts at the entrance in Wygoda. In the iron oval of the gate, a gold J sits under a crown, with a rearing horse at its side and a plate reading \"1817\". The guided tour walks along the paddock while the guide talks about the horses. It passes the Stajnia Czołowa, which Henryk Marconi designed.",
+          "ro": "The visit starts at the entrance in Wygoda. In the iron oval of the gate, a gold J sits under a crown, with a rearing horse at its side and a plate reading \"1817\". The guided tour walks along the paddock while the guide talks about the horses. It passes the Stajnia Czołowa, which Henryk Marconi designed.",
+          "hu": "The visit starts at the entrance in Wygoda. In the iron oval of the gate, a gold J sits under a crown, with a rearing horse at its side and a plate reading \"1817\". The guided tour walks along the paddock while the guide talks about the horses. It passes the Stajnia Czołowa, which Henryk Marconi designed.",
+          "da": "The visit starts at the entrance in Wygoda. In the iron oval of the gate, a gold J sits under a crown, with a rearing horse at its side and a plate reading \"1817\". The guided tour walks along the paddock while the guide talks about the horses. It passes the Stajnia Czołowa, which Henryk Marconi designed."
+        },
+        {
+          "en": "A path through the park leads to the horse cemetery, where granite boulders carry bronze plaques for horses that served the stud. Two of the names are on the 2017 sheetlet. One plaque reads \"PIANISSIMA / Gazal Al Shaqab - Pianosa / 2003 - 2015\", another \"PINGA / Gazal Al Shaqab - Pilar / 2004-2021\". Pianissima died in October 2015, two years before her stamp was issued. Pinga died in Minnesota at the end of March 2021.",
+          "de": "A path through the park leads to the horse cemetery, where granite boulders carry bronze plaques for horses that served the stud. Two of the names are on the 2017 sheetlet. One plaque reads \"PIANISSIMA / Gazal Al Shaqab - Pianosa / 2003 - 2015\", another \"PINGA / Gazal Al Shaqab - Pilar / 2004-2021\". Pianissima died in October 2015, two years before her stamp was issued. Pinga died in Minnesota at the end of March 2021.",
+          "fr": "A path through the park leads to the horse cemetery, where granite boulders carry bronze plaques for horses that served the stud. Two of the names are on the 2017 sheetlet. One plaque reads \"PIANISSIMA / Gazal Al Shaqab - Pianosa / 2003 - 2015\", another \"PINGA / Gazal Al Shaqab - Pilar / 2004-2021\". Pianissima died in October 2015, two years before her stamp was issued. Pinga died in Minnesota at the end of March 2021.",
+          "it": "A path through the park leads to the horse cemetery, where granite boulders carry bronze plaques for horses that served the stud. Two of the names are on the 2017 sheetlet. One plaque reads \"PIANISSIMA / Gazal Al Shaqab - Pianosa / 2003 - 2015\", another \"PINGA / Gazal Al Shaqab - Pilar / 2004-2021\". Pianissima died in October 2015, two years before her stamp was issued. Pinga died in Minnesota at the end of March 2021.",
+          "nl": "A path through the park leads to the horse cemetery, where granite boulders carry bronze plaques for horses that served the stud. Two of the names are on the 2017 sheetlet. One plaque reads \"PIANISSIMA / Gazal Al Shaqab - Pianosa / 2003 - 2015\", another \"PINGA / Gazal Al Shaqab - Pilar / 2004-2021\". Pianissima died in October 2015, two years before her stamp was issued. Pinga died in Minnesota at the end of March 2021.",
+          "pl": "Ścieżka przez park prowadzi na cmentarz koni, gdzie na granitowych głazach umieszczono brązowe tablice poświęcone koniom zasłużonym dla stadniny. Dwa z tych imion są na arkusiku z 2017 roku. Na jednej tablicy czytamy „PIANISSIMA / Gazal Al Shaqab - Pianosa / 2003 - 2015”, na drugiej „PINGA / Gazal Al Shaqab - Pilar / 2004-2021”. Pianissima padła w październiku 2015 roku, dwa lata przed wydaniem znaczka z jej imieniem. Pinga padła w Minnesocie pod koniec marca 2021 roku.",
+          "cs": "A path through the park leads to the horse cemetery, where granite boulders carry bronze plaques for horses that served the stud. Two of the names are on the 2017 sheetlet. One plaque reads \"PIANISSIMA / Gazal Al Shaqab - Pianosa / 2003 - 2015\", another \"PINGA / Gazal Al Shaqab - Pilar / 2004-2021\". Pianissima died in October 2015, two years before her stamp was issued. Pinga died in Minnesota at the end of March 2021.",
+          "sk": "A path through the park leads to the horse cemetery, where granite boulders carry bronze plaques for horses that served the stud. Two of the names are on the 2017 sheetlet. One plaque reads \"PIANISSIMA / Gazal Al Shaqab - Pianosa / 2003 - 2015\", another \"PINGA / Gazal Al Shaqab - Pilar / 2004-2021\". Pianissima died in October 2015, two years before her stamp was issued. Pinga died in Minnesota at the end of March 2021.",
+          "ro": "A path through the park leads to the horse cemetery, where granite boulders carry bronze plaques for horses that served the stud. Two of the names are on the 2017 sheetlet. One plaque reads \"PIANISSIMA / Gazal Al Shaqab - Pianosa / 2003 - 2015\", another \"PINGA / Gazal Al Shaqab - Pilar / 2004-2021\". Pianissima died in October 2015, two years before her stamp was issued. Pinga died in Minnesota at the end of March 2021.",
+          "hu": "A path through the park leads to the horse cemetery, where granite boulders carry bronze plaques for horses that served the stud. Two of the names are on the 2017 sheetlet. One plaque reads \"PIANISSIMA / Gazal Al Shaqab - Pianosa / 2003 - 2015\", another \"PINGA / Gazal Al Shaqab - Pilar / 2004-2021\". Pianissima died in October 2015, two years before her stamp was issued. Pinga died in Minnesota at the end of March 2021.",
+          "da": "A path through the park leads to the horse cemetery, where granite boulders carry bronze plaques for horses that served the stud. Two of the names are on the 2017 sheetlet. One plaque reads \"PIANISSIMA / Gazal Al Shaqab - Pianosa / 2003 - 2015\", another \"PINGA / Gazal Al Shaqab - Pilar / 2004-2021\". Pianissima died in October 2015, two years before her stamp was issued. Pinga died in Minnesota at the end of March 2021."
+        },
+        {
+          "en": "From the cemetery the tour goes on to the riding hall, the Hala Ujeżdżeniowa. Every August the stud holds its auction of Arabian horses there, the Pride of Poland. The tour ends along the new stables.",
+          "de": "From the cemetery the tour goes on to the riding hall, the Hala Ujeżdżeniowa. Every August the stud holds its auction of Arabian horses there, the Pride of Poland. The tour ends along the new stables.",
+          "fr": "From the cemetery the tour goes on to the riding hall, the Hala Ujeżdżeniowa. Every August the stud holds its auction of Arabian horses there, the Pride of Poland. The tour ends along the new stables.",
+          "it": "From the cemetery the tour goes on to the riding hall, the Hala Ujeżdżeniowa. Every August the stud holds its auction of Arabian horses there, the Pride of Poland. The tour ends along the new stables.",
+          "nl": "From the cemetery the tour goes on to the riding hall, the Hala Ujeżdżeniowa. Every August the stud holds its auction of Arabian horses there, the Pride of Poland. The tour ends along the new stables.",
+          "pl": "Z cmentarza trasa prowadzi do Hali Ujeżdżeniowej. Co roku w sierpniu stadnina organizuje tam aukcję koni arabskich Pride of Poland. Zwiedzanie kończy się przy nowych stajniach.",
+          "cs": "From the cemetery the tour goes on to the riding hall, the Hala Ujeżdżeniowa. Every August the stud holds its auction of Arabian horses there, the Pride of Poland. The tour ends along the new stables.",
+          "sk": "From the cemetery the tour goes on to the riding hall, the Hala Ujeżdżeniowa. Every August the stud holds its auction of Arabian horses there, the Pride of Poland. The tour ends along the new stables.",
+          "ro": "From the cemetery the tour goes on to the riding hall, the Hala Ujeżdżeniowa. Every August the stud holds its auction of Arabian horses there, the Pride of Poland. The tour ends along the new stables.",
+          "hu": "From the cemetery the tour goes on to the riding hall, the Hala Ujeżdżeniowa. Every August the stud holds its auction of Arabian horses there, the Pride of Poland. The tour ends along the new stables.",
+          "da": "From the cemetery the tour goes on to the riding hall, the Hala Ujeżdżeniowa. Every August the stud holds its auction of Arabian horses there, the Pride of Poland. The tour ends along the new stables."
+        }
+      ]
+    },
+    {
+      "id": "practical",
+      "rows": [
+        {
+          "label": {
+            "en": "Address",
+            "de": "Address",
+            "fr": "Address",
+            "it": "Address",
+            "nl": "Address",
+            "pl": "Adres",
+            "cs": "Address",
+            "sk": "Address",
+            "ro": "Address",
+            "hu": "Address",
+            "da": "Address"
+          },
+          "value": {
+            "en": "Wygoda 3, 21-505 Janów Podlaski",
+            "de": "Wygoda 3, 21-505 Janów Podlaski",
+            "fr": "Wygoda 3, 21-505 Janów Podlaski",
+            "it": "Wygoda 3, 21-505 Janów Podlaski",
+            "nl": "Wygoda 3, 21-505 Janów Podlaski",
+            "pl": "Wygoda 3, 21-505 Janów Podlaski",
+            "cs": "Wygoda 3, 21-505 Janów Podlaski",
+            "sk": "Wygoda 3, 21-505 Janów Podlaski",
+            "ro": "Wygoda 3, 21-505 Janów Podlaski",
+            "hu": "Wygoda 3, 21-505 Janów Podlaski",
+            "da": "Wygoda 3, 21-505 Janów Podlaski"
+          }
+        },
+        {
+          "label": {
+            "en": "Grounds",
+            "de": "Grounds",
+            "fr": "Grounds",
+            "it": "Grounds",
+            "nl": "Grounds",
+            "pl": "Teren stadniny",
+            "cs": "Grounds",
+            "sk": "Grounds",
+            "ro": "Grounds",
+            "hu": "Grounds",
+            "da": "Grounds"
+          },
+          "value": {
+            "en": "Every day 9:00 to 16:00",
+            "de": "Every day 9:00 to 16:00",
+            "fr": "Every day 9:00 to 16:00",
+            "it": "Every day 9:00 to 16:00",
+            "nl": "Every day 9:00 to 16:00",
+            "pl": "Codziennie od 9:00 do 16:00",
+            "cs": "Every day 9:00 to 16:00",
+            "sk": "Every day 9:00 to 16:00",
+            "ro": "Every day 9:00 to 16:00",
+            "hu": "Every day 9:00 to 16:00",
+            "da": "Every day 9:00 to 16:00"
+          }
+        },
+        {
+          "label": {
+            "en": "Grounds ticket",
+            "de": "Grounds ticket",
+            "fr": "Grounds ticket",
+            "it": "Grounds ticket",
+            "nl": "Grounds ticket",
+            "pl": "Bilet na teren",
+            "cs": "Grounds ticket",
+            "sk": "Grounds ticket",
+            "ro": "Grounds ticket",
+            "hu": "Grounds ticket",
+            "da": "Grounds ticket"
+          },
+          "value": {
+            "en": "15 zł, reduced 10 zł for ages 3 to 18 and for people with disabilities",
+            "de": "15 zł, reduced 10 zł for ages 3 to 18 and for people with disabilities",
+            "fr": "15 zł, reduced 10 zł for ages 3 to 18 and for people with disabilities",
+            "it": "15 zł, reduced 10 zł for ages 3 to 18 and for people with disabilities",
+            "nl": "15 zł, reduced 10 zł for ages 3 to 18 and for people with disabilities",
+            "pl": "15 zł, ulgowy 10 zł dla osób w wieku od 3 do 18 lat i dla osób z niepełnosprawnościami",
+            "cs": "15 zł, reduced 10 zł for ages 3 to 18 and for people with disabilities",
+            "sk": "15 zł, reduced 10 zł for ages 3 to 18 and for people with disabilities",
+            "ro": "15 zł, reduced 10 zł for ages 3 to 18 and for people with disabilities",
+            "hu": "15 zł, reduced 10 zł for ages 3 to 18 and for people with disabilities",
+            "da": "15 zł, reduced 10 zł for ages 3 to 18 and for people with disabilities"
+          }
+        },
+        {
+          "label": {
+            "en": "Parking",
+            "de": "Parking",
+            "fr": "Parking",
+            "it": "Parking",
+            "nl": "Parking",
+            "pl": "Parking",
+            "cs": "Parking",
+            "sk": "Parking",
+            "ro": "Parking",
+            "hu": "Parking",
+            "da": "Parking"
+          },
+          "value": {
+            "en": "On the stud grounds, 15 zł per car",
+            "de": "On the stud grounds, 15 zł per car",
+            "fr": "On the stud grounds, 15 zł per car",
+            "it": "On the stud grounds, 15 zł per car",
+            "nl": "On the stud grounds, 15 zł per car",
+            "pl": "Na terenie stadniny, 15 zł za samochód",
+            "cs": "On the stud grounds, 15 zł per car",
+            "sk": "On the stud grounds, 15 zł per car",
+            "ro": "On the stud grounds, 15 zł per car",
+            "hu": "On the stud grounds, 15 zł per car",
+            "da": "On the stud grounds, 15 zł per car"
+          }
+        },
+        {
+          "label": {
+            "en": "Guided tour",
+            "de": "Guided tour",
+            "fr": "Guided tour",
+            "it": "Guided tour",
+            "nl": "Guided tour",
+            "pl": "Zwiedzanie z przewodnikiem",
+            "cs": "Guided tour",
+            "sk": "Guided tour",
+            "ro": "Guided tour",
+            "hu": "Guided tour",
+            "da": "Guided tour"
+          },
+          "value": {
+            "en": "1.5 hours, 30 zł, reduced 20 zł, children under 3 free, booking needed",
+            "de": "1.5 hours, 30 zł, reduced 20 zł, children under 3 free, booking needed",
+            "fr": "1.5 hours, 30 zł, reduced 20 zł, children under 3 free, booking needed",
+            "it": "1.5 hours, 30 zł, reduced 20 zł, children under 3 free, booking needed",
+            "nl": "1.5 hours, 30 zł, reduced 20 zł, children under 3 free, booking needed",
+            "pl": "1,5 godziny, 30 zł, ulgowy 20 zł, dzieci do 3 lat bezpłatnie, wymagana rezerwacja",
+            "cs": "1.5 hours, 30 zł, reduced 20 zł, children under 3 free, booking needed",
+            "sk": "1.5 hours, 30 zł, reduced 20 zł, children under 3 free, booking needed",
+            "ro": "1.5 hours, 30 zł, reduced 20 zł, children under 3 free, booking needed",
+            "hu": "1.5 hours, 30 zł, reduced 20 zł, children under 3 free, booking needed",
+            "da": "1.5 hours, 30 zł, reduced 20 zł, children under 3 free, booking needed"
+          }
+        },
+        {
+          "label": {
+            "en": "Booking on weekdays",
+            "de": "Booking on weekdays",
+            "fr": "Booking on weekdays",
+            "it": "Booking on weekdays",
+            "nl": "Booking on weekdays",
+            "pl": "Rezerwacja w dni robocze",
+            "cs": "Booking on weekdays",
+            "sk": "Booking on weekdays",
+            "ro": "Booking on weekdays",
+            "hu": "Booking on weekdays",
+            "da": "Booking on weekdays"
+          },
+          "value": {
+            "en": "By phone Monday to Friday 8:00 to 16:00, +48 609 031 626",
+            "de": "By phone Monday to Friday 8:00 to 16:00, +48 609 031 626",
+            "fr": "By phone Monday to Friday 8:00 to 16:00, +48 609 031 626",
+            "it": "By phone Monday to Friday 8:00 to 16:00, +48 609 031 626",
+            "nl": "By phone Monday to Friday 8:00 to 16:00, +48 609 031 626",
+            "pl": "Telefonicznie od poniedziałku do piątku od 8:00 do 16:00, +48 609 031 626",
+            "cs": "By phone Monday to Friday 8:00 to 16:00, +48 609 031 626",
+            "sk": "By phone Monday to Friday 8:00 to 16:00, +48 609 031 626",
+            "ro": "By phone Monday to Friday 8:00 to 16:00, +48 609 031 626",
+            "hu": "By phone Monday to Friday 8:00 to 16:00, +48 609 031 626",
+            "da": "By phone Monday to Friday 8:00 to 16:00, +48 609 031 626"
+          }
+        },
+        {
+          "label": {
+            "en": "Booking for weekends",
+            "de": "Booking for weekends",
+            "fr": "Booking for weekends",
+            "it": "Booking for weekends",
+            "nl": "Booking for weekends",
+            "pl": "Rezerwacja na weekend",
+            "cs": "Booking for weekends",
+            "sk": "Booking for weekends",
+            "ro": "Booking for weekends",
+            "hu": "Booking for weekends",
+            "da": "Booking for weekends"
+          },
+          "value": {
+            "en": "By phone until Friday 14:00",
+            "de": "By phone until Friday 14:00",
+            "fr": "By phone until Friday 14:00",
+            "it": "By phone until Friday 14:00",
+            "nl": "By phone until Friday 14:00",
+            "pl": "Telefonicznie do piątku do godziny 14:00",
+            "cs": "By phone until Friday 14:00",
+            "sk": "By phone until Friday 14:00",
+            "ro": "By phone until Friday 14:00",
+            "hu": "By phone until Friday 14:00",
+            "da": "By phone until Friday 14:00"
+          }
+        },
+        {
+          "label": {
+            "en": "Shop",
+            "de": "Shop",
+            "fr": "Shop",
+            "it": "Shop",
+            "nl": "Shop",
+            "pl": "Sklep",
+            "cs": "Shop",
+            "sk": "Shop",
+            "ro": "Shop",
+            "hu": "Shop",
+            "da": "Shop"
+          },
+          "value": {
+            "en": "Every day 10:00 to 16:00",
+            "de": "Every day 10:00 to 16:00",
+            "fr": "Every day 10:00 to 16:00",
+            "it": "Every day 10:00 to 16:00",
+            "nl": "Every day 10:00 to 16:00",
+            "pl": "Codziennie od 10:00 do 16:00",
+            "cs": "Every day 10:00 to 16:00",
+            "sk": "Every day 10:00 to 16:00",
+            "ro": "Every day 10:00 to 16:00",
+            "hu": "Every day 10:00 to 16:00",
+            "da": "Every day 10:00 to 16:00"
+          }
+        },
+        {
+          "label": {
+            "en": "Contact",
+            "de": "Contact",
+            "fr": "Contact",
+            "it": "Contact",
+            "nl": "Contact",
+            "pl": "Kontakt",
+            "cs": "Contact",
+            "sk": "Contact",
+            "ro": "Contact",
+            "hu": "Contact",
+            "da": "Contact"
+          },
+          "value": {
+            "en": "turystyka@skjanow.pl",
+            "de": "turystyka@skjanow.pl",
+            "fr": "turystyka@skjanow.pl",
+            "it": "turystyka@skjanow.pl",
+            "nl": "turystyka@skjanow.pl",
+            "pl": "turystyka@skjanow.pl",
+            "cs": "turystyka@skjanow.pl",
+            "sk": "turystyka@skjanow.pl",
+            "ro": "turystyka@skjanow.pl",
+            "hu": "turystyka@skjanow.pl",
+            "da": "turystyka@skjanow.pl"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "Practical",
+        "de": "Practical",
+        "fr": "Practical",
+        "it": "Practical",
+        "nl": "Practical",
+        "pl": "Praktycznie",
+        "cs": "Practical",
+        "sk": "Practical",
+        "ro": "Practical",
+        "hu": "Practical",
+        "da": "Practical"
+      },
+      "title": {
+        "en": "Tickets and tour booking",
+        "de": "Tickets and tour booking",
+        "fr": "Tickets and tour booking",
+        "it": "Tickets and tour booking",
+        "nl": "Tickets and tour booking",
+        "pl": "Bilety i rezerwacja zwiedzania",
+        "cs": "Tickets and tour booking",
+        "sk": "Tickets and tour booking",
+        "ro": "Tickets and tour booking",
+        "hu": "Tickets and tour booking",
+        "da": "Tickets and tour booking"
+      },
+      "buttons": [
+        {
+          "href": "https://skjanow.pl/jazda-konna-turystyka/",
+          "label": {
+            "en": "Stadnina Koni Janów Podlaski",
+            "de": "Stadnina Koni Janów Podlaski",
+            "fr": "Stadnina Koni Janów Podlaski",
+            "it": "Stadnina Koni Janów Podlaski",
+            "nl": "Stadnina Koni Janów Podlaski",
+            "pl": "Stadnina Koni Janów Podlaski",
+            "cs": "Stadnina Koni Janów Podlaski",
+            "sk": "Stadnina Koni Janów Podlaski",
+            "ro": "Stadnina Koni Janów Podlaski",
+            "hu": "Stadnina Koni Janów Podlaski",
+            "da": "Stadnina Koni Janów Podlaski"
+          }
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "type": "tiles",
+      "label": {
+        "en": "How to get there",
+        "de": "How to get there",
+        "fr": "How to get there",
+        "it": "How to get there",
+        "nl": "How to get there",
+        "pl": "Dojazd",
+        "cs": "How to get there",
+        "sk": "How to get there",
+        "ro": "How to get there",
+        "hu": "How to get there",
+        "da": "How to get there"
+      },
+      "tiles": [
+        {
+          "icon": "train",
+          "text": {
+            "en": "Trains from Warsaw go to Biała Podlaska, with times on the PKP Intercity site.",
+            "de": "Trains from Warsaw go to Biała Podlaska, with times on the PKP Intercity site.",
+            "fr": "Trains from Warsaw go to Biała Podlaska, with times on the PKP Intercity site.",
+            "it": "Trains from Warsaw go to Biała Podlaska, with times on the PKP Intercity site.",
+            "nl": "Trains from Warsaw go to Biała Podlaska, with times on the PKP Intercity site.",
+            "pl": "Pociągi z Warszawy jadą do Białej Podlaskiej. Rozkład jest na stronie PKP Intercity.",
+            "cs": "Trains from Warsaw go to Biała Podlaska, with times on the PKP Intercity site.",
+            "sk": "Trains from Warsaw go to Biała Podlaska, with times on the PKP Intercity site.",
+            "ro": "Trains from Warsaw go to Biała Podlaska, with times on the PKP Intercity site.",
+            "hu": "Trains from Warsaw go to Biała Podlaska, with times on the PKP Intercity site.",
+            "da": "Trains from Warsaw go to Biała Podlaska, with times on the PKP Intercity site."
+          },
+          "title": {
+            "en": "By train",
+            "de": "By train",
+            "fr": "By train",
+            "it": "By train",
+            "nl": "By train",
+            "pl": "Pociągiem",
+            "cs": "By train",
+            "sk": "By train",
+            "ro": "By train",
+            "hu": "By train",
+            "da": "By train"
+          }
+        },
+        {
+          "icon": "pin",
+          "text": {
+            "en": "Garden Express buses take 28 to 42 minutes from Biała Podlaska to the village of Janów Podlaski, with four runs each way on Sundays.",
+            "de": "Garden Express buses take 28 to 42 minutes from Biała Podlaska to the village of Janów Podlaski, with four runs each way on Sundays.",
+            "fr": "Garden Express buses take 28 to 42 minutes from Biała Podlaska to the village of Janów Podlaski, with four runs each way on Sundays.",
+            "it": "Garden Express buses take 28 to 42 minutes from Biała Podlaska to the village of Janów Podlaski, with four runs each way on Sundays.",
+            "nl": "Garden Express buses take 28 to 42 minutes from Biała Podlaska to the village of Janów Podlaski, with four runs each way on Sundays.",
+            "pl": "Autobus Garden Express jedzie z Białej Podlaskiej do wsi Janów Podlaski od 28 do 42 minut. W niedziele są cztery kursy w każdą stronę.",
+            "cs": "Garden Express buses take 28 to 42 minutes from Biała Podlaska to the village of Janów Podlaski, with four runs each way on Sundays.",
+            "sk": "Garden Express buses take 28 to 42 minutes from Biała Podlaska to the village of Janów Podlaski, with four runs each way on Sundays.",
+            "ro": "Garden Express buses take 28 to 42 minutes from Biała Podlaska to the village of Janów Podlaski, with four runs each way on Sundays.",
+            "hu": "Garden Express buses take 28 to 42 minutes from Biała Podlaska to the village of Janów Podlaski, with four runs each way on Sundays.",
+            "da": "Garden Express buses take 28 to 42 minutes from Biała Podlaska to the village of Janów Podlaski, with four runs each way on Sundays."
+          },
+          "title": {
+            "en": "By bus",
+            "de": "By bus",
+            "fr": "By bus",
+            "it": "By bus",
+            "nl": "By bus",
+            "pl": "Autobusem",
+            "cs": "By bus",
+            "sk": "By bus",
+            "ro": "By bus",
+            "hu": "By bus",
+            "da": "By bus"
+          }
+        },
+        {
+          "icon": "car",
+          "text": {
+            "en": "Cars park on the stud grounds.",
+            "de": "Cars park on the stud grounds.",
+            "fr": "Cars park on the stud grounds.",
+            "it": "Cars park on the stud grounds.",
+            "nl": "Cars park on the stud grounds.",
+            "pl": "Parking jest na terenie stadniny.",
+            "cs": "Cars park on the stud grounds.",
+            "sk": "Cars park on the stud grounds.",
+            "ro": "Cars park on the stud grounds.",
+            "hu": "Cars park on the stud grounds.",
+            "da": "Cars park on the stud grounds."
+          },
+          "title": {
+            "en": "By car",
+            "de": "By car",
+            "fr": "By car",
+            "it": "By car",
+            "nl": "By car",
+            "pl": "Samochodem",
+            "cs": "By car",
+            "sk": "By car",
+            "ro": "By car",
+            "hu": "By car",
+            "da": "By car"
+          }
+        }
+      ],
+      "title": {
+        "en": "Connections through Biała Podlaska",
+        "de": "Connections through Biała Podlaska",
+        "fr": "Connections through Biała Podlaska",
+        "it": "Connections through Biała Podlaska",
+        "nl": "Connections through Biała Podlaska",
+        "pl": "Połączenia przez Białą Podlaską",
+        "cs": "Connections through Biała Podlaska",
+        "sk": "Connections through Biała Podlaska",
+        "ro": "Connections through Biała Podlaska",
+        "hu": "Connections through Biała Podlaska",
+        "da": "Connections through Biała Podlaska"
+      }
+    },
+    {
+      "id": "season",
+      "text": {
+        "en": "Weekend tours run only when ten people have signed up by Friday. On 15 October the stud cancelled a show-jumping competition because of a rabies outbreak in the area. Before going, ask the stud by phone whether the tours run.",
+        "de": "Weekend tours run only when ten people have signed up by Friday. On 15 October the stud cancelled a show-jumping competition because of a rabies outbreak in the area. Before going, ask the stud by phone whether the tours run.",
+        "fr": "Weekend tours run only when ten people have signed up by Friday. On 15 October the stud cancelled a show-jumping competition because of a rabies outbreak in the area. Before going, ask the stud by phone whether the tours run.",
+        "it": "Weekend tours run only when ten people have signed up by Friday. On 15 October the stud cancelled a show-jumping competition because of a rabies outbreak in the area. Before going, ask the stud by phone whether the tours run.",
+        "nl": "Weekend tours run only when ten people have signed up by Friday. On 15 October the stud cancelled a show-jumping competition because of a rabies outbreak in the area. Before going, ask the stud by phone whether the tours run.",
+        "pl": "Weekendowe zwiedzanie odbywa się tylko wtedy, gdy do piątku zapisze się dziesięć osób. 15 października stadnina odwołała zawody w skokach przez przeszkody z powodu ogniska wścieklizny w okolicy. Przed wyjazdem zadzwoń do stadniny i zapytaj, czy zwiedzanie się odbywa.",
+        "cs": "Weekend tours run only when ten people have signed up by Friday. On 15 October the stud cancelled a show-jumping competition because of a rabies outbreak in the area. Before going, ask the stud by phone whether the tours run.",
+        "sk": "Weekend tours run only when ten people have signed up by Friday. On 15 October the stud cancelled a show-jumping competition because of a rabies outbreak in the area. Before going, ask the stud by phone whether the tours run.",
+        "ro": "Weekend tours run only when ten people have signed up by Friday. On 15 October the stud cancelled a show-jumping competition because of a rabies outbreak in the area. Before going, ask the stud by phone whether the tours run.",
+        "hu": "Weekend tours run only when ten people have signed up by Friday. On 15 October the stud cancelled a show-jumping competition because of a rabies outbreak in the area. Before going, ask the stud by phone whether the tours run.",
+        "da": "Weekend tours run only when ten people have signed up by Friday. On 15 October the stud cancelled a show-jumping competition because of a rabies outbreak in the area. Before going, ask the stud by phone whether the tours run."
+      },
+      "type": "note"
+    },
+    {
+      "id": "afterwards",
+      "type": "text",
+      "label": {
+        "en": "Afterwards",
+        "de": "Afterwards",
+        "fr": "Afterwards",
+        "it": "Afterwards",
+        "nl": "Afterwards",
+        "pl": "Potem",
+        "cs": "Afterwards",
+        "sk": "Afterwards",
+        "ro": "Afterwards",
+        "hu": "Afterwards",
+        "da": "Afterwards"
+      },
+      "title": {
+        "en": "Kodeń on the Bug",
+        "de": "Kodeń on the Bug",
+        "fr": "Kodeń on the Bug",
+        "it": "Kodeń on the Bug",
+        "nl": "Kodeń on the Bug",
+        "pl": "Kodeń nad Bugiem",
+        "cs": "Kodeń on the Bug",
+        "sk": "Kodeń on the Bug",
+        "ro": "Kodeń on the Bug",
+        "hu": "Kodeń on the Bug",
+        "da": "Kodeń on the Bug"
+      },
+      "visual": {
+        "type": "stamp",
+        "stamp": {
+          "name": {
+            "en": "Our Lady of Kodeń, 300th Coronation Anniversary",
+            "de": "Our Lady of Kodeń, 300th Coronation Anniversary",
+            "fr": "Our Lady of Kodeń, 300th Coronation Anniversary",
+            "it": "Our Lady of Kodeń, 300th Coronation Anniversary",
+            "nl": "Our Lady of Kodeń, 300th Coronation Anniversary",
+            "pl": "Matka Boża Kodeńska, 300. rocznica koronacji",
+            "cs": "Our Lady of Kodeń, 300th Coronation Anniversary",
+            "sk": "Our Lady of Kodeń, 300th Coronation Anniversary",
+            "ro": "Our Lady of Kodeń, 300th Coronation Anniversary",
+            "hu": "Our Lady of Kodeń, 300th Coronation Anniversary",
+            "da": "Our Lady of Kodeń, 300th Coronation Anniversary"
+          },
+          "year": 2023,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/e09594031e4833b2/janow-stamp-koden.png",
+            "width": 834,
+            "height": 1100
+          },
+          "country": "PL",
+          "stamp_id": "SIQ-PL-2023-053"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "The map has a pin at Kodeń, on the Bug about 40 km south-east of the stud. Kodeń is reached by car. The sanctuary's own account tells that Mikołaj Sapieha fell ill in 1629 while building his church there. He travelled to Rome and was healed at a Mass of Pope Urban VIII in front of an image of the Virgin. The pope refused to give it to him. By the same account, Sapieha promised the papal sacristan 500 gold ducats for it and reached Kodeń with the image on 15 September 1631.",
+          "de": "The map has a pin at Kodeń, on the Bug about 40 km south-east of the stud. Kodeń is reached by car. The sanctuary's own account tells that Mikołaj Sapieha fell ill in 1629 while building his church there. He travelled to Rome and was healed at a Mass of Pope Urban VIII in front of an image of the Virgin. The pope refused to give it to him. By the same account, Sapieha promised the papal sacristan 500 gold ducats for it and reached Kodeń with the image on 15 September 1631.",
+          "fr": "The map has a pin at Kodeń, on the Bug about 40 km south-east of the stud. Kodeń is reached by car. The sanctuary's own account tells that Mikołaj Sapieha fell ill in 1629 while building his church there. He travelled to Rome and was healed at a Mass of Pope Urban VIII in front of an image of the Virgin. The pope refused to give it to him. By the same account, Sapieha promised the papal sacristan 500 gold ducats for it and reached Kodeń with the image on 15 September 1631.",
+          "it": "The map has a pin at Kodeń, on the Bug about 40 km south-east of the stud. Kodeń is reached by car. The sanctuary's own account tells that Mikołaj Sapieha fell ill in 1629 while building his church there. He travelled to Rome and was healed at a Mass of Pope Urban VIII in front of an image of the Virgin. The pope refused to give it to him. By the same account, Sapieha promised the papal sacristan 500 gold ducats for it and reached Kodeń with the image on 15 September 1631.",
+          "nl": "The map has a pin at Kodeń, on the Bug about 40 km south-east of the stud. Kodeń is reached by car. The sanctuary's own account tells that Mikołaj Sapieha fell ill in 1629 while building his church there. He travelled to Rome and was healed at a Mass of Pope Urban VIII in front of an image of the Virgin. The pope refused to give it to him. By the same account, Sapieha promised the papal sacristan 500 gold ducats for it and reached Kodeń with the image on 15 September 1631.",
+          "pl": "Na mapie jest pinezka w Kodniu nad Bugiem, około 40 km na południowy wschód od stadniny. Do Kodnia dojeżdża się samochodem. Sanktuarium podaje, że Mikołaj Sapieha zachorował w 1629 roku, gdy budował tam swój kościół. Pojechał do Rzymu i odzyskał zdrowie na mszy papieża Urbana VIII przed obrazem Matki Bożej. Papież odmówił oddania mu obrazu. Według tego samego przekazu Sapieha obiecał papieskiemu zakrystianinowi 500 złotych dukatów za obraz. Z obrazem dotarł do Kodnia 15 września 1631 roku.",
+          "cs": "The map has a pin at Kodeń, on the Bug about 40 km south-east of the stud. Kodeń is reached by car. The sanctuary's own account tells that Mikołaj Sapieha fell ill in 1629 while building his church there. He travelled to Rome and was healed at a Mass of Pope Urban VIII in front of an image of the Virgin. The pope refused to give it to him. By the same account, Sapieha promised the papal sacristan 500 gold ducats for it and reached Kodeń with the image on 15 September 1631.",
+          "sk": "The map has a pin at Kodeń, on the Bug about 40 km south-east of the stud. Kodeń is reached by car. The sanctuary's own account tells that Mikołaj Sapieha fell ill in 1629 while building his church there. He travelled to Rome and was healed at a Mass of Pope Urban VIII in front of an image of the Virgin. The pope refused to give it to him. By the same account, Sapieha promised the papal sacristan 500 gold ducats for it and reached Kodeń with the image on 15 September 1631.",
+          "ro": "The map has a pin at Kodeń, on the Bug about 40 km south-east of the stud. Kodeń is reached by car. The sanctuary's own account tells that Mikołaj Sapieha fell ill in 1629 while building his church there. He travelled to Rome and was healed at a Mass of Pope Urban VIII in front of an image of the Virgin. The pope refused to give it to him. By the same account, Sapieha promised the papal sacristan 500 gold ducats for it and reached Kodeń with the image on 15 September 1631.",
+          "hu": "The map has a pin at Kodeń, on the Bug about 40 km south-east of the stud. Kodeń is reached by car. The sanctuary's own account tells that Mikołaj Sapieha fell ill in 1629 while building his church there. He travelled to Rome and was healed at a Mass of Pope Urban VIII in front of an image of the Virgin. The pope refused to give it to him. By the same account, Sapieha promised the papal sacristan 500 gold ducats for it and reached Kodeń with the image on 15 September 1631.",
+          "da": "The map has a pin at Kodeń, on the Bug about 40 km south-east of the stud. Kodeń is reached by car. The sanctuary's own account tells that Mikołaj Sapieha fell ill in 1629 while building his church there. He travelled to Rome and was healed at a Mass of Pope Urban VIII in front of an image of the Virgin. The pope refused to give it to him. By the same account, Sapieha promised the papal sacristan 500 gold ducats for it and reached Kodeń with the image on 15 September 1631."
+        },
+        {
+          "en": "Agnieszka Sancewicz designed the 4.60 zł stamp of 15 August 2023 for 300 years since the image was crowned. From 1 November, Masses in the basilica are at 7:00 and 18:00 from Monday to Saturday, and at 8:00, 10:00, 12:00 and 17:00 on Sundays.",
+          "de": "Agnieszka Sancewicz designed the 4.60 zł stamp of 15 August 2023 for 300 years since the image was crowned. From 1 November, Masses in the basilica are at 7:00 and 18:00 from Monday to Saturday, and at 8:00, 10:00, 12:00 and 17:00 on Sundays.",
+          "fr": "Agnieszka Sancewicz designed the 4.60 zł stamp of 15 August 2023 for 300 years since the image was crowned. From 1 November, Masses in the basilica are at 7:00 and 18:00 from Monday to Saturday, and at 8:00, 10:00, 12:00 and 17:00 on Sundays.",
+          "it": "Agnieszka Sancewicz designed the 4.60 zł stamp of 15 August 2023 for 300 years since the image was crowned. From 1 November, Masses in the basilica are at 7:00 and 18:00 from Monday to Saturday, and at 8:00, 10:00, 12:00 and 17:00 on Sundays.",
+          "nl": "Agnieszka Sancewicz designed the 4.60 zł stamp of 15 August 2023 for 300 years since the image was crowned. From 1 November, Masses in the basilica are at 7:00 and 18:00 from Monday to Saturday, and at 8:00, 10:00, 12:00 and 17:00 on Sundays.",
+          "pl": "Agnieszka Sancewicz zaprojektowała znaczek o nominale 4,60 zł, wydany 15 sierpnia 2023 roku na 300. rocznicę koronacji obrazu. Od 1 listopada msze w bazylice są o 7:00 i 18:00 od poniedziałku do soboty, a w niedziele o 8:00, 10:00, 12:00 i 17:00.",
+          "cs": "Agnieszka Sancewicz designed the 4.60 zł stamp of 15 August 2023 for 300 years since the image was crowned. From 1 November, Masses in the basilica are at 7:00 and 18:00 from Monday to Saturday, and at 8:00, 10:00, 12:00 and 17:00 on Sundays.",
+          "sk": "Agnieszka Sancewicz designed the 4.60 zł stamp of 15 August 2023 for 300 years since the image was crowned. From 1 November, Masses in the basilica are at 7:00 and 18:00 from Monday to Saturday, and at 8:00, 10:00, 12:00 and 17:00 on Sundays.",
+          "ro": "Agnieszka Sancewicz designed the 4.60 zł stamp of 15 August 2023 for 300 years since the image was crowned. From 1 November, Masses in the basilica are at 7:00 and 18:00 from Monday to Saturday, and at 8:00, 10:00, 12:00 and 17:00 on Sundays.",
+          "hu": "Agnieszka Sancewicz designed the 4.60 zł stamp of 15 August 2023 for 300 years since the image was crowned. From 1 November, Masses in the basilica are at 7:00 and 18:00 from Monday to Saturday, and at 8:00, 10:00, 12:00 and 17:00 on Sundays.",
+          "da": "Agnieszka Sancewicz designed the 4.60 zł stamp of 15 August 2023 for 300 years since the image was crowned. From 1 November, Masses in the basilica are at 7:00 and 18:00 from Monday to Saturday, and at 8:00, 10:00, 12:00 and 17:00 on Sundays."
+        }
+      ]
+    }
+  ]
+}

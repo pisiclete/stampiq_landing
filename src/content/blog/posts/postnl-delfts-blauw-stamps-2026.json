@@ -1,0 +1,1067 @@
+{
+  "category": "new-issues",
+  "markets": [
+    "NL",
+    "BE",
+    "LU"
+  ],
+  "langs": [
+    "en",
+    "de",
+    "fr",
+    "nl"
+  ],
+  "published_at": "2026-10-16T07:00:00+00:00",
+  "thumbnail": {
+    "src": "https://assets.stampiq.io/blog/1d9ef94aba39cf6d/nl-2026-delfts-blauw-card.png",
+    "width": 1920,
+    "height": 960
+  },
+  "languages": {
+    "en": {
+      "slug": "postnl-delfts-blauw-stamps-2026",
+      "title": "PostNL's Delft Blue stamps in ceramic and gold",
+      "description": "A ceramic stamp made by Royal Delft and a stamp with 24-carat gold: PostNL's two Delft Blue issues of September 2026."
+    },
+    "de": {
+      "slug": "postnl-delfter-blau-briefmarken-2026",
+      "title": "Delfter Blau bei PostNL: Keramik und Gold",
+      "description": "Eine Keramikmarke von Royal Delft und eine Marke mit 24-karätigem Gold: die beiden Delfter-Blau-Ausgaben von PostNL im September 2026."
+    },
+    "fr": {
+      "slug": "timbres-postnl-bleu-de-delft-2026",
+      "title": "Les timbres bleu de Delft de PostNL, céramique et or",
+      "description": "Un timbre en céramique fabriqué par Royal Delft et un timbre avec de l'or 24 carats : les deux émissions bleu de Delft de PostNL en septembre 2026."
+    },
+    "it": {
+      "slug": "postnl-delfts-blauw-stamps-2026",
+      "title": "PostNL's Delft Blue stamps in ceramic and gold",
+      "description": "A ceramic stamp made by Royal Delft and a stamp with 24-carat gold: PostNL's two Delft Blue issues of September 2026."
+    },
+    "nl": {
+      "slug": "postnl-delfts-blauw-postzegels-2026",
+      "title": "De Delfts Blauwe postzegels van PostNL in keramiek en goud",
+      "description": "Een keramische postzegel van Royal Delft en een postzegel met 24-karaats goud: de twee Delfts Blauwe uitgiften van PostNL in september 2026."
+    },
+    "pl": {
+      "slug": "postnl-delfts-blauw-stamps-2026",
+      "title": "PostNL's Delft Blue stamps in ceramic and gold",
+      "description": "A ceramic stamp made by Royal Delft and a stamp with 24-carat gold: PostNL's two Delft Blue issues of September 2026."
+    },
+    "cs": {
+      "slug": "postnl-delfts-blauw-stamps-2026",
+      "title": "PostNL's Delft Blue stamps in ceramic and gold",
+      "description": "A ceramic stamp made by Royal Delft and a stamp with 24-carat gold: PostNL's two Delft Blue issues of September 2026."
+    },
+    "sk": {
+      "slug": "postnl-delfts-blauw-stamps-2026",
+      "title": "PostNL's Delft Blue stamps in ceramic and gold",
+      "description": "A ceramic stamp made by Royal Delft and a stamp with 24-carat gold: PostNL's two Delft Blue issues of September 2026."
+    },
+    "ro": {
+      "slug": "postnl-delfts-blauw-stamps-2026",
+      "title": "PostNL's Delft Blue stamps in ceramic and gold",
+      "description": "A ceramic stamp made by Royal Delft and a stamp with 24-carat gold: PostNL's two Delft Blue issues of September 2026."
+    },
+    "hu": {
+      "slug": "postnl-delfts-blauw-stamps-2026",
+      "title": "PostNL's Delft Blue stamps in ceramic and gold",
+      "description": "A ceramic stamp made by Royal Delft and a stamp with 24-carat gold: PostNL's two Delft Blue issues of September 2026."
+    },
+    "da": {
+      "slug": "postnl-delfts-blauw-stamps-2026",
+      "title": "PostNL's Delft Blue stamps in ceramic and gold",
+      "description": "A ceramic stamp made by Royal Delft and a stamp with 24-carat gold: PostNL's two Delft Blue issues of September 2026."
+    }
+  },
+  "header": {
+    "lead": {
+      "en": "In September PostNL issued two stamps with Royal Delft: a stamp made of ceramic and a stamp with 24-carat gold. Both pay for a letter up to 20 grams within the Netherlands.",
+      "de": "Im September hat PostNL zwei Briefmarken mit Royal Delft herausgegeben: eine Briefmarke aus Keramik und eine Briefmarke mit 24-karätigem Gold. Beide frankieren einen Brief bis 20 Gramm innerhalb der Niederlande.",
+      "fr": "En septembre, PostNL a émis deux timbres en collaboration avec Royal Delft : un timbre en céramique et un timbre avec de l'or 24 carats. Les deux affranchissent une lettre jusqu'à 20 grammes aux Pays-Bas.",
+      "it": "In September PostNL issued two stamps with Royal Delft: a stamp made of ceramic and a stamp with 24-carat gold. Both pay for a letter up to 20 grams within the Netherlands.",
+      "nl": "In september gaf PostNL samen met Royal Delft twee postzegels uit: een postzegel van keramiek en een postzegel met 24-karaats goud. Beide frankeren een brief tot 20 gram binnen Nederland.",
+      "pl": "In September PostNL issued two stamps with Royal Delft: a stamp made of ceramic and a stamp with 24-carat gold. Both pay for a letter up to 20 grams within the Netherlands.",
+      "cs": "In September PostNL issued two stamps with Royal Delft: a stamp made of ceramic and a stamp with 24-carat gold. Both pay for a letter up to 20 grams within the Netherlands.",
+      "sk": "In September PostNL issued two stamps with Royal Delft: a stamp made of ceramic and a stamp with 24-carat gold. Both pay for a letter up to 20 grams within the Netherlands.",
+      "ro": "In September PostNL issued two stamps with Royal Delft: a stamp made of ceramic and a stamp with 24-carat gold. Both pay for a letter up to 20 grams within the Netherlands.",
+      "hu": "In September PostNL issued two stamps with Royal Delft: a stamp made of ceramic and a stamp with 24-carat gold. Both pay for a letter up to 20 grams within the Netherlands.",
+      "da": "In September PostNL issued two stamps with Royal Delft: a stamp made of ceramic and a stamp with 24-carat gold. Both pay for a letter up to 20 grams within the Netherlands."
+    },
+    "visual": {
+      "type": "stamp-fan",
+      "stamps": [
+        {
+          "name": {
+            "en": "Delfts Blauw, ceramic stamp",
+            "de": "Delfts Blauw, Keramik-Briefmarke",
+            "fr": "Delfts Blauw, timbre en céramique",
+            "it": "Delfts Blauw, ceramic stamp",
+            "nl": "Delfts Blauw, keramische postzegel",
+            "pl": "Delfts Blauw, ceramic stamp",
+            "cs": "Delfts Blauw, ceramic stamp",
+            "sk": "Delfts Blauw, ceramic stamp",
+            "ro": "Delfts Blauw, ceramic stamp",
+            "hu": "Delfts Blauw, ceramic stamp",
+            "da": "Delfts Blauw, ceramic stamp"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/0a50725fb50a371f/nl-2026-delfts-blauw-keramiek.png",
+            "width": 418,
+            "height": 417
+          },
+          "country": "NL",
+          "stamp_id": "nl-postnl-460762"
+        },
+        {
+          "name": {
+            "en": "Delfts Blauw, stamp with gold",
+            "de": "Delfts Blauw, Briefmarke mit Gold",
+            "fr": "Delfts Blauw, timbre avec de l'or",
+            "it": "Delfts Blauw, stamp with gold",
+            "nl": "Delfts Blauw, postzegel met goud",
+            "pl": "Delfts Blauw, stamp with gold",
+            "cs": "Delfts Blauw, stamp with gold",
+            "sk": "Delfts Blauw, stamp with gold",
+            "ro": "Delfts Blauw, stamp with gold",
+            "hu": "Delfts Blauw, stamp with gold",
+            "da": "Delfts Blauw, stamp with gold"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/c3557d11059ad9a9/nl-2026-delfts-blauw-goud.png",
+            "width": 359,
+            "height": 472
+          },
+          "country": "NL",
+          "stamp_id": "nl-postnl-860051"
+        }
+      ]
+    },
+    "date_label": {
+      "en": "7 and 28 September 2026",
+      "de": "7. und 28. September 2026",
+      "fr": "7 et 28 septembre 2026",
+      "it": "7 and 28 September 2026",
+      "nl": "7 en 28 september 2026",
+      "pl": "7 and 28 September 2026",
+      "cs": "7 and 28 September 2026",
+      "sk": "7 and 28 September 2026",
+      "ro": "7 and 28 September 2026",
+      "hu": "7 and 28 September 2026",
+      "da": "7 and 28 September 2026"
+    }
+  },
+  "blocks": [
+    {
+      "id": "issue-days",
+      "type": "text",
+      "label": {
+        "en": "Two stamps",
+        "de": "Zwei Briefmarken",
+        "fr": "Deux timbres",
+        "it": "Two stamps",
+        "nl": "Twee postzegels",
+        "pl": "Two stamps",
+        "cs": "Two stamps",
+        "sk": "Two stamps",
+        "ro": "Two stamps",
+        "hu": "Two stamps",
+        "da": "Two stamps"
+      },
+      "title": {
+        "en": "Delft Blue in September",
+        "de": "Delfter Blau im September",
+        "fr": "Le bleu de Delft en septembre",
+        "it": "Delft Blue in September",
+        "nl": "Delfts Blauw in september",
+        "pl": "Delft Blue in September",
+        "cs": "Delft Blue in September",
+        "sk": "Delft Blue in September",
+        "ro": "Delft Blue in September",
+        "hu": "Delft Blue in September",
+        "da": "Delft Blue in September"
+      },
+      "paragraphs": [
+        {
+          "en": "PostNL brought out its two Delft Blue stamps three weeks apart. The ceramic stamp came on 7 September, the stamp with gold on 28 September. Royal Delft, the pottery founded in Delft in 1653, made the first one. The picture on the second comes from a dish in its collection.",
+          "de": "PostNL hat seine beiden Delfter-Blau-Briefmarken im Abstand von drei Wochen herausgebracht. Die Keramikmarke kam am 7. September, die Marke mit Gold am 28. September. Die erste stammt von Royal Delft, der 1653 in Delft gegründeten Töpferei. Das Motiv der zweiten geht auf eine Schale aus deren Sammlung zurück.",
+          "fr": "PostNL a émis ses deux timbres en bleu de Delft à trois semaines d'intervalle. Le timbre en céramique est paru le 7 septembre, celui avec de l'or le 28 septembre. Le premier a été fabriqué par Royal Delft, la faïencerie fondée à Delft en 1653. Le motif du second provient d'un plat de sa collection.",
+          "it": "PostNL brought out its two Delft Blue stamps three weeks apart. The ceramic stamp came on 7 September, the stamp with gold on 28 September. Royal Delft, the pottery founded in Delft in 1653, made the first one. The picture on the second comes from a dish in its collection.",
+          "nl": "PostNL bracht de twee Delfts Blauwe postzegels met drie weken ertussen uit. De keramische postzegel verscheen op 7 september, de postzegel met goud op 28 september. Royal Delft, de plateelbakkerij die in 1653 in Delft werd opgericht, maakte de eerste. De afbeelding op de tweede komt van een schaal uit de eigen collectie.",
+          "pl": "PostNL brought out its two Delft Blue stamps three weeks apart. The ceramic stamp came on 7 September, the stamp with gold on 28 September. Royal Delft, the pottery founded in Delft in 1653, made the first one. The picture on the second comes from a dish in its collection.",
+          "cs": "PostNL brought out its two Delft Blue stamps three weeks apart. The ceramic stamp came on 7 September, the stamp with gold on 28 September. Royal Delft, the pottery founded in Delft in 1653, made the first one. The picture on the second comes from a dish in its collection.",
+          "sk": "PostNL brought out its two Delft Blue stamps three weeks apart. The ceramic stamp came on 7 September, the stamp with gold on 28 September. Royal Delft, the pottery founded in Delft in 1653, made the first one. The picture on the second comes from a dish in its collection.",
+          "ro": "PostNL brought out its two Delft Blue stamps three weeks apart. The ceramic stamp came on 7 September, the stamp with gold on 28 September. Royal Delft, the pottery founded in Delft in 1653, made the first one. The picture on the second comes from a dish in its collection.",
+          "hu": "PostNL brought out its two Delft Blue stamps three weeks apart. The ceramic stamp came on 7 September, the stamp with gold on 28 September. Royal Delft, the pottery founded in Delft in 1653, made the first one. The picture on the second comes from a dish in its collection.",
+          "da": "PostNL brought out its two Delft Blue stamps three weeks apart. The ceramic stamp came on 7 September, the stamp with gold on 28 September. Royal Delft, the pottery founded in Delft in 1653, made the first one. The picture on the second comes from a dish in its collection."
+        },
+        {
+          "en": "Both stamps carry the value 1 for a letter up to 20 grams within the Netherlands. Each comes in a passe-partout cover.",
+          "de": "Beide Marken tragen den Nennwert 1 für einen Brief bis 20 Gramm innerhalb der Niederlande. Jede liegt in einem Passepartout-Umschlag.",
+          "fr": "Les deux timbres portent la valeur faciale 1, pour une lettre jusqu'à 20 grammes aux Pays-Bas. Chacun est livré dans une pochette passe-partout.",
+          "it": "Both stamps carry the value 1 for a letter up to 20 grams within the Netherlands. Each comes in a passe-partout cover.",
+          "nl": "Beide postzegels hebben de waarde 1 voor een brief tot 20 gram binnen Nederland. Elke postzegel zit in een passe-partouthoes.",
+          "pl": "Both stamps carry the value 1 for a letter up to 20 grams within the Netherlands. Each comes in a passe-partout cover.",
+          "cs": "Both stamps carry the value 1 for a letter up to 20 grams within the Netherlands. Each comes in a passe-partout cover.",
+          "sk": "Both stamps carry the value 1 for a letter up to 20 grams within the Netherlands. Each comes in a passe-partout cover.",
+          "ro": "Both stamps carry the value 1 for a letter up to 20 grams within the Netherlands. Each comes in a passe-partout cover.",
+          "hu": "Both stamps carry the value 1 for a letter up to 20 grams within the Netherlands. Each comes in a passe-partout cover.",
+          "da": "Both stamps carry the value 1 for a letter up to 20 grams within the Netherlands. Each comes in a passe-partout cover."
+        }
+      ]
+    },
+    {
+      "id": "ceramic",
+      "date": {
+        "en": "7 September 2026",
+        "de": "7. September 2026",
+        "fr": "7 septembre 2026",
+        "it": "7 September 2026",
+        "nl": "7 september 2026",
+        "pl": "7 September 2026",
+        "cs": "7 September 2026",
+        "sk": "7 September 2026",
+        "ro": "7 September 2026",
+        "hu": "7 September 2026",
+        "da": "7 September 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Delfts Blauw, ceramic stamp",
+          "de": "Delfts Blauw, Keramik-Briefmarke",
+          "fr": "Delfts Blauw, timbre en céramique",
+          "it": "Delfts Blauw, ceramic stamp",
+          "nl": "Delfts Blauw, keramische postzegel",
+          "pl": "Delfts Blauw, ceramic stamp",
+          "cs": "Delfts Blauw, ceramic stamp",
+          "sk": "Delfts Blauw, ceramic stamp",
+          "ro": "Delfts Blauw, ceramic stamp",
+          "hu": "Delfts Blauw, ceramic stamp",
+          "da": "Delfts Blauw, ceramic stamp"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/0a50725fb50a371f/nl-2026-delfts-blauw-keramiek.png",
+          "width": 418,
+          "height": 417
+        },
+        "country": "NL",
+        "stamp_id": "nl-postnl-460762"
+      },
+      "title": {
+        "en": "The ceramic stamp from Royal Delft",
+        "de": "Die Keramikmarke von Royal Delft",
+        "fr": "Le timbre en céramique de Royal Delft",
+        "it": "The ceramic stamp from Royal Delft",
+        "nl": "De keramische postzegel van Royal Delft",
+        "pl": "The ceramic stamp from Royal Delft",
+        "cs": "The ceramic stamp from Royal Delft",
+        "sk": "The ceramic stamp from Royal Delft",
+        "ro": "The ceramic stamp from Royal Delft",
+        "hu": "The ceramic stamp from Royal Delft",
+        "da": "The ceramic stamp from Royal Delft"
+      },
+      "formats": [
+        {
+          "value": "€14.95",
+          "format": {
+            "en": "Ceramic stamp in passe-partout",
+            "de": "Keramik-Briefmarke im Passepartout",
+            "fr": "Timbre en céramique en passe-partout",
+            "it": "Ceramic stamp in passe-partout",
+            "nl": "Keramische postzegel in passe-partout",
+            "pl": "Ceramic stamp in passe-partout",
+            "cs": "Ceramic stamp in passe-partout",
+            "sk": "Ceramic stamp in passe-partout",
+            "ro": "Ceramic stamp in passe-partout",
+            "hu": "Ceramic stamp in passe-partout",
+            "da": "Ceramic stamp in passe-partout"
+          }
+        },
+        {
+          "value": "€15.95",
+          "format": {
+            "en": "Stamp on first-day cover",
+            "de": "Briefmarke auf Ersttagsbrief",
+            "fr": "Timbre sur pli premier jour",
+            "it": "Stamp on first-day cover",
+            "nl": "Postzegel op eerste dag envelop",
+            "pl": "Stamp on first-day cover",
+            "cs": "Stamp on first-day cover",
+            "sk": "Stamp on first-day cover",
+            "ro": "Stamp on first-day cover",
+            "hu": "Stamp on first-day cover",
+            "da": "Stamp on first-day cover"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "The stamp is a thin Delft Blue tile of 50 by 50 millimetres, five millimetres thick, with a self-adhesive back. It is the first ceramic stamp from PostNL. Royal Delft had not made one before either.",
+          "de": "Die Marke ist eine dünne Delfter-Blau-Fliese von 50 mal 50 Millimetern, fünf Millimeter dick, mit selbstklebender Rückseite. Es ist die erste Keramikmarke von PostNL. Auch Royal Delft hatte vorher keine hergestellt.",
+          "fr": "Le timbre est un mince carreau de bleu de Delft de 50 sur 50 millimètres, épais de cinq millimètres, au dos autocollant. C'est le premier timbre en céramique de PostNL. Royal Delft n'en avait jamais fabriqué non plus.",
+          "it": "The stamp is a thin Delft Blue tile of 50 by 50 millimetres, five millimetres thick, with a self-adhesive back. It is the first ceramic stamp from PostNL. Royal Delft had not made one before either.",
+          "nl": "De postzegel is een dun Delfts Blauw tegeltje van 50 bij 50 millimeter en vijf millimeter dik, met een zelfklevende achterkant. Het is de eerste keramische postzegel van PostNL. Ook Royal Delft had er nog nooit een gemaakt.",
+          "pl": "The stamp is a thin Delft Blue tile of 50 by 50 millimetres, five millimetres thick, with a self-adhesive back. It is the first ceramic stamp from PostNL. Royal Delft had not made one before either.",
+          "cs": "The stamp is a thin Delft Blue tile of 50 by 50 millimetres, five millimetres thick, with a self-adhesive back. It is the first ceramic stamp from PostNL. Royal Delft had not made one before either.",
+          "sk": "The stamp is a thin Delft Blue tile of 50 by 50 millimetres, five millimetres thick, with a self-adhesive back. It is the first ceramic stamp from PostNL. Royal Delft had not made one before either.",
+          "ro": "The stamp is a thin Delft Blue tile of 50 by 50 millimetres, five millimetres thick, with a self-adhesive back. It is the first ceramic stamp from PostNL. Royal Delft had not made one before either.",
+          "hu": "The stamp is a thin Delft Blue tile of 50 by 50 millimetres, five millimetres thick, with a self-adhesive back. It is the first ceramic stamp from PostNL. Royal Delft had not made one before either.",
+          "da": "The stamp is a thin Delft Blue tile of 50 by 50 millimetres, five millimetres thick, with a self-adhesive back. It is the first ceramic stamp from PostNL. Royal Delft had not made one before either."
+        },
+        {
+          "en": "The design team of Royal Delft took the picture from a larger tile decoration. One of the factory's master painters painted that decoration by hand at full size. It was then digitised and printed onto the ceramic with an inkjet printer. A coating gives the stamp the shine of a glazed tile.",
+          "de": "Das Designteam von Royal Delft hat das Motiv aus einem größeren Fliesenbild entnommen. Einer der Meistermaler der Manufaktur hat dieses Bild in voller Größe von Hand gemalt. Danach wurde es digitalisiert und mit einem Tintenstrahldrucker auf die Keramik gedruckt. Eine Beschichtung gibt der Marke den Glanz einer glasierten Fliese.",
+          "fr": "L'équipe de design de Royal Delft a repris le motif d'un décor de carreaux plus grand. Un des maîtres peintres de la manufacture a peint ce décor à la main, en taille réelle. Il a ensuite été numérisé, puis imprimé sur la céramique avec une imprimante à jet d'encre. Un vernis donne au timbre l'éclat d'un carreau émaillé.",
+          "it": "The design team of Royal Delft took the picture from a larger tile decoration. One of the factory's master painters painted that decoration by hand at full size. It was then digitised and printed onto the ceramic with an inkjet printer. A coating gives the stamp the shine of a glazed tile.",
+          "nl": "Het ontwerpteam van Royal Delft haalde de afbeelding uit een groter tegeltableau. Een van de meesterschilders van de fabriek schilderde dat tableau op ware grootte met de hand. Daarna werd het gedigitaliseerd en met een inkjetprinter op het keramiek gedrukt. Een coating geeft de postzegel de glans van een geglazuurde tegel.",
+          "pl": "The design team of Royal Delft took the picture from a larger tile decoration. One of the factory's master painters painted that decoration by hand at full size. It was then digitised and printed onto the ceramic with an inkjet printer. A coating gives the stamp the shine of a glazed tile.",
+          "cs": "The design team of Royal Delft took the picture from a larger tile decoration. One of the factory's master painters painted that decoration by hand at full size. It was then digitised and printed onto the ceramic with an inkjet printer. A coating gives the stamp the shine of a glazed tile.",
+          "sk": "The design team of Royal Delft took the picture from a larger tile decoration. One of the factory's master painters painted that decoration by hand at full size. It was then digitised and printed onto the ceramic with an inkjet printer. A coating gives the stamp the shine of a glazed tile.",
+          "ro": "The design team of Royal Delft took the picture from a larger tile decoration. One of the factory's master painters painted that decoration by hand at full size. It was then digitised and printed onto the ceramic with an inkjet printer. A coating gives the stamp the shine of a glazed tile.",
+          "hu": "The design team of Royal Delft took the picture from a larger tile decoration. One of the factory's master painters painted that decoration by hand at full size. It was then digitised and printed onto the ceramic with an inkjet printer. A coating gives the stamp the shine of a glazed tile.",
+          "da": "The design team of Royal Delft took the picture from a larger tile decoration. One of the factory's master painters painted that decoration by hand at full size. It was then digitised and printed onto the ceramic with an inkjet printer. A coating gives the stamp the shine of a glazed tile."
+        },
+        {
+          "en": "The picture shows a bunch of flowers with a bird, a motif used on Delftware since the 17th century. The dark blue ground refers to the Asian origin of Delft Blue. Royal Delft made 40,000 of these stamps.",
+          "de": "Zu sehen ist ein Blumenstrauß mit einem Vogel, ein Motiv, das seit dem 17. Jahrhundert auf Delfter Fayence verwendet wird. Der dunkelblaue Grund verweist auf die asiatische Herkunft des Delfter Blaus. Royal Delft hat 40.000 dieser Marken hergestellt.",
+          "fr": "Le motif montre un bouquet de fleurs avec un oiseau, un décor utilisé sur la faïence de Delft depuis le XVIIe siècle. Le fond bleu foncé renvoie aux origines asiatiques du bleu de Delft. Royal Delft a produit 40 000 de ces timbres.",
+          "it": "The picture shows a bunch of flowers with a bird, a motif used on Delftware since the 17th century. The dark blue ground refers to the Asian origin of Delft Blue. Royal Delft made 40,000 of these stamps.",
+          "nl": "Op de afbeelding staat een bloemboeket met een vogel, een motief dat sinds de 17e eeuw op Delfts aardewerk voorkomt. De donkerblauwe ondergrond verwijst naar de Aziatische herkomst van Delfts Blauw. Royal Delft maakte 40.000 van deze postzegels.",
+          "pl": "The picture shows a bunch of flowers with a bird, a motif used on Delftware since the 17th century. The dark blue ground refers to the Asian origin of Delft Blue. Royal Delft made 40,000 of these stamps.",
+          "cs": "The picture shows a bunch of flowers with a bird, a motif used on Delftware since the 17th century. The dark blue ground refers to the Asian origin of Delft Blue. Royal Delft made 40,000 of these stamps.",
+          "sk": "The picture shows a bunch of flowers with a bird, a motif used on Delftware since the 17th century. The dark blue ground refers to the Asian origin of Delft Blue. Royal Delft made 40,000 of these stamps.",
+          "ro": "The picture shows a bunch of flowers with a bird, a motif used on Delftware since the 17th century. The dark blue ground refers to the Asian origin of Delft Blue. Royal Delft made 40,000 of these stamps.",
+          "hu": "The picture shows a bunch of flowers with a bird, a motif used on Delftware since the 17th century. The dark blue ground refers to the Asian origin of Delft Blue. Royal Delft made 40,000 of these stamps.",
+          "da": "The picture shows a bunch of flowers with a bird, a motif used on Delftware since the 17th century. The dark blue ground refers to the Asian origin of Delft Blue. Royal Delft made 40,000 of these stamps."
+        },
+        {
+          "en": "Austrian Post issued a porcelain stamp in 2014, the \"Wiener Rose\" of the Augarten manufactory in Vienna. It presented that stamp as the first porcelain stamp in the world.",
+          "de": "Die Österreichische Post hat 2014 eine Porzellanmarke herausgegeben, die „Wiener Rose“ der Wiener Manufaktur Augarten. Sie hat diese Marke als weltweit erste Porzellanmarke vorgestellt.",
+          "fr": "La Poste autrichienne avait émis un timbre en porcelaine en 2014, la « Wiener Rose » de la manufacture Augarten à Vienne. Elle le présentait comme le premier timbre en porcelaine au monde.",
+          "it": "Austrian Post issued a porcelain stamp in 2014, the \"Wiener Rose\" of the Augarten manufactory in Vienna. It presented that stamp as the first porcelain stamp in the world.",
+          "nl": "De Oostenrijkse post gaf in 2014 een porseleinen postzegel uit, de „Wiener Rose” van de manufactuur Augarten in Wenen. Die postzegel werd gepresenteerd als de eerste porseleinen postzegel ter wereld.",
+          "pl": "Austrian Post issued a porcelain stamp in 2014, the \"Wiener Rose\" of the Augarten manufactory in Vienna. It presented that stamp as the first porcelain stamp in the world.",
+          "cs": "Austrian Post issued a porcelain stamp in 2014, the \"Wiener Rose\" of the Augarten manufactory in Vienna. It presented that stamp as the first porcelain stamp in the world.",
+          "sk": "Austrian Post issued a porcelain stamp in 2014, the \"Wiener Rose\" of the Augarten manufactory in Vienna. It presented that stamp as the first porcelain stamp in the world.",
+          "ro": "Austrian Post issued a porcelain stamp in 2014, the \"Wiener Rose\" of the Augarten manufactory in Vienna. It presented that stamp as the first porcelain stamp in the world.",
+          "hu": "Austrian Post issued a porcelain stamp in 2014, the \"Wiener Rose\" of the Augarten manufactory in Vienna. It presented that stamp as the first porcelain stamp in the world.",
+          "da": "Austrian Post issued a porcelain stamp in 2014, the \"Wiener Rose\" of the Augarten manufactory in Vienna. It presented that stamp as the first porcelain stamp in the world."
+        }
+      ]
+    },
+    {
+      "id": "gold",
+      "date": {
+        "en": "28 September 2026",
+        "de": "28. September 2026",
+        "fr": "28 septembre 2026",
+        "it": "28 September 2026",
+        "nl": "28 september 2026",
+        "pl": "28 September 2026",
+        "cs": "28 September 2026",
+        "sk": "28 September 2026",
+        "ro": "28 September 2026",
+        "hu": "28 September 2026",
+        "da": "28 September 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Delfts Blauw, stamp with gold",
+          "de": "Delfts Blauw, Briefmarke mit Gold",
+          "fr": "Delfts Blauw, timbre avec de l'or",
+          "it": "Delfts Blauw, stamp with gold",
+          "nl": "Delfts Blauw, postzegel met goud",
+          "pl": "Delfts Blauw, stamp with gold",
+          "cs": "Delfts Blauw, stamp with gold",
+          "sk": "Delfts Blauw, stamp with gold",
+          "ro": "Delfts Blauw, stamp with gold",
+          "hu": "Delfts Blauw, stamp with gold",
+          "da": "Delfts Blauw, stamp with gold"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/c3557d11059ad9a9/nl-2026-delfts-blauw-goud.png",
+          "width": 359,
+          "height": 472
+        },
+        "country": "NL",
+        "stamp_id": "nl-postnl-860051"
+      },
+      "title": {
+        "en": "The gold stamp with flowers and a bird",
+        "de": "Die Goldmarke mit Blumen und Vogel",
+        "fr": "Le timbre en or aux fleurs et à l'oiseau",
+        "it": "The gold stamp with flowers and a bird",
+        "nl": "De gouden postzegel met bloemen en een vogel",
+        "pl": "The gold stamp with flowers and a bird",
+        "cs": "The gold stamp with flowers and a bird",
+        "sk": "The gold stamp with flowers and a bird",
+        "ro": "The gold stamp with flowers and a bird",
+        "hu": "The gold stamp with flowers and a bird",
+        "da": "The gold stamp with flowers and a bird"
+      },
+      "formats": [
+        {
+          "value": "€50.00",
+          "format": {
+            "en": "Gold stamp in passe-partout, with certificate",
+            "de": "Goldmarke im Passepartout, mit Zertifikat",
+            "fr": "Timbre en or en passe-partout, avec certificat",
+            "it": "Gold stamp in passe-partout, with certificate",
+            "nl": "Gouden postzegel in passe-partout, met certificaat",
+            "pl": "Gold stamp in passe-partout, with certificate",
+            "cs": "Gold stamp in passe-partout, with certificate",
+            "sk": "Gold stamp in passe-partout, with certificate",
+            "ro": "Gold stamp in passe-partout, with certificate",
+            "hu": "Gold stamp in passe-partout, with certificate",
+            "da": "Gold stamp in passe-partout, with certificate"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "The second stamp shows part of the decoration on a dish from the Royal Delft collection, set on a background of 24-carat gold. It measures 30 by 40 millimetres. PostNL made 1,000 of them, each with a certificate of authenticity.",
+          "de": "Die zweite Marke zeigt einen Ausschnitt aus dem Dekor einer Schale aus der Sammlung von Royal Delft, auf einem Grund aus 24-karätigem Gold. Sie misst 30 mal 40 Millimeter. PostNL hat 1.000 Stück herstellen lassen, jedes mit einem Echtheitszertifikat.",
+          "fr": "Le second timbre montre une partie du décor d'un plat de la collection de Royal Delft, posée sur un fond d'or 24 carats. Il mesure 30 sur 40 millimètres. PostNL en a produit 1 000, chacun accompagné d'un certificat d'authenticité.",
+          "it": "The second stamp shows part of the decoration on a dish from the Royal Delft collection, set on a background of 24-carat gold. It measures 30 by 40 millimetres. PostNL made 1,000 of them, each with a certificate of authenticity.",
+          "nl": "De tweede postzegel toont een deel van het decor op een schaal uit de collectie van Royal Delft, op een achtergrond van 24-karaats goud. Hij meet 30 bij 40 millimeter. PostNL maakte er 1.000, elk met een certificaat van echtheid.",
+          "pl": "The second stamp shows part of the decoration on a dish from the Royal Delft collection, set on a background of 24-carat gold. It measures 30 by 40 millimetres. PostNL made 1,000 of them, each with a certificate of authenticity.",
+          "cs": "The second stamp shows part of the decoration on a dish from the Royal Delft collection, set on a background of 24-carat gold. It measures 30 by 40 millimetres. PostNL made 1,000 of them, each with a certificate of authenticity.",
+          "sk": "The second stamp shows part of the decoration on a dish from the Royal Delft collection, set on a background of 24-carat gold. It measures 30 by 40 millimetres. PostNL made 1,000 of them, each with a certificate of authenticity.",
+          "ro": "The second stamp shows part of the decoration on a dish from the Royal Delft collection, set on a background of 24-carat gold. It measures 30 by 40 millimetres. PostNL made 1,000 of them, each with a certificate of authenticity.",
+          "hu": "The second stamp shows part of the decoration on a dish from the Royal Delft collection, set on a background of 24-carat gold. It measures 30 by 40 millimetres. PostNL made 1,000 of them, each with a certificate of authenticity.",
+          "da": "The second stamp shows part of the decoration on a dish from the Royal Delft collection, set on a background of 24-carat gold. It measures 30 by 40 millimetres. PostNL made 1,000 of them, each with a certificate of authenticity."
+        },
+        {
+          "en": "Frank Janse from Gouda designed it after a visit to the Royal Delft workshop. He first looked at windmills on more recent tiles and found them too much of a cliché. Together with PostNL he chose flowers and a bird, the motif seen most often on Delft Blue in the 17th century.",
+          "de": "Entworfen hat sie Frank Janse aus Gouda, nach einem Besuch in der Werkstatt von Royal Delft. Zuerst hat er sich Windmühlen auf jüngeren Fliesen angesehen und fand sie zu klischeehaft. Gemeinsam mit PostNL hat er Blumen und einen Vogel gewählt, das Motiv, das im 17. Jahrhundert am häufigsten auf Delfter Blau zu sehen war.",
+          "fr": "Frank Janse, de Gouda, l'a dessiné après une visite à l'atelier de Royal Delft. Il a d'abord regardé des moulins sur des carreaux plus récents, qu'il a jugés trop convenus. Avec PostNL, il a choisi les fleurs et l'oiseau, le décor le plus fréquent sur le bleu de Delft au XVIIe siècle.",
+          "it": "Frank Janse from Gouda designed it after a visit to the Royal Delft workshop. He first looked at windmills on more recent tiles and found them too much of a cliché. Together with PostNL he chose flowers and a bird, the motif seen most often on Delft Blue in the 17th century.",
+          "nl": "Frank Janse uit Gouda ontwierp hem na een bezoek aan het atelier van Royal Delft. Hij keek eerst naar molens op recentere tegels en vond dat te veel een cliché. Samen met PostNL koos hij voor bloemen en een vogel, het motief dat in de 17e eeuw het vaakst op Delfts Blauw te zien was.",
+          "pl": "Frank Janse from Gouda designed it after a visit to the Royal Delft workshop. He first looked at windmills on more recent tiles and found them too much of a cliché. Together with PostNL he chose flowers and a bird, the motif seen most often on Delft Blue in the 17th century.",
+          "cs": "Frank Janse from Gouda designed it after a visit to the Royal Delft workshop. He first looked at windmills on more recent tiles and found them too much of a cliché. Together with PostNL he chose flowers and a bird, the motif seen most often on Delft Blue in the 17th century.",
+          "sk": "Frank Janse from Gouda designed it after a visit to the Royal Delft workshop. He first looked at windmills on more recent tiles and found them too much of a cliché. Together with PostNL he chose flowers and a bird, the motif seen most often on Delft Blue in the 17th century.",
+          "ro": "Frank Janse from Gouda designed it after a visit to the Royal Delft workshop. He first looked at windmills on more recent tiles and found them too much of a cliché. Together with PostNL he chose flowers and a bird, the motif seen most often on Delft Blue in the 17th century.",
+          "hu": "Frank Janse from Gouda designed it after a visit to the Royal Delft workshop. He first looked at windmills on more recent tiles and found them too much of a cliché. Together with PostNL he chose flowers and a bird, the motif seen most often on Delft Blue in the 17th century.",
+          "da": "Frank Janse from Gouda designed it after a visit to the Royal Delft workshop. He first looked at windmills on more recent tiles and found them too much of a cliché. Together with PostNL he chose flowers and a bird, the motif seen most often on Delft Blue in the 17th century."
+        },
+        {
+          "en": "According to Janse the bird is probably a fantasy bird. It goes back to Chinese blue-and-white porcelain, on which small songbirds sit between peonies and blossoming branches. At the bottom left of the stamp is a small corner ornament of the kind painted on Delft tiles.",
+          "de": "Laut Janse handelt es sich bei dem Vogel wohl um einen Fantasievogel. Er geht auf chinesisches Blau-Weiß-Porzellan zurück, auf dem kleine Singvögel zwischen Pfingstrosen und blühenden Zweigen sitzen. Unten links auf der Marke steht ein kleines Eckornament, wie es auf Delfter Fliesen gemalt wird.",
+          "fr": "Selon Janse, l'oiseau est probablement un oiseau imaginaire. Il remonte à la porcelaine chinoise bleu et blanc, où de petits oiseaux chanteurs se posent entre des pivoines et des branches en fleurs. En bas à gauche du timbre figure un petit ornement d'angle comme on en peint sur les carreaux de Delft.",
+          "it": "According to Janse the bird is probably a fantasy bird. It goes back to Chinese blue-and-white porcelain, on which small songbirds sit between peonies and blossoming branches. At the bottom left of the stamp is a small corner ornament of the kind painted on Delft tiles.",
+          "nl": "Volgens Janse is de vogel waarschijnlijk een fantasievogel. Hij gaat terug op Chinees blauw-wit porselein, waarop kleine zangvogels tussen pioenen en bloeiende takken zitten. Linksonder op de postzegel staat een klein hoekornament zoals dat op Delftse tegels wordt geschilderd.",
+          "pl": "According to Janse the bird is probably a fantasy bird. It goes back to Chinese blue-and-white porcelain, on which small songbirds sit between peonies and blossoming branches. At the bottom left of the stamp is a small corner ornament of the kind painted on Delft tiles.",
+          "cs": "According to Janse the bird is probably a fantasy bird. It goes back to Chinese blue-and-white porcelain, on which small songbirds sit between peonies and blossoming branches. At the bottom left of the stamp is a small corner ornament of the kind painted on Delft tiles.",
+          "sk": "According to Janse the bird is probably a fantasy bird. It goes back to Chinese blue-and-white porcelain, on which small songbirds sit between peonies and blossoming branches. At the bottom left of the stamp is a small corner ornament of the kind painted on Delft tiles.",
+          "ro": "According to Janse the bird is probably a fantasy bird. It goes back to Chinese blue-and-white porcelain, on which small songbirds sit between peonies and blossoming branches. At the bottom left of the stamp is a small corner ornament of the kind painted on Delft tiles.",
+          "hu": "According to Janse the bird is probably a fantasy bird. It goes back to Chinese blue-and-white porcelain, on which small songbirds sit between peonies and blossoming branches. At the bottom left of the stamp is a small corner ornament of the kind painted on Delft tiles.",
+          "da": "According to Janse the bird is probably a fantasy bird. It goes back to Chinese blue-and-white porcelain, on which small songbirds sit between peonies and blossoming branches. At the bottom left of the stamp is a small corner ornament of the kind painted on Delft tiles."
+        }
+      ]
+    },
+    {
+      "id": "material",
+      "type": "text",
+      "label": {
+        "en": "The material",
+        "de": "Das Material",
+        "fr": "La matière",
+        "it": "The material",
+        "nl": "Het materiaal",
+        "pl": "The material",
+        "cs": "The material",
+        "sk": "The material",
+        "ro": "The material",
+        "hu": "The material",
+        "da": "The material"
+      },
+      "title": {
+        "en": "Earthenware that copied porcelain",
+        "de": "Fayence als Nachahmung von Porzellan",
+        "fr": "Une faïence qui imitait la porcelaine",
+        "it": "Earthenware that copied porcelain",
+        "nl": "Aardewerk dat porselein nabootste",
+        "pl": "Earthenware that copied porcelain",
+        "cs": "Earthenware that copied porcelain",
+        "sk": "Earthenware that copied porcelain",
+        "ro": "Earthenware that copied porcelain",
+        "hu": "Earthenware that copied porcelain",
+        "da": "Earthenware that copied porcelain"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/707ac8b16e95e170/delft-schotel-twee-vogels.jpg",
+          "width": 2400,
+          "credit": "Photo: Rijksmuseum, Amsterdam, CC0",
+          "height": 2334,
+          "caption": {
+            "en": "Dish with two birds, Delft, about 1660 to 1670",
+            "de": "Schale mit zwei Vögeln, Delft, um 1660 bis 1670",
+            "fr": "Plat à deux oiseaux, Delft, vers 1660-1670",
+            "it": "Dish with two birds, Delft, about 1660 to 1670",
+            "nl": "Schaal met twee vogels, Delft, omstreeks 1660 tot 1670",
+            "pl": "Dish with two birds, Delft, about 1660 to 1670",
+            "cs": "Dish with two birds, Delft, about 1660 to 1670",
+            "sk": "Dish with two birds, Delft, about 1660 to 1670",
+            "ro": "Dish with two birds, Delft, about 1660 to 1670",
+            "hu": "Dish with two birds, Delft, about 1660 to 1670",
+            "da": "Dish with two birds, Delft, about 1660 to 1670"
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Schotel_Schotel_met_twee_vogels_in_een_landschap,_BK-NM-4804.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "In the 17th century the Dutch East India Company, the VOC, shipped large amounts of Chinese blue-and-white porcelain to the Dutch Republic. When the trade from China was interrupted, the demand stayed. Potters in Delft could not make porcelain. They made earthenware, covered it with a white tin glaze and painted it with cobalt blue.",
+          "de": "Im 17. Jahrhundert brachte die Niederländische Ostindien-Kompanie, die VOC, große Mengen chinesisches Blau-Weiß-Porzellan in die Republik der Vereinigten Niederlande. Als der Handel mit China unterbrochen war, blieb die Nachfrage bestehen. Porzellan konnten die Töpfer in Delft nicht herstellen. Sie fertigten Fayence, überzogen sie mit einer weißen Zinnglasur und bemalten sie mit Kobaltblau.",
+          "fr": "Au XVIIe siècle, la Compagnie néerlandaise des Indes orientales, la VOC, importait de grandes quantités de porcelaine chinoise bleu et blanc vers la République des Provinces-Unies. Quand le commerce avec la Chine a été interrompu, la demande est restée. Les potiers de Delft ne savaient pas faire de porcelaine. Ils façonnaient de la faïence, la recouvraient d'un émail blanc à l'étain et la peignaient au bleu de cobalt.",
+          "it": "In the 17th century the Dutch East India Company, the VOC, shipped large amounts of Chinese blue-and-white porcelain to the Dutch Republic. When the trade from China was interrupted, the demand stayed. Potters in Delft could not make porcelain. They made earthenware, covered it with a white tin glaze and painted it with cobalt blue.",
+          "nl": "In de 17e eeuw bracht de Verenigde Oostindische Compagnie (VOC) grote hoeveelheden Chinees blauw-wit porselein naar de Republiek. Toen de handel met China stokte, bleef de vraag bestaan. Delftse pottenbakkers konden geen porselein maken. Zij bakten aardewerk, dekten dat af met een wit tinglazuur en beschilderden het met kobaltblauw.",
+          "pl": "In the 17th century the Dutch East India Company, the VOC, shipped large amounts of Chinese blue-and-white porcelain to the Dutch Republic. When the trade from China was interrupted, the demand stayed. Potters in Delft could not make porcelain. They made earthenware, covered it with a white tin glaze and painted it with cobalt blue.",
+          "cs": "In the 17th century the Dutch East India Company, the VOC, shipped large amounts of Chinese blue-and-white porcelain to the Dutch Republic. When the trade from China was interrupted, the demand stayed. Potters in Delft could not make porcelain. They made earthenware, covered it with a white tin glaze and painted it with cobalt blue.",
+          "sk": "In the 17th century the Dutch East India Company, the VOC, shipped large amounts of Chinese blue-and-white porcelain to the Dutch Republic. When the trade from China was interrupted, the demand stayed. Potters in Delft could not make porcelain. They made earthenware, covered it with a white tin glaze and painted it with cobalt blue.",
+          "ro": "In the 17th century the Dutch East India Company, the VOC, shipped large amounts of Chinese blue-and-white porcelain to the Dutch Republic. When the trade from China was interrupted, the demand stayed. Potters in Delft could not make porcelain. They made earthenware, covered it with a white tin glaze and painted it with cobalt blue.",
+          "hu": "In the 17th century the Dutch East India Company, the VOC, shipped large amounts of Chinese blue-and-white porcelain to the Dutch Republic. When the trade from China was interrupted, the demand stayed. Potters in Delft could not make porcelain. They made earthenware, covered it with a white tin glaze and painted it with cobalt blue.",
+          "da": "In the 17th century the Dutch East India Company, the VOC, shipped large amounts of Chinese blue-and-white porcelain to the Dutch Republic. When the trade from China was interrupted, the demand stayed. Potters in Delft could not make porcelain. They made earthenware, covered it with a white tin glaze and painted it with cobalt blue."
+        },
+        {
+          "en": "One of these potteries opened in 1653 as De Porceleyne Fles, the porcelain bottle. It kept that name, although it has always made earthenware. In 1695 Delft had 32 potteries.",
+          "de": "Eine dieser Töpfereien eröffnete 1653 als De Porceleyne Fles, die Porzellanflasche. Den Namen hat sie behalten, obwohl dort immer Fayence hergestellt wurde. 1695 gab es in Delft 32 Töpfereien.",
+          "fr": "Une de ces faïenceries a ouvert en 1653 sous le nom De Porceleyne Fles, la bouteille de porcelaine. Elle a gardé ce nom, bien qu'elle ait toujours produit de la faïence. En 1695, Delft comptait 32 faïenceries.",
+          "it": "One of these potteries opened in 1653 as De Porceleyne Fles, the porcelain bottle. It kept that name, although it has always made earthenware. In 1695 Delft had 32 potteries.",
+          "nl": "Een van die plateelbakkerijen begon in 1653 als De Porceleyne Fles. Die naam bleef, hoewel er altijd aardewerk is gemaakt. In 1695 telde Delft 32 plateelbakkerijen.",
+          "pl": "One of these potteries opened in 1653 as De Porceleyne Fles, the porcelain bottle. It kept that name, although it has always made earthenware. In 1695 Delft had 32 potteries.",
+          "cs": "One of these potteries opened in 1653 as De Porceleyne Fles, the porcelain bottle. It kept that name, although it has always made earthenware. In 1695 Delft had 32 potteries.",
+          "sk": "One of these potteries opened in 1653 as De Porceleyne Fles, the porcelain bottle. It kept that name, although it has always made earthenware. In 1695 Delft had 32 potteries.",
+          "ro": "One of these potteries opened in 1653 as De Porceleyne Fles, the porcelain bottle. It kept that name, although it has always made earthenware. In 1695 Delft had 32 potteries.",
+          "hu": "One of these potteries opened in 1653 as De Porceleyne Fles, the porcelain bottle. It kept that name, although it has always made earthenware. In 1695 Delft had 32 potteries.",
+          "da": "One of these potteries opened in 1653 as De Porceleyne Fles, the porcelain bottle. It kept that name, although it has always made earthenware. In 1695 Delft had 32 potteries."
+        },
+        {
+          "en": "From about 1800 English Wedgwood, European porcelain and cheaper porcelain from Asia took over the market. By about 1840 De Porceleyne Fles was the last pottery left in Delft. In 1876 the engineer Joost Thooft bought it and developed a harder, whiter earthenware with Abel Labouchere. In 1919 the factory received the title Royal for this work.",
+          "de": "Ab etwa 1800 übernahmen englisches Wedgwood, europäisches Porzellan und günstigeres Porzellan aus Asien den Markt. Um 1840 war De Porceleyne Fles die letzte verbliebene Töpferei in Delft. 1876 kaufte sie der Ingenieur Joost Thooft, der zusammen mit Abel Labouchere eine härtere, weißere Fayence entwickelte. Für diese Arbeit erhielt die Manufaktur 1919 den Titel Königlich.",
+          "fr": "À partir de 1800 environ, le Wedgwood anglais, la porcelaine européenne et la porcelaine asiatique bon marché ont dominé le marché. Vers 1840, De Porceleyne Fles était la dernière faïencerie de Delft. En 1876, l'ingénieur Joost Thooft l'a rachetée et a mis au point avec Abel Labouchere une faïence plus dure et plus blanche. En 1919, la manufacture a reçu le titre de Royal pour ce travail.",
+          "it": "From about 1800 English Wedgwood, European porcelain and cheaper porcelain from Asia took over the market. By about 1840 De Porceleyne Fles was the last pottery left in Delft. In 1876 the engineer Joost Thooft bought it and developed a harder, whiter earthenware with Abel Labouchere. In 1919 the factory received the title Royal for this work.",
+          "nl": "Vanaf ongeveer 1800 namen Engels Wedgwood, Europees porselein en goedkoper porselein uit Azië de markt over. Rond 1840 was De Porceleyne Fles de laatste plateelbakkerij in Delft. In 1876 kocht ingenieur Joost Thooft het bedrijf en ontwikkelde hij samen met Abel Labouchere een harder en witter aardewerk. Voor dat werk kreeg de fabriek in 1919 het predicaat Koninklijk.",
+          "pl": "From about 1800 English Wedgwood, European porcelain and cheaper porcelain from Asia took over the market. By about 1840 De Porceleyne Fles was the last pottery left in Delft. In 1876 the engineer Joost Thooft bought it and developed a harder, whiter earthenware with Abel Labouchere. In 1919 the factory received the title Royal for this work.",
+          "cs": "From about 1800 English Wedgwood, European porcelain and cheaper porcelain from Asia took over the market. By about 1840 De Porceleyne Fles was the last pottery left in Delft. In 1876 the engineer Joost Thooft bought it and developed a harder, whiter earthenware with Abel Labouchere. In 1919 the factory received the title Royal for this work.",
+          "sk": "From about 1800 English Wedgwood, European porcelain and cheaper porcelain from Asia took over the market. By about 1840 De Porceleyne Fles was the last pottery left in Delft. In 1876 the engineer Joost Thooft bought it and developed a harder, whiter earthenware with Abel Labouchere. In 1919 the factory received the title Royal for this work.",
+          "ro": "From about 1800 English Wedgwood, European porcelain and cheaper porcelain from Asia took over the market. By about 1840 De Porceleyne Fles was the last pottery left in Delft. In 1876 the engineer Joost Thooft bought it and developed a harder, whiter earthenware with Abel Labouchere. In 1919 the factory received the title Royal for this work.",
+          "hu": "From about 1800 English Wedgwood, European porcelain and cheaper porcelain from Asia took over the market. By about 1840 De Porceleyne Fles was the last pottery left in Delft. In 1876 the engineer Joost Thooft bought it and developed a harder, whiter earthenware with Abel Labouchere. In 1919 the factory received the title Royal for this work.",
+          "da": "From about 1800 English Wedgwood, European porcelain and cheaper porcelain from Asia took over the market. By about 1840 De Porceleyne Fles was the last pottery left in Delft. In 1876 the engineer Joost Thooft bought it and developed a harder, whiter earthenware with Abel Labouchere. In 1919 the factory received the title Royal for this work."
+        }
+      ]
+    },
+    {
+      "id": "craft",
+      "type": "text",
+      "label": {
+        "en": "The craft",
+        "de": "Das Handwerk",
+        "fr": "Le savoir-faire",
+        "it": "The craft",
+        "nl": "Het ambacht",
+        "pl": "The craft",
+        "cs": "The craft",
+        "sk": "The craft",
+        "ro": "The craft",
+        "hu": "The craft",
+        "da": "The craft"
+      },
+      "title": {
+        "en": "How Delft Blue is painted",
+        "de": "Wie Delfter Blau gemalt wird",
+        "fr": "La peinture du bleu de Delft",
+        "it": "How Delft Blue is painted",
+        "nl": "Zo wordt Delfts Blauw beschilderd",
+        "pl": "How Delft Blue is painted",
+        "cs": "How Delft Blue is painted",
+        "sk": "How Delft Blue is painted",
+        "ro": "How Delft Blue is painted",
+        "hu": "How Delft Blue is painted",
+        "da": "How Delft Blue is painted"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/95f57795f66b5d58/royal-delft-schilder-2024.jpg",
+          "width": 2400,
+          "credit": "Photo: Andy Li, CC0",
+          "height": 1807,
+          "caption": {
+            "en": "A painter at Royal Delft, with black unfired pieces next to finished blue ones, 2024",
+            "de": "Ein Maler bei Royal Delft, neben schwarzen ungebrannten und fertigen blauen Stücken, 2024",
+            "fr": "Un peintre chez Royal Delft, avec des pièces noires avant cuisson à côté de pièces bleues terminées, 2024",
+            "it": "A painter at Royal Delft, with black unfired pieces next to finished blue ones, 2024",
+            "nl": "Een schilder bij Royal Delft, met ongebakken zwarte stukken naast afgewerkte blauwe, 2024",
+            "pl": "A painter at Royal Delft, with black unfired pieces next to finished blue ones, 2024",
+            "cs": "A painter at Royal Delft, with black unfired pieces next to finished blue ones, 2024",
+            "sk": "A painter at Royal Delft, with black unfired pieces next to finished blue ones, 2024",
+            "ro": "A painter at Royal Delft, with black unfired pieces next to finished blue ones, 2024",
+            "hu": "A painter at Royal Delft, with black unfired pieces next to finished blue ones, 2024",
+            "da": "A painter at Royal Delft, with black unfired pieces next to finished blue ones, 2024"
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Painter_working_in_Royal_Delft_2024-12-02.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "At Royal Delft the clay is cast in plaster moulds and fired for the first time at 1,100 °C. The painter then draws the outlines in charcoal and paints freehand with a paint made mostly of cobalt oxide. On the unfired piece this paint is black.",
+          "de": "Bei Royal Delft wird der Ton in Gipsformen gegossen und zum ersten Mal bei 1.100 °C gebrannt. Danach zeichnet der Maler die Umrisse mit Kohle vor und malt freihändig mit einer Farbe, die vor allem aus Kobaltoxid besteht. Auf dem ungebrannten Stück ist diese Farbe schwarz.",
+          "fr": "Chez Royal Delft, l'argile est coulée dans des moules en plâtre et cuite une première fois à 1 100 °C. Le peintre trace ensuite les contours au fusain, puis peint à main levée avec une couleur composée surtout d'oxyde de cobalt. Sur la pièce non cuite, cette couleur est noire.",
+          "it": "At Royal Delft the clay is cast in plaster moulds and fired for the first time at 1,100 °C. The painter then draws the outlines in charcoal and paints freehand with a paint made mostly of cobalt oxide. On the unfired piece this paint is black.",
+          "nl": "Bij Royal Delft wordt de klei in gipsen mallen gegoten en een eerste keer gebakken op 1.100 °C. Daarna zet de schilder de contouren uit met houtskool en schildert uit de vrije hand met verf die vooral uit kobaltoxide bestaat. Op het ongebakken stuk is die verf zwart.",
+          "pl": "At Royal Delft the clay is cast in plaster moulds and fired for the first time at 1,100 °C. The painter then draws the outlines in charcoal and paints freehand with a paint made mostly of cobalt oxide. On the unfired piece this paint is black.",
+          "cs": "At Royal Delft the clay is cast in plaster moulds and fired for the first time at 1,100 °C. The painter then draws the outlines in charcoal and paints freehand with a paint made mostly of cobalt oxide. On the unfired piece this paint is black.",
+          "sk": "At Royal Delft the clay is cast in plaster moulds and fired for the first time at 1,100 °C. The painter then draws the outlines in charcoal and paints freehand with a paint made mostly of cobalt oxide. On the unfired piece this paint is black.",
+          "ro": "At Royal Delft the clay is cast in plaster moulds and fired for the first time at 1,100 °C. The painter then draws the outlines in charcoal and paints freehand with a paint made mostly of cobalt oxide. On the unfired piece this paint is black.",
+          "hu": "At Royal Delft the clay is cast in plaster moulds and fired for the first time at 1,100 °C. The painter then draws the outlines in charcoal and paints freehand with a paint made mostly of cobalt oxide. On the unfired piece this paint is black.",
+          "da": "At Royal Delft the clay is cast in plaster moulds and fired for the first time at 1,100 °C. The painter then draws the outlines in charcoal and paints freehand with a paint made mostly of cobalt oxide. On the unfired piece this paint is black."
+        },
+        {
+          "en": "The piece is sprayed with glaze and fired a second time at 1,200 °C. In this firing the glaze becomes clear and the black paint turns blue. Training as a master painter takes about eight years inside the factory.",
+          "de": "Das Stück wird mit Glasur besprüht und ein zweites Mal bei 1.200 °C gebrannt. In diesem Brand wird die Glasur klar und die schwarze Farbe blau. Die Ausbildung zum Meistermaler dauert in der Manufaktur etwa acht Jahre.",
+          "fr": "La pièce est ensuite émaillée au pistolet et cuite une seconde fois à 1 200 °C. Pendant cette cuisson, l'émail devient transparent et la couleur noire vire au bleu. La formation de maître peintre dure environ huit ans, au sein de la manufacture.",
+          "it": "The piece is sprayed with glaze and fired a second time at 1,200 °C. In this firing the glaze becomes clear and the black paint turns blue. Training as a master painter takes about eight years inside the factory.",
+          "nl": "Het stuk wordt met glazuur bespoten en een tweede keer gebakken op 1.200 °C. Bij die brand wordt het glazuur doorzichtig en kleurt de zwarte verf blauw. De opleiding tot meesterschilder duurt binnen de fabriek ongeveer acht jaar.",
+          "pl": "The piece is sprayed with glaze and fired a second time at 1,200 °C. In this firing the glaze becomes clear and the black paint turns blue. Training as a master painter takes about eight years inside the factory.",
+          "cs": "The piece is sprayed with glaze and fired a second time at 1,200 °C. In this firing the glaze becomes clear and the black paint turns blue. Training as a master painter takes about eight years inside the factory.",
+          "sk": "The piece is sprayed with glaze and fired a second time at 1,200 °C. In this firing the glaze becomes clear and the black paint turns blue. Training as a master painter takes about eight years inside the factory.",
+          "ro": "The piece is sprayed with glaze and fired a second time at 1,200 °C. In this firing the glaze becomes clear and the black paint turns blue. Training as a master painter takes about eight years inside the factory.",
+          "hu": "The piece is sprayed with glaze and fired a second time at 1,200 °C. In this firing the glaze becomes clear and the black paint turns blue. Training as a master painter takes about eight years inside the factory.",
+          "da": "The piece is sprayed with glaze and fired a second time at 1,200 °C. In this firing the glaze becomes clear and the black paint turns blue. Training as a master painter takes about eight years inside the factory."
+        },
+        {
+          "en": "Every piece carries a mark on the bottom: a small bottle, the letters JT for Joost Thooft and the word Delft. The painter's initials stand to the left of the mark, a two-letter year code to the right.",
+          "de": "Jedes Stück trägt auf der Unterseite eine Marke: eine kleine Flasche, die Buchstaben JT für Joost Thooft und das Wort Delft. Links davon stehen die Initialen des Malers, rechts ein Jahrescode aus zwei Buchstaben.",
+          "fr": "Chaque pièce porte une marque sur le dessous : une petite bouteille, les lettres JT pour Joost Thooft et le mot Delft. Les initiales du peintre se trouvent à gauche de la marque, un code d'année de deux lettres à droite.",
+          "it": "Every piece carries a mark on the bottom: a small bottle, the letters JT for Joost Thooft and the word Delft. The painter's initials stand to the left of the mark, a two-letter year code to the right.",
+          "nl": "Elk stuk draagt een merk op de bodem: een klein flesje, de letters JT van Joost Thooft en het woord Delft. Links van het merk staan de initialen van de schilder, rechts een jaarcode van twee letters.",
+          "pl": "Every piece carries a mark on the bottom: a small bottle, the letters JT for Joost Thooft and the word Delft. The painter's initials stand to the left of the mark, a two-letter year code to the right.",
+          "cs": "Every piece carries a mark on the bottom: a small bottle, the letters JT for Joost Thooft and the word Delft. The painter's initials stand to the left of the mark, a two-letter year code to the right.",
+          "sk": "Every piece carries a mark on the bottom: a small bottle, the letters JT for Joost Thooft and the word Delft. The painter's initials stand to the left of the mark, a two-letter year code to the right.",
+          "ro": "Every piece carries a mark on the bottom: a small bottle, the letters JT for Joost Thooft and the word Delft. The painter's initials stand to the left of the mark, a two-letter year code to the right.",
+          "hu": "Every piece carries a mark on the bottom: a small bottle, the letters JT for Joost Thooft and the word Delft. The painter's initials stand to the left of the mark, a two-letter year code to the right.",
+          "da": "Every piece carries a mark on the bottom: a small bottle, the letters JT for Joost Thooft and the word Delft. The painter's initials stand to the left of the mark, a two-letter year code to the right."
+        },
+        {
+          "en": "Royal Delft also decorates some of its own collections with printed transfers. A master painter paints the design once. It is then scanned and split into four layers of blue. The ceramic stamp also starts from one painted original.",
+          "de": "Einen Teil der eigenen Kollektionen dekoriert Royal Delft auch mit gedruckten Abziehbildern. Ein Meistermaler malt den Entwurf einmal. Danach wird er gescannt und in vier Blauschichten aufgeteilt. Auch die Keramikmarke geht auf ein einziges gemaltes Original zurück.",
+          "fr": "Royal Delft décore aussi certaines de ses collections avec des décalcomanies imprimées. Un maître peintre peint le motif une fois. Il est ensuite numérisé et décomposé en quatre couches de bleu. Le timbre en céramique part lui aussi d'un original peint.",
+          "it": "Royal Delft also decorates some of its own collections with printed transfers. A master painter paints the design once. It is then scanned and split into four layers of blue. The ceramic stamp also starts from one painted original.",
+          "nl": "Royal Delft decoreert een deel van de eigen collecties ook met gedrukte transfers. Een meesterschilder schildert het ontwerp één keer. Daarna wordt het gescand en in vier lagen blauw verdeeld. Ook de keramische postzegel begint bij één geschilderd origineel.",
+          "pl": "Royal Delft also decorates some of its own collections with printed transfers. A master painter paints the design once. It is then scanned and split into four layers of blue. The ceramic stamp also starts from one painted original.",
+          "cs": "Royal Delft also decorates some of its own collections with printed transfers. A master painter paints the design once. It is then scanned and split into four layers of blue. The ceramic stamp also starts from one painted original.",
+          "sk": "Royal Delft also decorates some of its own collections with printed transfers. A master painter paints the design once. It is then scanned and split into four layers of blue. The ceramic stamp also starts from one painted original.",
+          "ro": "Royal Delft also decorates some of its own collections with printed transfers. A master painter paints the design once. It is then scanned and split into four layers of blue. The ceramic stamp also starts from one painted original.",
+          "hu": "Royal Delft also decorates some of its own collections with printed transfers. A master painter paints the design once. It is then scanned and split into four layers of blue. The ceramic stamp also starts from one painted original.",
+          "da": "Royal Delft also decorates some of its own collections with printed transfers. A master painter paints the design once. It is then scanned and split into four layers of blue. The ceramic stamp also starts from one painted original."
+        }
+      ]
+    },
+    {
+      "id": "visiting",
+      "rows": [
+        {
+          "label": {
+            "en": "Address",
+            "de": "Adresse",
+            "fr": "Adresse",
+            "it": "Address",
+            "nl": "Adres",
+            "pl": "Address",
+            "cs": "Address",
+            "sk": "Address",
+            "ro": "Address",
+            "hu": "Address",
+            "da": "Address"
+          },
+          "value": {
+            "en": "Rotterdamseweg 196, 2628 AR Delft",
+            "de": "Rotterdamseweg 196, 2628 AR Delft",
+            "fr": "Rotterdamseweg 196, 2628 AR Delft",
+            "it": "Rotterdamseweg 196, 2628 AR Delft",
+            "nl": "Rotterdamseweg 196, 2628 AR Delft",
+            "pl": "Rotterdamseweg 196, 2628 AR Delft",
+            "cs": "Rotterdamseweg 196, 2628 AR Delft",
+            "sk": "Rotterdamseweg 196, 2628 AR Delft",
+            "ro": "Rotterdamseweg 196, 2628 AR Delft",
+            "hu": "Rotterdamseweg 196, 2628 AR Delft",
+            "da": "Rotterdamseweg 196, 2628 AR Delft"
+          }
+        },
+        {
+          "label": {
+            "en": "Opening hours",
+            "de": "Öffnungszeiten",
+            "fr": "Horaires",
+            "it": "Opening hours",
+            "nl": "Openingstijden",
+            "pl": "Opening hours",
+            "cs": "Opening hours",
+            "sk": "Opening hours",
+            "ro": "Opening hours",
+            "hu": "Opening hours",
+            "da": "Opening hours"
+          },
+          "value": {
+            "en": "Daily, 09:30 to 17:00",
+            "de": "Täglich, 09:30 bis 17:00 Uhr",
+            "fr": "Tous les jours, de 9h30 à 17h00",
+            "it": "Daily, 09:30 to 17:00",
+            "nl": "Dagelijks van 09.30 tot 17.00 uur",
+            "pl": "Daily, 09:30 to 17:00",
+            "cs": "Daily, 09:30 to 17:00",
+            "sk": "Daily, 09:30 to 17:00",
+            "ro": "Daily, 09:30 to 17:00",
+            "hu": "Daily, 09:30 to 17:00",
+            "da": "Daily, 09:30 to 17:00"
+          }
+        },
+        {
+          "label": {
+            "en": "Adults",
+            "de": "Erwachsene",
+            "fr": "Adultes",
+            "it": "Adults",
+            "nl": "Volwassenen",
+            "pl": "Adults",
+            "cs": "Adults",
+            "sk": "Adults",
+            "ro": "Adults",
+            "hu": "Adults",
+            "da": "Adults"
+          },
+          "value": {
+            "en": "€17.50",
+            "de": "17,50 €",
+            "fr": "17,50 €",
+            "it": "€17.50",
+            "nl": "€ 17,50",
+            "pl": "€17.50",
+            "cs": "€17.50",
+            "sk": "€17.50",
+            "ro": "€17.50",
+            "hu": "€17.50",
+            "da": "€17.50"
+          }
+        },
+        {
+          "label": {
+            "en": "Ages 13 to 18",
+            "de": "13 bis 18 Jahre",
+            "fr": "De 13 à 18 ans",
+            "it": "Ages 13 to 18",
+            "nl": "13 tot en met 18 jaar",
+            "pl": "Ages 13 to 18",
+            "cs": "Ages 13 to 18",
+            "sk": "Ages 13 to 18",
+            "ro": "Ages 13 to 18",
+            "hu": "Ages 13 to 18",
+            "da": "Ages 13 to 18"
+          },
+          "value": {
+            "en": "€10.00",
+            "de": "10,00 €",
+            "fr": "10,00 €",
+            "it": "€10.00",
+            "nl": "€ 10,00",
+            "pl": "€10.00",
+            "cs": "€10.00",
+            "sk": "€10.00",
+            "ro": "€10.00",
+            "hu": "€10.00",
+            "da": "€10.00"
+          }
+        },
+        {
+          "label": {
+            "en": "Ages 7 to 12",
+            "de": "7 bis 12 Jahre",
+            "fr": "De 7 à 12 ans",
+            "it": "Ages 7 to 12",
+            "nl": "7 tot en met 12 jaar",
+            "pl": "Ages 7 to 12",
+            "cs": "Ages 7 to 12",
+            "sk": "Ages 7 to 12",
+            "ro": "Ages 7 to 12",
+            "hu": "Ages 7 to 12",
+            "da": "Ages 7 to 12"
+          },
+          "value": {
+            "en": "€7.50",
+            "de": "7,50 €",
+            "fr": "7,50 €",
+            "it": "€7.50",
+            "nl": "€ 7,50",
+            "pl": "€7.50",
+            "cs": "€7.50",
+            "sk": "€7.50",
+            "ro": "€7.50",
+            "hu": "€7.50",
+            "da": "€7.50"
+          }
+        },
+        {
+          "label": {
+            "en": "Museumkaart",
+            "de": "Museumkaart",
+            "fr": "Museumkaart",
+            "it": "Museumkaart",
+            "nl": "Museumkaart",
+            "pl": "Museumkaart",
+            "cs": "Museumkaart",
+            "sk": "Museumkaart",
+            "ro": "Museumkaart",
+            "hu": "Museumkaart",
+            "da": "Museumkaart"
+          },
+          "value": {
+            "en": "Free entry",
+            "de": "Freier Eintritt",
+            "fr": "Entrée gratuite",
+            "it": "Free entry",
+            "nl": "Gratis entree",
+            "pl": "Free entry",
+            "cs": "Free entry",
+            "sk": "Free entry",
+            "ro": "Free entry",
+            "hu": "Free entry",
+            "da": "Free entry"
+          }
+        },
+        {
+          "label": {
+            "en": "Audio tour",
+            "de": "Audioführung",
+            "fr": "Audioguide",
+            "it": "Audio tour",
+            "nl": "Audiotour",
+            "pl": "Audio tour",
+            "cs": "Audio tour",
+            "sk": "Audio tour",
+            "ro": "Audio tour",
+            "hu": "Audio tour",
+            "da": "Audio tour"
+          },
+          "value": {
+            "en": "Included, in eight languages",
+            "de": "Inbegriffen, in acht Sprachen",
+            "fr": "Inclus, en huit langues",
+            "it": "Included, in eight languages",
+            "nl": "Inbegrepen, in acht talen",
+            "pl": "Included, in eight languages",
+            "cs": "Included, in eight languages",
+            "sk": "Included, in eight languages",
+            "ro": "Included, in eight languages",
+            "hu": "Included, in eight languages",
+            "da": "Included, in eight languages"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "Visiting",
+        "de": "Besuch",
+        "fr": "La visite",
+        "it": "Visiting",
+        "nl": "Bezoeken",
+        "pl": "Visiting",
+        "cs": "Visiting",
+        "sk": "Visiting",
+        "ro": "Visiting",
+        "hu": "Visiting",
+        "da": "Visiting"
+      },
+      "title": {
+        "en": "The Royal Delft Museum",
+        "de": "Das Royal Delft Museum",
+        "fr": "Le musée Royal Delft",
+        "it": "The Royal Delft Museum",
+        "nl": "Het Royal Delft Museum",
+        "pl": "The Royal Delft Museum",
+        "cs": "The Royal Delft Museum",
+        "sk": "The Royal Delft Museum",
+        "ro": "The Royal Delft Museum",
+        "hu": "The Royal Delft Museum",
+        "da": "The Royal Delft Museum"
+      },
+      "buttons": [
+        {
+          "href": "https://museum.royaldelft.com/plan-je-bezoek/bezoek/",
+          "label": {
+            "en": "Royal Delft Museum",
+            "de": "Royal Delft Museum",
+            "fr": "Royal Delft Museum",
+            "it": "Royal Delft Museum",
+            "nl": "Royal Delft Museum",
+            "pl": "Royal Delft Museum",
+            "cs": "Royal Delft Museum",
+            "sk": "Royal Delft Museum",
+            "ro": "Royal Delft Museum",
+            "hu": "Royal Delft Museum",
+            "da": "Royal Delft Museum"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ordering",
+      "rows": [
+        {
+          "label": {
+            "en": "Ceramic stamp",
+            "de": "Keramikmarke",
+            "fr": "Timbre en céramique",
+            "it": "Ceramic stamp",
+            "nl": "Keramische postzegel",
+            "pl": "Ceramic stamp",
+            "cs": "Ceramic stamp",
+            "sk": "Ceramic stamp",
+            "ro": "Ceramic stamp",
+            "hu": "Ceramic stamp",
+            "da": "Ceramic stamp"
+          },
+          "value": {
+            "en": "PostNL Collect Club shop and post offices in Bruna shops, while stock lasts",
+            "de": "PostNL Collect Club Shop und Postfilialen in Bruna-Läden, solange der Vorrat reicht",
+            "fr": "Boutique PostNL Collect Club et bureaux de poste dans les magasins Bruna, jusqu'à épuisement des stocks",
+            "it": "PostNL Collect Club shop and post offices in Bruna shops, while stock lasts",
+            "nl": "Webshop van de PostNL Collect Club en postkantoren in Bruna-winkels, zolang de voorraad strekt",
+            "pl": "PostNL Collect Club shop and post offices in Bruna shops, while stock lasts",
+            "cs": "PostNL Collect Club shop and post offices in Bruna shops, while stock lasts",
+            "sk": "PostNL Collect Club shop and post offices in Bruna shops, while stock lasts",
+            "ro": "PostNL Collect Club shop and post offices in Bruna shops, while stock lasts",
+            "hu": "PostNL Collect Club shop and post offices in Bruna shops, while stock lasts",
+            "da": "PostNL Collect Club shop and post offices in Bruna shops, while stock lasts"
+          }
+        },
+        {
+          "label": {
+            "en": "Gold stamp",
+            "de": "Goldmarke",
+            "fr": "Timbre en or",
+            "it": "Gold stamp",
+            "nl": "Gouden postzegel",
+            "pl": "Gold stamp",
+            "cs": "Gold stamp",
+            "sk": "Gold stamp",
+            "ro": "Gold stamp",
+            "hu": "Gold stamp",
+            "da": "Gold stamp"
+          },
+          "value": {
+            "en": "PostNL Collect Club shop",
+            "de": "PostNL Collect Club Shop",
+            "fr": "Boutique PostNL Collect Club",
+            "it": "PostNL Collect Club shop",
+            "nl": "Webshop van de PostNL Collect Club",
+            "pl": "PostNL Collect Club shop",
+            "cs": "PostNL Collect Club shop",
+            "sk": "PostNL Collect Club shop",
+            "ro": "PostNL Collect Club shop",
+            "hu": "PostNL Collect Club shop",
+            "da": "PostNL Collect Club shop"
+          }
+        },
+        {
+          "label": {
+            "en": "Collect Club by phone",
+            "de": "Collect Club telefonisch",
+            "fr": "Collect Club par téléphone",
+            "it": "Collect Club by phone",
+            "nl": "Collect Club telefonisch",
+            "pl": "Collect Club by phone",
+            "cs": "Collect Club by phone",
+            "sk": "Collect Club by phone",
+            "ro": "Collect Club by phone",
+            "hu": "Collect Club by phone",
+            "da": "Collect Club by phone"
+          },
+          "value": {
+            "en": "088 868 99 00",
+            "de": "088 868 99 00",
+            "fr": "088 868 99 00",
+            "it": "088 868 99 00",
+            "nl": "088 868 99 00",
+            "pl": "088 868 99 00",
+            "cs": "088 868 99 00",
+            "sk": "088 868 99 00",
+            "ro": "088 868 99 00",
+            "hu": "088 868 99 00",
+            "da": "088 868 99 00"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "Ordering",
+        "de": "Bestellung",
+        "fr": "Commander",
+        "it": "Ordering",
+        "nl": "Bestellen",
+        "pl": "Ordering",
+        "cs": "Ordering",
+        "sk": "Ordering",
+        "ro": "Ordering",
+        "hu": "Ordering",
+        "da": "Ordering"
+      },
+      "title": {
+        "en": "Where to buy the stamps",
+        "de": "Wo es die Briefmarken gibt",
+        "fr": "Où acheter les timbres",
+        "it": "Where to buy the stamps",
+        "nl": "Waar je de postzegels koopt",
+        "pl": "Where to buy the stamps",
+        "cs": "Where to buy the stamps",
+        "sk": "Where to buy the stamps",
+        "ro": "Where to buy the stamps",
+        "hu": "Where to buy the stamps",
+        "da": "Where to buy the stamps"
+      },
+      "buttons": [
+        {
+          "href": "https://shop.postnl.nl/webshop/collect-club",
+          "label": {
+            "en": "PostNL Collect Club shop",
+            "de": "PostNL Collect Club Shop",
+            "fr": "Boutique PostNL Collect Club",
+            "it": "PostNL Collect Club shop",
+            "nl": "Webshop PostNL Collect Club",
+            "pl": "PostNL Collect Club shop",
+            "cs": "PostNL Collect Club shop",
+            "sk": "PostNL Collect Club shop",
+            "ro": "PostNL Collect Club shop",
+            "hu": "PostNL Collect Club shop",
+            "da": "PostNL Collect Club shop"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stampiq",
+      "text": {
+        "en": "The two Delft Blue stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "de": "Die beiden Delfter-Blau-Marken sind noch nicht in StampIQ. Wir nehmen sie später in den Katalog auf.",
+        "fr": "Les deux timbres en bleu de Delft ne sont pas encore dans StampIQ. Nous les ajouterons au catalogue plus tard.",
+        "it": "The two Delft Blue stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "nl": "De twee Delfts Blauwe postzegels staan nog niet in StampIQ. We voegen ze later aan de catalogus toe.",
+        "pl": "The two Delft Blue stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "cs": "The two Delft Blue stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "sk": "The two Delft Blue stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "ro": "The two Delft Blue stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "hu": "The two Delft Blue stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "da": "The two Delft Blue stamps are not in StampIQ yet. We add them to the catalogue later."
+      },
+      "type": "note"
+    }
+  ]
+}

@@ -1,0 +1,958 @@
+{
+  "category": "new-issues",
+  "markets": [
+    "NL",
+    "BE",
+    "LU"
+  ],
+  "langs": [
+    "en",
+    "de",
+    "fr",
+    "nl"
+  ],
+  "published_at": "2026-10-18T07:00:00+00:00",
+  "thumbnail": {
+    "src": "https://assets.stampiq.io/blog/0043e4a480f5f6e6/nl-2026-deltawerken-card-v3.png",
+    "width": 1920,
+    "height": 960
+  },
+  "languages": {
+    "en": {
+      "slug": "postnl-deltawerken-stamps-2026",
+      "title": "PostNL's Deltawerken sheet of 5 October 2026",
+      "description": "Six stamps about the Delta Works built after the flood of 1953, with all thirteen works and 254 water words in the margin."
+    },
+    "de": {
+      "slug": "postnl-deltawerke-bogen-2026",
+      "title": "Der Deltawerke-Bogen von PostNL vom 5. Oktober 2026",
+      "description": "Sechs Marken zu den Deltawerken nach der Flutkatastrophe von 1953, mit allen dreizehn Bauwerken und 254 Wörtern zum Wasser im Bogenrand."
+    },
+    "fr": {
+      "slug": "feuillet-deltawerken-postnl-2026",
+      "title": "Le feuillet Deltawerken de PostNL du 5 octobre 2026",
+      "description": "Six timbres sur le plan Delta construit après l'inondation de 1953, avec les treize ouvrages et 254 mots liés à l'eau dans la marge."
+    },
+    "it": {
+      "slug": "postnl-deltawerken-stamps-2026",
+      "title": "PostNL's Deltawerken sheet of 5 October 2026",
+      "description": "Six stamps about the Delta Works built after the flood of 1953, with all thirteen works and 254 water words in the margin."
+    },
+    "nl": {
+      "slug": "postnl-deltawerken-postzegels-2026",
+      "title": "Het Deltawerken-vel van PostNL van 5 oktober 2026",
+      "description": "Zes postzegels over de Deltawerken na de watersnood van 1953, met alle dertien werken en 254 waterwoorden in de rand."
+    },
+    "pl": {
+      "slug": "postnl-deltawerken-stamps-2026",
+      "title": "PostNL's Deltawerken sheet of 5 October 2026",
+      "description": "Six stamps about the Delta Works built after the flood of 1953, with all thirteen works and 254 water words in the margin."
+    },
+    "cs": {
+      "slug": "postnl-deltawerken-stamps-2026",
+      "title": "PostNL's Deltawerken sheet of 5 October 2026",
+      "description": "Six stamps about the Delta Works built after the flood of 1953, with all thirteen works and 254 water words in the margin."
+    },
+    "sk": {
+      "slug": "postnl-deltawerken-stamps-2026",
+      "title": "PostNL's Deltawerken sheet of 5 October 2026",
+      "description": "Six stamps about the Delta Works built after the flood of 1953, with all thirteen works and 254 water words in the margin."
+    },
+    "ro": {
+      "slug": "postnl-deltawerken-stamps-2026",
+      "title": "PostNL's Deltawerken sheet of 5 October 2026",
+      "description": "Six stamps about the Delta Works built after the flood of 1953, with all thirteen works and 254 water words in the margin."
+    },
+    "hu": {
+      "slug": "postnl-deltawerken-stamps-2026",
+      "title": "PostNL's Deltawerken sheet of 5 October 2026",
+      "description": "Six stamps about the Delta Works built after the flood of 1953, with all thirteen works and 254 water words in the margin."
+    },
+    "da": {
+      "slug": "postnl-deltawerken-stamps-2026",
+      "title": "PostNL's Deltawerken sheet of 5 October 2026",
+      "description": "Six stamps about the Delta Works built after the flood of 1953, with all thirteen works and 254 water words in the margin."
+    }
+  },
+  "header": {
+    "lead": {
+      "en": "On 5 October PostNL issued a sheet about the Delta Works, the dams and storm surge barriers built after the flood of 1953. Its margin lists all thirteen works with the years they were built.",
+      "de": "Am 5. Oktober hat PostNL einen Bogen zu den Deltawerken herausgegeben, den Dämmen und Sturmflutwehren, die nach der Flutkatastrophe von 1953 gebaut wurden. Im Bogenrand stehen alle dreizehn Bauwerke mit ihren Baujahren.",
+      "fr": "Le 5 octobre, PostNL a émis un feuillet consacré au plan Delta, les barrages et les barrières anti-tempête construits après l'inondation de 1953. La marge recense les treize ouvrages avec leurs années de construction.",
+      "it": "On 5 October PostNL issued a sheet about the Delta Works, the dams and storm surge barriers built after the flood of 1953. Its margin lists all thirteen works with the years they were built.",
+      "nl": "Op 5 oktober gaf PostNL een vel uit over de Deltawerken, de dammen en stormvloedkeringen die na de watersnood van 1953 zijn gebouwd. In de rand staan alle dertien werken met hun bouwjaren.",
+      "pl": "On 5 October PostNL issued a sheet about the Delta Works, the dams and storm surge barriers built after the flood of 1953. Its margin lists all thirteen works with the years they were built.",
+      "cs": "On 5 October PostNL issued a sheet about the Delta Works, the dams and storm surge barriers built after the flood of 1953. Its margin lists all thirteen works with the years they were built.",
+      "sk": "On 5 October PostNL issued a sheet about the Delta Works, the dams and storm surge barriers built after the flood of 1953. Its margin lists all thirteen works with the years they were built.",
+      "ro": "On 5 October PostNL issued a sheet about the Delta Works, the dams and storm surge barriers built after the flood of 1953. Its margin lists all thirteen works with the years they were built.",
+      "hu": "On 5 October PostNL issued a sheet about the Delta Works, the dams and storm surge barriers built after the flood of 1953. Its margin lists all thirteen works with the years they were built.",
+      "da": "On 5 October PostNL issued a sheet about the Delta Works, the dams and storm surge barriers built after the flood of 1953. Its margin lists all thirteen works with the years they were built."
+    },
+    "visual": {
+      "type": "stamp",
+      "stamp": {
+        "name": {
+          "en": "Deltawerken, Veerse Gatdam",
+          "de": "Deltawerken, Veerse Gatdam",
+          "fr": "Deltawerken, Veerse Gatdam",
+          "it": "Deltawerken, Veerse Gatdam",
+          "nl": "Deltawerken, Veerse Gatdam",
+          "pl": "Deltawerken, Veerse Gatdam",
+          "cs": "Deltawerken, Veerse Gatdam",
+          "sk": "Deltawerken, Veerse Gatdam",
+          "ro": "Deltawerken, Veerse Gatdam",
+          "hu": "Deltawerken, Veerse Gatdam",
+          "da": "Deltawerken, Veerse Gatdam"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/84738a757734deee/nl-2026-deltawerken-zegel-v3.png",
+          "width": 459,
+          "height": 320
+        },
+        "country": "NL",
+        "stamp_id": "nl-postnl-461061-1"
+      }
+    },
+    "date_label": {
+      "en": "5 October 2026",
+      "de": "5. Oktober 2026",
+      "fr": "5 octobre 2026",
+      "it": "5 October 2026",
+      "nl": "5 oktober 2026",
+      "pl": "5 October 2026",
+      "cs": "5 October 2026",
+      "sk": "5 October 2026",
+      "ro": "5 October 2026",
+      "hu": "5 October 2026",
+      "da": "5 October 2026"
+    }
+  },
+  "blocks": [
+    {
+      "id": "sheet",
+      "type": "text",
+      "label": {
+        "en": "The sheet",
+        "de": "Der Bogen",
+        "fr": "Le feuillet",
+        "it": "The sheet",
+        "nl": "Het vel",
+        "pl": "The sheet",
+        "cs": "The sheet",
+        "sk": "The sheet",
+        "ro": "The sheet",
+        "hu": "The sheet",
+        "da": "The sheet"
+      },
+      "title": {
+        "en": "The design of the sheet",
+        "de": "Die Gestaltung des Bogens",
+        "fr": "La conception du feuillet",
+        "it": "The design of the sheet",
+        "nl": "Het ontwerp van het vel",
+        "pl": "The design of the sheet",
+        "cs": "The design of the sheet",
+        "sk": "The design of the sheet",
+        "ro": "The design of the sheet",
+        "hu": "The design of the sheet",
+        "da": "The design of the sheet"
+      },
+      "paragraphs": [
+        {
+          "en": "The sheet has six stamps in two designs. Hans Gremmen combined black-and-white photos with drawings in the blue and green that maps use for water and land. One design shows the building of the Veerse Gatdam, with floating cranes in front of a yellow sun. The other shows the Maeslantkering from the air, next to an oak.",
+          "de": "Der Bogen enthält sechs Marken in zwei Motiven. Hans Gremmen hat Schwarz-Weiß-Fotos mit Zeichnungen in Blau und Grün kombiniert, den Farben, mit denen Karten Wasser und Land darstellen. Das eine Motiv zeigt den Bau der Veerse Gatdam mit Schwimmkränen vor einer gelben Sonne. Das andere zeigt die Maeslantkering aus der Luft, daneben eine Eiche.",
+          "fr": "Le feuillet compte six timbres répartis en deux motifs. Hans Gremmen a associé des photos en noir et blanc à des dessins qui reprennent le bleu et le vert utilisés sur les cartes pour l'eau et la terre. Un motif montre la construction du Veerse Gatdam, avec des grues flottantes devant un soleil jaune. L'autre montre le Maeslantkering vu du ciel, à côté d'un chêne.",
+          "it": "The sheet has six stamps in two designs. Hans Gremmen combined black-and-white photos with drawings in the blue and green that maps use for water and land. One design shows the building of the Veerse Gatdam, with floating cranes in front of a yellow sun. The other shows the Maeslantkering from the air, next to an oak.",
+          "nl": "Het vel telt zes postzegels in twee ontwerpen. Hans Gremmen combineerde zwart-witfoto's met tekeningen in het blauw en groen waarmee kaarten water en land aanduiden. Het ene ontwerp toont de bouw van de Veerse Gatdam, met drijvende kranen voor een gele zon. Het andere toont de Maeslantkering vanuit de lucht, naast een eik.",
+          "pl": "The sheet has six stamps in two designs. Hans Gremmen combined black-and-white photos with drawings in the blue and green that maps use for water and land. One design shows the building of the Veerse Gatdam, with floating cranes in front of a yellow sun. The other shows the Maeslantkering from the air, next to an oak.",
+          "cs": "The sheet has six stamps in two designs. Hans Gremmen combined black-and-white photos with drawings in the blue and green that maps use for water and land. One design shows the building of the Veerse Gatdam, with floating cranes in front of a yellow sun. The other shows the Maeslantkering from the air, next to an oak.",
+          "sk": "The sheet has six stamps in two designs. Hans Gremmen combined black-and-white photos with drawings in the blue and green that maps use for water and land. One design shows the building of the Veerse Gatdam, with floating cranes in front of a yellow sun. The other shows the Maeslantkering from the air, next to an oak.",
+          "ro": "The sheet has six stamps in two designs. Hans Gremmen combined black-and-white photos with drawings in the blue and green that maps use for water and land. One design shows the building of the Veerse Gatdam, with floating cranes in front of a yellow sun. The other shows the Maeslantkering from the air, next to an oak.",
+          "hu": "The sheet has six stamps in two designs. Hans Gremmen combined black-and-white photos with drawings in the blue and green that maps use for water and land. One design shows the building of the Veerse Gatdam, with floating cranes in front of a yellow sun. The other shows the Maeslantkering from the air, next to an oak.",
+          "da": "The sheet has six stamps in two designs. Hans Gremmen combined black-and-white photos with drawings in the blue and green that maps use for water and land. One design shows the building of the Veerse Gatdam, with floating cranes in front of a yellow sun. The other shows the Maeslantkering from the air, next to an oak."
+        },
+        {
+          "en": "In Gremmen's words, the oak is a native tree and the most common tree in the Netherlands. The cranes stand for the work it took to build the Delta Works. The sun stands for a new start: the works made life in the region safer.",
+          "de": "Die Eiche ist nach Gremmens Worten ein einheimischer Baum und der häufigste Baum der Niederlande. Die Kräne stehen für die Arbeit, die der Bau der Deltawerke gekostet hat. Die Sonne steht für einen Neuanfang: Die Bauwerke haben das Leben in der Region sicherer gemacht.",
+          "fr": "Selon Gremmen, le chêne est un arbre indigène et l'arbre le plus répandu aux Pays-Bas. Les grues rappellent le travail qu'a demandé la construction du plan Delta. Le soleil évoque un nouveau départ : les ouvrages ont rendu la vie plus sûre dans la région.",
+          "it": "In Gremmen's words, the oak is a native tree and the most common tree in the Netherlands. The cranes stand for the work it took to build the Delta Works. The sun stands for a new start: the works made life in the region safer.",
+          "nl": "Volgens Gremmen is de eik een inheemse boom en de meest voorkomende boom van Nederland. De kranen staan voor het werk dat de bouw van de Deltawerken kostte. De zon staat voor een nieuw begin: door de werken werd het leven in de regio veiliger.",
+          "pl": "In Gremmen's words, the oak is a native tree and the most common tree in the Netherlands. The cranes stand for the work it took to build the Delta Works. The sun stands for a new start: the works made life in the region safer.",
+          "cs": "In Gremmen's words, the oak is a native tree and the most common tree in the Netherlands. The cranes stand for the work it took to build the Delta Works. The sun stands for a new start: the works made life in the region safer.",
+          "sk": "In Gremmen's words, the oak is a native tree and the most common tree in the Netherlands. The cranes stand for the work it took to build the Delta Works. The sun stands for a new start: the works made life in the region safer.",
+          "ro": "In Gremmen's words, the oak is a native tree and the most common tree in the Netherlands. The cranes stand for the work it took to build the Delta Works. The sun stands for a new start: the works made life in the region safer.",
+          "hu": "In Gremmen's words, the oak is a native tree and the most common tree in the Netherlands. The cranes stand for the work it took to build the Delta Works. The sun stands for a new start: the works made life in the region safer.",
+          "da": "In Gremmen's words, the oak is a native tree and the most common tree in the Netherlands. The cranes stand for the work it took to build the Delta Works. The sun stands for a new start: the works made life in the region safer."
+        },
+        {
+          "en": "He wanted the first and the last of the works on the sheet, the Hollandse IJsselkering and the Maeslantkering, and the largest one, the Oosterscheldekering. As a child he went to look at it. The margin shows the Oosterscheldekering, the Bathse Spuisluis, the Haringvlietbrug and the Hollandse IJsselkering under construction in 1956.",
+          "de": "Er wollte das erste und das letzte der Bauwerke auf dem Bogen haben, die Hollandse IJsselkering und die Maeslantkering, dazu das größte, die Oosterscheldekering. Als Kind hat er sie sich angesehen. Der Bogenrand zeigt die Oosterscheldekering, die Bathse Spuisluis, die Haringvlietbrug und die Hollandse IJsselkering, die 1956 im Bau war.",
+          "fr": "Il tenait à faire figurer sur le feuillet le premier et le dernier des ouvrages, le Hollandse IJsselkering et le Maeslantkering, ainsi que le plus grand, l'Oosterscheldekering. Enfant, il était allé le voir. La marge montre l'Oosterscheldekering, la Bathse Spuisluis, le Haringvlietbrug et le Hollandse IJsselkering en construction en 1956.",
+          "it": "He wanted the first and the last of the works on the sheet, the Hollandse IJsselkering and the Maeslantkering, and the largest one, the Oosterscheldekering. As a child he went to look at it. The margin shows the Oosterscheldekering, the Bathse Spuisluis, the Haringvlietbrug and the Hollandse IJsselkering under construction in 1956.",
+          "nl": "Hij wilde het eerste en het laatste werk op het vel, de Hollandse IJsselkering en de Maeslantkering, en het grootste, de Oosterscheldekering. Als kind ging hij er kijken. In de rand staan de Oosterscheldekering, de Bathse Spuisluis, de Haringvlietbrug en de Hollandse IJsselkering in aanbouw in 1956.",
+          "pl": "He wanted the first and the last of the works on the sheet, the Hollandse IJsselkering and the Maeslantkering, and the largest one, the Oosterscheldekering. As a child he went to look at it. The margin shows the Oosterscheldekering, the Bathse Spuisluis, the Haringvlietbrug and the Hollandse IJsselkering under construction in 1956.",
+          "cs": "He wanted the first and the last of the works on the sheet, the Hollandse IJsselkering and the Maeslantkering, and the largest one, the Oosterscheldekering. As a child he went to look at it. The margin shows the Oosterscheldekering, the Bathse Spuisluis, the Haringvlietbrug and the Hollandse IJsselkering under construction in 1956.",
+          "sk": "He wanted the first and the last of the works on the sheet, the Hollandse IJsselkering and the Maeslantkering, and the largest one, the Oosterscheldekering. As a child he went to look at it. The margin shows the Oosterscheldekering, the Bathse Spuisluis, the Haringvlietbrug and the Hollandse IJsselkering under construction in 1956.",
+          "ro": "He wanted the first and the last of the works on the sheet, the Hollandse IJsselkering and the Maeslantkering, and the largest one, the Oosterscheldekering. As a child he went to look at it. The margin shows the Oosterscheldekering, the Bathse Spuisluis, the Haringvlietbrug and the Hollandse IJsselkering under construction in 1956.",
+          "hu": "He wanted the first and the last of the works on the sheet, the Hollandse IJsselkering and the Maeslantkering, and the largest one, the Oosterscheldekering. As a child he went to look at it. The margin shows the Oosterscheldekering, the Bathse Spuisluis, the Haringvlietbrug and the Hollandse IJsselkering under construction in 1956.",
+          "da": "He wanted the first and the last of the works on the sheet, the Hollandse IJsselkering and the Maeslantkering, and the largest one, the Oosterscheldekering. As a child he went to look at it. The margin shows the Oosterscheldekering, the Bathse Spuisluis, the Haringvlietbrug and the Hollandse IJsselkering under construction in 1956."
+        },
+        {
+          "en": "A table in the margin lists the thirteen works with the years they were built. Down the right side run 254 Dutch words about water, collected by Nico van Duijn.",
+          "de": "Eine Tabelle im Bogenrand führt die dreizehn Bauwerke mit ihren Baujahren auf. Am rechten Rand entlang stehen 254 niederländische Wörter zum Thema Wasser, zusammengetragen von Nico van Duijn.",
+          "fr": "Un tableau dans la marge recense les treize ouvrages avec leurs années de construction. Sur le bord droit figurent 254 mots néerlandais liés à l'eau, rassemblés par Nico van Duijn.",
+          "it": "A table in the margin lists the thirteen works with the years they were built. Down the right side run 254 Dutch words about water, collected by Nico van Duijn.",
+          "nl": "Een tabel in de rand noemt de dertien werken met hun bouwjaren. Langs de rechterkant staan 254 Nederlandse woorden over water, verzameld door Nico van Duijn.",
+          "pl": "A table in the margin lists the thirteen works with the years they were built. Down the right side run 254 Dutch words about water, collected by Nico van Duijn.",
+          "cs": "A table in the margin lists the thirteen works with the years they were built. Down the right side run 254 Dutch words about water, collected by Nico van Duijn.",
+          "sk": "A table in the margin lists the thirteen works with the years they were built. Down the right side run 254 Dutch words about water, collected by Nico van Duijn.",
+          "ro": "A table in the margin lists the thirteen works with the years they were built. Down the right side run 254 Dutch words about water, collected by Nico van Duijn.",
+          "hu": "A table in the margin lists the thirteen works with the years they were built. Down the right side run 254 Dutch words about water, collected by Nico van Duijn.",
+          "da": "A table in the margin lists the thirteen works with the years they were built. Down the right side run 254 Dutch words about water, collected by Nico van Duijn."
+        }
+      ]
+    },
+    {
+      "id": "deltawerken",
+      "date": {
+        "en": "5 October 2026",
+        "de": "5. Oktober 2026",
+        "fr": "5 octobre 2026",
+        "it": "5 October 2026",
+        "nl": "5 oktober 2026",
+        "pl": "5 October 2026",
+        "cs": "5 October 2026",
+        "sk": "5 October 2026",
+        "ro": "5 October 2026",
+        "hu": "5 October 2026",
+        "da": "5 October 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Deltawerken, Nederland en het water, sheet of six",
+          "de": "Deltawerken, Nederland en het water, Bogen mit sechs Marken",
+          "fr": "Deltawerken, Nederland en het water, feuillet de six",
+          "it": "Deltawerken, Nederland en het water, sheet of six",
+          "nl": "Deltawerken, Nederland en het water, vel van zes",
+          "pl": "Deltawerken, Nederland en het water, sheet of six",
+          "cs": "Deltawerken, Nederland en het water, sheet of six",
+          "sk": "Deltawerken, Nederland en het water, sheet of six",
+          "ro": "Deltawerken, Nederland en het water, sheet of six",
+          "hu": "Deltawerken, Nederland en het water, sheet of six",
+          "da": "Deltawerken, Nederland en het water, sheet of six"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/c000457041c4f87c/nl-2026-deltawerken-vel-v3.png",
+          "width": 788,
+          "height": 1000
+        },
+        "country": "NL",
+        "stamp_id": "nl-postnl-461061"
+      },
+      "title": {
+        "en": "Deltawerken, Nederland en het water",
+        "de": "Deltawerken, Nederland en het water",
+        "fr": "Deltawerken, Nederland en het water",
+        "it": "Deltawerken, Nederland en het water",
+        "nl": "Deltawerken, Nederland en het water",
+        "pl": "Deltawerken, Nederland en het water",
+        "cs": "Deltawerken, Nederland en het water",
+        "sk": "Deltawerken, Nederland en het water",
+        "ro": "Deltawerken, Nederland en het water",
+        "hu": "Deltawerken, Nederland en het water",
+        "da": "Deltawerken, Nederland en het water"
+      },
+      "formats": [
+        {
+          "value": "€8.40",
+          "format": {
+            "en": "Sheet of six",
+            "de": "Bogen mit sechs Marken",
+            "fr": "Feuillet de six",
+            "it": "Sheet of six",
+            "nl": "Vel van zes",
+            "pl": "Sheet of six",
+            "cs": "Sheet of six",
+            "sk": "Sheet of six",
+            "ro": "Sheet of six",
+            "hu": "Sheet of six",
+            "da": "Sheet of six"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "Each stamp carries the value 1 for a letter up to 20 grams within the Netherlands. The stamps measure 36 by 25 millimetres and are gummed. Joh. Enschedé in Haarlem printed 75,000 sheets in yellow, black, green, blue and a metallic ink.",
+          "de": "Jede Marke trägt die Wertstufe 1 für einen Brief bis 20 Gramm innerhalb der Niederlande. Die Marken messen 36 mal 25 Millimeter und sind gummiert. Joh. Enschedé in Haarlem hat 75.000 Bogen in Gelb, Schwarz, Grün, Blau und einer Metallicfarbe gedruckt.",
+          "fr": "Chaque timbre porte la valeur 1, pour une lettre jusqu'à 20 grammes aux Pays-Bas. Les timbres mesurent 36 sur 25 millimètres et sont gommés. Joh. Enschedé, à Haarlem, a imprimé 75 000 feuillets en jaune, noir, vert, bleu et encre métallique.",
+          "it": "Each stamp carries the value 1 for a letter up to 20 grams within the Netherlands. The stamps measure 36 by 25 millimetres and are gummed. Joh. Enschedé in Haarlem printed 75,000 sheets in yellow, black, green, blue and a metallic ink.",
+          "nl": "Elke zegel draagt de waarde 1, voor een brief tot 20 gram binnen Nederland. De zegels meten 36 bij 25 millimeter en zijn gegomd. Joh. Enschedé in Haarlem drukte 75.000 vellen in geel, zwart, groen, blauw en metallic inkt.",
+          "pl": "Each stamp carries the value 1 for a letter up to 20 grams within the Netherlands. The stamps measure 36 by 25 millimetres and are gummed. Joh. Enschedé in Haarlem printed 75,000 sheets in yellow, black, green, blue and a metallic ink.",
+          "cs": "Each stamp carries the value 1 for a letter up to 20 grams within the Netherlands. The stamps measure 36 by 25 millimetres and are gummed. Joh. Enschedé in Haarlem printed 75,000 sheets in yellow, black, green, blue and a metallic ink.",
+          "sk": "Each stamp carries the value 1 for a letter up to 20 grams within the Netherlands. The stamps measure 36 by 25 millimetres and are gummed. Joh. Enschedé in Haarlem printed 75,000 sheets in yellow, black, green, blue and a metallic ink.",
+          "ro": "Each stamp carries the value 1 for a letter up to 20 grams within the Netherlands. The stamps measure 36 by 25 millimetres and are gummed. Joh. Enschedé in Haarlem printed 75,000 sheets in yellow, black, green, blue and a metallic ink.",
+          "hu": "Each stamp carries the value 1 for a letter up to 20 grams within the Netherlands. The stamps measure 36 by 25 millimetres and are gummed. Joh. Enschedé in Haarlem printed 75,000 sheets in yellow, black, green, blue and a metallic ink.",
+          "da": "Each stamp carries the value 1 for a letter up to 20 grams within the Netherlands. The stamps measure 36 by 25 millimetres and are gummed. Joh. Enschedé in Haarlem printed 75,000 sheets in yellow, black, green, blue and a metallic ink."
+        },
+        {
+          "en": "Gremmen designs mostly books, for photographers, artists and architects. He runs the publisher Fw:Books with Petra Stavast. His earlier PostNL sheet is Immaterieel cultureel erfgoed of 2024.",
+          "de": "Gremmen gestaltet vor allem Bücher, für Fotografen, Künstler und Architekten. Zusammen mit Petra Stavast führt er den Verlag Fw:Books. Für PostNL hat er schon 2024 den Bogen Immaterieel cultureel erfgoed gestaltet.",
+          "fr": "Gremmen conçoit surtout des livres pour des photographes, des artistes et des architectes. Il dirige la maison d'édition Fw:Books avec Petra Stavast. Son feuillet précédent pour PostNL est Immaterieel cultureel erfgoed, paru en 2024.",
+          "it": "Gremmen designs mostly books, for photographers, artists and architects. He runs the publisher Fw:Books with Petra Stavast. His earlier PostNL sheet is Immaterieel cultureel erfgoed of 2024.",
+          "nl": "Gremmen ontwerpt vooral boeken, voor fotografen, kunstenaars en architecten. Samen met Petra Stavast leidt hij uitgeverij Fw:Books. Eerder ontwierp hij voor PostNL het vel Immaterieel cultureel erfgoed uit 2024.",
+          "pl": "Gremmen designs mostly books, for photographers, artists and architects. He runs the publisher Fw:Books with Petra Stavast. His earlier PostNL sheet is Immaterieel cultureel erfgoed of 2024.",
+          "cs": "Gremmen designs mostly books, for photographers, artists and architects. He runs the publisher Fw:Books with Petra Stavast. His earlier PostNL sheet is Immaterieel cultureel erfgoed of 2024.",
+          "sk": "Gremmen designs mostly books, for photographers, artists and architects. He runs the publisher Fw:Books with Petra Stavast. His earlier PostNL sheet is Immaterieel cultureel erfgoed of 2024.",
+          "ro": "Gremmen designs mostly books, for photographers, artists and architects. He runs the publisher Fw:Books with Petra Stavast. His earlier PostNL sheet is Immaterieel cultureel erfgoed of 2024.",
+          "hu": "Gremmen designs mostly books, for photographers, artists and architects. He runs the publisher Fw:Books with Petra Stavast. His earlier PostNL sheet is Immaterieel cultureel erfgoed of 2024.",
+          "da": "Gremmen designs mostly books, for photographers, artists and architects. He runs the publisher Fw:Books with Petra Stavast. His earlier PostNL sheet is Immaterieel cultureel erfgoed of 2024."
+        }
+      ]
+    },
+    {
+      "id": "flood",
+      "type": "text",
+      "label": {
+        "en": "1953",
+        "de": "1953",
+        "fr": "1953",
+        "it": "1953",
+        "nl": "1953",
+        "pl": "1953",
+        "cs": "1953",
+        "sk": "1953",
+        "ro": "1953",
+        "hu": "1953",
+        "da": "1953"
+      },
+      "title": {
+        "en": "The night of the flood",
+        "de": "Die Nacht der Flut",
+        "fr": "La nuit de l'inondation",
+        "it": "The night of the flood",
+        "nl": "De nacht van de watersnood",
+        "pl": "The night of the flood",
+        "cs": "The night of the flood",
+        "sk": "The night of the flood",
+        "ro": "The night of the flood",
+        "hu": "The night of the flood",
+        "da": "The night of the flood"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/a339f4482972b4ce/stavenisse-1953.jpg",
+          "width": 2400,
+          "credit": "Photo: Harry Pot, Anefo, Nationaal Archief, CC0",
+          "height": 2369,
+          "caption": {
+            "en": "The Stavenisse sign on the dike, 17 February 1953",
+            "de": "Das Ortsschild von Stavenisse auf dem Deich, 17. Februar 1953",
+            "fr": "Le panneau de Stavenisse sur la digue, 17 février 1953",
+            "it": "The Stavenisse sign on the dike, 17 February 1953",
+            "nl": "Het plaatsnaambord van Stavenisse op de dijk, 17 februari 1953",
+            "pl": "The Stavenisse sign on the dike, 17 February 1953",
+            "cs": "The Stavenisse sign on the dike, 17 February 1953",
+            "sk": "The Stavenisse sign on the dike, 17 February 1953",
+            "ro": "The Stavenisse sign on the dike, 17 February 1953",
+            "hu": "The Stavenisse sign on the dike, 17 February 1953",
+            "da": "The Stavenisse sign on the dike, 17 February 1953"
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Stavenisse,_Bestanddeelnr_905-5524.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "In the night of 31 January to 1 February 1953 a storm came together with a spring tide. From about three in the morning the dikes broke in more than 150 places. In the Netherlands 1,836 people died. About 72,000 people had to leave their homes.",
+          "de": "In der Nacht vom 31. Januar auf den 1. Februar 1953 trafen ein Sturm und eine Springflut zusammen. Ab etwa drei Uhr morgens brachen die Deiche an mehr als 150 Stellen. In den Niederlanden starben 1.836 Menschen. Rund 72.000 Menschen mussten ihre Häuser verlassen.",
+          "fr": "Dans la nuit du 31 janvier au 1er février 1953, une tempête a coïncidé avec une marée de vive-eau. À partir de trois heures du matin environ, les digues ont cédé en plus de 150 endroits. Aux Pays-Bas, 1 836 personnes ont péri. Environ 72 000 personnes ont dû quitter leur logement.",
+          "it": "In the night of 31 January to 1 February 1953 a storm came together with a spring tide. From about three in the morning the dikes broke in more than 150 places. In the Netherlands 1,836 people died. About 72,000 people had to leave their homes.",
+          "nl": "In de nacht van 31 januari op 1 februari 1953 viel een storm samen met springtij. Vanaf een uur of drie 's nachts braken de dijken op meer dan 150 plaatsen door. In Nederland kwamen 1.836 mensen om. Ongeveer 72.000 mensen moesten hun huis verlaten.",
+          "pl": "In the night of 31 January to 1 February 1953 a storm came together with a spring tide. From about three in the morning the dikes broke in more than 150 places. In the Netherlands 1,836 people died. About 72,000 people had to leave their homes.",
+          "cs": "In the night of 31 January to 1 February 1953 a storm came together with a spring tide. From about three in the morning the dikes broke in more than 150 places. In the Netherlands 1,836 people died. About 72,000 people had to leave their homes.",
+          "sk": "In the night of 31 January to 1 February 1953 a storm came together with a spring tide. From about three in the morning the dikes broke in more than 150 places. In the Netherlands 1,836 people died. About 72,000 people had to leave their homes.",
+          "ro": "In the night of 31 January to 1 February 1953 a storm came together with a spring tide. From about three in the morning the dikes broke in more than 150 places. In the Netherlands 1,836 people died. About 72,000 people had to leave their homes.",
+          "hu": "In the night of 31 January to 1 February 1953 a storm came together with a spring tide. From about three in the morning the dikes broke in more than 150 places. In the Netherlands 1,836 people died. About 72,000 people had to leave their homes.",
+          "da": "In the night of 31 January to 1 February 1953 a storm came together with a spring tide. From about three in the morning the dikes broke in more than 150 places. In the Netherlands 1,836 people died. About 72,000 people had to leave their homes."
+        },
+        {
+          "en": "Twenty days after the flood the Delta Committee was set up, chaired by A.G. Maris, the head of Rijkswaterstaat. Less than a year later work began on the first of the works, the Hollandse IJsselkering. The Delta Act came into force on 23 June 1958.",
+          "de": "Zwanzig Tage nach der Flut wurde die Deltakommission eingesetzt, unter dem Vorsitz von A.G. Maris, dem Leiter von Rijkswaterstaat. Weniger als ein Jahr später begannen die Arbeiten am ersten Bauwerk, der Hollandse IJsselkering. Das Deltagesetz trat am 23. Juni 1958 in Kraft.",
+          "fr": "Vingt jours après l'inondation, la commission Delta a été créée, présidée par A.G. Maris, directeur du Rijkswaterstaat. Moins d'un an plus tard, les travaux du premier ouvrage, le Hollandse IJsselkering, ont commencé. La loi Delta est entrée en vigueur le 23 juin 1958.",
+          "it": "Twenty days after the flood the Delta Committee was set up, chaired by A.G. Maris, the head of Rijkswaterstaat. Less than a year later work began on the first of the works, the Hollandse IJsselkering. The Delta Act came into force on 23 June 1958.",
+          "nl": "Twintig dagen na de watersnood werd de Deltacommissie ingesteld, met A.G. Maris, het hoofd van Rijkswaterstaat, als voorzitter. Nog geen jaar later begon de bouw van het eerste werk, de Hollandse IJsselkering. De Deltawet trad op 23 juni 1958 in werking.",
+          "pl": "Twenty days after the flood the Delta Committee was set up, chaired by A.G. Maris, the head of Rijkswaterstaat. Less than a year later work began on the first of the works, the Hollandse IJsselkering. The Delta Act came into force on 23 June 1958.",
+          "cs": "Twenty days after the flood the Delta Committee was set up, chaired by A.G. Maris, the head of Rijkswaterstaat. Less than a year later work began on the first of the works, the Hollandse IJsselkering. The Delta Act came into force on 23 June 1958.",
+          "sk": "Twenty days after the flood the Delta Committee was set up, chaired by A.G. Maris, the head of Rijkswaterstaat. Less than a year later work began on the first of the works, the Hollandse IJsselkering. The Delta Act came into force on 23 June 1958.",
+          "ro": "Twenty days after the flood the Delta Committee was set up, chaired by A.G. Maris, the head of Rijkswaterstaat. Less than a year later work began on the first of the works, the Hollandse IJsselkering. The Delta Act came into force on 23 June 1958.",
+          "hu": "Twenty days after the flood the Delta Committee was set up, chaired by A.G. Maris, the head of Rijkswaterstaat. Less than a year later work began on the first of the works, the Hollandse IJsselkering. The Delta Act came into force on 23 June 1958.",
+          "da": "Twenty days after the flood the Delta Committee was set up, chaired by A.G. Maris, the head of Rijkswaterstaat. Less than a year later work began on the first of the works, the Hollandse IJsselkering. The Delta Act came into force on 23 June 1958."
+        },
+        {
+          "en": "In November 1953 four concrete caissons closed the last gap in the dike at Ouwerkerk. Today these caissons house the Watersnoodmuseum.",
+          "de": "Im November 1953 schlossen vier Betoncaissons die letzte Lücke im Deich bei Ouwerkerk. Heute ist in diesen Caissons das Watersnoodmuseum untergebracht.",
+          "fr": "En novembre 1953, quatre caissons en béton ont fermé la dernière brèche de la digue à Ouwerkerk. Ces caissons abritent aujourd'hui le Watersnoodmuseum.",
+          "it": "In November 1953 four concrete caissons closed the last gap in the dike at Ouwerkerk. Today these caissons house the Watersnoodmuseum.",
+          "nl": "In november 1953 sloten vier betonnen caissons het laatste gat in de dijk bij Ouwerkerk. In die caissons is nu het Watersnoodmuseum gevestigd.",
+          "pl": "In November 1953 four concrete caissons closed the last gap in the dike at Ouwerkerk. Today these caissons house the Watersnoodmuseum.",
+          "cs": "In November 1953 four concrete caissons closed the last gap in the dike at Ouwerkerk. Today these caissons house the Watersnoodmuseum.",
+          "sk": "In November 1953 four concrete caissons closed the last gap in the dike at Ouwerkerk. Today these caissons house the Watersnoodmuseum.",
+          "ro": "In November 1953 four concrete caissons closed the last gap in the dike at Ouwerkerk. Today these caissons house the Watersnoodmuseum.",
+          "hu": "In November 1953 four concrete caissons closed the last gap in the dike at Ouwerkerk. Today these caissons house the Watersnoodmuseum.",
+          "da": "In November 1953 four concrete caissons closed the last gap in the dike at Ouwerkerk. Today these caissons house the Watersnoodmuseum."
+        }
+      ]
+    },
+    {
+      "id": "barrier",
+      "type": "text",
+      "label": {
+        "en": "The barrier",
+        "de": "Das Sperrwerk",
+        "fr": "La barrière",
+        "it": "The barrier",
+        "nl": "De kering",
+        "pl": "The barrier",
+        "cs": "The barrier",
+        "sk": "The barrier",
+        "ro": "The barrier",
+        "hu": "The barrier",
+        "da": "The barrier"
+      },
+      "title": {
+        "en": "The Oosterscheldekering",
+        "de": "Die Oosterscheldekering",
+        "fr": "L'Oosterscheldekering",
+        "it": "The Oosterscheldekering",
+        "nl": "De Oosterscheldekering",
+        "pl": "The Oosterscheldekering",
+        "cs": "The Oosterscheldekering",
+        "sk": "The Oosterscheldekering",
+        "ro": "The Oosterscheldekering",
+        "hu": "The Oosterscheldekering",
+        "da": "The Oosterscheldekering"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/aa728edfb0af15ec/oosterscheldekering-visser-1986.jpg",
+          "width": 2400,
+          "credit": "Photo: Rob Bogaerts, Anefo, Nationaal Archief, CC0",
+          "height": 1584,
+          "caption": {
+            "en": "An angler in front of the Oosterscheldekering, four weeks before the opening, 8 September 1986",
+            "de": "Ein Angler vor der Oosterscheldekering, vier Wochen vor der Eröffnung, 8. September 1986",
+            "fr": "Un pêcheur devant l'Oosterscheldekering, quatre semaines avant l'inauguration, 8 septembre 1986",
+            "it": "An angler in front of the Oosterscheldekering, four weeks before the opening, 8 September 1986",
+            "nl": "Een visser voor de Oosterscheldekering, vier weken voor de opening, 8 september 1986",
+            "pl": "An angler in front of the Oosterscheldekering, four weeks before the opening, 8 September 1986",
+            "cs": "An angler in front of the Oosterscheldekering, four weeks before the opening, 8 September 1986",
+            "sk": "An angler in front of the Oosterscheldekering, four weeks before the opening, 8 September 1986",
+            "ro": "An angler in front of the Oosterscheldekering, four weeks before the opening, 8 September 1986",
+            "hu": "An angler in front of the Oosterscheldekering, four weeks before the opening, 8 September 1986",
+            "da": "An angler in front of the Oosterscheldekering, four weeks before the opening, 8 September 1986"
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Stormvloedkering_Oosterschelde_bijna_gereed_visser_voor_stormvloedkering,_Bestanddeelnr_933-7530.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "The Oosterschelde was first to be closed with a dam. By the end of 1973 five of the nine kilometres were closed. Fishermen, shellfish growers, scientists and nature groups campaigned under the slogan \"Laat de Oosterschelde open\". In 1974 the government chose a barrier that lets the tide in and out.",
+          "de": "Die Oosterschelde sollte zunächst mit einem Damm geschlossen werden. Ende 1973 waren fünf der neun Kilometer geschlossen. Fischer, Muschelzüchter, Wissenschaftler und Naturschutzverbände protestierten unter dem Motto „Laat de Oosterschelde open“. 1974 entschied sich die Regierung für ein Sperrwerk, das die Gezeiten hinein- und hinauslässt.",
+          "fr": "Au départ, l'Escaut oriental devait être fermé par un barrage. Fin 1973, cinq des neuf kilomètres étaient fermés. Pêcheurs, conchyliculteurs, scientifiques et associations de protection de la nature se sont mobilisés sous le slogan « Laat de Oosterschelde open ». En 1974, le gouvernement a opté pour une barrière qui laisse passer la marée dans les deux sens.",
+          "it": "The Oosterschelde was first to be closed with a dam. By the end of 1973 five of the nine kilometres were closed. Fishermen, shellfish growers, scientists and nature groups campaigned under the slogan \"Laat de Oosterschelde open\". In 1974 the government chose a barrier that lets the tide in and out.",
+          "nl": "De Oosterschelde zou als eerste met een dam worden afgesloten. Eind 1973 was vijf van de negen kilometer dicht. Vissers, schelpdierkwekers, wetenschappers en natuurorganisaties voerden actie onder de leus „Laat de Oosterschelde open”. In 1974 koos de regering voor een kering die het getij in en uit laat.",
+          "pl": "The Oosterschelde was first to be closed with a dam. By the end of 1973 five of the nine kilometres were closed. Fishermen, shellfish growers, scientists and nature groups campaigned under the slogan \"Laat de Oosterschelde open\". In 1974 the government chose a barrier that lets the tide in and out.",
+          "cs": "The Oosterschelde was first to be closed with a dam. By the end of 1973 five of the nine kilometres were closed. Fishermen, shellfish growers, scientists and nature groups campaigned under the slogan \"Laat de Oosterschelde open\". In 1974 the government chose a barrier that lets the tide in and out.",
+          "sk": "The Oosterschelde was first to be closed with a dam. By the end of 1973 five of the nine kilometres were closed. Fishermen, shellfish growers, scientists and nature groups campaigned under the slogan \"Laat de Oosterschelde open\". In 1974 the government chose a barrier that lets the tide in and out.",
+          "ro": "The Oosterschelde was first to be closed with a dam. By the end of 1973 five of the nine kilometres were closed. Fishermen, shellfish growers, scientists and nature groups campaigned under the slogan \"Laat de Oosterschelde open\". In 1974 the government chose a barrier that lets the tide in and out.",
+          "hu": "The Oosterschelde was first to be closed with a dam. By the end of 1973 five of the nine kilometres were closed. Fishermen, shellfish growers, scientists and nature groups campaigned under the slogan \"Laat de Oosterschelde open\". In 1974 the government chose a barrier that lets the tide in and out.",
+          "da": "The Oosterschelde was first to be closed with a dam. By the end of 1973 five of the nine kilometres were closed. Fishermen, shellfish growers, scientists and nature groups campaigned under the slogan \"Laat de Oosterschelde open\". In 1974 the government chose a barrier that lets the tide in and out."
+        },
+        {
+          "en": "Queen Beatrix opened the Oosterscheldekering on 4 October 1986. It has 65 concrete pillars and 62 gates, each about 42 metres wide. Rijkswaterstaat lowers the gates when the water is expected to reach three metres above NAP. That happens about once a year.",
+          "de": "Königin Beatrix eröffnete die Oosterscheldekering am 4. Oktober 1986. Sie hat 65 Betonpfeiler und 62 Schiebetore mit jeweils rund 42 Metern Breite. Rijkswaterstaat lässt die Tore herunter, wenn ein Wasserstand von drei Metern über NAP erwartet wird. Das kommt etwa einmal im Jahr vor.",
+          "fr": "La reine Beatrix a inauguré l'Oosterscheldekering le 4 octobre 1986. Il compte 65 piles en béton et 62 vannes d'environ 42 mètres de large chacune. Le Rijkswaterstaat abaisse les vannes quand le niveau de l'eau doit atteindre trois mètres au-dessus du NAP. Cela se produit environ une fois par an.",
+          "it": "Queen Beatrix opened the Oosterscheldekering on 4 October 1986. It has 65 concrete pillars and 62 gates, each about 42 metres wide. Rijkswaterstaat lowers the gates when the water is expected to reach three metres above NAP. That happens about once a year.",
+          "nl": "Koningin Beatrix opende de Oosterscheldekering op 4 oktober 1986. De kering heeft 65 betonnen pijlers en 62 schuiven van elk ongeveer 42 meter breed. Rijkswaterstaat laat de schuiven zakken als het water naar verwachting drie meter boven NAP komt. Dat gebeurt ongeveer één keer per jaar.",
+          "pl": "Queen Beatrix opened the Oosterscheldekering on 4 October 1986. It has 65 concrete pillars and 62 gates, each about 42 metres wide. Rijkswaterstaat lowers the gates when the water is expected to reach three metres above NAP. That happens about once a year.",
+          "cs": "Queen Beatrix opened the Oosterscheldekering on 4 October 1986. It has 65 concrete pillars and 62 gates, each about 42 metres wide. Rijkswaterstaat lowers the gates when the water is expected to reach three metres above NAP. That happens about once a year.",
+          "sk": "Queen Beatrix opened the Oosterscheldekering on 4 October 1986. It has 65 concrete pillars and 62 gates, each about 42 metres wide. Rijkswaterstaat lowers the gates when the water is expected to reach three metres above NAP. That happens about once a year.",
+          "ro": "Queen Beatrix opened the Oosterscheldekering on 4 October 1986. It has 65 concrete pillars and 62 gates, each about 42 metres wide. Rijkswaterstaat lowers the gates when the water is expected to reach three metres above NAP. That happens about once a year.",
+          "hu": "Queen Beatrix opened the Oosterscheldekering on 4 October 1986. It has 65 concrete pillars and 62 gates, each about 42 metres wide. Rijkswaterstaat lowers the gates when the water is expected to reach three metres above NAP. That happens about once a year.",
+          "da": "Queen Beatrix opened the Oosterscheldekering on 4 October 1986. It has 65 concrete pillars and 62 gates, each about 42 metres wide. Rijkswaterstaat lowers the gates when the water is expected to reach three metres above NAP. That happens about once a year."
+        }
+      ]
+    },
+    {
+      "id": "maeslant",
+      "type": "wide-photo",
+      "image": {
+        "src": "https://assets.stampiq.io/blog/cb8a4f4d6829ff7d/maeslantkering-gesloten-2016.jpg",
+        "width": 2400,
+        "credit": "Photo: kees torn, CC BY-SA 2.0",
+        "height": 1159,
+        "caption": {
+          "en": "The Maeslantkering closed for its yearly test, 17 September 2016. Opened in 1997, it was the last of the Delta Works.",
+          "de": "Die Maeslantkering beim jährlichen Test geschlossen, 17. September 2016. Eröffnet wurde sie 1997, als letztes der Deltawerke.",
+          "fr": "Le Maeslantkering fermé pour son essai annuel, 17 septembre 2016. Mis en service en 1997, il a été le dernier ouvrage du plan Delta.",
+          "it": "The Maeslantkering closed for its yearly test, 17 September 2016. Opened in 1997, it was the last of the Delta Works.",
+          "nl": "De Maeslantkering gesloten tijdens de jaarlijkse test, 17 september 2016. De kering werd in 1997 geopend, als laatste van de Deltawerken.",
+          "pl": "The Maeslantkering closed for its yearly test, 17 September 2016. Opened in 1997, it was the last of the Delta Works.",
+          "cs": "The Maeslantkering closed for its yearly test, 17 September 2016. Opened in 1997, it was the last of the Delta Works.",
+          "sk": "The Maeslantkering closed for its yearly test, 17 September 2016. Opened in 1997, it was the last of the Delta Works.",
+          "ro": "The Maeslantkering closed for its yearly test, 17 September 2016. Opened in 1997, it was the last of the Delta Works.",
+          "hu": "The Maeslantkering closed for its yearly test, 17 September 2016. Opened in 1997, it was the last of the Delta Works.",
+          "da": "The Maeslantkering closed for its yearly test, 17 September 2016. Opened in 1997, it was the last of the Delta Works."
+        },
+        "source_url": "https://commons.wikimedia.org/wiki/File:Maeslantkering_17-9-2016_(29741611095).jpg"
+      }
+    },
+    {
+      "id": "earlier",
+      "type": "text",
+      "label": {
+        "en": "Earlier issues",
+        "de": "Frühere Ausgaben",
+        "fr": "Émissions précédentes",
+        "it": "Earlier issues",
+        "nl": "Eerdere uitgiften",
+        "pl": "Earlier issues",
+        "cs": "Earlier issues",
+        "sk": "Earlier issues",
+        "ro": "Earlier issues",
+        "hu": "Earlier issues",
+        "da": "Earlier issues"
+      },
+      "title": {
+        "en": "The Delta Works on earlier Dutch stamps",
+        "de": "Die Deltawerke auf früheren niederländischen Marken",
+        "fr": "Le plan Delta sur d'anciens timbres néerlandais",
+        "it": "The Delta Works on earlier Dutch stamps",
+        "nl": "De Deltawerken op eerdere Nederlandse postzegels",
+        "pl": "The Delta Works on earlier Dutch stamps",
+        "cs": "The Delta Works on earlier Dutch stamps",
+        "sk": "The Delta Works on earlier Dutch stamps",
+        "ro": "The Delta Works on earlier Dutch stamps",
+        "hu": "The Delta Works on earlier Dutch stamps",
+        "da": "The Delta Works on earlier Dutch stamps"
+      },
+      "paragraphs": [
+        {
+          "en": "A 10-cent stamp \"Delta-Werken\" came out in 1963 and a 20-cent stamp \"Deltaplan\" in 1972. On 7 October 1986, three days after the opening of the Oosterscheldekering, two stamps marked the completion of the Delta Works: 65 cents with a plan of the barrier and 75 cents with the barrier itself.",
+          "de": "1963 erschien eine Marke zu 10 Cent mit dem Titel „Delta-Werken“, 1972 eine zu 20 Cent mit dem Titel „Deltaplan“. Am 7. Oktober 1986, drei Tage nach der Eröffnung der Oosterscheldekering, erinnerten zwei Marken an die Fertigstellung der Deltawerke: 65 Cent mit einem Plan des Sperrwerks, 75 Cent mit dem Sperrwerk selbst.",
+          "fr": "Un timbre à 10 cents « Delta-Werken » est paru en 1963 et un timbre à 20 cents « Deltaplan » en 1972. Le 7 octobre 1986, trois jours après l'inauguration de l'Oosterscheldekering, deux timbres ont marqué l'achèvement du plan Delta : 65 cents avec un plan de la barrière et 75 cents avec la barrière elle-même.",
+          "it": "A 10-cent stamp \"Delta-Werken\" came out in 1963 and a 20-cent stamp \"Deltaplan\" in 1972. On 7 October 1986, three days after the opening of the Oosterscheldekering, two stamps marked the completion of the Delta Works: 65 cents with a plan of the barrier and 75 cents with the barrier itself.",
+          "nl": "In 1963 verscheen een zegel van 10 cent met „Delta-Werken” en in 1972 een van 20 cent met „Deltaplan”. Op 7 oktober 1986, drie dagen na de opening van de Oosterscheldekering, kwamen twee zegels uit voor de voltooiing van de Deltawerken: 65 cent met een plattegrond van de kering en 75 cent met de kering zelf.",
+          "pl": "A 10-cent stamp \"Delta-Werken\" came out in 1963 and a 20-cent stamp \"Deltaplan\" in 1972. On 7 October 1986, three days after the opening of the Oosterscheldekering, two stamps marked the completion of the Delta Works: 65 cents with a plan of the barrier and 75 cents with the barrier itself.",
+          "cs": "A 10-cent stamp \"Delta-Werken\" came out in 1963 and a 20-cent stamp \"Deltaplan\" in 1972. On 7 October 1986, three days after the opening of the Oosterscheldekering, two stamps marked the completion of the Delta Works: 65 cents with a plan of the barrier and 75 cents with the barrier itself.",
+          "sk": "A 10-cent stamp \"Delta-Werken\" came out in 1963 and a 20-cent stamp \"Deltaplan\" in 1972. On 7 October 1986, three days after the opening of the Oosterscheldekering, two stamps marked the completion of the Delta Works: 65 cents with a plan of the barrier and 75 cents with the barrier itself.",
+          "ro": "A 10-cent stamp \"Delta-Werken\" came out in 1963 and a 20-cent stamp \"Deltaplan\" in 1972. On 7 October 1986, three days after the opening of the Oosterscheldekering, two stamps marked the completion of the Delta Works: 65 cents with a plan of the barrier and 75 cents with the barrier itself.",
+          "hu": "A 10-cent stamp \"Delta-Werken\" came out in 1963 and a 20-cent stamp \"Deltaplan\" in 1972. On 7 October 1986, three days after the opening of the Oosterscheldekering, two stamps marked the completion of the Delta Works: 65 cents with a plan of the barrier and 75 cents with the barrier itself.",
+          "da": "A 10-cent stamp \"Delta-Werken\" came out in 1963 and a 20-cent stamp \"Deltaplan\" in 1972. On 7 October 1986, three days after the opening of the Oosterscheldekering, two stamps marked the completion of the Delta Works: 65 cents with a plan of the barrier and 75 cents with the barrier itself."
+        },
+        {
+          "en": "The Deltaplan of 1953 appeared again in 1999 in the block \"Deze Eeuw\". In 2016 the Delta Works were the subject of the Postcrossing stamp.",
+          "de": "Der Deltaplan von 1953 kam 1999 noch einmal im Block „Deze Eeuw“ vor. 2016 waren die Deltawerke das Thema der Postcrossing-Marke.",
+          "fr": "Le Deltaplan de 1953 est réapparu en 1999 dans le bloc « Deze Eeuw ». En 2016, le plan Delta a été le sujet du timbre Postcrossing.",
+          "it": "The Deltaplan of 1953 appeared again in 1999 in the block \"Deze Eeuw\". In 2016 the Delta Works were the subject of the Postcrossing stamp.",
+          "nl": "Het Deltaplan van 1953 keerde in 1999 terug op het blok „Deze Eeuw”. In 2016 waren de Deltawerken het onderwerp van de Postcrossingzegel.",
+          "pl": "The Deltaplan of 1953 appeared again in 1999 in the block \"Deze Eeuw\". In 2016 the Delta Works were the subject of the Postcrossing stamp.",
+          "cs": "The Deltaplan of 1953 appeared again in 1999 in the block \"Deze Eeuw\". In 2016 the Delta Works were the subject of the Postcrossing stamp.",
+          "sk": "The Deltaplan of 1953 appeared again in 1999 in the block \"Deze Eeuw\". In 2016 the Delta Works were the subject of the Postcrossing stamp.",
+          "ro": "The Deltaplan of 1953 appeared again in 1999 in the block \"Deze Eeuw\". In 2016 the Delta Works were the subject of the Postcrossing stamp.",
+          "hu": "The Deltaplan of 1953 appeared again in 1999 in the block \"Deze Eeuw\". In 2016 the Delta Works were the subject of the Postcrossing stamp.",
+          "da": "The Deltaplan of 1953 appeared again in 1999 in the block \"Deze Eeuw\". In 2016 the Delta Works were the subject of the Postcrossing stamp."
+        }
+      ]
+    },
+    {
+      "id": "visiting",
+      "rows": [
+        {
+          "label": {
+            "en": "Watersnoodmuseum",
+            "de": "Watersnoodmuseum",
+            "fr": "Watersnoodmuseum",
+            "it": "Watersnoodmuseum",
+            "nl": "Watersnoodmuseum",
+            "pl": "Watersnoodmuseum",
+            "cs": "Watersnoodmuseum",
+            "sk": "Watersnoodmuseum",
+            "ro": "Watersnoodmuseum",
+            "hu": "Watersnoodmuseum",
+            "da": "Watersnoodmuseum"
+          },
+          "value": {
+            "en": "Weg van de Buitenlandse Pers 5, 4305 RJ Ouwerkerk",
+            "de": "Weg van de Buitenlandse Pers 5, 4305 RJ Ouwerkerk",
+            "fr": "Weg van de Buitenlandse Pers 5, 4305 RJ Ouwerkerk",
+            "it": "Weg van de Buitenlandse Pers 5, 4305 RJ Ouwerkerk",
+            "nl": "Weg van de Buitenlandse Pers 5, 4305 RJ Ouwerkerk",
+            "pl": "Weg van de Buitenlandse Pers 5, 4305 RJ Ouwerkerk",
+            "cs": "Weg van de Buitenlandse Pers 5, 4305 RJ Ouwerkerk",
+            "sk": "Weg van de Buitenlandse Pers 5, 4305 RJ Ouwerkerk",
+            "ro": "Weg van de Buitenlandse Pers 5, 4305 RJ Ouwerkerk",
+            "hu": "Weg van de Buitenlandse Pers 5, 4305 RJ Ouwerkerk",
+            "da": "Weg van de Buitenlandse Pers 5, 4305 RJ Ouwerkerk"
+          }
+        },
+        {
+          "label": {
+            "en": "Opening hours",
+            "de": "Öffnungszeiten",
+            "fr": "Horaires",
+            "it": "Opening hours",
+            "nl": "Openingstijden",
+            "pl": "Opening hours",
+            "cs": "Opening hours",
+            "sk": "Opening hours",
+            "ro": "Opening hours",
+            "hu": "Opening hours",
+            "da": "Opening hours"
+          },
+          "value": {
+            "en": "Daily, 10:00 to 17:00; ticket desk closes at 16:15",
+            "de": "Täglich 10:00 bis 17:00 Uhr, Kassenschluss 16:15 Uhr",
+            "fr": "Tous les jours de 10 h à 17 h ; fermeture de la billetterie à 16 h 15",
+            "it": "Daily, 10:00 to 17:00; ticket desk closes at 16:15",
+            "nl": "Dagelijks van 10.00 tot 17.00 uur; de kassa sluit om 16.15 uur",
+            "pl": "Daily, 10:00 to 17:00; ticket desk closes at 16:15",
+            "cs": "Daily, 10:00 to 17:00; ticket desk closes at 16:15",
+            "sk": "Daily, 10:00 to 17:00; ticket desk closes at 16:15",
+            "ro": "Daily, 10:00 to 17:00; ticket desk closes at 16:15",
+            "hu": "Daily, 10:00 to 17:00; ticket desk closes at 16:15",
+            "da": "Daily, 10:00 to 17:00; ticket desk closes at 16:15"
+          }
+        },
+        {
+          "label": {
+            "en": "Admission",
+            "de": "Eintritt",
+            "fr": "Tarifs",
+            "it": "Admission",
+            "nl": "Entree",
+            "pl": "Admission",
+            "cs": "Admission",
+            "sk": "Admission",
+            "ro": "Admission",
+            "hu": "Admission",
+            "da": "Admission"
+          },
+          "value": {
+            "en": "Adults €16.00, ages 5 to 11 €8.50, Museumkaart free",
+            "de": "Erwachsene 16,00 €, 5 bis 11 Jahre 8,50 €, mit Museumkaart frei",
+            "fr": "Adultes 16,00 €, de 5 à 11 ans 8,50 €, Museumkaart gratuit",
+            "it": "Adults €16.00, ages 5 to 11 €8.50, Museumkaart free",
+            "nl": "Volwassenen € 16,00, 5 tot en met 11 jaar € 8,50, Museumkaart gratis",
+            "pl": "Adults €16.00, ages 5 to 11 €8.50, Museumkaart free",
+            "cs": "Adults €16.00, ages 5 to 11 €8.50, Museumkaart free",
+            "sk": "Adults €16.00, ages 5 to 11 €8.50, Museumkaart free",
+            "ro": "Adults €16.00, ages 5 to 11 €8.50, Museumkaart free",
+            "hu": "Adults €16.00, ages 5 to 11 €8.50, Museumkaart free",
+            "da": "Adults €16.00, ages 5 to 11 €8.50, Museumkaart free"
+          }
+        },
+        {
+          "label": {
+            "en": "Deltapark Neeltje Jans",
+            "de": "Deltapark Neeltje Jans",
+            "fr": "Deltapark Neeltje Jans",
+            "it": "Deltapark Neeltje Jans",
+            "nl": "Deltapark Neeltje Jans",
+            "pl": "Deltapark Neeltje Jans",
+            "cs": "Deltapark Neeltje Jans",
+            "sk": "Deltapark Neeltje Jans",
+            "ro": "Deltapark Neeltje Jans",
+            "hu": "Deltapark Neeltje Jans",
+            "da": "Deltapark Neeltje Jans"
+          },
+          "value": {
+            "en": "Faelweg 5, 4354 RB Vrouwenpolder",
+            "de": "Faelweg 5, 4354 RB Vrouwenpolder",
+            "fr": "Faelweg 5, 4354 RB Vrouwenpolder",
+            "it": "Faelweg 5, 4354 RB Vrouwenpolder",
+            "nl": "Faelweg 5, 4354 RB Vrouwenpolder",
+            "pl": "Faelweg 5, 4354 RB Vrouwenpolder",
+            "cs": "Faelweg 5, 4354 RB Vrouwenpolder",
+            "sk": "Faelweg 5, 4354 RB Vrouwenpolder",
+            "ro": "Faelweg 5, 4354 RB Vrouwenpolder",
+            "hu": "Faelweg 5, 4354 RB Vrouwenpolder",
+            "da": "Faelweg 5, 4354 RB Vrouwenpolder"
+          }
+        },
+        {
+          "label": {
+            "en": "Opening hours",
+            "de": "Öffnungszeiten",
+            "fr": "Horaires",
+            "it": "Opening hours",
+            "nl": "Openingstijden",
+            "pl": "Opening hours",
+            "cs": "Opening hours",
+            "sk": "Opening hours",
+            "ro": "Opening hours",
+            "hu": "Opening hours",
+            "da": "Opening hours"
+          },
+          "value": {
+            "en": "Daily 10:00 to 17:00 until 1 November 2026, then winter days 10:30 to 16:30",
+            "de": "Bis 1. November 2026 täglich 10:00 bis 17:00 Uhr, danach im Winter 10:30 bis 16:30 Uhr",
+            "fr": "Tous les jours de 10 h à 17 h jusqu'au 1er novembre 2026, puis de 10 h 30 à 16 h 30 en hiver",
+            "it": "Daily 10:00 to 17:00 until 1 November 2026, then winter days 10:30 to 16:30",
+            "nl": "Dagelijks van 10.00 tot 17.00 uur tot 1 november 2026, daarna op winterdagen van 10.30 tot 16.30 uur",
+            "pl": "Daily 10:00 to 17:00 until 1 November 2026, then winter days 10:30 to 16:30",
+            "cs": "Daily 10:00 to 17:00 until 1 November 2026, then winter days 10:30 to 16:30",
+            "sk": "Daily 10:00 to 17:00 until 1 November 2026, then winter days 10:30 to 16:30",
+            "ro": "Daily 10:00 to 17:00 until 1 November 2026, then winter days 10:30 to 16:30",
+            "hu": "Daily 10:00 to 17:00 until 1 November 2026, then winter days 10:30 to 16:30",
+            "da": "Daily 10:00 to 17:00 until 1 November 2026, then winter days 10:30 to 16:30"
+          }
+        },
+        {
+          "label": {
+            "en": "Admission",
+            "de": "Eintritt",
+            "fr": "Tarifs",
+            "it": "Admission",
+            "nl": "Entree",
+            "pl": "Admission",
+            "cs": "Admission",
+            "sk": "Admission",
+            "ro": "Admission",
+            "hu": "Admission",
+            "da": "Admission"
+          },
+          "value": {
+            "en": "Adults €26 online, €28 at the gate",
+            "de": "Erwachsene 26 € online, 28 € an der Kasse",
+            "fr": "Adultes 26 € en ligne, 28 € sur place",
+            "it": "Adults €26 online, €28 at the gate",
+            "nl": "Volwassenen € 26 online, € 28 aan de kassa",
+            "pl": "Adults €26 online, €28 at the gate",
+            "cs": "Adults €26 online, €28 at the gate",
+            "sk": "Adults €26 online, €28 at the gate",
+            "ro": "Adults €26 online, €28 at the gate",
+            "hu": "Adults €26 online, €28 at the gate",
+            "da": "Adults €26 online, €28 at the gate"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "Visiting",
+        "de": "Besuch",
+        "fr": "Visiter",
+        "it": "Visiting",
+        "nl": "Bezoeken",
+        "pl": "Visiting",
+        "cs": "Visiting",
+        "sk": "Visiting",
+        "ro": "Visiting",
+        "hu": "Visiting",
+        "da": "Visiting"
+      },
+      "title": {
+        "en": "The Watersnoodmuseum and Neeltje Jans",
+        "de": "Watersnoodmuseum und Neeltje Jans",
+        "fr": "Le Watersnoodmuseum et Neeltje Jans",
+        "it": "The Watersnoodmuseum and Neeltje Jans",
+        "nl": "Het Watersnoodmuseum en Neeltje Jans",
+        "pl": "The Watersnoodmuseum and Neeltje Jans",
+        "cs": "The Watersnoodmuseum and Neeltje Jans",
+        "sk": "The Watersnoodmuseum and Neeltje Jans",
+        "ro": "The Watersnoodmuseum and Neeltje Jans",
+        "hu": "The Watersnoodmuseum and Neeltje Jans",
+        "da": "The Watersnoodmuseum and Neeltje Jans"
+      },
+      "buttons": [
+        {
+          "href": "https://watersnoodmuseum.nl/het-museum/plan-je-bezoek",
+          "label": {
+            "en": "Watersnoodmuseum",
+            "de": "Watersnoodmuseum",
+            "fr": "Watersnoodmuseum",
+            "it": "Watersnoodmuseum",
+            "nl": "Watersnoodmuseum",
+            "pl": "Watersnoodmuseum",
+            "cs": "Watersnoodmuseum",
+            "sk": "Watersnoodmuseum",
+            "ro": "Watersnoodmuseum",
+            "hu": "Watersnoodmuseum",
+            "da": "Watersnoodmuseum"
+          }
+        },
+        {
+          "href": "https://www.neeltjejans.nl/",
+          "label": {
+            "en": "Neeltje Jans",
+            "de": "Neeltje Jans",
+            "fr": "Neeltje Jans",
+            "it": "Neeltje Jans",
+            "nl": "Neeltje Jans",
+            "pl": "Neeltje Jans",
+            "cs": "Neeltje Jans",
+            "sk": "Neeltje Jans",
+            "ro": "Neeltje Jans",
+            "hu": "Neeltje Jans",
+            "da": "Neeltje Jans"
+          }
+        }
+      ]
+    },
+    {
+      "id": "ordering",
+      "rows": [
+        {
+          "label": {
+            "en": "Online",
+            "de": "Online",
+            "fr": "En ligne",
+            "it": "Online",
+            "nl": "Online",
+            "pl": "Online",
+            "cs": "Online",
+            "sk": "Online",
+            "ro": "Online",
+            "hu": "Online",
+            "da": "Online"
+          },
+          "value": {
+            "en": "PostNL Collect Club shop",
+            "de": "Shop von PostNL Collect Club",
+            "fr": "Boutique PostNL Collect Club",
+            "it": "PostNL Collect Club shop",
+            "nl": "Webshop van PostNL Collect Club",
+            "pl": "PostNL Collect Club shop",
+            "cs": "PostNL Collect Club shop",
+            "sk": "PostNL Collect Club shop",
+            "ro": "PostNL Collect Club shop",
+            "hu": "PostNL Collect Club shop",
+            "da": "PostNL Collect Club shop"
+          }
+        },
+        {
+          "label": {
+            "en": "Shops",
+            "de": "Geschäfte",
+            "fr": "En magasin",
+            "it": "Shops",
+            "nl": "Winkels",
+            "pl": "Shops",
+            "cs": "Shops",
+            "sk": "Shops",
+            "ro": "Shops",
+            "hu": "Shops",
+            "da": "Shops"
+          },
+          "value": {
+            "en": "Post offices in Bruna shops",
+            "de": "Postfilialen in Bruna-Geschäften",
+            "fr": "Bureaux de poste dans les magasins Bruna",
+            "it": "Post offices in Bruna shops",
+            "nl": "Postkantoren in Bruna-winkels",
+            "pl": "Post offices in Bruna shops",
+            "cs": "Post offices in Bruna shops",
+            "sk": "Post offices in Bruna shops",
+            "ro": "Post offices in Bruna shops",
+            "hu": "Post offices in Bruna shops",
+            "da": "Post offices in Bruna shops"
+          }
+        },
+        {
+          "label": {
+            "en": "By phone",
+            "de": "Telefonisch",
+            "fr": "Par téléphone",
+            "it": "By phone",
+            "nl": "Telefonisch",
+            "pl": "By phone",
+            "cs": "By phone",
+            "sk": "By phone",
+            "ro": "By phone",
+            "hu": "By phone",
+            "da": "By phone"
+          },
+          "value": {
+            "en": "Collect Club, 088 868 99 00",
+            "de": "Collect Club, 088 868 99 00",
+            "fr": "Collect Club, 088 868 99 00",
+            "it": "Collect Club, 088 868 99 00",
+            "nl": "Collect Club, 088 868 99 00",
+            "pl": "Collect Club, 088 868 99 00",
+            "cs": "Collect Club, 088 868 99 00",
+            "sk": "Collect Club, 088 868 99 00",
+            "ro": "Collect Club, 088 868 99 00",
+            "hu": "Collect Club, 088 868 99 00",
+            "da": "Collect Club, 088 868 99 00"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "Ordering",
+        "de": "Bestellen",
+        "fr": "Commander",
+        "it": "Ordering",
+        "nl": "Bestellen",
+        "pl": "Ordering",
+        "cs": "Ordering",
+        "sk": "Ordering",
+        "ro": "Ordering",
+        "hu": "Ordering",
+        "da": "Ordering"
+      },
+      "title": {
+        "en": "Where to buy the sheet",
+        "de": "Wo es den Bogen gibt",
+        "fr": "Où acheter le feuillet",
+        "it": "Where to buy the sheet",
+        "nl": "Waar je het vel koopt",
+        "pl": "Where to buy the sheet",
+        "cs": "Where to buy the sheet",
+        "sk": "Where to buy the sheet",
+        "ro": "Where to buy the sheet",
+        "hu": "Where to buy the sheet",
+        "da": "Where to buy the sheet"
+      },
+      "buttons": [
+        {
+          "href": "https://shop.postnl.nl/webshop/collect-club",
+          "label": {
+            "en": "PostNL Collect Club shop",
+            "de": "PostNL Collect Club Shop",
+            "fr": "Boutique PostNL Collect Club",
+            "it": "PostNL Collect Club shop",
+            "nl": "Webshop van PostNL Collect Club",
+            "pl": "PostNL Collect Club shop",
+            "cs": "PostNL Collect Club shop",
+            "sk": "PostNL Collect Club shop",
+            "ro": "PostNL Collect Club shop",
+            "hu": "PostNL Collect Club shop",
+            "da": "PostNL Collect Club shop"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stampiq",
+      "text": {
+        "en": "The Deltawerken stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "de": "Die Marken zu den Deltawerken sind noch nicht in StampIQ. Wir nehmen sie später in den Katalog auf.",
+        "fr": "Les timbres Deltawerken ne figurent pas encore dans StampIQ. Nous les ajouterons au catalogue plus tard.",
+        "it": "The Deltawerken stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "nl": "De Deltawerken-zegels staan nog niet in StampIQ. We voegen ze later aan de catalogus toe.",
+        "pl": "The Deltawerken stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "cs": "The Deltawerken stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "sk": "The Deltawerken stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "ro": "The Deltawerken stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "hu": "The Deltawerken stamps are not in StampIQ yet. We add them to the catalogue later.",
+        "da": "The Deltawerken stamps are not in StampIQ yet. We add them to the catalogue later."
+      },
+      "type": "note"
+    }
+  ]
+}

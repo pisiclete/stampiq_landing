@@ -1,0 +1,840 @@
+{
+  "category": "behind-stampiq",
+  "markets": [
+    "CH",
+    "LI",
+    "DE",
+    "AT"
+  ],
+  "langs": [
+    "en",
+    "de",
+    "fr",
+    "it"
+  ],
+  "published_at": "2026-10-28T09:00:00+00:00",
+  "thumbnail": {
+    "src": "https://assets.stampiq.io/blog/4aca39359da14844/ulm-stand-card.jpg",
+    "width": 1290,
+    "height": 968
+  },
+  "languages": {
+    "en": {
+      "slug": "ibb-ulm-2026-at-our-stand",
+      "title": "Three days at stand 33 in Ulm",
+      "description": "What collectors and dealers asked at our stand at the IBB in Ulm, and which features they asked us to build."
+    },
+    "de": {
+      "slug": "ibb-ulm-2026-an-unserem-stand",
+      "title": "Drei Tage an Stand 33 in Ulm",
+      "description": "Was Sammler und Händler an unserem Stand auf der IBB in Ulm gefragt haben und welche Funktionen sie sich von uns wünschen."
+    },
+    "fr": {
+      "slug": "ibb-ulm-2026-sur-notre-stand",
+      "title": "Trois jours au stand 33 à Ulm",
+      "description": "Les questions des collectionneurs et des marchands à notre stand de l'IBB à Ulm, et les fonctionnalités qu'ils nous ont demandé de développer."
+    },
+    "it": {
+      "slug": "ibb-ulma-2026-al-nostro-stand",
+      "title": "Tre giorni allo stand 33 a Ulma",
+      "description": "Le domande di collezionisti e commercianti al nostro stand all'IBB di Ulma e le funzionalità che ci hanno chiesto di sviluppare."
+    },
+    "nl": {
+      "slug": "ibb-ulm-2026-at-our-stand",
+      "title": "Three days at stand 33 in Ulm",
+      "description": "What collectors and dealers asked at our stand at the IBB in Ulm, and which features they asked us to build."
+    },
+    "pl": {
+      "slug": "ibb-ulm-2026-at-our-stand",
+      "title": "Three days at stand 33 in Ulm",
+      "description": "What collectors and dealers asked at our stand at the IBB in Ulm, and which features they asked us to build."
+    },
+    "cs": {
+      "slug": "ibb-ulm-2026-at-our-stand",
+      "title": "Three days at stand 33 in Ulm",
+      "description": "What collectors and dealers asked at our stand at the IBB in Ulm, and which features they asked us to build."
+    },
+    "sk": {
+      "slug": "ibb-ulm-2026-at-our-stand",
+      "title": "Three days at stand 33 in Ulm",
+      "description": "What collectors and dealers asked at our stand at the IBB in Ulm, and which features they asked us to build."
+    },
+    "ro": {
+      "slug": "ibb-ulm-2026-at-our-stand",
+      "title": "Three days at stand 33 in Ulm",
+      "description": "What collectors and dealers asked at our stand at the IBB in Ulm, and which features they asked us to build."
+    },
+    "hu": {
+      "slug": "ibb-ulm-2026-at-our-stand",
+      "title": "Three days at stand 33 in Ulm",
+      "description": "What collectors and dealers asked at our stand at the IBB in Ulm, and which features they asked us to build."
+    },
+    "da": {
+      "slug": "ibb-ulm-2026-at-our-stand",
+      "title": "Three days at stand 33 in Ulm",
+      "description": "What collectors and dealers asked at our stand at the IBB in Ulm, and which features they asked us to build."
+    }
+  },
+  "header": {
+    "lead": {
+      "en": "From 22 to 24 October we showed StampIQ at stand 33 of the IBB in Ulm. Visitors asked us about Michel numbers, values and countries, and told us which features they are missing in the app.",
+      "de": "Vom 22. bis 24. Oktober haben wir StampIQ auf der IBB in Ulm an Stand 33 gezeigt. Besucher haben uns nach Michel-Nummern, Werten und Ländern gefragt und uns gesagt, welche Funktionen ihnen in der App fehlen.",
+      "fr": "Du 22 au 24 octobre, nous avons présenté StampIQ au stand 33 de l'IBB, à Ulm. Les visiteurs nous ont posé des questions sur les numéros Michel, les valeurs et les pays, puis nous ont dit quelles fonctionnalités leur manquent dans l'application.",
+      "it": "Dal 22 al 24 ottobre abbiamo presentato StampIQ allo stand 33 dell'IBB di Ulma. I visitatori ci hanno fatto domande sui numeri Michel, sui valori e sui Paesi. Ci hanno anche detto quali funzionalità mancano nell'app.",
+      "nl": "From 22 to 24 October we showed StampIQ at stand 33 of the IBB in Ulm. Visitors asked us about Michel numbers, values and countries, and told us which features they are missing in the app.",
+      "pl": "From 22 to 24 October we showed StampIQ at stand 33 of the IBB in Ulm. Visitors asked us about Michel numbers, values and countries, and told us which features they are missing in the app.",
+      "cs": "From 22 to 24 October we showed StampIQ at stand 33 of the IBB in Ulm. Visitors asked us about Michel numbers, values and countries, and told us which features they are missing in the app.",
+      "sk": "From 22 to 24 October we showed StampIQ at stand 33 of the IBB in Ulm. Visitors asked us about Michel numbers, values and countries, and told us which features they are missing in the app.",
+      "ro": "From 22 to 24 October we showed StampIQ at stand 33 of the IBB in Ulm. Visitors asked us about Michel numbers, values and countries, and told us which features they are missing in the app.",
+      "hu": "From 22 to 24 October we showed StampIQ at stand 33 of the IBB in Ulm. Visitors asked us about Michel numbers, values and countries, and told us which features they are missing in the app.",
+      "da": "From 22 to 24 October we showed StampIQ at stand 33 of the IBB in Ulm. Visitors asked us about Michel numbers, values and countries, and told us which features they are missing in the app."
+    },
+    "visual": {
+      "type": "poster",
+      "image": {
+        "src": "https://assets.stampiq.io/blog/4d34037568bf650a/ulm-stand-33-hall-2.jpg",
+        "width": 1500,
+        "height": 2000
+      }
+    },
+    "location": "Ulm-Messe, Hall 1, stand 33",
+    "date_label": {
+      "en": "22 to 24 October 2026",
+      "de": "22. bis 24. Oktober 2026",
+      "fr": "Du 22 au 24 octobre 2026",
+      "it": "Dal 22 al 24 ottobre 2026",
+      "nl": "22 to 24 October 2026",
+      "pl": "22 to 24 October 2026",
+      "cs": "22 to 24 October 2026",
+      "sk": "22 to 24 October 2026",
+      "ro": "22 to 24 October 2026",
+      "hu": "22 to 24 October 2026",
+      "da": "22 to 24 October 2026"
+    }
+  },
+  "blocks": [
+    {
+      "id": "stand",
+      "type": "text",
+      "label": {
+        "en": "At the stand",
+        "de": "Am Stand",
+        "fr": "Au stand",
+        "it": "Allo stand",
+        "nl": "At the stand",
+        "pl": "At the stand",
+        "cs": "At the stand",
+        "sk": "At the stand",
+        "ro": "At the stand",
+        "hu": "At the stand",
+        "da": "At the stand"
+      },
+      "title": {
+        "en": "Our tables at the Ulm-Messe",
+        "de": "Unsere Tische in der Ulm-Messe",
+        "fr": "Nos tables à l'Ulm-Messe",
+        "it": "I nostri tavoli alla Ulm-Messe",
+        "nl": "Our tables at the Ulm-Messe",
+        "pl": "Our tables at the Ulm-Messe",
+        "cs": "Our tables at the Ulm-Messe",
+        "sk": "Our tables at the Ulm-Messe",
+        "ro": "Our tables at the Ulm-Messe",
+        "hu": "Our tables at the Ulm-Messe",
+        "da": "Our tables at the Ulm-Messe"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/550b8b51acddc4a2/ulm-stand-flyer.jpg",
+          "width": 1500,
+          "height": 2000,
+          "caption": {
+            "en": "At stand 33",
+            "de": "An Stand 33",
+            "fr": "Au stand 33",
+            "it": "Allo stand 33",
+            "nl": "At stand 33",
+            "pl": "At stand 33",
+            "cs": "At stand 33",
+            "sk": "At stand 33",
+            "ro": "At stand 33",
+            "hu": "At stand 33",
+            "da": "At stand 33"
+          }
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "For three days we stood at stand 33 in Hall 1 of the Ulm-Messe, next to the postal administration of the United Nations. We had set up two tables with phones on wooden holders and pages of stamps to scan. Every scan also appeared on a large screen, so that several people could watch at the same time.",
+          "de": "Drei Tage lang standen wir an Stand 33 in Halle 1 der Ulm-Messe, neben der Postverwaltung der Vereinten Nationen. Auf zwei Tischen standen Handys in Holzhaltern, dazu Seiten mit Briefmarken zum Scannen. Jeder Scan lief auch über einen großen Bildschirm, damit mehrere Leute gleichzeitig zusehen konnten.",
+          "fr": "Pendant trois jours, nous étions au stand 33, dans le hall 1 de l'Ulm-Messe, à côté de l'administration postale des Nations unies. Nous avions installé deux tables avec des téléphones sur des supports en bois et des pages de timbres à scanner. Chaque scan s'affichait aussi sur un grand écran, pour que plusieurs personnes puissent le suivre en même temps.",
+          "it": "Per tre giorni siamo stati allo stand 33 nel padiglione 1 della Ulm-Messe, accanto all'amministrazione postale delle Nazioni Unite. Avevamo preparato due tavoli con telefoni su supporti di legno e pagine di francobolli da scansionare. Ogni scansione compariva anche su un grande schermo, così più persone potevano guardare insieme.",
+          "nl": "For three days we stood at stand 33 in Hall 1 of the Ulm-Messe, next to the postal administration of the United Nations. We had set up two tables with phones on wooden holders and pages of stamps to scan. Every scan also appeared on a large screen, so that several people could watch at the same time.",
+          "pl": "For three days we stood at stand 33 in Hall 1 of the Ulm-Messe, next to the postal administration of the United Nations. We had set up two tables with phones on wooden holders and pages of stamps to scan. Every scan also appeared on a large screen, so that several people could watch at the same time.",
+          "cs": "For three days we stood at stand 33 in Hall 1 of the Ulm-Messe, next to the postal administration of the United Nations. We had set up two tables with phones on wooden holders and pages of stamps to scan. Every scan also appeared on a large screen, so that several people could watch at the same time.",
+          "sk": "For three days we stood at stand 33 in Hall 1 of the Ulm-Messe, next to the postal administration of the United Nations. We had set up two tables with phones on wooden holders and pages of stamps to scan. Every scan also appeared on a large screen, so that several people could watch at the same time.",
+          "ro": "For three days we stood at stand 33 in Hall 1 of the Ulm-Messe, next to the postal administration of the United Nations. We had set up two tables with phones on wooden holders and pages of stamps to scan. Every scan also appeared on a large screen, so that several people could watch at the same time.",
+          "hu": "For three days we stood at stand 33 in Hall 1 of the Ulm-Messe, next to the postal administration of the United Nations. We had set up two tables with phones on wooden holders and pages of stamps to scan. Every scan also appeared on a large screen, so that several people could watch at the same time.",
+          "da": "For three days we stood at stand 33 in Hall 1 of the Ulm-Messe, next to the postal administration of the United Nations. We had set up two tables with phones on wooden holders and pages of stamps to scan. Every scan also appeared on a large screen, so that several people could watch at the same time."
+        },
+        {
+          "en": "Collectors, dealers and staff from auction houses stopped at our stand, each group with its own questions. Over the three days we showed them every part of the app: the Single Scan, the Bulk Scan of a whole page, the collection with its values, the map and a question to Sigi.",
+          "de": "An unseren Stand kamen Sammler, Händler und Mitarbeiter von Auktionshäusern, jede Gruppe mit eigenen Fragen. In den drei Tagen haben wir ihnen jeden Teil der App gezeigt: den Einzelscan, den Mehrfach-Scan einer ganzen Seite, die Sammlung mit ihren Werten, die Karte und eine Frage an Sigi.",
+          "fr": "Des collectionneurs, des marchands et des employés de maisons de vente aux enchères se sont arrêtés à notre stand, chaque groupe avec ses propres questions. En trois jours, nous leur avons montré toutes les parties de l'application : le Scan individuel, le Scan multiple d'une page entière, la collection avec ses valeurs, la Carte et une question posée à Sigi.",
+          "it": "Al nostro stand si sono fermati collezionisti, commercianti e personale di case d'asta, ogni gruppo con le sue domande. Nei tre giorni abbiamo mostrato tutte le parti dell'app: la Scansione singola, la Scansione multipla di un'intera pagina, la collezione con i suoi valori, la Mappa e come fare una domanda a Sigi.",
+          "nl": "Collectors, dealers and staff from auction houses stopped at our stand, each group with its own questions. Over the three days we showed them every part of the app: the Single Scan, the Bulk Scan of a whole page, the collection with its values, the map and a question to Sigi.",
+          "pl": "Collectors, dealers and staff from auction houses stopped at our stand, each group with its own questions. Over the three days we showed them every part of the app: the Single Scan, the Bulk Scan of a whole page, the collection with its values, the map and a question to Sigi.",
+          "cs": "Collectors, dealers and staff from auction houses stopped at our stand, each group with its own questions. Over the three days we showed them every part of the app: the Single Scan, the Bulk Scan of a whole page, the collection with its values, the map and a question to Sigi.",
+          "sk": "Collectors, dealers and staff from auction houses stopped at our stand, each group with its own questions. Over the three days we showed them every part of the app: the Single Scan, the Bulk Scan of a whole page, the collection with its values, the map and a question to Sigi.",
+          "ro": "Collectors, dealers and staff from auction houses stopped at our stand, each group with its own questions. Over the three days we showed them every part of the app: the Single Scan, the Bulk Scan of a whole page, the collection with its values, the map and a question to Sigi.",
+          "hu": "Collectors, dealers and staff from auction houses stopped at our stand, each group with its own questions. Over the three days we showed them every part of the app: the Single Scan, the Bulk Scan of a whole page, the collection with its values, the map and a question to Sigi.",
+          "da": "Collectors, dealers and staff from auction houses stopped at our stand, each group with its own questions. Over the three days we showed them every part of the app: the Single Scan, the Bulk Scan of a whole page, the collection with its values, the map and a question to Sigi."
+        },
+        {
+          "en": "Some visitors said straight away that they have no time to learn a new app. With them we went through one scan from start to end: we pointed the camera at a stamp, tapped the round capture button and read out the result. Almost everyone was interested in the flyer with a code for one month of Professional, which works until 31 March 2027 and needs no credit card.",
+          "de": "Manche Besucher sagten gleich, sie hätten keine Zeit, sich in eine neue App einzuarbeiten. Mit ihnen sind wir einen Scan von Anfang bis Ende durchgegangen: Kamera auf eine Briefmarke halten, auf den runden Auslöser tippen, das Ergebnis vorlesen. Fast alle interessierten sich für den Flyer mit einem Code für einen Monat Professional, der bis zum 31. März 2027 gilt und ohne Kreditkarte funktioniert.",
+          "fr": "Certains visiteurs ont dit d'emblée qu'ils n'avaient pas le temps d'apprendre à se servir d'une nouvelle application. Avec eux, nous avons fait un scan du début à la fin : on dirige la caméra vers un timbre, on appuie sur le bouton rond de capture, on lit le résultat. Presque tous se sont intéressés au flyer avec un code pour un mois de Professional, valable jusqu'au 31 mars 2027, sans carte de crédit.",
+          "it": "Alcuni visitatori ci hanno detto subito che non avevano tempo per imparare a usare una nuova app. Con loro abbiamo fatto una scansione dall'inizio alla fine: abbiamo puntato la fotocamera su un francobollo, premuto il pulsante rotondo di scatto e letto il risultato. Quasi tutti si sono interessati al volantino con il codice per un mese di Professional, valido fino al 31 marzo 2027, senza bisogno di carta di credito.",
+          "nl": "Some visitors said straight away that they have no time to learn a new app. With them we went through one scan from start to end: we pointed the camera at a stamp, tapped the round capture button and read out the result. Almost everyone was interested in the flyer with a code for one month of Professional, which works until 31 March 2027 and needs no credit card.",
+          "pl": "Some visitors said straight away that they have no time to learn a new app. With them we went through one scan from start to end: we pointed the camera at a stamp, tapped the round capture button and read out the result. Almost everyone was interested in the flyer with a code for one month of Professional, which works until 31 March 2027 and needs no credit card.",
+          "cs": "Some visitors said straight away that they have no time to learn a new app. With them we went through one scan from start to end: we pointed the camera at a stamp, tapped the round capture button and read out the result. Almost everyone was interested in the flyer with a code for one month of Professional, which works until 31 March 2027 and needs no credit card.",
+          "sk": "Some visitors said straight away that they have no time to learn a new app. With them we went through one scan from start to end: we pointed the camera at a stamp, tapped the round capture button and read out the result. Almost everyone was interested in the flyer with a code for one month of Professional, which works until 31 March 2027 and needs no credit card.",
+          "ro": "Some visitors said straight away that they have no time to learn a new app. With them we went through one scan from start to end: we pointed the camera at a stamp, tapped the round capture button and read out the result. Almost everyone was interested in the flyer with a code for one month of Professional, which works until 31 March 2027 and needs no credit card.",
+          "hu": "Some visitors said straight away that they have no time to learn a new app. With them we went through one scan from start to end: we pointed the camera at a stamp, tapped the round capture button and read out the result. Almost everyone was interested in the flyer with a code for one month of Professional, which works until 31 March 2027 and needs no credit card.",
+          "da": "Some visitors said straight away that they have no time to learn a new app. With them we went through one scan from start to end: we pointed the camera at a stamp, tapped the round capture button and read out the result. Almost everyone was interested in the flyer with a code for one month of Professional, which works until 31 March 2027 and needs no credit card."
+        }
+      ]
+    },
+    {
+      "id": "michel",
+      "type": "text",
+      "label": {
+        "en": "Asked at the table",
+        "de": "Am Tisch gefragt",
+        "fr": "Demandé au stand",
+        "it": "Chiesto al tavolo",
+        "nl": "Asked at the table",
+        "pl": "Asked at the table",
+        "cs": "Asked at the table",
+        "sk": "Asked at the table",
+        "ro": "Asked at the table",
+        "hu": "Asked at the table",
+        "da": "Asked at the table"
+      },
+      "title": {
+        "en": "Michel numbers and values",
+        "de": "Michel-Nummern und Werte",
+        "fr": "Numéros Michel et valeurs",
+        "it": "Numeri Michel e valori",
+        "nl": "Michel numbers and values",
+        "pl": "Michel numbers and values",
+        "cs": "Michel numbers and values",
+        "sk": "Michel numbers and values",
+        "ro": "Michel numbers and values",
+        "hu": "Michel numbers and values",
+        "da": "Michel numbers and values"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/16dbcc7045e901cb/ulm-stand-demo.jpg",
+          "width": 1290,
+          "height": 2000,
+          "caption": {
+            "en": "A demonstration at the stand",
+            "de": "Eine Vorführung am Stand",
+            "fr": "Une démonstration au stand",
+            "it": "Una dimostrazione allo stand",
+            "nl": "A demonstration at the stand",
+            "pl": "A demonstration at the stand",
+            "cs": "A demonstration at the stand",
+            "sk": "A demonstration at the stand",
+            "ro": "A demonstration at the stand",
+            "hu": "A demonstration at the stand",
+            "da": "A demonstration at the stand"
+          }
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "The question we heard most often was whether StampIQ shows the Michel number. We explained that Michel numbers need a licence, which is why every stamp in StampIQ has its own StampIQ number. To see whether a stamp is already in the collection, a photo is enough, because the result shows the stamp and whether it is in your collection.",
+          "de": "Am häufigsten kam die Frage, ob StampIQ die Michel-Nummer zeigt. Wir haben erklärt, dass Michel-Nummern eine Lizenz brauchen und deshalb jede Briefmarke in StampIQ eine eigene StampIQ-Nummer hat. Ob eine Marke schon in deiner Sammlung ist, zeigt ein Foto: Im Ergebnis siehst du die Briefmarke und ob du sie schon hast.",
+          "fr": "La question qui revenait le plus souvent était de savoir si StampIQ affiche le numéro Michel. Nous avons expliqué que les numéros Michel nécessitent une licence. Chaque timbre dans StampIQ porte donc son propre numéro StampIQ. Pour savoir si un timbre fait déjà partie de ta collection, une photo suffit : le résultat montre le timbre et indique si tu l'as déjà.",
+          "it": "La domanda più frequente è stata se StampIQ mostri il numero Michel. Abbiamo spiegato che i numeri Michel richiedono una licenza, per questo ogni francobollo in StampIQ ha il proprio numero StampIQ. Per sapere se un francobollo è già in collezione basta una foto: il risultato mostra il francobollo e indica se ce l'hai già.",
+          "nl": "The question we heard most often was whether StampIQ shows the Michel number. We explained that Michel numbers need a licence, which is why every stamp in StampIQ has its own StampIQ number. To see whether a stamp is already in the collection, a photo is enough, because the result shows the stamp and whether it is in your collection.",
+          "pl": "The question we heard most often was whether StampIQ shows the Michel number. We explained that Michel numbers need a licence, which is why every stamp in StampIQ has its own StampIQ number. To see whether a stamp is already in the collection, a photo is enough, because the result shows the stamp and whether it is in your collection.",
+          "cs": "The question we heard most often was whether StampIQ shows the Michel number. We explained that Michel numbers need a licence, which is why every stamp in StampIQ has its own StampIQ number. To see whether a stamp is already in the collection, a photo is enough, because the result shows the stamp and whether it is in your collection.",
+          "sk": "The question we heard most often was whether StampIQ shows the Michel number. We explained that Michel numbers need a licence, which is why every stamp in StampIQ has its own StampIQ number. To see whether a stamp is already in the collection, a photo is enough, because the result shows the stamp and whether it is in your collection.",
+          "ro": "The question we heard most often was whether StampIQ shows the Michel number. We explained that Michel numbers need a licence, which is why every stamp in StampIQ has its own StampIQ number. To see whether a stamp is already in the collection, a photo is enough, because the result shows the stamp and whether it is in your collection.",
+          "hu": "The question we heard most often was whether StampIQ shows the Michel number. We explained that Michel numbers need a licence, which is why every stamp in StampIQ has its own StampIQ number. To see whether a stamp is already in the collection, a photo is enough, because the result shows the stamp and whether it is in your collection.",
+          "da": "The question we heard most often was whether StampIQ shows the Michel number. We explained that Michel numbers need a licence, which is why every stamp in StampIQ has its own StampIQ number. To see whether a stamp is already in the collection, a photo is enough, because the result shows the stamp and whether it is in your collection."
+        },
+        {
+          "en": "Right after that, visitors usually wanted to know where the value comes from. Each recognised stamp shows reference values from StampIQ's own catalogue, for mint never hinged, hinged and used. We asked visitors to read them as a guide, since the price at an auction or from a dealer also depends on the condition and centring of the stamp.",
+          "de": "Direkt danach wollten die Besucher meist wissen, woher der Wert kommt. Zu jeder erkannten Briefmarke zeigt die App Richtwerte aus dem eigenen Katalog von StampIQ, für postfrisch, ungebraucht mit Falz und gestempelt. Wir haben dazugesagt, dass diese Werte eine Orientierung sind, denn der Preis bei einer Auktion oder beim Händler hängt auch vom Zustand und von der Zentrierung der Marke ab.",
+          "fr": "Juste après, les visiteurs voulaient en général savoir d'où venait la valeur. Chaque timbre identifié affiche des valeurs de référence tirées du catalogue propre à StampIQ, pour le neuf sans charnière, le neuf avec charnière et l'oblitéré. Nous leur avons demandé de les considérer comme une indication, car le prix en vente aux enchères ou chez un marchand dépend aussi de l'état et du centrage du timbre.",
+          "it": "Subito dopo, di solito, i visitatori volevano sapere da dove viene il valore. Ogni francobollo identificato mostra i valori di riferimento del catalogo StampIQ, per nuovo integro, nuovo con linguella e usato. Abbiamo spiegato che sono valori indicativi, perché il prezzo a un'asta o da un commerciante dipende anche dallo stato di conservazione e dalla centratura del francobollo.",
+          "nl": "Right after that, visitors usually wanted to know where the value comes from. Each recognised stamp shows reference values from StampIQ's own catalogue, for mint never hinged, hinged and used. We asked visitors to read them as a guide, since the price at an auction or from a dealer also depends on the condition and centring of the stamp.",
+          "pl": "Right after that, visitors usually wanted to know where the value comes from. Each recognised stamp shows reference values from StampIQ's own catalogue, for mint never hinged, hinged and used. We asked visitors to read them as a guide, since the price at an auction or from a dealer also depends on the condition and centring of the stamp.",
+          "cs": "Right after that, visitors usually wanted to know where the value comes from. Each recognised stamp shows reference values from StampIQ's own catalogue, for mint never hinged, hinged and used. We asked visitors to read them as a guide, since the price at an auction or from a dealer also depends on the condition and centring of the stamp.",
+          "sk": "Right after that, visitors usually wanted to know where the value comes from. Each recognised stamp shows reference values from StampIQ's own catalogue, for mint never hinged, hinged and used. We asked visitors to read them as a guide, since the price at an auction or from a dealer also depends on the condition and centring of the stamp.",
+          "ro": "Right after that, visitors usually wanted to know where the value comes from. Each recognised stamp shows reference values from StampIQ's own catalogue, for mint never hinged, hinged and used. We asked visitors to read them as a guide, since the price at an auction or from a dealer also depends on the condition and centring of the stamp.",
+          "hu": "Right after that, visitors usually wanted to know where the value comes from. Each recognised stamp shows reference values from StampIQ's own catalogue, for mint never hinged, hinged and used. We asked visitors to read them as a guide, since the price at an auction or from a dealer also depends on the condition and centring of the stamp.",
+          "da": "Right after that, visitors usually wanted to know where the value comes from. Each recognised stamp shows reference values from StampIQ's own catalogue, for mint never hinged, hinged and used. We asked visitors to read them as a guide, since the price at an auction or from a dealer also depends on the condition and centring of the stamp."
+        },
+        {
+          "en": "Staff from auction houses spent the most time with the Bulk Scan. When they go through a lot, they want to know quickly whether a valuable stamp is among the others. One photo of a page lists every stamp on it with its StampIQ number and values. Many visitors then asked which countries are in the app. All six countries in the list below are complete, Germany with the Deutsches Reich. The list also shows the countries we plan to add next.",
+          "de": "Mitarbeiter von Auktionshäusern verbrachten die meiste Zeit beim Mehrfach-Scan. Wer ein Los durchsieht, will schnell wissen, ob eine wertvolle Marke dabei ist. Ein Foto der Seite genügt: Jede Briefmarke darauf erscheint mit ihrer StampIQ-Nummer und den Werten. Viele Besucher fragten, welche Länder in der App sind. Alle sechs Länder in der Liste unten sind vollständig, Deutschland mit dem Deutschen Reich. Die Liste zeigt auch die Länder, die wir als Nächstes aufnehmen.",
+          "fr": "Ce sont les employés des maisons de vente aux enchères qui ont passé le plus de temps sur le Scan multiple. Quand ils parcourent un lot, ils veulent voir rapidement s'il y a un timbre de valeur parmi les autres. À partir d'une seule photo de la page, l'application liste tous les timbres qui s'y trouvent, avec leur numéro StampIQ et leurs valeurs. Beaucoup de visiteurs ont ensuite demandé quels pays étaient disponibles dans l'application. Les six pays de la liste ci-dessous sont complets, l'Allemagne avec le Deutsches Reich. La liste montre aussi les pays que nous prévoyons d'ajouter ensuite.",
+          "it": "Il personale delle case d'asta si è fermato più a lungo sulla Scansione multipla. Quando esaminano un lotto, vogliono capire in fretta se contiene un francobollo di valore. Con una sola foto della pagina, l'app elenca tutti i francobolli con il numero StampIQ e i valori. Molti visitatori hanno poi chiesto quali Paesi ci sono nell'app. Tutti e sei i Paesi dell'elenco qui sotto sono completi. Per la Germania è compreso anche il Deutsches Reich. L'elenco mostra anche i Paesi che prevediamo di aggiungere in seguito.",
+          "nl": "Staff from auction houses spent the most time with the Bulk Scan. When they go through a lot, they want to know quickly whether a valuable stamp is among the others. One photo of a page lists every stamp on it with its StampIQ number and values. Many visitors then asked which countries are in the app. All six countries in the list below are complete, Germany with the Deutsches Reich. The list also shows the countries we plan to add next.",
+          "pl": "Staff from auction houses spent the most time with the Bulk Scan. When they go through a lot, they want to know quickly whether a valuable stamp is among the others. One photo of a page lists every stamp on it with its StampIQ number and values. Many visitors then asked which countries are in the app. All six countries in the list below are complete, Germany with the Deutsches Reich. The list also shows the countries we plan to add next.",
+          "cs": "Staff from auction houses spent the most time with the Bulk Scan. When they go through a lot, they want to know quickly whether a valuable stamp is among the others. One photo of a page lists every stamp on it with its StampIQ number and values. Many visitors then asked which countries are in the app. All six countries in the list below are complete, Germany with the Deutsches Reich. The list also shows the countries we plan to add next.",
+          "sk": "Staff from auction houses spent the most time with the Bulk Scan. When they go through a lot, they want to know quickly whether a valuable stamp is among the others. One photo of a page lists every stamp on it with its StampIQ number and values. Many visitors then asked which countries are in the app. All six countries in the list below are complete, Germany with the Deutsches Reich. The list also shows the countries we plan to add next.",
+          "ro": "Staff from auction houses spent the most time with the Bulk Scan. When they go through a lot, they want to know quickly whether a valuable stamp is among the others. One photo of a page lists every stamp on it with its StampIQ number and values. Many visitors then asked which countries are in the app. All six countries in the list below are complete, Germany with the Deutsches Reich. The list also shows the countries we plan to add next.",
+          "hu": "Staff from auction houses spent the most time with the Bulk Scan. When they go through a lot, they want to know quickly whether a valuable stamp is among the others. One photo of a page lists every stamp on it with its StampIQ number and values. Many visitors then asked which countries are in the app. All six countries in the list below are complete, Germany with the Deutsches Reich. The list also shows the countries we plan to add next.",
+          "da": "Staff from auction houses spent the most time with the Bulk Scan. When they go through a lot, they want to know quickly whether a valuable stamp is among the others. One photo of a page lists every stamp on it with its StampIQ number and values. Many visitors then asked which countries are in the app. All six countries in the list below are complete, Germany with the Deutsches Reich. The list also shows the countries we plan to add next."
+        }
+      ]
+    },
+    {
+      "id": "countries",
+      "rows": [
+        {
+          "label": {
+            "en": "In the app now",
+            "de": "Jetzt in der App",
+            "fr": "Déjà dans l'application",
+            "it": "Già nell'app",
+            "nl": "In the app now",
+            "pl": "In the app now",
+            "cs": "In the app now",
+            "sk": "In the app now",
+            "ro": "In the app now",
+            "hu": "In the app now",
+            "da": "In the app now"
+          },
+          "value": {
+            "en": "Switzerland, Liechtenstein, Germany, Austria, the Netherlands, Poland",
+            "de": "Schweiz, Liechtenstein, Deutschland, Österreich, Niederlande, Polen",
+            "fr": "Suisse, Liechtenstein, Allemagne, Autriche, Pays-Bas, Pologne",
+            "it": "Svizzera, Liechtenstein, Germania, Austria, Paesi Bassi, Polonia",
+            "nl": "Switzerland, Liechtenstein, Germany, Austria, the Netherlands, Poland",
+            "pl": "Switzerland, Liechtenstein, Germany, Austria, the Netherlands, Poland",
+            "cs": "Switzerland, Liechtenstein, Germany, Austria, the Netherlands, Poland",
+            "sk": "Switzerland, Liechtenstein, Germany, Austria, the Netherlands, Poland",
+            "ro": "Switzerland, Liechtenstein, Germany, Austria, the Netherlands, Poland",
+            "hu": "Switzerland, Liechtenstein, Germany, Austria, the Netherlands, Poland",
+            "da": "Switzerland, Liechtenstein, Germany, Austria, the Netherlands, Poland"
+          }
+        },
+        {
+          "label": {
+            "en": "End of 2026",
+            "de": "Ende 2026",
+            "fr": "Fin 2026",
+            "it": "Fine 2026",
+            "nl": "End of 2026",
+            "pl": "End of 2026",
+            "cs": "End of 2026",
+            "sk": "End of 2026",
+            "ro": "End of 2026",
+            "hu": "End of 2026",
+            "da": "End of 2026"
+          },
+          "value": {
+            "en": "Czechia, Slovakia, Italy, France, Belgium, Romania",
+            "de": "Tschechien, Slowakei, Italien, Frankreich, Belgien, Rumänien",
+            "fr": "Tchéquie, Slovaquie, Italie, France, Belgique, Roumanie",
+            "it": "Repubblica Ceca, Slovacchia, Italia, Francia, Belgio, Romania",
+            "nl": "Czechia, Slovakia, Italy, France, Belgium, Romania",
+            "pl": "Czechia, Slovakia, Italy, France, Belgium, Romania",
+            "cs": "Czechia, Slovakia, Italy, France, Belgium, Romania",
+            "sk": "Czechia, Slovakia, Italy, France, Belgium, Romania",
+            "ro": "Czechia, Slovakia, Italy, France, Belgium, Romania",
+            "hu": "Czechia, Slovakia, Italy, France, Belgium, Romania",
+            "da": "Czechia, Slovakia, Italy, France, Belgium, Romania"
+          }
+        },
+        {
+          "label": {
+            "en": "Early 2027",
+            "de": "Anfang 2027",
+            "fr": "Début 2027",
+            "it": "Inizio 2027",
+            "nl": "Early 2027",
+            "pl": "Early 2027",
+            "cs": "Early 2027",
+            "sk": "Early 2027",
+            "ro": "Early 2027",
+            "hu": "Early 2027",
+            "da": "Early 2027"
+          },
+          "value": {
+            "en": "Luxembourg, Hungary, Denmark, the United Kingdom, Vatican City",
+            "de": "Luxemburg, Ungarn, Dänemark, Großbritannien, Vatikanstadt",
+            "fr": "Luxembourg, Hongrie, Danemark, Royaume-Uni, Vatican",
+            "it": "Lussemburgo, Ungheria, Danimarca, Regno Unito, Città del Vaticano",
+            "nl": "Luxembourg, Hungary, Denmark, the United Kingdom, Vatican City",
+            "pl": "Luxembourg, Hungary, Denmark, the United Kingdom, Vatican City",
+            "cs": "Luxembourg, Hungary, Denmark, the United Kingdom, Vatican City",
+            "sk": "Luxembourg, Hungary, Denmark, the United Kingdom, Vatican City",
+            "ro": "Luxembourg, Hungary, Denmark, the United Kingdom, Vatican City",
+            "hu": "Luxembourg, Hungary, Denmark, the United Kingdom, Vatican City",
+            "da": "Luxembourg, Hungary, Denmark, the United Kingdom, Vatican City"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "Catalogues",
+        "de": "Kataloge",
+        "fr": "Catalogues",
+        "it": "Cataloghi",
+        "nl": "Catalogues",
+        "pl": "Catalogues",
+        "cs": "Catalogues",
+        "sk": "Catalogues",
+        "ro": "Catalogues",
+        "hu": "Catalogues",
+        "da": "Catalogues"
+      },
+      "title": {
+        "en": "Countries in the app and planned",
+        "de": "Länder in der App und geplante Länder",
+        "fr": "Pays disponibles et pays prévus",
+        "it": "Paesi nell'app e in programma",
+        "nl": "Countries in the app and planned",
+        "pl": "Countries in the app and planned",
+        "cs": "Countries in the app and planned",
+        "sk": "Countries in the app and planned",
+        "ro": "Countries in the app and planned",
+        "hu": "Countries in the app and planned",
+        "da": "Countries in the app and planned"
+      }
+    },
+    {
+      "id": "plans",
+      "rows": [
+        {
+          "label": {
+            "en": "Free",
+            "de": "Gratis",
+            "fr": "Formule gratuite",
+            "it": "Gratis",
+            "nl": "Free",
+            "pl": "Free",
+            "cs": "Free",
+            "sk": "Free",
+            "ro": "Free",
+            "hu": "Free",
+            "da": "Free"
+          },
+          "value": {
+            "en": "5 Single Scans and 2 Bulk Scans a month, with the full result for every stamp you scan. The stamp stays in your collection.",
+            "de": "5 Einzelscans und 2 Mehrfach-Scans im Monat, mit dem vollständigen Ergebnis zu jeder gescannten Briefmarke. Die Marke bleibt in deiner Sammlung.",
+            "fr": "5 Scans individuels et 2 Scans multiples par mois, avec le résultat complet pour chaque timbre scanné. Le timbre reste dans ta collection.",
+            "it": "5 Scansioni singole e 2 Scansioni multiple al mese, con il risultato completo per ogni francobollo scansionato. Il francobollo resta nella tua collezione.",
+            "nl": "5 Single Scans and 2 Bulk Scans a month, with the full result for every stamp you scan. The stamp stays in your collection.",
+            "pl": "5 Single Scans and 2 Bulk Scans a month, with the full result for every stamp you scan. The stamp stays in your collection.",
+            "cs": "5 Single Scans and 2 Bulk Scans a month, with the full result for every stamp you scan. The stamp stays in your collection.",
+            "sk": "5 Single Scans and 2 Bulk Scans a month, with the full result for every stamp you scan. The stamp stays in your collection.",
+            "ro": "5 Single Scans and 2 Bulk Scans a month, with the full result for every stamp you scan. The stamp stays in your collection.",
+            "hu": "5 Single Scans and 2 Bulk Scans a month, with the full result for every stamp you scan. The stamp stays in your collection.",
+            "da": "5 Single Scans and 2 Bulk Scans a month, with the full result for every stamp you scan. The stamp stays in your collection."
+          }
+        },
+        {
+          "label": {
+            "en": "Premium",
+            "de": "Premium",
+            "fr": "Premium",
+            "it": "Premium",
+            "nl": "Premium",
+            "pl": "Premium",
+            "cs": "Premium",
+            "sk": "Premium",
+            "ro": "Premium",
+            "hu": "Premium",
+            "da": "Premium"
+          },
+          "value": {
+            "en": "One country catalogue to browse in full, unlimited Single Scans, 5 Bulk Scans a month",
+            "de": "Ein Länderkatalog vollständig zum Durchsehen, unbegrenzte Einzelscans, 5 Mehrfach-Scans im Monat",
+            "fr": "Un catalogue national consultable en entier, Scans individuels illimités, 5 Scans multiples par mois",
+            "it": "Un catalogo nazionale da consultare per intero, Scansioni singole illimitate, 5 Scansioni multiple al mese",
+            "nl": "One country catalogue to browse in full, unlimited Single Scans, 5 Bulk Scans a month",
+            "pl": "One country catalogue to browse in full, unlimited Single Scans, 5 Bulk Scans a month",
+            "cs": "One country catalogue to browse in full, unlimited Single Scans, 5 Bulk Scans a month",
+            "sk": "One country catalogue to browse in full, unlimited Single Scans, 5 Bulk Scans a month",
+            "ro": "One country catalogue to browse in full, unlimited Single Scans, 5 Bulk Scans a month",
+            "hu": "One country catalogue to browse in full, unlimited Single Scans, 5 Bulk Scans a month",
+            "da": "One country catalogue to browse in full, unlimited Single Scans, 5 Bulk Scans a month"
+          }
+        },
+        {
+          "label": {
+            "en": "Professional",
+            "de": "Professional",
+            "fr": "Professional",
+            "it": "Professional",
+            "nl": "Professional",
+            "pl": "Professional",
+            "cs": "Professional",
+            "sk": "Professional",
+            "ro": "Professional",
+            "hu": "Professional",
+            "da": "Professional"
+          },
+          "value": {
+            "en": "All catalogues, unlimited Bulk Scans, export of the collection to Excel or CSV",
+            "de": "Alle Kataloge, unbegrenzte Mehrfach-Scans, Export der Sammlung nach Excel oder CSV",
+            "fr": "Tous les catalogues, Scans multiples illimités, export de la collection vers Excel ou CSV",
+            "it": "Tutti i cataloghi, Scansioni multiple illimitate, esportazione della collezione in Excel o CSV",
+            "nl": "All catalogues, unlimited Bulk Scans, export of the collection to Excel or CSV",
+            "pl": "All catalogues, unlimited Bulk Scans, export of the collection to Excel or CSV",
+            "cs": "All catalogues, unlimited Bulk Scans, export of the collection to Excel or CSV",
+            "sk": "All catalogues, unlimited Bulk Scans, export of the collection to Excel or CSV",
+            "ro": "All catalogues, unlimited Bulk Scans, export of the collection to Excel or CSV",
+            "hu": "All catalogues, unlimited Bulk Scans, export of the collection to Excel or CSV",
+            "da": "All catalogues, unlimited Bulk Scans, export of the collection to Excel or CSV"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "Plans",
+        "de": "Tarife",
+        "fr": "Formules",
+        "it": "Abbonamenti",
+        "nl": "Plans",
+        "pl": "Plans",
+        "cs": "Plans",
+        "sk": "Plans",
+        "ro": "Plans",
+        "hu": "Plans",
+        "da": "Plans"
+      },
+      "title": {
+        "en": "Free, Premium and Professional",
+        "de": "Gratis, Premium und Professional",
+        "fr": "Formule gratuite, Premium et Professional",
+        "it": "Gratis, Premium e Professional",
+        "nl": "Free, Premium and Professional",
+        "pl": "Free, Premium and Professional",
+        "cs": "Free, Premium and Professional",
+        "sk": "Free, Premium and Professional",
+        "ro": "Free, Premium and Professional",
+        "hu": "Free, Premium and Professional",
+        "da": "Free, Premium and Professional"
+      }
+    },
+    {
+      "id": "younger",
+      "type": "text",
+      "label": {
+        "en": "The next collectors",
+        "de": "Die nächsten Sammler",
+        "fr": "Les futurs collectionneurs",
+        "it": "I prossimi collezionisti",
+        "nl": "The next collectors",
+        "pl": "The next collectors",
+        "cs": "The next collectors",
+        "sk": "The next collectors",
+        "ro": "The next collectors",
+        "hu": "The next collectors",
+        "da": "The next collectors"
+      },
+      "title": {
+        "en": "Younger people and the hobby",
+        "de": "Jüngere Leute und das Hobby",
+        "fr": "Les jeunes et la philatélie",
+        "it": "Giovani e collezionismo",
+        "nl": "Younger people and the hobby",
+        "pl": "Younger people and the hobby",
+        "cs": "Younger people and the hobby",
+        "sk": "Younger people and the hobby",
+        "ro": "Younger people and the hobby",
+        "hu": "Younger people and the hobby",
+        "da": "Younger people and the hobby"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/36c4e0fde0f12987/ulm-stand-kindergarten.jpg",
+          "width": 1500,
+          "height": 2000,
+          "caption": {
+            "en": "The 2015 kindergarten stamp on our screen",
+            "de": "Die Kindergarten-Marke von 2015 auf unserem Bildschirm",
+            "fr": "Le timbre de 2015 consacré au jardin d'enfants, sur notre écran",
+            "it": "Il francobollo del 2015 dedicato al giardino d'infanzia, sul nostro schermo",
+            "nl": "The 2015 kindergarten stamp on our screen",
+            "pl": "The 2015 kindergarten stamp on our screen",
+            "cs": "The 2015 kindergarten stamp on our screen",
+            "sk": "The 2015 kindergarten stamp on our screen",
+            "ro": "The 2015 kindergarten stamp on our screen",
+            "hu": "The 2015 kindergarten stamp on our screen",
+            "da": "The 2015 kindergarten stamp on our screen"
+          }
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "Almost all of our visitors were men over 60. Many of them brought up the same subject, which was how the hobby can reach younger people. One dealer asked us directly whether it is still worth buying stock, or whether collecting will die out.",
+          "de": "Fast alle unsere Besucher waren Männer über 60. Viele von ihnen sprachen dasselbe Thema an: wie das Hobby jüngere Leute erreichen kann. Ein Händler fragte uns direkt, ob sich der Ankauf von Ware noch lohnt oder ob das Sammeln ausstirbt.",
+          "fr": "Presque tous nos visiteurs étaient des hommes de plus de 60 ans. Beaucoup ont abordé le même sujet : comment la philatélie peut toucher les jeunes. Un marchand nous a demandé directement s'il valait encore la peine d'acheter du stock, ou si la collection de timbres allait disparaître.",
+          "it": "Quasi tutti i nostri visitatori erano uomini sopra i 60 anni. Molti hanno sollevato lo stesso tema: come avvicinare i giovani a questo hobby. Un commerciante ci ha chiesto apertamente se conviene ancora acquistare merce, o se il collezionismo è destinato a sparire.",
+          "nl": "Almost all of our visitors were men over 60. Many of them brought up the same subject, which was how the hobby can reach younger people. One dealer asked us directly whether it is still worth buying stock, or whether collecting will die out.",
+          "pl": "Almost all of our visitors were men over 60. Many of them brought up the same subject, which was how the hobby can reach younger people. One dealer asked us directly whether it is still worth buying stock, or whether collecting will die out.",
+          "cs": "Almost all of our visitors were men over 60. Many of them brought up the same subject, which was how the hobby can reach younger people. One dealer asked us directly whether it is still worth buying stock, or whether collecting will die out.",
+          "sk": "Almost all of our visitors were men over 60. Many of them brought up the same subject, which was how the hobby can reach younger people. One dealer asked us directly whether it is still worth buying stock, or whether collecting will die out.",
+          "ro": "Almost all of our visitors were men over 60. Many of them brought up the same subject, which was how the hobby can reach younger people. One dealer asked us directly whether it is still worth buying stock, or whether collecting will die out.",
+          "hu": "Almost all of our visitors were men over 60. Many of them brought up the same subject, which was how the hobby can reach younger people. One dealer asked us directly whether it is still worth buying stock, or whether collecting will die out.",
+          "da": "Almost all of our visitors were men over 60. Many of them brought up the same subject, which was how the hobby can reach younger people. One dealer asked us directly whether it is still worth buying stock, or whether collecting will die out."
+        },
+        {
+          "en": "The team of the youth stand, which was open all three days, came over to see the app. For a beginner the first step in StampIQ is a photo: someone who gets a few stamps from a friend or a club sees what each stamp is without looking anything up. StampIQ can be used from 13. Younger children can use it with a parent's consent, with some features switched off.",
+          "de": "Das Team vom Jugendstand, der an allen drei Tagen geöffnet war, kam zu uns an den Stand, um sich die App anzusehen. Für Anfänger ist der erste Schritt in StampIQ ein Foto: Wer ein paar Marken von einem Freund oder aus dem Verein bekommt, sieht zu jeder Marke, was sie ist, ohne etwas nachzuschlagen. Anmelden kann man sich ab 13. Jüngere Kinder brauchen die Zustimmung eines Elternteils, dann sind einige Funktionen abgeschaltet.",
+          "fr": "L'équipe du stand jeunesse, ouvert les trois jours, est venue voir l'application. Pour un débutant, la première étape dans StampIQ est une photo : quelqu'un qui reçoit quelques timbres d'un ami ou d'un club voit de quel timbre il s'agit, sans rien chercher ailleurs. StampIQ s'utilise à partir de 13 ans. Les enfants plus jeunes peuvent l'utiliser avec l'accord d'un parent. Certaines fonctionnalités sont alors désactivées.",
+          "it": "Il team dello stand per i giovani, aperto tutti e tre i giorni, è venuto a vedere l'app. Per chi inizia, il primo passo in StampIQ è una foto: chi riceve qualche francobollo da un amico o da un circolo vede di che francobollo si tratta, senza cercare nulla. StampIQ si può usare dai 13 anni. I bambini più piccoli possono usarlo con il consenso di un genitore. In questo caso alcune funzionalità sono disattivate.",
+          "nl": "The team of the youth stand, which was open all three days, came over to see the app. For a beginner the first step in StampIQ is a photo: someone who gets a few stamps from a friend or a club sees what each stamp is without looking anything up. StampIQ can be used from 13. Younger children can use it with a parent's consent, with some features switched off.",
+          "pl": "The team of the youth stand, which was open all three days, came over to see the app. For a beginner the first step in StampIQ is a photo: someone who gets a few stamps from a friend or a club sees what each stamp is without looking anything up. StampIQ can be used from 13. Younger children can use it with a parent's consent, with some features switched off.",
+          "cs": "The team of the youth stand, which was open all three days, came over to see the app. For a beginner the first step in StampIQ is a photo: someone who gets a few stamps from a friend or a club sees what each stamp is without looking anything up. StampIQ can be used from 13. Younger children can use it with a parent's consent, with some features switched off.",
+          "sk": "The team of the youth stand, which was open all three days, came over to see the app. For a beginner the first step in StampIQ is a photo: someone who gets a few stamps from a friend or a club sees what each stamp is without looking anything up. StampIQ can be used from 13. Younger children can use it with a parent's consent, with some features switched off.",
+          "ro": "The team of the youth stand, which was open all three days, came over to see the app. For a beginner the first step in StampIQ is a photo: someone who gets a few stamps from a friend or a club sees what each stamp is without looking anything up. StampIQ can be used from 13. Younger children can use it with a parent's consent, with some features switched off.",
+          "hu": "The team of the youth stand, which was open all three days, came over to see the app. For a beginner the first step in StampIQ is a photo: someone who gets a few stamps from a friend or a club sees what each stamp is without looking anything up. StampIQ can be used from 13. Younger children can use it with a parent's consent, with some features switched off.",
+          "da": "The team of the youth stand, which was open all three days, came over to see the app. For a beginner the first step in StampIQ is a photo: someone who gets a few stamps from a friend or a club sees what each stamp is without looking anything up. StampIQ can be used from 13. Younger children can use it with a parent's consent, with some features switched off."
+        },
+        {
+          "en": "One of the stamps on our screen fitted the subject well. It was the German 215-cent stamp of 2015 for 175 years of the first kindergarten in Germany, which Friedrich Fröbel opened in Bad Blankenburg in 1840. The stamp shows children in a handcart.",
+          "de": "Eine Briefmarke auf unserem Bildschirm passte gut zum Thema: die deutsche 215-Cent-Marke von 2015 zum 175. Jubiläum des ersten Kindergartens in Deutschland, den Friedrich Fröbel 1840 in Bad Blankenburg eröffnete. Sie zeigt Kinder in einem Bollerwagen.",
+          "fr": "Un des timbres affichés sur notre écran allait bien avec le sujet : le timbre allemand à 215 cents de 2015 pour les 175 ans du premier jardin d'enfants en Allemagne, que Friedrich Fröbel a ouvert à Bad Blankenburg en 1840. Le timbre montre des enfants dans une charrette à bras.",
+          "it": "Uno dei francobolli sul nostro schermo si adattava bene al tema: l'emissione tedesca da 215 centesimi del 2015 per i 175 anni del primo giardino d'infanzia in Germania, aperto da Friedrich Fröbel a Bad Blankenburg nel 1840. L'immagine mostra dei bambini su un carretto.",
+          "nl": "One of the stamps on our screen fitted the subject well. It was the German 215-cent stamp of 2015 for 175 years of the first kindergarten in Germany, which Friedrich Fröbel opened in Bad Blankenburg in 1840. The stamp shows children in a handcart.",
+          "pl": "One of the stamps on our screen fitted the subject well. It was the German 215-cent stamp of 2015 for 175 years of the first kindergarten in Germany, which Friedrich Fröbel opened in Bad Blankenburg in 1840. The stamp shows children in a handcart.",
+          "cs": "One of the stamps on our screen fitted the subject well. It was the German 215-cent stamp of 2015 for 175 years of the first kindergarten in Germany, which Friedrich Fröbel opened in Bad Blankenburg in 1840. The stamp shows children in a handcart.",
+          "sk": "One of the stamps on our screen fitted the subject well. It was the German 215-cent stamp of 2015 for 175 years of the first kindergarten in Germany, which Friedrich Fröbel opened in Bad Blankenburg in 1840. The stamp shows children in a handcart.",
+          "ro": "One of the stamps on our screen fitted the subject well. It was the German 215-cent stamp of 2015 for 175 years of the first kindergarten in Germany, which Friedrich Fröbel opened in Bad Blankenburg in 1840. The stamp shows children in a handcart.",
+          "hu": "One of the stamps on our screen fitted the subject well. It was the German 215-cent stamp of 2015 for 175 years of the first kindergarten in Germany, which Friedrich Fröbel opened in Bad Blankenburg in 1840. The stamp shows children in a handcart.",
+          "da": "One of the stamps on our screen fitted the subject well. It was the German 215-cent stamp of 2015 for 175 years of the first kindergarten in Germany, which Friedrich Fröbel opened in Bad Blankenburg in 1840. The stamp shows children in a handcart."
+        }
+      ]
+    },
+    {
+      "id": "requests",
+      "type": "text",
+      "label": {
+        "en": "Next in the app",
+        "de": "Als Nächstes in der App",
+        "fr": "Prochainement dans l'application",
+        "it": "Prossimamente nell'app",
+        "nl": "Next in the app",
+        "pl": "Next in the app",
+        "cs": "Next in the app",
+        "sk": "Next in the app",
+        "ro": "Next in the app",
+        "hu": "Next in the app",
+        "da": "Next in the app"
+      },
+      "title": {
+        "en": "What visitors asked for",
+        "de": "Was sich Besucher gewünscht haben",
+        "fr": "Ce que les visiteurs ont demandé",
+        "it": "Le richieste dei visitatori",
+        "nl": "What visitors asked for",
+        "pl": "What visitors asked for",
+        "cs": "What visitors asked for",
+        "sk": "What visitors asked for",
+        "ro": "What visitors asked for",
+        "hu": "What visitors asked for",
+        "da": "What visitors asked for"
+      },
+      "paragraphs": [
+        {
+          "en": "Several visitors told us what they are missing in the app. We will build these features, though we have no date for them yet.",
+          "de": "Mehrere Besucher haben uns gesagt, was ihnen in der App fehlt. Diese Funktionen werden wir einbauen, einen Termin dafür haben wir noch nicht.",
+          "fr": "Plusieurs visiteurs nous ont dit ce qui leur manquait dans l'application. Nous allons développer ces fonctionnalités, sans date pour l'instant.",
+          "it": "Diversi visitatori ci hanno detto cosa manca nell'app. Svilupperemo queste funzionalità, anche se non abbiamo ancora una data.",
+          "nl": "Several visitors told us what they are missing in the app. We will build these features, though we have no date for them yet.",
+          "pl": "Several visitors told us what they are missing in the app. We will build these features, though we have no date for them yet.",
+          "cs": "Several visitors told us what they are missing in the app. We will build these features, though we have no date for them yet.",
+          "sk": "Several visitors told us what they are missing in the app. We will build these features, though we have no date for them yet.",
+          "ro": "Several visitors told us what they are missing in the app. We will build these features, though we have no date for them yet.",
+          "hu": "Several visitors told us what they are missing in the app. We will build these features, though we have no date for them yet.",
+          "da": "Several visitors told us what they are missing in the app. We will build these features, though we have no date for them yet."
+        },
+        {
+          "en": "In a Bulk Scan, visitors want to see the total value of the whole page next to the value of each stamp. Others want to ask Sigi for every stamp in the catalogue that shows a certain motif. Collectors of covers and letters asked for a place for them in the collection, next to their stamps.",
+          "de": "Beim Mehrfach-Scan wollen Besucher neben dem Wert jeder einzelnen Marke auch den Gesamtwert der ganzen Seite sehen. Andere möchten Sigi nach allen Briefmarken im Katalog fragen, die ein bestimmtes Motiv zeigen. Sammler von Belegen und Briefen wünschen sich einen Platz dafür in der Sammlung, neben ihren Marken.",
+          "fr": "Dans un Scan multiple, les visiteurs veulent voir la valeur totale de toute la page à côté de la valeur de chaque timbre. D'autres veulent pouvoir demander à Sigi quels timbres du catalogue montrent un motif précis. Les collectionneurs de plis et de lettres ont demandé une place pour ces pièces dans la collection, à côté de leurs timbres.",
+          "it": "Nella Scansione multipla i visitatori vogliono vedere il valore totale dell'intera pagina accanto al valore di ogni singolo francobollo. Altri vorrebbero chiedere a Sigi quali francobolli del catalogo hanno un certo soggetto. Chi colleziona buste e lettere ha chiesto uno spazio dedicato nella collezione, accanto ai francobolli.",
+          "nl": "In a Bulk Scan, visitors want to see the total value of the whole page next to the value of each stamp. Others want to ask Sigi for every stamp in the catalogue that shows a certain motif. Collectors of covers and letters asked for a place for them in the collection, next to their stamps.",
+          "pl": "In a Bulk Scan, visitors want to see the total value of the whole page next to the value of each stamp. Others want to ask Sigi for every stamp in the catalogue that shows a certain motif. Collectors of covers and letters asked for a place for them in the collection, next to their stamps.",
+          "cs": "In a Bulk Scan, visitors want to see the total value of the whole page next to the value of each stamp. Others want to ask Sigi for every stamp in the catalogue that shows a certain motif. Collectors of covers and letters asked for a place for them in the collection, next to their stamps.",
+          "sk": "In a Bulk Scan, visitors want to see the total value of the whole page next to the value of each stamp. Others want to ask Sigi for every stamp in the catalogue that shows a certain motif. Collectors of covers and letters asked for a place for them in the collection, next to their stamps.",
+          "ro": "In a Bulk Scan, visitors want to see the total value of the whole page next to the value of each stamp. Others want to ask Sigi for every stamp in the catalogue that shows a certain motif. Collectors of covers and letters asked for a place for them in the collection, next to their stamps.",
+          "hu": "In a Bulk Scan, visitors want to see the total value of the whole page next to the value of each stamp. Others want to ask Sigi for every stamp in the catalogue that shows a certain motif. Collectors of covers and letters asked for a place for them in the collection, next to their stamps.",
+          "da": "In a Bulk Scan, visitors want to see the total value of the whole page next to the value of each stamp. Others want to ask Sigi for every stamp in the catalogue that shows a certain motif. Collectors of covers and letters asked for a place for them in the collection, next to their stamps."
+        },
+        {
+          "en": "Some visitors asked for a summary of the collection with its value that they can give to their insurer. Professional already exports the collection to Excel or CSV with the values, as a table without stamp images. We will add a PDF summary with the images, which can go to the insurer as it is.",
+          "de": "Einige Besucher haben nach einer Übersicht der Sammlung mit ihrem Wert gefragt, die sie der Versicherung geben können. Mit Professional lässt sich die Sammlung schon heute mit den Werten nach Excel oder CSV exportieren, als Tabelle ohne Markenbilder. Wir ergänzen eine PDF-Übersicht mit den Bildern, die sich so an die Versicherung schicken lässt.",
+          "fr": "Certains visiteurs ont demandé un récapitulatif de la collection avec sa valeur, à remettre à leur assurance. Professional permet déjà d'exporter la collection vers Excel ou CSV avec les valeurs, sous forme de tableau, sans images des timbres. Nous ajouterons un récapitulatif PDF avec les images, qui pourra être envoyé tel quel à l'assurance.",
+          "it": "Alcuni visitatori hanno chiesto un riepilogo della collezione con il suo valore da consegnare all'assicurazione. Professional esporta già la collezione con i valori in Excel o CSV, una tabella senza le immagini dei francobolli. Aggiungeremo un riepilogo in PDF con le immagini, da inviare così com'è all'assicurazione.",
+          "nl": "Some visitors asked for a summary of the collection with its value that they can give to their insurer. Professional already exports the collection to Excel or CSV with the values, as a table without stamp images. We will add a PDF summary with the images, which can go to the insurer as it is.",
+          "pl": "Some visitors asked for a summary of the collection with its value that they can give to their insurer. Professional already exports the collection to Excel or CSV with the values, as a table without stamp images. We will add a PDF summary with the images, which can go to the insurer as it is.",
+          "cs": "Some visitors asked for a summary of the collection with its value that they can give to their insurer. Professional already exports the collection to Excel or CSV with the values, as a table without stamp images. We will add a PDF summary with the images, which can go to the insurer as it is.",
+          "sk": "Some visitors asked for a summary of the collection with its value that they can give to their insurer. Professional already exports the collection to Excel or CSV with the values, as a table without stamp images. We will add a PDF summary with the images, which can go to the insurer as it is.",
+          "ro": "Some visitors asked for a summary of the collection with its value that they can give to their insurer. Professional already exports the collection to Excel or CSV with the values, as a table without stamp images. We will add a PDF summary with the images, which can go to the insurer as it is.",
+          "hu": "Some visitors asked for a summary of the collection with its value that they can give to their insurer. Professional already exports the collection to Excel or CSV with the values, as a table without stamp images. We will add a PDF summary with the images, which can go to the insurer as it is.",
+          "da": "Some visitors asked for a summary of the collection with its value that they can give to their insurer. Professional already exports the collection to Excel or CSV with the values, as a table without stamp images. We will add a PDF summary with the images, which can go to the insurer as it is."
+        }
+      ]
+    },
+    {
+      "id": "next-fairs",
+      "rows": [
+        {
+          "label": {
+            "en": "ÖVEBRIA, St. Pölten",
+            "de": "ÖVEBRIA, St. Pölten",
+            "fr": "ÖVEBRIA, St. Pölten",
+            "it": "ÖVEBRIA, St. Pölten",
+            "nl": "ÖVEBRIA, St. Pölten",
+            "pl": "ÖVEBRIA, St. Pölten",
+            "cs": "ÖVEBRIA, St. Pölten",
+            "sk": "ÖVEBRIA, St. Pölten",
+            "ro": "ÖVEBRIA, St. Pölten",
+            "hu": "ÖVEBRIA, St. Pölten",
+            "da": "ÖVEBRIA, St. Pölten"
+          },
+          "value": {
+            "en": "29 to 31 October 2026, Jahnturnhalle",
+            "de": "29. bis 31. Oktober 2026, Jahnturnhalle",
+            "fr": "Du 29 au 31 octobre 2026, Jahnturnhalle",
+            "it": "Dal 29 al 31 ottobre 2026, Jahnturnhalle",
+            "nl": "29 to 31 October 2026, Jahnturnhalle",
+            "pl": "29 to 31 October 2026, Jahnturnhalle",
+            "cs": "29 to 31 October 2026, Jahnturnhalle",
+            "sk": "29 to 31 October 2026, Jahnturnhalle",
+            "ro": "29 to 31 October 2026, Jahnturnhalle",
+            "hu": "29 to 31 October 2026, Jahnturnhalle",
+            "da": "29 to 31 October 2026, Jahnturnhalle"
+          }
+        },
+        {
+          "label": {
+            "en": "Opening times",
+            "de": "Öffnungszeiten",
+            "fr": "Horaires",
+            "it": "Orari",
+            "nl": "Opening times",
+            "pl": "Opening times",
+            "cs": "Opening times",
+            "sk": "Opening times",
+            "ro": "Opening times",
+            "hu": "Opening times",
+            "da": "Opening times"
+          },
+          "value": {
+            "en": "Thursday and Friday 09:00 to 17:00, Saturday 09:00 to 13:00",
+            "de": "Donnerstag und Freitag 9 bis 17 Uhr, Samstag 9 bis 13 Uhr",
+            "fr": "Jeudi et vendredi de 9 h à 17 h, samedi de 9 h à 13 h",
+            "it": "Giovedì e venerdì dalle 09:00 alle 17:00, sabato dalle 09:00 alle 13:00",
+            "nl": "Thursday and Friday 09:00 to 17:00, Saturday 09:00 to 13:00",
+            "pl": "Thursday and Friday 09:00 to 17:00, Saturday 09:00 to 13:00",
+            "cs": "Thursday and Friday 09:00 to 17:00, Saturday 09:00 to 13:00",
+            "sk": "Thursday and Friday 09:00 to 17:00, Saturday 09:00 to 13:00",
+            "ro": "Thursday and Friday 09:00 to 17:00, Saturday 09:00 to 13:00",
+            "hu": "Thursday and Friday 09:00 to 17:00, Saturday 09:00 to 13:00",
+            "da": "Thursday and Friday 09:00 to 17:00, Saturday 09:00 to 13:00"
+          }
+        },
+        {
+          "label": {
+            "en": "Presentations",
+            "de": "Vorträge",
+            "fr": "Présentations",
+            "it": "Presentazioni",
+            "nl": "Presentations",
+            "pl": "Presentations",
+            "cs": "Presentations",
+            "sk": "Presentations",
+            "ro": "Presentations",
+            "hu": "Presentations",
+            "da": "Presentations"
+          },
+          "value": {
+            "en": "Thursday 11:30, Friday 11:00 and Saturday 11:00, about 20 minutes each",
+            "de": "Donnerstag 11:30 Uhr, Freitag 11:00 Uhr und Samstag 11:00 Uhr, je etwa 20 Minuten",
+            "fr": "Jeudi à 11 h 30, vendredi à 11 h et samedi à 11 h, environ 20 minutes chacune",
+            "it": "Giovedì alle 11:30, venerdì alle 11:00 e sabato alle 11:00, circa 20 minuti ciascuna",
+            "nl": "Thursday 11:30, Friday 11:00 and Saturday 11:00, about 20 minutes each",
+            "pl": "Thursday 11:30, Friday 11:00 and Saturday 11:00, about 20 minutes each",
+            "cs": "Thursday 11:30, Friday 11:00 and Saturday 11:00, about 20 minutes each",
+            "sk": "Thursday 11:30, Friday 11:00 and Saturday 11:00, about 20 minutes each",
+            "ro": "Thursday 11:30, Friday 11:00 and Saturday 11:00, about 20 minutes each",
+            "hu": "Thursday 11:30, Friday 11:00 and Saturday 11:00, about 20 minutes each",
+            "da": "Thursday 11:30, Friday 11:00 and Saturday 11:00, about 20 minutes each"
+          }
+        },
+        {
+          "label": {
+            "en": "PhilaBrig 26, Brig",
+            "de": "PhilaBrig 26, Brig",
+            "fr": "PhilaBrig 26, Brigue",
+            "it": "PhilaBrig 26, Briga",
+            "nl": "PhilaBrig 26, Brig",
+            "pl": "PhilaBrig 26, Brig",
+            "cs": "PhilaBrig 26, Brig",
+            "sk": "PhilaBrig 26, Brig",
+            "ro": "PhilaBrig 26, Brig",
+            "hu": "PhilaBrig 26, Brig",
+            "da": "PhilaBrig 26, Brig"
+          },
+          "value": {
+            "en": "19 to 21 November 2026, Simplonhalle",
+            "de": "19. bis 21. November 2026, Simplonhalle",
+            "fr": "Du 19 au 21 novembre 2026, Simplonhalle",
+            "it": "Dal 19 al 21 novembre 2026, Simplonhalle",
+            "nl": "19 to 21 November 2026, Simplonhalle",
+            "pl": "19 to 21 November 2026, Simplonhalle",
+            "cs": "19 to 21 November 2026, Simplonhalle",
+            "sk": "19 to 21 November 2026, Simplonhalle",
+            "ro": "19 to 21 November 2026, Simplonhalle",
+            "hu": "19 to 21 November 2026, Simplonhalle",
+            "da": "19 to 21 November 2026, Simplonhalle"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "Next fairs",
+        "de": "Nächste Messen",
+        "fr": "Prochains salons",
+        "it": "Prossime fiere",
+        "nl": "Next fairs",
+        "pl": "Next fairs",
+        "cs": "Next fairs",
+        "sk": "Next fairs",
+        "ro": "Next fairs",
+        "hu": "Next fairs",
+        "da": "Next fairs"
+      },
+      "title": {
+        "en": "St. Pölten and Brig",
+        "de": "St. Pölten und Brig",
+        "fr": "St. Pölten et Brigue",
+        "it": "St. Pölten e Briga",
+        "nl": "St. Pölten and Brig",
+        "pl": "St. Pölten and Brig",
+        "cs": "St. Pölten and Brig",
+        "sk": "St. Pölten and Brig",
+        "ro": "St. Pölten and Brig",
+        "hu": "St. Pölten and Brig",
+        "da": "St. Pölten and Brig"
+      }
+    }
+  ]
+}

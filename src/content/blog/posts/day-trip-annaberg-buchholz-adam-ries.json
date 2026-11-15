@@ -1,0 +1,1245 @@
+{
+  "category": "day-trips",
+  "markets": [
+    "CH",
+    "LI",
+    "DE",
+    "AT"
+  ],
+  "langs": [
+    "en",
+    "de",
+    "fr",
+    "it"
+  ],
+  "published_at": "2026-11-06T08:00:00+00:00",
+  "thumbnail": {
+    "src": "https://assets.stampiq.io/blog/613bc862ca096331/annaberg-st-annen-town.jpg",
+    "width": 2400,
+    "height": 1157
+  },
+  "languages": {
+    "en": {
+      "slug": "day-trip-annaberg-buchholz-adam-ries",
+      "title": "Day trip: Adam Ries in Annaberg-Buchholz",
+      "description": "A 1992 stamp carries the handwriting of Adam Ries. It leads to his house in Annaberg-Buchholz, now a museum, and to a silver mine under the old town."
+    },
+    "de": {
+      "slug": "tagesausflug-annaberg-buchholz-adam-ries",
+      "title": "Tagesausflug: Adam Ries in Annaberg-Buchholz",
+      "description": "Eine Marke von 1992 zeigt Adam Ries' Handschrift. Sie führt zu seinem Haus in Annaberg-Buchholz, heute Museum, und in ein Silberbergwerk unter der Altstadt."
+    },
+    "fr": {
+      "slug": "excursion-annaberg-buchholz-adam-ries",
+      "title": "Excursion : Adam Ries à Annaberg-Buchholz",
+      "description": "Un timbre de 1992 reproduit l'écriture d'Adam Ries. Il mène à sa maison d'Annaberg-Buchholz, aujourd'hui musée, et à une mine d'argent sous la vieille ville."
+    },
+    "it": {
+      "slug": "gita-annaberg-buchholz-adam-ries",
+      "title": "Gita di un giorno: Adam Ries ad Annaberg-Buchholz",
+      "description": "Un francobollo del 1992 porta la calligrafia di Adam Ries. Conduce alla sua casa-museo ad Annaberg-Buchholz e alla miniera d'argento sotto il centro storico."
+    },
+    "nl": {
+      "slug": "day-trip-annaberg-buchholz-adam-ries",
+      "title": "Day trip: Adam Ries in Annaberg-Buchholz",
+      "description": "A 1992 stamp carries the handwriting of Adam Ries. It leads to his house in Annaberg-Buchholz, now a museum, and to a silver mine under the old town."
+    },
+    "pl": {
+      "slug": "day-trip-annaberg-buchholz-adam-ries",
+      "title": "Day trip: Adam Ries in Annaberg-Buchholz",
+      "description": "A 1992 stamp carries the handwriting of Adam Ries. It leads to his house in Annaberg-Buchholz, now a museum, and to a silver mine under the old town."
+    },
+    "cs": {
+      "slug": "day-trip-annaberg-buchholz-adam-ries",
+      "title": "Day trip: Adam Ries in Annaberg-Buchholz",
+      "description": "A 1992 stamp carries the handwriting of Adam Ries. It leads to his house in Annaberg-Buchholz, now a museum, and to a silver mine under the old town."
+    },
+    "sk": {
+      "slug": "day-trip-annaberg-buchholz-adam-ries",
+      "title": "Day trip: Adam Ries in Annaberg-Buchholz",
+      "description": "A 1992 stamp carries the handwriting of Adam Ries. It leads to his house in Annaberg-Buchholz, now a museum, and to a silver mine under the old town."
+    },
+    "ro": {
+      "slug": "day-trip-annaberg-buchholz-adam-ries",
+      "title": "Day trip: Adam Ries in Annaberg-Buchholz",
+      "description": "A 1992 stamp carries the handwriting of Adam Ries. It leads to his house in Annaberg-Buchholz, now a museum, and to a silver mine under the old town."
+    },
+    "hu": {
+      "slug": "day-trip-annaberg-buchholz-adam-ries",
+      "title": "Day trip: Adam Ries in Annaberg-Buchholz",
+      "description": "A 1992 stamp carries the handwriting of Adam Ries. It leads to his house in Annaberg-Buchholz, now a museum, and to a silver mine under the old town."
+    },
+    "da": {
+      "slug": "day-trip-annaberg-buchholz-adam-ries",
+      "title": "Day trip: Adam Ries in Annaberg-Buchholz",
+      "description": "A 1992 stamp carries the handwriting of Adam Ries. It leads to his house in Annaberg-Buchholz, now a museum, and to a silver mine under the old town."
+    }
+  },
+  "header": {
+    "lead": {
+      "en": "Adam Ries taught apprentices and traders to reckon in German, with counters on ruled lines. In Annaberg he worked out for the town how heavy the 6-Pfennig loaf had to be at each grain price.",
+      "de": "Adam Ries brachte Lehrjungen und Kaufleuten das Rechnen auf Deutsch bei, mit Rechenpfennigen auf gezogenen Linien. In Annaberg rechnete er für die Stadt aus, wie schwer das 6-Pfennig-Brot bei jedem Getreidepreis sein musste.",
+      "fr": "Adam Ries a appris aux apprentis et aux marchands à calculer en allemand, avec des jetons posés sur des lignes tracées. À Annaberg, il a calculé pour la ville le poids que devait avoir le pain à 6 Pfennig selon le prix du grain.",
+      "it": "Adam Ries insegnava ad apprendisti e mercanti a fare i conti in tedesco, con gettoni posati su linee tracciate. Ad Annaberg calcolò per la città quanto doveva pesare la pagnotta da 6 Pfennig per ogni prezzo del grano.",
+      "nl": "Adam Ries taught apprentices and traders to reckon in German, with counters on ruled lines. In Annaberg he worked out for the town how heavy the 6-Pfennig loaf had to be at each grain price.",
+      "pl": "Adam Ries taught apprentices and traders to reckon in German, with counters on ruled lines. In Annaberg he worked out for the town how heavy the 6-Pfennig loaf had to be at each grain price.",
+      "cs": "Adam Ries taught apprentices and traders to reckon in German, with counters on ruled lines. In Annaberg he worked out for the town how heavy the 6-Pfennig loaf had to be at each grain price.",
+      "sk": "Adam Ries taught apprentices and traders to reckon in German, with counters on ruled lines. In Annaberg he worked out for the town how heavy the 6-Pfennig loaf had to be at each grain price.",
+      "ro": "Adam Ries taught apprentices and traders to reckon in German, with counters on ruled lines. In Annaberg he worked out for the town how heavy the 6-Pfennig loaf had to be at each grain price.",
+      "hu": "Adam Ries taught apprentices and traders to reckon in German, with counters on ruled lines. In Annaberg he worked out for the town how heavy the 6-Pfennig loaf had to be at each grain price.",
+      "da": "Adam Ries taught apprentices and traders to reckon in German, with counters on ruled lines. In Annaberg he worked out for the town how heavy the 6-Pfennig loaf had to be at each grain price."
+    },
+    "visual": {
+      "type": "stamp",
+      "stamp": {
+        "name": {
+          "en": "Adam Riese, 500th Birth Anniversary",
+          "de": "Adam Riese, 500. Geburtstag",
+          "fr": "Adam Riese, 500e anniversaire de la naissance",
+          "it": "Adam Riese, 500° anniversario della nascita",
+          "nl": "Adam Riese, 500th Birth Anniversary",
+          "pl": "Adam Riese, 500th Birth Anniversary",
+          "cs": "Adam Riese, 500th Birth Anniversary",
+          "sk": "Adam Riese, 500th Birth Anniversary",
+          "ro": "Adam Riese, 500th Birth Anniversary",
+          "hu": "Adam Riese, 500th Birth Anniversary",
+          "da": "Adam Riese, 500th Birth Anniversary"
+        },
+        "year": 1992,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/09ee595fa91c7521/annaberg-stamp-adam-riese-1992.png",
+          "width": 1100,
+          "height": 673
+        },
+        "country": "DE",
+        "stamp_id": "SIQ-BRD-1992-025"
+      }
+    },
+    "location": "Annaberg-Buchholz, Saxony, Germany"
+  },
+  "blocks": [
+    {
+      "id": "bulk-scan",
+      "type": "text",
+      "label": {
+        "en": "In the app",
+        "de": "In der App",
+        "fr": "Dans l'app",
+        "it": "Nell'app",
+        "nl": "In the app",
+        "pl": "In the app",
+        "cs": "In the app",
+        "sk": "In the app",
+        "ro": "In the app",
+        "hu": "In the app",
+        "da": "In the app"
+      },
+      "title": {
+        "en": "An Adam Riese stamp on a stockbook page",
+        "de": "Eine Adam-Riese-Marke auf der Einsteckbuchseite",
+        "fr": "Un timbre Adam Riese sur une page de classeur",
+        "it": "Un francobollo di Adam Riese su una pagina di classificatore",
+        "nl": "An Adam Riese stamp on a stockbook page",
+        "pl": "An Adam Riese stamp on a stockbook page",
+        "cs": "An Adam Riese stamp on a stockbook page",
+        "sk": "An Adam Riese stamp on a stockbook page",
+        "ro": "An Adam Riese stamp on a stockbook page",
+        "hu": "An Adam Riese stamp on a stockbook page",
+        "da": "An Adam Riese stamp on a stockbook page"
+      },
+      "visual": {
+        "type": "phone",
+        "animation": {
+          "src": "https://assets.stampiq.io/blog/9701a1cc310cee4d/annaberg-buchholz.mp4",
+          "width": 960,
+          "height": 2080,
+          "poster": "https://assets.stampiq.io/blog/36aaa143d4f83177/annaberg-buchholz.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "A stockbook page of German stamps lies on the desk. One of them is a 100 Pfennig stamp with a large red cross of handwritten digits. Top left is a signature, \"Adam Ries\". The printed name on the same stamp reads ADAM RIESE. Where did the man with two spellings live?",
+          "de": "Auf dem Schreibtisch liegt eine Einsteckbuchseite mit deutschen Briefmarken. Eine davon ist eine 100-Pfennig-Marke mit einem großen roten Kreuz aus handgeschriebenen Ziffern. Oben links steht eine Unterschrift: „Adam Ries“. Der gedruckte Name auf derselben Marke lautet ADAM RIESE. Wo lebte der Mann mit den zwei Schreibweisen?",
+          "fr": "Une page de classeur de timbres allemands est posée sur le bureau. L'un d'eux est un timbre à 100 Pfennig barré d'une grande croix rouge faite de chiffres manuscrits. En haut à gauche, une signature : « Adam Ries ». Sur ce même timbre, le nom imprimé est ADAM RIESE. Où vivait cet homme au nom écrit de deux façons ?",
+          "it": "Sulla scrivania c'è una pagina di classificatore con francobolli tedeschi. Uno è un valore da 100 Pfennig con una grande croce rossa di cifre scritte a mano. In alto a sinistra una firma, \"Adam Ries\". Sullo stesso francobollo il nome stampato è ADAM RIESE. Dove viveva l'uomo con il nome scritto in due modi?",
+          "nl": "A stockbook page of German stamps lies on the desk. One of them is a 100 Pfennig stamp with a large red cross of handwritten digits. Top left is a signature, \"Adam Ries\". The printed name on the same stamp reads ADAM RIESE. Where did the man with two spellings live?",
+          "pl": "A stockbook page of German stamps lies on the desk. One of them is a 100 Pfennig stamp with a large red cross of handwritten digits. Top left is a signature, \"Adam Ries\". The printed name on the same stamp reads ADAM RIESE. Where did the man with two spellings live?",
+          "cs": "A stockbook page of German stamps lies on the desk. One of them is a 100 Pfennig stamp with a large red cross of handwritten digits. Top left is a signature, \"Adam Ries\". The printed name on the same stamp reads ADAM RIESE. Where did the man with two spellings live?",
+          "sk": "A stockbook page of German stamps lies on the desk. One of them is a 100 Pfennig stamp with a large red cross of handwritten digits. Top left is a signature, \"Adam Ries\". The printed name on the same stamp reads ADAM RIESE. Where did the man with two spellings live?",
+          "ro": "A stockbook page of German stamps lies on the desk. One of them is a 100 Pfennig stamp with a large red cross of handwritten digits. Top left is a signature, \"Adam Ries\". The printed name on the same stamp reads ADAM RIESE. Where did the man with two spellings live?",
+          "hu": "A stockbook page of German stamps lies on the desk. One of them is a 100 Pfennig stamp with a large red cross of handwritten digits. Top left is a signature, \"Adam Ries\". The printed name on the same stamp reads ADAM RIESE. Where did the man with two spellings live?",
+          "da": "A stockbook page of German stamps lies on the desk. One of them is a 100 Pfennig stamp with a large red cross of handwritten digits. Top left is a signature, \"Adam Ries\". The printed name on the same stamp reads ADAM RIESE. Where did the man with two spellings live?"
+        },
+        {
+          "en": "Bulk Scan takes the whole page in one photo. \"Bulk Scan Results\" shows the number of stamps under \"Total Detected\" and lists them as rows, each scan next to the stamp it matched. One of the rows reads Adam Riese, 1992.",
+          "de": "Der Mehrfach-Scan nimmt die ganze Seite in einem Foto auf. „Ergebnisse des Mehrfach-Scans“ zeigt unter „Insgesamt erkannt“ die Anzahl der Briefmarken und listet sie Zeile für Zeile auf, jeden Scan neben der Briefmarke, die dazu gefunden wurde. In einer Zeile steht Adam Riese, 1992.",
+          "fr": "Le scan multiple saisit toute la page en une seule photo. « Résultats du scan multiple » indique le nombre de timbres sous « Total détecté » et les présente en lignes, chaque scan à côté du timbre identifié. Sur l'une des lignes, on lit Adam Riese, 1992.",
+          "it": "La Scansione multipla riprende tutta la pagina in una sola foto. In \"Risultati della scansione multipla\" il numero dei francobolli compare sotto \"Totale rilevato\", poi segue l'elenco in righe, ogni scansione accanto al francobollo identificato. In una delle righe si legge Adam Riese, 1992.",
+          "nl": "Bulk Scan takes the whole page in one photo. \"Bulk Scan Results\" shows the number of stamps under \"Total Detected\" and lists them as rows, each scan next to the stamp it matched. One of the rows reads Adam Riese, 1992.",
+          "pl": "Bulk Scan takes the whole page in one photo. \"Bulk Scan Results\" shows the number of stamps under \"Total Detected\" and lists them as rows, each scan next to the stamp it matched. One of the rows reads Adam Riese, 1992.",
+          "cs": "Bulk Scan takes the whole page in one photo. \"Bulk Scan Results\" shows the number of stamps under \"Total Detected\" and lists them as rows, each scan next to the stamp it matched. One of the rows reads Adam Riese, 1992.",
+          "sk": "Bulk Scan takes the whole page in one photo. \"Bulk Scan Results\" shows the number of stamps under \"Total Detected\" and lists them as rows, each scan next to the stamp it matched. One of the rows reads Adam Riese, 1992.",
+          "ro": "Bulk Scan takes the whole page in one photo. \"Bulk Scan Results\" shows the number of stamps under \"Total Detected\" and lists them as rows, each scan next to the stamp it matched. One of the rows reads Adam Riese, 1992.",
+          "hu": "Bulk Scan takes the whole page in one photo. \"Bulk Scan Results\" shows the number of stamps under \"Total Detected\" and lists them as rows, each scan next to the stamp it matched. One of the rows reads Adam Riese, 1992.",
+          "da": "Bulk Scan takes the whole page in one photo. \"Bulk Scan Results\" shows the number of stamps under \"Total Detected\" and lists them as rows, each scan next to the stamp it matched. One of the rows reads Adam Riese, 1992."
+        },
+        {
+          "en": "Once the stamp is in the collection, \"Show on map\" on its details sends the pin to Annaberg-Buchholz in the Ore Mountains, the mining town where Ries lived.",
+          "de": "Sobald die Marke in der Sammlung ist, setzt „Auf Karte anzeigen“ in den Briefmarkendetails den Pin auf Annaberg-Buchholz im Erzgebirge, die Bergstadt, in der Ries lebte.",
+          "fr": "Une fois le timbre dans la collection, « Voir sur la carte », dans ses détails, pose l'épingle sur Annaberg-Buchholz, la ville minière des Monts Métallifères où vivait Ries.",
+          "it": "Quando il francobollo è nella collezione, \"Mostra sulla mappa\" nei dettagli del francobollo porta il segnaposto su Annaberg-Buchholz, nei Monti Metalliferi, la città mineraria dove visse Ries.",
+          "nl": "Once the stamp is in the collection, \"Show on map\" on its details sends the pin to Annaberg-Buchholz in the Ore Mountains, the mining town where Ries lived.",
+          "pl": "Once the stamp is in the collection, \"Show on map\" on its details sends the pin to Annaberg-Buchholz in the Ore Mountains, the mining town where Ries lived.",
+          "cs": "Once the stamp is in the collection, \"Show on map\" on its details sends the pin to Annaberg-Buchholz in the Ore Mountains, the mining town where Ries lived.",
+          "sk": "Once the stamp is in the collection, \"Show on map\" on its details sends the pin to Annaberg-Buchholz in the Ore Mountains, the mining town where Ries lived.",
+          "ro": "Once the stamp is in the collection, \"Show on map\" on its details sends the pin to Annaberg-Buchholz in the Ore Mountains, the mining town where Ries lived.",
+          "hu": "Once the stamp is in the collection, \"Show on map\" on its details sends the pin to Annaberg-Buchholz in the Ore Mountains, the mining town where Ries lived.",
+          "da": "Once the stamp is in the collection, \"Show on map\" on its details sends the pin to Annaberg-Buchholz in the Ore Mountains, the mining town where Ries lived."
+        }
+      ]
+    },
+    {
+      "id": "stamps",
+      "type": "text",
+      "label": {
+        "en": "The stamps",
+        "de": "Die Briefmarken",
+        "fr": "Les timbres",
+        "it": "I francobolli",
+        "nl": "The stamps",
+        "pl": "The stamps",
+        "cs": "The stamps",
+        "sk": "The stamps",
+        "ro": "The stamps",
+        "hu": "The stamps",
+        "da": "The stamps"
+      },
+      "title": {
+        "en": "Signature and Neunerprobe",
+        "de": "Unterschrift und Neunerprobe",
+        "fr": "Signature et preuve par neuf",
+        "it": "Firma e prova del nove",
+        "nl": "Signature and Neunerprobe",
+        "pl": "Signature and Neunerprobe",
+        "cs": "Signature and Neunerprobe",
+        "sk": "Signature and Neunerprobe",
+        "ro": "Signature and Neunerprobe",
+        "hu": "Signature and Neunerprobe",
+        "da": "Signature and Neunerprobe"
+      },
+      "visual": {
+        "type": "stamp",
+        "stamp": {
+          "name": {
+            "en": "Adam Riese, 400th Death Anniversary",
+            "de": "Adam Riese, 400. Todestag",
+            "fr": "Adam Riese, 400e anniversaire de la mort",
+            "it": "Adam Riese, 400° anniversario della morte",
+            "nl": "Adam Riese, 400th Death Anniversary",
+            "pl": "Adam Riese, 400th Death Anniversary",
+            "cs": "Adam Riese, 400th Death Anniversary",
+            "sk": "Adam Riese, 400th Death Anniversary",
+            "ro": "Adam Riese, 400th Death Anniversary",
+            "hu": "Adam Riese, 400th Death Anniversary",
+            "da": "Adam Riese, 400th Death Anniversary"
+          },
+          "year": 1959,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/7f1971b8a61f36aa/annaberg-stamp-adam-riese-1959.png",
+            "width": 1100,
+            "height": 940
+          },
+          "country": "DE",
+          "stamp_id": "SIQ-BRD-1959-002"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "Harry Scheuner designed the stamp, which the Deutsche Bundespost issued on 7 May 1992 for Ries's 500th birthday. The signature and the red cross are copied from his own handwriting. The initials AR come from a woodcut of 1550.",
+          "de": "Die Marke gestaltete Harry Scheuner. Die Deutsche Bundespost gab sie am 7. Mai 1992 zum 500. Geburtstag von Ries heraus. Unterschrift und rotes Kreuz stammen aus seiner eigenen Handschrift. Die Initialen AR sind einem Holzschnitt von 1550 entnommen.",
+          "fr": "Harry Scheuner a dessiné le timbre, émis par la Deutsche Bundespost le 7 mai 1992 pour le 500e anniversaire de la naissance de Ries. La signature et la croix rouge reprennent sa propre écriture. Les initiales AR viennent d'une gravure sur bois de 1550.",
+          "it": "Il francobollo fu disegnato da Harry Scheuner. Deutsche Bundespost lo emise il 7 maggio 1992 per i 500 anni dalla nascita di Ries. La firma e la croce rossa riprendono la sua calligrafia. Le iniziali AR vengono da una xilografia del 1550.",
+          "nl": "Harry Scheuner designed the stamp, which the Deutsche Bundespost issued on 7 May 1992 for Ries's 500th birthday. The signature and the red cross are copied from his own handwriting. The initials AR come from a woodcut of 1550.",
+          "pl": "Harry Scheuner designed the stamp, which the Deutsche Bundespost issued on 7 May 1992 for Ries's 500th birthday. The signature and the red cross are copied from his own handwriting. The initials AR come from a woodcut of 1550.",
+          "cs": "Harry Scheuner designed the stamp, which the Deutsche Bundespost issued on 7 May 1992 for Ries's 500th birthday. The signature and the red cross are copied from his own handwriting. The initials AR come from a woodcut of 1550.",
+          "sk": "Harry Scheuner designed the stamp, which the Deutsche Bundespost issued on 7 May 1992 for Ries's 500th birthday. The signature and the red cross are copied from his own handwriting. The initials AR come from a woodcut of 1550.",
+          "ro": "Harry Scheuner designed the stamp, which the Deutsche Bundespost issued on 7 May 1992 for Ries's 500th birthday. The signature and the red cross are copied from his own handwriting. The initials AR come from a woodcut of 1550.",
+          "hu": "Harry Scheuner designed the stamp, which the Deutsche Bundespost issued on 7 May 1992 for Ries's 500th birthday. The signature and the red cross are copied from his own handwriting. The initials AR come from a woodcut of 1550.",
+          "da": "Harry Scheuner designed the stamp, which the Deutsche Bundespost issued on 7 May 1992 for Ries's 500th birthday. The signature and the red cross are copied from his own handwriting. The initials AR come from a woodcut of 1550."
+        },
+        {
+          "en": "The cross is a Neunerprobe from 1524, a check by casting out nines. Each number in a sum is reduced to its digit sum. The sum is then worked again with these small numbers. A result that differs from the digit sum of the first answer shows a mistake.",
+          "de": "Das Kreuz ist eine Neunerprobe von 1524, eine Kontrolle durch Ausstreichen der Neunen. Jede Zahl einer Rechnung wird auf ihre Quersumme zurückgeführt. Mit diesen kleinen Zahlen rechnet man die Aufgabe noch einmal. Weicht das Ergebnis von der Quersumme des ersten Ergebnisses ab, steckt ein Fehler in der Rechnung.",
+          "fr": "La croix est une preuve par neuf de 1524, un contrôle de calcul. Chaque nombre d'une opération est réduit à la somme de ses chiffres. On refait ensuite l'opération avec ces petits nombres. Un résultat qui diffère de la somme des chiffres du premier résultat signale une erreur.",
+          "it": "La croce è una prova del nove del 1524. Ogni numero dell'operazione si riduce alla somma delle sue cifre. Poi si rifà il conto con questi numeri piccoli. Se il risultato è diverso dalla somma delle cifre del primo risultato, c'è un errore.",
+          "nl": "The cross is a Neunerprobe from 1524, a check by casting out nines. Each number in a sum is reduced to its digit sum. The sum is then worked again with these small numbers. A result that differs from the digit sum of the first answer shows a mistake.",
+          "pl": "The cross is a Neunerprobe from 1524, a check by casting out nines. Each number in a sum is reduced to its digit sum. The sum is then worked again with these small numbers. A result that differs from the digit sum of the first answer shows a mistake.",
+          "cs": "The cross is a Neunerprobe from 1524, a check by casting out nines. Each number in a sum is reduced to its digit sum. The sum is then worked again with these small numbers. A result that differs from the digit sum of the first answer shows a mistake.",
+          "sk": "The cross is a Neunerprobe from 1524, a check by casting out nines. Each number in a sum is reduced to its digit sum. The sum is then worked again with these small numbers. A result that differs from the digit sum of the first answer shows a mistake.",
+          "ro": "The cross is a Neunerprobe from 1524, a check by casting out nines. Each number in a sum is reduced to its digit sum. The sum is then worked again with these small numbers. A result that differs from the digit sum of the first answer shows a mistake.",
+          "hu": "The cross is a Neunerprobe from 1524, a check by casting out nines. Each number in a sum is reduced to its digit sum. The sum is then worked again with these small numbers. A result that differs from the digit sum of the first answer shows a mistake.",
+          "da": "The cross is a Neunerprobe from 1524, a check by casting out nines. Each number in a sum is reduced to its digit sum. The sum is then worked again with these small numbers. A result that differs from the digit sum of the first answer shows a mistake."
+        },
+        {
+          "en": "Ries signed his name Ries, sometimes Risz. The 10 Pfennig stamp of 1959 for the 400th anniversary of his death also prints RIESE. The e comes from an old form of the saying, \"nach Adam Riesen\". In 1796 Abraham Gotthelf Kästner wrote that these words had long been the assurance that a sum was right. Today the saying is \"nach Adam Riese\".",
+          "de": "Ries selbst schrieb sich Ries, manchmal Risz. Auch auf der 10-Pfennig-Marke von 1959 zum 400. Todestag steht RIESE. Das e stammt aus einer alten Form der Redensart: „nach Adam Riesen“. Abraham Gotthelf Kästner schrieb 1796, diese Worte seien längst die Versicherung, dass eine Rechnung stimmt. Heute heißt die Redensart „nach Adam Riese“.",
+          "fr": "Ries signait Ries, parfois Risz. Le timbre à 10 Pfennig de 1959, pour le 400e anniversaire de sa mort, porte lui aussi l'inscription RIESE. Ce e vient d'une forme ancienne de l'expression, « nach Adam Riesen ». En 1796, Abraham Gotthelf Kästner écrivait que ces mots servaient depuis longtemps à garantir qu'un calcul était juste. Aujourd'hui, on dit « nach Adam Riese ».",
+          "it": "Ries firmava Ries, a volte Risz. Anche il francobollo da 10 Pfennig del 1959 per i 400 anni dalla morte porta la scritta RIESE. Quella e viene da una forma antica del detto, \"nach Adam Riesen\". Nel 1796 Abraham Gotthelf Kästner scrisse che quelle parole erano da tempo la garanzia che un conto fosse giusto. Oggi il detto è \"nach Adam Riese\".",
+          "nl": "Ries signed his name Ries, sometimes Risz. The 10 Pfennig stamp of 1959 for the 400th anniversary of his death also prints RIESE. The e comes from an old form of the saying, \"nach Adam Riesen\". In 1796 Abraham Gotthelf Kästner wrote that these words had long been the assurance that a sum was right. Today the saying is \"nach Adam Riese\".",
+          "pl": "Ries signed his name Ries, sometimes Risz. The 10 Pfennig stamp of 1959 for the 400th anniversary of his death also prints RIESE. The e comes from an old form of the saying, \"nach Adam Riesen\". In 1796 Abraham Gotthelf Kästner wrote that these words had long been the assurance that a sum was right. Today the saying is \"nach Adam Riese\".",
+          "cs": "Ries signed his name Ries, sometimes Risz. The 10 Pfennig stamp of 1959 for the 400th anniversary of his death also prints RIESE. The e comes from an old form of the saying, \"nach Adam Riesen\". In 1796 Abraham Gotthelf Kästner wrote that these words had long been the assurance that a sum was right. Today the saying is \"nach Adam Riese\".",
+          "sk": "Ries signed his name Ries, sometimes Risz. The 10 Pfennig stamp of 1959 for the 400th anniversary of his death also prints RIESE. The e comes from an old form of the saying, \"nach Adam Riesen\". In 1796 Abraham Gotthelf Kästner wrote that these words had long been the assurance that a sum was right. Today the saying is \"nach Adam Riese\".",
+          "ro": "Ries signed his name Ries, sometimes Risz. The 10 Pfennig stamp of 1959 for the 400th anniversary of his death also prints RIESE. The e comes from an old form of the saying, \"nach Adam Riesen\". In 1796 Abraham Gotthelf Kästner wrote that these words had long been the assurance that a sum was right. Today the saying is \"nach Adam Riese\".",
+          "hu": "Ries signed his name Ries, sometimes Risz. The 10 Pfennig stamp of 1959 for the 400th anniversary of his death also prints RIESE. The e comes from an old form of the saying, \"nach Adam Riesen\". In 1796 Abraham Gotthelf Kästner wrote that these words had long been the assurance that a sum was right. Today the saying is \"nach Adam Riese\".",
+          "da": "Ries signed his name Ries, sometimes Risz. The 10 Pfennig stamp of 1959 for the 400th anniversary of his death also prints RIESE. The e comes from an old form of the saying, \"nach Adam Riesen\". In 1796 Abraham Gotthelf Kästner wrote that these words had long been the assurance that a sum was right. Today the saying is \"nach Adam Riese\"."
+        },
+        {
+          "en": "The museum in Annaberg shows his Coß in manuscript, a book on algebra that he finished there in 1524 and never got printed.",
+          "de": "Das Museum in Annaberg zeigt seine Coß als Handschrift, ein Buch über Algebra, das er dort 1524 fertigstellte und nie drucken lassen konnte.",
+          "fr": "Le musée d'Annaberg présente son Coß en manuscrit, un livre d'algèbre qu'il y a terminé en 1524 et qu'il n'a jamais réussi à faire imprimer.",
+          "it": "Il museo di Annaberg espone il suo Coß manoscritto, un libro di algebra che terminò lì nel 1524 e che non riuscì mai a far stampare.",
+          "nl": "The museum in Annaberg shows his Coß in manuscript, a book on algebra that he finished there in 1524 and never got printed.",
+          "pl": "The museum in Annaberg shows his Coß in manuscript, a book on algebra that he finished there in 1524 and never got printed.",
+          "cs": "The museum in Annaberg shows his Coß in manuscript, a book on algebra that he finished there in 1524 and never got printed.",
+          "sk": "The museum in Annaberg shows his Coß in manuscript, a book on algebra that he finished there in 1524 and never got printed.",
+          "ro": "The museum in Annaberg shows his Coß in manuscript, a book on algebra that he finished there in 1524 and never got printed.",
+          "hu": "The museum in Annaberg shows his Coß in manuscript, a book on algebra that he finished there in 1524 and never got printed.",
+          "da": "The museum in Annaberg shows his Coß in manuscript, a book on algebra that he finished there in 1524 and never got printed."
+        }
+      ]
+    },
+    {
+      "id": "house",
+      "type": "text",
+      "label": {
+        "en": "In Annaberg",
+        "de": "In Annaberg",
+        "fr": "À Annaberg",
+        "it": "Ad Annaberg",
+        "nl": "In Annaberg",
+        "pl": "In Annaberg",
+        "cs": "In Annaberg",
+        "sk": "In Annaberg",
+        "ro": "In Annaberg",
+        "hu": "In Annaberg",
+        "da": "In Annaberg"
+      },
+      "title": {
+        "en": "The reckoning master of the Johannisgasse",
+        "de": "Der Rechenmeister in der Johannisgasse",
+        "fr": "Le maître de calcul de la Johannisgasse",
+        "it": "Il maestro d'abaco della Johannisgasse",
+        "nl": "The reckoning master of the Johannisgasse",
+        "pl": "The reckoning master of the Johannisgasse",
+        "cs": "The reckoning master of the Johannisgasse",
+        "sk": "The reckoning master of the Johannisgasse",
+        "ro": "The reckoning master of the Johannisgasse",
+        "hu": "The reckoning master of the Johannisgasse",
+        "da": "The reckoning master of the Johannisgasse"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/9bdca66f49e62568/annaberg-adam-ries-haus.jpg",
+          "width": 2400,
+          "credit": "Leberkasimir, CC0",
+          "height": 1800,
+          "caption": {
+            "en": "The Adam-Ries-Haus in the Johannisgasse, with the bust of Adam Ries in front.",
+            "de": "Das Adam-Ries-Haus in der Johannisgasse, davor die Büste von Adam Ries.",
+            "fr": "L'Adam-Ries-Haus dans la Johannisgasse, avec le buste d'Adam Ries devant.",
+            "it": "L'Adam-Ries-Haus nella Johannisgasse, con davanti il busto di Adam Ries.",
+            "nl": "The Adam-Ries-Haus in the Johannisgasse, with the bust of Adam Ries in front.",
+            "pl": "The Adam-Ries-Haus in the Johannisgasse, with the bust of Adam Ries in front.",
+            "cs": "The Adam-Ries-Haus in the Johannisgasse, with the bust of Adam Ries in front.",
+            "sk": "The Adam-Ries-Haus in the Johannisgasse, with the bust of Adam Ries in front.",
+            "ro": "The Adam-Ries-Haus in the Johannisgasse, with the bust of Adam Ries in front.",
+            "hu": "The Adam-Ries-Haus in the Johannisgasse, with the bust of Adam Ries in front.",
+            "da": "The Adam-Ries-Haus in the Johannisgasse, with the bust of Adam Ries in front."
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Adam-Ries-Museum.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "Ries wrote his books in German, for apprentices and traders. In the first one, finished in 1518, he taught reckoning on lines. Counters were laid on ruled lines and in the spaces between them. Five counters on a line were taken off and replaced by one in the space above. At the end, even someone who could not read could find the result by counting. His second book of 1522 added sums \"with the pen\", in the digits used today.",
+          "de": "Ries schrieb seine Bücher auf Deutsch, für Lehrjungen und Kaufleute. Im ersten, das 1518 fertig war, erklärte er das Rechnen auf den Linien. Rechenpfennige wurden auf gezogene Linien und in die Felder dazwischen gelegt. Fünf Rechenpfennige auf einer Linie nahm man weg und legte dafür einen in das Feld darüber. Am Ende konnte auch jemand, der nicht lesen konnte, das Ergebnis abzählen. In seinem zweiten Buch von 1522 kam das Rechnen „mit der Feder“ dazu, mit den heute üblichen Ziffern.",
+          "fr": "Ries écrivait ses livres en allemand, pour les apprentis et les marchands. Dans le premier, achevé en 1518, il enseigne le calcul sur les lignes. On pose des jetons sur des lignes tracées et dans les espaces qui les séparent. Cinq jetons posés sur une ligne sont retirés et remplacés par un seul dans l'espace au-dessus. À la fin, même une personne qui ne sait pas lire trouve le résultat en comptant. Son deuxième livre, de 1522, ajoute le calcul « à la plume », avec les chiffres utilisés aujourd'hui.",
+          "it": "Ries scriveva i suoi libri in tedesco, per apprendisti e mercanti. Nel primo, finito nel 1518, insegnava il calcolo sulle linee. I gettoni si posavano sulle linee tracciate e negli spazi tra l'una e l'altra. Cinque gettoni su una linea si toglievano e si sostituivano con uno solo nello spazio superiore. Alla fine anche chi non sapeva leggere trovava il risultato contando. Il secondo libro, del 1522, aggiunse i conti \"con la penna\", con le cifre che usiamo oggi.",
+          "nl": "Ries wrote his books in German, for apprentices and traders. In the first one, finished in 1518, he taught reckoning on lines. Counters were laid on ruled lines and in the spaces between them. Five counters on a line were taken off and replaced by one in the space above. At the end, even someone who could not read could find the result by counting. His second book of 1522 added sums \"with the pen\", in the digits used today.",
+          "pl": "Ries wrote his books in German, for apprentices and traders. In the first one, finished in 1518, he taught reckoning on lines. Counters were laid on ruled lines and in the spaces between them. Five counters on a line were taken off and replaced by one in the space above. At the end, even someone who could not read could find the result by counting. His second book of 1522 added sums \"with the pen\", in the digits used today.",
+          "cs": "Ries wrote his books in German, for apprentices and traders. In the first one, finished in 1518, he taught reckoning on lines. Counters were laid on ruled lines and in the spaces between them. Five counters on a line were taken off and replaced by one in the space above. At the end, even someone who could not read could find the result by counting. His second book of 1522 added sums \"with the pen\", in the digits used today.",
+          "sk": "Ries wrote his books in German, for apprentices and traders. In the first one, finished in 1518, he taught reckoning on lines. Counters were laid on ruled lines and in the spaces between them. Five counters on a line were taken off and replaced by one in the space above. At the end, even someone who could not read could find the result by counting. His second book of 1522 added sums \"with the pen\", in the digits used today.",
+          "ro": "Ries wrote his books in German, for apprentices and traders. In the first one, finished in 1518, he taught reckoning on lines. Counters were laid on ruled lines and in the spaces between them. Five counters on a line were taken off and replaced by one in the space above. At the end, even someone who could not read could find the result by counting. His second book of 1522 added sums \"with the pen\", in the digits used today.",
+          "hu": "Ries wrote his books in German, for apprentices and traders. In the first one, finished in 1518, he taught reckoning on lines. Counters were laid on ruled lines and in the spaces between them. Five counters on a line were taken off and replaced by one in the space above. At the end, even someone who could not read could find the result by counting. His second book of 1522 added sums \"with the pen\", in the digits used today.",
+          "da": "Ries wrote his books in German, for apprentices and traders. In the first one, finished in 1518, he taught reckoning on lines. Counters were laid on ruled lines and in the spaces between them. Five counters on a line were taken off and replaced by one in the space above. At the end, even someone who could not read could find the result by counting. His second book of 1522 added sums \"with the pen\", in the digits used today."
+        },
+        {
+          "en": "In 1522 or 1523 Ries moved to Annaberg, then, in the museum's words, the second-largest town of Saxony. In July 1525 he bought the house in the Johannisgasse.",
+          "de": "1522 oder 1523 zog Ries nach Annaberg, nach den Worten des Museums damals die zweitgrößte Stadt Sachsens. Im Juli 1525 kaufte er das Haus in der Johannisgasse.",
+          "fr": "En 1522 ou 1523, Ries s'installe à Annaberg, alors, selon le musée, la deuxième ville de Saxe par la taille. En juillet 1525, il achète la maison de la Johannisgasse.",
+          "it": "Nel 1522 o nel 1523 Ries si trasferì ad Annaberg, allora, come scrive il museo, la seconda città della Sassonia per grandezza. Nel luglio 1525 comprò la casa nella Johannisgasse.",
+          "nl": "In 1522 or 1523 Ries moved to Annaberg, then, in the museum's words, the second-largest town of Saxony. In July 1525 he bought the house in the Johannisgasse.",
+          "pl": "In 1522 or 1523 Ries moved to Annaberg, then, in the museum's words, the second-largest town of Saxony. In July 1525 he bought the house in the Johannisgasse.",
+          "cs": "In 1522 or 1523 Ries moved to Annaberg, then, in the museum's words, the second-largest town of Saxony. In July 1525 he bought the house in the Johannisgasse.",
+          "sk": "In 1522 or 1523 Ries moved to Annaberg, then, in the museum's words, the second-largest town of Saxony. In July 1525 he bought the house in the Johannisgasse.",
+          "ro": "In 1522 or 1523 Ries moved to Annaberg, then, in the museum's words, the second-largest town of Saxony. In July 1525 he bought the house in the Johannisgasse.",
+          "hu": "In 1522 or 1523 Ries moved to Annaberg, then, in the museum's words, the second-largest town of Saxony. In July 1525 he bought the house in the Johannisgasse.",
+          "da": "In 1522 or 1523 Ries moved to Annaberg, then, in the museum's words, the second-largest town of Saxony. In July 1525 he bought the house in the Johannisgasse."
+        },
+        {
+          "en": "In Ries's time bread sold at fixed prices. The half-groschen loaf always cost 6 Pfennig. When grain got dearer, the loaf got smaller. From 1533 Ries drew up tables for the town with the weight of this loaf at each grain price. In the foreword he wrote that the tables should keep the poor common man from being overcharged for bread. The booklet was printed in Leipzig in 1536. The Adam-Ries-Bund calls it the first printed bread ordinance in the German-speaking lands.",
+          "de": "Zu Ries' Zeit war der Brotpreis festgesetzt. Das Halbgroschenbrot kostete immer 6 Pfennig. Wurde das Getreide teurer, wurde der Laib kleiner. Ab 1533 stellte Ries für die Stadt Tabellen auf, mit dem Gewicht dieses Brotes bei jedem Getreidepreis. Im Vorwort schrieb er, die Tabellen sollten den armen gemeinen Mann davor schützen, beim Brot übervorteilt zu werden. 1536 wurde das Heft in Leipzig gedruckt. Der Adam-Ries-Bund nennt es die erste gedruckte Brotordnung im deutschen Sprachraum.",
+          "fr": "Du temps de Ries, le pain se vendait à prix fixe. Le pain d'un demi-groschen coûtait toujours 6 Pfennig. Quand le grain renchérissait, le pain devenait plus petit. À partir de 1533, Ries établit pour la ville des tables donnant le poids de ce pain selon le prix du grain. Dans la préface, il écrit que ces tables doivent empêcher que le pauvre homme du commun paie son pain trop cher. Le livret est imprimé à Leipzig en 1536. L'Adam-Ries-Bund y voit la première ordonnance sur le pain imprimée dans l'espace germanophone.",
+          "it": "Ai tempi di Ries il pane si vendeva a prezzi fissi. La pagnotta da mezzo groschen costava sempre 6 Pfennig. Quando il grano rincarava, la pagnotta diventava più piccola. Dal 1533 Ries preparò per la città le tabelle con il peso di questa pagnotta per ogni prezzo del grano. Nella prefazione scrisse che le tabelle dovevano impedire che il povero uomo comune pagasse il pane troppo caro. Il libretto fu stampato a Lipsia nel 1536. L'Adam-Ries-Bund lo definisce il primo regolamento sul pane stampato nell'area di lingua tedesca.",
+          "nl": "In Ries's time bread sold at fixed prices. The half-groschen loaf always cost 6 Pfennig. When grain got dearer, the loaf got smaller. From 1533 Ries drew up tables for the town with the weight of this loaf at each grain price. In the foreword he wrote that the tables should keep the poor common man from being overcharged for bread. The booklet was printed in Leipzig in 1536. The Adam-Ries-Bund calls it the first printed bread ordinance in the German-speaking lands.",
+          "pl": "In Ries's time bread sold at fixed prices. The half-groschen loaf always cost 6 Pfennig. When grain got dearer, the loaf got smaller. From 1533 Ries drew up tables for the town with the weight of this loaf at each grain price. In the foreword he wrote that the tables should keep the poor common man from being overcharged for bread. The booklet was printed in Leipzig in 1536. The Adam-Ries-Bund calls it the first printed bread ordinance in the German-speaking lands.",
+          "cs": "In Ries's time bread sold at fixed prices. The half-groschen loaf always cost 6 Pfennig. When grain got dearer, the loaf got smaller. From 1533 Ries drew up tables for the town with the weight of this loaf at each grain price. In the foreword he wrote that the tables should keep the poor common man from being overcharged for bread. The booklet was printed in Leipzig in 1536. The Adam-Ries-Bund calls it the first printed bread ordinance in the German-speaking lands.",
+          "sk": "In Ries's time bread sold at fixed prices. The half-groschen loaf always cost 6 Pfennig. When grain got dearer, the loaf got smaller. From 1533 Ries drew up tables for the town with the weight of this loaf at each grain price. In the foreword he wrote that the tables should keep the poor common man from being overcharged for bread. The booklet was printed in Leipzig in 1536. The Adam-Ries-Bund calls it the first printed bread ordinance in the German-speaking lands.",
+          "ro": "In Ries's time bread sold at fixed prices. The half-groschen loaf always cost 6 Pfennig. When grain got dearer, the loaf got smaller. From 1533 Ries drew up tables for the town with the weight of this loaf at each grain price. In the foreword he wrote that the tables should keep the poor common man from being overcharged for bread. The booklet was printed in Leipzig in 1536. The Adam-Ries-Bund calls it the first printed bread ordinance in the German-speaking lands.",
+          "hu": "In Ries's time bread sold at fixed prices. The half-groschen loaf always cost 6 Pfennig. When grain got dearer, the loaf got smaller. From 1533 Ries drew up tables for the town with the weight of this loaf at each grain price. In the foreword he wrote that the tables should keep the poor common man from being overcharged for bread. The booklet was printed in Leipzig in 1536. The Adam-Ries-Bund calls it the first printed bread ordinance in the German-speaking lands.",
+          "da": "In Ries's time bread sold at fixed prices. The half-groschen loaf always cost 6 Pfennig. When grain got dearer, the loaf got smaller. From 1533 Ries drew up tables for the town with the weight of this loaf at each grain price. In the foreword he wrote that the tables should keep the poor common man from being overcharged for bread. The booklet was printed in Leipzig in 1536. The Adam-Ries-Bund calls it the first printed bread ordinance in the German-speaking lands."
+        },
+        {
+          "en": "The house burned in 1604 and again in 1731. Today the Adam-Ries-Museum is in the stone house of 1733 on the same site, above cellars probably built about 1500. Its old arithmetic books lie in a dark room, where they light up only as you step in. Until 31 December 2026 the exhibition \"AUS 5 MACH 1\" shows Saxon counting tokens, the counters of the line board. Its name is the rule from the first book.",
+          "de": "Das Haus brannte 1604 und noch einmal 1731. Heute ist das Adam-Ries-Museum im steinernen Haus von 1733 auf demselben Grundstück, über Kellern, die wohl um 1500 gebaut wurden. Seine alten Rechenbücher liegen in einem dunklen Raum und leuchten erst auf, wenn du hineingehst. Bis zum 31. Dezember 2026 zeigt die Ausstellung „AUS 5 MACH 1“ sächsische Rechenpfennige, die Steine vom Linienbrett. Der Titel der Ausstellung ist die Regel aus dem ersten Buch.",
+          "fr": "La maison brûle en 1604, puis de nouveau en 1731. Aujourd'hui, l'Adam-Ries-Museum occupe la maison en pierre de 1733 élevée au même endroit, au-dessus de caves construites probablement vers 1500. Ses vieux livres de calcul sont posés dans une salle sombre et ne s'éclairent que lorsque tu entres. Jusqu'au 31 décembre 2026, l'exposition « AUS 5 MACH 1 » présente des jetons de compte saxons, ceux de la table à lignes. Son titre reprend la règle du premier livre.",
+          "it": "La casa bruciò nel 1604 e di nuovo nel 1731. Oggi l'Adam-Ries-Museum occupa l'edificio in pietra del 1733 sullo stesso terreno, sopra cantine costruite probabilmente intorno al 1500. I vecchi libri di aritmetica stanno in una sala buia e si illuminano solo quando entri. Fino al 31 dicembre 2026 la mostra \"AUS 5 MACH 1\" presenta i gettoni da conto sassoni, le pedine della tavola a linee. Il titolo è la regola del primo libro.",
+          "nl": "The house burned in 1604 and again in 1731. Today the Adam-Ries-Museum is in the stone house of 1733 on the same site, above cellars probably built about 1500. Its old arithmetic books lie in a dark room, where they light up only as you step in. Until 31 December 2026 the exhibition \"AUS 5 MACH 1\" shows Saxon counting tokens, the counters of the line board. Its name is the rule from the first book.",
+          "pl": "The house burned in 1604 and again in 1731. Today the Adam-Ries-Museum is in the stone house of 1733 on the same site, above cellars probably built about 1500. Its old arithmetic books lie in a dark room, where they light up only as you step in. Until 31 December 2026 the exhibition \"AUS 5 MACH 1\" shows Saxon counting tokens, the counters of the line board. Its name is the rule from the first book.",
+          "cs": "The house burned in 1604 and again in 1731. Today the Adam-Ries-Museum is in the stone house of 1733 on the same site, above cellars probably built about 1500. Its old arithmetic books lie in a dark room, where they light up only as you step in. Until 31 December 2026 the exhibition \"AUS 5 MACH 1\" shows Saxon counting tokens, the counters of the line board. Its name is the rule from the first book.",
+          "sk": "The house burned in 1604 and again in 1731. Today the Adam-Ries-Museum is in the stone house of 1733 on the same site, above cellars probably built about 1500. Its old arithmetic books lie in a dark room, where they light up only as you step in. Until 31 December 2026 the exhibition \"AUS 5 MACH 1\" shows Saxon counting tokens, the counters of the line board. Its name is the rule from the first book.",
+          "ro": "The house burned in 1604 and again in 1731. Today the Adam-Ries-Museum is in the stone house of 1733 on the same site, above cellars probably built about 1500. Its old arithmetic books lie in a dark room, where they light up only as you step in. Until 31 December 2026 the exhibition \"AUS 5 MACH 1\" shows Saxon counting tokens, the counters of the line board. Its name is the rule from the first book.",
+          "hu": "The house burned in 1604 and again in 1731. Today the Adam-Ries-Museum is in the stone house of 1733 on the same site, above cellars probably built about 1500. Its old arithmetic books lie in a dark room, where they light up only as you step in. Until 31 December 2026 the exhibition \"AUS 5 MACH 1\" shows Saxon counting tokens, the counters of the line board. Its name is the rule from the first book.",
+          "da": "The house burned in 1604 and again in 1731. Today the Adam-Ries-Museum is in the stone house of 1733 on the same site, above cellars probably built about 1500. Its old arithmetic books lie in a dark room, where they light up only as you step in. Until 31 December 2026 the exhibition \"AUS 5 MACH 1\" shows Saxon counting tokens, the counters of the line board. Its name is the rule from the first book."
+        }
+      ]
+    },
+    {
+      "id": "figures",
+      "type": "numbers",
+      "label": {
+        "en": "In figures",
+        "de": "In Zahlen",
+        "fr": "En chiffres",
+        "it": "In cifre",
+        "nl": "In figures",
+        "pl": "In figures",
+        "cs": "In figures",
+        "sk": "In figures",
+        "ro": "In figures",
+        "hu": "In figures",
+        "da": "In figures"
+      },
+      "title": {
+        "en": "The town and its church",
+        "de": "Die Stadt und ihre Kirche",
+        "fr": "La ville et son église",
+        "it": "La città e la sua chiesa",
+        "nl": "The town and its church",
+        "pl": "The town and its church",
+        "cs": "The town and its church",
+        "sk": "The town and its church",
+        "ro": "The town and its church",
+        "hu": "The town and its church",
+        "da": "The town and its church"
+      },
+      "numbers": [
+        {
+          "text": {
+            "en": "Adam Ries paid this for his house on 12 July 1525.",
+            "de": "So viel zahlte Adam Ries am 12. Juli 1525 für sein Haus.",
+            "fr": "Adam Ries a payé cette somme pour sa maison le 12 juillet 1525.",
+            "it": "Adam Ries pagò questa cifra per la sua casa il 12 luglio 1525.",
+            "nl": "Adam Ries paid this for his house on 12 July 1525.",
+            "pl": "Adam Ries paid this for his house on 12 July 1525.",
+            "cs": "Adam Ries paid this for his house on 12 July 1525.",
+            "sk": "Adam Ries paid this for his house on 12 July 1525.",
+            "ro": "Adam Ries paid this for his house on 12 July 1525.",
+            "hu": "Adam Ries paid this for his house on 12 July 1525.",
+            "da": "Adam Ries paid this for his house on 12 July 1525."
+          },
+          "title": {
+            "en": "The house",
+            "de": "Das Haus",
+            "fr": "La maison",
+            "it": "La casa",
+            "nl": "The house",
+            "pl": "The house",
+            "cs": "The house",
+            "sk": "The house",
+            "ro": "The house",
+            "hu": "The house",
+            "da": "The house"
+          },
+          "value": "150 Gulden"
+        },
+        {
+          "text": {
+            "en": "The tower of St. Annen, where the tower keepers live at 42 metres.",
+            "de": "Der Turm der St. Annenkirche, in dem die Türmer in 42 Metern Höhe wohnen.",
+            "fr": "La tour de St. Annen, où les gardiens habitent à 42 mètres de hauteur.",
+            "it": "La torre della St. Annen, con l'abitazione dei guardiani a 42 metri.",
+            "nl": "The tower of St. Annen, where the tower keepers live at 42 metres.",
+            "pl": "The tower of St. Annen, where the tower keepers live at 42 metres.",
+            "cs": "The tower of St. Annen, where the tower keepers live at 42 metres.",
+            "sk": "The tower of St. Annen, where the tower keepers live at 42 metres.",
+            "ro": "The tower of St. Annen, where the tower keepers live at 42 metres.",
+            "hu": "The tower of St. Annen, where the tower keepers live at 42 metres.",
+            "da": "The tower of St. Annen, where the tower keepers live at 42 metres."
+          },
+          "title": {
+            "en": "The tower",
+            "de": "Der Turm",
+            "fr": "La tour",
+            "it": "La torre",
+            "nl": "The tower",
+            "pl": "The tower",
+            "cs": "The tower",
+            "sk": "The tower",
+            "ro": "The tower",
+            "hu": "The tower",
+            "da": "The tower"
+          },
+          "value": "78.6 m"
+        },
+        {
+          "text": {
+            "en": "The Walcker organ of 1884 in St. Annen has 4,583 pipes and three manuals.",
+            "de": "Die Walcker-Orgel von 1884 in St. Annen hat 4.583 Pfeifen und drei Manuale.",
+            "fr": "L'orgue Walcker de 1884, à St. Annen, compte 4 583 tuyaux et trois claviers.",
+            "it": "L'organo Walcker del 1884 nella St. Annen ha 4.583 canne e tre manuali.",
+            "nl": "The Walcker organ of 1884 in St. Annen has 4,583 pipes and three manuals.",
+            "pl": "The Walcker organ of 1884 in St. Annen has 4,583 pipes and three manuals.",
+            "cs": "The Walcker organ of 1884 in St. Annen has 4,583 pipes and three manuals.",
+            "sk": "The Walcker organ of 1884 in St. Annen has 4,583 pipes and three manuals.",
+            "ro": "The Walcker organ of 1884 in St. Annen has 4,583 pipes and three manuals.",
+            "hu": "The Walcker organ of 1884 in St. Annen has 4,583 pipes and three manuals.",
+            "da": "The Walcker organ of 1884 in St. Annen has 4,583 pipes and three manuals."
+          },
+          "title": {
+            "en": "Organ pipes",
+            "de": "Orgelpfeifen",
+            "fr": "Tuyaux d'orgue",
+            "it": "Canne d'organo",
+            "nl": "Organ pipes",
+            "pl": "Organ pipes",
+            "cs": "Organ pipes",
+            "sk": "Organ pipes",
+            "ro": "Organ pipes",
+            "hu": "Organ pipes",
+            "da": "Organ pipes"
+          },
+          "value": "4,583"
+        },
+        {
+          "text": {
+            "en": "The deepest point of the old silver mine under the town.",
+            "de": "Der tiefste Punkt des alten Silberbergwerks unter der Stadt.",
+            "fr": "Le point le plus bas de l'ancienne mine d'argent sous la ville.",
+            "it": "Il punto più profondo dell'antica miniera d'argento sotto la città.",
+            "nl": "The deepest point of the old silver mine under the town.",
+            "pl": "The deepest point of the old silver mine under the town.",
+            "cs": "The deepest point of the old silver mine under the town.",
+            "sk": "The deepest point of the old silver mine under the town.",
+            "ro": "The deepest point of the old silver mine under the town.",
+            "hu": "The deepest point of the old silver mine under the town.",
+            "da": "The deepest point of the old silver mine under the town."
+          },
+          "title": {
+            "en": "Silver mine",
+            "de": "Silberbergwerk",
+            "fr": "Mine d'argent",
+            "it": "Miniera d'argento",
+            "nl": "Silver mine",
+            "pl": "Silver mine",
+            "cs": "Silver mine",
+            "sk": "Silver mine",
+            "ro": "Silver mine",
+            "hu": "Silver mine",
+            "da": "Silver mine"
+          },
+          "value": "24 m"
+        }
+      ]
+    },
+    {
+      "id": "town-view",
+      "type": "wide-photo",
+      "image": {
+        "src": "https://assets.stampiq.io/blog/1b253e0c97c5cb93/annaberg-poehlberg.jpg",
+        "width": 2400,
+        "credit": "Aagnverglaser, CC BY-SA 4.0",
+        "height": 1800,
+        "caption": {
+          "en": "Annaberg-Buchholz with St. Annen below the Pöhlberg.",
+          "de": "Annaberg-Buchholz mit St. Annen unterhalb des Pöhlbergs.",
+          "fr": "Annaberg-Buchholz avec St. Annen, en contrebas du Pöhlberg.",
+          "it": "Annaberg-Buchholz con la St. Annen sotto il Pöhlberg.",
+          "nl": "Annaberg-Buchholz with St. Annen below the Pöhlberg.",
+          "pl": "Annaberg-Buchholz with St. Annen below the Pöhlberg.",
+          "cs": "Annaberg-Buchholz with St. Annen below the Pöhlberg.",
+          "sk": "Annaberg-Buchholz with St. Annen below the Pöhlberg.",
+          "ro": "Annaberg-Buchholz with St. Annen below the Pöhlberg.",
+          "hu": "Annaberg-Buchholz with St. Annen below the Pöhlberg.",
+          "da": "Annaberg-Buchholz with St. Annen below the Pöhlberg."
+        },
+        "source_url": "https://commons.wikimedia.org/wiki/File:D%C3%B6rfeler_H%C3%B6he_Blick_nach_Annaberg_mit_P%C3%B6hlberg.jpg"
+      }
+    },
+    {
+      "id": "church",
+      "type": "text",
+      "label": {
+        "en": "In St. Annen",
+        "de": "In St. Annen",
+        "fr": "À St. Annen",
+        "it": "Nella St. Annen",
+        "nl": "In St. Annen",
+        "pl": "In St. Annen",
+        "cs": "In St. Annen",
+        "sk": "In St. Annen",
+        "ro": "In St. Annen",
+        "hu": "In St. Annen",
+        "da": "In St. Annen"
+      },
+      "title": {
+        "en": "The back of the miners' altar",
+        "de": "Die Rückseite des Bergaltars",
+        "fr": "Le revers de l'autel des mineurs",
+        "it": "Il retro dell'altare dei minatori",
+        "nl": "The back of the miners' altar",
+        "pl": "The back of the miners' altar",
+        "cs": "The back of the miners' altar",
+        "sk": "The back of the miners' altar",
+        "ro": "The back of the miners' altar",
+        "hu": "The back of the miners' altar",
+        "da": "The back of the miners' altar"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/5c3493f5138b83e5/annaberg-bergaltar-back.jpg",
+          "width": 2400,
+          "credit": "Hans Hesse, public domain",
+          "height": 2108,
+          "caption": {
+            "en": "The back of the Bergaltar in St. Annen, painted by Hans Hesse.",
+            "de": "Die Rückseite des Bergaltars in St. Annen, gemalt von Hans Hesse.",
+            "fr": "Le revers du Bergaltar de St. Annen, peint par Hans Hesse.",
+            "it": "Il retro del Bergaltar nella St. Annen, dipinto da Hans Hesse.",
+            "nl": "The back of the Bergaltar in St. Annen, painted by Hans Hesse.",
+            "pl": "The back of the Bergaltar in St. Annen, painted by Hans Hesse.",
+            "cs": "The back of the Bergaltar in St. Annen, painted by Hans Hesse.",
+            "sk": "The back of the Bergaltar in St. Annen, painted by Hans Hesse.",
+            "ro": "The back of the Bergaltar in St. Annen, painted by Hans Hesse.",
+            "hu": "The back of the Bergaltar in St. Annen, painted by Hans Hesse.",
+            "da": "The back of the Bergaltar in St. Annen, painted by Hans Hesse."
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Annaberger-Bergaltar2.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "St. Annen was finished in 1525. That year Ries married Anna Leuber, a locksmith's daughter from Freiberg, in this church.",
+          "de": "St. Annen wurde 1525 fertig. Im selben Jahr heiratete Ries in dieser Kirche Anna Leuber, die Tochter eines Schlossers aus Freiberg.",
+          "fr": "St. Annen est achevée en 1525. Cette année-là, Ries épouse dans cette église Anna Leuber, fille d'un serrurier de Freiberg.",
+          "it": "La St. Annen fu completata nel 1525. In quell'anno Ries sposò in questa chiesa Anna Leuber, figlia di un fabbro di Freiberg.",
+          "nl": "St. Annen was finished in 1525. That year Ries married Anna Leuber, a locksmith's daughter from Freiberg, in this church.",
+          "pl": "St. Annen was finished in 1525. That year Ries married Anna Leuber, a locksmith's daughter from Freiberg, in this church.",
+          "cs": "St. Annen was finished in 1525. That year Ries married Anna Leuber, a locksmith's daughter from Freiberg, in this church.",
+          "sk": "St. Annen was finished in 1525. That year Ries married Anna Leuber, a locksmith's daughter from Freiberg, in this church.",
+          "ro": "St. Annen was finished in 1525. That year Ries married Anna Leuber, a locksmith's daughter from Freiberg, in this church.",
+          "hu": "St. Annen was finished in 1525. That year Ries married Anna Leuber, a locksmith's daughter from Freiberg, in this church.",
+          "da": "St. Annen was finished in 1525. That year Ries married Anna Leuber, a locksmith's daughter from Freiberg, in this church."
+        },
+        {
+          "en": "The miners' guild gave the carved Bergaltar in about 1521. Walk round behind it. Hans Hesse painted the back with the work in the mines around Annaberg: men push wheelbarrows, others wash ore at troughs. Find the hewer, the only figure who looks straight at the viewer.",
+          "de": "Die Bergknappschaft stiftete den geschnitzten Bergaltar um 1521. Geh hinter den Altar. Hans Hesse malte die Rückseite mit der Arbeit in den Gruben um Annaberg: Männer schieben Karren, andere waschen Erz an Trögen. Suche den Hauer, die einzige Figur, die den Betrachter direkt ansieht.",
+          "fr": "La confrérie des mineurs offre le Bergaltar sculpté vers 1521. Passe derrière lui. Hans Hesse en a peint le revers avec le travail dans les mines autour d'Annaberg : des hommes poussent des brouettes, d'autres lavent le minerai dans des auges. Cherche le haveur, le seul personnage qui regarde droit vers le spectateur.",
+          "it": "La corporazione dei minatori donò il Bergaltar intagliato intorno al 1521. Passa dietro l'altare. Hans Hesse ne dipinse il retro con il lavoro nelle miniere intorno ad Annaberg: uomini spingono carriole, altri lavano il minerale nelle tinozze. Cerca il picconiere, l'unica figura che guarda dritto lo spettatore.",
+          "nl": "The miners' guild gave the carved Bergaltar in about 1521. Walk round behind it. Hans Hesse painted the back with the work in the mines around Annaberg: men push wheelbarrows, others wash ore at troughs. Find the hewer, the only figure who looks straight at the viewer.",
+          "pl": "The miners' guild gave the carved Bergaltar in about 1521. Walk round behind it. Hans Hesse painted the back with the work in the mines around Annaberg: men push wheelbarrows, others wash ore at troughs. Find the hewer, the only figure who looks straight at the viewer.",
+          "cs": "The miners' guild gave the carved Bergaltar in about 1521. Walk round behind it. Hans Hesse painted the back with the work in the mines around Annaberg: men push wheelbarrows, others wash ore at troughs. Find the hewer, the only figure who looks straight at the viewer.",
+          "sk": "The miners' guild gave the carved Bergaltar in about 1521. Walk round behind it. Hans Hesse painted the back with the work in the mines around Annaberg: men push wheelbarrows, others wash ore at troughs. Find the hewer, the only figure who looks straight at the viewer.",
+          "ro": "The miners' guild gave the carved Bergaltar in about 1521. Walk round behind it. Hans Hesse painted the back with the work in the mines around Annaberg: men push wheelbarrows, others wash ore at troughs. Find the hewer, the only figure who looks straight at the viewer.",
+          "hu": "The miners' guild gave the carved Bergaltar in about 1521. Walk round behind it. Hans Hesse painted the back with the work in the mines around Annaberg: men push wheelbarrows, others wash ore at troughs. Find the hewer, the only figure who looks straight at the viewer.",
+          "da": "The miners' guild gave the carved Bergaltar in about 1521. Walk round behind it. Hans Hesse painted the back with the work in the mines around Annaberg: men push wheelbarrows, others wash ore at troughs. Find the hewer, the only figure who looks straight at the viewer."
+        },
+        {
+          "en": "In the middle of the back panel a man sits up a tree with an angel above him. He is Daniel Knappe, who in the town's legend found the first silver at the roots of a tree on the Schreckenberg.",
+          "de": "In der Mitte der Rückseite sitzt ein Mann auf einem Baum, über ihm ein Engel. Es ist Daniel Knappe, der nach der Sage der Stadt an den Wurzeln eines Baums auf dem Schreckenberg das erste Silber fand.",
+          "fr": "Au milieu du panneau arrière, un homme est assis dans un arbre, un ange au-dessus de lui. C'est Daniel Knappe qui, selon la légende de la ville, a trouvé le premier argent aux racines d'un arbre, sur le Schreckenberg.",
+          "it": "Al centro del pannello posteriore un uomo siede su un albero, con un angelo sopra di lui. È Daniel Knappe, che secondo la leggenda della città trovò il primo argento tra le radici di un albero sullo Schreckenberg.",
+          "nl": "In the middle of the back panel a man sits up a tree with an angel above him. He is Daniel Knappe, who in the town's legend found the first silver at the roots of a tree on the Schreckenberg.",
+          "pl": "In the middle of the back panel a man sits up a tree with an angel above him. He is Daniel Knappe, who in the town's legend found the first silver at the roots of a tree on the Schreckenberg.",
+          "cs": "In the middle of the back panel a man sits up a tree with an angel above him. He is Daniel Knappe, who in the town's legend found the first silver at the roots of a tree on the Schreckenberg.",
+          "sk": "In the middle of the back panel a man sits up a tree with an angel above him. He is Daniel Knappe, who in the town's legend found the first silver at the roots of a tree on the Schreckenberg.",
+          "ro": "In the middle of the back panel a man sits up a tree with an angel above him. He is Daniel Knappe, who in the town's legend found the first silver at the roots of a tree on the Schreckenberg.",
+          "hu": "In the middle of the back panel a man sits up a tree with an angel above him. He is Daniel Knappe, who in the town's legend found the first silver at the roots of a tree on the Schreckenberg.",
+          "da": "In the middle of the back panel a man sits up a tree with an angel above him. He is Daniel Knappe, who in the town's legend found the first silver at the roots of a tree on the Schreckenberg."
+        }
+      ]
+    },
+    {
+      "id": "mine-hammer",
+      "type": "text",
+      "label": {
+        "en": "Under the town",
+        "de": "Unter der Stadt",
+        "fr": "Sous la ville",
+        "it": "Sotto la città",
+        "nl": "Under the town",
+        "pl": "Under the town",
+        "cs": "Under the town",
+        "sk": "Under the town",
+        "ro": "Under the town",
+        "hu": "Under the town",
+        "da": "Under the town"
+      },
+      "title": {
+        "en": "Silver mine and Frohnauer Hammer",
+        "de": "Silberbergwerk und Frohnauer Hammer",
+        "fr": "Mine d'argent et Frohnauer Hammer",
+        "it": "Miniera d'argento e Frohnauer Hammer",
+        "nl": "Silver mine and Frohnauer Hammer",
+        "pl": "Silver mine and Frohnauer Hammer",
+        "cs": "Silver mine and Frohnauer Hammer",
+        "sk": "Silver mine and Frohnauer Hammer",
+        "ro": "Silver mine and Frohnauer Hammer",
+        "hu": "Silver mine and Frohnauer Hammer",
+        "da": "Silver mine and Frohnauer Hammer"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/5cb5399738bfa5e5/annaberg-frohnauer-hammer.jpg",
+          "width": 2400,
+          "credit": "Aagnverglaser, CC BY 4.0",
+          "height": 1800,
+          "caption": {
+            "en": "The Herrenhaus and the hammer works of the Frohnauer Hammer at the end of November.",
+            "de": "Herrenhaus und Hammerwerk des Frohnauer Hammers Ende November.",
+            "fr": "Le Herrenhaus et la forge du Frohnauer Hammer, fin novembre.",
+            "it": "L'Herrenhaus e l'officina del maglio del Frohnauer Hammer a fine novembre.",
+            "nl": "The Herrenhaus and the hammer works of the Frohnauer Hammer at the end of November.",
+            "pl": "The Herrenhaus and the hammer works of the Frohnauer Hammer at the end of November.",
+            "cs": "The Herrenhaus and the hammer works of the Frohnauer Hammer at the end of November.",
+            "sk": "The Herrenhaus and the hammer works of the Frohnauer Hammer at the end of November.",
+            "ro": "The Herrenhaus and the hammer works of the Frohnauer Hammer at the end of November.",
+            "hu": "The Herrenhaus and the hammer works of the Frohnauer Hammer at the end of November.",
+            "da": "The Herrenhaus and the hammer works of the Frohnauer Hammer at the end of November."
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Frohnauer_Hammer,_Herrenhaus_und_Hammerwerk_und_Langs_Erzgebirgshaus.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "A silver mine from the years of the town's founding lies under the courtyard of the Erzgebirgsmuseum in the Große Kirchgasse. It was found again only in 1992. A guide takes visitors down into it.",
+          "de": "Unter dem Hof des Erzgebirgsmuseums in der Großen Kirchgasse liegt ein Silberbergwerk aus den Gründungsjahren der Stadt. Erst 1992 wurde es wiedergefunden. Eine Führung bringt Besucher hinunter.",
+          "fr": "Une mine d'argent des années de la fondation de la ville s'étend sous la cour de l'Erzgebirgsmuseum, dans la Große Kirchgasse. Elle n'a été retrouvée qu'en 1992. Un guide y fait descendre les visiteurs.",
+          "it": "Sotto il cortile dell'Erzgebirgsmuseum, nella Große Kirchgasse, si trova una miniera d'argento degli anni della fondazione della città. È stata ritrovata solo nel 1992. Una guida accompagna i visitatori nella discesa.",
+          "nl": "A silver mine from the years of the town's founding lies under the courtyard of the Erzgebirgsmuseum in the Große Kirchgasse. It was found again only in 1992. A guide takes visitors down into it.",
+          "pl": "A silver mine from the years of the town's founding lies under the courtyard of the Erzgebirgsmuseum in the Große Kirchgasse. It was found again only in 1992. A guide takes visitors down into it.",
+          "cs": "A silver mine from the years of the town's founding lies under the courtyard of the Erzgebirgsmuseum in the Große Kirchgasse. It was found again only in 1992. A guide takes visitors down into it.",
+          "sk": "A silver mine from the years of the town's founding lies under the courtyard of the Erzgebirgsmuseum in the Große Kirchgasse. It was found again only in 1992. A guide takes visitors down into it.",
+          "ro": "A silver mine from the years of the town's founding lies under the courtyard of the Erzgebirgsmuseum in the Große Kirchgasse. It was found again only in 1992. A guide takes visitors down into it.",
+          "hu": "A silver mine from the years of the town's founding lies under the courtyard of the Erzgebirgsmuseum in the Große Kirchgasse. It was found again only in 1992. A guide takes visitors down into it.",
+          "da": "A silver mine from the years of the town's founding lies under the courtyard of the Erzgebirgsmuseum in the Große Kirchgasse. It was found again only in 1992. A guide takes visitors down into it."
+        },
+        {
+          "en": "Near the lower station, the mining court met in the garden of a mill on 21 September 1496 and decided there to found the new town. The mill became the Frohnauer Hammer in 1621. Its water-driven hammers of the 17th century still work on the tour, which ends in the Herrenhaus with a lace maker at her pillow.",
+          "de": "In der Nähe des unteren Bahnhofs tagte am 21. September 1496 das Berggericht im Garten einer Mühle und beschloss dort die Gründung der neuen Stadt. Aus der Mühle wurde 1621 der Frohnauer Hammer. Seine wassergetriebenen Hämmer aus dem 17. Jahrhundert arbeiten bei der Führung bis heute. Sie endet im Herrenhaus bei einer Klöpplerin am Klöppelsack.",
+          "fr": "Près de la gare inférieure, le tribunal des mines s'est réuni le 21 septembre 1496 dans le jardin d'un moulin et y a décidé la fondation de la nouvelle ville. Le moulin devient le Frohnauer Hammer en 1621. Ses marteaux hydrauliques du XVIIe siècle fonctionnent encore pendant la visite, qui se termine au Herrenhaus auprès d'une dentellière à son carreau.",
+          "it": "Vicino alla stazione inferiore, il 21 settembre 1496 il tribunale minerario si riunì nel giardino di un mulino e lì decise di fondare la nuova città. Nel 1621 il mulino diventò il Frohnauer Hammer. I suoi magli del Seicento, mossi dall'acqua, funzionano ancora durante la visita, che si chiude nell'Herrenhaus con una merlettaia al tombolo.",
+          "nl": "Near the lower station, the mining court met in the garden of a mill on 21 September 1496 and decided there to found the new town. The mill became the Frohnauer Hammer in 1621. Its water-driven hammers of the 17th century still work on the tour, which ends in the Herrenhaus with a lace maker at her pillow.",
+          "pl": "Near the lower station, the mining court met in the garden of a mill on 21 September 1496 and decided there to found the new town. The mill became the Frohnauer Hammer in 1621. Its water-driven hammers of the 17th century still work on the tour, which ends in the Herrenhaus with a lace maker at her pillow.",
+          "cs": "Near the lower station, the mining court met in the garden of a mill on 21 September 1496 and decided there to found the new town. The mill became the Frohnauer Hammer in 1621. Its water-driven hammers of the 17th century still work on the tour, which ends in the Herrenhaus with a lace maker at her pillow.",
+          "sk": "Near the lower station, the mining court met in the garden of a mill on 21 September 1496 and decided there to found the new town. The mill became the Frohnauer Hammer in 1621. Its water-driven hammers of the 17th century still work on the tour, which ends in the Herrenhaus with a lace maker at her pillow.",
+          "ro": "Near the lower station, the mining court met in the garden of a mill on 21 September 1496 and decided there to found the new town. The mill became the Frohnauer Hammer in 1621. Its water-driven hammers of the 17th century still work on the tour, which ends in the Herrenhaus with a lace maker at her pillow.",
+          "hu": "Near the lower station, the mining court met in the garden of a mill on 21 September 1496 and decided there to found the new town. The mill became the Frohnauer Hammer in 1621. Its water-driven hammers of the 17th century still work on the tour, which ends in the Herrenhaus with a lace maker at her pillow.",
+          "da": "Near the lower station, the mining court met in the garden of a mill on 21 September 1496 and decided there to found the new town. The mill became the Frohnauer Hammer in 1621. Its water-driven hammers of the 17th century still work on the tour, which ends in the Herrenhaus with a lace maker at her pillow."
+        }
+      ]
+    },
+    {
+      "id": "practical",
+      "rows": [
+        {
+          "label": {
+            "en": "Adam-Ries-Museum",
+            "de": "Adam-Ries-Museum",
+            "fr": "Adam-Ries-Museum",
+            "it": "Adam-Ries-Museum",
+            "nl": "Adam-Ries-Museum",
+            "pl": "Adam-Ries-Museum",
+            "cs": "Adam-Ries-Museum",
+            "sk": "Adam-Ries-Museum",
+            "ro": "Adam-Ries-Museum",
+            "hu": "Adam-Ries-Museum",
+            "da": "Adam-Ries-Museum"
+          },
+          "value": {
+            "en": "Johannisgasse 23, 09456 Annaberg-Buchholz; Tuesday to Friday 10:00 to 16:00, Saturday 12:00 to 16:00; closed Sunday, Monday and 18 November",
+            "de": "Johannisgasse 23, 09456 Annaberg-Buchholz; Dienstag bis Freitag 10:00 bis 16:00 Uhr, Samstag 12:00 bis 16:00 Uhr; Sonntag, Montag und am 18. November geschlossen",
+            "fr": "Johannisgasse 23, 09456 Annaberg-Buchholz ; du mardi au vendredi de 10h00 à 16h00, samedi de 12h00 à 16h00 ; fermé le dimanche, le lundi et le 18 novembre",
+            "it": "Johannisgasse 23, 09456 Annaberg-Buchholz; da martedì a venerdì dalle 10:00 alle 16:00, sabato dalle 12:00 alle 16:00; chiuso domenica, lunedì e il 18 novembre",
+            "nl": "Johannisgasse 23, 09456 Annaberg-Buchholz; Tuesday to Friday 10:00 to 16:00, Saturday 12:00 to 16:00; closed Sunday, Monday and 18 November",
+            "pl": "Johannisgasse 23, 09456 Annaberg-Buchholz; Tuesday to Friday 10:00 to 16:00, Saturday 12:00 to 16:00; closed Sunday, Monday and 18 November",
+            "cs": "Johannisgasse 23, 09456 Annaberg-Buchholz; Tuesday to Friday 10:00 to 16:00, Saturday 12:00 to 16:00; closed Sunday, Monday and 18 November",
+            "sk": "Johannisgasse 23, 09456 Annaberg-Buchholz; Tuesday to Friday 10:00 to 16:00, Saturday 12:00 to 16:00; closed Sunday, Monday and 18 November",
+            "ro": "Johannisgasse 23, 09456 Annaberg-Buchholz; Tuesday to Friday 10:00 to 16:00, Saturday 12:00 to 16:00; closed Sunday, Monday and 18 November",
+            "hu": "Johannisgasse 23, 09456 Annaberg-Buchholz; Tuesday to Friday 10:00 to 16:00, Saturday 12:00 to 16:00; closed Sunday, Monday and 18 November",
+            "da": "Johannisgasse 23, 09456 Annaberg-Buchholz; Tuesday to Friday 10:00 to 16:00, Saturday 12:00 to 16:00; closed Sunday, Monday and 18 November"
+          }
+        },
+        {
+          "label": {
+            "en": "Tickets, museum",
+            "de": "Eintritt Museum",
+            "fr": "Billets, musée",
+            "it": "Biglietti, museo",
+            "nl": "Tickets, museum",
+            "pl": "Tickets, museum",
+            "cs": "Tickets, museum",
+            "sk": "Tickets, museum",
+            "ro": "Tickets, museum",
+            "hu": "Tickets, museum",
+            "da": "Tickets, museum"
+          },
+          "value": {
+            "en": "5 EUR, reduced 3 EUR; audio guide 2 EUR",
+            "de": "5 EUR, ermäßigt 3 EUR; Audioguide 2 EUR",
+            "fr": "5 EUR, tarif réduit 3 EUR ; audioguide 2 EUR",
+            "it": "5 EUR, ridotto 3 EUR; audioguida 2 EUR",
+            "nl": "5 EUR, reduced 3 EUR; audio guide 2 EUR",
+            "pl": "5 EUR, reduced 3 EUR; audio guide 2 EUR",
+            "cs": "5 EUR, reduced 3 EUR; audio guide 2 EUR",
+            "sk": "5 EUR, reduced 3 EUR; audio guide 2 EUR",
+            "ro": "5 EUR, reduced 3 EUR; audio guide 2 EUR",
+            "hu": "5 EUR, reduced 3 EUR; audio guide 2 EUR",
+            "da": "5 EUR, reduced 3 EUR; audio guide 2 EUR"
+          }
+        },
+        {
+          "label": {
+            "en": "St. Annen",
+            "de": "St. Annen",
+            "fr": "St. Annen",
+            "it": "St. Annen",
+            "nl": "St. Annen",
+            "pl": "St. Annen",
+            "cs": "St. Annen",
+            "sk": "St. Annen",
+            "ro": "St. Annen",
+            "hu": "St. Annen",
+            "da": "St. Annen"
+          },
+          "value": {
+            "en": "Große Kirchgasse; daily 11:00 to 17:00, Sundays and holidays 12:00 to 17:00; not during services; 4 EUR, pupils 2 EUR",
+            "de": "Große Kirchgasse; täglich 11:00 bis 17:00 Uhr, sonn- und feiertags 12:00 bis 17:00 Uhr; nicht während der Gottesdienste; 4 EUR, Schüler 2 EUR",
+            "fr": "Große Kirchgasse ; tous les jours de 11h00 à 17h00, dimanches et jours fériés de 12h00 à 17h00 ; pas pendant les offices ; 4 EUR, élèves 2 EUR",
+            "it": "Große Kirchgasse; tutti i giorni dalle 11:00 alle 17:00, domenica e festivi dalle 12:00 alle 17:00; non durante le funzioni; 4 EUR, alunni 2 EUR",
+            "nl": "Große Kirchgasse; daily 11:00 to 17:00, Sundays and holidays 12:00 to 17:00; not during services; 4 EUR, pupils 2 EUR",
+            "pl": "Große Kirchgasse; daily 11:00 to 17:00, Sundays and holidays 12:00 to 17:00; not during services; 4 EUR, pupils 2 EUR",
+            "cs": "Große Kirchgasse; daily 11:00 to 17:00, Sundays and holidays 12:00 to 17:00; not during services; 4 EUR, pupils 2 EUR",
+            "sk": "Große Kirchgasse; daily 11:00 to 17:00, Sundays and holidays 12:00 to 17:00; not during services; 4 EUR, pupils 2 EUR",
+            "ro": "Große Kirchgasse; daily 11:00 to 17:00, Sundays and holidays 12:00 to 17:00; not during services; 4 EUR, pupils 2 EUR",
+            "hu": "Große Kirchgasse; daily 11:00 to 17:00, Sundays and holidays 12:00 to 17:00; not during services; 4 EUR, pupils 2 EUR",
+            "da": "Große Kirchgasse; daily 11:00 to 17:00, Sundays and holidays 12:00 to 17:00; not during services; 4 EUR, pupils 2 EUR"
+          }
+        },
+        {
+          "label": {
+            "en": "Church tours",
+            "de": "Kirchenführungen",
+            "fr": "Visites de l'église",
+            "it": "Visite guidate della chiesa",
+            "nl": "Church tours",
+            "pl": "Church tours",
+            "cs": "Church tours",
+            "sk": "Church tours",
+            "ro": "Church tours",
+            "hu": "Church tours",
+            "da": "Church tours"
+          },
+          "value": {
+            "en": "Monday to Saturday 11:00 and 14:00, Sundays 14:00, about 45 minutes, 6 EUR",
+            "de": "Montag bis Samstag 11:00 und 14:00 Uhr, sonntags 14:00 Uhr, etwa 45 Minuten, 6 EUR",
+            "fr": "du lundi au samedi à 11h00 et 14h00, dimanche à 14h00, environ 45 minutes, 6 EUR",
+            "it": "da lunedì a sabato alle 11:00 e alle 14:00, domenica alle 14:00, circa 45 minuti, 6 EUR",
+            "nl": "Monday to Saturday 11:00 and 14:00, Sundays 14:00, about 45 minutes, 6 EUR",
+            "pl": "Monday to Saturday 11:00 and 14:00, Sundays 14:00, about 45 minutes, 6 EUR",
+            "cs": "Monday to Saturday 11:00 and 14:00, Sundays 14:00, about 45 minutes, 6 EUR",
+            "sk": "Monday to Saturday 11:00 and 14:00, Sundays 14:00, about 45 minutes, 6 EUR",
+            "ro": "Monday to Saturday 11:00 and 14:00, Sundays 14:00, about 45 minutes, 6 EUR",
+            "hu": "Monday to Saturday 11:00 and 14:00, Sundays 14:00, about 45 minutes, 6 EUR",
+            "da": "Monday to Saturday 11:00 and 14:00, Sundays 14:00, about 45 minutes, 6 EUR"
+          }
+        },
+        {
+          "label": {
+            "en": "Erzgebirgsmuseum and mine",
+            "de": "Erzgebirgsmuseum und Bergwerk",
+            "fr": "Erzgebirgsmuseum et mine",
+            "it": "Erzgebirgsmuseum e miniera",
+            "nl": "Erzgebirgsmuseum and mine",
+            "pl": "Erzgebirgsmuseum and mine",
+            "cs": "Erzgebirgsmuseum and mine",
+            "sk": "Erzgebirgsmuseum and mine",
+            "ro": "Erzgebirgsmuseum and mine",
+            "hu": "Erzgebirgsmuseum and mine",
+            "da": "Erzgebirgsmuseum and mine"
+          },
+          "value": {
+            "en": "Große Kirchgasse 16; Tuesday to Sunday 10:00 to 17:00; museum and mine 7.50 EUR, reduced 4 EUR",
+            "de": "Große Kirchgasse 16; Dienstag bis Sonntag 10:00 bis 17:00 Uhr; Museum und Bergwerk 7,50 EUR, ermäßigt 4 EUR",
+            "fr": "Große Kirchgasse 16 ; du mardi au dimanche de 10h00 à 17h00 ; musée et mine 7,50 EUR, tarif réduit 4 EUR",
+            "it": "Große Kirchgasse 16; da martedì a domenica dalle 10:00 alle 17:00; museo e miniera 7,50 EUR, ridotto 4 EUR",
+            "nl": "Große Kirchgasse 16; Tuesday to Sunday 10:00 to 17:00; museum and mine 7.50 EUR, reduced 4 EUR",
+            "pl": "Große Kirchgasse 16; Tuesday to Sunday 10:00 to 17:00; museum and mine 7.50 EUR, reduced 4 EUR",
+            "cs": "Große Kirchgasse 16; Tuesday to Sunday 10:00 to 17:00; museum and mine 7.50 EUR, reduced 4 EUR",
+            "sk": "Große Kirchgasse 16; Tuesday to Sunday 10:00 to 17:00; museum and mine 7.50 EUR, reduced 4 EUR",
+            "ro": "Große Kirchgasse 16; Tuesday to Sunday 10:00 to 17:00; museum and mine 7.50 EUR, reduced 4 EUR",
+            "hu": "Große Kirchgasse 16; Tuesday to Sunday 10:00 to 17:00; museum and mine 7.50 EUR, reduced 4 EUR",
+            "da": "Große Kirchgasse 16; Tuesday to Sunday 10:00 to 17:00; museum and mine 7.50 EUR, reduced 4 EUR"
+          }
+        },
+        {
+          "label": {
+            "en": "Mine tours",
+            "de": "Bergwerksführungen",
+            "fr": "Visites de la mine",
+            "it": "Visite in miniera",
+            "nl": "Mine tours",
+            "pl": "Mine tours",
+            "cs": "Mine tours",
+            "sk": "Mine tours",
+            "ro": "Mine tours",
+            "hu": "Mine tours",
+            "da": "Mine tours"
+          },
+          "value": {
+            "en": "Tuesday to Friday 12:00 and 15:00; Saturday and Sunday 11:00, 12:30, 14:00 and 15:30",
+            "de": "Dienstag bis Freitag 12:00 und 15:00 Uhr; Samstag und Sonntag 11:00, 12:30, 14:00 und 15:30 Uhr",
+            "fr": "du mardi au vendredi à 12h00 et 15h00 ; samedi et dimanche à 11h00, 12h30, 14h00 et 15h30",
+            "it": "da martedì a venerdì alle 12:00 e alle 15:00; sabato e domenica alle 11:00, 12:30, 14:00 e 15:30",
+            "nl": "Tuesday to Friday 12:00 and 15:00; Saturday and Sunday 11:00, 12:30, 14:00 and 15:30",
+            "pl": "Tuesday to Friday 12:00 and 15:00; Saturday and Sunday 11:00, 12:30, 14:00 and 15:30",
+            "cs": "Tuesday to Friday 12:00 and 15:00; Saturday and Sunday 11:00, 12:30, 14:00 and 15:30",
+            "sk": "Tuesday to Friday 12:00 and 15:00; Saturday and Sunday 11:00, 12:30, 14:00 and 15:30",
+            "ro": "Tuesday to Friday 12:00 and 15:00; Saturday and Sunday 11:00, 12:30, 14:00 and 15:30",
+            "hu": "Tuesday to Friday 12:00 and 15:00; Saturday and Sunday 11:00, 12:30, 14:00 and 15:30",
+            "da": "Tuesday to Friday 12:00 and 15:00; Saturday and Sunday 11:00, 12:30, 14:00 and 15:30"
+          }
+        },
+        {
+          "label": {
+            "en": "Frohnauer Hammer",
+            "de": "Frohnauer Hammer",
+            "fr": "Frohnauer Hammer",
+            "it": "Frohnauer Hammer",
+            "nl": "Frohnauer Hammer",
+            "pl": "Frohnauer Hammer",
+            "cs": "Frohnauer Hammer",
+            "sk": "Frohnauer Hammer",
+            "ro": "Frohnauer Hammer",
+            "hu": "Frohnauer Hammer",
+            "da": "Frohnauer Hammer"
+          },
+          "value": {
+            "en": "Sehmatalstraße 3; Tuesday to Sunday 9:00 to 17:00, last tour 16:00; guided tours only; 5 EUR, reduced 3 EUR",
+            "de": "Sehmatalstraße 3; Dienstag bis Sonntag 9:00 bis 17:00 Uhr, letzte Führung 16:00 Uhr; nur mit Führung; 5 EUR, ermäßigt 3 EUR",
+            "fr": "Sehmatalstraße 3 ; du mardi au dimanche de 9h00 à 17h00, dernière visite à 16h00 ; uniquement en visite guidée ; 5 EUR, tarif réduit 3 EUR",
+            "it": "Sehmatalstraße 3; da martedì a domenica dalle 9:00 alle 17:00, ultima visita alle 16:00; solo con visita guidata; 5 EUR, ridotto 3 EUR",
+            "nl": "Sehmatalstraße 3; Tuesday to Sunday 9:00 to 17:00, last tour 16:00; guided tours only; 5 EUR, reduced 3 EUR",
+            "pl": "Sehmatalstraße 3; Tuesday to Sunday 9:00 to 17:00, last tour 16:00; guided tours only; 5 EUR, reduced 3 EUR",
+            "cs": "Sehmatalstraße 3; Tuesday to Sunday 9:00 to 17:00, last tour 16:00; guided tours only; 5 EUR, reduced 3 EUR",
+            "sk": "Sehmatalstraße 3; Tuesday to Sunday 9:00 to 17:00, last tour 16:00; guided tours only; 5 EUR, reduced 3 EUR",
+            "ro": "Sehmatalstraße 3; Tuesday to Sunday 9:00 to 17:00, last tour 16:00; guided tours only; 5 EUR, reduced 3 EUR",
+            "hu": "Sehmatalstraße 3; Tuesday to Sunday 9:00 to 17:00, last tour 16:00; guided tours only; 5 EUR, reduced 3 EUR",
+            "da": "Sehmatalstraße 3; Tuesday to Sunday 9:00 to 17:00, last tour 16:00; guided tours only; 5 EUR, reduced 3 EUR"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "Practical",
+        "de": "Praktisch",
+        "fr": "Infos pratiques",
+        "it": "Informazioni pratiche",
+        "nl": "Practical",
+        "pl": "Practical",
+        "cs": "Practical",
+        "sk": "Practical",
+        "ro": "Practical",
+        "hu": "Practical",
+        "da": "Practical"
+      },
+      "title": {
+        "en": "Opening times and prices",
+        "de": "Öffnungszeiten und Preise",
+        "fr": "Horaires et tarifs",
+        "it": "Orari e prezzi",
+        "nl": "Opening times and prices",
+        "pl": "Opening times and prices",
+        "cs": "Opening times and prices",
+        "sk": "Opening times and prices",
+        "ro": "Opening times and prices",
+        "hu": "Opening times and prices",
+        "da": "Opening times and prices"
+      },
+      "buttons": [
+        {
+          "href": "https://www.adam-ries-museum.de/ihr-besuch/oeffnungszeiten-und-preise",
+          "label": {
+            "en": "Adam-Ries-Museum",
+            "de": "Adam-Ries-Museum",
+            "fr": "Adam-Ries-Museum",
+            "it": "Adam-Ries-Museum",
+            "nl": "Adam-Ries-Museum",
+            "pl": "Adam-Ries-Museum",
+            "cs": "Adam-Ries-Museum",
+            "sk": "Adam-Ries-Museum",
+            "ro": "Adam-Ries-Museum",
+            "hu": "Adam-Ries-Museum",
+            "da": "Adam-Ries-Museum"
+          }
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "type": "tiles",
+      "label": {
+        "en": "How to get there",
+        "de": "Anfahrt",
+        "fr": "Y aller",
+        "it": "Come arrivare",
+        "nl": "How to get there",
+        "pl": "How to get there",
+        "cs": "How to get there",
+        "sk": "How to get there",
+        "ro": "How to get there",
+        "hu": "How to get there",
+        "da": "How to get there"
+      },
+      "tiles": [
+        {
+          "icon": "train",
+          "text": {
+            "en": "The RB 80 leaves Chemnitz Hbf at :36 almost every hour and reaches Annaberg-Buchholz unt Bf in about 70 minutes.",
+            "de": "Die RB 80 fährt ab Chemnitz Hbf fast stündlich um :36 und braucht etwa 70 Minuten bis Annaberg-Buchholz unt Bf.",
+            "fr": "Le RB 80 part de Chemnitz Hbf presque toutes les heures, à la 36e minute, et atteint Annaberg-Buchholz unt Bf en 70 minutes environ.",
+            "it": "La RB 80 parte da Chemnitz Hbf quasi ogni ora al minuto 36 e arriva ad Annaberg-Buchholz unt Bf in circa 70 minuti.",
+            "nl": "The RB 80 leaves Chemnitz Hbf at :36 almost every hour and reaches Annaberg-Buchholz unt Bf in about 70 minutes.",
+            "pl": "The RB 80 leaves Chemnitz Hbf at :36 almost every hour and reaches Annaberg-Buchholz unt Bf in about 70 minutes.",
+            "cs": "The RB 80 leaves Chemnitz Hbf at :36 almost every hour and reaches Annaberg-Buchholz unt Bf in about 70 minutes.",
+            "sk": "The RB 80 leaves Chemnitz Hbf at :36 almost every hour and reaches Annaberg-Buchholz unt Bf in about 70 minutes.",
+            "ro": "The RB 80 leaves Chemnitz Hbf at :36 almost every hour and reaches Annaberg-Buchholz unt Bf in about 70 minutes.",
+            "hu": "The RB 80 leaves Chemnitz Hbf at :36 almost every hour and reaches Annaberg-Buchholz unt Bf in about 70 minutes.",
+            "da": "The RB 80 leaves Chemnitz Hbf at :36 almost every hour and reaches Annaberg-Buchholz unt Bf in about 70 minutes."
+          },
+          "title": {
+            "en": "By train",
+            "de": "Mit der Bahn",
+            "fr": "En train",
+            "it": "In treno",
+            "nl": "By train",
+            "pl": "By train",
+            "cs": "By train",
+            "sk": "By train",
+            "ro": "By train",
+            "hu": "By train",
+            "da": "By train"
+          }
+        },
+        {
+          "icon": "walk",
+          "text": {
+            "en": "The Frohnauer Hammer is about 300 metres from Annaberg-Buchholz unt Bf.",
+            "de": "Vom Bahnhof Annaberg-Buchholz unt Bf sind es etwa 300 Meter zum Frohnauer Hammer.",
+            "fr": "Le Frohnauer Hammer est à environ 300 mètres d'Annaberg-Buchholz unt Bf.",
+            "it": "Il Frohnauer Hammer dista circa 300 metri da Annaberg-Buchholz unt Bf.",
+            "nl": "The Frohnauer Hammer is about 300 metres from Annaberg-Buchholz unt Bf.",
+            "pl": "The Frohnauer Hammer is about 300 metres from Annaberg-Buchholz unt Bf.",
+            "cs": "The Frohnauer Hammer is about 300 metres from Annaberg-Buchholz unt Bf.",
+            "sk": "The Frohnauer Hammer is about 300 metres from Annaberg-Buchholz unt Bf.",
+            "ro": "The Frohnauer Hammer is about 300 metres from Annaberg-Buchholz unt Bf.",
+            "hu": "The Frohnauer Hammer is about 300 metres from Annaberg-Buchholz unt Bf.",
+            "da": "The Frohnauer Hammer is about 300 metres from Annaberg-Buchholz unt Bf."
+          },
+          "title": {
+            "en": "On foot",
+            "de": "Zu Fuß",
+            "fr": "À pied",
+            "it": "A piedi",
+            "nl": "On foot",
+            "pl": "On foot",
+            "cs": "On foot",
+            "sk": "On foot",
+            "ro": "On foot",
+            "hu": "On foot",
+            "da": "On foot"
+          }
+        },
+        {
+          "icon": "car",
+          "text": {
+            "en": "Park in the P3 garage under the Markt, free for the first hour, or at P+R Kätplatz with a town bus to the centre.",
+            "de": "Im Parkhaus P3 unter dem Markt ist die erste Stunde frei, sonst parkst du am P+R Kätplatz und fährst mit dem Stadtbus ins Zentrum.",
+            "fr": "Stationnement au parking P3 sous le Markt, gratuit la première heure, ou au P+R Kätplatz, avec un bus urbain jusqu'au centre.",
+            "it": "Puoi lasciare l'auto nel parcheggio sotterraneo P3 sotto il Markt, prima ora gratuita, oppure al P+R Kätplatz, con il bus urbano fino al centro.",
+            "nl": "Park in the P3 garage under the Markt, free for the first hour, or at P+R Kätplatz with a town bus to the centre.",
+            "pl": "Park in the P3 garage under the Markt, free for the first hour, or at P+R Kätplatz with a town bus to the centre.",
+            "cs": "Park in the P3 garage under the Markt, free for the first hour, or at P+R Kätplatz with a town bus to the centre.",
+            "sk": "Park in the P3 garage under the Markt, free for the first hour, or at P+R Kätplatz with a town bus to the centre.",
+            "ro": "Park in the P3 garage under the Markt, free for the first hour, or at P+R Kätplatz with a town bus to the centre.",
+            "hu": "Park in the P3 garage under the Markt, free for the first hour, or at P+R Kätplatz with a town bus to the centre.",
+            "da": "Park in the P3 garage under the Markt, free for the first hour, or at P+R Kätplatz with a town bus to the centre."
+          },
+          "title": {
+            "en": "By car",
+            "de": "Mit dem Auto",
+            "fr": "En voiture",
+            "it": "In auto",
+            "nl": "By car",
+            "pl": "By car",
+            "cs": "By car",
+            "sk": "By car",
+            "ro": "By car",
+            "hu": "By car",
+            "da": "By car"
+          }
+        }
+      ],
+      "title": {
+        "en": "The train from Chemnitz and parking",
+        "de": "Die Bahn aus Chemnitz und das Parken",
+        "fr": "Le train depuis Chemnitz et le stationnement",
+        "it": "Il treno da Chemnitz e i parcheggi",
+        "nl": "The train from Chemnitz and parking",
+        "pl": "The train from Chemnitz and parking",
+        "cs": "The train from Chemnitz and parking",
+        "sk": "The train from Chemnitz and parking",
+        "ro": "The train from Chemnitz and parking",
+        "hu": "The train from Chemnitz and parking",
+        "da": "The train from Chemnitz and parking"
+      }
+    },
+    {
+      "id": "season",
+      "text": {
+        "en": "The tower of St. Annen is closed from 1 November and opens again on 28 November. The Manufaktur der Träume folk art museum is closed for rebuilding until about the end of November. On 18 November, Buß- und Bettag, the Adam-Ries-Museum is closed. Some weekday trains do not run that day. The Christmas market opens on 27 November.",
+        "de": "Der Turm der St. Annenkirche ist ab dem 1. November geschlossen und öffnet am 28. November wieder. Das Volkskundemuseum Manufaktur der Träume ist wegen Umbau bis etwa Ende November geschlossen. Am 18. November, dem Buß- und Bettag, ist das Adam-Ries-Museum geschlossen. An diesem Tag fallen einzelne Züge aus, die sonst werktags fahren. Der Weihnachtsmarkt öffnet am 27. November.",
+        "fr": "La tour de St. Annen est fermée à partir du 1er novembre et rouvre le 28 novembre. Le musée d'art populaire Manufaktur der Träume est fermé pour travaux jusqu'à fin novembre environ. Le 18 novembre, jour du Buß- und Bettag, l'Adam-Ries-Museum est fermé. Ce jour-là, certains trains de semaine ne circulent pas. Le marché de Noël ouvre le 27 novembre.",
+        "it": "La torre della St. Annen è chiusa dal 1° novembre e riapre il 28 novembre. Il museo di arte popolare Manufaktur der Träume resta chiuso per lavori fino a fine novembre circa. Il 18 novembre, Buß- und Bettag, l'Adam-Ries-Museum è chiuso. Quel giorno alcuni treni feriali non circolano. Il mercatino di Natale apre il 27 novembre.",
+        "nl": "The tower of St. Annen is closed from 1 November and opens again on 28 November. The Manufaktur der Träume folk art museum is closed for rebuilding until about the end of November. On 18 November, Buß- und Bettag, the Adam-Ries-Museum is closed. Some weekday trains do not run that day. The Christmas market opens on 27 November.",
+        "pl": "The tower of St. Annen is closed from 1 November and opens again on 28 November. The Manufaktur der Träume folk art museum is closed for rebuilding until about the end of November. On 18 November, Buß- und Bettag, the Adam-Ries-Museum is closed. Some weekday trains do not run that day. The Christmas market opens on 27 November.",
+        "cs": "The tower of St. Annen is closed from 1 November and opens again on 28 November. The Manufaktur der Träume folk art museum is closed for rebuilding until about the end of November. On 18 November, Buß- und Bettag, the Adam-Ries-Museum is closed. Some weekday trains do not run that day. The Christmas market opens on 27 November.",
+        "sk": "The tower of St. Annen is closed from 1 November and opens again on 28 November. The Manufaktur der Träume folk art museum is closed for rebuilding until about the end of November. On 18 November, Buß- und Bettag, the Adam-Ries-Museum is closed. Some weekday trains do not run that day. The Christmas market opens on 27 November.",
+        "ro": "The tower of St. Annen is closed from 1 November and opens again on 28 November. The Manufaktur der Träume folk art museum is closed for rebuilding until about the end of November. On 18 November, Buß- und Bettag, the Adam-Ries-Museum is closed. Some weekday trains do not run that day. The Christmas market opens on 27 November.",
+        "hu": "The tower of St. Annen is closed from 1 November and opens again on 28 November. The Manufaktur der Träume folk art museum is closed for rebuilding until about the end of November. On 18 November, Buß- und Bettag, the Adam-Ries-Museum is closed. Some weekday trains do not run that day. The Christmas market opens on 27 November.",
+        "da": "The tower of St. Annen is closed from 1 November and opens again on 28 November. The Manufaktur der Träume folk art museum is closed for rebuilding until about the end of November. On 18 November, Buß- und Bettag, the Adam-Ries-Museum is closed. Some weekday trains do not run that day. The Christmas market opens on 27 November."
+      },
+      "type": "note"
+    },
+    {
+      "id": "afterwards",
+      "type": "text",
+      "label": {
+        "en": "Afterwards",
+        "de": "Danach",
+        "fr": "Ensuite",
+        "it": "Dopo",
+        "nl": "Afterwards",
+        "pl": "Afterwards",
+        "cs": "Afterwards",
+        "sk": "Afterwards",
+        "ro": "Afterwards",
+        "hu": "Afterwards",
+        "da": "Afterwards"
+      },
+      "title": {
+        "en": "The steam train to Oberwiesenthal",
+        "de": "Mit der Dampfbahn nach Oberwiesenthal",
+        "fr": "Le train à vapeur pour Oberwiesenthal",
+        "it": "Il treno a vapore per Oberwiesenthal",
+        "nl": "The steam train to Oberwiesenthal",
+        "pl": "The steam train to Oberwiesenthal",
+        "cs": "The steam train to Oberwiesenthal",
+        "sk": "The steam train to Oberwiesenthal",
+        "ro": "The steam train to Oberwiesenthal",
+        "hu": "The steam train to Oberwiesenthal",
+        "da": "The steam train to Oberwiesenthal"
+      },
+      "visual": {
+        "type": "stamp",
+        "stamp": {
+          "name": {
+            "en": "Cranzahl-Kurort Oberwiesenthal Railway, Steam Locomotive",
+            "de": "Eisenbahn Cranzahl – Kurort Oberwiesenthal, Dampflokomotive",
+            "fr": "Chemin de fer Cranzahl-Kurort Oberwiesenthal, locomotive à vapeur",
+            "it": "Ferrovia Cranzahl-Kurort Oberwiesenthal, locomotiva a vapore",
+            "nl": "Cranzahl-Kurort Oberwiesenthal Railway, Steam Locomotive",
+            "pl": "Cranzahl-Kurort Oberwiesenthal Railway, Steam Locomotive",
+            "cs": "Cranzahl-Kurort Oberwiesenthal Railway, Steam Locomotive",
+            "sk": "Cranzahl-Kurort Oberwiesenthal Railway, Steam Locomotive",
+            "ro": "Cranzahl-Kurort Oberwiesenthal Railway, Steam Locomotive",
+            "hu": "Cranzahl-Kurort Oberwiesenthal Railway, Steam Locomotive",
+            "da": "Cranzahl-Kurort Oberwiesenthal Railway, Steam Locomotive"
+          },
+          "year": 1984,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/43800bb697fd286c/annaberg-stamp-fichtelbergbahn-1984.png",
+            "width": 1100,
+            "height": 650
+          },
+          "country": "DE",
+          "stamp_id": "SIQ-DDR-1984-017"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "The RB 80 continues from Annaberg-Buchholz unt Bf to Cranzahl in about 12 minutes. There the narrow-gauge Fichtelbergbahn leaves for Kurort Oberwiesenthal, 17.4 kilometres away. The 8:36 from Chemnitz meets the steam train that leaves Cranzahl at 10:00 and arrives in Oberwiesenthal at 10:57.",
+          "de": "Die RB 80 fährt von Annaberg-Buchholz unt Bf in etwa 12 Minuten weiter nach Cranzahl. Dort beginnt die schmalspurige Fichtelbergbahn nach Kurort Oberwiesenthal, 17,4 Kilometer weit. Wer um 8:36 Uhr in Chemnitz losfährt, erreicht den Dampfzug, der um 10:00 Uhr in Cranzahl abfährt und um 10:57 Uhr in Oberwiesenthal ankommt.",
+          "fr": "Le RB 80 continue d'Annaberg-Buchholz unt Bf jusqu'à Cranzahl en 12 minutes environ. De là, la Fichtelbergbahn, une ligne à voie étroite, part pour Kurort Oberwiesenthal, à 17,4 kilomètres. Le train de 8h36 au départ de Chemnitz assure la correspondance avec le train à vapeur qui quitte Cranzahl à 10h00 et arrive à Oberwiesenthal à 10h57.",
+          "it": "La RB 80 prosegue da Annaberg-Buchholz unt Bf fino a Cranzahl in circa 12 minuti. Da lì la ferrovia a scartamento ridotto Fichtelbergbahn parte per Kurort Oberwiesenthal, a 17,4 chilometri. Chi prende il treno delle 8:36 da Chemnitz trova la coincidenza con il treno a vapore che lascia Cranzahl alle 10:00 e arriva a Oberwiesenthal alle 10:57.",
+          "nl": "The RB 80 continues from Annaberg-Buchholz unt Bf to Cranzahl in about 12 minutes. There the narrow-gauge Fichtelbergbahn leaves for Kurort Oberwiesenthal, 17.4 kilometres away. The 8:36 from Chemnitz meets the steam train that leaves Cranzahl at 10:00 and arrives in Oberwiesenthal at 10:57.",
+          "pl": "The RB 80 continues from Annaberg-Buchholz unt Bf to Cranzahl in about 12 minutes. There the narrow-gauge Fichtelbergbahn leaves for Kurort Oberwiesenthal, 17.4 kilometres away. The 8:36 from Chemnitz meets the steam train that leaves Cranzahl at 10:00 and arrives in Oberwiesenthal at 10:57.",
+          "cs": "The RB 80 continues from Annaberg-Buchholz unt Bf to Cranzahl in about 12 minutes. There the narrow-gauge Fichtelbergbahn leaves for Kurort Oberwiesenthal, 17.4 kilometres away. The 8:36 from Chemnitz meets the steam train that leaves Cranzahl at 10:00 and arrives in Oberwiesenthal at 10:57.",
+          "sk": "The RB 80 continues from Annaberg-Buchholz unt Bf to Cranzahl in about 12 minutes. There the narrow-gauge Fichtelbergbahn leaves for Kurort Oberwiesenthal, 17.4 kilometres away. The 8:36 from Chemnitz meets the steam train that leaves Cranzahl at 10:00 and arrives in Oberwiesenthal at 10:57.",
+          "ro": "The RB 80 continues from Annaberg-Buchholz unt Bf to Cranzahl in about 12 minutes. There the narrow-gauge Fichtelbergbahn leaves for Kurort Oberwiesenthal, 17.4 kilometres away. The 8:36 from Chemnitz meets the steam train that leaves Cranzahl at 10:00 and arrives in Oberwiesenthal at 10:57.",
+          "hu": "The RB 80 continues from Annaberg-Buchholz unt Bf to Cranzahl in about 12 minutes. There the narrow-gauge Fichtelbergbahn leaves for Kurort Oberwiesenthal, 17.4 kilometres away. The 8:36 from Chemnitz meets the steam train that leaves Cranzahl at 10:00 and arrives in Oberwiesenthal at 10:57.",
+          "da": "The RB 80 continues from Annaberg-Buchholz unt Bf to Cranzahl in about 12 minutes. There the narrow-gauge Fichtelbergbahn leaves for Kurort Oberwiesenthal, 17.4 kilometres away. The 8:36 from Chemnitz meets the steam train that leaves Cranzahl at 10:00 and arrives in Oberwiesenthal at 10:57."
+        },
+        {
+          "en": "The GDR issued a pair for the line on 20 March 1984, designed by Detlef Glinski. The 30 Pfennig stamp shows the locomotive 99 1775 and the inscription \"Cranzahl - Kurort Oberwiesenthal; Spurweite 750 mm\", the 80 Pfennig stamp a passenger carriage. On the StampIQ map both are pinned on the line. Around Annaberg are the pins of the 1987 Christmas pyramid \"Annaberg um 1810\", the 1988 bobbin lace stamps and the 2020 stamp for 500 years of the Annaberger Kät.",
+          "de": "Die DDR gab am 20. März 1984 zwei Marken zur Strecke heraus, gestaltet von Detlef Glinski. Die 30-Pfennig-Marke zeigt die Lokomotive 99 1775 und die Inschrift „Cranzahl - Kurort Oberwiesenthal; Spurweite 750 mm“, die 80-Pfennig-Marke einen Personenwagen. Auf der Karte in StampIQ liegen beide Pins an der Strecke. Um Annaberg herum liegen die Pins der Weihnachtspyramide „Annaberg um 1810“ von 1987, der Klöppelspitzen-Marken von 1988 und der Marke von 2020 zu 500 Jahren Annaberger Kät.",
+          "fr": "La RDA a émis une paire pour cette ligne le 20 mars 1984, dessinée par Detlef Glinski. Le timbre à 30 Pfennig montre la locomotive 99 1775 et l'inscription « Cranzahl - Kurort Oberwiesenthal ; Spurweite 750 mm », celui à 80 Pfennig une voiture de voyageurs. Sur la carte StampIQ, les deux sont épinglés sur le tracé. Autour d'Annaberg se trouvent les épingles de la pyramide de Noël « Annaberg um 1810 » de 1987, des timbres de 1988 sur la dentelle aux fuseaux et du timbre de 2020 pour les 500 ans de l'Annaberger Kät.",
+          "it": "La DDR emise due francobolli per la linea il 20 marzo 1984, disegnati da Detlef Glinski. Il valore da 30 Pfennig mostra la locomotiva 99 1775 e la scritta \"Cranzahl - Kurort Oberwiesenthal; Spurweite 750 mm\", quello da 80 Pfennig una carrozza passeggeri. Sulla Mappa di StampIQ sono segnati entrambi lungo la linea. Intorno ad Annaberg ci sono i segnaposti della piramide natalizia \"Annaberg um 1810\" del 1987, dei francobolli del 1988 sul merletto a tombolo e del francobollo del 2020 per i 500 anni dell'Annaberger Kät.",
+          "nl": "The GDR issued a pair for the line on 20 March 1984, designed by Detlef Glinski. The 30 Pfennig stamp shows the locomotive 99 1775 and the inscription \"Cranzahl - Kurort Oberwiesenthal; Spurweite 750 mm\", the 80 Pfennig stamp a passenger carriage. On the StampIQ map both are pinned on the line. Around Annaberg are the pins of the 1987 Christmas pyramid \"Annaberg um 1810\", the 1988 bobbin lace stamps and the 2020 stamp for 500 years of the Annaberger Kät.",
+          "pl": "The GDR issued a pair for the line on 20 March 1984, designed by Detlef Glinski. The 30 Pfennig stamp shows the locomotive 99 1775 and the inscription \"Cranzahl - Kurort Oberwiesenthal; Spurweite 750 mm\", the 80 Pfennig stamp a passenger carriage. On the StampIQ map both are pinned on the line. Around Annaberg are the pins of the 1987 Christmas pyramid \"Annaberg um 1810\", the 1988 bobbin lace stamps and the 2020 stamp for 500 years of the Annaberger Kät.",
+          "cs": "The GDR issued a pair for the line on 20 March 1984, designed by Detlef Glinski. The 30 Pfennig stamp shows the locomotive 99 1775 and the inscription \"Cranzahl - Kurort Oberwiesenthal; Spurweite 750 mm\", the 80 Pfennig stamp a passenger carriage. On the StampIQ map both are pinned on the line. Around Annaberg are the pins of the 1987 Christmas pyramid \"Annaberg um 1810\", the 1988 bobbin lace stamps and the 2020 stamp for 500 years of the Annaberger Kät.",
+          "sk": "The GDR issued a pair for the line on 20 March 1984, designed by Detlef Glinski. The 30 Pfennig stamp shows the locomotive 99 1775 and the inscription \"Cranzahl - Kurort Oberwiesenthal; Spurweite 750 mm\", the 80 Pfennig stamp a passenger carriage. On the StampIQ map both are pinned on the line. Around Annaberg are the pins of the 1987 Christmas pyramid \"Annaberg um 1810\", the 1988 bobbin lace stamps and the 2020 stamp for 500 years of the Annaberger Kät.",
+          "ro": "The GDR issued a pair for the line on 20 March 1984, designed by Detlef Glinski. The 30 Pfennig stamp shows the locomotive 99 1775 and the inscription \"Cranzahl - Kurort Oberwiesenthal; Spurweite 750 mm\", the 80 Pfennig stamp a passenger carriage. On the StampIQ map both are pinned on the line. Around Annaberg are the pins of the 1987 Christmas pyramid \"Annaberg um 1810\", the 1988 bobbin lace stamps and the 2020 stamp for 500 years of the Annaberger Kät.",
+          "hu": "The GDR issued a pair for the line on 20 March 1984, designed by Detlef Glinski. The 30 Pfennig stamp shows the locomotive 99 1775 and the inscription \"Cranzahl - Kurort Oberwiesenthal; Spurweite 750 mm\", the 80 Pfennig stamp a passenger carriage. On the StampIQ map both are pinned on the line. Around Annaberg are the pins of the 1987 Christmas pyramid \"Annaberg um 1810\", the 1988 bobbin lace stamps and the 2020 stamp for 500 years of the Annaberger Kät.",
+          "da": "The GDR issued a pair for the line on 20 March 1984, designed by Detlef Glinski. The 30 Pfennig stamp shows the locomotive 99 1775 and the inscription \"Cranzahl - Kurort Oberwiesenthal; Spurweite 750 mm\", the 80 Pfennig stamp a passenger carriage. On the StampIQ map both are pinned on the line. Around Annaberg are the pins of the 1987 Christmas pyramid \"Annaberg um 1810\", the 1988 bobbin lace stamps and the 2020 stamp for 500 years of the Annaberger Kät."
+        },
+        {
+          "en": "The railway does not run from 2 to 20 November because of maintenance work. Holders of the Deutschland-Ticket pay a surcharge, which is sold as a day ticket.",
+          "de": "Vom 2. bis 20. November fährt die Bahn wegen Wartungsarbeiten nicht. Mit dem Deutschland-Ticket zahlst du einen Aufpreis, der als Tageskarte verkauft wird.",
+          "fr": "Les trains ne circulent pas du 2 au 20 novembre, pour des travaux d'entretien. Les détenteurs du Deutschland-Ticket paient un supplément, vendu sous forme de billet journalier.",
+          "it": "Dal 2 al 20 novembre la ferrovia non circola per lavori di manutenzione. Chi ha il Deutschland-Ticket paga un supplemento, venduto come biglietto giornaliero.",
+          "nl": "The railway does not run from 2 to 20 November because of maintenance work. Holders of the Deutschland-Ticket pay a surcharge, which is sold as a day ticket.",
+          "pl": "The railway does not run from 2 to 20 November because of maintenance work. Holders of the Deutschland-Ticket pay a surcharge, which is sold as a day ticket.",
+          "cs": "The railway does not run from 2 to 20 November because of maintenance work. Holders of the Deutschland-Ticket pay a surcharge, which is sold as a day ticket.",
+          "sk": "The railway does not run from 2 to 20 November because of maintenance work. Holders of the Deutschland-Ticket pay a surcharge, which is sold as a day ticket.",
+          "ro": "The railway does not run from 2 to 20 November because of maintenance work. Holders of the Deutschland-Ticket pay a surcharge, which is sold as a day ticket.",
+          "hu": "The railway does not run from 2 to 20 November because of maintenance work. Holders of the Deutschland-Ticket pay a surcharge, which is sold as a day ticket.",
+          "da": "The railway does not run from 2 to 20 November because of maintenance work. Holders of the Deutschland-Ticket pay a surcharge, which is sold as a day ticket."
+        }
+      ]
+    }
+  ]
+}

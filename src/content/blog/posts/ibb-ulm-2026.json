@@ -1,0 +1,1564 @@
+{
+  "category": "event",
+  "markets": [
+    "CH",
+    "LI",
+    "DE",
+    "AT"
+  ],
+  "langs": [
+    "en",
+    "de",
+    "fr",
+    "it"
+  ],
+  "published_at": "2026-10-03T07:00:00+00:00",
+  "thumbnail": {
+    "src": "https://assets.stampiq.io/blog/92c22ee19061a840/ibb-ulm-2026-card.png",
+    "width": 1301,
+    "height": 700
+  },
+  "languages": {
+    "en": {
+      "slug": "ibb-ulm-2026",
+      "title": "The Internationale Briefmarken-Börse in Ulm",
+      "description": "A visitor's guide to the Internationale Briefmarken-Börse in Ulm, 22 to 24 October 2026. StampIQ is in Hall 2 at stand 33."
+    },
+    "de": {
+      "slug": "ibb-ulm-2026",
+      "title": "Die Internationale Briefmarken-Börse in Ulm",
+      "description": "Ein Besucherführer zur Internationalen Briefmarken-Börse in Ulm, 22. bis 24. Oktober 2026. StampIQ ist in Halle 2 an Stand 33."
+    },
+    "fr": {
+      "slug": "bourse-internationale-aux-timbres-ulm-2026",
+      "title": "L'Internationale Briefmarken-Börse à Ulm",
+      "description": "Guide du visiteur pour l'Internationale Briefmarken-Börse d'Ulm, du 22 au 24 octobre 2026. StampIQ est dans le hall 2, au stand 33."
+    },
+    "it": {
+      "slug": "borsa-filatelica-internazionale-ulm-2026",
+      "title": "L'Internationale Briefmarken-Börse di Ulma",
+      "description": "Guida alla visita dell'Internationale Briefmarken-Börse di Ulma, dal 22 al 24 ottobre 2026. StampIQ è nel padiglione 2, stand 33."
+    },
+    "nl": {
+      "slug": "ibb-ulm-2026",
+      "title": "The Internationale Briefmarken-Börse in Ulm",
+      "description": "A visitor's guide to the Internationale Briefmarken-Börse in Ulm, 22 to 24 October 2026. StampIQ is in Hall 2 at stand 33."
+    },
+    "pl": {
+      "slug": "ibb-ulm-2026",
+      "title": "The Internationale Briefmarken-Börse in Ulm",
+      "description": "A visitor's guide to the Internationale Briefmarken-Börse in Ulm, 22 to 24 October 2026. StampIQ is in Hall 2 at stand 33."
+    },
+    "cs": {
+      "slug": "ibb-ulm-2026",
+      "title": "The Internationale Briefmarken-Börse in Ulm",
+      "description": "A visitor's guide to the Internationale Briefmarken-Börse in Ulm, 22 to 24 October 2026. StampIQ is in Hall 2 at stand 33."
+    },
+    "sk": {
+      "slug": "ibb-ulm-2026",
+      "title": "The Internationale Briefmarken-Börse in Ulm",
+      "description": "A visitor's guide to the Internationale Briefmarken-Börse in Ulm, 22 to 24 October 2026. StampIQ is in Hall 2 at stand 33."
+    },
+    "ro": {
+      "slug": "ibb-ulm-2026",
+      "title": "The Internationale Briefmarken-Börse in Ulm",
+      "description": "A visitor's guide to the Internationale Briefmarken-Börse in Ulm, 22 to 24 October 2026. StampIQ is in Hall 2 at stand 33."
+    },
+    "hu": {
+      "slug": "ibb-ulm-2026",
+      "title": "The Internationale Briefmarken-Börse in Ulm",
+      "description": "A visitor's guide to the Internationale Briefmarken-Börse in Ulm, 22 to 24 October 2026. StampIQ is in Hall 2 at stand 33."
+    },
+    "da": {
+      "slug": "ibb-ulm-2026",
+      "title": "The Internationale Briefmarken-Börse in Ulm",
+      "description": "A visitor's guide to the Internationale Briefmarken-Börse in Ulm, 22 to 24 October 2026. StampIQ is in Hall 2 at stand 33."
+    }
+  },
+  "header": {
+    "lead": {
+      "en": "The Internationale Briefmarken-Börse runs at the Ulm-Messe from 22 to 24 October, with a Liechtenstein fair block and one of only three known Baden errors. StampIQ is in Hall 2 at stand 33.",
+      "de": "Die Internationale Briefmarken-Börse findet vom 22. bis 24. Oktober in der Messe Ulm statt, mit einem Messeblock aus Liechtenstein und einem von nur drei bekannten Baden-Fehldrucken. StampIQ ist in Halle 2 an Stand 33.",
+      "fr": "L'Internationale Briefmarken-Börse se tient à l'Ulm-Messe du 22 au 24 octobre, avec un bloc de salon du Liechtenstein et l'une des trois seules erreurs de Bade connues. StampIQ est dans le hall 2, au stand 33.",
+      "it": "L'Internationale Briefmarken-Börse si tiene alla Ulm-Messe dal 22 al 24 ottobre, con un foglietto del Liechtenstein dedicato alla fiera e uno dei tre soli errori del Baden conosciuti. StampIQ è nel padiglione 2, stand 33.",
+      "nl": "The Internationale Briefmarken-Börse runs at the Ulm-Messe from 22 to 24 October, with a Liechtenstein fair block and one of only three known Baden errors. StampIQ is in Hall 2 at stand 33.",
+      "pl": "The Internationale Briefmarken-Börse runs at the Ulm-Messe from 22 to 24 October, with a Liechtenstein fair block and one of only three known Baden errors. StampIQ is in Hall 2 at stand 33.",
+      "cs": "The Internationale Briefmarken-Börse runs at the Ulm-Messe from 22 to 24 October, with a Liechtenstein fair block and one of only three known Baden errors. StampIQ is in Hall 2 at stand 33.",
+      "sk": "The Internationale Briefmarken-Börse runs at the Ulm-Messe from 22 to 24 October, with a Liechtenstein fair block and one of only three known Baden errors. StampIQ is in Hall 2 at stand 33.",
+      "ro": "The Internationale Briefmarken-Börse runs at the Ulm-Messe from 22 to 24 October, with a Liechtenstein fair block and one of only three known Baden errors. StampIQ is in Hall 2 at stand 33.",
+      "hu": "The Internationale Briefmarken-Börse runs at the Ulm-Messe from 22 to 24 October, with a Liechtenstein fair block and one of only three known Baden errors. StampIQ is in Hall 2 at stand 33.",
+      "da": "The Internationale Briefmarken-Börse runs at the Ulm-Messe from 22 to 24 October, with a Liechtenstein fair block and one of only three known Baden errors. StampIQ is in Hall 2 at stand 33."
+    },
+    "visual": {
+      "type": "stamp",
+      "stamp": {
+        "name": {
+          "en": "Internationale Briefmarken-Börse Ulm 2026, fair block",
+          "de": "Internationale Briefmarken-Börse Ulm 2026, Messeblock",
+          "fr": "Internationale Briefmarken-Börse Ulm 2026, bloc de salon",
+          "it": "Internationale Briefmarken-Börse Ulm 2026, foglietto della fiera",
+          "nl": "Internationale Briefmarken-Börse Ulm 2026, fair block",
+          "pl": "Internationale Briefmarken-Börse Ulm 2026, fair block",
+          "cs": "Internationale Briefmarken-Börse Ulm 2026, fair block",
+          "sk": "Internationale Briefmarken-Börse Ulm 2026, fair block",
+          "ro": "Internationale Briefmarken-Börse Ulm 2026, fair block",
+          "hu": "Internationale Briefmarken-Börse Ulm 2026, fair block",
+          "da": "Internationale Briefmarken-Börse Ulm 2026, fair block"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/a4dbb3f1177e23dc/li-2026-ulm-block.png",
+          "width": 975,
+          "height": 649
+        },
+        "country": "LI",
+        "stamp_id": "li-post-297.26.27"
+      }
+    },
+    "location": "Ulm-Messe, Hall 2, stand 33",
+    "date_label": {
+      "en": "22 to 24 October 2026",
+      "de": "22. bis 24. Oktober 2026",
+      "fr": "du 22 au 24 octobre 2026",
+      "it": "dal 22 al 24 ottobre 2026",
+      "nl": "22 to 24 October 2026",
+      "pl": "22 to 24 October 2026",
+      "cs": "22 to 24 October 2026",
+      "sk": "22 to 24 October 2026",
+      "ro": "22 to 24 October 2026",
+      "hu": "22 to 24 October 2026",
+      "da": "22 to 24 October 2026"
+    }
+  },
+  "blocks": [
+    {
+      "id": "plan",
+      "type": "text",
+      "label": {
+        "en": "Planning your day",
+        "de": "Tagesplanung",
+        "fr": "Préparer ta journée",
+        "it": "Orientarsi in fiera",
+        "nl": "Planning your day",
+        "pl": "Planning your day",
+        "cs": "Planning your day",
+        "sk": "Planning your day",
+        "ro": "Planning your day",
+        "hu": "Planning your day",
+        "da": "Planning your day"
+      },
+      "title": {
+        "en": "The halls and the foyer",
+        "de": "Die Hallen und das Foyer",
+        "fr": "Les halls et l'entrée",
+        "it": "I padiglioni e l'atrio",
+        "nl": "The halls and the foyer",
+        "pl": "The halls and the foyer",
+        "cs": "The halls and the foyer",
+        "sk": "The halls and the foyer",
+        "ro": "The halls and the foyer",
+        "hu": "The halls and the foyer",
+        "da": "The halls and the foyer"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/c1f94a2b52cfdc3f/ulm-minster-danube-flocci-nivis.jpg",
+          "width": 2000,
+          "credit": "Photo: Flocci Nivis, CC BY 4.0",
+          "height": 1334,
+          "caption": {
+            "en": "Ulm Minster across the Danube, the view on the Liechtenstein block",
+            "de": "Das Ulmer Münster von der anderen Donauseite, der Blick wie auf dem Block aus Liechtenstein",
+            "fr": "La cathédrale d'Ulm de l'autre côté du Danube, la vue que reprend le bloc du Liechtenstein",
+            "it": "Il duomo di Ulma al di là del Danubio, la veduta che compare sul foglietto del Liechtenstein",
+            "nl": "Ulm Minster across the Danube, the view on the Liechtenstein block",
+            "pl": "Ulm Minster across the Danube, the view on the Liechtenstein block",
+            "cs": "Ulm Minster across the Danube, the view on the Liechtenstein block",
+            "sk": "Ulm Minster across the Danube, the view on the Liechtenstein block",
+            "ro": "Ulm Minster across the Danube, the view on the Liechtenstein block",
+            "hu": "Ulm Minster across the Danube, the view on the Liechtenstein block",
+            "da": "Ulm Minster across the Danube, the view on the Liechtenstein block"
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:20221017_Ulm_Minster_05.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "The fair fills two halls of the Ulm-Messe. The hall plan puts the dealers, the auction houses and the postal administrations, about 70 stands, in Hall 1. Hall 2 has the 52 information stands of the study groups, the exhibitions and the centre of the LV Südwest.",
+          "de": "Die Börse füllt zwei Hallen der Messe Ulm. Nach dem Hallenplan sind die Händler, die Auktionshäuser und die Postverwaltungen in Halle 1, rund 70 Stände. In Halle 2 stehen die 52 Informationsstände der Arbeitsgemeinschaften, dazu die Ausstellungen und das Zentrum des LV Südwest.",
+          "fr": "Le salon occupe deux halls de l'Ulm-Messe. D'après le plan, le hall 1 réunit les négociants, les maisons de vente et les administrations postales, soit environ 70 stands. Le hall 2 accueille les 52 stands d'information des groupes d'étude, les expositions et le centre du LV Südwest.",
+          "it": "La fiera occupa due padiglioni della Ulm-Messe. Secondo la piantina, nel padiglione 1 trovi i commercianti, le case d'asta e le amministrazioni postali, circa 70 stand. Nel padiglione 2 ci sono i 52 stand informativi dei gruppi di studio, le mostre e il centro della LV Südwest.",
+          "nl": "The fair fills two halls of the Ulm-Messe. The hall plan puts the dealers, the auction houses and the postal administrations, about 70 stands, in Hall 1. Hall 2 has the 52 information stands of the study groups, the exhibitions and the centre of the LV Südwest.",
+          "pl": "The fair fills two halls of the Ulm-Messe. The hall plan puts the dealers, the auction houses and the postal administrations, about 70 stands, in Hall 1. Hall 2 has the 52 information stands of the study groups, the exhibitions and the centre of the LV Südwest.",
+          "cs": "The fair fills two halls of the Ulm-Messe. The hall plan puts the dealers, the auction houses and the postal administrations, about 70 stands, in Hall 1. Hall 2 has the 52 information stands of the study groups, the exhibitions and the centre of the LV Südwest.",
+          "sk": "The fair fills two halls of the Ulm-Messe. The hall plan puts the dealers, the auction houses and the postal administrations, about 70 stands, in Hall 1. Hall 2 has the 52 information stands of the study groups, the exhibitions and the centre of the LV Südwest.",
+          "ro": "The fair fills two halls of the Ulm-Messe. The hall plan puts the dealers, the auction houses and the postal administrations, about 70 stands, in Hall 1. Hall 2 has the 52 information stands of the study groups, the exhibitions and the centre of the LV Südwest.",
+          "hu": "The fair fills two halls of the Ulm-Messe. The hall plan puts the dealers, the auction houses and the postal administrations, about 70 stands, in Hall 1. Hall 2 has the 52 information stands of the study groups, the exhibitions and the centre of the LV Südwest.",
+          "da": "The fair fills two halls of the Ulm-Messe. The hall plan puts the dealers, the auction houses and the postal administrations, about 70 stands, in Hall 1. Hall 2 has the 52 information stands of the study groups, the exhibitions and the centre of the LV Südwest."
+        },
+        {
+          "en": "The BPP experts sit in the foyer at the entrance to Hall 1. The fair catalogue is free, and visitors under 16 get in free.",
+          "de": "Die Prüfer des BPP sitzen im Foyer am Eingang zu Halle 1. Der Messekatalog ist kostenlos, und unter 16 Jahren ist der Eintritt frei.",
+          "fr": "Les experts du BPP sont installés dans l'entrée, devant le hall 1. Le catalogue du salon est gratuit et l'entrée est libre pour les moins de 16 ans.",
+          "it": "I periti BPP sono nell'atrio, all'ingresso del padiglione 1. Il catalogo della fiera è gratuito e i minori di 16 anni entrano senza pagare.",
+          "nl": "The BPP experts sit in the foyer at the entrance to Hall 1. The fair catalogue is free, and visitors under 16 get in free.",
+          "pl": "The BPP experts sit in the foyer at the entrance to Hall 1. The fair catalogue is free, and visitors under 16 get in free.",
+          "cs": "The BPP experts sit in the foyer at the entrance to Hall 1. The fair catalogue is free, and visitors under 16 get in free.",
+          "sk": "The BPP experts sit in the foyer at the entrance to Hall 1. The fair catalogue is free, and visitors under 16 get in free.",
+          "ro": "The BPP experts sit in the foyer at the entrance to Hall 1. The fair catalogue is free, and visitors under 16 get in free.",
+          "hu": "The BPP experts sit in the foyer at the entrance to Hall 1. The fair catalogue is free, and visitors under 16 get in free.",
+          "da": "The BPP experts sit in the foyer at the entrance to Hall 1. The fair catalogue is free, and visitors under 16 get in free."
+        }
+      ]
+    },
+    {
+      "id": "postmarks",
+      "type": "text",
+      "label": {
+        "en": "Postmarks",
+        "de": "Poststempel",
+        "fr": "Cachets postaux",
+        "it": "Timbri",
+        "nl": "Postmarks",
+        "pl": "Postmarks",
+        "cs": "Postmarks",
+        "sk": "Postmarks",
+        "ro": "Postmarks",
+        "hu": "Postmarks",
+        "da": "Postmarks"
+      },
+      "title": {
+        "en": "A special postmark for each day",
+        "de": "Für jeden Tag ein Sonderstempel",
+        "fr": "Un cachet spécial par jour",
+        "it": "Un timbro speciale per ogni giorno",
+        "nl": "A special postmark for each day",
+        "pl": "A special postmark for each day",
+        "cs": "A special postmark for each day",
+        "sk": "A special postmark for each day",
+        "ro": "A special postmark for each day",
+        "hu": "A special postmark for each day",
+        "da": "A special postmark for each day"
+      },
+      "paragraphs": [
+        {
+          "en": "Deutsche Post brings three special postmarks to stand 39, one for each day, all drawn by Sophia Wachter. Thursday's postmark has the shape of a coat of arms, for the LV Südwest and the REMSMA exhibition. Friday's is oval and marks 175 years of the first stamps of Baden and Württemberg. Saturday's is a hexagon for the «Ulmer Schachtel» painting competition of the primary schools of Ulm and Neu-Ulm.",
+          "de": "Die Deutsche Post setzt am Stand 39 drei Sonderstempel ein, für jeden Messetag einen, alle gezeichnet von Sophia Wachter. Der Stempel am Donnerstag hat die Form eines Wappens, für den LV Südwest und die Ausstellung REMSMA. Der Freitagsstempel ist oval und erinnert an 175 Jahre erste Briefmarken von Baden und Württemberg. Der Samstagsstempel ist sechseckig und gehört zum Malwettbewerb „Ulmer Schachtel“ der Grundschulen aus Ulm und Neu-Ulm.",
+          "fr": "La Deutsche Post apporte trois cachets spéciaux au stand 39, un par jour, tous dessinés par Sophia Wachter. Celui du jeudi a la forme d'un blason, pour le LV Südwest et l'exposition REMSMA. Celui du vendredi est ovale et marque les 175 ans des premiers timbres de Bade et du Wurtemberg. Celui du samedi est hexagonal, pour le concours de dessin « Ulmer Schachtel » des écoles primaires d'Ulm et de Neu-Ulm.",
+          "it": "Deutsche Post è allo stand 39 con tre timbri speciali, uno per ogni giorno, tutti disegnati da Sophia Wachter. Quello di giovedì ha la forma di uno stemma, per la LV Südwest e la mostra REMSMA. Quello di venerdì è ovale e ricorda i 175 anni dei primi francobolli del Baden e del Württemberg. Quello di sabato è esagonale, dedicato al concorso di pittura \"Ulmer Schachtel\" delle scuole elementari di Ulma e Neu-Ulm.",
+          "nl": "Deutsche Post brings three special postmarks to stand 39, one for each day, all drawn by Sophia Wachter. Thursday's postmark has the shape of a coat of arms, for the LV Südwest and the REMSMA exhibition. Friday's is oval and marks 175 years of the first stamps of Baden and Württemberg. Saturday's is a hexagon for the «Ulmer Schachtel» painting competition of the primary schools of Ulm and Neu-Ulm.",
+          "pl": "Deutsche Post brings three special postmarks to stand 39, one for each day, all drawn by Sophia Wachter. Thursday's postmark has the shape of a coat of arms, for the LV Südwest and the REMSMA exhibition. Friday's is oval and marks 175 years of the first stamps of Baden and Württemberg. Saturday's is a hexagon for the «Ulmer Schachtel» painting competition of the primary schools of Ulm and Neu-Ulm.",
+          "cs": "Deutsche Post brings three special postmarks to stand 39, one for each day, all drawn by Sophia Wachter. Thursday's postmark has the shape of a coat of arms, for the LV Südwest and the REMSMA exhibition. Friday's is oval and marks 175 years of the first stamps of Baden and Württemberg. Saturday's is a hexagon for the «Ulmer Schachtel» painting competition of the primary schools of Ulm and Neu-Ulm.",
+          "sk": "Deutsche Post brings three special postmarks to stand 39, one for each day, all drawn by Sophia Wachter. Thursday's postmark has the shape of a coat of arms, for the LV Südwest and the REMSMA exhibition. Friday's is oval and marks 175 years of the first stamps of Baden and Württemberg. Saturday's is a hexagon for the «Ulmer Schachtel» painting competition of the primary schools of Ulm and Neu-Ulm.",
+          "ro": "Deutsche Post brings three special postmarks to stand 39, one for each day, all drawn by Sophia Wachter. Thursday's postmark has the shape of a coat of arms, for the LV Südwest and the REMSMA exhibition. Friday's is oval and marks 175 years of the first stamps of Baden and Württemberg. Saturday's is a hexagon for the «Ulmer Schachtel» painting competition of the primary schools of Ulm and Neu-Ulm.",
+          "hu": "Deutsche Post brings three special postmarks to stand 39, one for each day, all drawn by Sophia Wachter. Thursday's postmark has the shape of a coat of arms, for the LV Südwest and the REMSMA exhibition. Friday's is oval and marks 175 years of the first stamps of Baden and Württemberg. Saturday's is a hexagon for the «Ulmer Schachtel» painting competition of the primary schools of Ulm and Neu-Ulm.",
+          "da": "Deutsche Post brings three special postmarks to stand 39, one for each day, all drawn by Sophia Wachter. Thursday's postmark has the shape of a coat of arms, for the LV Südwest and the REMSMA exhibition. Friday's is oval and marks 175 years of the first stamps of Baden and Württemberg. Saturday's is a hexagon for the «Ulmer Schachtel» painting competition of the primary schools of Ulm and Neu-Ulm."
+        },
+        {
+          "en": "Each special postmark is used only on its own day. A round postmark reading \"Deutsche Post / Messe\" is used on all three days.",
+          "de": "Jeden Sonderstempel gibt es nur an seinem eigenen Tag. Ein Rundstempel mit der Inschrift „Deutsche Post / Messe“ wird an allen drei Tagen verwendet.",
+          "fr": "Chaque cachet spécial est utilisé uniquement le jour qui lui correspond. Un cachet rond portant la mention « Deutsche Post / Messe » est utilisé les trois jours.",
+          "it": "Ogni timbro speciale viene usato solo nel suo giorno. Per tutti e tre i giorni c'è un timbro tondo con la scritta \"Deutsche Post / Messe\".",
+          "nl": "Each special postmark is used only on its own day. A round postmark reading \"Deutsche Post / Messe\" is used on all three days.",
+          "pl": "Each special postmark is used only on its own day. A round postmark reading \"Deutsche Post / Messe\" is used on all three days.",
+          "cs": "Each special postmark is used only on its own day. A round postmark reading \"Deutsche Post / Messe\" is used on all three days.",
+          "sk": "Each special postmark is used only on its own day. A round postmark reading \"Deutsche Post / Messe\" is used on all three days.",
+          "ro": "Each special postmark is used only on its own day. A round postmark reading \"Deutsche Post / Messe\" is used on all three days.",
+          "hu": "Each special postmark is used only on its own day. A round postmark reading \"Deutsche Post / Messe\" is used on all three days.",
+          "da": "Each special postmark is used only on its own day. A round postmark reading \"Deutsche Post / Messe\" is used on all three days."
+        },
+        {
+          "en": "The Messeganzsache is an envelope with the 95-cent Blue Boy stamp of 3 September printed on it, for €1.40. Its picture shows the old station of Mühlacker, where mail between Baden and Württemberg was exchanged, with stamps of both states above it.",
+          "de": "Die Messeganzsache ist ein Umschlag mit der eingedruckten 95-Cent-Marke „Blue Boy“ vom 3. September und kostet 1,40 €. Das Bild zeigt den alten Bahnhof von Mühlacker, wo die Post zwischen Baden und Württemberg ausgetauscht wurde, darüber Marken beider Staaten.",
+          "fr": "L'entier postal du salon est une enveloppe sur laquelle est imprimé le timbre Blue Boy à 95 centimes du 3 septembre, vendue 1,40 €. L'illustration montre l'ancienne gare de Mühlacker, où le courrier était échangé entre Bade et le Wurtemberg, surmontée des timbres des deux États.",
+          "it": "L'intero postale della fiera è una busta con impresso il francobollo da 95 centesimi Blue Boy del 3 settembre e costa 1,40 €. L'illustrazione mostra la vecchia stazione di Mühlacker, dove ci si scambiava la posta tra Baden e Württemberg, e sopra di essa i francobolli dei due stati.",
+          "nl": "The Messeganzsache is an envelope with the 95-cent Blue Boy stamp of 3 September printed on it, for €1.40. Its picture shows the old station of Mühlacker, where mail between Baden and Württemberg was exchanged, with stamps of both states above it.",
+          "pl": "The Messeganzsache is an envelope with the 95-cent Blue Boy stamp of 3 September printed on it, for €1.40. Its picture shows the old station of Mühlacker, where mail between Baden and Württemberg was exchanged, with stamps of both states above it.",
+          "cs": "The Messeganzsache is an envelope with the 95-cent Blue Boy stamp of 3 September printed on it, for €1.40. Its picture shows the old station of Mühlacker, where mail between Baden and Württemberg was exchanged, with stamps of both states above it.",
+          "sk": "The Messeganzsache is an envelope with the 95-cent Blue Boy stamp of 3 September printed on it, for €1.40. Its picture shows the old station of Mühlacker, where mail between Baden and Württemberg was exchanged, with stamps of both states above it.",
+          "ro": "The Messeganzsache is an envelope with the 95-cent Blue Boy stamp of 3 September printed on it, for €1.40. Its picture shows the old station of Mühlacker, where mail between Baden and Württemberg was exchanged, with stamps of both states above it.",
+          "hu": "The Messeganzsache is an envelope with the 95-cent Blue Boy stamp of 3 September printed on it, for €1.40. Its picture shows the old station of Mühlacker, where mail between Baden and Württemberg was exchanged, with stamps of both states above it.",
+          "da": "The Messeganzsache is an envelope with the 95-cent Blue Boy stamp of 3 September printed on it, for €1.40. Its picture shows the old station of Mühlacker, where mail between Baden and Württemberg was exchanged, with stamps of both states above it."
+        },
+        {
+          "en": "The Event Team also sells the German stamps of the last two years, among them the four issues of 1 October, and sends registered letters. If you cannot come, order the postmarks in writing from the Sonderstempelstelle of Deutsche Post in 92627 Weiden.",
+          "de": "Das Event Team verkauft außerdem die deutschen Briefmarken der letzten zwei Jahre, darunter die vier Ausgaben vom 1. Oktober, und versendet Einschreiben. Wer nicht kommen kann, kann die Stempel schriftlich bei der Sonderstempelstelle der Deutschen Post in 92627 Weiden bestellen.",
+          "fr": "L'Event Team vend aussi les timbres allemands des deux dernières années, dont les quatre émissions du 1er octobre, et prend en charge les envois recommandés. Si tu ne peux pas venir, commande les cachets par écrit auprès de la Sonderstempelstelle de la Deutsche Post, à 92627 Weiden.",
+          "it": "L'Event Team vende anche i francobolli tedeschi degli ultimi due anni, tra cui le quattro emissioni del 1° ottobre, e spedisce lettere raccomandate. Se non puoi venire, puoi richiedere i timbri per iscritto alla Sonderstempelstelle della Deutsche Post, 92627 Weiden.",
+          "nl": "The Event Team also sells the German stamps of the last two years, among them the four issues of 1 October, and sends registered letters. If you cannot come, order the postmarks in writing from the Sonderstempelstelle of Deutsche Post in 92627 Weiden.",
+          "pl": "The Event Team also sells the German stamps of the last two years, among them the four issues of 1 October, and sends registered letters. If you cannot come, order the postmarks in writing from the Sonderstempelstelle of Deutsche Post in 92627 Weiden.",
+          "cs": "The Event Team also sells the German stamps of the last two years, among them the four issues of 1 October, and sends registered letters. If you cannot come, order the postmarks in writing from the Sonderstempelstelle of Deutsche Post in 92627 Weiden.",
+          "sk": "The Event Team also sells the German stamps of the last two years, among them the four issues of 1 October, and sends registered letters. If you cannot come, order the postmarks in writing from the Sonderstempelstelle of Deutsche Post in 92627 Weiden.",
+          "ro": "The Event Team also sells the German stamps of the last two years, among them the four issues of 1 October, and sends registered letters. If you cannot come, order the postmarks in writing from the Sonderstempelstelle of Deutsche Post in 92627 Weiden.",
+          "hu": "The Event Team also sells the German stamps of the last two years, among them the four issues of 1 October, and sends registered letters. If you cannot come, order the postmarks in writing from the Sonderstempelstelle of Deutsche Post in 92627 Weiden.",
+          "da": "The Event Team also sells the German stamps of the last two years, among them the four issues of 1 October, and sends registered letters. If you cannot come, order the postmarks in writing from the Sonderstempelstelle of Deutsche Post in 92627 Weiden."
+        }
+      ]
+    },
+    {
+      "id": "liechtenstein-block",
+      "date": {
+        "en": "Philatelie Liechtenstein, stand 38",
+        "de": "Philatelie Liechtenstein, Stand 38",
+        "fr": "Philatelie Liechtenstein, stand 38",
+        "it": "Philatelie Liechtenstein, stand 38",
+        "nl": "Philatelie Liechtenstein, stand 38",
+        "pl": "Philatelie Liechtenstein, stand 38",
+        "cs": "Philatelie Liechtenstein, stand 38",
+        "sk": "Philatelie Liechtenstein, stand 38",
+        "ro": "Philatelie Liechtenstein, stand 38",
+        "hu": "Philatelie Liechtenstein, stand 38",
+        "da": "Philatelie Liechtenstein, stand 38"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Internationale Briefmarken-Börse Ulm 2026, fair block",
+          "de": "Internationale Briefmarken-Börse Ulm 2026, Messeblock",
+          "fr": "Internationale Briefmarken-Börse Ulm 2026, bloc de salon",
+          "it": "Internationale Briefmarken-Börse Ulm 2026, foglietto della fiera",
+          "nl": "Internationale Briefmarken-Börse Ulm 2026, fair block",
+          "pl": "Internationale Briefmarken-Börse Ulm 2026, fair block",
+          "cs": "Internationale Briefmarken-Börse Ulm 2026, fair block",
+          "sk": "Internationale Briefmarken-Börse Ulm 2026, fair block",
+          "ro": "Internationale Briefmarken-Börse Ulm 2026, fair block",
+          "hu": "Internationale Briefmarken-Börse Ulm 2026, fair block",
+          "da": "Internationale Briefmarken-Börse Ulm 2026, fair block"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/a4dbb3f1177e23dc/li-2026-ulm-block.png",
+          "width": 975,
+          "height": 649
+        },
+        "country": "LI",
+        "stamp_id": "li-post-297.26.27"
+      },
+      "title": {
+        "en": "Greetings from Ulm, from Liechtenstein",
+        "de": "Grüße aus Ulm, aus Liechtenstein",
+        "fr": "Salutations d'Ulm, depuis le Liechtenstein",
+        "it": "Saluti da Ulma, dal Liechtenstein",
+        "nl": "Greetings from Ulm, from Liechtenstein",
+        "pl": "Greetings from Ulm, from Liechtenstein",
+        "cs": "Greetings from Ulm, from Liechtenstein",
+        "sk": "Greetings from Ulm, from Liechtenstein",
+        "ro": "Greetings from Ulm, from Liechtenstein",
+        "hu": "Greetings from Ulm, from Liechtenstein",
+        "da": "Greetings from Ulm, from Liechtenstein"
+      },
+      "formats": [
+        {
+          "value": "CHF 4.30",
+          "format": {
+            "en": "Fair block with three stamps, sold at CHF 7.20",
+            "de": "Messeblock mit drei Briefmarken, Verkaufspreis 7,20 CHF",
+            "fr": "Bloc de salon de trois timbres, vendu 7,20 CHF",
+            "it": "Foglietto della fiera con tre francobolli, in vendita a CHF 7.20",
+            "nl": "Fair block with three stamps, sold at CHF 7.20",
+            "pl": "Fair block with three stamps, sold at CHF 7.20",
+            "cs": "Fair block with three stamps, sold at CHF 7.20",
+            "sk": "Fair block with three stamps, sold at CHF 7.20",
+            "ro": "Fair block with three stamps, sold at CHF 7.20",
+            "hu": "Fair block with three stamps, sold at CHF 7.20",
+            "da": "Fair block with three stamps, sold at CHF 7.20"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "Philatelie Liechtenstein brings a fair block with the words \"Grüsse aus Ulm\". Its three stamps show the old town on the bank of the Danube, with Ulm Minster on the 1.90. The block costs CHF 7.20 for CHF 4.30 of postage, and a block with the same values comes out for PhilaBrig26 in Brig in November.",
+          "de": "Philatelie Liechtenstein bringt einen Messeblock mit der Inschrift „Grüsse aus Ulm“. Seine drei Marken zeigen die Altstadt am Donauufer, die Marke zu 1,90 das Ulmer Münster. Der Block kostet 7,20 CHF bei einem Portowert von 4,30 CHF. Zur PhilaBrig26 im November in Brig erscheint ein Block mit den gleichen Nennwerten.",
+          "fr": "Philatelie Liechtenstein apporte un bloc de salon portant la mention « Grüsse aus Ulm ». Ses trois timbres montrent la vieille ville au bord du Danube, avec la cathédrale d'Ulm sur le timbre à 1.90. Le bloc coûte 7,20 CHF pour 4,30 CHF d'affranchissement, et un bloc aux mêmes valeurs paraît en novembre pour PhilaBrig26, à Brig.",
+          "it": "Philatelie Liechtenstein porta un foglietto della fiera con la scritta \"Grüsse aus Ulm\". I tre francobolli mostrano il centro storico sulla riva del Danubio, e su quello da 1.90 c'è il duomo di Ulma. Il foglietto costa CHF 7.20 e vale CHF 4.30 di affrancatura. Un foglietto con gli stessi valori esce a novembre per PhilaBrig26 a Brig.",
+          "nl": "Philatelie Liechtenstein brings a fair block with the words \"Grüsse aus Ulm\". Its three stamps show the old town on the bank of the Danube, with Ulm Minster on the 1.90. The block costs CHF 7.20 for CHF 4.30 of postage, and a block with the same values comes out for PhilaBrig26 in Brig in November.",
+          "pl": "Philatelie Liechtenstein brings a fair block with the words \"Grüsse aus Ulm\". Its three stamps show the old town on the bank of the Danube, with Ulm Minster on the 1.90. The block costs CHF 7.20 for CHF 4.30 of postage, and a block with the same values comes out for PhilaBrig26 in Brig in November.",
+          "cs": "Philatelie Liechtenstein brings a fair block with the words \"Grüsse aus Ulm\". Its three stamps show the old town on the bank of the Danube, with Ulm Minster on the 1.90. The block costs CHF 7.20 for CHF 4.30 of postage, and a block with the same values comes out for PhilaBrig26 in Brig in November.",
+          "sk": "Philatelie Liechtenstein brings a fair block with the words \"Grüsse aus Ulm\". Its three stamps show the old town on the bank of the Danube, with Ulm Minster on the 1.90. The block costs CHF 7.20 for CHF 4.30 of postage, and a block with the same values comes out for PhilaBrig26 in Brig in November.",
+          "ro": "Philatelie Liechtenstein brings a fair block with the words \"Grüsse aus Ulm\". Its three stamps show the old town on the bank of the Danube, with Ulm Minster on the 1.90. The block costs CHF 7.20 for CHF 4.30 of postage, and a block with the same values comes out for PhilaBrig26 in Brig in November.",
+          "hu": "Philatelie Liechtenstein brings a fair block with the words \"Grüsse aus Ulm\". Its three stamps show the old town on the bank of the Danube, with Ulm Minster on the 1.90. The block costs CHF 7.20 for CHF 4.30 of postage, and a block with the same values comes out for PhilaBrig26 in Brig in November.",
+          "da": "Philatelie Liechtenstein brings a fair block with the words \"Grüsse aus Ulm\". Its three stamps show the old town on the bank of the Danube, with Ulm Minster on the 1.90. The block costs CHF 7.20 for CHF 4.30 of postage, and a block with the same values comes out for PhilaBrig26 in Brig in November."
+        },
+        {
+          "en": "At the stand you can hand in your own mail, which is then posted in Liechtenstein. In the entrance hall, «stamp2go» prints a personal stamp with your own photo.",
+          "de": "Am Stand kannst du eigene Post abgeben, die dann in Liechtenstein aufgegeben wird. In der Eingangshalle druckt „stamp2go“ eine persönliche Briefmarke mit deinem Foto.",
+          "fr": "Au stand, tu peux déposer ton propre courrier, qui sera ensuite posté au Liechtenstein. Dans le hall d'entrée, « stamp2go » imprime un timbre personnalisé avec ta photo.",
+          "it": "Allo stand puoi consegnare la tua posta, che viene poi impostata in Liechtenstein. Nell'atrio d'ingresso, \"stamp2go\" stampa un francobollo personalizzato con una tua foto.",
+          "nl": "At the stand you can hand in your own mail, which is then posted in Liechtenstein. In the entrance hall, «stamp2go» prints a personal stamp with your own photo.",
+          "pl": "At the stand you can hand in your own mail, which is then posted in Liechtenstein. In the entrance hall, «stamp2go» prints a personal stamp with your own photo.",
+          "cs": "At the stand you can hand in your own mail, which is then posted in Liechtenstein. In the entrance hall, «stamp2go» prints a personal stamp with your own photo.",
+          "sk": "At the stand you can hand in your own mail, which is then posted in Liechtenstein. In the entrance hall, «stamp2go» prints a personal stamp with your own photo.",
+          "ro": "At the stand you can hand in your own mail, which is then posted in Liechtenstein. In the entrance hall, «stamp2go» prints a personal stamp with your own photo.",
+          "hu": "At the stand you can hand in your own mail, which is then posted in Liechtenstein. In the entrance hall, «stamp2go» prints a personal stamp with your own photo.",
+          "da": "At the stand you can hand in your own mail, which is then posted in Liechtenstein. In the entrance hall, «stamp2go» prints a personal stamp with your own photo."
+        }
+      ]
+    },
+    {
+      "id": "posts",
+      "rows": [
+        {
+          "label": {
+            "en": "Österreichische Post, stand 1",
+            "de": "Österreichische Post, Stand 1",
+            "fr": "Österreichische Post, stand 1",
+            "it": "Österreichische Post, stand 1",
+            "nl": "Österreichische Post, stand 1",
+            "pl": "Österreichische Post, stand 1",
+            "cs": "Österreichische Post, stand 1",
+            "sk": "Österreichische Post, stand 1",
+            "ro": "Österreichische Post, stand 1",
+            "hu": "Österreichische Post, stand 1",
+            "da": "Österreichische Post, stand 1"
+          },
+          "value": {
+            "en": "special stamps, crypto stamps and coins",
+            "de": "Sondermarken, Krypto-Marken und Münzen",
+            "fr": "timbres spéciaux, crypto timbres et pièces",
+            "it": "francobolli speciali, crypto stamp e monete",
+            "nl": "special stamps, crypto stamps and coins",
+            "pl": "special stamps, crypto stamps and coins",
+            "cs": "special stamps, crypto stamps and coins",
+            "sk": "special stamps, crypto stamps and coins",
+            "ro": "special stamps, crypto stamps and coins",
+            "hu": "special stamps, crypto stamps and coins",
+            "da": "special stamps, crypto stamps and coins"
+          }
+        },
+        {
+          "label": {
+            "en": "United Nations (UNPA), stand 32",
+            "de": "Vereinte Nationen (UNPA), Stand 32",
+            "fr": "Nations unies (UNPA), stand 32",
+            "it": "Nazioni Unite (UNPA), stand 32",
+            "nl": "United Nations (UNPA), stand 32",
+            "pl": "United Nations (UNPA), stand 32",
+            "cs": "United Nations (UNPA), stand 32",
+            "sk": "United Nations (UNPA), stand 32",
+            "ro": "United Nations (UNPA), stand 32",
+            "hu": "United Nations (UNPA), stand 32",
+            "da": "United Nations (UNPA), stand 32"
+          },
+          "value": {
+            "en": "stamps from New York, Geneva and Vienna, new commemoratives and fair offers",
+            "de": "Marken aus New York, Genf und Wien, neue Gedenkausgaben und Messeangebote",
+            "fr": "timbres de New York, Genève et Vienne, nouveautés commémoratives et offres du salon",
+            "it": "francobolli di New York, Ginevra e Vienna, nuove emissioni commemorative e offerte per la fiera",
+            "nl": "stamps from New York, Geneva and Vienna, new commemoratives and fair offers",
+            "pl": "stamps from New York, Geneva and Vienna, new commemoratives and fair offers",
+            "cs": "stamps from New York, Geneva and Vienna, new commemoratives and fair offers",
+            "sk": "stamps from New York, Geneva and Vienna, new commemoratives and fair offers",
+            "ro": "stamps from New York, Geneva and Vienna, new commemoratives and fair offers",
+            "hu": "stamps from New York, Geneva and Vienna, new commemoratives and fair offers",
+            "da": "stamps from New York, Geneva and Vienna, new commemoratives and fair offers"
+          }
+        },
+        {
+          "label": {
+            "en": "Latvia and Lithuania, stand 14B",
+            "de": "Lettland und Litauen, Stand 14B",
+            "fr": "Lettonie et Lituanie, stand 14B",
+            "it": "Lettonia e Lituania, stand 14B",
+            "nl": "Latvia and Lithuania, stand 14B",
+            "pl": "Latvia and Lithuania, stand 14B",
+            "cs": "Latvia and Lithuania, stand 14B",
+            "sk": "Latvia and Lithuania, stand 14B",
+            "ro": "Latvia and Lithuania, stand 14B",
+            "hu": "Latvia and Lithuania, stand 14B",
+            "da": "Latvia and Lithuania, stand 14B"
+          },
+          "value": {
+            "en": "the posts of both countries at one stand",
+            "de": "die Postverwaltungen beider Länder an einem Stand",
+            "fr": "les postes des deux pays sur un même stand",
+            "it": "le poste dei due paesi a un unico stand",
+            "nl": "the posts of both countries at one stand",
+            "pl": "the posts of both countries at one stand",
+            "cs": "the posts of both countries at one stand",
+            "sk": "the posts of both countries at one stand",
+            "ro": "the posts of both countries at one stand",
+            "hu": "the posts of both countries at one stand",
+            "da": "the posts of both countries at one stand"
+          }
+        },
+        {
+          "label": {
+            "en": "Romfilatelia, stand 26",
+            "de": "Romfilatelia, Stand 26",
+            "fr": "Romfilatelia, stand 26",
+            "it": "Romfilatelia, stand 26",
+            "nl": "Romfilatelia, stand 26",
+            "pl": "Romfilatelia, stand 26",
+            "cs": "Romfilatelia, stand 26",
+            "sk": "Romfilatelia, stand 26",
+            "ro": "Romfilatelia, stand 26",
+            "hu": "Romfilatelia, stand 26",
+            "da": "Romfilatelia, stand 26"
+          },
+          "value": {
+            "en": "Romania",
+            "de": "Rumänien",
+            "fr": "Roumanie",
+            "it": "Romania",
+            "nl": "Romania",
+            "pl": "Romania",
+            "cs": "Romania",
+            "sk": "Romania",
+            "ro": "Romania",
+            "hu": "Romania",
+            "da": "Romania"
+          }
+        },
+        {
+          "label": {
+            "en": "Correos, stand 41",
+            "de": "Correos, Stand 41",
+            "fr": "Correos, stand 41",
+            "it": "Correos, stand 41",
+            "nl": "Correos, stand 41",
+            "pl": "Correos, stand 41",
+            "cs": "Correos, stand 41",
+            "sk": "Correos, stand 41",
+            "ro": "Correos, stand 41",
+            "hu": "Correos, stand 41",
+            "da": "Correos, stand 41"
+          },
+          "value": {
+            "en": "Spain, with special postmarks and cachets",
+            "de": "Spanien, mit Sonderstempeln und Cachets",
+            "fr": "Espagne, avec cachets postaux spéciaux et cachets illustrés",
+            "it": "Spagna, con timbri speciali e cachet",
+            "nl": "Spain, with special postmarks and cachets",
+            "pl": "Spain, with special postmarks and cachets",
+            "cs": "Spain, with special postmarks and cachets",
+            "sk": "Spain, with special postmarks and cachets",
+            "ro": "Spain, with special postmarks and cachets",
+            "hu": "Spain, with special postmarks and cachets",
+            "da": "Spain, with special postmarks and cachets"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "Postal administrations",
+        "de": "Postverwaltungen",
+        "fr": "Administrations postales",
+        "it": "Amministrazioni postali",
+        "nl": "Postal administrations",
+        "pl": "Postal administrations",
+        "cs": "Postal administrations",
+        "sk": "Postal administrations",
+        "ro": "Postal administrations",
+        "hu": "Postal administrations",
+        "da": "Postal administrations"
+      },
+      "title": {
+        "en": "The other posts at the fair",
+        "de": "Die weiteren Postverwaltungen auf der Messe",
+        "fr": "Les autres postes présentes",
+        "it": "Le altre poste in fiera",
+        "nl": "The other posts at the fair",
+        "pl": "The other posts at the fair",
+        "cs": "The other posts at the fair",
+        "sk": "The other posts at the fair",
+        "ro": "The other posts at the fair",
+        "hu": "The other posts at the fair",
+        "da": "The other posts at the fair"
+      }
+    },
+    {
+      "id": "dealers",
+      "rows": [
+        {
+          "label": {
+            "en": "Switzerland and Liechtenstein",
+            "de": "Schweiz und Liechtenstein",
+            "fr": "Suisse et Liechtenstein",
+            "it": "Svizzera e Liechtenstein",
+            "nl": "Switzerland and Liechtenstein",
+            "pl": "Switzerland and Liechtenstein",
+            "cs": "Switzerland and Liechtenstein",
+            "sk": "Switzerland and Liechtenstein",
+            "ro": "Switzerland and Liechtenstein",
+            "hu": "Switzerland and Liechtenstein",
+            "da": "Switzerland and Liechtenstein"
+          },
+          "value": {
+            "en": "Honegger Philatelie (28), Corinphila (9)",
+            "de": "Honegger Philatelie (28), Corinphila (9)",
+            "fr": "Honegger Philatelie (28), Corinphila (9)",
+            "it": "Honegger Philatelie (28), Corinphila (9)",
+            "nl": "Honegger Philatelie (28), Corinphila (9)",
+            "pl": "Honegger Philatelie (28), Corinphila (9)",
+            "cs": "Honegger Philatelie (28), Corinphila (9)",
+            "sk": "Honegger Philatelie (28), Corinphila (9)",
+            "ro": "Honegger Philatelie (28), Corinphila (9)",
+            "hu": "Honegger Philatelie (28), Corinphila (9)",
+            "da": "Honegger Philatelie (28), Corinphila (9)"
+          }
+        },
+        {
+          "label": {
+            "en": "Austria",
+            "de": "Österreich",
+            "fr": "Autriche",
+            "it": "Austria",
+            "nl": "Austria",
+            "pl": "Austria",
+            "cs": "Austria",
+            "sk": "Austria",
+            "ro": "Austria",
+            "hu": "Austria",
+            "da": "Austria"
+          },
+          "value": {
+            "en": "Tyrol-Phila Falch and Viennafil (19A)",
+            "de": "Tyrol-Phila Falch und Viennafil (19A)",
+            "fr": "Tyrol-Phila Falch et Viennafil (19A)",
+            "it": "Tyrol-Phila Falch e Viennafil (19A)",
+            "nl": "Tyrol-Phila Falch and Viennafil (19A)",
+            "pl": "Tyrol-Phila Falch and Viennafil (19A)",
+            "cs": "Tyrol-Phila Falch and Viennafil (19A)",
+            "sk": "Tyrol-Phila Falch and Viennafil (19A)",
+            "ro": "Tyrol-Phila Falch and Viennafil (19A)",
+            "hu": "Tyrol-Phila Falch and Viennafil (19A)",
+            "da": "Tyrol-Phila Falch and Viennafil (19A)"
+          }
+        },
+        {
+          "label": {
+            "en": "German states and Germany",
+            "de": "Altdeutschland und Deutschland",
+            "fr": "États allemands et Allemagne",
+            "it": "Antichi Stati tedeschi e Germania",
+            "nl": "German states and Germany",
+            "pl": "German states and Germany",
+            "cs": "German states and Germany",
+            "sk": "German states and Germany",
+            "ro": "German states and Germany",
+            "hu": "German states and Germany",
+            "da": "German states and Germany"
+          },
+          "value": {
+            "en": "Rauhut & Kruschel (10), Laribum (7), the APHV joint stand (30/31)",
+            "de": "Rauhut & Kruschel (10), Laribum (7), Gemeinschaftsstand des APHV (30/31)",
+            "fr": "Rauhut & Kruschel (10), Laribum (7), le stand collectif de l'APHV (30/31)",
+            "it": "Rauhut & Kruschel (10), Laribum (7), lo stand collettivo APHV (30/31)",
+            "nl": "Rauhut & Kruschel (10), Laribum (7), the APHV joint stand (30/31)",
+            "pl": "Rauhut & Kruschel (10), Laribum (7), the APHV joint stand (30/31)",
+            "cs": "Rauhut & Kruschel (10), Laribum (7), the APHV joint stand (30/31)",
+            "sk": "Rauhut & Kruschel (10), Laribum (7), the APHV joint stand (30/31)",
+            "ro": "Rauhut & Kruschel (10), Laribum (7), the APHV joint stand (30/31)",
+            "hu": "Rauhut & Kruschel (10), Laribum (7), the APHV joint stand (30/31)",
+            "da": "Rauhut & Kruschel (10), Laribum (7), the APHV joint stand (30/31)"
+          }
+        },
+        {
+          "label": {
+            "en": "Postal history and local covers",
+            "de": "Postgeschichte und Heimatbelege",
+            "fr": "Histoire postale et lettres locales",
+            "it": "Storia postale e lettere locali",
+            "nl": "Postal history and local covers",
+            "pl": "Postal history and local covers",
+            "cs": "Postal history and local covers",
+            "sk": "Postal history and local covers",
+            "ro": "Postal history and local covers",
+            "hu": "Postal history and local covers",
+            "da": "Postal history and local covers"
+          },
+          "value": {
+            "en": "Wolfgang Lang and Burkhard Jabs at the APHV stand (30/31), Burkhard Magin (20)",
+            "de": "Wolfgang Lang und Burkhard Jabs am APHV-Stand (30/31), Burkhard Magin (20)",
+            "fr": "Wolfgang Lang et Burkhard Jabs au stand de l'APHV (30/31), Burkhard Magin (20)",
+            "it": "Wolfgang Lang e Burkhard Jabs allo stand APHV (30/31), Burkhard Magin (20)",
+            "nl": "Wolfgang Lang and Burkhard Jabs at the APHV stand (30/31), Burkhard Magin (20)",
+            "pl": "Wolfgang Lang and Burkhard Jabs at the APHV stand (30/31), Burkhard Magin (20)",
+            "cs": "Wolfgang Lang and Burkhard Jabs at the APHV stand (30/31), Burkhard Magin (20)",
+            "sk": "Wolfgang Lang and Burkhard Jabs at the APHV stand (30/31), Burkhard Magin (20)",
+            "ro": "Wolfgang Lang and Burkhard Jabs at the APHV stand (30/31), Burkhard Magin (20)",
+            "hu": "Wolfgang Lang and Burkhard Jabs at the APHV stand (30/31), Burkhard Magin (20)",
+            "da": "Wolfgang Lang and Burkhard Jabs at the APHV stand (30/31), Burkhard Magin (20)"
+          }
+        },
+        {
+          "label": {
+            "en": "Airmail and Zeppelin",
+            "de": "Luftpost und Zeppelin",
+            "fr": "Poste aérienne et Zeppelin",
+            "it": "Posta aerea e Zeppelin",
+            "nl": "Airmail and Zeppelin",
+            "pl": "Airmail and Zeppelin",
+            "cs": "Airmail and Zeppelin",
+            "sk": "Airmail and Zeppelin",
+            "ro": "Airmail and Zeppelin",
+            "hu": "Airmail and Zeppelin",
+            "da": "Airmail and Zeppelin"
+          },
+          "value": {
+            "en": "Aerophilatelie Palmer (37), Felzmann (55)",
+            "de": "Aerophilatelie Palmer (37), Felzmann (55)",
+            "fr": "Aerophilatelie Palmer (37), Felzmann (55)",
+            "it": "Aerophilatelie Palmer (37), Felzmann (55)",
+            "nl": "Aerophilatelie Palmer (37), Felzmann (55)",
+            "pl": "Aerophilatelie Palmer (37), Felzmann (55)",
+            "cs": "Aerophilatelie Palmer (37), Felzmann (55)",
+            "sk": "Aerophilatelie Palmer (37), Felzmann (55)",
+            "ro": "Aerophilatelie Palmer (37), Felzmann (55)",
+            "hu": "Aerophilatelie Palmer (37), Felzmann (55)",
+            "da": "Aerophilatelie Palmer (37), Felzmann (55)"
+          }
+        },
+        {
+          "label": {
+            "en": "Picture postcards",
+            "de": "Ansichtskarten",
+            "fr": "Cartes postales illustrées",
+            "it": "Cartoline illustrate",
+            "nl": "Picture postcards",
+            "pl": "Picture postcards",
+            "cs": "Picture postcards",
+            "sk": "Picture postcards",
+            "ro": "Picture postcards",
+            "hu": "Picture postcards",
+            "da": "Picture postcards"
+          },
+          "value": {
+            "en": "Korntaler Ansichtskartenversand (2)",
+            "de": "Korntaler Ansichtskartenversand (2)",
+            "fr": "Korntaler Ansichtskartenversand (2)",
+            "it": "Korntaler Ansichtskartenversand (2)",
+            "nl": "Korntaler Ansichtskartenversand (2)",
+            "pl": "Korntaler Ansichtskartenversand (2)",
+            "cs": "Korntaler Ansichtskartenversand (2)",
+            "sk": "Korntaler Ansichtskartenversand (2)",
+            "ro": "Korntaler Ansichtskartenversand (2)",
+            "hu": "Korntaler Ansichtskartenversand (2)",
+            "da": "Korntaler Ansichtskartenversand (2)"
+          }
+        },
+        {
+          "label": {
+            "en": "France and Monaco",
+            "de": "Frankreich und Monaco",
+            "fr": "France et Monaco",
+            "it": "Francia e Monaco",
+            "nl": "France and Monaco",
+            "pl": "France and Monaco",
+            "cs": "France and Monaco",
+            "sk": "France and Monaco",
+            "ro": "France and Monaco",
+            "hu": "France and Monaco",
+            "da": "France and Monaco"
+          },
+          "value": {
+            "en": "Vincennes Philatélie (57)",
+            "de": "Vincennes Philatélie (57)",
+            "fr": "Vincennes Philatélie (57)",
+            "it": "Vincennes Philatélie (57)",
+            "nl": "Vincennes Philatélie (57)",
+            "pl": "Vincennes Philatélie (57)",
+            "cs": "Vincennes Philatélie (57)",
+            "sk": "Vincennes Philatélie (57)",
+            "ro": "Vincennes Philatélie (57)",
+            "hu": "Vincennes Philatélie (57)",
+            "da": "Vincennes Philatélie (57)"
+          }
+        },
+        {
+          "label": {
+            "en": "Auction houses",
+            "de": "Auktionshäuser",
+            "fr": "Maisons de vente aux enchères",
+            "it": "Case d'asta",
+            "nl": "Auction houses",
+            "pl": "Auction houses",
+            "cs": "Auction houses",
+            "sk": "Auction houses",
+            "ro": "Auction houses",
+            "hu": "Auction houses",
+            "da": "Auction houses"
+          },
+          "value": {
+            "en": "Heinrich Köhler (9), Christoph Gärtner (15), Cavendish (22)",
+            "de": "Heinrich Köhler (9), Christoph Gärtner (15), Cavendish (22)",
+            "fr": "Heinrich Köhler (9), Christoph Gärtner (15), Cavendish (22)",
+            "it": "Heinrich Köhler (9), Christoph Gärtner (15), Cavendish (22)",
+            "nl": "Heinrich Köhler (9), Christoph Gärtner (15), Cavendish (22)",
+            "pl": "Heinrich Köhler (9), Christoph Gärtner (15), Cavendish (22)",
+            "cs": "Heinrich Köhler (9), Christoph Gärtner (15), Cavendish (22)",
+            "sk": "Heinrich Köhler (9), Christoph Gärtner (15), Cavendish (22)",
+            "ro": "Heinrich Köhler (9), Christoph Gärtner (15), Cavendish (22)",
+            "hu": "Heinrich Köhler (9), Christoph Gärtner (15), Cavendish (22)",
+            "da": "Heinrich Köhler (9), Christoph Gärtner (15), Cavendish (22)"
+          }
+        },
+        {
+          "label": {
+            "en": "Catalogues",
+            "de": "Kataloge",
+            "fr": "Catalogues",
+            "it": "Cataloghi",
+            "nl": "Catalogues",
+            "pl": "Catalogues",
+            "cs": "Catalogues",
+            "sk": "Catalogues",
+            "ro": "Catalogues",
+            "hu": "Catalogues",
+            "da": "Catalogues"
+          },
+          "value": {
+            "en": "MICHEL by Schwaneberger (6), Philotax (17)",
+            "de": "MICHEL von Schwaneberger (6), Philotax (17)",
+            "fr": "MICHEL de Schwaneberger (6), Philotax (17)",
+            "it": "MICHEL di Schwaneberger (6), Philotax (17)",
+            "nl": "MICHEL by Schwaneberger (6), Philotax (17)",
+            "pl": "MICHEL by Schwaneberger (6), Philotax (17)",
+            "cs": "MICHEL by Schwaneberger (6), Philotax (17)",
+            "sk": "MICHEL by Schwaneberger (6), Philotax (17)",
+            "ro": "MICHEL by Schwaneberger (6), Philotax (17)",
+            "hu": "MICHEL by Schwaneberger (6), Philotax (17)",
+            "da": "MICHEL by Schwaneberger (6), Philotax (17)"
+          }
+        },
+        {
+          "label": {
+            "en": "Literature and accessories",
+            "de": "Literatur und Zubehör",
+            "fr": "Littérature et accessoires",
+            "it": "Letteratura e accessori",
+            "nl": "Literature and accessories",
+            "pl": "Literature and accessories",
+            "cs": "Literature and accessories",
+            "sk": "Literature and accessories",
+            "ro": "Literature and accessories",
+            "hu": "Literature and accessories",
+            "da": "Literature and accessories"
+          },
+          "value": {
+            "en": "Philathek (3), Leuchtturm (54), Lindner (16), SAFE (44)",
+            "de": "Philathek (3), Leuchtturm (54), Lindner (16), SAFE (44)",
+            "fr": "Philathek (3), Leuchtturm (54), Lindner (16), SAFE (44)",
+            "it": "Philathek (3), Leuchtturm (54), Lindner (16), SAFE (44)",
+            "nl": "Philathek (3), Leuchtturm (54), Lindner (16), SAFE (44)",
+            "pl": "Philathek (3), Leuchtturm (54), Lindner (16), SAFE (44)",
+            "cs": "Philathek (3), Leuchtturm (54), Lindner (16), SAFE (44)",
+            "sk": "Philathek (3), Leuchtturm (54), Lindner (16), SAFE (44)",
+            "ro": "Philathek (3), Leuchtturm (54), Lindner (16), SAFE (44)",
+            "hu": "Philathek (3), Leuchtturm (54), Lindner (16), SAFE (44)",
+            "da": "Philathek (3), Leuchtturm (54), Lindner (16), SAFE (44)"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "The dealers",
+        "de": "Die Händler",
+        "fr": "Les négociants",
+        "it": "I commercianti",
+        "nl": "The dealers",
+        "pl": "The dealers",
+        "cs": "The dealers",
+        "sk": "The dealers",
+        "ro": "The dealers",
+        "hu": "The dealers",
+        "da": "The dealers"
+      },
+      "title": {
+        "en": "Where to look for what",
+        "de": "Wo du was findest",
+        "fr": "Où chercher quoi",
+        "it": "Dove cercare cosa",
+        "nl": "Where to look for what",
+        "pl": "Where to look for what",
+        "cs": "Where to look for what",
+        "sk": "Where to look for what",
+        "ro": "Where to look for what",
+        "hu": "Where to look for what",
+        "da": "Where to look for what"
+      }
+    },
+    {
+      "id": "new",
+      "type": "text",
+      "label": {
+        "en": "New at the tables",
+        "de": "Neu an den Tischen",
+        "fr": "Nouveautés",
+        "it": "Novità",
+        "nl": "New at the tables",
+        "pl": "New at the tables",
+        "cs": "New at the tables",
+        "sk": "New at the tables",
+        "ro": "New at the tables",
+        "hu": "New at the tables",
+        "da": "New at the tables"
+      },
+      "title": {
+        "en": "Catalogues and valuations",
+        "de": "Kataloge und Bewertungen",
+        "fr": "Catalogues et estimations",
+        "it": "Cataloghi e valutazioni",
+        "nl": "Catalogues and valuations",
+        "pl": "Catalogues and valuations",
+        "cs": "Catalogues and valuations",
+        "sk": "Catalogues and valuations",
+        "ro": "Catalogues and valuations",
+        "hu": "Catalogues and valuations",
+        "da": "Catalogues and valuations"
+      },
+      "paragraphs": [
+        {
+          "en": "Schwaneberger brings the new MICHEL Deutschland-Spezial, for the first time in three volumes, with volume 3 for the Federal Republic alone. Philotax has the third edition of its DDR plate-flaw catalogue and a new two-volume Deutsches Reich Spezial.",
+          "de": "Schwaneberger bringt den neuen MICHEL Deutschland-Spezial, erstmals in drei Bänden, Band 3 allein für die Bundesrepublik. Philotax zeigt die dritte Auflage seines DDR-Plattenfehler-Katalogs und ein neues zweibändiges Deutsches Reich Spezial.",
+          "fr": "Schwaneberger présente le nouveau MICHEL Deutschland-Spezial, pour la première fois en trois volumes, le volume 3 étant consacré à la seule République fédérale. Philotax propose la troisième édition de son catalogue des variétés de cliché de la RDA et un nouveau Deutsches Reich Spezial en deux volumes.",
+          "it": "Schwaneberger porta il nuovo MICHEL Deutschland-Spezial, per la prima volta in tre volumi, con il volume 3 dedicato solo alla Repubblica Federale. Philotax ha la terza edizione del suo catalogo delle varietà di cliché della DDR e un nuovo Deutsches Reich Spezial in due volumi.",
+          "nl": "Schwaneberger brings the new MICHEL Deutschland-Spezial, for the first time in three volumes, with volume 3 for the Federal Republic alone. Philotax has the third edition of its DDR plate-flaw catalogue and a new two-volume Deutsches Reich Spezial.",
+          "pl": "Schwaneberger brings the new MICHEL Deutschland-Spezial, for the first time in three volumes, with volume 3 for the Federal Republic alone. Philotax has the third edition of its DDR plate-flaw catalogue and a new two-volume Deutsches Reich Spezial.",
+          "cs": "Schwaneberger brings the new MICHEL Deutschland-Spezial, for the first time in three volumes, with volume 3 for the Federal Republic alone. Philotax has the third edition of its DDR plate-flaw catalogue and a new two-volume Deutsches Reich Spezial.",
+          "sk": "Schwaneberger brings the new MICHEL Deutschland-Spezial, for the first time in three volumes, with volume 3 for the Federal Republic alone. Philotax has the third edition of its DDR plate-flaw catalogue and a new two-volume Deutsches Reich Spezial.",
+          "ro": "Schwaneberger brings the new MICHEL Deutschland-Spezial, for the first time in three volumes, with volume 3 for the Federal Republic alone. Philotax has the third edition of its DDR plate-flaw catalogue and a new two-volume Deutsches Reich Spezial.",
+          "hu": "Schwaneberger brings the new MICHEL Deutschland-Spezial, for the first time in three volumes, with volume 3 for the Federal Republic alone. Philotax has the third edition of its DDR plate-flaw catalogue and a new two-volume Deutsches Reich Spezial.",
+          "da": "Schwaneberger brings the new MICHEL Deutschland-Spezial, for the first time in three volumes, with volume 3 for the Federal Republic alone. Philotax has the third edition of its DDR plate-flaw catalogue and a new two-volume Deutsches Reich Spezial."
+        },
+        {
+          "en": "Philathek brings orders placed about five days ahead to the fair post-free. Christoph Gärtner values collections free of charge at its stand.",
+          "de": "Philathek bringt Bestellungen portofrei zur Messe mit, wenn sie etwa fünf Tage vorher aufgegeben werden. Christoph Gärtner bewertet Sammlungen am Stand kostenlos.",
+          "fr": "Philathek apporte au salon les commandes passées environ cinq jours à l'avance, sans frais de port. Christoph Gärtner estime gratuitement les collections à son stand.",
+          "it": "Se ordini da Philathek con circa cinque giorni di anticipo, la merce ti arriva in fiera senza spese di spedizione. Christoph Gärtner valuta gratuitamente le collezioni al suo stand.",
+          "nl": "Philathek brings orders placed about five days ahead to the fair post-free. Christoph Gärtner values collections free of charge at its stand.",
+          "pl": "Philathek brings orders placed about five days ahead to the fair post-free. Christoph Gärtner values collections free of charge at its stand.",
+          "cs": "Philathek brings orders placed about five days ahead to the fair post-free. Christoph Gärtner values collections free of charge at its stand.",
+          "sk": "Philathek brings orders placed about five days ahead to the fair post-free. Christoph Gärtner values collections free of charge at its stand.",
+          "ro": "Philathek brings orders placed about five days ahead to the fair post-free. Christoph Gärtner values collections free of charge at its stand.",
+          "hu": "Philathek brings orders placed about five days ahead to the fair post-free. Christoph Gärtner values collections free of charge at its stand.",
+          "da": "Philathek brings orders placed about five days ahead to the fair post-free. Christoph Gärtner values collections free of charge at its stand."
+        }
+      ]
+    },
+    {
+      "id": "exhibitions",
+      "type": "text",
+      "label": {
+        "en": "Exhibitions",
+        "de": "Ausstellungen",
+        "fr": "Expositions",
+        "it": "Mostre",
+        "nl": "Exhibitions",
+        "pl": "Exhibitions",
+        "cs": "Exhibitions",
+        "sk": "Exhibitions",
+        "ro": "Exhibitions",
+        "hu": "Exhibitions",
+        "da": "Exhibitions"
+      },
+      "title": {
+        "en": "The Baden error and «Postgeschichte live»",
+        "de": "Der Baden-Fehldruck und „Postgeschichte live“",
+        "fr": "L'erreur de Bade et « Postgeschichte live »",
+        "it": "L'errore del Baden e \"Postgeschichte live\"",
+        "nl": "The Baden error and «Postgeschichte live»",
+        "pl": "The Baden error and «Postgeschichte live»",
+        "cs": "The Baden error and «Postgeschichte live»",
+        "sk": "The Baden error and «Postgeschichte live»",
+        "ro": "The Baden error and «Postgeschichte live»",
+        "hu": "The Baden error and «Postgeschichte live»",
+        "da": "The Baden error and «Postgeschichte live»"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/89e54653a34beac2/baden-fehldruck-9kr.jpg",
+          "width": 585,
+          "credit": "Public domain",
+          "height": 582,
+          "caption": {
+            "en": "The Baden error of 1851, 9 Kreuzer on blue-green paper",
+            "de": "Der Baden-Fehldruck von 1851, 9 Kreuzer auf blaugrünem Papier",
+            "fr": "L'erreur de Bade de 1851, le 9 kreuzer sur papier bleu-vert",
+            "it": "L'errore del Baden del 1851, 9 Kreuzer su carta verde-azzurra",
+            "nl": "The Baden error of 1851, 9 Kreuzer on blue-green paper",
+            "pl": "The Baden error of 1851, 9 Kreuzer on blue-green paper",
+            "cs": "The Baden error of 1851, 9 Kreuzer on blue-green paper",
+            "sk": "The Baden error of 1851, 9 Kreuzer on blue-green paper",
+            "ro": "The Baden error of 1851, 9 Kreuzer on blue-green paper",
+            "hu": "The Baden error of 1851, 9 Kreuzer on blue-green paper",
+            "da": "The Baden error of 1851, 9 Kreuzer on blue-green paper"
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Baden-Fehldruck.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "Baden and Württemberg issued their first stamps 175 years ago, and Hall 2 has a special show of about 80 m² for them. Its best-known piece is the Baden error: in July or August 1851 the 9 Kreuzer was printed on blue-green paper, and its paper should have been rose. Three are known, the piece shown in Ulm and two letters, one of them in the Museum für Kommunikation in Berlin.",
+          "de": "Baden und Württemberg gaben ihre ersten Briefmarken vor 175 Jahren heraus, und in Halle 2 gibt es dazu eine Sonderschau von rund 80 m². Ihr bekanntestes Stück ist der Baden-Fehldruck: Im Juli oder August 1851 wurde der 9 Kreuzer auf blaugrünem Papier gedruckt, vorgesehen war rosa. Drei Stücke sind bekannt, das in Ulm gezeigte und zwei Briefe, einer davon im Museum für Kommunikation in Berlin.",
+          "fr": "Bade et le Wurtemberg ont émis leurs premiers timbres il y a 175 ans, et le hall 2 leur consacre une exposition d'environ 80 m². Sa pièce la plus connue est l'erreur de Bade : en juillet ou en août 1851, le 9 kreuzer a été imprimé sur papier bleu-vert, alors qu'il devait l'être sur papier rose. Trois exemplaires sont connus : la pièce montrée à Ulm et deux lettres, dont l'une se trouve au Museum für Kommunikation de Berlin.",
+          "it": "Baden e Württemberg hanno emesso i loro primi francobolli 175 anni fa, e nel padiglione 2 c'è una mostra speciale di circa 80 m² dedicata a loro. Il pezzo più noto è l'errore del Baden: nel luglio o nell'agosto del 1851 il 9 Kreuzer venne stampato su carta verde-azzurra, mentre la carta doveva essere rosa. Se ne conoscono tre esemplari: quello esposto a Ulma e due lettere, una delle quali al Museum für Kommunikation di Berlino.",
+          "nl": "Baden and Württemberg issued their first stamps 175 years ago, and Hall 2 has a special show of about 80 m² for them. Its best-known piece is the Baden error: in July or August 1851 the 9 Kreuzer was printed on blue-green paper, and its paper should have been rose. Three are known, the piece shown in Ulm and two letters, one of them in the Museum für Kommunikation in Berlin.",
+          "pl": "Baden and Württemberg issued their first stamps 175 years ago, and Hall 2 has a special show of about 80 m² for them. Its best-known piece is the Baden error: in July or August 1851 the 9 Kreuzer was printed on blue-green paper, and its paper should have been rose. Three are known, the piece shown in Ulm and two letters, one of them in the Museum für Kommunikation in Berlin.",
+          "cs": "Baden and Württemberg issued their first stamps 175 years ago, and Hall 2 has a special show of about 80 m² for them. Its best-known piece is the Baden error: in July or August 1851 the 9 Kreuzer was printed on blue-green paper, and its paper should have been rose. Three are known, the piece shown in Ulm and two letters, one of them in the Museum für Kommunikation in Berlin.",
+          "sk": "Baden and Württemberg issued their first stamps 175 years ago, and Hall 2 has a special show of about 80 m² for them. Its best-known piece is the Baden error: in July or August 1851 the 9 Kreuzer was printed on blue-green paper, and its paper should have been rose. Three are known, the piece shown in Ulm and two letters, one of them in the Museum für Kommunikation in Berlin.",
+          "ro": "Baden and Württemberg issued their first stamps 175 years ago, and Hall 2 has a special show of about 80 m² for them. Its best-known piece is the Baden error: in July or August 1851 the 9 Kreuzer was printed on blue-green paper, and its paper should have been rose. Three are known, the piece shown in Ulm and two letters, one of them in the Museum für Kommunikation in Berlin.",
+          "hu": "Baden and Württemberg issued their first stamps 175 years ago, and Hall 2 has a special show of about 80 m² for them. Its best-known piece is the Baden error: in July or August 1851 the 9 Kreuzer was printed on blue-green paper, and its paper should have been rose. Three are known, the piece shown in Ulm and two letters, one of them in the Museum für Kommunikation in Berlin.",
+          "da": "Baden and Württemberg issued their first stamps 175 years ago, and Hall 2 has a special show of about 80 m² for them. Its best-known piece is the Baden error: in July or August 1851 the 9 Kreuzer was printed on blue-green paper, and its paper should have been rose. Three are known, the piece shown in Ulm and two letters, one of them in the Museum für Kommunikation in Berlin."
+        },
+        {
+          "en": "Joseph Hackmey shows parts of his Baden collection, which won Grand Gold, and the stamp archive of the Museumsstiftung Post und Telekommunikation in Bonn shows its complete set of Baden essays and proofs for the first time. The Württemberg part runs from the Kreuzer period to railway post, field post of the First World War and a local collection on Ulm.",
+          "de": "Joseph Hackmey zeigt Teile seiner Baden-Sammlung, die Großgold gewonnen hat. Das Markenarchiv der Museumsstiftung Post und Telekommunikation in Bonn stellt erstmals seine vollständige Reihe der badischen Essays und Probedrucke aus. Der württembergische Teil reicht von der Kreuzerzeit über die Bahnpost und die Feldpost des Ersten Weltkriegs bis zu einer Heimatsammlung über Ulm.",
+          "fr": "Joseph Hackmey montre des parties de sa collection de Bade, récompensée par un grand or, et les archives du timbre de la Museumsstiftung Post und Telekommunikation de Bonn présentent pour la première fois leur ensemble complet d'essais et d'épreuves de Bade. La partie Wurtemberg couvre la période des kreuzer, la poste ferroviaire, la poste militaire de la Première Guerre mondiale et une collection locale sur Ulm.",
+          "it": "Joseph Hackmey espone parti della sua collezione del Baden, premiata con un Oro Grande, e l'archivio dei francobolli della Museumsstiftung Post und Telekommunikation di Bonn mostra per la prima volta la sua serie completa di saggi e prove del Baden. La parte sul Württemberg va dal periodo dei Kreuzer alla posta ferroviaria, alla posta militare della Prima guerra mondiale e a una collezione locale su Ulma.",
+          "nl": "Joseph Hackmey shows parts of his Baden collection, which won Grand Gold, and the stamp archive of the Museumsstiftung Post und Telekommunikation in Bonn shows its complete set of Baden essays and proofs for the first time. The Württemberg part runs from the Kreuzer period to railway post, field post of the First World War and a local collection on Ulm.",
+          "pl": "Joseph Hackmey shows parts of his Baden collection, which won Grand Gold, and the stamp archive of the Museumsstiftung Post und Telekommunikation in Bonn shows its complete set of Baden essays and proofs for the first time. The Württemberg part runs from the Kreuzer period to railway post, field post of the First World War and a local collection on Ulm.",
+          "cs": "Joseph Hackmey shows parts of his Baden collection, which won Grand Gold, and the stamp archive of the Museumsstiftung Post und Telekommunikation in Bonn shows its complete set of Baden essays and proofs for the first time. The Württemberg part runs from the Kreuzer period to railway post, field post of the First World War and a local collection on Ulm.",
+          "sk": "Joseph Hackmey shows parts of his Baden collection, which won Grand Gold, and the stamp archive of the Museumsstiftung Post und Telekommunikation in Bonn shows its complete set of Baden essays and proofs for the first time. The Württemberg part runs from the Kreuzer period to railway post, field post of the First World War and a local collection on Ulm.",
+          "ro": "Joseph Hackmey shows parts of his Baden collection, which won Grand Gold, and the stamp archive of the Museumsstiftung Post und Telekommunikation in Bonn shows its complete set of Baden essays and proofs for the first time. The Württemberg part runs from the Kreuzer period to railway post, field post of the First World War and a local collection on Ulm.",
+          "hu": "Joseph Hackmey shows parts of his Baden collection, which won Grand Gold, and the stamp archive of the Museumsstiftung Post und Telekommunikation in Bonn shows its complete set of Baden essays and proofs for the first time. The Württemberg part runs from the Kreuzer period to railway post, field post of the First World War and a local collection on Ulm.",
+          "da": "Joseph Hackmey shows parts of his Baden collection, which won Grand Gold, and the stamp archive of the Museumsstiftung Post und Telekommunikation in Bonn shows its complete set of Baden essays and proofs for the first time. The Württemberg part runs from the Kreuzer period to railway post, field post of the First World War and a local collection on Ulm."
+        },
+        {
+          "en": "«Postgeschichte live» is a competition for postal history, with 63 exhibits this year, 26 of them from England. An international jury chaired by Adriano Bergamini awards gold, silver and bronze posthorns, presented on Saturday.",
+          "de": "„Postgeschichte live“ ist ein Wettbewerb für postgeschichtliche Exponate, in diesem Jahr sind es 63, davon 26 aus England. Eine internationale Jury unter dem Vorsitz von Adriano Bergamini vergibt goldene, silberne und bronzene Posthörner, überreicht werden sie am Samstag.",
+          "fr": "« Postgeschichte live » est un concours d'histoire postale, avec 63 collections cette année, dont 26 venues d'Angleterre. Un jury international présidé par Adriano Bergamini décerne des cors postaux d'or, d'argent et de bronze, remis le samedi.",
+          "it": "\"Postgeschichte live\" è un concorso di storia postale, quest'anno con 63 collezioni, 26 delle quali dall'Inghilterra. Una giuria internazionale presieduta da Adriano Bergamini assegna corni postali d'oro, d'argento e di bronzo, consegnati sabato.",
+          "nl": "«Postgeschichte live» is a competition for postal history, with 63 exhibits this year, 26 of them from England. An international jury chaired by Adriano Bergamini awards gold, silver and bronze posthorns, presented on Saturday.",
+          "pl": "«Postgeschichte live» is a competition for postal history, with 63 exhibits this year, 26 of them from England. An international jury chaired by Adriano Bergamini awards gold, silver and bronze posthorns, presented on Saturday.",
+          "cs": "«Postgeschichte live» is a competition for postal history, with 63 exhibits this year, 26 of them from England. An international jury chaired by Adriano Bergamini awards gold, silver and bronze posthorns, presented on Saturday.",
+          "sk": "«Postgeschichte live» is a competition for postal history, with 63 exhibits this year, 26 of them from England. An international jury chaired by Adriano Bergamini awards gold, silver and bronze posthorns, presented on Saturday.",
+          "ro": "«Postgeschichte live» is a competition for postal history, with 63 exhibits this year, 26 of them from England. An international jury chaired by Adriano Bergamini awards gold, silver and bronze posthorns, presented on Saturday.",
+          "hu": "«Postgeschichte live» is a competition for postal history, with 63 exhibits this year, 26 of them from England. An international jury chaired by Adriano Bergamini awards gold, silver and bronze posthorns, presented on Saturday.",
+          "da": "«Postgeschichte live» is a competition for postal history, with 63 exhibits this year, 26 of them from England. An international jury chaired by Adriano Bergamini awards gold, silver and bronze posthorns, presented on Saturday."
+        }
+      ]
+    },
+    {
+      "id": "talks",
+      "type": "text",
+      "label": {
+        "en": "Talks",
+        "de": "Vorträge",
+        "fr": "Conférences",
+        "it": "Conferenze",
+        "nl": "Talks",
+        "pl": "Talks",
+        "cs": "Talks",
+        "sk": "Talks",
+        "ro": "Talks",
+        "hu": "Talks",
+        "da": "Talks"
+      },
+      "title": {
+        "en": "The symposium and the taster seminar",
+        "de": "Das Symposium und das Schnupperseminar",
+        "fr": "Le symposium et le séminaire d'initiation",
+        "it": "Il simposio e il seminario di prova",
+        "nl": "The symposium and the taster seminar",
+        "pl": "The symposium and the taster seminar",
+        "cs": "The symposium and the taster seminar",
+        "sk": "The symposium and the taster seminar",
+        "ro": "The symposium and the taster seminar",
+        "hu": "The symposium and the taster seminar",
+        "da": "The symposium and the taster seminar"
+      },
+      "paragraphs": [
+        {
+          "en": "On Friday from 13:00 the Deutscher Altbriefsammler-Verein holds its postal-history symposium, with free entry. Ute Dorr talks about the postal history of the Orient Express from 1883 to 1914, Simon Richards about British sailing packets from the West Indies and Damian Läge about the 2-million-mark overprint of the German inflation. Chris King from London presents a project that makes postal documents in old German handwriting readable.",
+          "de": "Am Freitag ab 13:00 Uhr veranstaltet der Deutsche Altbriefsammler-Verein sein postgeschichtliches Symposium, der Eintritt ist frei. Ute Dorr spricht über die Postgeschichte des Orient-Express von 1883 bis 1914, Simon Richards über die britische Segelschiffspost aus Westindien und Damian Läge über den 2-Millionen-Mark-Aufdruck der deutschen Inflation. Chris King aus London stellt ein Projekt vor, das Postdokumente in alter deutscher Handschrift lesbar macht.",
+          "fr": "Le vendredi à partir de 13 h, le Deutscher Altbriefsammler-Verein tient son symposium d'histoire postale, en entrée libre. Ute Dorr parle de l'histoire postale de l'Orient-Express de 1883 à 1914, Simon Richards des paquebots à voile britanniques venant des Antilles et Damian Läge de la surcharge à 2 millions de marks de l'inflation allemande. Chris King, venu de Londres, présente un projet qui rend lisibles les documents postaux écrits en ancienne écriture allemande.",
+          "it": "Venerdì dalle 13:00 il Deutscher Altbriefsammler-Verein tiene il suo simposio di storia postale, a ingresso libero. Ute Dorr parla della storia postale dell'Orient Express dal 1883 al 1914, Simon Richards dei velieri postali britannici dalle Indie Occidentali e Damian Läge della sovrastampa da 2 milioni di marchi dell'inflazione tedesca. Chris King, da Londra, presenta un progetto che rende leggibili i documenti postali scritti in antica grafia tedesca.",
+          "nl": "On Friday from 13:00 the Deutscher Altbriefsammler-Verein holds its postal-history symposium, with free entry. Ute Dorr talks about the postal history of the Orient Express from 1883 to 1914, Simon Richards about British sailing packets from the West Indies and Damian Läge about the 2-million-mark overprint of the German inflation. Chris King from London presents a project that makes postal documents in old German handwriting readable.",
+          "pl": "On Friday from 13:00 the Deutscher Altbriefsammler-Verein holds its postal-history symposium, with free entry. Ute Dorr talks about the postal history of the Orient Express from 1883 to 1914, Simon Richards about British sailing packets from the West Indies and Damian Läge about the 2-million-mark overprint of the German inflation. Chris King from London presents a project that makes postal documents in old German handwriting readable.",
+          "cs": "On Friday from 13:00 the Deutscher Altbriefsammler-Verein holds its postal-history symposium, with free entry. Ute Dorr talks about the postal history of the Orient Express from 1883 to 1914, Simon Richards about British sailing packets from the West Indies and Damian Läge about the 2-million-mark overprint of the German inflation. Chris King from London presents a project that makes postal documents in old German handwriting readable.",
+          "sk": "On Friday from 13:00 the Deutscher Altbriefsammler-Verein holds its postal-history symposium, with free entry. Ute Dorr talks about the postal history of the Orient Express from 1883 to 1914, Simon Richards about British sailing packets from the West Indies and Damian Läge about the 2-million-mark overprint of the German inflation. Chris King from London presents a project that makes postal documents in old German handwriting readable.",
+          "ro": "On Friday from 13:00 the Deutscher Altbriefsammler-Verein holds its postal-history symposium, with free entry. Ute Dorr talks about the postal history of the Orient Express from 1883 to 1914, Simon Richards about British sailing packets from the West Indies and Damian Läge about the 2-million-mark overprint of the German inflation. Chris King from London presents a project that makes postal documents in old German handwriting readable.",
+          "hu": "On Friday from 13:00 the Deutscher Altbriefsammler-Verein holds its postal-history symposium, with free entry. Ute Dorr talks about the postal history of the Orient Express from 1883 to 1914, Simon Richards about British sailing packets from the West Indies and Damian Läge about the 2-million-mark overprint of the German inflation. Chris King from London presents a project that makes postal documents in old German handwriting readable.",
+          "da": "On Friday from 13:00 the Deutscher Altbriefsammler-Verein holds its postal-history symposium, with free entry. Ute Dorr talks about the postal history of the Orient Express from 1883 to 1914, Simon Richards about British sailing packets from the West Indies and Damian Läge about the 2-million-mark overprint of the German inflation. Chris King from London presents a project that makes postal documents in old German handwriting readable."
+        },
+        {
+          "en": "New this year, the Philatelistische Akademie gives a free taster seminar on Saturday from 10:00 to 15:00 in conference room 5, with short talks on district handstamps, postal stationery and Saar colour proofs, among others. The exact times hang on the door of the room. On Thursday at 15:30 the auction house Heinrich Köhler presents itself in room 3.",
+          "de": "Neu ist in diesem Jahr ein kostenloses Schnupperseminar der Philatelistischen Akademie, am Samstag von 10:00 bis 15:00 Uhr im Konferenzraum 5, mit Kurzvorträgen unter anderem über Bezirkshandstempel, Ganzsachen und Saar-Farbproben. Die genauen Zeiten hängen an der Tür des Raums. Am Donnerstag um 15:30 Uhr stellt sich das Auktionshaus Heinrich Köhler in Raum 3 vor.",
+          "fr": "Nouveauté cette année, la Philatelistische Akademie propose un séminaire d'initiation gratuit le samedi de 10 h à 15 h, en salle de conférence 5, avec de courts exposés sur les cachets de district, les entiers postaux ou encore les essais de couleur de la Sarre. Les horaires précis sont affichés sur la porte de la salle. Le jeudi à 15 h 30, la maison de vente Heinrich Köhler se présente en salle 3.",
+          "it": "Novità di quest'anno, la Philatelistische Akademie propone sabato dalle 10:00 alle 15:00 un seminario di prova gratuito nella sala conferenze 5, con brevi interventi tra l'altro sui timbri a mano distrettuali, sugli interi postali e sulle prove di colore del Saar. Gli orari esatti sono affissi alla porta della sala. Giovedì alle 15:30 la casa d'asta Heinrich Köhler si presenta nella sala 3.",
+          "nl": "New this year, the Philatelistische Akademie gives a free taster seminar on Saturday from 10:00 to 15:00 in conference room 5, with short talks on district handstamps, postal stationery and Saar colour proofs, among others. The exact times hang on the door of the room. On Thursday at 15:30 the auction house Heinrich Köhler presents itself in room 3.",
+          "pl": "New this year, the Philatelistische Akademie gives a free taster seminar on Saturday from 10:00 to 15:00 in conference room 5, with short talks on district handstamps, postal stationery and Saar colour proofs, among others. The exact times hang on the door of the room. On Thursday at 15:30 the auction house Heinrich Köhler presents itself in room 3.",
+          "cs": "New this year, the Philatelistische Akademie gives a free taster seminar on Saturday from 10:00 to 15:00 in conference room 5, with short talks on district handstamps, postal stationery and Saar colour proofs, among others. The exact times hang on the door of the room. On Thursday at 15:30 the auction house Heinrich Köhler presents itself in room 3.",
+          "sk": "New this year, the Philatelistische Akademie gives a free taster seminar on Saturday from 10:00 to 15:00 in conference room 5, with short talks on district handstamps, postal stationery and Saar colour proofs, among others. The exact times hang on the door of the room. On Thursday at 15:30 the auction house Heinrich Köhler presents itself in room 3.",
+          "ro": "New this year, the Philatelistische Akademie gives a free taster seminar on Saturday from 10:00 to 15:00 in conference room 5, with short talks on district handstamps, postal stationery and Saar colour proofs, among others. The exact times hang on the door of the room. On Thursday at 15:30 the auction house Heinrich Köhler presents itself in room 3.",
+          "hu": "New this year, the Philatelistische Akademie gives a free taster seminar on Saturday from 10:00 to 15:00 in conference room 5, with short talks on district handstamps, postal stationery and Saar colour proofs, among others. The exact times hang on the door of the room. On Thursday at 15:30 the auction house Heinrich Köhler presents itself in room 3.",
+          "da": "New this year, the Philatelistische Akademie gives a free taster seminar on Saturday from 10:00 to 15:00 in conference room 5, with short talks on district handstamps, postal stationery and Saar colour proofs, among others. The exact times hang on the door of the room. On Thursday at 15:30 the auction house Heinrich Köhler presents itself in room 3."
+        }
+      ]
+    },
+    {
+      "id": "children",
+      "type": "text",
+      "label": {
+        "en": "With children",
+        "de": "Mit Kindern",
+        "fr": "Avec des enfants",
+        "it": "Con i bambini",
+        "nl": "With children",
+        "pl": "With children",
+        "cs": "With children",
+        "sk": "With children",
+        "ro": "With children",
+        "hu": "With children",
+        "da": "With children"
+      },
+      "title": {
+        "en": "The rally and the painting competition",
+        "de": "Die Rallye und der Malwettbewerb",
+        "fr": "Le rallye et le concours de dessin",
+        "it": "La caccia al tesoro e il concorso di pittura",
+        "nl": "The rally and the painting competition",
+        "pl": "The rally and the painting competition",
+        "cs": "The rally and the painting competition",
+        "sk": "The rally and the painting competition",
+        "ro": "The rally and the painting competition",
+        "hu": "The rally and the painting competition",
+        "da": "The rally and the painting competition"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/0e832d864c32e0ed/ulmer-schachtel-schwaben-1914.jpg",
+          "width": 1920,
+          "credit": "Public domain",
+          "height": 1231,
+          "caption": {
+            "en": "The Ulmer Schachtel «Schwaben» in Ulm on 16 July 1914, before its trip to Vienna",
+            "de": "Die Ulmer Schachtel „Schwaben“ am 16. Juli 1914 in Ulm, vor der Fahrt nach Wien",
+            "fr": "L'Ulmer Schachtel « Schwaben » à Ulm le 16 juillet 1914, avant son voyage vers Vienne",
+            "it": "La Ulmer Schachtel \"Schwaben\" a Ulma il 16 luglio 1914, prima del viaggio verso Vienna",
+            "nl": "The Ulmer Schachtel «Schwaben» in Ulm on 16 July 1914, before its trip to Vienna",
+            "pl": "The Ulmer Schachtel «Schwaben» in Ulm on 16 July 1914, before its trip to Vienna",
+            "cs": "The Ulmer Schachtel «Schwaben» in Ulm on 16 July 1914, before its trip to Vienna",
+            "sk": "The Ulmer Schachtel «Schwaben» in Ulm on 16 July 1914, before its trip to Vienna",
+            "ro": "The Ulmer Schachtel «Schwaben» in Ulm on 16 July 1914, before its trip to Vienna",
+            "hu": "The Ulmer Schachtel «Schwaben» in Ulm on 16 July 1914, before its trip to Vienna",
+            "da": "The Ulmer Schachtel «Schwaben» in Ulm on 16 July 1914, before its trip to Vienna"
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Ulmer_Schachtel_02_Schwaben_1914.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "The Landesring Südwest of the Deutsche Philatelisten-Jugend runs a rally through the fair for children, and the «Briefmarken-Regen» is back. Primary classes from Ulm and Neu-Ulm painted the «Ulmer Schachtel», the old Danube boat, for a competition. All pictures are on show, the best are sold at the fair as personal stamps, and the prizes are given on Friday at the LV Südwest stand in Hall 2.",
+          "de": "Der Landesring Südwest der Deutschen Philatelisten-Jugend veranstaltet für Kinder eine Rallye durch die Messe, und der „Briefmarken-Regen“ ist wieder dabei. Grundschulklassen aus Ulm und Neu-Ulm haben für einen Wettbewerb die „Ulmer Schachtel“ gemalt, das alte Donauboot. Alle Bilder sind zu sehen, die besten werden auf der Messe als persönliche Briefmarken verkauft. Die Preise gibt es am Freitag am Stand des LV Südwest in Halle 2.",
+          "fr": "Le Landesring Südwest de la Deutsche Philatelisten-Jugend organise pour les enfants un rallye à travers le salon, et le « Briefmarken-Regen », la pluie de timbres, revient. Des classes primaires d'Ulm et de Neu-Ulm ont peint l'« Ulmer Schachtel », l'ancienne barque du Danube, pour un concours. Tous les dessins sont exposés, les meilleurs sont vendus au salon sous forme de timbres personnalisés, et les prix sont remis le vendredi au stand du LV Südwest, dans le hall 2.",
+          "it": "Il Landesring Südwest della Deutsche Philatelisten-Jugend organizza per i bambini una caccia al tesoro attraverso la fiera, e torna il \"Briefmarken-Regen\". Le classi delle scuole elementari di Ulma e Neu-Ulm hanno dipinto la \"Ulmer Schachtel\", la vecchia barca del Danubio, per un concorso. Tutti i disegni sono esposti, i migliori vengono venduti in fiera come francobolli personalizzati e la premiazione è venerdì allo stand della LV Südwest nel padiglione 2.",
+          "nl": "The Landesring Südwest of the Deutsche Philatelisten-Jugend runs a rally through the fair for children, and the «Briefmarken-Regen» is back. Primary classes from Ulm and Neu-Ulm painted the «Ulmer Schachtel», the old Danube boat, for a competition. All pictures are on show, the best are sold at the fair as personal stamps, and the prizes are given on Friday at the LV Südwest stand in Hall 2.",
+          "pl": "The Landesring Südwest of the Deutsche Philatelisten-Jugend runs a rally through the fair for children, and the «Briefmarken-Regen» is back. Primary classes from Ulm and Neu-Ulm painted the «Ulmer Schachtel», the old Danube boat, for a competition. All pictures are on show, the best are sold at the fair as personal stamps, and the prizes are given on Friday at the LV Südwest stand in Hall 2.",
+          "cs": "The Landesring Südwest of the Deutsche Philatelisten-Jugend runs a rally through the fair for children, and the «Briefmarken-Regen» is back. Primary classes from Ulm and Neu-Ulm painted the «Ulmer Schachtel», the old Danube boat, for a competition. All pictures are on show, the best are sold at the fair as personal stamps, and the prizes are given on Friday at the LV Südwest stand in Hall 2.",
+          "sk": "The Landesring Südwest of the Deutsche Philatelisten-Jugend runs a rally through the fair for children, and the «Briefmarken-Regen» is back. Primary classes from Ulm and Neu-Ulm painted the «Ulmer Schachtel», the old Danube boat, for a competition. All pictures are on show, the best are sold at the fair as personal stamps, and the prizes are given on Friday at the LV Südwest stand in Hall 2.",
+          "ro": "The Landesring Südwest of the Deutsche Philatelisten-Jugend runs a rally through the fair for children, and the «Briefmarken-Regen» is back. Primary classes from Ulm and Neu-Ulm painted the «Ulmer Schachtel», the old Danube boat, for a competition. All pictures are on show, the best are sold at the fair as personal stamps, and the prizes are given on Friday at the LV Südwest stand in Hall 2.",
+          "hu": "The Landesring Südwest of the Deutsche Philatelisten-Jugend runs a rally through the fair for children, and the «Briefmarken-Regen» is back. Primary classes from Ulm and Neu-Ulm painted the «Ulmer Schachtel», the old Danube boat, for a competition. All pictures are on show, the best are sold at the fair as personal stamps, and the prizes are given on Friday at the LV Südwest stand in Hall 2.",
+          "da": "The Landesring Südwest of the Deutsche Philatelisten-Jugend runs a rally through the fair for children, and the «Briefmarken-Regen» is back. Primary classes from Ulm and Neu-Ulm painted the «Ulmer Schachtel», the old Danube boat, for a competition. All pictures are on show, the best are sold at the fair as personal stamps, and the prizes are given on Friday at the LV Südwest stand in Hall 2."
+        },
+        {
+          "en": "At the stand of the Ring der Liechtenstein-Sammler (A51) young visitors choose a postcard, frank it with Liechtenstein stamps and hand it in at the Philatelie Liechtenstein stand, where they get a small gift. The card is posted in Liechtenstein, and it costs them nothing.",
+          "de": "Am Stand des Rings der Liechtenstein-Sammler (A51) suchen sich junge Besucher eine Postkarte aus, frankieren sie mit liechtensteinischen Marken und geben sie am Stand von Philatelie Liechtenstein ab, wo sie ein kleines Geschenk bekommen. Die Karte wird in Liechtenstein aufgegeben, und das kostet sie nichts.",
+          "fr": "Au stand du Ring der Liechtenstein-Sammler (A51), les jeunes visiteurs choisissent une carte postale, l'affranchissent avec des timbres du Liechtenstein et la déposent au stand de Philatelie Liechtenstein, où ils reçoivent un petit cadeau. La carte est postée au Liechtenstein, et cela ne leur coûte rien.",
+          "it": "Allo stand del Ring der Liechtenstein-Sammler (A51) i giovani visitatori scelgono una cartolina, la affrancano con francobolli del Liechtenstein e la consegnano allo stand di Philatelie Liechtenstein, dove ricevono un piccolo regalo. La cartolina viene impostata in Liechtenstein e non costa loro nulla.",
+          "nl": "At the stand of the Ring der Liechtenstein-Sammler (A51) young visitors choose a postcard, frank it with Liechtenstein stamps and hand it in at the Philatelie Liechtenstein stand, where they get a small gift. The card is posted in Liechtenstein, and it costs them nothing.",
+          "pl": "At the stand of the Ring der Liechtenstein-Sammler (A51) young visitors choose a postcard, frank it with Liechtenstein stamps and hand it in at the Philatelie Liechtenstein stand, where they get a small gift. The card is posted in Liechtenstein, and it costs them nothing.",
+          "cs": "At the stand of the Ring der Liechtenstein-Sammler (A51) young visitors choose a postcard, frank it with Liechtenstein stamps and hand it in at the Philatelie Liechtenstein stand, where they get a small gift. The card is posted in Liechtenstein, and it costs them nothing.",
+          "sk": "At the stand of the Ring der Liechtenstein-Sammler (A51) young visitors choose a postcard, frank it with Liechtenstein stamps and hand it in at the Philatelie Liechtenstein stand, where they get a small gift. The card is posted in Liechtenstein, and it costs them nothing.",
+          "ro": "At the stand of the Ring der Liechtenstein-Sammler (A51) young visitors choose a postcard, frank it with Liechtenstein stamps and hand it in at the Philatelie Liechtenstein stand, where they get a small gift. The card is posted in Liechtenstein, and it costs them nothing.",
+          "hu": "At the stand of the Ring der Liechtenstein-Sammler (A51) young visitors choose a postcard, frank it with Liechtenstein stamps and hand it in at the Philatelie Liechtenstein stand, where they get a small gift. The card is posted in Liechtenstein, and it costs them nothing.",
+          "da": "At the stand of the Ring der Liechtenstein-Sammler (A51) young visitors choose a postcard, frank it with Liechtenstein stamps and hand it in at the Philatelie Liechtenstein stand, where they get a small gift. The card is posted in Liechtenstein, and it costs them nothing."
+        }
+      ]
+    },
+    {
+      "id": "visiting",
+      "rows": [
+        {
+          "label": {
+            "en": "Place",
+            "de": "Ort",
+            "fr": "Lieu",
+            "it": "Luogo",
+            "nl": "Place",
+            "pl": "Place",
+            "cs": "Place",
+            "sk": "Place",
+            "ro": "Place",
+            "hu": "Place",
+            "da": "Place"
+          },
+          "value": {
+            "en": "Ulm-Messe, Böfinger Straße 50, 89073 Ulm",
+            "de": "Messe Ulm, Böfinger Straße 50, 89073 Ulm",
+            "fr": "Ulm-Messe, Böfinger Straße 50, 89073 Ulm",
+            "it": "Ulm-Messe, Böfinger Straße 50, 89073 Ulm",
+            "nl": "Ulm-Messe, Böfinger Straße 50, 89073 Ulm",
+            "pl": "Ulm-Messe, Böfinger Straße 50, 89073 Ulm",
+            "cs": "Ulm-Messe, Böfinger Straße 50, 89073 Ulm",
+            "sk": "Ulm-Messe, Böfinger Straße 50, 89073 Ulm",
+            "ro": "Ulm-Messe, Böfinger Straße 50, 89073 Ulm",
+            "hu": "Ulm-Messe, Böfinger Straße 50, 89073 Ulm",
+            "da": "Ulm-Messe, Böfinger Straße 50, 89073 Ulm"
+          }
+        },
+        {
+          "label": {
+            "en": "Thursday and Friday",
+            "de": "Donnerstag und Freitag",
+            "fr": "Jeudi et vendredi",
+            "it": "Giovedì e venerdì",
+            "nl": "Thursday and Friday",
+            "pl": "Thursday and Friday",
+            "cs": "Thursday and Friday",
+            "sk": "Thursday and Friday",
+            "ro": "Thursday and Friday",
+            "hu": "Thursday and Friday",
+            "da": "Thursday and Friday"
+          },
+          "value": {
+            "en": "10:00 to 18:00",
+            "de": "10:00 bis 18:00 Uhr",
+            "fr": "10 h à 18 h",
+            "it": "dalle 10:00 alle 18:00",
+            "nl": "10:00 to 18:00",
+            "pl": "10:00 to 18:00",
+            "cs": "10:00 to 18:00",
+            "sk": "10:00 to 18:00",
+            "ro": "10:00 to 18:00",
+            "hu": "10:00 to 18:00",
+            "da": "10:00 to 18:00"
+          }
+        },
+        {
+          "label": {
+            "en": "Saturday",
+            "de": "Samstag",
+            "fr": "Samedi",
+            "it": "Sabato",
+            "nl": "Saturday",
+            "pl": "Saturday",
+            "cs": "Saturday",
+            "sk": "Saturday",
+            "ro": "Saturday",
+            "hu": "Saturday",
+            "da": "Saturday"
+          },
+          "value": {
+            "en": "10:00 to 16:00",
+            "de": "10:00 bis 16:00 Uhr",
+            "fr": "10 h à 16 h",
+            "it": "dalle 10:00 alle 16:00",
+            "nl": "10:00 to 16:00",
+            "pl": "10:00 to 16:00",
+            "cs": "10:00 to 16:00",
+            "sk": "10:00 to 16:00",
+            "ro": "10:00 to 16:00",
+            "hu": "10:00 to 16:00",
+            "da": "10:00 to 16:00"
+          }
+        },
+        {
+          "label": {
+            "en": "Entry",
+            "de": "Eintritt",
+            "fr": "Entrée",
+            "it": "Ingresso",
+            "nl": "Entry",
+            "pl": "Entry",
+            "cs": "Entry",
+            "sk": "Entry",
+            "ro": "Entry",
+            "hu": "Entry",
+            "da": "Entry"
+          },
+          "value": {
+            "en": "€5, under 16 free",
+            "de": "5 €, unter 16 frei",
+            "fr": "5 €, gratuit pour les moins de 16 ans",
+            "it": "5 €, gratis sotto i 16 anni",
+            "nl": "€5, under 16 free",
+            "pl": "€5, under 16 free",
+            "cs": "€5, under 16 free",
+            "sk": "€5, under 16 free",
+            "ro": "€5, under 16 free",
+            "hu": "€5, under 16 free",
+            "da": "€5, under 16 free"
+          }
+        },
+        {
+          "label": {
+            "en": "Entry back",
+            "de": "Eintritt zurück",
+            "fr": "Entrée remboursée",
+            "it": "Rimborso dell'ingresso",
+            "nl": "Entry back",
+            "pl": "Entry back",
+            "cs": "Entry back",
+            "sk": "Entry back",
+            "ro": "Entry back",
+            "hu": "Entry back",
+            "da": "Entry back"
+          },
+          "value": {
+            "en": "some dealers refund the €5 on purchases from €50 when you show your ticket; Philotax refunds it with any of its products",
+            "de": "manche Händler erstatten die 5 € bei Einkäufen ab 50 € gegen Vorlage der Eintrittskarte, Philotax erstattet sie bei jedem eigenen Produkt",
+            "fr": "certains négociants remboursent les 5 € dès 50 € d'achat sur présentation du billet ; Philotax les rembourse pour l'achat de n'importe lequel de ses produits",
+            "it": "alcuni commercianti rimborsano i 5 € su acquisti da 50 € dietro presentazione del biglietto; Philotax li rimborsa con l'acquisto di un suo prodotto qualsiasi",
+            "nl": "some dealers refund the €5 on purchases from €50 when you show your ticket; Philotax refunds it with any of its products",
+            "pl": "some dealers refund the €5 on purchases from €50 when you show your ticket; Philotax refunds it with any of its products",
+            "cs": "some dealers refund the €5 on purchases from €50 when you show your ticket; Philotax refunds it with any of its products",
+            "sk": "some dealers refund the €5 on purchases from €50 when you show your ticket; Philotax refunds it with any of its products",
+            "ro": "some dealers refund the €5 on purchases from €50 when you show your ticket; Philotax refunds it with any of its products",
+            "hu": "some dealers refund the €5 on purchases from €50 when you show your ticket; Philotax refunds it with any of its products",
+            "da": "some dealers refund the €5 on purchases from €50 when you show your ticket; Philotax refunds it with any of its products"
+          }
+        },
+        {
+          "label": {
+            "en": "By tram",
+            "de": "Mit der Straßenbahn",
+            "fr": "En tram",
+            "it": "In tram",
+            "nl": "By tram",
+            "pl": "By tram",
+            "cs": "By tram",
+            "sk": "By tram",
+            "ro": "By tram",
+            "hu": "By tram",
+            "da": "By tram"
+          },
+          "value": {
+            "en": "line 1 from the main station to Donauhalle, about ten minutes",
+            "de": "Linie 1 vom Hauptbahnhof bis Donauhalle, etwa zehn Minuten",
+            "fr": "ligne 1 de la gare centrale jusqu'à Donauhalle, environ dix minutes",
+            "it": "linea 1 dalla stazione centrale fino a Donauhalle, circa dieci minuti",
+            "nl": "line 1 from the main station to Donauhalle, about ten minutes",
+            "pl": "line 1 from the main station to Donauhalle, about ten minutes",
+            "cs": "line 1 from the main station to Donauhalle, about ten minutes",
+            "sk": "line 1 from the main station to Donauhalle, about ten minutes",
+            "ro": "line 1 from the main station to Donauhalle, about ten minutes",
+            "hu": "line 1 from the main station to Donauhalle, about ten minutes",
+            "da": "line 1 from the main station to Donauhalle, about ten minutes"
+          }
+        },
+        {
+          "label": {
+            "en": "By bus",
+            "de": "Mit dem Bus",
+            "fr": "En bus",
+            "it": "In autobus",
+            "nl": "By bus",
+            "pl": "By bus",
+            "cs": "By bus",
+            "sk": "By bus",
+            "ro": "By bus",
+            "hu": "By bus",
+            "da": "By bus"
+          },
+          "value": {
+            "en": "line 6 from the main station",
+            "de": "Linie 6 vom Hauptbahnhof",
+            "fr": "ligne 6 depuis la gare centrale",
+            "it": "linea 6 dalla stazione centrale",
+            "nl": "line 6 from the main station",
+            "pl": "line 6 from the main station",
+            "cs": "line 6 from the main station",
+            "sk": "line 6 from the main station",
+            "ro": "line 6 from the main station",
+            "hu": "line 6 from the main station",
+            "da": "line 6 from the main station"
+          }
+        },
+        {
+          "label": {
+            "en": "Parking",
+            "de": "Parken",
+            "fr": "Parking",
+            "it": "Parcheggio",
+            "nl": "Parking",
+            "pl": "Parking",
+            "cs": "Parking",
+            "sk": "Parking",
+            "ro": "Parking",
+            "hu": "Parking",
+            "da": "Parking"
+          },
+          "value": {
+            "en": "€5 a day",
+            "de": "5 € pro Tag",
+            "fr": "5 € par jour",
+            "it": "5 € al giorno",
+            "nl": "€5 a day",
+            "pl": "€5 a day",
+            "cs": "€5 a day",
+            "sk": "€5 a day",
+            "ro": "€5 a day",
+            "hu": "€5 a day",
+            "da": "€5 a day"
+          }
+        },
+        {
+          "label": {
+            "en": "On site",
+            "de": "Vor Ort",
+            "fr": "Sur place",
+            "it": "Sul posto",
+            "nl": "On site",
+            "pl": "On site",
+            "cs": "On site",
+            "sk": "On site",
+            "ro": "On site",
+            "hu": "On site",
+            "da": "On site"
+          },
+          "value": {
+            "en": "cash machine open 24 hours, free Wi-Fi, step-free halls and toilets",
+            "de": "Geldautomat rund um die Uhr, kostenloses WLAN, Hallen und Toiletten ohne Stufen",
+            "fr": "distributeur automatique de billets 24 h sur 24, Wi-Fi gratuit, halls et toilettes de plain-pied",
+            "it": "bancomat aperto 24 ore su 24, Wi-Fi gratuito, padiglioni e servizi igienici accessibili senza gradini",
+            "nl": "cash machine open 24 hours, free Wi-Fi, step-free halls and toilets",
+            "pl": "cash machine open 24 hours, free Wi-Fi, step-free halls and toilets",
+            "cs": "cash machine open 24 hours, free Wi-Fi, step-free halls and toilets",
+            "sk": "cash machine open 24 hours, free Wi-Fi, step-free halls and toilets",
+            "ro": "cash machine open 24 hours, free Wi-Fi, step-free halls and toilets",
+            "hu": "cash machine open 24 hours, free Wi-Fi, step-free halls and toilets",
+            "da": "cash machine open 24 hours, free Wi-Fi, step-free halls and toilets"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "Visiting",
+        "de": "Besuch",
+        "fr": "Infos pratiques",
+        "it": "La visita",
+        "nl": "Visiting",
+        "pl": "Visiting",
+        "cs": "Visiting",
+        "sk": "Visiting",
+        "ro": "Visiting",
+        "hu": "Visiting",
+        "da": "Visiting"
+      },
+      "title": {
+        "en": "Opening hours, entry and getting there",
+        "de": "Öffnungszeiten, Eintritt und Anfahrt",
+        "fr": "Horaires, entrée et accès",
+        "it": "Orari, ingresso e come arrivare",
+        "nl": "Opening hours, entry and getting there",
+        "pl": "Opening hours, entry and getting there",
+        "cs": "Opening hours, entry and getting there",
+        "sk": "Opening hours, entry and getting there",
+        "ro": "Opening hours, entry and getting there",
+        "hu": "Opening hours, entry and getting there",
+        "da": "Opening hours, entry and getting there"
+      },
+      "buttons": [
+        {
+          "href": "https://briefmarken-messe.de",
+          "label": {
+            "en": "IBB Ulm",
+            "de": "IBB Ulm",
+            "fr": "IBB Ulm",
+            "it": "IBB Ulm",
+            "nl": "IBB Ulm",
+            "pl": "IBB Ulm",
+            "cs": "IBB Ulm",
+            "sk": "IBB Ulm",
+            "ro": "IBB Ulm",
+            "hu": "IBB Ulm",
+            "da": "IBB Ulm"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stand",
+      "type": "text",
+      "label": {
+        "en": "At our stand",
+        "de": "An unserem Stand",
+        "fr": "À notre stand",
+        "it": "Vieni a trovarci",
+        "nl": "At our stand",
+        "pl": "At our stand",
+        "cs": "At our stand",
+        "sk": "At our stand",
+        "ro": "At our stand",
+        "hu": "At our stand",
+        "da": "At our stand"
+      },
+      "title": {
+        "en": "StampIQ in Hall 2, stand 33",
+        "de": "StampIQ in Halle 2, Stand 33",
+        "fr": "StampIQ dans le hall 2, stand 33",
+        "it": "StampIQ nel padiglione 2, stand 33",
+        "nl": "StampIQ in Hall 2, stand 33",
+        "pl": "StampIQ in Hall 2, stand 33",
+        "cs": "StampIQ in Hall 2, stand 33",
+        "sk": "StampIQ in Hall 2, stand 33",
+        "ro": "StampIQ in Hall 2, stand 33",
+        "hu": "StampIQ in Hall 2, stand 33",
+        "da": "StampIQ in Hall 2, stand 33"
+      },
+      "paragraphs": [
+        {
+          "en": "At our stand you can try StampIQ on our iPhones, Samsung phones, iPads and laptop and see how it works. We bring stamps to scan, and you can also scan your own if they come from Switzerland, Liechtenstein, Germany, Austria, the Netherlands or Poland. We talk with you about the app: why we built it, how it is built and what it covers today.",
+          "de": "An unserem Stand kannst du StampIQ auf unseren iPhones, Samsung-Handys, iPads und dem Laptop ausprobieren und sehen, wie es funktioniert. Wir bringen Briefmarken zum Scannen mit, und du kannst auch eigene scannen, wenn sie aus der Schweiz, Liechtenstein, Deutschland, Österreich, den Niederlanden oder Polen kommen. Wir sprechen mit dir über die App: warum wir sie entwickelt haben, wie sie aufgebaut ist und was sie heute abdeckt.",
+          "fr": "À notre stand, tu peux essayer StampIQ sur nos iPhone, nos téléphones Samsung, nos iPad et notre ordinateur portable, et voir comment il fonctionne. Nous apportons des timbres à scanner, et tu peux aussi scanner les tiens s'ils viennent de Suisse, du Liechtenstein, d'Allemagne, d'Autriche, des Pays-Bas ou de Pologne. Nous parlons avec toi de l'application : pourquoi nous l'avons créée, comment elle est construite et ce qu'elle couvre aujourd'hui.",
+          "it": "Da noi puoi provare StampIQ sui nostri iPhone, sui telefoni Samsung, sugli iPad e sul laptop, e vedere come funziona. Portiamo francobolli da scansionare, e puoi scansionare anche i tuoi se vengono da Svizzera, Liechtenstein, Germania, Austria, Paesi Bassi o Polonia. Parliamo con te dell'app: perché l'abbiamo creata, com'è fatta e che cosa copre oggi.",
+          "nl": "At our stand you can try StampIQ on our iPhones, Samsung phones, iPads and laptop and see how it works. We bring stamps to scan, and you can also scan your own if they come from Switzerland, Liechtenstein, Germany, Austria, the Netherlands or Poland. We talk with you about the app: why we built it, how it is built and what it covers today.",
+          "pl": "At our stand you can try StampIQ on our iPhones, Samsung phones, iPads and laptop and see how it works. We bring stamps to scan, and you can also scan your own if they come from Switzerland, Liechtenstein, Germany, Austria, the Netherlands or Poland. We talk with you about the app: why we built it, how it is built and what it covers today.",
+          "cs": "At our stand you can try StampIQ on our iPhones, Samsung phones, iPads and laptop and see how it works. We bring stamps to scan, and you can also scan your own if they come from Switzerland, Liechtenstein, Germany, Austria, the Netherlands or Poland. We talk with you about the app: why we built it, how it is built and what it covers today.",
+          "sk": "At our stand you can try StampIQ on our iPhones, Samsung phones, iPads and laptop and see how it works. We bring stamps to scan, and you can also scan your own if they come from Switzerland, Liechtenstein, Germany, Austria, the Netherlands or Poland. We talk with you about the app: why we built it, how it is built and what it covers today.",
+          "ro": "At our stand you can try StampIQ on our iPhones, Samsung phones, iPads and laptop and see how it works. We bring stamps to scan, and you can also scan your own if they come from Switzerland, Liechtenstein, Germany, Austria, the Netherlands or Poland. We talk with you about the app: why we built it, how it is built and what it covers today.",
+          "hu": "At our stand you can try StampIQ on our iPhones, Samsung phones, iPads and laptop and see how it works. We bring stamps to scan, and you can also scan your own if they come from Switzerland, Liechtenstein, Germany, Austria, the Netherlands or Poland. We talk with you about the app: why we built it, how it is built and what it covers today.",
+          "da": "At our stand you can try StampIQ on our iPhones, Samsung phones, iPads and laptop and see how it works. We bring stamps to scan, and you can also scan your own if they come from Switzerland, Liechtenstein, Germany, Austria, the Netherlands or Poland. We talk with you about the app: why we built it, how it is built and what it covers today."
+        },
+        {
+          "en": "If you want StampIQ on your own phone, we help you install and set it up and stay with you for your first scans. We show you tips for good scans and explain every part of the app.",
+          "de": "Wenn du StampIQ auf deinem eigenen Handy willst, helfen wir dir bei der Installation und der Einrichtung und bleiben für die ersten Scans bei dir. Wir geben dir Tipps für gute Scans und erklären dir jeden Teil der App.",
+          "fr": "Si tu veux StampIQ sur ton propre téléphone, nous t'aidons à l'installer et à le configurer, et nous restons avec toi pour tes premiers scans. Nous te montrons comment réussir tes scans et t'expliquons chaque partie de l'application.",
+          "it": "Se vuoi StampIQ sul tuo telefono, ti aiutiamo a installarla e a configurarla e restiamo con te per le prime scansioni. Ti mostriamo come fare buone scansioni e ti spieghiamo ogni parte dell'app.",
+          "nl": "If you want StampIQ on your own phone, we help you install and set it up and stay with you for your first scans. We show you tips for good scans and explain every part of the app.",
+          "pl": "If you want StampIQ on your own phone, we help you install and set it up and stay with you for your first scans. We show you tips for good scans and explain every part of the app.",
+          "cs": "If you want StampIQ on your own phone, we help you install and set it up and stay with you for your first scans. We show you tips for good scans and explain every part of the app.",
+          "sk": "If you want StampIQ on your own phone, we help you install and set it up and stay with you for your first scans. We show you tips for good scans and explain every part of the app.",
+          "ro": "If you want StampIQ on your own phone, we help you install and set it up and stay with you for your first scans. We show you tips for good scans and explain every part of the app.",
+          "hu": "If you want StampIQ on your own phone, we help you install and set it up and stay with you for your first scans. We show you tips for good scans and explain every part of the app.",
+          "da": "If you want StampIQ on your own phone, we help you install and set it up and stay with you for your first scans. We show you tips for good scans and explain every part of the app."
+        },
+        {
+          "en": "There is a game with prizes at the stand. Ask us for a free month of Professional, to try StampIQ in peace at home or at a dealer's stand.",
+          "de": "Am Stand gibt es ein Spiel mit Preisen. Frag uns nach einem Gratismonat Professional, um StampIQ zu Hause oder am Stand eines Händlers in Ruhe zu testen.",
+          "fr": "Un jeu avec des lots t'attend au stand. Demande-nous un mois de Professional offert, pour essayer StampIQ tranquillement chez toi ou devant le stand d'un négociant.",
+          "it": "Allo stand c'è un gioco a premi. Chiedici un mese gratuito di Professional, per provare StampIQ con calma a casa o allo stand di un commerciante.",
+          "nl": "There is a game with prizes at the stand. Ask us for a free month of Professional, to try StampIQ in peace at home or at a dealer's stand.",
+          "pl": "There is a game with prizes at the stand. Ask us for a free month of Professional, to try StampIQ in peace at home or at a dealer's stand.",
+          "cs": "There is a game with prizes at the stand. Ask us for a free month of Professional, to try StampIQ in peace at home or at a dealer's stand.",
+          "sk": "There is a game with prizes at the stand. Ask us for a free month of Professional, to try StampIQ in peace at home or at a dealer's stand.",
+          "ro": "There is a game with prizes at the stand. Ask us for a free month of Professional, to try StampIQ in peace at home or at a dealer's stand.",
+          "hu": "There is a game with prizes at the stand. Ask us for a free month of Professional, to try StampIQ in peace at home or at a dealer's stand.",
+          "da": "There is a game with prizes at the stand. Ask us for a free month of Professional, to try StampIQ in peace at home or at a dealer's stand."
+        }
+      ]
+    },
+    {
+      "id": "next-years",
+      "text": {
+        "en": "In 2027 the fair runs together with the MULTILATERALE, from 28 to 30 October. In 2028 Ulm hosts the world stamp exhibition IBRA, from 26 to 29 October.",
+        "de": "2027 findet die Messe zusammen mit der MULTILATERALE statt, vom 28. bis 30. Oktober. 2028 ist Ulm Gastgeber der Weltausstellung IBRA, vom 26. bis 29. Oktober.",
+        "fr": "En 2027, le salon se tient avec la MULTILATERALE, du 28 au 30 octobre. En 2028, Ulm accueille l'exposition philatélique mondiale IBRA, du 26 au 29 octobre.",
+        "it": "Nel 2027 la fiera si tiene insieme alla MULTILATERALE, dal 28 al 30 ottobre. Nel 2028 Ulma ospita l'esposizione mondiale di filatelia IBRA, dal 26 al 29 ottobre.",
+        "nl": "In 2027 the fair runs together with the MULTILATERALE, from 28 to 30 October. In 2028 Ulm hosts the world stamp exhibition IBRA, from 26 to 29 October.",
+        "pl": "In 2027 the fair runs together with the MULTILATERALE, from 28 to 30 October. In 2028 Ulm hosts the world stamp exhibition IBRA, from 26 to 29 October.",
+        "cs": "In 2027 the fair runs together with the MULTILATERALE, from 28 to 30 October. In 2028 Ulm hosts the world stamp exhibition IBRA, from 26 to 29 October.",
+        "sk": "In 2027 the fair runs together with the MULTILATERALE, from 28 to 30 October. In 2028 Ulm hosts the world stamp exhibition IBRA, from 26 to 29 October.",
+        "ro": "In 2027 the fair runs together with the MULTILATERALE, from 28 to 30 October. In 2028 Ulm hosts the world stamp exhibition IBRA, from 26 to 29 October.",
+        "hu": "In 2027 the fair runs together with the MULTILATERALE, from 28 to 30 October. In 2028 Ulm hosts the world stamp exhibition IBRA, from 26 to 29 October.",
+        "da": "In 2027 the fair runs together with the MULTILATERALE, from 28 to 30 October. In 2028 Ulm hosts the world stamp exhibition IBRA, from 26 to 29 October."
+      },
+      "type": "note"
+    }
+  ]
+}

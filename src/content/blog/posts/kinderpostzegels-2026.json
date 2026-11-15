@@ -1,0 +1,715 @@
+{
+  "category": "new-issues",
+  "markets": [
+    "NL",
+    "BE",
+    "LU"
+  ],
+  "langs": [
+    "en",
+    "de",
+    "fr",
+    "nl"
+  ],
+  "published_at": "2026-10-20T07:00:00+00:00",
+  "thumbnail": {
+    "src": "https://assets.stampiq.io/blog/428a8f925894e87b/nl-2026-kinderpostzegels-card-v3.png",
+    "width": 1920,
+    "height": 960
+  },
+  "languages": {
+    "en": {
+      "slug": "kinderpostzegels-2026",
+      "title": "Kinderpostzegels 2026: the houses and the two sheets",
+      "description": "The Kinderpostzegels 2026 are shaped like houses. The PostNL sheet has a stamp that the sheet sold by the children does not have."
+    },
+    "de": {
+      "slug": "kinderpostzegels-2026-haeuser",
+      "title": "Kinderpostzegels 2026: die Häuser und die zwei Bogen",
+      "description": "Die Kinderpostzegels 2026 haben die Form von Häusern. Auf dem Bogen von PostNL ist eine Marke, die auf dem Bogen der Kinder fehlt."
+    },
+    "fr": {
+      "slug": "kinderpostzegels-2026",
+      "title": "Kinderpostzegels 2026 : maisons et deux feuillets",
+      "description": "Les Kinderpostzegels 2026 ont la forme de maisons. Le feuillet de PostNL contient un timbre qui manque au feuillet vendu par les enfants."
+    },
+    "it": {
+      "slug": "kinderpostzegels-2026",
+      "title": "Kinderpostzegels 2026: the houses and the two sheets",
+      "description": "The Kinderpostzegels 2026 are shaped like houses. The PostNL sheet has a stamp that the sheet sold by the children does not have."
+    },
+    "nl": {
+      "slug": "kinderpostzegels-2026",
+      "title": "Kinderpostzegels 2026: de huizen en de twee vellen",
+      "description": "De Kinderpostzegels 2026 hebben de vorm van huizen. Op het vel van PostNL staat een zegel die ontbreekt op het vel dat de kinderen verkopen."
+    },
+    "pl": {
+      "slug": "kinderpostzegels-2026",
+      "title": "Kinderpostzegels 2026: the houses and the two sheets",
+      "description": "The Kinderpostzegels 2026 are shaped like houses. The PostNL sheet has a stamp that the sheet sold by the children does not have."
+    },
+    "cs": {
+      "slug": "kinderpostzegels-2026",
+      "title": "Kinderpostzegels 2026: the houses and the two sheets",
+      "description": "The Kinderpostzegels 2026 are shaped like houses. The PostNL sheet has a stamp that the sheet sold by the children does not have."
+    },
+    "sk": {
+      "slug": "kinderpostzegels-2026",
+      "title": "Kinderpostzegels 2026: the houses and the two sheets",
+      "description": "The Kinderpostzegels 2026 are shaped like houses. The PostNL sheet has a stamp that the sheet sold by the children does not have."
+    },
+    "ro": {
+      "slug": "kinderpostzegels-2026",
+      "title": "Kinderpostzegels 2026: the houses and the two sheets",
+      "description": "The Kinderpostzegels 2026 are shaped like houses. The PostNL sheet has a stamp that the sheet sold by the children does not have."
+    },
+    "hu": {
+      "slug": "kinderpostzegels-2026",
+      "title": "Kinderpostzegels 2026: the houses and the two sheets",
+      "description": "The Kinderpostzegels 2026 are shaped like houses. The PostNL sheet has a stamp that the sheet sold by the children does not have."
+    },
+    "da": {
+      "slug": "kinderpostzegels-2026",
+      "title": "Kinderpostzegels 2026: the houses and the two sheets",
+      "description": "The Kinderpostzegels 2026 are shaped like houses. The PostNL sheet has a stamp that the sheet sold by the children does not have."
+    }
+  },
+  "header": {
+    "lead": {
+      "en": "From 16 to 23 September pupils across the Netherlands sold Kinderpostzegels door to door. This year the stamps are shaped like houses. The sheet from PostNL has one stamp more than the sheet the children sell.",
+      "de": "Vom 16. bis 23. September haben Schulkinder überall in den Niederlanden Kinderpostzegels an den Türen verkauft. Dieses Jahr haben die Marken die Form von Häusern. Der Bogen von PostNL hat eine Marke mehr als der Bogen, den die Kinder verkaufen.",
+      "fr": "Du 16 au 23 septembre, des écoliers ont vendu les Kinderpostzegels en porte-à-porte partout aux Pays-Bas. Cette année, les timbres ont la forme de maisons. Le feuillet de PostNL compte un timbre de plus que celui que vendent les enfants.",
+      "it": "From 16 to 23 September pupils across the Netherlands sold Kinderpostzegels door to door. This year the stamps are shaped like houses. The sheet from PostNL has one stamp more than the sheet the children sell.",
+      "nl": "Van 16 tot 23 september gingen schoolkinderen in heel Nederland langs de deuren met kinderpostzegels. Dit jaar hebben de zegels de vorm van huizen. Op het vel van PostNL staat één zegel meer dan op het vel dat de kinderen verkopen.",
+      "pl": "From 16 to 23 September pupils across the Netherlands sold Kinderpostzegels door to door. This year the stamps are shaped like houses. The sheet from PostNL has one stamp more than the sheet the children sell.",
+      "cs": "From 16 to 23 September pupils across the Netherlands sold Kinderpostzegels door to door. This year the stamps are shaped like houses. The sheet from PostNL has one stamp more than the sheet the children sell.",
+      "sk": "From 16 to 23 September pupils across the Netherlands sold Kinderpostzegels door to door. This year the stamps are shaped like houses. The sheet from PostNL has one stamp more than the sheet the children sell.",
+      "ro": "From 16 to 23 September pupils across the Netherlands sold Kinderpostzegels door to door. This year the stamps are shaped like houses. The sheet from PostNL has one stamp more than the sheet the children sell.",
+      "hu": "From 16 to 23 September pupils across the Netherlands sold Kinderpostzegels door to door. This year the stamps are shaped like houses. The sheet from PostNL has one stamp more than the sheet the children sell.",
+      "da": "From 16 to 23 September pupils across the Netherlands sold Kinderpostzegels door to door. This year the stamps are shaped like houses. The sheet from PostNL has one stamp more than the sheet the children sell."
+    },
+    "visual": {
+      "type": "stamp-fan",
+      "stamps": [
+        {
+          "name": {
+            "en": "Kinderpostzegels 2026, sleeping",
+            "de": "Kinderpostzegels 2026, schlafend",
+            "fr": "Kinderpostzegels 2026, le sommeil",
+            "it": "Kinderpostzegels 2026, sleeping",
+            "nl": "Kinderpostzegels 2026, slapen",
+            "pl": "Kinderpostzegels 2026, sleeping",
+            "cs": "Kinderpostzegels 2026, sleeping",
+            "sk": "Kinderpostzegels 2026, sleeping",
+            "ro": "Kinderpostzegels 2026, sleeping",
+            "hu": "Kinderpostzegels 2026, sleeping",
+            "da": "Kinderpostzegels 2026, sleeping"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/47008efd71c557b2/nl-2026-kinderpostzegels-slapen-v3.png",
+            "width": 467,
+            "height": 466
+          },
+          "country": "NL",
+          "stamp_id": "nl-postnl-461060-1"
+        },
+        {
+          "name": {
+            "en": "Kinderpostzegels 2026, playing",
+            "de": "Kinderpostzegels 2026, spielend",
+            "fr": "Kinderpostzegels 2026, le jeu",
+            "it": "Kinderpostzegels 2026, playing",
+            "nl": "Kinderpostzegels 2026, spelen",
+            "pl": "Kinderpostzegels 2026, playing",
+            "cs": "Kinderpostzegels 2026, playing",
+            "sk": "Kinderpostzegels 2026, playing",
+            "ro": "Kinderpostzegels 2026, playing",
+            "hu": "Kinderpostzegels 2026, playing",
+            "da": "Kinderpostzegels 2026, playing"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/8818dcc5aaca77ed/nl-2026-kinderpostzegels-spelen-v3.png",
+            "width": 337,
+            "height": 500
+          },
+          "country": "NL",
+          "stamp_id": "nl-postnl-461060-5"
+        }
+      ]
+    },
+    "date_label": {
+      "en": "21 September 2026",
+      "de": "21. September 2026",
+      "fr": "21 septembre 2026",
+      "it": "21 September 2026",
+      "nl": "21 september 2026",
+      "pl": "21 September 2026",
+      "cs": "21 September 2026",
+      "sk": "21 September 2026",
+      "ro": "21 September 2026",
+      "hu": "21 September 2026",
+      "da": "21 September 2026"
+    }
+  },
+  "blocks": [
+    {
+      "id": "campaign",
+      "type": "text",
+      "label": {
+        "en": "The campaign",
+        "de": "Die Aktion",
+        "fr": "La campagne",
+        "it": "The campaign",
+        "nl": "De campagne",
+        "pl": "The campaign",
+        "cs": "The campaign",
+        "sk": "The campaign",
+        "ro": "The campaign",
+        "hu": "The campaign",
+        "da": "The campaign"
+      },
+      "title": {
+        "en": "Growing up safely, the theme of 2026",
+        "de": "Sicher aufwachsen, das Thema 2026",
+        "fr": "Grandir en sécurité, le thème de 2026",
+        "it": "Growing up safely, the theme of 2026",
+        "nl": "Veilig opgroeien, het thema van 2026",
+        "pl": "Growing up safely, the theme of 2026",
+        "cs": "Growing up safely, the theme of 2026",
+        "sk": "Growing up safely, the theme of 2026",
+        "ro": "Growing up safely, the theme of 2026",
+        "hu": "Growing up safely, the theme of 2026",
+        "da": "Growing up safely, the theme of 2026"
+      },
+      "paragraphs": [
+        {
+          "en": "The theme of this year's campaign is \"Veilig opgroeien. Dat moet gewoon.\": growing up safely should be normal. Children chose it themselves: 49.9 percent of them voted for a safe home. Pupils of groep 6, 7 and 8 from more than 5,000 classes sold the stamps from 16 to 23 September.",
+          "de": "Das Thema der diesjährigen Aktion heißt „Veilig opgroeien. Dat moet gewoon.“: Sicher aufwachsen soll normal sein. Die Kinder haben es selbst gewählt, 49,9 Prozent stimmten für ein sicheres Zuhause. Verkauft wurden die Marken vom 16. bis 23. September von Kindern aus groep 6, 7 und 8 in mehr als 5.000 Klassen.",
+          "fr": "Le thème de la campagne de cette année est « Veilig opgroeien. Dat moet gewoon. » : grandir en sécurité devrait aller de soi. Les enfants l'ont choisi eux-mêmes : 49,9 % d'entre eux ont voté pour un foyer sûr. Les élèves de groep 6, 7 et 8 de plus de 5 000 classes ont vendu les timbres du 16 au 23 septembre.",
+          "it": "The theme of this year's campaign is \"Veilig opgroeien. Dat moet gewoon.\": growing up safely should be normal. Children chose it themselves: 49.9 percent of them voted for a safe home. Pupils of groep 6, 7 and 8 from more than 5,000 classes sold the stamps from 16 to 23 September.",
+          "nl": "Het thema van de campagne van dit jaar is „Veilig opgroeien. Dat moet gewoon.” De kinderen kozen het zelf: 49,9 procent stemde voor een veilig thuis. Leerlingen uit groep 6, 7 en 8 van meer dan 5.000 klassen verkochten de zegels van 16 tot 23 september.",
+          "pl": "The theme of this year's campaign is \"Veilig opgroeien. Dat moet gewoon.\": growing up safely should be normal. Children chose it themselves: 49.9 percent of them voted for a safe home. Pupils of groep 6, 7 and 8 from more than 5,000 classes sold the stamps from 16 to 23 September.",
+          "cs": "The theme of this year's campaign is \"Veilig opgroeien. Dat moet gewoon.\": growing up safely should be normal. Children chose it themselves: 49.9 percent of them voted for a safe home. Pupils of groep 6, 7 and 8 from more than 5,000 classes sold the stamps from 16 to 23 September.",
+          "sk": "The theme of this year's campaign is \"Veilig opgroeien. Dat moet gewoon.\": growing up safely should be normal. Children chose it themselves: 49.9 percent of them voted for a safe home. Pupils of groep 6, 7 and 8 from more than 5,000 classes sold the stamps from 16 to 23 September.",
+          "ro": "The theme of this year's campaign is \"Veilig opgroeien. Dat moet gewoon.\": growing up safely should be normal. Children chose it themselves: 49.9 percent of them voted for a safe home. Pupils of groep 6, 7 and 8 from more than 5,000 classes sold the stamps from 16 to 23 September.",
+          "hu": "The theme of this year's campaign is \"Veilig opgroeien. Dat moet gewoon.\": growing up safely should be normal. Children chose it themselves: 49.9 percent of them voted for a safe home. Pupils of groep 6, 7 and 8 from more than 5,000 classes sold the stamps from 16 to 23 September.",
+          "da": "The theme of this year's campaign is \"Veilig opgroeien. Dat moet gewoon.\": growing up safely should be normal. Children chose it themselves: 49.9 percent of them voted for a safe home. Pupils of groep 6, 7 and 8 from more than 5,000 classes sold the stamps from 16 to 23 September."
+        },
+        {
+          "en": "Each stamp costs the value 1 plus a surcharge of €0.70. The surcharge goes to the Stichting Kinderpostzegels for projects for children in unsafe homes. Among them are places in shelters, support for foster children and lessons in setting boundaries.",
+          "de": "Jede Marke kostet den Nennwert 1 plus 0,70 € Zuschlag. Der Zuschlag geht an die Stichting Kinderpostzegels. Damit werden Projekte für Kinder finanziert, die zu Hause nicht sicher sind. Dazu gehören Plätze in Schutzeinrichtungen, Hilfe für Pflegekinder und Unterricht darin, Grenzen zu setzen.",
+          "fr": "Chaque timbre se vend à la valeur faciale 1, plus une surtaxe de 0,70 €. La surtaxe va à la Stichting Kinderpostzegels, pour des projets destinés aux enfants qui vivent dans un foyer peu sûr. Il s'agit entre autres de places en foyer d'accueil, d'un soutien aux enfants placés en famille d'accueil et de cours pour apprendre à poser ses limites.",
+          "it": "Each stamp costs the value 1 plus a surcharge of €0.70. The surcharge goes to the Stichting Kinderpostzegels for projects for children in unsafe homes. Among them are places in shelters, support for foster children and lessons in setting boundaries.",
+          "nl": "Elke zegel kost waarde 1 plus een toeslag van € 0,70. Die toeslag gaat naar Stichting Kinderpostzegels, voor projecten voor kinderen in een onveilig thuis. Het gaat onder meer om plekken in de opvang, hulp aan pleegkinderen en lessen over het stellen van grenzen.",
+          "pl": "Each stamp costs the value 1 plus a surcharge of €0.70. The surcharge goes to the Stichting Kinderpostzegels for projects for children in unsafe homes. Among them are places in shelters, support for foster children and lessons in setting boundaries.",
+          "cs": "Each stamp costs the value 1 plus a surcharge of €0.70. The surcharge goes to the Stichting Kinderpostzegels for projects for children in unsafe homes. Among them are places in shelters, support for foster children and lessons in setting boundaries.",
+          "sk": "Each stamp costs the value 1 plus a surcharge of €0.70. The surcharge goes to the Stichting Kinderpostzegels for projects for children in unsafe homes. Among them are places in shelters, support for foster children and lessons in setting boundaries.",
+          "ro": "Each stamp costs the value 1 plus a surcharge of €0.70. The surcharge goes to the Stichting Kinderpostzegels for projects for children in unsafe homes. Among them are places in shelters, support for foster children and lessons in setting boundaries.",
+          "hu": "Each stamp costs the value 1 plus a surcharge of €0.70. The surcharge goes to the Stichting Kinderpostzegels for projects for children in unsafe homes. Among them are places in shelters, support for foster children and lessons in setting boundaries.",
+          "da": "Each stamp costs the value 1 plus a surcharge of €0.70. The surcharge goes to the Stichting Kinderpostzegels for projects for children in unsafe homes. Among them are places in shelters, support for foster children and lessons in setting boundaries."
+        }
+      ]
+    },
+    {
+      "id": "sheet",
+      "date": {
+        "en": "21 September 2026",
+        "de": "21. September 2026",
+        "fr": "21 septembre 2026",
+        "it": "21 September 2026",
+        "nl": "21 september 2026",
+        "pl": "21 September 2026",
+        "cs": "21 September 2026",
+        "sk": "21 September 2026",
+        "ro": "21 September 2026",
+        "hu": "21 September 2026",
+        "da": "21 September 2026"
+      },
+      "type": "issue",
+      "stamp": {
+        "name": {
+          "en": "Kinderpostzegels 2026, PostNL sheet of five",
+          "de": "Kinderpostzegels 2026, Fünferbogen von PostNL",
+          "fr": "Kinderpostzegels 2026, feuillet de cinq timbres de PostNL",
+          "it": "Kinderpostzegels 2026, PostNL sheet of five",
+          "nl": "Kinderpostzegels 2026, vel van vijf van PostNL",
+          "pl": "Kinderpostzegels 2026, PostNL sheet of five",
+          "cs": "Kinderpostzegels 2026, PostNL sheet of five",
+          "sk": "Kinderpostzegels 2026, PostNL sheet of five",
+          "ro": "Kinderpostzegels 2026, PostNL sheet of five",
+          "hu": "Kinderpostzegels 2026, PostNL sheet of five",
+          "da": "Kinderpostzegels 2026, PostNL sheet of five"
+        },
+        "year": 2026,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/badc1bdb272d4916/nl-2026-kinderpostzegels-vel-v3.png",
+          "width": 1000,
+          "height": 788
+        },
+        "country": "NL",
+        "stamp_id": "nl-postnl-461060"
+      },
+      "title": {
+        "en": "Houses by Blond Amsterdam",
+        "de": "Häuser von Blond Amsterdam",
+        "fr": "Les maisons de Blond Amsterdam",
+        "it": "Houses by Blond Amsterdam",
+        "nl": "Huizen van Blond Amsterdam",
+        "pl": "Houses by Blond Amsterdam",
+        "cs": "Houses by Blond Amsterdam",
+        "sk": "Houses by Blond Amsterdam",
+        "ro": "Houses by Blond Amsterdam",
+        "hu": "Houses by Blond Amsterdam",
+        "da": "Houses by Blond Amsterdam"
+      },
+      "formats": [
+        {
+          "value": "€10.50",
+          "format": {
+            "en": "PostNL sheet of five",
+            "de": "Fünferbogen von PostNL",
+            "fr": "Feuillet de cinq timbres de PostNL",
+            "it": "PostNL sheet of five",
+            "nl": "Vel van vijf van PostNL",
+            "pl": "PostNL sheet of five",
+            "cs": "PostNL sheet of five",
+            "sk": "PostNL sheet of five",
+            "ro": "PostNL sheet of five",
+            "hu": "PostNL sheet of five",
+            "da": "PostNL sheet of five"
+          }
+        },
+        {
+          "value": "€16.80",
+          "format": {
+            "en": "Set of two sheets of four, from Kinderpostzegels",
+            "de": "Set aus zwei Viererbogen von Kinderpostzegels",
+            "fr": "Ensemble de deux feuillets de quatre timbres, de Kinderpostzegels",
+            "it": "Set of two sheets of four, from Kinderpostzegels",
+            "nl": "Set van twee vellen van vier, van Kinderpostzegels",
+            "pl": "Set of two sheets of four, from Kinderpostzegels",
+            "cs": "Set of two sheets of four, from Kinderpostzegels",
+            "sk": "Set of two sheets of four, from Kinderpostzegels",
+            "ro": "Set of two sheets of four, from Kinderpostzegels",
+            "hu": "Set of two sheets of four, from Kinderpostzegels",
+            "da": "Set of two sheets of four, from Kinderpostzegels"
+          }
+        }
+      ],
+      "paragraphs": [
+        {
+          "en": "For the first time the Kinderpostzegels are self-adhesive and shaped like a house or part of a house. Femque van Geffen of Blond Amsterdam first planned five houses in a row, like a street. That looked too static. The houses were then taken apart and partly stacked.",
+          "de": "Zum ersten Mal sind die Kinderpostzegels selbstklebend und haben die Form eines Hauses oder eines Hausteils. Femque van Geffen von Blond Amsterdam plante zuerst fünf Häuser in einer Reihe, wie eine Straße. Das wirkte zu starr. Danach hat sie die Häuser auseinandergezogen und zum Teil übereinandergesetzt.",
+          "fr": "Pour la première fois, les Kinderpostzegels sont autocollants et ont la forme d'une maison ou d'une partie de maison. Femque van Geffen, de Blond Amsterdam, avait d'abord prévu cinq maisons alignées, comme une rue. L'ensemble paraissait trop statique. Les maisons ont ensuite été séparées et en partie empilées.",
+          "it": "For the first time the Kinderpostzegels are self-adhesive and shaped like a house or part of a house. Femque van Geffen of Blond Amsterdam first planned five houses in a row, like a street. That looked too static. The houses were then taken apart and partly stacked.",
+          "nl": "Voor het eerst zijn de kinderpostzegels zelfklevend en hebben ze de vorm van een huis of van een deel van een huis. Femque van Geffen van Blond Amsterdam zette eerst vijf huizen op een rij, als een straat. Dat zag er te statisch uit. Daarna schoven de huizen uit elkaar en kwamen sommige boven op elkaar te staan.",
+          "pl": "For the first time the Kinderpostzegels are self-adhesive and shaped like a house or part of a house. Femque van Geffen of Blond Amsterdam first planned five houses in a row, like a street. That looked too static. The houses were then taken apart and partly stacked.",
+          "cs": "For the first time the Kinderpostzegels are self-adhesive and shaped like a house or part of a house. Femque van Geffen of Blond Amsterdam first planned five houses in a row, like a street. That looked too static. The houses were then taken apart and partly stacked.",
+          "sk": "For the first time the Kinderpostzegels are self-adhesive and shaped like a house or part of a house. Femque van Geffen of Blond Amsterdam first planned five houses in a row, like a street. That looked too static. The houses were then taken apart and partly stacked.",
+          "ro": "For the first time the Kinderpostzegels are self-adhesive and shaped like a house or part of a house. Femque van Geffen of Blond Amsterdam first planned five houses in a row, like a street. That looked too static. The houses were then taken apart and partly stacked.",
+          "hu": "For the first time the Kinderpostzegels are self-adhesive and shaped like a house or part of a house. Femque van Geffen of Blond Amsterdam first planned five houses in a row, like a street. That looked too static. The houses were then taken apart and partly stacked.",
+          "da": "For the first time the Kinderpostzegels are self-adhesive and shaped like a house or part of a house. Femque van Geffen of Blond Amsterdam first planned five houses in a row, like a street. That looked too static. The houses were then taken apart and partly stacked."
+        },
+        {
+          "en": "In each house one or two children are safe at home. A child sleeps with a teddy bear under a roof with the moon and stars. A girl reads in an armchair with a cat behind her.",
+          "de": "In jedem Haus sind ein oder zwei Kinder sicher zu Hause. Ein Kind schläft mit einem Teddybär unter einem Dach mit Mond und Sternen. Ein Mädchen liest in einem Sessel, hinter ihr eine Katze.",
+          "fr": "Dans chaque maison, un ou deux enfants sont en sécurité chez eux. Un enfant dort avec son ours en peluche sous un toit orné de la lune et des étoiles. Une fille lit dans un fauteuil, un chat derrière elle.",
+          "it": "In each house one or two children are safe at home. A child sleeps with a teddy bear under a roof with the moon and stars. A girl reads in an armchair with a cat behind her.",
+          "nl": "In elk huis zitten een of twee kinderen veilig thuis. Onder een dak met de maan en de sterren slaapt een kind met een teddybeer. Een meisje leest in een fauteuil, met een kat achter zich.",
+          "pl": "In each house one or two children are safe at home. A child sleeps with a teddy bear under a roof with the moon and stars. A girl reads in an armchair with a cat behind her.",
+          "cs": "In each house one or two children are safe at home. A child sleeps with a teddy bear under a roof with the moon and stars. A girl reads in an armchair with a cat behind her.",
+          "sk": "In each house one or two children are safe at home. A child sleeps with a teddy bear under a roof with the moon and stars. A girl reads in an armchair with a cat behind her.",
+          "ro": "In each house one or two children are safe at home. A child sleeps with a teddy bear under a roof with the moon and stars. A girl reads in an armchair with a cat behind her.",
+          "hu": "In each house one or two children are safe at home. A child sleeps with a teddy bear under a roof with the moon and stars. A girl reads in an armchair with a cat behind her.",
+          "da": "In each house one or two children are safe at home. A child sleeps with a teddy bear under a roof with the moon and stars. A girl reads in an armchair with a cat behind her."
+        },
+        {
+          "en": "Another girl cycles with a dog in her basket. Two children bake biscuits. In front of a tall gabled house one child does a handstand while another holds a ball.",
+          "de": "Ein anderes Mädchen fährt Rad, mit einem Hund im Korb. Zwei Kinder backen Kekse. Vor einem hohen Giebelhaus macht ein Kind einen Handstand, ein anderes hält einen Ball.",
+          "fr": "Une autre fille fait du vélo avec un chien dans son panier. Deux enfants font des biscuits. Devant une haute maison à pignon, un enfant fait l'équilibre sur les mains pendant qu'un autre tient un ballon.",
+          "it": "Another girl cycles with a dog in her basket. Two children bake biscuits. In front of a tall gabled house one child does a handstand while another holds a ball.",
+          "nl": "Een ander meisje fietst met een hond in het mandje. Twee kinderen bakken koekjes. Voor een hoog gevelhuis maakt een kind een handstand en houdt een ander kind een bal vast.",
+          "pl": "Another girl cycles with a dog in her basket. Two children bake biscuits. In front of a tall gabled house one child does a handstand while another holds a ball.",
+          "cs": "Another girl cycles with a dog in her basket. Two children bake biscuits. In front of a tall gabled house one child does a handstand while another holds a ball.",
+          "sk": "Another girl cycles with a dog in her basket. Two children bake biscuits. In front of a tall gabled house one child does a handstand while another holds a ball.",
+          "ro": "Another girl cycles with a dog in her basket. Two children bake biscuits. In front of a tall gabled house one child does a handstand while another holds a ball.",
+          "hu": "Another girl cycles with a dog in her basket. Two children bake biscuits. In front of a tall gabled house one child does a handstand while another holds a ball.",
+          "da": "Another girl cycles with a dog in her basket. Two children bake biscuits. In front of a tall gabled house one child does a handstand while another holds a ball."
+        },
+        {
+          "en": "Stickers around the stamps, a sun, a heart and a ladybird on a flower, are for decorating the envelope. A pigeon carrying a letter stands for post delivered to the door.",
+          "de": "Die Sticker rund um die Marken sind zum Verzieren des Umschlags: eine Sonne, ein Herz und ein Marienkäfer auf einer Blume. Eine Taube mit einem Brief steht für Post, die bis an die Tür kommt.",
+          "fr": "Autour des timbres, des autocollants servent à décorer l'enveloppe : un soleil, un cœur et une coccinelle sur une fleur. Un pigeon qui porte une lettre représente le courrier livré à la porte.",
+          "it": "Stickers around the stamps, a sun, a heart and a ladybird on a flower, are for decorating the envelope. A pigeon carrying a letter stands for post delivered to the door.",
+          "nl": "Rond de zegels staan stickers om de envelop mee te versieren: een zon, een hart en een lieveheersbeestje op een bloem. Een duif met een brief staat voor post die aan de deur wordt bezorgd.",
+          "pl": "Stickers around the stamps, a sun, a heart and a ladybird on a flower, are for decorating the envelope. A pigeon carrying a letter stands for post delivered to the door.",
+          "cs": "Stickers around the stamps, a sun, a heart and a ladybird on a flower, are for decorating the envelope. A pigeon carrying a letter stands for post delivered to the door.",
+          "sk": "Stickers around the stamps, a sun, a heart and a ladybird on a flower, are for decorating the envelope. A pigeon carrying a letter stands for post delivered to the door.",
+          "ro": "Stickers around the stamps, a sun, a heart and a ladybird on a flower, are for decorating the envelope. A pigeon carrying a letter stands for post delivered to the door.",
+          "hu": "Stickers around the stamps, a sun, a heart and a ladybird on a flower, are for decorating the envelope. A pigeon carrying a letter stands for post delivered to the door.",
+          "da": "Stickers around the stamps, a sun, a heart and a ladybird on a flower, are for decorating the envelope. A pigeon carrying a letter stands for post delivered to the door."
+        },
+        {
+          "en": "Blond Amsterdam draws by hand in pencil, ink and ecoline. It also designed the Decemberzegels of 2009. Joh. Enschedé printed 320,000 sheets.",
+          "de": "Blond Amsterdam zeichnet von Hand, mit Bleistift, Tusche und Ecoline. Von Blond Amsterdam stammen auch die Decemberzegels von 2009. Joh. Enschedé hat 320.000 Bogen gedruckt.",
+          "fr": "Blond Amsterdam dessine à la main, au crayon, à l'encre et à l'Ecoline. Le studio a aussi conçu les Decemberzegels de 2009. Joh. Enschedé a imprimé 320 000 feuillets.",
+          "it": "Blond Amsterdam draws by hand in pencil, ink and ecoline. It also designed the Decemberzegels of 2009. Joh. Enschedé printed 320,000 sheets.",
+          "nl": "Blond Amsterdam tekent met de hand, in potlood, inkt en ecoline. Blond Amsterdam ontwierp ook de Decemberzegels van 2009. Joh. Enschedé drukte 320.000 vellen.",
+          "pl": "Blond Amsterdam draws by hand in pencil, ink and ecoline. It also designed the Decemberzegels of 2009. Joh. Enschedé printed 320,000 sheets.",
+          "cs": "Blond Amsterdam draws by hand in pencil, ink and ecoline. It also designed the Decemberzegels of 2009. Joh. Enschedé printed 320,000 sheets.",
+          "sk": "Blond Amsterdam draws by hand in pencil, ink and ecoline. It also designed the Decemberzegels of 2009. Joh. Enschedé printed 320,000 sheets.",
+          "ro": "Blond Amsterdam draws by hand in pencil, ink and ecoline. It also designed the Decemberzegels of 2009. Joh. Enschedé printed 320,000 sheets.",
+          "hu": "Blond Amsterdam draws by hand in pencil, ink and ecoline. It also designed the Decemberzegels of 2009. Joh. Enschedé printed 320,000 sheets.",
+          "da": "Blond Amsterdam draws by hand in pencil, ink and ecoline. It also designed the Decemberzegels of 2009. Joh. Enschedé printed 320,000 sheets."
+        }
+      ]
+    },
+    {
+      "id": "two-sheets",
+      "type": "text",
+      "label": {
+        "en": "Two sheets",
+        "de": "Zwei Bogen",
+        "fr": "Deux feuillets",
+        "it": "Two sheets",
+        "nl": "Twee vellen",
+        "pl": "Two sheets",
+        "cs": "Two sheets",
+        "sk": "Two sheets",
+        "ro": "Two sheets",
+        "hu": "Two sheets",
+        "da": "Two sheets"
+      },
+      "title": {
+        "en": "The sheet the children sell",
+        "de": "Der Bogen, den die Kinder verkaufen",
+        "fr": "Le feuillet vendu par les enfants",
+        "it": "The sheet the children sell",
+        "nl": "Het vel dat de kinderen verkopen",
+        "pl": "The sheet the children sell",
+        "cs": "The sheet the children sell",
+        "sk": "The sheet the children sell",
+        "ro": "The sheet the children sell",
+        "hu": "The sheet the children sell",
+        "da": "The sheet the children sell"
+      },
+      "visual": {
+        "type": "stamp",
+        "stamp": {
+          "name": {
+            "en": "Kinderpostzegels 2026, sheet of four sold by the children",
+            "de": "Kinderpostzegels 2026, Viererbogen aus dem Verkauf der Kinder",
+            "fr": "Kinderpostzegels 2026, feuillet de quatre timbres vendu par les enfants",
+            "it": "Kinderpostzegels 2026, sheet of four sold by the children",
+            "nl": "Kinderpostzegels 2026, vel van vier dat de kinderen verkopen",
+            "pl": "Kinderpostzegels 2026, sheet of four sold by the children",
+            "cs": "Kinderpostzegels 2026, sheet of four sold by the children",
+            "sk": "Kinderpostzegels 2026, sheet of four sold by the children",
+            "ro": "Kinderpostzegels 2026, sheet of four sold by the children",
+            "hu": "Kinderpostzegels 2026, sheet of four sold by the children",
+            "da": "Kinderpostzegels 2026, sheet of four sold by the children"
+          },
+          "year": 2026,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/af0aea71cf902bdc/nl-2026-kinderpostzegels-actievel-skn-v3.png",
+            "width": 900,
+            "height": 694
+          },
+          "country": "NL",
+          "stamp_id": "nl-skn-461060h"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "The children sell a set of two sheets with four stamps each. The house with the two children baking is not on it. Blond Amsterdam took it out, moved another house down and added a sticker of a cloud. This sheet carries the article number 461060H.",
+          "de": "Die Kinder verkaufen ein Set aus zwei Bogen mit je vier Marken. Das Haus mit den beiden backenden Kindern fehlt darauf. Blond Amsterdam hat es herausgenommen, ein anderes Haus nach unten gerückt und einen Sticker mit einer Wolke ergänzt. Dieser Bogen hat die Artikelnummer 461060H.",
+          "fr": "Les enfants vendent un ensemble de deux feuillets de quatre timbres. La maison où les deux enfants font des biscuits n'y figure pas. Blond Amsterdam l'a retirée, a fait descendre une autre maison et a ajouté un autocollant en forme de nuage. Ce feuillet porte le numéro d'article 461060H.",
+          "it": "The children sell a set of two sheets with four stamps each. The house with the two children baking is not on it. Blond Amsterdam took it out, moved another house down and added a sticker of a cloud. This sheet carries the article number 461060H.",
+          "nl": "De kinderen verkopen een set van twee vellen met elk vier zegels. Het huis met de twee bakkende kinderen staat daar niet op. Blond Amsterdam haalde het eruit, schoof een ander huis naar beneden en zette er een sticker met een wolk bij. Dit vel heeft artikelnummer 461060H.",
+          "pl": "The children sell a set of two sheets with four stamps each. The house with the two children baking is not on it. Blond Amsterdam took it out, moved another house down and added a sticker of a cloud. This sheet carries the article number 461060H.",
+          "cs": "The children sell a set of two sheets with four stamps each. The house with the two children baking is not on it. Blond Amsterdam took it out, moved another house down and added a sticker of a cloud. This sheet carries the article number 461060H.",
+          "sk": "The children sell a set of two sheets with four stamps each. The house with the two children baking is not on it. Blond Amsterdam took it out, moved another house down and added a sticker of a cloud. This sheet carries the article number 461060H.",
+          "ro": "The children sell a set of two sheets with four stamps each. The house with the two children baking is not on it. Blond Amsterdam took it out, moved another house down and added a sticker of a cloud. This sheet carries the article number 461060H.",
+          "hu": "The children sell a set of two sheets with four stamps each. The house with the two children baking is not on it. Blond Amsterdam took it out, moved another house down and added a sticker of a cloud. This sheet carries the article number 461060H.",
+          "da": "The children sell a set of two sheets with four stamps each. The house with the two children baking is not on it. Blond Amsterdam took it out, moved another house down and added a sticker of a cloud. This sheet carries the article number 461060H."
+        },
+        {
+          "en": "The baking stamp is only on the PostNL sheet of five. That sheet is sold at Bruna, in the PostNL Collect Club and on the Kinderpostzegels website, while stock lasts.",
+          "de": "Die Marke mit den backenden Kindern gibt es nur auf dem Fünferbogen von PostNL. Den verkaufen Bruna, der PostNL Collect Club und die Website von Kinderpostzegels, solange der Vorrat reicht.",
+          "fr": "Le timbre aux biscuits ne se trouve que sur le feuillet de cinq timbres de PostNL. Celui-ci est vendu chez Bruna, sur la boutique PostNL Collect Club et sur le site de Kinderpostzegels, jusqu'à épuisement des stocks.",
+          "it": "The baking stamp is only on the PostNL sheet of five. That sheet is sold at Bruna, in the PostNL Collect Club and on the Kinderpostzegels website, while stock lasts.",
+          "nl": "De zegel met de bakkende kinderen staat alleen op het vel van vijf van PostNL. Dat vel is te koop bij Bruna, bij de PostNL Collect Club en in de webshop van Kinderpostzegels, zolang de voorraad strekt.",
+          "pl": "The baking stamp is only on the PostNL sheet of five. That sheet is sold at Bruna, in the PostNL Collect Club and on the Kinderpostzegels website, while stock lasts.",
+          "cs": "The baking stamp is only on the PostNL sheet of five. That sheet is sold at Bruna, in the PostNL Collect Club and on the Kinderpostzegels website, while stock lasts.",
+          "sk": "The baking stamp is only on the PostNL sheet of five. That sheet is sold at Bruna, in the PostNL Collect Club and on the Kinderpostzegels website, while stock lasts.",
+          "ro": "The baking stamp is only on the PostNL sheet of five. That sheet is sold at Bruna, in the PostNL Collect Club and on the Kinderpostzegels website, while stock lasts.",
+          "hu": "The baking stamp is only on the PostNL sheet of five. That sheet is sold at Bruna, in the PostNL Collect Club and on the Kinderpostzegels website, while stock lasts.",
+          "da": "The baking stamp is only on the PostNL sheet of five. That sheet is sold at Bruna, in the PostNL Collect Club and on the Kinderpostzegels website, while stock lasts."
+        }
+      ]
+    },
+    {
+      "id": "history",
+      "type": "text",
+      "label": {
+        "en": "Since 1924",
+        "de": "Seit 1924",
+        "fr": "Depuis 1924",
+        "it": "Since 1924",
+        "nl": "Sinds 1924",
+        "pl": "Since 1924",
+        "cs": "Since 1924",
+        "sk": "Since 1924",
+        "ro": "Since 1924",
+        "hu": "Since 1924",
+        "da": "Since 1924"
+      },
+      "title": {
+        "en": "Kinderpostzegels since 1924",
+        "de": "Die Geschichte der Kinderpostzegels",
+        "fr": "Les Kinderpostzegels depuis 1924",
+        "it": "Kinderpostzegels since 1924",
+        "nl": "Kinderpostzegels sinds 1924",
+        "pl": "Kinderpostzegels since 1924",
+        "cs": "Kinderpostzegels since 1924",
+        "sk": "Kinderpostzegels since 1924",
+        "ro": "Kinderpostzegels since 1924",
+        "hu": "Kinderpostzegels since 1924",
+        "da": "Kinderpostzegels since 1924"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/adc4b6136156081c/kinderpostzegels-amsterdam-1957.jpg",
+          "width": 2400,
+          "credit": "Photo: Joop van Bilsen, Anefo, Nationaal Archief, CC0",
+          "height": 1908,
+          "caption": {
+            "en": "A stand selling Kinderpostzegels in Amsterdam, 18 November 1957",
+            "de": "Ein Stand mit Kinderpostzegels in Amsterdam, 18. November 1957",
+            "fr": "Un stand de vente de Kinderpostzegels à Amsterdam, le 18 novembre 1957",
+            "it": "A stand selling Kinderpostzegels in Amsterdam, 18 November 1957",
+            "nl": "Een verkoopstand met kinderpostzegels in Amsterdam, 18 november 1957",
+            "pl": "A stand selling Kinderpostzegels in Amsterdam, 18 November 1957",
+            "cs": "A stand selling Kinderpostzegels in Amsterdam, 18 November 1957",
+            "sk": "A stand selling Kinderpostzegels in Amsterdam, 18 November 1957",
+            "ro": "A stand selling Kinderpostzegels in Amsterdam, 18 November 1957",
+            "hu": "A stand selling Kinderpostzegels in Amsterdam, 18 November 1957",
+            "da": "A stand selling Kinderpostzegels in Amsterdam, 18 November 1957"
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Verkoop_kinderpostzegels_te_Amsterdam,_Bestanddeelnr_909-1239.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "The first Kinderpostzegels came out in 1924, with a child's face between two angels by Georg Rueter. Adult volunteers sold them. They raised 51,000 guilders for hundreds of child care institutions.",
+          "de": "1924 erschienen die ersten Kinderpostzegels, ein Kindergesicht zwischen zwei Engeln von Georg Rueter. Verkauft haben sie erwachsene Freiwillige. Zusammen kamen 51.000 Gulden für Hunderte von Einrichtungen der Kinderfürsorge.",
+          "fr": "Les premiers Kinderpostzegels sont parus en 1924, avec un visage d'enfant entre deux anges, dessiné par Georg Rueter. Des bénévoles adultes les vendaient. Ils ont rapporté 51 000 florins pour des centaines d'institutions qui s'occupaient d'enfants.",
+          "it": "The first Kinderpostzegels came out in 1924, with a child's face between two angels by Georg Rueter. Adult volunteers sold them. They raised 51,000 guilders for hundreds of child care institutions.",
+          "nl": "De eerste kinderpostzegels verschenen in 1924, met een kindergezicht tussen twee engelen naar een ontwerp van Georg Rueter. Volwassen vrijwilligers verkochten ze. De zegels brachten 51.000 gulden op voor honderden instellingen voor kinderzorg.",
+          "pl": "The first Kinderpostzegels came out in 1924, with a child's face between two angels by Georg Rueter. Adult volunteers sold them. They raised 51,000 guilders for hundreds of child care institutions.",
+          "cs": "The first Kinderpostzegels came out in 1924, with a child's face between two angels by Georg Rueter. Adult volunteers sold them. They raised 51,000 guilders for hundreds of child care institutions.",
+          "sk": "The first Kinderpostzegels came out in 1924, with a child's face between two angels by Georg Rueter. Adult volunteers sold them. They raised 51,000 guilders for hundreds of child care institutions.",
+          "ro": "The first Kinderpostzegels came out in 1924, with a child's face between two angels by Georg Rueter. Adult volunteers sold them. They raised 51,000 guilders for hundreds of child care institutions.",
+          "hu": "The first Kinderpostzegels came out in 1924, with a child's face between two angels by Georg Rueter. Adult volunteers sold them. They raised 51,000 guilders for hundreds of child care institutions.",
+          "da": "The first Kinderpostzegels came out in 1924, with a child's face between two angels by Georg Rueter. Adult volunteers sold them. They raised 51,000 guilders for hundreds of child care institutions."
+        },
+        {
+          "en": "The Netherlands was the second country with stamps for children, after Switzerland's Pro Juventute of 1912. From 1936 the surcharge was printed below the picture. From 1949 it was part of the design. No Kinderpostzegels came out from 1942 to 1944.",
+          "de": "Nach der Schweiz mit Pro Juventute von 1912 waren die Niederlande das zweite Land mit Marken für Kinder. Ab 1936 stand der Zuschlag unter dem Bild. Ab 1949 gehörte er zum Entwurf. Von 1942 bis 1944 erschienen keine Kinderpostzegels.",
+          "fr": "Les Pays-Bas ont été le deuxième pays à émettre des timbres pour les enfants, après la Suisse et ses timbres Pro Juventute de 1912. À partir de 1936, la surtaxe est imprimée sous l'image. À partir de 1949, elle fait partie du dessin. Entre 1942 et 1944, il n'y a pas eu de Kinderpostzegels.",
+          "it": "The Netherlands was the second country with stamps for children, after Switzerland's Pro Juventute of 1912. From 1936 the surcharge was printed below the picture. From 1949 it was part of the design. No Kinderpostzegels came out from 1942 to 1944.",
+          "nl": "Nederland was na Zwitserland het tweede land met zegels voor kinderen; de Zwitserse Pro Juventute kwam in 1912. Vanaf 1936 stond de toeslag onder de afbeelding gedrukt. Vanaf 1949 was die onderdeel van het ontwerp zelf. Tussen 1942 en 1944 verschenen er geen kinderpostzegels.",
+          "pl": "The Netherlands was the second country with stamps for children, after Switzerland's Pro Juventute of 1912. From 1936 the surcharge was printed below the picture. From 1949 it was part of the design. No Kinderpostzegels came out from 1942 to 1944.",
+          "cs": "The Netherlands was the second country with stamps for children, after Switzerland's Pro Juventute of 1912. From 1936 the surcharge was printed below the picture. From 1949 it was part of the design. No Kinderpostzegels came out from 1942 to 1944.",
+          "sk": "The Netherlands was the second country with stamps for children, after Switzerland's Pro Juventute of 1912. From 1936 the surcharge was printed below the picture. From 1949 it was part of the design. No Kinderpostzegels came out from 1942 to 1944.",
+          "ro": "The Netherlands was the second country with stamps for children, after Switzerland's Pro Juventute of 1912. From 1936 the surcharge was printed below the picture. From 1949 it was part of the design. No Kinderpostzegels came out from 1942 to 1944.",
+          "hu": "The Netherlands was the second country with stamps for children, after Switzerland's Pro Juventute of 1912. From 1936 the surcharge was printed below the picture. From 1949 it was part of the design. No Kinderpostzegels came out from 1942 to 1944.",
+          "da": "The Netherlands was the second country with stamps for children, after Switzerland's Pro Juventute of 1912. From 1936 the surcharge was printed below the picture. From 1949 it was part of the design. No Kinderpostzegels came out from 1942 to 1944."
+        },
+        {
+          "en": "In 1948 the schoolmaster Verheul from Waarder let his pupils sell the stamps. He wanted them to learn to talk to people, tell a story and handle money. From 1949 schoolchildren sold them all over the country. The campaign has been on the Dutch inventory of intangible heritage since 2017. In 2023 it raised more than €9.6 million.",
+          "de": "1948 ließ der Schulleiter Verheul aus Waarder seine Schulkinder die Marken verkaufen. Sie sollten lernen, mit Leuten zu sprechen, etwas zu erzählen und mit Geld umzugehen. Ab 1949 verkauften Schulkinder sie im ganzen Land. Seit 2017 steht die Aktion auf der niederländischen Liste des immateriellen Erbes. 2023 kamen mehr als 9,6 Millionen Euro zusammen.",
+          "fr": "En 1948, l'instituteur Verheul, de Waarder, a confié la vente des timbres à ses élèves. Il voulait qu'ils apprennent à parler aux gens, à raconter une histoire et à manier l'argent. À partir de 1949, des écoliers les ont vendus dans tout le pays. Depuis 2017, la campagne figure à l'inventaire néerlandais du patrimoine immatériel. En 2023, elle a rapporté plus de 9,6 millions d'euros.",
+          "it": "In 1948 the schoolmaster Verheul from Waarder let his pupils sell the stamps. He wanted them to learn to talk to people, tell a story and handle money. From 1949 schoolchildren sold them all over the country. The campaign has been on the Dutch inventory of intangible heritage since 2017. In 2023 it raised more than €9.6 million.",
+          "nl": "In 1948 liet meester Verheul uit Waarder zijn leerlingen de zegels verkopen. Hij wilde dat ze leerden met mensen te praten, een verhaal te vertellen en met geld om te gaan. Vanaf 1949 verkochten schoolkinderen ze in het hele land. De campagne staat sinds 2017 op de Inventaris Immaterieel Erfgoed Nederland. In 2023 bracht de campagne meer dan € 9,6 miljoen op.",
+          "pl": "In 1948 the schoolmaster Verheul from Waarder let his pupils sell the stamps. He wanted them to learn to talk to people, tell a story and handle money. From 1949 schoolchildren sold them all over the country. The campaign has been on the Dutch inventory of intangible heritage since 2017. In 2023 it raised more than €9.6 million.",
+          "cs": "In 1948 the schoolmaster Verheul from Waarder let his pupils sell the stamps. He wanted them to learn to talk to people, tell a story and handle money. From 1949 schoolchildren sold them all over the country. The campaign has been on the Dutch inventory of intangible heritage since 2017. In 2023 it raised more than €9.6 million.",
+          "sk": "In 1948 the schoolmaster Verheul from Waarder let his pupils sell the stamps. He wanted them to learn to talk to people, tell a story and handle money. From 1949 schoolchildren sold them all over the country. The campaign has been on the Dutch inventory of intangible heritage since 2017. In 2023 it raised more than €9.6 million.",
+          "ro": "In 1948 the schoolmaster Verheul from Waarder let his pupils sell the stamps. He wanted them to learn to talk to people, tell a story and handle money. From 1949 schoolchildren sold them all over the country. The campaign has been on the Dutch inventory of intangible heritage since 2017. In 2023 it raised more than €9.6 million.",
+          "hu": "In 1948 the schoolmaster Verheul from Waarder let his pupils sell the stamps. He wanted them to learn to talk to people, tell a story and handle money. From 1949 schoolchildren sold them all over the country. The campaign has been on the Dutch inventory of intangible heritage since 2017. In 2023 it raised more than €9.6 million.",
+          "da": "In 1948 the schoolmaster Verheul from Waarder let his pupils sell the stamps. He wanted them to learn to talk to people, tell a story and handle money. From 1949 schoolchildren sold them all over the country. The campaign has been on the Dutch inventory of intangible heritage since 2017. In 2023 it raised more than €9.6 million."
+        }
+      ]
+    },
+    {
+      "id": "ordering",
+      "rows": [
+        {
+          "label": {
+            "en": "PostNL sheet of five",
+            "de": "Fünferbogen von PostNL",
+            "fr": "Feuillet de cinq timbres de PostNL",
+            "it": "PostNL sheet of five",
+            "nl": "Vel van vijf van PostNL",
+            "pl": "PostNL sheet of five",
+            "cs": "PostNL sheet of five",
+            "sk": "PostNL sheet of five",
+            "ro": "PostNL sheet of five",
+            "hu": "PostNL sheet of five",
+            "da": "PostNL sheet of five"
+          },
+          "value": {
+            "en": "PostNL Collect Club shop and Bruna, while stock lasts",
+            "de": "Shop des PostNL Collect Club und Bruna, solange der Vorrat reicht",
+            "fr": "Boutique PostNL Collect Club et Bruna, jusqu'à épuisement des stocks",
+            "it": "PostNL Collect Club shop and Bruna, while stock lasts",
+            "nl": "Webshop van PostNL Collect Club en Bruna, zolang de voorraad strekt",
+            "pl": "PostNL Collect Club shop and Bruna, while stock lasts",
+            "cs": "PostNL Collect Club shop and Bruna, while stock lasts",
+            "sk": "PostNL Collect Club shop and Bruna, while stock lasts",
+            "ro": "PostNL Collect Club shop and Bruna, while stock lasts",
+            "hu": "PostNL Collect Club shop and Bruna, while stock lasts",
+            "da": "PostNL Collect Club shop and Bruna, while stock lasts"
+          }
+        },
+        {
+          "label": {
+            "en": "Set of two sheets of four",
+            "de": "Set aus zwei Viererbogen",
+            "fr": "Ensemble de deux feuillets de quatre timbres",
+            "it": "Set of two sheets of four",
+            "nl": "Set van twee vellen van vier",
+            "pl": "Set of two sheets of four",
+            "cs": "Set of two sheets of four",
+            "sk": "Set of two sheets of four",
+            "ro": "Set of two sheets of four",
+            "hu": "Set of two sheets of four",
+            "da": "Set of two sheets of four"
+          },
+          "value": {
+            "en": "Kinderpostzegels webshop",
+            "de": "Webshop von Kinderpostzegels",
+            "fr": "Boutique en ligne de Kinderpostzegels",
+            "it": "Kinderpostzegels webshop",
+            "nl": "Webshop van Kinderpostzegels",
+            "pl": "Kinderpostzegels webshop",
+            "cs": "Kinderpostzegels webshop",
+            "sk": "Kinderpostzegels webshop",
+            "ro": "Kinderpostzegels webshop",
+            "hu": "Kinderpostzegels webshop",
+            "da": "Kinderpostzegels webshop"
+          }
+        },
+        {
+          "label": {
+            "en": "By phone",
+            "de": "Telefonisch",
+            "fr": "Par téléphone",
+            "it": "By phone",
+            "nl": "Telefonisch",
+            "pl": "By phone",
+            "cs": "By phone",
+            "sk": "By phone",
+            "ro": "By phone",
+            "hu": "By phone",
+            "da": "By phone"
+          },
+          "value": {
+            "en": "Collect Club, 088 868 99 00",
+            "de": "Collect Club, 088 868 99 00",
+            "fr": "Collect Club, 088 868 99 00",
+            "it": "Collect Club, 088 868 99 00",
+            "nl": "Collect Club, 088 868 99 00",
+            "pl": "Collect Club, 088 868 99 00",
+            "cs": "Collect Club, 088 868 99 00",
+            "sk": "Collect Club, 088 868 99 00",
+            "ro": "Collect Club, 088 868 99 00",
+            "hu": "Collect Club, 088 868 99 00",
+            "da": "Collect Club, 088 868 99 00"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "Ordering",
+        "de": "Bestellen",
+        "fr": "Commander",
+        "it": "Ordering",
+        "nl": "Bestellen",
+        "pl": "Ordering",
+        "cs": "Ordering",
+        "sk": "Ordering",
+        "ro": "Ordering",
+        "hu": "Ordering",
+        "da": "Ordering"
+      },
+      "title": {
+        "en": "Where to buy the Kinderpostzegels",
+        "de": "Wo es die Kinderpostzegels gibt",
+        "fr": "Où acheter les Kinderpostzegels",
+        "it": "Where to buy the Kinderpostzegels",
+        "nl": "Waar je de kinderpostzegels koopt",
+        "pl": "Where to buy the Kinderpostzegels",
+        "cs": "Where to buy the Kinderpostzegels",
+        "sk": "Where to buy the Kinderpostzegels",
+        "ro": "Where to buy the Kinderpostzegels",
+        "hu": "Where to buy the Kinderpostzegels",
+        "da": "Where to buy the Kinderpostzegels"
+      },
+      "buttons": [
+        {
+          "href": "https://shop.postnl.nl/webshop/collect-club/postzegeluitgiften/kinderpostzegels-2026-5-vel-nl1-0-70",
+          "label": {
+            "en": "PostNL Collect Club shop",
+            "de": "Shop des PostNL Collect Club",
+            "fr": "Boutique PostNL Collect Club",
+            "it": "PostNL Collect Club shop",
+            "nl": "Webshop van PostNL Collect Club",
+            "pl": "PostNL Collect Club shop",
+            "cs": "PostNL Collect Club shop",
+            "sk": "PostNL Collect Club shop",
+            "ro": "PostNL Collect Club shop",
+            "hu": "PostNL Collect Club shop",
+            "da": "PostNL Collect Club shop"
+          }
+        },
+        {
+          "href": "https://kinderpostzegels.nl/products/kinderpostzegels-2026",
+          "label": {
+            "en": "Kinderpostzegels webshop",
+            "de": "Webshop von Kinderpostzegels",
+            "fr": "Boutique en ligne Kinderpostzegels",
+            "it": "Kinderpostzegels webshop",
+            "nl": "Webshop van Kinderpostzegels",
+            "pl": "Kinderpostzegels webshop",
+            "cs": "Kinderpostzegels webshop",
+            "sk": "Kinderpostzegels webshop",
+            "ro": "Kinderpostzegels webshop",
+            "hu": "Kinderpostzegels webshop",
+            "da": "Kinderpostzegels webshop"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stampiq",
+      "text": {
+        "en": "The Kinderpostzegels 2026 are not in StampIQ yet. We add them to the catalogue later.",
+        "de": "Die Kinderpostzegels 2026 sind noch nicht in StampIQ. Wir nehmen sie später in den Katalog auf.",
+        "fr": "Les Kinderpostzegels 2026 ne sont pas encore dans StampIQ. Nous les ajouterons au catalogue plus tard.",
+        "it": "The Kinderpostzegels 2026 are not in StampIQ yet. We add them to the catalogue later.",
+        "nl": "De Kinderpostzegels 2026 staan nog niet in StampIQ. We voegen ze later toe aan de catalogus.",
+        "pl": "The Kinderpostzegels 2026 are not in StampIQ yet. We add them to the catalogue later.",
+        "cs": "The Kinderpostzegels 2026 are not in StampIQ yet. We add them to the catalogue later.",
+        "sk": "The Kinderpostzegels 2026 are not in StampIQ yet. We add them to the catalogue later.",
+        "ro": "The Kinderpostzegels 2026 are not in StampIQ yet. We add them to the catalogue later.",
+        "hu": "The Kinderpostzegels 2026 are not in StampIQ yet. We add them to the catalogue later.",
+        "da": "The Kinderpostzegels 2026 are not in StampIQ yet. We add them to the catalogue later."
+      },
+      "type": "note"
+    }
+  ]
+}

@@ -1,0 +1,1048 @@
+{
+  "category": "day-trips",
+  "markets": [
+    "CH",
+    "LI",
+    "DE",
+    "AT"
+  ],
+  "langs": [
+    "en",
+    "de",
+    "fr",
+    "it"
+  ],
+  "published_at": "2026-10-02T10:00:00+00:00",
+  "thumbnail": {
+    "src": "https://assets.stampiq.io/blog/573302e13c2456b0/su-bridge-2019.jpg",
+    "width": 2400,
+    "height": 1350
+  },
+  "languages": {
+    "en": {
+      "slug": "day-trip-saint-ursanne-bridge",
+      "title": "Day trip: the bridge of Saint-Ursanne",
+      "description": "Three Swiss stamps show the same stone bridge over the Doubs. What to see in Saint-Ursanne in the Jura, and how to get there by train from Basel."
+    },
+    "de": {
+      "slug": "tagesausflug-bruecke-von-saint-ursanne",
+      "title": "Tagesausflug: die Brücke von Saint-Ursanne",
+      "description": "Drei Schweizer Marken zeigen dieselbe Steinbrücke über den Doubs. Was du in Saint-Ursanne im Jura sehen kannst und wie du mit dem Zug ab Basel hinkommst."
+    },
+    "fr": {
+      "slug": "excursion-pont-saint-ursanne",
+      "title": "Excursion : le pont de Saint-Ursanne",
+      "description": "Trois timbres suisses montrent le même pont de pierre sur le Doubs. À voir à Saint-Ursanne, dans le Jura, et comment y aller en train depuis Bâle."
+    },
+    "it": {
+      "slug": "gita-al-ponte-di-saint-ursanne",
+      "title": "Gita di un giorno: il ponte di Saint-Ursanne",
+      "description": "Tre francobolli svizzeri mostrano lo stesso ponte di pietra sul Doubs. Cosa vedere a Saint-Ursanne, nel Giura, e come arrivarci in treno da Basilea."
+    },
+    "nl": {
+      "slug": "day-trip-saint-ursanne-bridge",
+      "title": "Day trip: the bridge of Saint-Ursanne",
+      "description": "Three Swiss stamps show the same stone bridge over the Doubs. What to see in Saint-Ursanne in the Jura, and how to get there by train from Basel."
+    },
+    "pl": {
+      "slug": "day-trip-saint-ursanne-bridge",
+      "title": "Day trip: the bridge of Saint-Ursanne",
+      "description": "Three Swiss stamps show the same stone bridge over the Doubs. What to see in Saint-Ursanne in the Jura, and how to get there by train from Basel."
+    },
+    "cs": {
+      "slug": "day-trip-saint-ursanne-bridge",
+      "title": "Day trip: the bridge of Saint-Ursanne",
+      "description": "Three Swiss stamps show the same stone bridge over the Doubs. What to see in Saint-Ursanne in the Jura, and how to get there by train from Basel."
+    },
+    "sk": {
+      "slug": "day-trip-saint-ursanne-bridge",
+      "title": "Day trip: the bridge of Saint-Ursanne",
+      "description": "Three Swiss stamps show the same stone bridge over the Doubs. What to see in Saint-Ursanne in the Jura, and how to get there by train from Basel."
+    },
+    "ro": {
+      "slug": "day-trip-saint-ursanne-bridge",
+      "title": "Day trip: the bridge of Saint-Ursanne",
+      "description": "Three Swiss stamps show the same stone bridge over the Doubs. What to see in Saint-Ursanne in the Jura, and how to get there by train from Basel."
+    },
+    "hu": {
+      "slug": "day-trip-saint-ursanne-bridge",
+      "title": "Day trip: the bridge of Saint-Ursanne",
+      "description": "Three Swiss stamps show the same stone bridge over the Doubs. What to see in Saint-Ursanne in the Jura, and how to get there by train from Basel."
+    },
+    "da": {
+      "slug": "day-trip-saint-ursanne-bridge",
+      "title": "Day trip: the bridge of Saint-Ursanne",
+      "description": "Three Swiss stamps show the same stone bridge over the Doubs. What to see in Saint-Ursanne in the Jura, and how to get there by train from Basel."
+    }
+  },
+  "header": {
+    "lead": {
+      "en": "A Christmas stamp from 2018 shows a lit stone bridge over a river at dusk. Two older Swiss stamps show the same bridge, and it stands in a small town in the Jura.",
+      "de": "Eine Weihnachtsmarke von 2018 zeigt eine beleuchtete Steinbrücke über einem Fluss in der Abenddämmerung. Dieselbe Brücke ist auch auf zwei älteren Schweizer Marken zu sehen, und sie steht in einem kleinen Städtchen im Jura.",
+      "fr": "Un timbre de Noël de 2018 montre un pont de pierre illuminé au-dessus d'une rivière, au crépuscule. Deux timbres suisses plus anciens représentent le même pont, qui se trouve dans une petite ville du Jura.",
+      "it": "Un francobollo natalizio del 2018 mostra un ponte di pietra illuminato sopra un fiume, al crepuscolo. Lo stesso ponte compare su due francobolli svizzeri più vecchi e si trova in una piccola città del Giura.",
+      "nl": "A Christmas stamp from 2018 shows a lit stone bridge over a river at dusk. Two older Swiss stamps show the same bridge, and it stands in a small town in the Jura.",
+      "pl": "A Christmas stamp from 2018 shows a lit stone bridge over a river at dusk. Two older Swiss stamps show the same bridge, and it stands in a small town in the Jura.",
+      "cs": "A Christmas stamp from 2018 shows a lit stone bridge over a river at dusk. Two older Swiss stamps show the same bridge, and it stands in a small town in the Jura.",
+      "sk": "A Christmas stamp from 2018 shows a lit stone bridge over a river at dusk. Two older Swiss stamps show the same bridge, and it stands in a small town in the Jura.",
+      "ro": "A Christmas stamp from 2018 shows a lit stone bridge over a river at dusk. Two older Swiss stamps show the same bridge, and it stands in a small town in the Jura.",
+      "hu": "A Christmas stamp from 2018 shows a lit stone bridge over a river at dusk. Two older Swiss stamps show the same bridge, and it stands in a small town in the Jura.",
+      "da": "A Christmas stamp from 2018 shows a lit stone bridge over a river at dusk. Two older Swiss stamps show the same bridge, and it stands in a small town in the Jura."
+    },
+    "visual": {
+      "type": "stamp",
+      "stamp": {
+        "name": {
+          "en": "Saint-Ursanne Bridge, Saint-Ursanne",
+          "de": "Brücke Saint-Ursanne, Saint-Ursanne",
+          "fr": "Pont de Saint-Ursanne, Saint-Ursanne",
+          "it": "Ponte di Saint-Ursanne, Saint-Ursanne",
+          "nl": "Saint-Ursanne Bridge, Saint-Ursanne",
+          "pl": "Saint-Ursanne Bridge, Saint-Ursanne",
+          "cs": "Saint-Ursanne Bridge, Saint-Ursanne",
+          "sk": "Saint-Ursanne Bridge, Saint-Ursanne",
+          "ro": "Saint-Ursanne Bridge, Saint-Ursanne",
+          "hu": "Saint-Ursanne Bridge, Saint-Ursanne",
+          "da": "Saint-Ursanne Bridge, Saint-Ursanne"
+        },
+        "year": 2018,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/590343852b1b0e71/su-stamp-2018.png",
+          "width": 1100,
+          "height": 938
+        },
+        "country": "CH",
+        "stamp_id": "SIQ-CH-2018-057"
+      }
+    },
+    "buttons": [],
+    "location": "Saint-Ursanne, Jura, Switzerland"
+  },
+  "blocks": [
+    {
+      "id": "album",
+      "type": "text",
+      "label": {
+        "en": "In your album",
+        "de": "In deinem Album",
+        "fr": "Dans ton album",
+        "it": "Nel tuo album",
+        "nl": "In your album",
+        "pl": "In your album",
+        "cs": "In your album",
+        "sk": "In your album",
+        "ro": "In your album",
+        "hu": "In your album",
+        "da": "In your album"
+      },
+      "title": {
+        "en": "A bridge on Swiss stamps",
+        "de": "Eine Brücke auf Schweizer Marken",
+        "fr": "Un pont sur des timbres suisses",
+        "it": "Un ponte sui francobolli svizzeri",
+        "nl": "A bridge on Swiss stamps",
+        "pl": "A bridge on Swiss stamps",
+        "cs": "A bridge on Swiss stamps",
+        "sk": "A bridge on Swiss stamps",
+        "ro": "A bridge on Swiss stamps",
+        "hu": "A bridge on Swiss stamps",
+        "da": "A bridge on Swiss stamps"
+      },
+      "visual": {
+        "type": "phone",
+        "animation": {
+          "src": "https://assets.stampiq.io/blog/195f0b22dca2f578/day-trip-saint-ursanne-recording.mp4",
+          "width": 960,
+          "height": 2080,
+          "poster": "https://assets.stampiq.io/blog/40324a46a40b8a5b/day-trip-saint-ursanne-recording.jpg"
+        }
+      },
+      "buttons": [],
+      "paragraphs": [
+        {
+          "en": "In your Swiss album you have the Christmas stamps of 2018. The 2-franc value shows a stone bridge over a river in the last light of the day, with snow on the banks and lights along the parapet. A few pages back there is a Pro Patria stamp from 2003 with a stone bridge of four arches, and further back a Europa stamp from 1977 with a small town behind a river.",
+          "de": "In deinem Schweiz-Album hast du die Weihnachtsmarken von 2018. Der Wert zu 2 Franken zeigt eine Steinbrücke über einem Fluss im letzten Tageslicht, mit Schnee an den Ufern und Lichtern entlang der Brüstung. Ein paar Seiten weiter vorn steckt eine Pro-Patria-Marke von 2003 mit einer Steinbrücke mit vier Bögen, und noch weiter vorn eine Europamarke von 1977 mit einem Städtchen hinter einem Fluss.",
+          "fr": "Dans ton album de Suisse, tu as les timbres de Noël de 2018. La valeur à 2 francs montre un pont de pierre au-dessus d'une rivière, dans la dernière lumière du jour, avec de la neige sur les berges et des lumières le long du parapet. Quelques pages plus tôt, tu trouves un timbre Pro Patria de 2003 avec un pont de pierre à quatre arches, et encore avant, un timbre Europa de 1977 qui montre une petite ville de l'autre côté d'une rivière.",
+          "it": "Nel tuo album della Svizzera ci sono i francobolli natalizi del 2018. Sul valore da 2 franchi si vede un ponte di pietra sopra un fiume nell'ultima luce del giorno, con la neve sulle rive e le luci lungo il parapetto. Qualche pagina prima trovi un Pro Patria del 2003 con un ponte di pietra a quattro arcate, e ancora più indietro un Europa del 1977 con una cittadina al di là di un fiume.",
+          "nl": "In your Swiss album you have the Christmas stamps of 2018. The 2-franc value shows a stone bridge over a river in the last light of the day, with snow on the banks and lights along the parapet. A few pages back there is a Pro Patria stamp from 2003 with a stone bridge of four arches, and further back a Europa stamp from 1977 with a small town behind a river.",
+          "pl": "In your Swiss album you have the Christmas stamps of 2018. The 2-franc value shows a stone bridge over a river in the last light of the day, with snow on the banks and lights along the parapet. A few pages back there is a Pro Patria stamp from 2003 with a stone bridge of four arches, and further back a Europa stamp from 1977 with a small town behind a river.",
+          "cs": "In your Swiss album you have the Christmas stamps of 2018. The 2-franc value shows a stone bridge over a river in the last light of the day, with snow on the banks and lights along the parapet. A few pages back there is a Pro Patria stamp from 2003 with a stone bridge of four arches, and further back a Europa stamp from 1977 with a small town behind a river.",
+          "sk": "In your Swiss album you have the Christmas stamps of 2018. The 2-franc value shows a stone bridge over a river in the last light of the day, with snow on the banks and lights along the parapet. A few pages back there is a Pro Patria stamp from 2003 with a stone bridge of four arches, and further back a Europa stamp from 1977 with a small town behind a river.",
+          "ro": "In your Swiss album you have the Christmas stamps of 2018. The 2-franc value shows a stone bridge over a river in the last light of the day, with snow on the banks and lights along the parapet. A few pages back there is a Pro Patria stamp from 2003 with a stone bridge of four arches, and further back a Europa stamp from 1977 with a small town behind a river.",
+          "hu": "In your Swiss album you have the Christmas stamps of 2018. The 2-franc value shows a stone bridge over a river in the last light of the day, with snow on the banks and lights along the parapet. A few pages back there is a Pro Patria stamp from 2003 with a stone bridge of four arches, and further back a Europa stamp from 1977 with a small town behind a river.",
+          "da": "In your Swiss album you have the Christmas stamps of 2018. The 2-franc value shows a stone bridge over a river in the last light of the day, with snow on the banks and lights along the parapet. A few pages back there is a Pro Patria stamp from 2003 with a stone bridge of four arches, and further back a Europa stamp from 1977 with a small town behind a river."
+        },
+        {
+          "en": "In StampIQ you open the 2018 stamp and tap \"Show on map\". The pin lands in the Jura, in the far northwest of Switzerland, on the Doubs. You open the other two, and their pins land in the same small town. All three stamps show the Pont Saint-Jean in Saint-Ursanne.",
+          "de": "In StampIQ öffnest du die Marke von 2018 und tippst auf „Auf Karte anzeigen“. Der Pin erscheint im Jura, ganz im Nordwesten der Schweiz, am Doubs. Dann öffnest du die beiden anderen Marken, und auch ihre Pins erscheinen im selben Städtchen. Alle drei zeigen den Pont Saint-Jean in Saint-Ursanne.",
+          "fr": "Dans StampIQ, tu ouvres le timbre de 2018 et tu touches « Voir sur la carte ». L'épingle se pose dans le Jura, tout au nord-ouest de la Suisse, sur le Doubs. Tu ouvres les deux autres, et leurs épingles tombent dans la même petite ville. Les trois timbres montrent le Pont Saint-Jean, à Saint-Ursanne.",
+          "it": "In StampIQ apri il francobollo del 2018 e tocchi \"Mostra sulla mappa\". Il segnaposto compare nel Giura, all'estremo nord-ovest della Svizzera, sul Doubs. Apri anche gli altri due, e i loro segnaposti cadono nella stessa cittadina. Tutti e tre i francobolli mostrano il Pont Saint-Jean di Saint-Ursanne.",
+          "nl": "In StampIQ you open the 2018 stamp and tap \"Show on map\". The pin lands in the Jura, in the far northwest of Switzerland, on the Doubs. You open the other two, and their pins land in the same small town. All three stamps show the Pont Saint-Jean in Saint-Ursanne.",
+          "pl": "In StampIQ you open the 2018 stamp and tap \"Show on map\". The pin lands in the Jura, in the far northwest of Switzerland, on the Doubs. You open the other two, and their pins land in the same small town. All three stamps show the Pont Saint-Jean in Saint-Ursanne.",
+          "cs": "In StampIQ you open the 2018 stamp and tap \"Show on map\". The pin lands in the Jura, in the far northwest of Switzerland, on the Doubs. You open the other two, and their pins land in the same small town. All three stamps show the Pont Saint-Jean in Saint-Ursanne.",
+          "sk": "In StampIQ you open the 2018 stamp and tap \"Show on map\". The pin lands in the Jura, in the far northwest of Switzerland, on the Doubs. You open the other two, and their pins land in the same small town. All three stamps show the Pont Saint-Jean in Saint-Ursanne.",
+          "ro": "In StampIQ you open the 2018 stamp and tap \"Show on map\". The pin lands in the Jura, in the far northwest of Switzerland, on the Doubs. You open the other two, and their pins land in the same small town. All three stamps show the Pont Saint-Jean in Saint-Ursanne.",
+          "hu": "In StampIQ you open the 2018 stamp and tap \"Show on map\". The pin lands in the Jura, in the far northwest of Switzerland, on the Doubs. You open the other two, and their pins land in the same small town. All three stamps show the Pont Saint-Jean in Saint-Ursanne.",
+          "da": "In StampIQ you open the 2018 stamp and tap \"Show on map\". The pin lands in the Jura, in the far northwest of Switzerland, on the Doubs. You open the other two, and their pins land in the same small town. All three stamps show the Pont Saint-Jean in Saint-Ursanne."
+        }
+      ]
+    },
+    {
+      "id": "stamps",
+      "type": "text",
+      "label": {
+        "en": "The stamps",
+        "de": "Die Marken",
+        "fr": "Les timbres",
+        "it": "I francobolli",
+        "nl": "The stamps",
+        "pl": "The stamps",
+        "cs": "The stamps",
+        "sk": "The stamps",
+        "ro": "The stamps",
+        "hu": "The stamps",
+        "da": "The stamps"
+      },
+      "title": {
+        "en": "Christmas, Pro Patria and Europa",
+        "de": "Weihnachten, Pro Patria und Europa",
+        "fr": "Noël, Pro Patria et Europa",
+        "it": "Natale, Pro Patria ed Europa",
+        "nl": "Christmas, Pro Patria and Europa",
+        "pl": "Christmas, Pro Patria and Europa",
+        "cs": "Christmas, Pro Patria and Europa",
+        "sk": "Christmas, Pro Patria and Europa",
+        "ro": "Christmas, Pro Patria and Europa",
+        "hu": "Christmas, Pro Patria and Europa",
+        "da": "Christmas, Pro Patria and Europa"
+      },
+      "visual": {
+        "type": "stamp",
+        "stamp": {
+          "name": {
+            "en": "Saint-Ursanne, Historic Town View",
+            "de": "Saint-Ursanne, Historische Stadtansicht",
+            "fr": "Saint-Ursanne, Vue de la Ville Historique",
+            "it": "Saint-Ursanne, Vista della Città Storica",
+            "nl": "Saint-Ursanne, Historic Town View",
+            "pl": "Saint-Ursanne, Historic Town View",
+            "cs": "Saint-Ursanne, Historic Town View",
+            "sk": "Saint-Ursanne, Historic Town View",
+            "ro": "Saint-Ursanne, Historic Town View",
+            "hu": "Saint-Ursanne, Historic Town View",
+            "da": "Saint-Ursanne, Historic Town View"
+          },
+          "year": 1977,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/aae201b202a22e7e/su-stamp-1977.png",
+            "width": 1100,
+            "height": 801
+          },
+          "country": "CH",
+          "stamp_id": "SIQ-CH-1977-027"
+        }
+      },
+      "buttons": [],
+      "paragraphs": [
+        {
+          "en": "The 2018 stamp came out of a vote. Swiss Post asked its customers for Christmas themes, and they chose photographs. The Bern photographer Martin Mägli then took four pictures of Swiss buildings in winter, all in the blue hour just before nightfall: the water castle of Bottmingen, the church of Kandersteg, the village of Bedretto and the bridge of Saint-Ursanne. The stamps are self-adhesive with a wavy die-cut edge. In December 2018 the newspaper Le Matin reported that Swiss Post had left the 2-franc value out of its national Christmas brochure, because the brochure was short of space and showed the values that sell best.",
+          "de": "Die Weihnachtsmarken von 2018 gehen auf eine Abstimmung zurück. Die Schweizerische Post fragte ihre Kunden nach Themen für Weihnachten, und die Kunden entschieden sich für Fotografien. Danach fotografierte der Berner Fotograf Martin Mägli vier Schweizer Bauwerke im Winter, alle zur blauen Stunde kurz vor Einbruch der Nacht: das Weiherschloss Bottmingen, die Kirche von Kandersteg, das Dorf Bedretto und die Brücke von Saint-Ursanne. Die Marken sind selbstklebend und haben einen gewellten Stanzrand. Im Dezember 2018 berichtete die Zeitung Le Matin, dass die Post den Wert zu 2 Franken nicht in ihre landesweite Weihnachtsbroschüre aufgenommen hatte. In der Broschüre war wenig Platz, und sie zeigte die Werte, die sich am besten verkaufen.",
+          "fr": "Le timbre de 2018 est né d'un vote. La Poste a demandé à ses clients quels thèmes ils voulaient pour Noël, et ils ont choisi la photographie. Le photographe bernois Martin Mägli a ensuite pris quatre photos de bâtiments suisses en hiver, toutes à l'heure bleue, juste avant la nuit : le château à douves de Bottmingen, l'église de Kandersteg, le village de Bedretto et le pont de Saint-Ursanne. Les timbres sont autocollants, avec une découpe ondulée. En décembre 2018, le journal Le Matin a rapporté que La Poste avait laissé la valeur à 2 francs hors de sa brochure nationale de Noël, parce que la place y manquait et que la brochure montrait les valeurs qui se vendent le mieux.",
+          "it": "Il francobollo del 2018 è nato da una votazione. La Posta ha chiesto ai suoi clienti quali temi volessero per Natale, e i clienti hanno scelto le fotografie. Il fotografo bernese Martin Mägli ha poi scattato quattro immagini di edifici svizzeri d'inverno, tutte nell'ora blu, poco prima del buio: il castello di Bottmingen circondato dall'acqua, la chiesa di Kandersteg, il villaggio di Bedretto e il ponte di Saint-Ursanne. I francobolli sono autoadesivi, con il bordo fustellato a onde. Nel dicembre 2018 il quotidiano Le Matin ha scritto che la Posta aveva lasciato il valore da 2 franchi fuori dal suo opuscolo natalizio nazionale: lo spazio era poco e l'opuscolo presentava i valori più venduti.",
+          "nl": "The 2018 stamp came out of a vote. Swiss Post asked its customers for Christmas themes, and they chose photographs. The Bern photographer Martin Mägli then took four pictures of Swiss buildings in winter, all in the blue hour just before nightfall: the water castle of Bottmingen, the church of Kandersteg, the village of Bedretto and the bridge of Saint-Ursanne. The stamps are self-adhesive with a wavy die-cut edge. In December 2018 the newspaper Le Matin reported that Swiss Post had left the 2-franc value out of its national Christmas brochure, because the brochure was short of space and showed the values that sell best.",
+          "pl": "The 2018 stamp came out of a vote. Swiss Post asked its customers for Christmas themes, and they chose photographs. The Bern photographer Martin Mägli then took four pictures of Swiss buildings in winter, all in the blue hour just before nightfall: the water castle of Bottmingen, the church of Kandersteg, the village of Bedretto and the bridge of Saint-Ursanne. The stamps are self-adhesive with a wavy die-cut edge. In December 2018 the newspaper Le Matin reported that Swiss Post had left the 2-franc value out of its national Christmas brochure, because the brochure was short of space and showed the values that sell best.",
+          "cs": "The 2018 stamp came out of a vote. Swiss Post asked its customers for Christmas themes, and they chose photographs. The Bern photographer Martin Mägli then took four pictures of Swiss buildings in winter, all in the blue hour just before nightfall: the water castle of Bottmingen, the church of Kandersteg, the village of Bedretto and the bridge of Saint-Ursanne. The stamps are self-adhesive with a wavy die-cut edge. In December 2018 the newspaper Le Matin reported that Swiss Post had left the 2-franc value out of its national Christmas brochure, because the brochure was short of space and showed the values that sell best.",
+          "sk": "The 2018 stamp came out of a vote. Swiss Post asked its customers for Christmas themes, and they chose photographs. The Bern photographer Martin Mägli then took four pictures of Swiss buildings in winter, all in the blue hour just before nightfall: the water castle of Bottmingen, the church of Kandersteg, the village of Bedretto and the bridge of Saint-Ursanne. The stamps are self-adhesive with a wavy die-cut edge. In December 2018 the newspaper Le Matin reported that Swiss Post had left the 2-franc value out of its national Christmas brochure, because the brochure was short of space and showed the values that sell best.",
+          "ro": "The 2018 stamp came out of a vote. Swiss Post asked its customers for Christmas themes, and they chose photographs. The Bern photographer Martin Mägli then took four pictures of Swiss buildings in winter, all in the blue hour just before nightfall: the water castle of Bottmingen, the church of Kandersteg, the village of Bedretto and the bridge of Saint-Ursanne. The stamps are self-adhesive with a wavy die-cut edge. In December 2018 the newspaper Le Matin reported that Swiss Post had left the 2-franc value out of its national Christmas brochure, because the brochure was short of space and showed the values that sell best.",
+          "hu": "The 2018 stamp came out of a vote. Swiss Post asked its customers for Christmas themes, and they chose photographs. The Bern photographer Martin Mägli then took four pictures of Swiss buildings in winter, all in the blue hour just before nightfall: the water castle of Bottmingen, the church of Kandersteg, the village of Bedretto and the bridge of Saint-Ursanne. The stamps are self-adhesive with a wavy die-cut edge. In December 2018 the newspaper Le Matin reported that Swiss Post had left the 2-franc value out of its national Christmas brochure, because the brochure was short of space and showed the values that sell best.",
+          "da": "The 2018 stamp came out of a vote. Swiss Post asked its customers for Christmas themes, and they chose photographs. The Bern photographer Martin Mägli then took four pictures of Swiss buildings in winter, all in the blue hour just before nightfall: the water castle of Bottmingen, the church of Kandersteg, the village of Bedretto and the bridge of Saint-Ursanne. The stamps are self-adhesive with a wavy die-cut edge. In December 2018 the newspaper Le Matin reported that Swiss Post had left the 2-franc value out of its national Christmas brochure, because the brochure was short of space and showed the values that sell best."
+        },
+        {
+          "en": "The Pro Patria issue of 8 May 2003 shows four historic bridges drawn by Fluri + Breiter, and its 90+40 c value names the bridge: \"Pont St-Jean, Saint-Ursanne JU\". The 40 c Europa stamp of 2 May 1977 is an engraving of the town seen from the other bank, with the bridge leading into the gate and the church tower above the roofs.",
+          "de": "Die Pro-Patria-Ausgabe vom 8. Mai 2003 zeigt vier historische Brücken, gezeichnet von Fluri + Breiter, und auf dem Wert zu 90+40 Rappen steht der Name der Brücke: „Pont St-Jean, Saint-Ursanne JU“. Die Europamarke zu 40 Rappen vom 2. Mai 1977 ist ein Stich. Sie zeigt das Städtchen vom anderen Ufer aus, mit der Brücke, die ins Tor führt, und dem Kirchturm über den Dächern.",
+          "fr": "L'émission Pro Patria du 8 mai 2003 montre quatre ponts historiques dessinés par Fluri + Breiter, et sa valeur à 90+40 c nomme le pont : « Pont St-Jean, Saint-Ursanne JU ». Le timbre Europa à 40 c du 2 mai 1977 est une gravure de la ville vue depuis l'autre rive. Le pont y mène jusqu'à la porte, et la tour de l'église s'élève au-dessus des toits.",
+          "it": "L'emissione Pro Patria dell'8 maggio 2003 presenta quattro ponti storici disegnati da Fluri + Breiter, e sul valore da 90+40 c il ponte è indicato per nome: \"Pont St-Jean, Saint-Ursanne JU\". Il francobollo Europa da 40 c del 2 maggio 1977 è un'incisione della cittadina vista dall'altra riva: il ponte arriva fino alla porta della città e sopra i tetti si alza il campanile della chiesa.",
+          "nl": "The Pro Patria issue of 8 May 2003 shows four historic bridges drawn by Fluri + Breiter, and its 90+40 c value names the bridge: \"Pont St-Jean, Saint-Ursanne JU\". The 40 c Europa stamp of 2 May 1977 is an engraving of the town seen from the other bank, with the bridge leading into the gate and the church tower above the roofs.",
+          "pl": "The Pro Patria issue of 8 May 2003 shows four historic bridges drawn by Fluri + Breiter, and its 90+40 c value names the bridge: \"Pont St-Jean, Saint-Ursanne JU\". The 40 c Europa stamp of 2 May 1977 is an engraving of the town seen from the other bank, with the bridge leading into the gate and the church tower above the roofs.",
+          "cs": "The Pro Patria issue of 8 May 2003 shows four historic bridges drawn by Fluri + Breiter, and its 90+40 c value names the bridge: \"Pont St-Jean, Saint-Ursanne JU\". The 40 c Europa stamp of 2 May 1977 is an engraving of the town seen from the other bank, with the bridge leading into the gate and the church tower above the roofs.",
+          "sk": "The Pro Patria issue of 8 May 2003 shows four historic bridges drawn by Fluri + Breiter, and its 90+40 c value names the bridge: \"Pont St-Jean, Saint-Ursanne JU\". The 40 c Europa stamp of 2 May 1977 is an engraving of the town seen from the other bank, with the bridge leading into the gate and the church tower above the roofs.",
+          "ro": "The Pro Patria issue of 8 May 2003 shows four historic bridges drawn by Fluri + Breiter, and its 90+40 c value names the bridge: \"Pont St-Jean, Saint-Ursanne JU\". The 40 c Europa stamp of 2 May 1977 is an engraving of the town seen from the other bank, with the bridge leading into the gate and the church tower above the roofs.",
+          "hu": "The Pro Patria issue of 8 May 2003 shows four historic bridges drawn by Fluri + Breiter, and its 90+40 c value names the bridge: \"Pont St-Jean, Saint-Ursanne JU\". The 40 c Europa stamp of 2 May 1977 is an engraving of the town seen from the other bank, with the bridge leading into the gate and the church tower above the roofs.",
+          "da": "The Pro Patria issue of 8 May 2003 shows four historic bridges drawn by Fluri + Breiter, and its 90+40 c value names the bridge: \"Pont St-Jean, Saint-Ursanne JU\". The 40 c Europa stamp of 2 May 1977 is an engraving of the town seen from the other bank, with the bridge leading into the gate and the church tower above the roofs."
+        }
+      ]
+    },
+    {
+      "id": "place",
+      "type": "text",
+      "label": {
+        "en": "The place",
+        "de": "Der Ort",
+        "fr": "Le lieu",
+        "it": "Il luogo",
+        "nl": "The place",
+        "pl": "The place",
+        "cs": "The place",
+        "sk": "The place",
+        "ro": "The place",
+        "hu": "The place",
+        "da": "The place"
+      },
+      "title": {
+        "en": "Across the Pont Saint-Jean",
+        "de": "Über den Pont Saint-Jean",
+        "fr": "La traversée du Pont Saint-Jean",
+        "it": "Sul Pont Saint-Jean",
+        "nl": "Across the Pont Saint-Jean",
+        "pl": "Across the Pont Saint-Jean",
+        "cs": "Across the Pont Saint-Jean",
+        "sk": "Across the Pont Saint-Jean",
+        "ro": "Across the Pont Saint-Jean",
+        "hu": "Across the Pont Saint-Jean",
+        "da": "Across the Pont Saint-Jean"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/87295865de3b192a/su-bridge-october.jpg",
+          "width": 2400,
+          "credit": "Jag9889, CC BY-SA 4.0",
+          "height": 1800,
+          "caption": {
+            "en": "The Pont Saint-Jean in October, with the Porte Saint-Jean at the far end.",
+            "de": "Der Pont Saint-Jean im Oktober, am anderen Ende die Porte Saint-Jean.",
+            "fr": "Le Pont Saint-Jean en octobre, avec la Porte Saint-Jean tout au bout.",
+            "it": "Il Pont Saint-Jean in ottobre, con la Porte Saint-Jean in fondo.",
+            "nl": "The Pont Saint-Jean in October, with the Porte Saint-Jean at the far end.",
+            "pl": "The Pont Saint-Jean in October, with the Porte Saint-Jean at the far end.",
+            "cs": "The Pont Saint-Jean in October, with the Porte Saint-Jean at the far end.",
+            "sk": "The Pont Saint-Jean in October, with the Porte Saint-Jean at the far end.",
+            "ro": "The Pont Saint-Jean in October, with the Porte Saint-Jean at the far end.",
+            "hu": "The Pont Saint-Jean in October, with the Porte Saint-Jean at the far end.",
+            "da": "The Pont Saint-Jean in October, with the Porte Saint-Jean at the far end."
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:St-Jean-Br%C3%BCcke_%C3%BCber_den_Doubs,_St-Ursanne_JU_20231018-jag9889.jpg"
+        }
+      },
+      "buttons": [],
+      "paragraphs": [
+        {
+          "en": "From the station you walk down for about a quarter of an hour, and the road ends at the river. You cross on foot: since a bypass opened in 1994, only people on foot and on bikes use the bridge. A flood of the Doubs had carried away the earlier bridge, and in 1728 the town decided to rebuild it in stone.",
+          "de": "Vom Bahnhof gehst du etwa eine Viertelstunde bergab, bis die Straße am Fluss endet. Über die Brücke gehst du zu Fuß. Seit 1994 gibt es eine Umgehungsstraße, und seitdem nutzen nur noch Fußgänger und Radfahrer die Brücke. Ein Hochwasser des Doubs hatte die frühere Brücke weggerissen, und 1728 beschloss die Stadt, sie aus Stein neu zu bauen.",
+          "fr": "Depuis la gare, tu descends à pied pendant un quart d'heure environ, et la route s'arrête au bord de la rivière. Tu traverses à pied : depuis l'ouverture d'une route de contournement en 1994, seuls les piétons et les cyclistes empruntent le pont. Une crue du Doubs avait emporté l'ancien pont, et en 1728 la ville a décidé de le reconstruire en pierre.",
+          "it": "Dalla stazione scendi a piedi per circa un quarto d'ora, finché la strada arriva al fiume. Il ponte lo attraversi a piedi, perché dal 1994, quando è stata aperta una circonvallazione, lo usano solo pedoni e ciclisti. Una piena del Doubs aveva portato via il ponte precedente, e nel 1728 la città decise di ricostruirlo in pietra.",
+          "nl": "From the station you walk down for about a quarter of an hour, and the road ends at the river. You cross on foot: since a bypass opened in 1994, only people on foot and on bikes use the bridge. A flood of the Doubs had carried away the earlier bridge, and in 1728 the town decided to rebuild it in stone.",
+          "pl": "From the station you walk down for about a quarter of an hour, and the road ends at the river. You cross on foot: since a bypass opened in 1994, only people on foot and on bikes use the bridge. A flood of the Doubs had carried away the earlier bridge, and in 1728 the town decided to rebuild it in stone.",
+          "cs": "From the station you walk down for about a quarter of an hour, and the road ends at the river. You cross on foot: since a bypass opened in 1994, only people on foot and on bikes use the bridge. A flood of the Doubs had carried away the earlier bridge, and in 1728 the town decided to rebuild it in stone.",
+          "sk": "From the station you walk down for about a quarter of an hour, and the road ends at the river. You cross on foot: since a bypass opened in 1994, only people on foot and on bikes use the bridge. A flood of the Doubs had carried away the earlier bridge, and in 1728 the town decided to rebuild it in stone.",
+          "ro": "From the station you walk down for about a quarter of an hour, and the road ends at the river. You cross on foot: since a bypass opened in 1994, only people on foot and on bikes use the bridge. A flood of the Doubs had carried away the earlier bridge, and in 1728 the town decided to rebuild it in stone.",
+          "hu": "From the station you walk down for about a quarter of an hour, and the road ends at the river. You cross on foot: since a bypass opened in 1994, only people on foot and on bikes use the bridge. A flood of the Doubs had carried away the earlier bridge, and in 1728 the town decided to rebuild it in stone.",
+          "da": "From the station you walk down for about a quarter of an hour, and the road ends at the river. You cross on foot: since a bypass opened in 1994, only people on foot and on bikes use the bridge. A flood of the Doubs had carried away the earlier bridge, and in 1728 the town decided to rebuild it in stone."
+        },
+        {
+          "en": "Halfway across, a statue of St John of Nepomuk in red sandstone stands on the parapet. It is a copy, put up in 1973, and the original is in the lapidary museum of the town, so you can see both on the same day. At the end of the bridge you walk through the Porte Saint-Jean, the gate on the 1977 stamp, into the old town.",
+          "de": "In der Mitte steht auf der Brüstung eine Statue des heiligen Johannes Nepomuk aus rotem Sandstein. Sie ist eine Kopie und wurde 1973 aufgestellt. Das Original steht im Lapidarium der Stadt, du kannst also beide am selben Tag sehen. Am Ende der Brücke gehst du durch die Porte Saint-Jean, das Tor auf der Marke von 1977, in die Altstadt.",
+          "fr": "Au milieu du pont, une statue de saint Jean Népomucène en grès rouge se dresse sur le parapet. C'est une copie, installée en 1973. L'original se trouve au Musée lapidaire de la ville, et tu peux donc voir les deux le même jour. Au bout du pont, tu passes sous la Porte Saint-Jean, celle du timbre de 1977, et tu entres dans la vieille ville.",
+          "it": "A metà strada, sul parapetto, c'è una statua di san Giovanni Nepomuceno in arenaria rossa. È una copia collocata nel 1973; l'originale si trova nel museo lapidario della città, così nello stesso giorno puoi vederle tutte e due. In fondo al ponte passi sotto la Porte Saint-Jean, la porta del francobollo del 1977, ed entri nel centro storico.",
+          "nl": "Halfway across, a statue of St John of Nepomuk in red sandstone stands on the parapet. It is a copy, put up in 1973, and the original is in the lapidary museum of the town, so you can see both on the same day. At the end of the bridge you walk through the Porte Saint-Jean, the gate on the 1977 stamp, into the old town.",
+          "pl": "Halfway across, a statue of St John of Nepomuk in red sandstone stands on the parapet. It is a copy, put up in 1973, and the original is in the lapidary museum of the town, so you can see both on the same day. At the end of the bridge you walk through the Porte Saint-Jean, the gate on the 1977 stamp, into the old town.",
+          "cs": "Halfway across, a statue of St John of Nepomuk in red sandstone stands on the parapet. It is a copy, put up in 1973, and the original is in the lapidary museum of the town, so you can see both on the same day. At the end of the bridge you walk through the Porte Saint-Jean, the gate on the 1977 stamp, into the old town.",
+          "sk": "Halfway across, a statue of St John of Nepomuk in red sandstone stands on the parapet. It is a copy, put up in 1973, and the original is in the lapidary museum of the town, so you can see both on the same day. At the end of the bridge you walk through the Porte Saint-Jean, the gate on the 1977 stamp, into the old town.",
+          "ro": "Halfway across, a statue of St John of Nepomuk in red sandstone stands on the parapet. It is a copy, put up in 1973, and the original is in the lapidary museum of the town, so you can see both on the same day. At the end of the bridge you walk through the Porte Saint-Jean, the gate on the 1977 stamp, into the old town.",
+          "hu": "Halfway across, a statue of St John of Nepomuk in red sandstone stands on the parapet. It is a copy, put up in 1973, and the original is in the lapidary museum of the town, so you can see both on the same day. At the end of the bridge you walk through the Porte Saint-Jean, the gate on the 1977 stamp, into the old town.",
+          "da": "Halfway across, a statue of St John of Nepomuk in red sandstone stands on the parapet. It is a copy, put up in 1973, and the original is in the lapidary museum of the town, so you can see both on the same day. At the end of the bridge you walk through the Porte Saint-Jean, the gate on the 1977 stamp, into the old town."
+        },
+        {
+          "en": "If you stay until the light goes, you see the bridge as the 2018 stamp shows it, in the blue hour.",
+          "de": "Wenn du bis zur Dämmerung bleibst, siehst du die Brücke so wie auf der Marke von 2018, in der blauen Stunde.",
+          "fr": "Si tu restes jusqu'à la tombée de la nuit, tu vois le pont comme sur le timbre de 2018, à l'heure bleue.",
+          "it": "Se aspetti che la luce cali, vedi il ponte come lo mostra il francobollo del 2018, nell'ora blu.",
+          "nl": "If you stay until the light goes, you see the bridge as the 2018 stamp shows it, in the blue hour.",
+          "pl": "If you stay until the light goes, you see the bridge as the 2018 stamp shows it, in the blue hour.",
+          "cs": "If you stay until the light goes, you see the bridge as the 2018 stamp shows it, in the blue hour.",
+          "sk": "If you stay until the light goes, you see the bridge as the 2018 stamp shows it, in the blue hour.",
+          "ro": "If you stay until the light goes, you see the bridge as the 2018 stamp shows it, in the blue hour.",
+          "hu": "If you stay until the light goes, you see the bridge as the 2018 stamp shows it, in the blue hour.",
+          "da": "If you stay until the light goes, you see the bridge as the 2018 stamp shows it, in the blue hour."
+        }
+      ]
+    },
+    {
+      "id": "figures",
+      "type": "numbers",
+      "label": {
+        "en": "In figures",
+        "de": "In Zahlen",
+        "fr": "En chiffres",
+        "it": "In cifre",
+        "nl": "In figures",
+        "pl": "In figures",
+        "cs": "In figures",
+        "sk": "In figures",
+        "ro": "In figures",
+        "hu": "In figures",
+        "da": "In figures"
+      },
+      "title": {
+        "en": "The bridge and the town",
+        "de": "Die Brücke und die Stadt",
+        "fr": "Le pont et la ville",
+        "it": "Il ponte e la città",
+        "nl": "The bridge and the town",
+        "pl": "The bridge and the town",
+        "cs": "The bridge and the town",
+        "sk": "The bridge and the town",
+        "ro": "The bridge and the town",
+        "hu": "The bridge and the town",
+        "da": "The bridge and the town"
+      },
+      "numbers": [
+        {
+          "text": {
+            "en": "The town decided in 1728 to rebuild its bridge entirely in stone.",
+            "de": "1728 beschloss die Stadt, ihre Brücke ganz aus Stein neu zu bauen.",
+            "fr": "En 1728, la ville a décidé de reconstruire son pont entièrement en pierre.",
+            "it": "Nel 1728 la città ha deciso di ricostruire il suo ponte tutto in pietra.",
+            "nl": "The town decided in 1728 to rebuild its bridge entirely in stone.",
+            "pl": "The town decided in 1728 to rebuild its bridge entirely in stone.",
+            "cs": "The town decided in 1728 to rebuild its bridge entirely in stone.",
+            "sk": "The town decided in 1728 to rebuild its bridge entirely in stone.",
+            "ro": "The town decided in 1728 to rebuild its bridge entirely in stone.",
+            "hu": "The town decided in 1728 to rebuild its bridge entirely in stone.",
+            "da": "The town decided in 1728 to rebuild its bridge entirely in stone."
+          },
+          "title": {
+            "en": "Stone bridge",
+            "de": "Steinbrücke",
+            "fr": "Pont de pierre",
+            "it": "Ponte in pietra",
+            "nl": "Stone bridge",
+            "pl": "Stone bridge",
+            "cs": "Stone bridge",
+            "sk": "Stone bridge",
+            "ro": "Stone bridge",
+            "hu": "Stone bridge",
+            "da": "Stone bridge"
+          },
+          "value": "1728"
+        },
+        {
+          "text": {
+            "en": "The bridge crosses the Doubs on four stone arches.",
+            "de": "Die Brücke überquert den Doubs auf vier Steinbögen.",
+            "fr": "Le pont franchit le Doubs sur quatre arches de pierre.",
+            "it": "Il ponte attraversa il Doubs su quattro archi di pietra.",
+            "nl": "The bridge crosses the Doubs on four stone arches.",
+            "pl": "The bridge crosses the Doubs on four stone arches.",
+            "cs": "The bridge crosses the Doubs on four stone arches.",
+            "sk": "The bridge crosses the Doubs on four stone arches.",
+            "ro": "The bridge crosses the Doubs on four stone arches.",
+            "hu": "The bridge crosses the Doubs on four stone arches.",
+            "da": "The bridge crosses the Doubs on four stone arches."
+          },
+          "title": {
+            "en": "Arches",
+            "de": "Bögen",
+            "fr": "Arches",
+            "it": "Archi",
+            "nl": "Arches",
+            "pl": "Arches",
+            "cs": "Arches",
+            "sk": "Arches",
+            "ro": "Arches",
+            "hu": "Arches",
+            "da": "Arches"
+          },
+          "value": "4"
+        },
+        {
+          "text": {
+            "en": "Since the bypass opened, only people on foot and on bikes cross the bridge.",
+            "de": "Seit der Eröffnung der Umgehungsstraße überqueren nur noch Fußgänger und Radfahrer die Brücke.",
+            "fr": "Depuis l'ouverture de la route de contournement, seuls les piétons et les cyclistes traversent le pont.",
+            "it": "Da quando c'è la circonvallazione, sul ponte passano solo pedoni e ciclisti.",
+            "nl": "Since the bypass opened, only people on foot and on bikes cross the bridge.",
+            "pl": "Since the bypass opened, only people on foot and on bikes cross the bridge.",
+            "cs": "Since the bypass opened, only people on foot and on bikes cross the bridge.",
+            "sk": "Since the bypass opened, only people on foot and on bikes cross the bridge.",
+            "ro": "Since the bypass opened, only people on foot and on bikes cross the bridge.",
+            "hu": "Since the bypass opened, only people on foot and on bikes cross the bridge.",
+            "da": "Since the bypass opened, only people on foot and on bikes cross the bridge."
+          },
+          "title": {
+            "en": "Closed to cars",
+            "de": "Für Autos gesperrt",
+            "fr": "Fermé aux voitures",
+            "it": "Chiuso alle auto",
+            "nl": "Closed to cars",
+            "pl": "Closed to cars",
+            "cs": "Closed to cars",
+            "sk": "Closed to cars",
+            "ro": "Closed to cars",
+            "hu": "Closed to cars",
+            "da": "Closed to cars"
+          },
+          "value": "1994"
+        },
+        {
+          "text": {
+            "en": "The old town has three gates, and they are the only ways into it.",
+            "de": "Die Altstadt hat drei Tore, und nur durch sie kommst du hinein.",
+            "fr": "La vieille ville a trois portes, et ce sont les seules entrées.",
+            "it": "Il centro storico ha tre porte, e sono gli unici ingressi.",
+            "nl": "The old town has three gates, and they are the only ways into it.",
+            "pl": "The old town has three gates, and they are the only ways into it.",
+            "cs": "The old town has three gates, and they are the only ways into it.",
+            "sk": "The old town has three gates, and they are the only ways into it.",
+            "ro": "The old town has three gates, and they are the only ways into it.",
+            "hu": "The old town has three gates, and they are the only ways into it.",
+            "da": "The old town has three gates, and they are the only ways into it."
+          },
+          "title": {
+            "en": "Gates",
+            "de": "Tore",
+            "fr": "Portes",
+            "it": "Porte",
+            "nl": "Gates",
+            "pl": "Gates",
+            "cs": "Gates",
+            "sk": "Gates",
+            "ro": "Gates",
+            "hu": "Gates",
+            "da": "Gates"
+          },
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "id": "panorama",
+      "type": "wide-photo",
+      "image": {
+        "src": "https://assets.stampiq.io/blog/867a01f07befead2/su-panorama.jpg",
+        "width": 2400,
+        "credit": "Hansueli Krapf, CC BY-SA 4.0",
+        "height": 600,
+        "caption": {
+          "en": "The Porte Saint-Jean and the houses along the Doubs, seen from the bridge.",
+          "de": "Die Porte Saint-Jean und die Häuser am Doubs, von der Brücke aus gesehen.",
+          "fr": "La Porte Saint-Jean et les maisons au bord du Doubs, vues depuis le pont.",
+          "it": "La Porte Saint-Jean e le case lungo il Doubs, viste dal ponte.",
+          "nl": "The Porte Saint-Jean and the houses along the Doubs, seen from the bridge.",
+          "pl": "The Porte Saint-Jean and the houses along the Doubs, seen from the bridge.",
+          "cs": "The Porte Saint-Jean and the houses along the Doubs, seen from the bridge.",
+          "sk": "The Porte Saint-Jean and the houses along the Doubs, seen from the bridge.",
+          "ro": "The Porte Saint-Jean and the houses along the Doubs, seen from the bridge.",
+          "hu": "The Porte Saint-Jean and the houses along the Doubs, seen from the bridge.",
+          "da": "The Porte Saint-Jean and the houses along the Doubs, seen from the bridge."
+        },
+        "source_url": "https://commons.wikimedia.org/wiki/File:2024-07-28_12-05-23_St-Ursanne_Saint-Ursanne_492.1-Pano.jpg"
+      }
+    },
+    {
+      "id": "visit",
+      "type": "text",
+      "label": {
+        "en": "The visit",
+        "de": "Der Besuch",
+        "fr": "La visite",
+        "it": "La visita",
+        "nl": "The visit",
+        "pl": "The visit",
+        "cs": "The visit",
+        "sk": "The visit",
+        "ro": "The visit",
+        "hu": "The visit",
+        "da": "The visit"
+      },
+      "title": {
+        "en": "The town of the hermit",
+        "de": "Die Stadt des Einsiedlers",
+        "fr": "La ville de l'ermite",
+        "it": "La città dell'eremita",
+        "nl": "The town of the hermit",
+        "pl": "The town of the hermit",
+        "cs": "The town of the hermit",
+        "sk": "The town of the hermit",
+        "ro": "The town of the hermit",
+        "hu": "The town of the hermit",
+        "da": "The town of the hermit"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/473ab9866fdd7142/su-south-portal.jpg",
+          "width": 2400,
+          "credit": "Lutz Fischer-Lamprecht, CC BY-SA 4.0",
+          "height": 1600,
+          "caption": {
+            "en": "The south portal of the collegiate church.",
+            "de": "Das Südportal der Stiftskirche.",
+            "fr": "Le portail sud de la collégiale.",
+            "it": "Il portale sud della collegiata.",
+            "nl": "The south portal of the collegiate church.",
+            "pl": "The south portal of the collegiate church.",
+            "cs": "The south portal of the collegiate church.",
+            "sk": "The south portal of the collegiate church.",
+            "ro": "The south portal of the collegiate church.",
+            "hu": "The south portal of the collegiate church.",
+            "da": "The south portal of the collegiate church."
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Saint-Ursanne_Kirche_Suedportal.jpg"
+        }
+      },
+      "buttons": [],
+      "paragraphs": [
+        {
+          "en": "The town is named after Ursicinus, a hermit who lived in a cave above the Doubs in the 7th century. You can climb to it: a gate dated 1688 and some 190 steps lead up to his grotto and a small chapel. A monastery was later founded over his grave, and its church is the collegiate church in the middle of the town. Walk round to its south portal from around 1200 and look up at the carved figures above the door.",
+          "de": "Ihren Namen hat die Stadt von Ursicinus, einem Einsiedler, der im 7. Jahrhundert in einer Höhle über dem Doubs lebte. Du kannst zu ihr hinaufsteigen: Durch ein Tor mit der Jahreszahl 1688 und über rund 190 Stufen kommst du zu seiner Grotte und einer kleinen Kapelle. Über seinem Grab wurde später ein Kloster gegründet, und dessen Kirche ist die Stiftskirche mitten in der Stadt. Geh um sie herum zum Südportal aus der Zeit um 1200 und schau hinauf zu den gemeißelten Figuren über der Tür.",
+          "fr": "La ville doit son nom à Ursicinus, ou Ursanne, un ermite qui vivait au VIIe siècle dans une grotte au-dessus du Doubs. Tu peux y monter : une porte datée de 1688, puis quelque 190 marches, mènent à sa grotte et à une petite chapelle. Plus tard, un monastère a été fondé sur sa tombe, et son église est la collégiale, au centre de la ville. Fais le tour jusqu'à son portail sud, qui date des environs de 1200, et lève les yeux vers les figures sculptées au-dessus de la porte.",
+          "it": "La città prende il nome da Ursicino, un eremita che nel VII secolo viveva in una grotta sopra il Doubs. Ci puoi salire: da una porta datata 1688 partono circa 190 gradini che portano alla sua grotta e a una piccola cappella. Più tardi sulla sua tomba fu fondato un monastero, e la chiesa di quel monastero è la collegiata che sta al centro della città. Fai il giro fino al portale sud, che risale al 1200 circa, e alza lo sguardo sulle figure scolpite sopra l'ingresso.",
+          "nl": "The town is named after Ursicinus, a hermit who lived in a cave above the Doubs in the 7th century. You can climb to it: a gate dated 1688 and some 190 steps lead up to his grotto and a small chapel. A monastery was later founded over his grave, and its church is the collegiate church in the middle of the town. Walk round to its south portal from around 1200 and look up at the carved figures above the door.",
+          "pl": "The town is named after Ursicinus, a hermit who lived in a cave above the Doubs in the 7th century. You can climb to it: a gate dated 1688 and some 190 steps lead up to his grotto and a small chapel. A monastery was later founded over his grave, and its church is the collegiate church in the middle of the town. Walk round to its south portal from around 1200 and look up at the carved figures above the door.",
+          "cs": "The town is named after Ursicinus, a hermit who lived in a cave above the Doubs in the 7th century. You can climb to it: a gate dated 1688 and some 190 steps lead up to his grotto and a small chapel. A monastery was later founded over his grave, and its church is the collegiate church in the middle of the town. Walk round to its south portal from around 1200 and look up at the carved figures above the door.",
+          "sk": "The town is named after Ursicinus, a hermit who lived in a cave above the Doubs in the 7th century. You can climb to it: a gate dated 1688 and some 190 steps lead up to his grotto and a small chapel. A monastery was later founded over his grave, and its church is the collegiate church in the middle of the town. Walk round to its south portal from around 1200 and look up at the carved figures above the door.",
+          "ro": "The town is named after Ursicinus, a hermit who lived in a cave above the Doubs in the 7th century. You can climb to it: a gate dated 1688 and some 190 steps lead up to his grotto and a small chapel. A monastery was later founded over his grave, and its church is the collegiate church in the middle of the town. Walk round to its south portal from around 1200 and look up at the carved figures above the door.",
+          "hu": "The town is named after Ursicinus, a hermit who lived in a cave above the Doubs in the 7th century. You can climb to it: a gate dated 1688 and some 190 steps lead up to his grotto and a small chapel. A monastery was later founded over his grave, and its church is the collegiate church in the middle of the town. Walk round to its south portal from around 1200 and look up at the carved figures above the door.",
+          "da": "The town is named after Ursicinus, a hermit who lived in a cave above the Doubs in the 7th century. You can climb to it: a gate dated 1688 and some 190 steps lead up to his grotto and a small chapel. A monastery was later founded over his grave, and its church is the collegiate church in the middle of the town. Walk round to its south portal from around 1200 and look up at the carved figures above the door."
+        },
+        {
+          "en": "Beside the church is the cloister, with pointed arcades from the 14th century around a green courtyard. One wing holds the lapidary museum, with stone coffins from the Merovingian and Carolingian period, eight stained-glass windows by Kim En Joong from 2024, and the original Nepomuk statue from the bridge. The museum is locked: you ask for the key at the tourist office and pay CHF 3.",
+          "de": "Neben der Kirche liegt der Kreuzgang, mit Spitzbogenarkaden aus dem 14. Jahrhundert rund um einen grünen Innenhof. In einem Flügel ist das Lapidarium untergebracht. Dort stehen Steinsärge aus der Zeit der Merowinger und Karolinger, acht Glasfenster von Kim En Joong aus dem Jahr 2024 und die originale Nepomuk-Statue von der Brücke. Das Museum ist abgeschlossen, den Schlüssel holst du im Tourismusbüro und zahlst CHF 3.",
+          "fr": "À côté de l'église se trouve le cloître, avec ses arcades en arc brisé du XIVe siècle autour d'une cour gazonnée. Une de ses ailes abrite le Musée lapidaire : des sarcophages de pierre des époques mérovingienne et carolingienne, huit vitraux de Kim En Joong datant de 2024 et la statue originale de Népomucène qui se trouvait sur le pont. Le musée est fermé à clé. Tu demandes la clé à l'office du tourisme et tu paies CHF 3.",
+          "it": "Accanto alla chiesa c'è il chiostro, con arcate a sesto acuto del Trecento intorno a un cortile verde. In una delle ali si trova il museo lapidario, con sarcofagi in pietra di epoca merovingia e carolingia, otto vetrate realizzate da Kim En Joong nel 2024 e la statua originale del Nepomuceno che stava sul ponte. Il museo resta chiuso: la chiave la chiedi all'ufficio turistico e paghi CHF 3.",
+          "nl": "Beside the church is the cloister, with pointed arcades from the 14th century around a green courtyard. One wing holds the lapidary museum, with stone coffins from the Merovingian and Carolingian period, eight stained-glass windows by Kim En Joong from 2024, and the original Nepomuk statue from the bridge. The museum is locked: you ask for the key at the tourist office and pay CHF 3.",
+          "pl": "Beside the church is the cloister, with pointed arcades from the 14th century around a green courtyard. One wing holds the lapidary museum, with stone coffins from the Merovingian and Carolingian period, eight stained-glass windows by Kim En Joong from 2024, and the original Nepomuk statue from the bridge. The museum is locked: you ask for the key at the tourist office and pay CHF 3.",
+          "cs": "Beside the church is the cloister, with pointed arcades from the 14th century around a green courtyard. One wing holds the lapidary museum, with stone coffins from the Merovingian and Carolingian period, eight stained-glass windows by Kim En Joong from 2024, and the original Nepomuk statue from the bridge. The museum is locked: you ask for the key at the tourist office and pay CHF 3.",
+          "sk": "Beside the church is the cloister, with pointed arcades from the 14th century around a green courtyard. One wing holds the lapidary museum, with stone coffins from the Merovingian and Carolingian period, eight stained-glass windows by Kim En Joong from 2024, and the original Nepomuk statue from the bridge. The museum is locked: you ask for the key at the tourist office and pay CHF 3.",
+          "ro": "Beside the church is the cloister, with pointed arcades from the 14th century around a green courtyard. One wing holds the lapidary museum, with stone coffins from the Merovingian and Carolingian period, eight stained-glass windows by Kim En Joong from 2024, and the original Nepomuk statue from the bridge. The museum is locked: you ask for the key at the tourist office and pay CHF 3.",
+          "hu": "Beside the church is the cloister, with pointed arcades from the 14th century around a green courtyard. One wing holds the lapidary museum, with stone coffins from the Merovingian and Carolingian period, eight stained-glass windows by Kim En Joong from 2024, and the original Nepomuk statue from the bridge. The museum is locked: you ask for the key at the tourist office and pay CHF 3.",
+          "da": "Beside the church is the cloister, with pointed arcades from the 14th century around a green courtyard. One wing holds the lapidary museum, with stone coffins from the Merovingian and Carolingian period, eight stained-glass windows by Kim En Joong from 2024, and the original Nepomuk statue from the bridge. The museum is locked: you ask for the key at the tourist office and pay CHF 3."
+        }
+      ]
+    },
+    {
+      "id": "practical",
+      "rows": [
+        {
+          "label": {
+            "en": "Tourist office",
+            "de": "Tourismusbüro",
+            "fr": "Office du tourisme",
+            "it": "Ufficio turistico",
+            "nl": "Tourist office",
+            "pl": "Tourist office",
+            "cs": "Tourist office",
+            "sk": "Tourist office",
+            "ro": "Tourist office",
+            "hu": "Tourist office",
+            "da": "Tourist office"
+          },
+          "value": {
+            "en": "Jura Tourisme, Place Roger Schaffter, 2882 St-Ursanne",
+            "de": "Jura Tourisme, Place Roger Schaffter, 2882 St-Ursanne",
+            "fr": "Jura Tourisme, Place Roger Schaffter, 2882 St-Ursanne",
+            "it": "Jura Tourisme, Place Roger Schaffter, 2882 St-Ursanne",
+            "nl": "Jura Tourisme, Place Roger Schaffter, 2882 St-Ursanne",
+            "pl": "Jura Tourisme, Place Roger Schaffter, 2882 St-Ursanne",
+            "cs": "Jura Tourisme, Place Roger Schaffter, 2882 St-Ursanne",
+            "sk": "Jura Tourisme, Place Roger Schaffter, 2882 St-Ursanne",
+            "ro": "Jura Tourisme, Place Roger Schaffter, 2882 St-Ursanne",
+            "hu": "Jura Tourisme, Place Roger Schaffter, 2882 St-Ursanne",
+            "da": "Jura Tourisme, Place Roger Schaffter, 2882 St-Ursanne"
+          }
+        },
+        {
+          "label": {
+            "en": "Open",
+            "de": "Geöffnet",
+            "fr": "Ouverture",
+            "it": "Orari",
+            "nl": "Open",
+            "pl": "Open",
+            "cs": "Open",
+            "sk": "Open",
+            "ro": "Open",
+            "hu": "Open",
+            "da": "Open"
+          },
+          "value": {
+            "en": "30 March to 31 October, Monday to Friday 9:00 to 12:00 and 14:00 to 18:00; Saturday, Sunday and holidays 10:00 to 12:30 and 13:30 to 17:30. Closed from November, except 5 and 6 December.",
+            "de": "30. März bis 31. Oktober: Montag bis Freitag 9:00 bis 12:00 und 14:00 bis 18:00 Uhr, Samstag, Sonntag und Feiertage 10:00 bis 12:30 und 13:30 bis 17:30 Uhr. Ab November geschlossen, außer am 5. und 6. Dezember.",
+            "fr": "Du 30 mars au 31 octobre, du lundi au vendredi de 9 h à 12 h et de 14 h à 18 h ; samedi, dimanche et jours fériés de 10 h à 12 h 30 et de 13 h 30 à 17 h 30. Fermé à partir de novembre, sauf les 5 et 6 décembre.",
+            "it": "dal 30 marzo al 31 ottobre, da lunedì a venerdì 9:00-12:00 e 14:00-18:00; sabato, domenica e festivi 10:00-12:30 e 13:30-17:30. Chiuso da novembre, tranne il 5 e il 6 dicembre.",
+            "nl": "30 March to 31 October, Monday to Friday 9:00 to 12:00 and 14:00 to 18:00; Saturday, Sunday and holidays 10:00 to 12:30 and 13:30 to 17:30. Closed from November, except 5 and 6 December.",
+            "pl": "30 March to 31 October, Monday to Friday 9:00 to 12:00 and 14:00 to 18:00; Saturday, Sunday and holidays 10:00 to 12:30 and 13:30 to 17:30. Closed from November, except 5 and 6 December.",
+            "cs": "30 March to 31 October, Monday to Friday 9:00 to 12:00 and 14:00 to 18:00; Saturday, Sunday and holidays 10:00 to 12:30 and 13:30 to 17:30. Closed from November, except 5 and 6 December.",
+            "sk": "30 March to 31 October, Monday to Friday 9:00 to 12:00 and 14:00 to 18:00; Saturday, Sunday and holidays 10:00 to 12:30 and 13:30 to 17:30. Closed from November, except 5 and 6 December.",
+            "ro": "30 March to 31 October, Monday to Friday 9:00 to 12:00 and 14:00 to 18:00; Saturday, Sunday and holidays 10:00 to 12:30 and 13:30 to 17:30. Closed from November, except 5 and 6 December.",
+            "hu": "30 March to 31 October, Monday to Friday 9:00 to 12:00 and 14:00 to 18:00; Saturday, Sunday and holidays 10:00 to 12:30 and 13:30 to 17:30. Closed from November, except 5 and 6 December.",
+            "da": "30 March to 31 October, Monday to Friday 9:00 to 12:00 and 14:00 to 18:00; Saturday, Sunday and holidays 10:00 to 12:30 and 13:30 to 17:30. Closed from November, except 5 and 6 December."
+          }
+        },
+        {
+          "label": {
+            "en": "Lapidary museum",
+            "de": "Lapidarium",
+            "fr": "Musée lapidaire",
+            "it": "Museo lapidario",
+            "nl": "Lapidary museum",
+            "pl": "Lapidary museum",
+            "cs": "Lapidary museum",
+            "sk": "Lapidary museum",
+            "ro": "Lapidary museum",
+            "hu": "Lapidary museum",
+            "da": "Lapidary museum"
+          },
+          "value": {
+            "en": "CHF 3, key at the tourist office",
+            "de": "CHF 3, Schlüssel im Tourismusbüro",
+            "fr": "CHF 3, clé à l'office du tourisme",
+            "it": "CHF 3, chiave presso l'ufficio turistico",
+            "nl": "CHF 3, key at the tourist office",
+            "pl": "CHF 3, key at the tourist office",
+            "cs": "CHF 3, key at the tourist office",
+            "sk": "CHF 3, key at the tourist office",
+            "ro": "CHF 3, key at the tourist office",
+            "hu": "CHF 3, key at the tourist office",
+            "da": "CHF 3, key at the tourist office"
+          }
+        },
+        {
+          "label": {
+            "en": "Guided tour of the town",
+            "de": "Stadtführung",
+            "fr": "Visite guidée de la ville",
+            "it": "Visita guidata della città",
+            "nl": "Guided tour of the town",
+            "pl": "Guided tour of the town",
+            "cs": "Guided tour of the town",
+            "sk": "Guided tour of the town",
+            "ro": "Guided tour of the town",
+            "hu": "Guided tour of the town",
+            "da": "Guided tour of the town"
+          },
+          "value": {
+            "en": "1 hour, CHF 120 per group, booked in advance, in French, German, English, Italian or Spanish",
+            "de": "1 Stunde, CHF 120 pro Gruppe, mit Voranmeldung, auf Französisch, Deutsch, Englisch, Italienisch oder Spanisch",
+            "fr": "1 heure, CHF 120 par groupe, sur réservation, en français, allemand, anglais, italien ou espagnol",
+            "it": "1 ora, CHF 120 a gruppo, su prenotazione, in francese, tedesco, inglese, italiano o spagnolo",
+            "nl": "1 hour, CHF 120 per group, booked in advance, in French, German, English, Italian or Spanish",
+            "pl": "1 hour, CHF 120 per group, booked in advance, in French, German, English, Italian or Spanish",
+            "cs": "1 hour, CHF 120 per group, booked in advance, in French, German, English, Italian or Spanish",
+            "sk": "1 hour, CHF 120 per group, booked in advance, in French, German, English, Italian or Spanish",
+            "ro": "1 hour, CHF 120 per group, booked in advance, in French, German, English, Italian or Spanish",
+            "hu": "1 hour, CHF 120 per group, booked in advance, in French, German, English, Italian or Spanish",
+            "da": "1 hour, CHF 120 per group, booked in advance, in French, German, English, Italian or Spanish"
+          }
+        },
+        {
+          "label": {
+            "en": "Contact",
+            "de": "Kontakt",
+            "fr": "Contact",
+            "it": "Contatti",
+            "nl": "Contact",
+            "pl": "Contact",
+            "cs": "Contact",
+            "sk": "Contact",
+            "ro": "Contact",
+            "hu": "Contact",
+            "da": "Contact"
+          },
+          "value": {
+            "en": "+41 32 432 41 90",
+            "de": "+41 32 432 41 90",
+            "fr": "+41 32 432 41 90",
+            "it": "+41 32 432 41 90",
+            "nl": "+41 32 432 41 90",
+            "pl": "+41 32 432 41 90",
+            "cs": "+41 32 432 41 90",
+            "sk": "+41 32 432 41 90",
+            "ro": "+41 32 432 41 90",
+            "hu": "+41 32 432 41 90",
+            "da": "+41 32 432 41 90"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "Practical",
+        "de": "Praktisches",
+        "fr": "Pratique",
+        "it": "Informazioni pratiche",
+        "nl": "Practical",
+        "pl": "Practical",
+        "cs": "Practical",
+        "sk": "Practical",
+        "ro": "Practical",
+        "hu": "Practical",
+        "da": "Practical"
+      },
+      "title": {
+        "en": "Opening times and prices",
+        "de": "Öffnungszeiten und Preise",
+        "fr": "Horaires et tarifs",
+        "it": "Orari e prezzi",
+        "nl": "Opening times and prices",
+        "pl": "Opening times and prices",
+        "cs": "Opening times and prices",
+        "sk": "Opening times and prices",
+        "ro": "Opening times and prices",
+        "hu": "Opening times and prices",
+        "da": "Opening times and prices"
+      },
+      "buttons": [
+        {
+          "href": "https://www.j3l.ch/en/Z10869/destinations/cities/st-ursanne",
+          "label": {
+            "en": "Official website",
+            "de": "Offizielle Website",
+            "fr": "Site officiel",
+            "it": "Sito ufficiale",
+            "nl": "Officiële website",
+            "pl": "Oficjalna strona",
+            "cs": "Official website",
+            "sk": "Official website",
+            "ro": "Official website",
+            "hu": "Official website",
+            "da": "Official website"
+          }
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "type": "tiles",
+      "label": {
+        "en": "How to get there",
+        "de": "Anfahrt",
+        "fr": "Comment y aller",
+        "it": "Come arrivare",
+        "nl": "How to get there",
+        "pl": "How to get there",
+        "cs": "How to get there",
+        "sk": "How to get there",
+        "ro": "How to get there",
+        "hu": "How to get there",
+        "da": "How to get there"
+      },
+      "tiles": [
+        {
+          "icon": "train",
+          "text": {
+            "en": "From Basel the train takes 1 hour 5 minutes with a change in Delémont; from Delémont it is 16 minutes, every half hour.",
+            "de": "Ab Basel bist du mit Umsteigen in Delémont 1 Stunde 5 Minuten unterwegs, ab Delémont fährt der Zug jede halbe Stunde und braucht 16 Minuten.",
+            "fr": "Depuis Bâle, le train met 1 h 05 avec un changement à Delémont, et depuis Delémont il faut 16 minutes, avec un départ toutes les demi-heures.",
+            "it": "Da Basilea il treno impiega 1 ora e 5 minuti con cambio a Delémont; da Delémont ci vogliono 16 minuti, con un treno ogni mezz'ora.",
+            "nl": "From Basel the train takes 1 hour 5 minutes with a change in Delémont; from Delémont it is 16 minutes, every half hour.",
+            "pl": "From Basel the train takes 1 hour 5 minutes with a change in Delémont; from Delémont it is 16 minutes, every half hour.",
+            "cs": "From Basel the train takes 1 hour 5 minutes with a change in Delémont; from Delémont it is 16 minutes, every half hour.",
+            "sk": "From Basel the train takes 1 hour 5 minutes with a change in Delémont; from Delémont it is 16 minutes, every half hour.",
+            "ro": "From Basel the train takes 1 hour 5 minutes with a change in Delémont; from Delémont it is 16 minutes, every half hour.",
+            "hu": "From Basel the train takes 1 hour 5 minutes with a change in Delémont; from Delémont it is 16 minutes, every half hour.",
+            "da": "From Basel the train takes 1 hour 5 minutes with a change in Delémont; from Delémont it is 16 minutes, every half hour."
+          },
+          "title": {
+            "en": "By train",
+            "de": "Mit dem Zug",
+            "fr": "En train",
+            "it": "In treno",
+            "nl": "By train",
+            "pl": "By train",
+            "cs": "By train",
+            "sk": "By train",
+            "ro": "By train",
+            "hu": "By train",
+            "da": "By train"
+          }
+        },
+        {
+          "icon": "walk",
+          "text": {
+            "en": "The station lies above the town, and the walk down to the Pont Saint-Jean takes about 16 minutes.",
+            "de": "Der Bahnhof liegt oberhalb der Stadt, und bis hinunter zum Pont Saint-Jean gehst du etwa 16 Minuten.",
+            "fr": "La gare se trouve au-dessus de la ville, et il faut environ 16 minutes pour descendre à pied jusqu'au Pont Saint-Jean.",
+            "it": "La stazione si trova sopra la città, e per scendere a piedi fino al Pont Saint-Jean ci vogliono circa 16 minuti.",
+            "nl": "The station lies above the town, and the walk down to the Pont Saint-Jean takes about 16 minutes.",
+            "pl": "The station lies above the town, and the walk down to the Pont Saint-Jean takes about 16 minutes.",
+            "cs": "The station lies above the town, and the walk down to the Pont Saint-Jean takes about 16 minutes.",
+            "sk": "The station lies above the town, and the walk down to the Pont Saint-Jean takes about 16 minutes.",
+            "ro": "The station lies above the town, and the walk down to the Pont Saint-Jean takes about 16 minutes.",
+            "hu": "The station lies above the town, and the walk down to the Pont Saint-Jean takes about 16 minutes.",
+            "da": "The station lies above the town, and the walk down to the Pont Saint-Jean takes about 16 minutes."
+          },
+          "title": {
+            "en": "On foot",
+            "de": "Zu Fuß",
+            "fr": "À pied",
+            "it": "A piedi",
+            "nl": "On foot",
+            "pl": "On foot",
+            "cs": "On foot",
+            "sk": "On foot",
+            "ro": "On foot",
+            "hu": "On foot",
+            "da": "On foot"
+          }
+        },
+        {
+          "icon": "pin",
+          "text": {
+            "en": "Bus B61 runs a few times a day from the station to the stop Pont St-Jean in 6 minutes.",
+            "de": "Der Bus B61 fährt ein paar Mal am Tag vom Bahnhof in 6 Minuten zur Haltestelle Pont St-Jean.",
+            "fr": "Quelques fois par jour, le bus B61 relie la gare à l'arrêt Pont St-Jean en 6 minutes.",
+            "it": "L'autobus B61 passa alcune volte al giorno e in 6 minuti ti porta dalla stazione alla fermata Pont St-Jean.",
+            "nl": "Bus B61 runs a few times a day from the station to the stop Pont St-Jean in 6 minutes.",
+            "pl": "Bus B61 runs a few times a day from the station to the stop Pont St-Jean in 6 minutes.",
+            "cs": "Bus B61 runs a few times a day from the station to the stop Pont St-Jean in 6 minutes.",
+            "sk": "Bus B61 runs a few times a day from the station to the stop Pont St-Jean in 6 minutes.",
+            "ro": "Bus B61 runs a few times a day from the station to the stop Pont St-Jean in 6 minutes.",
+            "hu": "Bus B61 runs a few times a day from the station to the stop Pont St-Jean in 6 minutes.",
+            "da": "Bus B61 runs a few times a day from the station to the stop Pont St-Jean in 6 minutes."
+          },
+          "title": {
+            "en": "By bus",
+            "de": "Mit dem Bus",
+            "fr": "En bus",
+            "it": "In autobus",
+            "nl": "By bus",
+            "pl": "By bus",
+            "cs": "By bus",
+            "sk": "By bus",
+            "ro": "By bus",
+            "hu": "By bus",
+            "da": "By bus"
+          }
+        },
+        {
+          "icon": "car",
+          "text": {
+            "en": "Take the A16 to the St-Ursanne exit; parking in the old town is limited to 90 minutes, and the first 30 minutes are free.",
+            "de": "Über die A16 bis zur Ausfahrt St-Ursanne; in der Altstadt darfst du höchstens 90 Minuten parken, die ersten 30 Minuten sind kostenlos.",
+            "fr": "Prends l'A16 jusqu'à la sortie St-Ursanne ; dans la vieille ville, le stationnement est limité à 90 minutes, et les 30 premières minutes sont gratuites.",
+            "it": "Prendi l'A16 fino all'uscita St-Ursanne; nel centro storico puoi parcheggiare al massimo 90 minuti, e i primi 30 sono gratuiti.",
+            "nl": "Take the A16 to the St-Ursanne exit; parking in the old town is limited to 90 minutes, and the first 30 minutes are free.",
+            "pl": "Take the A16 to the St-Ursanne exit; parking in the old town is limited to 90 minutes, and the first 30 minutes are free.",
+            "cs": "Take the A16 to the St-Ursanne exit; parking in the old town is limited to 90 minutes, and the first 30 minutes are free.",
+            "sk": "Take the A16 to the St-Ursanne exit; parking in the old town is limited to 90 minutes, and the first 30 minutes are free.",
+            "ro": "Take the A16 to the St-Ursanne exit; parking in the old town is limited to 90 minutes, and the first 30 minutes are free.",
+            "hu": "Take the A16 to the St-Ursanne exit; parking in the old town is limited to 90 minutes, and the first 30 minutes are free.",
+            "da": "Take the A16 to the St-Ursanne exit; parking in the old town is limited to 90 minutes, and the first 30 minutes are free."
+          },
+          "title": {
+            "en": "By car",
+            "de": "Mit dem Auto",
+            "fr": "En voiture",
+            "it": "In auto",
+            "nl": "By car",
+            "pl": "By car",
+            "cs": "By car",
+            "sk": "By car",
+            "ro": "By car",
+            "hu": "By car",
+            "da": "By car"
+          }
+        }
+      ],
+      "title": {
+        "en": "By train from Basel or Delémont",
+        "de": "Mit dem Zug ab Basel oder Delémont",
+        "fr": "En train depuis Bâle ou Delémont",
+        "it": "In treno da Basilea o da Delémont",
+        "nl": "By train from Basel or Delémont",
+        "pl": "By train from Basel or Delémont",
+        "cs": "By train from Basel or Delémont",
+        "sk": "By train from Basel or Delémont",
+        "ro": "By train from Basel or Delémont",
+        "hu": "By train from Basel or Delémont",
+        "da": "By train from Basel or Delémont"
+      }
+    },
+    {
+      "id": "afterwards",
+      "type": "text",
+      "label": {
+        "en": "Afterwards",
+        "de": "Danach",
+        "fr": "Après la visite",
+        "it": "Dopo la visita",
+        "nl": "Afterwards",
+        "pl": "Afterwards",
+        "cs": "Afterwards",
+        "sk": "Afterwards",
+        "ro": "Afterwards",
+        "hu": "Afterwards",
+        "da": "Afterwards"
+      },
+      "title": {
+        "en": "Porrentruy and its castle",
+        "de": "Porrentruy und sein Schloss",
+        "fr": "Porrentruy et son château",
+        "it": "Porrentruy e il suo castello",
+        "nl": "Porrentruy and its castle",
+        "pl": "Porrentruy and its castle",
+        "cs": "Porrentruy and its castle",
+        "sk": "Porrentruy and its castle",
+        "ro": "Porrentruy and its castle",
+        "hu": "Porrentruy and its castle",
+        "da": "Porrentruy and its castle"
+      },
+      "visual": {
+        "type": "stamp",
+        "stamp": {
+          "name": {
+            "en": "Porrentruy Castle, Jura",
+            "de": "Schloss Pruntrut, Jura",
+            "fr": "Château de Porrentruy, Jura",
+            "it": "Castello di Porrentruy, Giura",
+            "nl": "Porrentruy Castle, Jura",
+            "pl": "Porrentruy Castle, Jura",
+            "cs": "Porrentruy Castle, Jura",
+            "sk": "Porrentruy Castle, Jura",
+            "ro": "Porrentruy Castle, Jura",
+            "hu": "Porrentruy Castle, Jura",
+            "da": "Porrentruy Castle, Jura"
+          },
+          "year": 1979,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/6b74bc4fad52711b/su-stamp-porrentruy.png",
+            "width": 1100,
+            "height": 931
+          },
+          "country": "CH",
+          "stamp_id": "SIQ-CH-1979-017"
+        }
+      },
+      "buttons": [],
+      "paragraphs": [
+        {
+          "en": "The train goes on to Porrentruy in 13 minutes. The castle above the old town was the residence of the prince-bishops of Basel. Its oldest part, the Tour Réfous from 1271, is 32 metres high, and you can walk up for the view over the town every day from 8:00 to 18:00. In the Grand-Rue, the Musée de l'Hôtel-Dieu is open Tuesday to Sunday from 14:00 to 17:00, entry CHF 6.",
+          "de": "Mit dem Zug bist du in 13 Minuten in Porrentruy. Das Schloss über der Altstadt war die Residenz der Fürstbischöfe von Basel. Sein ältester Teil, die Tour Réfous von 1271, ist 32 Meter hoch, und du kannst jeden Tag von 8:00 bis 18:00 Uhr hinaufsteigen und über die Stadt schauen. In der Grand-Rue hat das Musée de l'Hôtel-Dieu von Dienstag bis Sonntag 14:00 bis 17:00 Uhr geöffnet, der Eintritt kostet CHF 6.",
+          "fr": "Le train continue jusqu'à Porrentruy en 13 minutes. Le château qui domine la vieille ville était la résidence des princes-évêques de Bâle. Sa partie la plus ancienne, la Tour Réfous, date de 1271 et mesure 32 mètres de haut. Tu peux y monter tous les jours de 8 h à 18 h pour voir la ville d'en haut. Dans la Grand-Rue, le Musée de l'Hôtel-Dieu est ouvert du mardi au dimanche de 14 h à 17 h, et l'entrée coûte CHF 6.",
+          "it": "In 13 minuti il treno prosegue fino a Porrentruy. Il castello sopra il centro storico era la residenza dei principi-vescovi di Basilea. La sua parte più antica, la Tour Réfous del 1271, è alta 32 metri, e tutti i giorni dalle 8:00 alle 18:00 puoi salirci per vedere la città dall'alto. Nella Grand-Rue il Musée de l'Hôtel-Dieu è aperto da martedì a domenica dalle 14:00 alle 17:00, con ingresso a CHF 6.",
+          "nl": "The train goes on to Porrentruy in 13 minutes. The castle above the old town was the residence of the prince-bishops of Basel. Its oldest part, the Tour Réfous from 1271, is 32 metres high, and you can walk up for the view over the town every day from 8:00 to 18:00. In the Grand-Rue, the Musée de l'Hôtel-Dieu is open Tuesday to Sunday from 14:00 to 17:00, entry CHF 6.",
+          "pl": "The train goes on to Porrentruy in 13 minutes. The castle above the old town was the residence of the prince-bishops of Basel. Its oldest part, the Tour Réfous from 1271, is 32 metres high, and you can walk up for the view over the town every day from 8:00 to 18:00. In the Grand-Rue, the Musée de l'Hôtel-Dieu is open Tuesday to Sunday from 14:00 to 17:00, entry CHF 6.",
+          "cs": "The train goes on to Porrentruy in 13 minutes. The castle above the old town was the residence of the prince-bishops of Basel. Its oldest part, the Tour Réfous from 1271, is 32 metres high, and you can walk up for the view over the town every day from 8:00 to 18:00. In the Grand-Rue, the Musée de l'Hôtel-Dieu is open Tuesday to Sunday from 14:00 to 17:00, entry CHF 6.",
+          "sk": "The train goes on to Porrentruy in 13 minutes. The castle above the old town was the residence of the prince-bishops of Basel. Its oldest part, the Tour Réfous from 1271, is 32 metres high, and you can walk up for the view over the town every day from 8:00 to 18:00. In the Grand-Rue, the Musée de l'Hôtel-Dieu is open Tuesday to Sunday from 14:00 to 17:00, entry CHF 6.",
+          "ro": "The train goes on to Porrentruy in 13 minutes. The castle above the old town was the residence of the prince-bishops of Basel. Its oldest part, the Tour Réfous from 1271, is 32 metres high, and you can walk up for the view over the town every day from 8:00 to 18:00. In the Grand-Rue, the Musée de l'Hôtel-Dieu is open Tuesday to Sunday from 14:00 to 17:00, entry CHF 6.",
+          "hu": "The train goes on to Porrentruy in 13 minutes. The castle above the old town was the residence of the prince-bishops of Basel. Its oldest part, the Tour Réfous from 1271, is 32 metres high, and you can walk up for the view over the town every day from 8:00 to 18:00. In the Grand-Rue, the Musée de l'Hôtel-Dieu is open Tuesday to Sunday from 14:00 to 17:00, entry CHF 6.",
+          "da": "The train goes on to Porrentruy in 13 minutes. The castle above the old town was the residence of the prince-bishops of Basel. Its oldest part, the Tour Réfous from 1271, is 32 metres high, and you can walk up for the view over the town every day from 8:00 to 18:00. In the Grand-Rue, the Musée de l'Hôtel-Dieu is open Tuesday to Sunday from 14:00 to 17:00, entry CHF 6."
+        },
+        {
+          "en": "Open the map in StampIQ at Porrentruy and both are there: the castle on the Pro Patria stamp of 1979 and the Hôtel-Dieu on the Pro Patria stamp of 2014. On the way back, the pins show the church of Soubey up the Doubs and the memorial at Les Rangiers, and the badge on each tells you which of them are already in your album.",
+          "de": "Wenn du in Porrentruy die Karte in StampIQ öffnest, findest du beide: das Schloss auf der Pro-Patria-Marke von 1979 und das Hôtel-Dieu auf der Pro-Patria-Marke von 2014. Auf dem Rückweg zeigen dir die Pins die Kirche von Soubey flussaufwärts am Doubs und das Denkmal bei Les Rangiers. Am Abzeichen jeder Marke siehst du, welche davon schon in deinem Album sind.",
+          "fr": "Ouvre la carte de StampIQ sur Porrentruy et tu y trouves les deux : le château sur le timbre Pro Patria de 1979 et l'Hôtel-Dieu sur le timbre Pro Patria de 2014. Sur le chemin du retour, les épingles t'indiquent l'église de Soubey, en amont sur le Doubs, et le monument des Rangiers. Le badge de chaque timbre te dit lesquels sont déjà dans ton album.",
+          "it": "Se apri la Mappa in StampIQ su Porrentruy, li trovi tutti e due: il castello sul francobollo Pro Patria del 1979 e l'Hôtel-Dieu sul Pro Patria del 2014. Sulla via del ritorno i segnaposti indicano la chiesa di Soubey, più a monte lungo il Doubs, e il monumento commemorativo di Les Rangiers. Il badge su ciascuno ti dice quali di questi francobolli hai già nel tuo album.",
+          "nl": "Open the map in StampIQ at Porrentruy and both are there: the castle on the Pro Patria stamp of 1979 and the Hôtel-Dieu on the Pro Patria stamp of 2014. On the way back, the pins show the church of Soubey up the Doubs and the memorial at Les Rangiers, and the badge on each tells you which of them are already in your album.",
+          "pl": "Open the map in StampIQ at Porrentruy and both are there: the castle on the Pro Patria stamp of 1979 and the Hôtel-Dieu on the Pro Patria stamp of 2014. On the way back, the pins show the church of Soubey up the Doubs and the memorial at Les Rangiers, and the badge on each tells you which of them are already in your album.",
+          "cs": "Open the map in StampIQ at Porrentruy and both are there: the castle on the Pro Patria stamp of 1979 and the Hôtel-Dieu on the Pro Patria stamp of 2014. On the way back, the pins show the church of Soubey up the Doubs and the memorial at Les Rangiers, and the badge on each tells you which of them are already in your album.",
+          "sk": "Open the map in StampIQ at Porrentruy and both are there: the castle on the Pro Patria stamp of 1979 and the Hôtel-Dieu on the Pro Patria stamp of 2014. On the way back, the pins show the church of Soubey up the Doubs and the memorial at Les Rangiers, and the badge on each tells you which of them are already in your album.",
+          "ro": "Open the map in StampIQ at Porrentruy and both are there: the castle on the Pro Patria stamp of 1979 and the Hôtel-Dieu on the Pro Patria stamp of 2014. On the way back, the pins show the church of Soubey up the Doubs and the memorial at Les Rangiers, and the badge on each tells you which of them are already in your album.",
+          "hu": "Open the map in StampIQ at Porrentruy and both are there: the castle on the Pro Patria stamp of 1979 and the Hôtel-Dieu on the Pro Patria stamp of 2014. On the way back, the pins show the church of Soubey up the Doubs and the memorial at Les Rangiers, and the badge on each tells you which of them are already in your album.",
+          "da": "Open the map in StampIQ at Porrentruy and both are there: the castle on the Pro Patria stamp of 1979 and the Hôtel-Dieu on the Pro Patria stamp of 2014. On the way back, the pins show the church of Soubey up the Doubs and the memorial at Les Rangiers, and the badge on each tells you which of them are already in your album."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1180 @@
+{
+  "category": "day-trips",
+  "markets": [
+    "NL",
+    "BE",
+    "LU"
+  ],
+  "langs": [
+    "en",
+    "de",
+    "fr",
+    "nl"
+  ],
+  "published_at": "2026-10-23T08:00:00+00:00",
+  "thumbnail": {
+    "src": "https://assets.stampiq.io/blog/b6d6e01c133d01bb/oos-card-barrier.jpg",
+    "width": 2272,
+    "height": 1704
+  },
+  "languages": {
+    "en": {
+      "slug": "day-trip-oosterscheldekering",
+      "title": "Day trip: the Oosterscheldekering and Neeltje Jans",
+      "description": "Two stamps of 1986 say \"DELTAWERKEN VOLTOOID\". How to visit the Oosterschelde barrier, Deltapark Neeltje Jans and the city gate of Zierikzee."
+    },
+    "de": {
+      "slug": "tagesausflug-oosterscheldekering",
+      "title": "Tagesausflug: Oosterscheldekering und Neeltje Jans",
+      "description": "Auf zwei Marken von 1986 steht „DELTAWERKEN VOLTOOID“. So besuchst du das Oosterschelde-Wehr, den Deltapark Neeltje Jans und das Stadttor von Zierikzee."
+    },
+    "fr": {
+      "slug": "excursion-oosterscheldekering",
+      "title": "Excursion : l'Oosterscheldekering et Neeltje Jans",
+      "description": "Deux timbres de 1986 portent « DELTAWERKEN VOLTOOID ». Visiter le barrage de l'Escaut oriental, le Deltapark Neeltje Jans et la porte de Zierikzee."
+    },
+    "it": {
+      "slug": "day-trip-oosterscheldekering",
+      "title": "Day trip: the Oosterscheldekering and Neeltje Jans",
+      "description": "Two stamps of 1986 say \"DELTAWERKEN VOLTOOID\". How to visit the Oosterschelde barrier, Deltapark Neeltje Jans and the city gate of Zierikzee."
+    },
+    "nl": {
+      "slug": "dagtrip-oosterscheldekering",
+      "title": "Dagtrip: de Oosterscheldekering en Neeltje Jans",
+      "description": "Op twee zegels uit 1986 staat „DELTAWERKEN VOLTOOID”. Zo bezoek je de Oosterscheldekering, Deltapark Neeltje Jans en de stadspoort van Zierikzee."
+    },
+    "pl": {
+      "slug": "day-trip-oosterscheldekering",
+      "title": "Day trip: the Oosterscheldekering and Neeltje Jans",
+      "description": "Two stamps of 1986 say \"DELTAWERKEN VOLTOOID\". How to visit the Oosterschelde barrier, Deltapark Neeltje Jans and the city gate of Zierikzee."
+    },
+    "cs": {
+      "slug": "day-trip-oosterscheldekering",
+      "title": "Day trip: the Oosterscheldekering and Neeltje Jans",
+      "description": "Two stamps of 1986 say \"DELTAWERKEN VOLTOOID\". How to visit the Oosterschelde barrier, Deltapark Neeltje Jans and the city gate of Zierikzee."
+    },
+    "sk": {
+      "slug": "day-trip-oosterscheldekering",
+      "title": "Day trip: the Oosterscheldekering and Neeltje Jans",
+      "description": "Two stamps of 1986 say \"DELTAWERKEN VOLTOOID\". How to visit the Oosterschelde barrier, Deltapark Neeltje Jans and the city gate of Zierikzee."
+    },
+    "ro": {
+      "slug": "day-trip-oosterscheldekering",
+      "title": "Day trip: the Oosterscheldekering and Neeltje Jans",
+      "description": "Two stamps of 1986 say \"DELTAWERKEN VOLTOOID\". How to visit the Oosterschelde barrier, Deltapark Neeltje Jans and the city gate of Zierikzee."
+    },
+    "hu": {
+      "slug": "day-trip-oosterscheldekering",
+      "title": "Day trip: the Oosterscheldekering and Neeltje Jans",
+      "description": "Two stamps of 1986 say \"DELTAWERKEN VOLTOOID\". How to visit the Oosterschelde barrier, Deltapark Neeltje Jans and the city gate of Zierikzee."
+    },
+    "da": {
+      "slug": "day-trip-oosterscheldekering",
+      "title": "Day trip: the Oosterscheldekering and Neeltje Jans",
+      "description": "Two stamps of 1986 say \"DELTAWERKEN VOLTOOID\". How to visit the Oosterschelde barrier, Deltapark Neeltje Jans and the city gate of Zierikzee."
+    }
+  },
+  "header": {
+    "lead": {
+      "en": "After the flood of 1953 the Oosterschelde was to be closed off with a dam. Fishermen and a youth club in Yerseke fought the plan until 1974, when the government chose a barrier whose gates stand open.",
+      "de": "Nach der Flut von 1953 sollte die Oosterschelde mit einem Damm geschlossen werden. Fischer und ein Jugendclub in Yerseke kämpften gegen den Plan, bis sich die Regierung 1974 für ein Wehr entschied, dessen Tore offen stehen.",
+      "fr": "Après l'inondation de 1953, l'Escaut oriental devait être fermé par une digue. Les pêcheurs et un club de jeunes de Yerseke s'y sont opposés jusqu'en 1974, l'année où le gouvernement a opté pour un barrage mobile dont les vannes restent ouvertes.",
+      "it": "After the flood of 1953 the Oosterschelde was to be closed off with a dam. Fishermen and a youth club in Yerseke fought the plan until 1974, when the government chose a barrier whose gates stand open.",
+      "nl": "Na de watersnood van 1953 zou de Oosterschelde met een dam worden afgesloten. Vissers en een jeugdsoos in Yerseke voerden tot 1974 actie tegen dat plan, toen de regering koos voor een kering waarvan de schuiven openstaan.",
+      "pl": "After the flood of 1953 the Oosterschelde was to be closed off with a dam. Fishermen and a youth club in Yerseke fought the plan until 1974, when the government chose a barrier whose gates stand open.",
+      "cs": "After the flood of 1953 the Oosterschelde was to be closed off with a dam. Fishermen and a youth club in Yerseke fought the plan until 1974, when the government chose a barrier whose gates stand open.",
+      "sk": "After the flood of 1953 the Oosterschelde was to be closed off with a dam. Fishermen and a youth club in Yerseke fought the plan until 1974, when the government chose a barrier whose gates stand open.",
+      "ro": "After the flood of 1953 the Oosterschelde was to be closed off with a dam. Fishermen and a youth club in Yerseke fought the plan until 1974, when the government chose a barrier whose gates stand open.",
+      "hu": "After the flood of 1953 the Oosterschelde was to be closed off with a dam. Fishermen and a youth club in Yerseke fought the plan until 1974, when the government chose a barrier whose gates stand open.",
+      "da": "After the flood of 1953 the Oosterschelde was to be closed off with a dam. Fishermen and a youth club in Yerseke fought the plan until 1974, when the government chose a barrier whose gates stand open."
+    },
+    "visual": {
+      "type": "stamp",
+      "stamp": {
+        "name": {
+          "en": "Delta Works, Completion, Netherlands",
+          "de": "Deltawerke, Vollendung, Niederlande",
+          "fr": "Plan Delta, achèvement, Pays-Bas",
+          "it": "Delta Works, Completion, Netherlands",
+          "nl": "Deltawerken, voltooiing, Nederland",
+          "pl": "Delta Works, Completion, Netherlands",
+          "cs": "Delta Works, Completion, Netherlands",
+          "sk": "Delta Works, Completion, Netherlands",
+          "ro": "Delta Works, Completion, Netherlands",
+          "hu": "Delta Works, Completion, Netherlands",
+          "da": "Delta Works, Completion, Netherlands"
+        },
+        "year": 1986,
+        "image": {
+          "src": "https://assets.stampiq.io/blog/d2c208eb25e2d351/oos-stamp-nl_1362.png",
+          "width": 1100,
+          "height": 770
+        },
+        "country": "NL",
+        "stamp_id": "SIQ-NL-1986-021"
+      }
+    },
+    "location": "Neeltje Jans, Zeeland, Netherlands"
+  },
+  "blocks": [
+    {
+      "id": "map",
+      "type": "text",
+      "label": {
+        "en": "In your album",
+        "de": "In deinem Album",
+        "fr": "Dans ton album",
+        "it": "In your album",
+        "nl": "In je album",
+        "pl": "In your album",
+        "cs": "In your album",
+        "sk": "In your album",
+        "ro": "In your album",
+        "hu": "In your album",
+        "da": "In your album"
+      },
+      "title": {
+        "en": "A map of open water",
+        "de": "Eine Karte mit offenem Wasser",
+        "fr": "Une carte où l'eau reste libre",
+        "it": "A map of open water",
+        "nl": "Een kaart met open water",
+        "pl": "A map of open water",
+        "cs": "A map of open water",
+        "sk": "A map of open water",
+        "ro": "A map of open water",
+        "hu": "A map of open water",
+        "da": "A map of open water"
+      },
+      "visual": {
+        "type": "phone",
+        "animation": {
+          "src": "https://assets.stampiq.io/blog/aff16eec4d19433e/oosterscheldekering.mp4",
+          "width": 960,
+          "height": 2080,
+          "poster": "https://assets.stampiq.io/blog/91910b6d3cf67062/oosterscheldekering.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "Perhaps the two Dutch Delta Works stamps of 1986 are in your album, or you are spending a few days in Zeeland. The 65 c shows a rough sea on its left half and a map on its right. On the map a light green line crosses the mouth of the Oosterschelde. Behind it, the sea arm is drawn as calm blue waves.",
+          "de": "Vielleicht liegen die beiden niederländischen Deltawerke-Marken von 1986 in deinem Album, oder du verbringst ein paar Tage in Zeeland. Die 65 c zeigt auf der linken Hälfte eine raue See, auf der rechten eine Karte. Über die Mündung der Oosterschelde zieht sich dort eine hellgrüne Linie. Dahinter ist der Meeresarm als ruhige blaue Wellen gezeichnet.",
+          "fr": "Peut-être as-tu dans ton album les deux timbres néerlandais de 1986 consacrés au plan Delta, ou peut-être passes-tu quelques jours en Zélande. Le 65 c montre une mer agitée dans sa moitié gauche et une carte dans sa moitié droite. Sur la carte, une ligne vert clair traverse l'embouchure de l'Escaut oriental. Derrière elle, le bras de mer est dessiné en vagues bleues et calmes.",
+          "it": "Perhaps the two Dutch Delta Works stamps of 1986 are in your album, or you are spending a few days in Zeeland. The 65 c shows a rough sea on its left half and a map on its right. On the map a light green line crosses the mouth of the Oosterschelde. Behind it, the sea arm is drawn as calm blue waves.",
+          "nl": "Misschien zitten de twee Nederlandse zegels over de Deltawerken van 1986 in je album, of breng je een paar dagen in Zeeland door. Op de 65 c staat links een ruwe zee en rechts een kaart. Over de monding van de Oosterschelde loopt een lichtgroene lijn. Daarachter is de zeearm getekend als rustige blauwe golven.",
+          "pl": "Perhaps the two Dutch Delta Works stamps of 1986 are in your album, or you are spending a few days in Zeeland. The 65 c shows a rough sea on its left half and a map on its right. On the map a light green line crosses the mouth of the Oosterschelde. Behind it, the sea arm is drawn as calm blue waves.",
+          "cs": "Perhaps the two Dutch Delta Works stamps of 1986 are in your album, or you are spending a few days in Zeeland. The 65 c shows a rough sea on its left half and a map on its right. On the map a light green line crosses the mouth of the Oosterschelde. Behind it, the sea arm is drawn as calm blue waves.",
+          "sk": "Perhaps the two Dutch Delta Works stamps of 1986 are in your album, or you are spending a few days in Zeeland. The 65 c shows a rough sea on its left half and a map on its right. On the map a light green line crosses the mouth of the Oosterschelde. Behind it, the sea arm is drawn as calm blue waves.",
+          "ro": "Perhaps the two Dutch Delta Works stamps of 1986 are in your album, or you are spending a few days in Zeeland. The 65 c shows a rough sea on its left half and a map on its right. On the map a light green line crosses the mouth of the Oosterschelde. Behind it, the sea arm is drawn as calm blue waves.",
+          "hu": "Perhaps the two Dutch Delta Works stamps of 1986 are in your album, or you are spending a few days in Zeeland. The 65 c shows a rough sea on its left half and a map on its right. On the map a light green line crosses the mouth of the Oosterschelde. Behind it, the sea arm is drawn as calm blue waves.",
+          "da": "Perhaps the two Dutch Delta Works stamps of 1986 are in your album, or you are spending a few days in Zeeland. The 65 c shows a rough sea on its left half and a map on its right. On the map a light green line crosses the mouth of the Oosterschelde. Behind it, the sea arm is drawn as calm blue waves."
+        },
+        {
+          "en": "After 1953 the plan was a closed dam at this spot. Why did the water behind the line stay open?",
+          "de": "Nach 1953 war an dieser Stelle ein geschlossener Damm geplant. Warum blieb das Wasser hinter der Linie offen?",
+          "fr": "Après 1953, le projet prévoyait une digue fermée à cet endroit. Pourquoi l'eau derrière la ligne est-elle restée libre ?",
+          "it": "After 1953 the plan was a closed dam at this spot. Why did the water behind the line stay open?",
+          "nl": "Na 1953 stond op deze plek een gesloten dam gepland. Waarom bleef het water achter die lijn open?",
+          "pl": "After 1953 the plan was a closed dam at this spot. Why did the water behind the line stay open?",
+          "cs": "After 1953 the plan was a closed dam at this spot. Why did the water behind the line stay open?",
+          "sk": "After 1953 the plan was a closed dam at this spot. Why did the water behind the line stay open?",
+          "ro": "After 1953 the plan was a closed dam at this spot. Why did the water behind the line stay open?",
+          "hu": "After 1953 the plan was a closed dam at this spot. Why did the water behind the line stay open?",
+          "da": "After 1953 the plan was a closed dam at this spot. Why did the water behind the line stay open?"
+        },
+        {
+          "en": "On the StampIQ map, zoom from the Netherlands into Zeeland. A single pin stands on the barrier. It holds eight stamps. The carousel opens at \"1 of 8\". They run from a 1962 landscape stamp with dredgers on new land to the Postcrossing stamp of 2016 with its row of pillars. Swipe through all eight and stop on the 75 c of 1986, the second stamp of the pair.",
+          "de": "Zoome auf der StampIQ-Karte von den Niederlanden nach Zeeland hinein. Auf dem Wehr steht ein einzelner Pin. Er enthält acht Briefmarken. Das Karussell beginnt bei „1 von 8“. Die Marken reichen von einer Landschaftsmarke von 1962 mit Baggern auf neuem Land bis zur Postcrossing-Marke von 2016 mit ihrer Pfeilerreihe. Wische durch alle acht und bleib bei der 75 c von 1986 stehen, der zweiten Marke des Paars.",
+          "fr": "Sur la carte de StampIQ, zoome des Pays-Bas vers la Zélande. Une seule épingle se trouve sur le barrage. Elle regroupe huit timbres, d'un timbre paysage de 1962, avec des dragues sur de nouvelles terres, jusqu'au timbre Postcrossing de 2016 et sa rangée de piliers. Le carrousel s'ouvre sur « 1 sur 8 ». Fais défiler les huit et arrête-toi sur le 75 c de 1986, le second timbre de la paire.",
+          "it": "On the StampIQ map, zoom from the Netherlands into Zeeland. A single pin stands on the barrier. It holds eight stamps. The carousel opens at \"1 of 8\". They run from a 1962 landscape stamp with dredgers on new land to the Postcrossing stamp of 2016 with its row of pillars. Swipe through all eight and stop on the 75 c of 1986, the second stamp of the pair.",
+          "nl": "Op de Kaart in StampIQ zoom je vanuit Nederland in op Zeeland. Op de kering staat één pin. Daaronder zitten acht postzegels. De carrousel opent op „1 van 8”. Ze lopen van een landschapszegel uit 1962 met baggermolens op nieuw land tot de Postcrossing-zegel van 2016 met de rij pijlers. Swipe langs alle acht en stop bij de 75 c van 1986, de tweede zegel van het paar.",
+          "pl": "On the StampIQ map, zoom from the Netherlands into Zeeland. A single pin stands on the barrier. It holds eight stamps. The carousel opens at \"1 of 8\". They run from a 1962 landscape stamp with dredgers on new land to the Postcrossing stamp of 2016 with its row of pillars. Swipe through all eight and stop on the 75 c of 1986, the second stamp of the pair.",
+          "cs": "On the StampIQ map, zoom from the Netherlands into Zeeland. A single pin stands on the barrier. It holds eight stamps. The carousel opens at \"1 of 8\". They run from a 1962 landscape stamp with dredgers on new land to the Postcrossing stamp of 2016 with its row of pillars. Swipe through all eight and stop on the 75 c of 1986, the second stamp of the pair.",
+          "sk": "On the StampIQ map, zoom from the Netherlands into Zeeland. A single pin stands on the barrier. It holds eight stamps. The carousel opens at \"1 of 8\". They run from a 1962 landscape stamp with dredgers on new land to the Postcrossing stamp of 2016 with its row of pillars. Swipe through all eight and stop on the 75 c of 1986, the second stamp of the pair.",
+          "ro": "On the StampIQ map, zoom from the Netherlands into Zeeland. A single pin stands on the barrier. It holds eight stamps. The carousel opens at \"1 of 8\". They run from a 1962 landscape stamp with dredgers on new land to the Postcrossing stamp of 2016 with its row of pillars. Swipe through all eight and stop on the 75 c of 1986, the second stamp of the pair.",
+          "hu": "On the StampIQ map, zoom from the Netherlands into Zeeland. A single pin stands on the barrier. It holds eight stamps. The carousel opens at \"1 of 8\". They run from a 1962 landscape stamp with dredgers on new land to the Postcrossing stamp of 2016 with its row of pillars. Swipe through all eight and stop on the 75 c of 1986, the second stamp of the pair.",
+          "da": "On the StampIQ map, zoom from the Netherlands into Zeeland. A single pin stands on the barrier. It holds eight stamps. The carousel opens at \"1 of 8\". They run from a 1962 landscape stamp with dredgers on new land to the Postcrossing stamp of 2016 with its row of pillars. Swipe through all eight and stop on the 75 c of 1986, the second stamp of the pair."
+        }
+      ]
+    },
+    {
+      "id": "stamps",
+      "type": "text",
+      "label": {
+        "en": "The protest",
+        "de": "Der Protest",
+        "fr": "La contestation",
+        "it": "The protest",
+        "nl": "Het protest",
+        "pl": "The protest",
+        "cs": "The protest",
+        "sk": "The protest",
+        "ro": "The protest",
+        "hu": "The protest",
+        "da": "The protest"
+      },
+      "title": {
+        "en": "Fishermen against the dam",
+        "de": "Fischer gegen den Damm",
+        "fr": "Les pêcheurs contre la digue",
+        "it": "Fishermen against the dam",
+        "nl": "Vissers tegen de dam",
+        "pl": "Fishermen against the dam",
+        "cs": "Fishermen against the dam",
+        "sk": "Fishermen against the dam",
+        "ro": "Fishermen against the dam",
+        "hu": "Fishermen against the dam",
+        "da": "Fishermen against the dam"
+      },
+      "visual": {
+        "type": "stamp",
+        "stamp": {
+          "name": {
+            "en": "Delta Works, Storm Surge Barrier Plan",
+            "de": "Deltawerke, Plan des Sturmflutwehrs",
+            "fr": "Plan Delta, projet de barrage anti-tempête",
+            "it": "Delta Works, Storm Surge Barrier Plan",
+            "nl": "Deltawerken, plan stormvloedkering",
+            "pl": "Delta Works, Storm Surge Barrier Plan",
+            "cs": "Delta Works, Storm Surge Barrier Plan",
+            "sk": "Delta Works, Storm Surge Barrier Plan",
+            "ro": "Delta Works, Storm Surge Barrier Plan",
+            "hu": "Delta Works, Storm Surge Barrier Plan",
+            "da": "Delta Works, Storm Surge Barrier Plan"
+          },
+          "year": 1986,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/6ba597f467511c8f/oos-stamp-nl_1361.png",
+            "width": 1100,
+            "height": 777
+          },
+          "country": "NL",
+          "stamp_id": "SIQ-NL-1986-020"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "In the flood of the night of 31 January 1953, 1,836 people drowned. The first protest against closing the Oosterschelde came on 13 June 1953, from the fishermen's association Helpt Elkander in Zierikzee. At the fleet review of 1964 a banner read \"Geef ons geen Oosterschelde dam, het gaat om des vissers boterham\" (Give us no Oosterschelde dam, the fisherman's living is at stake). The fisheries biologist Bram Drinkwaard asked the cameraman to film it. The cameraman refused, because that would be advertising.",
+          "de": "In der Flutnacht vom 31. Januar 1953 ertranken 1.836 Menschen. Der erste Protest gegen die Schließung der Oosterschelde kam am 13. Juni 1953 vom Fischereiverband Helpt Elkander in Zierikzee. Bei der Flottenparade 1964 stand auf einem Transparent „Geef ons geen Oosterschelde dam, het gaat om des vissers boterham“ (Gebt uns keinen Oosterschelde-Damm, es geht um das Brot des Fischers). Der Fischereibiologe Bram Drinkwaard bat den Kameramann, das zu filmen. Der Kameramann lehnte ab, weil das Werbung gewesen wäre.",
+          "fr": "Lors de l'inondation de la nuit du 31 janvier 1953, 1 836 personnes se sont noyées. La première protestation contre la fermeture de l'Escaut oriental date du 13 juin 1953 et vient de l'association de pêcheurs Helpt Elkander, à Zierikzee. À la revue navale de 1964, une banderole proclamait « Geef ons geen Oosterschelde dam, het gaat om des vissers boterham » (Pas de digue sur l'Escaut oriental, c'est le gagne-pain du pêcheur qui est en jeu). Le biologiste des pêches Bram Drinkwaard a demandé au caméraman de la filmer. Celui-ci a refusé : cela aurait été de la publicité.",
+          "it": "In the flood of the night of 31 January 1953, 1,836 people drowned. The first protest against closing the Oosterschelde came on 13 June 1953, from the fishermen's association Helpt Elkander in Zierikzee. At the fleet review of 1964 a banner read \"Geef ons geen Oosterschelde dam, het gaat om des vissers boterham\" (Give us no Oosterschelde dam, the fisherman's living is at stake). The fisheries biologist Bram Drinkwaard asked the cameraman to film it. The cameraman refused, because that would be advertising.",
+          "nl": "Bij de watersnood in de nacht van 31 januari 1953 verdronken 1.836 mensen. Het eerste protest tegen het afsluiten van de Oosterschelde kwam op 13 juni 1953 van de vissersvereniging Helpt Elkander in Zierikzee. Bij de vlootschouw van 1964 hing er een spandoek met „Geef ons geen Oosterschelde dam, het gaat om des vissers boterham”. Visserijbioloog Bram Drinkwaard vroeg de cameraman om het te filmen. Die weigerde, want dat zou reclame zijn.",
+          "pl": "In the flood of the night of 31 January 1953, 1,836 people drowned. The first protest against closing the Oosterschelde came on 13 June 1953, from the fishermen's association Helpt Elkander in Zierikzee. At the fleet review of 1964 a banner read \"Geef ons geen Oosterschelde dam, het gaat om des vissers boterham\" (Give us no Oosterschelde dam, the fisherman's living is at stake). The fisheries biologist Bram Drinkwaard asked the cameraman to film it. The cameraman refused, because that would be advertising.",
+          "cs": "In the flood of the night of 31 January 1953, 1,836 people drowned. The first protest against closing the Oosterschelde came on 13 June 1953, from the fishermen's association Helpt Elkander in Zierikzee. At the fleet review of 1964 a banner read \"Geef ons geen Oosterschelde dam, het gaat om des vissers boterham\" (Give us no Oosterschelde dam, the fisherman's living is at stake). The fisheries biologist Bram Drinkwaard asked the cameraman to film it. The cameraman refused, because that would be advertising.",
+          "sk": "In the flood of the night of 31 January 1953, 1,836 people drowned. The first protest against closing the Oosterschelde came on 13 June 1953, from the fishermen's association Helpt Elkander in Zierikzee. At the fleet review of 1964 a banner read \"Geef ons geen Oosterschelde dam, het gaat om des vissers boterham\" (Give us no Oosterschelde dam, the fisherman's living is at stake). The fisheries biologist Bram Drinkwaard asked the cameraman to film it. The cameraman refused, because that would be advertising.",
+          "ro": "In the flood of the night of 31 January 1953, 1,836 people drowned. The first protest against closing the Oosterschelde came on 13 June 1953, from the fishermen's association Helpt Elkander in Zierikzee. At the fleet review of 1964 a banner read \"Geef ons geen Oosterschelde dam, het gaat om des vissers boterham\" (Give us no Oosterschelde dam, the fisherman's living is at stake). The fisheries biologist Bram Drinkwaard asked the cameraman to film it. The cameraman refused, because that would be advertising.",
+          "hu": "In the flood of the night of 31 January 1953, 1,836 people drowned. The first protest against closing the Oosterschelde came on 13 June 1953, from the fishermen's association Helpt Elkander in Zierikzee. At the fleet review of 1964 a banner read \"Geef ons geen Oosterschelde dam, het gaat om des vissers boterham\" (Give us no Oosterschelde dam, the fisherman's living is at stake). The fisheries biologist Bram Drinkwaard asked the cameraman to film it. The cameraman refused, because that would be advertising.",
+          "da": "In the flood of the night of 31 January 1953, 1,836 people drowned. The first protest against closing the Oosterschelde came on 13 June 1953, from the fishermen's association Helpt Elkander in Zierikzee. At the fleet review of 1964 a banner read \"Geef ons geen Oosterschelde dam, het gaat om des vissers boterham\" (Give us no Oosterschelde dam, the fisherman's living is at stake). The fisheries biologist Bram Drinkwaard asked the cameraman to film it. The cameraman refused, because that would be advertising."
+        },
+        {
+          "en": "Work on the dam began in 1967 with work islands in the water. In a youth club in Yerseke, young people planned a protest around 1970 for a minister's visit to Middelburg, with stickers and slogans painted on a wall. The papers called the action a failure. The Aktiegroep Oosterschelde Open started with it. Mussel fishermen, shopkeepers, journalists and pupils joined the group. One of its stickers read \"Waterstaatstechnocraten moeten de Oosterschelde open laten\" (The water engineers must leave the Oosterschelde open). The group had no board. A print shop served as its office. By 1973 five kilometres of the dam lay in the Oosterschelde.",
+          "de": "Die Arbeiten am Damm begannen 1967 mit Arbeitsinseln im Wasser. In einem Jugendclub in Yerseke planten Jugendliche um 1970 einen Protest zum Besuch eines Ministers in Middelburg, mit Aufklebern und auf eine Wand gemalten Parolen. Die Zeitungen nannten die Aktion einen Fehlschlag. So entstand die Aktiegroep Oosterschelde Open. Muschelfischer, Ladenbesitzer, Journalisten und Schüler schlossen sich der Gruppe an. Auf einem ihrer Aufkleber stand „Waterstaatstechnocraten moeten de Oosterschelde open laten“ (Die Technokraten der Wasserbaubehörde müssen die Oosterschelde offen lassen). Die Gruppe hatte keinen Vorstand. Eine Druckerei diente als Büro. 1973 lagen fünf Kilometer des Damms in der Oosterschelde.",
+          "fr": "Les travaux de la digue ont commencé en 1967 avec des îles de chantier dans l'eau. Dans un club de jeunes de Yerseke, des jeunes ont préparé vers 1970 une action pour la visite d'un ministre à Middelbourg, avec des autocollants et des slogans peints sur un mur. Les journaux ont qualifié l'action d'échec. C'est ainsi qu'est né l'Aktiegroep Oosterschelde Open. Des pêcheurs de moules, des commerçants, des journalistes et des élèves ont rejoint le groupe. Un de ses autocollants disait « Waterstaatstechnocraten moeten de Oosterschelde open laten » (Les ingénieurs des eaux doivent laisser l'Escaut oriental ouvert). Le groupe n'avait pas de comité directeur. Une imprimerie lui servait de bureau. En 1973, cinq kilomètres de digue étaient posés dans l'Escaut oriental.",
+          "it": "Work on the dam began in 1967 with work islands in the water. In a youth club in Yerseke, young people planned a protest around 1970 for a minister's visit to Middelburg, with stickers and slogans painted on a wall. The papers called the action a failure. The Aktiegroep Oosterschelde Open started with it. Mussel fishermen, shopkeepers, journalists and pupils joined the group. One of its stickers read \"Waterstaatstechnocraten moeten de Oosterschelde open laten\" (The water engineers must leave the Oosterschelde open). The group had no board. A print shop served as its office. By 1973 five kilometres of the dam lay in the Oosterschelde.",
+          "nl": "In 1967 begon het werk aan de dam met werkeilanden in het water. In een jeugdsoos in Yerseke bedachten jongeren rond 1970 een protest voor een ministersbezoek aan Middelburg, met stickers en op een muur geschilderde leuzen. De kranten noemden de actie mislukt. Daarmee begon de Aktiegroep Oosterschelde Open. Mosselvissers, winkeliers, journalisten en scholieren sloten zich aan. Op een van de stickers stond „Waterstaatstechnocraten moeten de Oosterschelde open laten”. De groep had geen bestuur. Een drukkerij deed dienst als kantoor. In 1973 lag er vijf kilometer dam in de Oosterschelde.",
+          "pl": "Work on the dam began in 1967 with work islands in the water. In a youth club in Yerseke, young people planned a protest around 1970 for a minister's visit to Middelburg, with stickers and slogans painted on a wall. The papers called the action a failure. The Aktiegroep Oosterschelde Open started with it. Mussel fishermen, shopkeepers, journalists and pupils joined the group. One of its stickers read \"Waterstaatstechnocraten moeten de Oosterschelde open laten\" (The water engineers must leave the Oosterschelde open). The group had no board. A print shop served as its office. By 1973 five kilometres of the dam lay in the Oosterschelde.",
+          "cs": "Work on the dam began in 1967 with work islands in the water. In a youth club in Yerseke, young people planned a protest around 1970 for a minister's visit to Middelburg, with stickers and slogans painted on a wall. The papers called the action a failure. The Aktiegroep Oosterschelde Open started with it. Mussel fishermen, shopkeepers, journalists and pupils joined the group. One of its stickers read \"Waterstaatstechnocraten moeten de Oosterschelde open laten\" (The water engineers must leave the Oosterschelde open). The group had no board. A print shop served as its office. By 1973 five kilometres of the dam lay in the Oosterschelde.",
+          "sk": "Work on the dam began in 1967 with work islands in the water. In a youth club in Yerseke, young people planned a protest around 1970 for a minister's visit to Middelburg, with stickers and slogans painted on a wall. The papers called the action a failure. The Aktiegroep Oosterschelde Open started with it. Mussel fishermen, shopkeepers, journalists and pupils joined the group. One of its stickers read \"Waterstaatstechnocraten moeten de Oosterschelde open laten\" (The water engineers must leave the Oosterschelde open). The group had no board. A print shop served as its office. By 1973 five kilometres of the dam lay in the Oosterschelde.",
+          "ro": "Work on the dam began in 1967 with work islands in the water. In a youth club in Yerseke, young people planned a protest around 1970 for a minister's visit to Middelburg, with stickers and slogans painted on a wall. The papers called the action a failure. The Aktiegroep Oosterschelde Open started with it. Mussel fishermen, shopkeepers, journalists and pupils joined the group. One of its stickers read \"Waterstaatstechnocraten moeten de Oosterschelde open laten\" (The water engineers must leave the Oosterschelde open). The group had no board. A print shop served as its office. By 1973 five kilometres of the dam lay in the Oosterschelde.",
+          "hu": "Work on the dam began in 1967 with work islands in the water. In a youth club in Yerseke, young people planned a protest around 1970 for a minister's visit to Middelburg, with stickers and slogans painted on a wall. The papers called the action a failure. The Aktiegroep Oosterschelde Open started with it. Mussel fishermen, shopkeepers, journalists and pupils joined the group. One of its stickers read \"Waterstaatstechnocraten moeten de Oosterschelde open laten\" (The water engineers must leave the Oosterschelde open). The group had no board. A print shop served as its office. By 1973 five kilometres of the dam lay in the Oosterschelde.",
+          "da": "Work on the dam began in 1967 with work islands in the water. In a youth club in Yerseke, young people planned a protest around 1970 for a minister's visit to Middelburg, with stickers and slogans painted on a wall. The papers called the action a failure. The Aktiegroep Oosterschelde Open started with it. Mussel fishermen, shopkeepers, journalists and pupils joined the group. One of its stickers read \"Waterstaatstechnocraten moeten de Oosterschelde open laten\" (The water engineers must leave the Oosterschelde open). The group had no board. A print shop served as its office. By 1973 five kilometres of the dam lay in the Oosterschelde."
+        },
+        {
+          "en": "In the night of 8 to 9 November 1974 the cabinet of Joop den Uyl discussed the Oosterschelde. Most ministers, led by the minister of water management Tjerk Westerterp, wanted the closed dam, which was cheaper. Progressive ministers threatened to resign. Irene Vorrink said the Oosterschelde had to be protected like \"een schilderij van Rembrandt\" (a painting by Rembrandt). To keep the coalition together, Van Agt said the Christian-democrat ministers would accept a barrier. Westerterp then withdrew his own proposal.",
+          "de": "In der Nacht vom 8. auf den 9. November 1974 beriet das Kabinett von Joop den Uyl über die Oosterschelde. Die meisten Minister wollten den geschlossenen Damm, der billiger war. Angeführt wurden sie vom Minister für Wasserwirtschaft, Tjerk Westerterp. Die progressiven Minister drohten mit Rücktritt. Irene Vorrink sagte, die Oosterschelde müsse geschützt werden wie „een schilderij van Rembrandt“ (ein Gemälde von Rembrandt). Um die Koalition zusammenzuhalten, erklärte Van Agt, die christdemokratischen Minister würden ein Wehr akzeptieren. Westerterp zog daraufhin seinen eigenen Vorschlag zurück.",
+          "fr": "Dans la nuit du 8 au 9 novembre 1974, le cabinet de Joop den Uyl a débattu de l'Escaut oriental. La plupart des ministres, derrière Tjerk Westerterp, ministre chargé de la gestion des eaux, voulaient la digue fermée, moins coûteuse. Les ministres progressistes ont menacé de démissionner. Irene Vorrink a dit que l'Escaut oriental devait être protégé comme « een schilderij van Rembrandt » (un tableau de Rembrandt). Pour maintenir la coalition, Van Agt a annoncé que les ministres chrétiens-démocrates accepteraient un barrage mobile. Westerterp a alors retiré sa propre proposition.",
+          "it": "In the night of 8 to 9 November 1974 the cabinet of Joop den Uyl discussed the Oosterschelde. Most ministers, led by the minister of water management Tjerk Westerterp, wanted the closed dam, which was cheaper. Progressive ministers threatened to resign. Irene Vorrink said the Oosterschelde had to be protected like \"een schilderij van Rembrandt\" (a painting by Rembrandt). To keep the coalition together, Van Agt said the Christian-democrat ministers would accept a barrier. Westerterp then withdrew his own proposal.",
+          "nl": "In de nacht van 8 op 9 november 1974 sprak het kabinet-Den Uyl over de Oosterschelde. De meeste ministers wilden de gesloten dam, die goedkoper was, met minister van Waterstaat Tjerk Westerterp voorop. Progressieve ministers dreigden met aftreden. Irene Vorrink zei dat de Oosterschelde beschermd moest worden als „een schilderij van Rembrandt”. Om de coalitie bij elkaar te houden zei Van Agt dat de christendemocratische ministers akkoord gingen met een kering. Westerterp trok daarop zijn eigen voorstel in.",
+          "pl": "In the night of 8 to 9 November 1974 the cabinet of Joop den Uyl discussed the Oosterschelde. Most ministers, led by the minister of water management Tjerk Westerterp, wanted the closed dam, which was cheaper. Progressive ministers threatened to resign. Irene Vorrink said the Oosterschelde had to be protected like \"een schilderij van Rembrandt\" (a painting by Rembrandt). To keep the coalition together, Van Agt said the Christian-democrat ministers would accept a barrier. Westerterp then withdrew his own proposal.",
+          "cs": "In the night of 8 to 9 November 1974 the cabinet of Joop den Uyl discussed the Oosterschelde. Most ministers, led by the minister of water management Tjerk Westerterp, wanted the closed dam, which was cheaper. Progressive ministers threatened to resign. Irene Vorrink said the Oosterschelde had to be protected like \"een schilderij van Rembrandt\" (a painting by Rembrandt). To keep the coalition together, Van Agt said the Christian-democrat ministers would accept a barrier. Westerterp then withdrew his own proposal.",
+          "sk": "In the night of 8 to 9 November 1974 the cabinet of Joop den Uyl discussed the Oosterschelde. Most ministers, led by the minister of water management Tjerk Westerterp, wanted the closed dam, which was cheaper. Progressive ministers threatened to resign. Irene Vorrink said the Oosterschelde had to be protected like \"een schilderij van Rembrandt\" (a painting by Rembrandt). To keep the coalition together, Van Agt said the Christian-democrat ministers would accept a barrier. Westerterp then withdrew his own proposal.",
+          "ro": "In the night of 8 to 9 November 1974 the cabinet of Joop den Uyl discussed the Oosterschelde. Most ministers, led by the minister of water management Tjerk Westerterp, wanted the closed dam, which was cheaper. Progressive ministers threatened to resign. Irene Vorrink said the Oosterschelde had to be protected like \"een schilderij van Rembrandt\" (a painting by Rembrandt). To keep the coalition together, Van Agt said the Christian-democrat ministers would accept a barrier. Westerterp then withdrew his own proposal.",
+          "hu": "In the night of 8 to 9 November 1974 the cabinet of Joop den Uyl discussed the Oosterschelde. Most ministers, led by the minister of water management Tjerk Westerterp, wanted the closed dam, which was cheaper. Progressive ministers threatened to resign. Irene Vorrink said the Oosterschelde had to be protected like \"een schilderij van Rembrandt\" (a painting by Rembrandt). To keep the coalition together, Van Agt said the Christian-democrat ministers would accept a barrier. Westerterp then withdrew his own proposal.",
+          "da": "In the night of 8 to 9 November 1974 the cabinet of Joop den Uyl discussed the Oosterschelde. Most ministers, led by the minister of water management Tjerk Westerterp, wanted the closed dam, which was cheaper. Progressive ministers threatened to resign. Irene Vorrink said the Oosterschelde had to be protected like \"een schilderij van Rembrandt\" (a painting by Rembrandt). To keep the coalition together, Van Agt said the Christian-democrat ministers would accept a barrier. Westerterp then withdrew his own proposal."
+        }
+      ]
+    },
+    {
+      "id": "barrier",
+      "type": "text",
+      "label": {
+        "en": "The stamps",
+        "de": "Die Briefmarken",
+        "fr": "Les timbres",
+        "it": "The stamps",
+        "nl": "De zegels",
+        "pl": "The stamps",
+        "cs": "The stamps",
+        "sk": "The stamps",
+        "ro": "The stamps",
+        "hu": "The stamps",
+        "da": "The stamps"
+      },
+      "title": {
+        "en": "The Queen's closing words",
+        "de": "Die Schlussworte der Königin",
+        "fr": "Les deux phrases de la reine",
+        "it": "The Queen's closing words",
+        "nl": "De slotwoorden van de koningin",
+        "pl": "The Queen's closing words",
+        "cs": "The Queen's closing words",
+        "sk": "The Queen's closing words",
+        "ro": "The Queen's closing words",
+        "hu": "The Queen's closing words",
+        "da": "The Queen's closing words"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/a8000c1533da2f6b/oos-opening-1986.jpg",
+          "width": 2400,
+          "credit": "Rob Bogaerts / Anefo, CC0",
+          "height": 1589,
+          "caption": {
+            "en": "Stairs and walkways on the pillars on 4 October 1986, the day the barrier was closed.",
+            "de": "Treppen und Laufstege auf den Pfeilern am 4. Oktober 1986, dem Tag, an dem das Wehr geschlossen wurde.",
+            "fr": "Escaliers et passerelles sur les piliers le 4 octobre 1986, jour de la fermeture du barrage.",
+            "it": "Stairs and walkways on the pillars on 4 October 1986, the day the barrier was closed.",
+            "nl": "Trappen en loopbruggen op de pijlers op 4 oktober 1986, de dag waarop de kering werd gesloten.",
+            "pl": "Stairs and walkways on the pillars on 4 October 1986, the day the barrier was closed.",
+            "cs": "Stairs and walkways on the pillars on 4 October 1986, the day the barrier was closed.",
+            "sk": "Stairs and walkways on the pillars on 4 October 1986, the day the barrier was closed.",
+            "ro": "Stairs and walkways on the pillars on 4 October 1986, the day the barrier was closed.",
+            "hu": "Stairs and walkways on the pillars on 4 October 1986, the day the barrier was closed.",
+            "da": "Stairs and walkways on the pillars on 4 October 1986, the day the barrier was closed."
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Overzicht_Oosterschelde_dam,_net_geopend_door_Koningin_Beatrix_(loopt_trap_af),_Bestanddeelnr_253-8993.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "The barrier that was built instead has steel gates between concrete pillars. In normal weather the gates stand open and close only at extreme high water. On 4 October 1986 Queen Beatrix closed it with two sentences: \"De stormvloedkering is gesloten. De Deltawerken zijn voltooid.\" (The storm surge barrier is closed. The Delta Works are completed.) The archive title of a press photo from that day says the Queen is walking down the white stairs between the pillars.",
+          "de": "Das Wehr, das stattdessen gebaut wurde, hat Stahltore zwischen Betonpfeilern. Bei normalem Wetter stehen die Tore offen und schließen erst bei extremem Hochwasser. Am 4. Oktober 1986 schloss Königin Beatrix das Wehr mit zwei Sätzen: „De stormvloedkering is gesloten. De Deltawerken zijn voltooid.“ (Das Sturmflutwehr ist geschlossen. Die Deltawerke sind vollendet.) Im Archivtitel eines Pressefotos von diesem Tag heißt es, die Königin gehe die weiße Treppe zwischen den Pfeilern hinunter.",
+          "fr": "Le barrage construit à la place possède des vannes en acier entre des piliers en béton. Par temps normal, les vannes restent ouvertes et ne se ferment qu'en cas de très hautes eaux. Le 4 octobre 1986, la reine Beatrix l'a fermé avec deux phrases : « De stormvloedkering is gesloten. De Deltawerken zijn voltooid. » (Le barrage anti-tempête est fermé. Le plan Delta est achevé.) Le titre d'archive d'une photo de presse de ce jour-là indique que la reine descend l'escalier blanc entre les piliers.",
+          "it": "The barrier that was built instead has steel gates between concrete pillars. In normal weather the gates stand open and close only at extreme high water. On 4 October 1986 Queen Beatrix closed it with two sentences: \"De stormvloedkering is gesloten. De Deltawerken zijn voltooid.\" (The storm surge barrier is closed. The Delta Works are completed.) The archive title of a press photo from that day says the Queen is walking down the white stairs between the pillars.",
+          "nl": "De kering die er in plaats daarvan kwam, heeft stalen schuiven tussen betonnen pijlers. Bij gewoon weer staan de schuiven open. Ze gaan alleen dicht bij extreem hoog water. Op 4 oktober 1986 sloot koningin Beatrix de kering met twee zinnen: „De stormvloedkering is gesloten. De Deltawerken zijn voltooid.” Volgens de archieftitel van een persfoto van die dag loopt de koningin de witte trap tussen de pijlers af.",
+          "pl": "The barrier that was built instead has steel gates between concrete pillars. In normal weather the gates stand open and close only at extreme high water. On 4 October 1986 Queen Beatrix closed it with two sentences: \"De stormvloedkering is gesloten. De Deltawerken zijn voltooid.\" (The storm surge barrier is closed. The Delta Works are completed.) The archive title of a press photo from that day says the Queen is walking down the white stairs between the pillars.",
+          "cs": "The barrier that was built instead has steel gates between concrete pillars. In normal weather the gates stand open and close only at extreme high water. On 4 October 1986 Queen Beatrix closed it with two sentences: \"De stormvloedkering is gesloten. De Deltawerken zijn voltooid.\" (The storm surge barrier is closed. The Delta Works are completed.) The archive title of a press photo from that day says the Queen is walking down the white stairs between the pillars.",
+          "sk": "The barrier that was built instead has steel gates between concrete pillars. In normal weather the gates stand open and close only at extreme high water. On 4 October 1986 Queen Beatrix closed it with two sentences: \"De stormvloedkering is gesloten. De Deltawerken zijn voltooid.\" (The storm surge barrier is closed. The Delta Works are completed.) The archive title of a press photo from that day says the Queen is walking down the white stairs between the pillars.",
+          "ro": "The barrier that was built instead has steel gates between concrete pillars. In normal weather the gates stand open and close only at extreme high water. On 4 October 1986 Queen Beatrix closed it with two sentences: \"De stormvloedkering is gesloten. De Deltawerken zijn voltooid.\" (The storm surge barrier is closed. The Delta Works are completed.) The archive title of a press photo from that day says the Queen is walking down the white stairs between the pillars.",
+          "hu": "The barrier that was built instead has steel gates between concrete pillars. In normal weather the gates stand open and close only at extreme high water. On 4 October 1986 Queen Beatrix closed it with two sentences: \"De stormvloedkering is gesloten. De Deltawerken zijn voltooid.\" (The storm surge barrier is closed. The Delta Works are completed.) The archive title of a press photo from that day says the Queen is walking down the white stairs between the pillars.",
+          "da": "The barrier that was built instead has steel gates between concrete pillars. In normal weather the gates stand open and close only at extreme high water. On 4 October 1986 Queen Beatrix closed it with two sentences: \"De stormvloedkering is gesloten. De Deltawerken zijn voltooid.\" (The storm surge barrier is closed. The Delta Works are completed.) The archive title of a press photo from that day says the Queen is walking down the white stairs between the pillars."
+        },
+        {
+          "en": "Three days later, on 7 October 1986, the two stamps came out, designed by Irene Klinkenberg and Nicole van Schouwenburg and printed by Joh. Enschedé. The Queen's second sentence runs down the right edge of both in short form: \"1986 DELTAWERKEN VOLTOOID\" (1986 Delta Works completed). On the 75 c, a black-and-white photo of water foaming through an opening sits at the top left. A colour photo of the barrier fills the right half. Its white towers are the cylinders on top of the pillars.",
+          "de": "Drei Tage später, am 7. Oktober 1986, erschienen die beiden Marken, gestaltet von Irene Klinkenberg und Nicole van Schouwenburg und gedruckt bei Joh. Enschedé. Der zweite Satz der Königin läuft auf beiden in Kurzform am rechten Rand entlang: „1986 DELTAWERKEN VOLTOOID“ (1986 Deltawerke vollendet). Auf der 75 c sitzt oben links ein Schwarz-Weiß-Foto von Wasser, das durch eine Öffnung schäumt. Ein Farbfoto des Wehrs füllt die rechte Hälfte. Seine weißen Türme sind die Zylinder auf den Pfeilern.",
+          "fr": "Trois jours plus tard, le 7 octobre 1986, les deux timbres sont parus, dessinés par Irene Klinkenberg et Nicole van Schouwenburg et imprimés par Joh. Enschedé. La seconde phrase de la reine se lit le long du bord droit des deux timbres, sous forme abrégée : « 1986 DELTAWERKEN VOLTOOID » (1986, plan Delta achevé). Sur le 75 c, une photo en noir et blanc en haut à gauche montre l'eau qui écume dans une ouverture. Une photo en couleurs du barrage occupe la moitié droite. Ses tours blanches sont les cylindres posés au sommet des piliers.",
+          "it": "Three days later, on 7 October 1986, the two stamps came out, designed by Irene Klinkenberg and Nicole van Schouwenburg and printed by Joh. Enschedé. The Queen's second sentence runs down the right edge of both in short form: \"1986 DELTAWERKEN VOLTOOID\" (1986 Delta Works completed). On the 75 c, a black-and-white photo of water foaming through an opening sits at the top left. A colour photo of the barrier fills the right half. Its white towers are the cylinders on top of the pillars.",
+          "nl": "Drie dagen later, op 7 oktober 1986, verschenen de twee zegels, ontworpen door Irene Klinkenberg en Nicole van Schouwenburg en gedrukt door Joh. Enschedé. Op beide zegels staat de tweede zin van de koningin verkort langs de rechterrand: „1986 DELTAWERKEN VOLTOOID”. Op de 75 c staat linksboven een zwart-witfoto van water dat door een opening schuimt. Een kleurenfoto van de kering vult de rechterhelft. De witte torens daarop zijn de cilinders boven op de pijlers.",
+          "pl": "Three days later, on 7 October 1986, the two stamps came out, designed by Irene Klinkenberg and Nicole van Schouwenburg and printed by Joh. Enschedé. The Queen's second sentence runs down the right edge of both in short form: \"1986 DELTAWERKEN VOLTOOID\" (1986 Delta Works completed). On the 75 c, a black-and-white photo of water foaming through an opening sits at the top left. A colour photo of the barrier fills the right half. Its white towers are the cylinders on top of the pillars.",
+          "cs": "Three days later, on 7 October 1986, the two stamps came out, designed by Irene Klinkenberg and Nicole van Schouwenburg and printed by Joh. Enschedé. The Queen's second sentence runs down the right edge of both in short form: \"1986 DELTAWERKEN VOLTOOID\" (1986 Delta Works completed). On the 75 c, a black-and-white photo of water foaming through an opening sits at the top left. A colour photo of the barrier fills the right half. Its white towers are the cylinders on top of the pillars.",
+          "sk": "Three days later, on 7 October 1986, the two stamps came out, designed by Irene Klinkenberg and Nicole van Schouwenburg and printed by Joh. Enschedé. The Queen's second sentence runs down the right edge of both in short form: \"1986 DELTAWERKEN VOLTOOID\" (1986 Delta Works completed). On the 75 c, a black-and-white photo of water foaming through an opening sits at the top left. A colour photo of the barrier fills the right half. Its white towers are the cylinders on top of the pillars.",
+          "ro": "Three days later, on 7 October 1986, the two stamps came out, designed by Irene Klinkenberg and Nicole van Schouwenburg and printed by Joh. Enschedé. The Queen's second sentence runs down the right edge of both in short form: \"1986 DELTAWERKEN VOLTOOID\" (1986 Delta Works completed). On the 75 c, a black-and-white photo of water foaming through an opening sits at the top left. A colour photo of the barrier fills the right half. Its white towers are the cylinders on top of the pillars.",
+          "hu": "Three days later, on 7 October 1986, the two stamps came out, designed by Irene Klinkenberg and Nicole van Schouwenburg and printed by Joh. Enschedé. The Queen's second sentence runs down the right edge of both in short form: \"1986 DELTAWERKEN VOLTOOID\" (1986 Delta Works completed). On the 75 c, a black-and-white photo of water foaming through an opening sits at the top left. A colour photo of the barrier fills the right half. Its white towers are the cylinders on top of the pillars.",
+          "da": "Three days later, on 7 October 1986, the two stamps came out, designed by Irene Klinkenberg and Nicole van Schouwenburg and printed by Joh. Enschedé. The Queen's second sentence runs down the right edge of both in short form: \"1986 DELTAWERKEN VOLTOOID\" (1986 Delta Works completed). On the 75 c, a black-and-white photo of water foaming through an opening sits at the top left. A colour photo of the barrier fills the right half. Its white towers are the cylinders on top of the pillars."
+        },
+        {
+          "en": "Sixteen days after the opening, on 20 October 1986, a storm surge made a closure necessary for the first time.",
+          "de": "Sechzehn Tage nach der Eröffnung, am 20. Oktober 1986, machte eine Sturmflut die erste Schließung nötig.",
+          "fr": "Seize jours après l'inauguration, le 20 octobre 1986, une marée de tempête a rendu une fermeture nécessaire pour la première fois.",
+          "it": "Sixteen days after the opening, on 20 October 1986, a storm surge made a closure necessary for the first time.",
+          "nl": "Zestien dagen na de opening, op 20 oktober 1986, ging de kering door een stormvloed voor het eerst dicht.",
+          "pl": "Sixteen days after the opening, on 20 October 1986, a storm surge made a closure necessary for the first time.",
+          "cs": "Sixteen days after the opening, on 20 October 1986, a storm surge made a closure necessary for the first time.",
+          "sk": "Sixteen days after the opening, on 20 October 1986, a storm surge made a closure necessary for the first time.",
+          "ro": "Sixteen days after the opening, on 20 October 1986, a storm surge made a closure necessary for the first time.",
+          "hu": "Sixteen days after the opening, on 20 October 1986, a storm surge made a closure necessary for the first time.",
+          "da": "Sixteen days after the opening, on 20 October 1986, a storm surge made a closure necessary for the first time."
+        }
+      ]
+    },
+    {
+      "id": "figures",
+      "type": "numbers",
+      "label": {
+        "en": "In figures",
+        "de": "In Zahlen",
+        "fr": "En chiffres",
+        "it": "In figures",
+        "nl": "In cijfers",
+        "pl": "In figures",
+        "cs": "In figures",
+        "sk": "In figures",
+        "ro": "In figures",
+        "hu": "In figures",
+        "da": "In figures"
+      },
+      "title": {
+        "en": "The storm surge barrier",
+        "de": "Das Sturmflutwehr",
+        "fr": "Le barrage anti-tempête",
+        "it": "The storm surge barrier",
+        "nl": "De stormvloedkering",
+        "pl": "The storm surge barrier",
+        "cs": "The storm surge barrier",
+        "sk": "The storm surge barrier",
+        "ro": "The storm surge barrier",
+        "hu": "The storm surge barrier",
+        "da": "The storm surge barrier"
+      },
+      "numbers": [
+        {
+          "text": {
+            "en": "Steel gates hang between 65 concrete pillars.",
+            "de": "Zwischen 65 Betonpfeilern hängen Stahltore.",
+            "fr": "Des vannes en acier sont suspendues entre 65 piliers en béton.",
+            "it": "Steel gates hang between 65 concrete pillars.",
+            "nl": "Tussen 65 betonnen pijlers hangen stalen schuiven.",
+            "pl": "Steel gates hang between 65 concrete pillars.",
+            "cs": "Steel gates hang between 65 concrete pillars.",
+            "sk": "Steel gates hang between 65 concrete pillars.",
+            "ro": "Steel gates hang between 65 concrete pillars.",
+            "hu": "Steel gates hang between 65 concrete pillars.",
+            "da": "Steel gates hang between 65 concrete pillars."
+          },
+          "title": {
+            "en": "Gates",
+            "de": "Tore",
+            "fr": "Vannes",
+            "it": "Gates",
+            "nl": "Schuiven",
+            "pl": "Gates",
+            "cs": "Gates",
+            "sk": "Gates",
+            "ro": "Gates",
+            "hu": "Gates",
+            "da": "Gates"
+          },
+          "value": "62"
+        },
+        {
+          "text": {
+            "en": "Of the 9 km of the barrier, 3 km can be closed.",
+            "de": "Von den 9 km des Wehrs lassen sich 3 km schließen.",
+            "fr": "Sur les 9 km du barrage, 3 km peuvent être fermés.",
+            "it": "Of the 9 km of the barrier, 3 km can be closed.",
+            "nl": "Van de 9 km kering is 3 km af te sluiten.",
+            "pl": "Of the 9 km of the barrier, 3 km can be closed.",
+            "cs": "Of the 9 km of the barrier, 3 km can be closed.",
+            "sk": "Of the 9 km of the barrier, 3 km can be closed.",
+            "ro": "Of the 9 km of the barrier, 3 km can be closed.",
+            "hu": "Of the 9 km of the barrier, 3 km can be closed.",
+            "da": "Of the 9 km of the barrier, 3 km can be closed."
+          },
+          "title": {
+            "en": "Length",
+            "de": "Länge",
+            "fr": "Longueur",
+            "it": "Length",
+            "nl": "Lengte",
+            "pl": "Length",
+            "cs": "Length",
+            "sk": "Length",
+            "ro": "Length",
+            "hu": "Length",
+            "da": "Length"
+          },
+          "value": "9 km"
+        },
+        {
+          "text": {
+            "en": "The gates close when the water reaches 3.00 m above NAP.",
+            "de": "Die Tore schließen, wenn das Wasser 3,00 m über NAP erreicht.",
+            "fr": "Les vannes se ferment quand l'eau atteint 3,00 m au-dessus du NAP.",
+            "it": "The gates close when the water reaches 3.00 m above NAP.",
+            "nl": "De schuiven gaan dicht bij een waterstand van 3,00 m boven NAP.",
+            "pl": "The gates close when the water reaches 3.00 m above NAP.",
+            "cs": "The gates close when the water reaches 3.00 m above NAP.",
+            "sk": "The gates close when the water reaches 3.00 m above NAP.",
+            "ro": "The gates close when the water reaches 3.00 m above NAP.",
+            "hu": "The gates close when the water reaches 3.00 m above NAP.",
+            "da": "The gates close when the water reaches 3.00 m above NAP."
+          },
+          "title": {
+            "en": "Closing level",
+            "de": "Schließpegel",
+            "fr": "Niveau de fermeture",
+            "it": "Closing level",
+            "nl": "Sluitpeil",
+            "pl": "Closing level",
+            "cs": "Closing level",
+            "sk": "Closing level",
+            "ro": "Closing level",
+            "hu": "Closing level",
+            "da": "Closing level"
+          },
+          "value": "3.00 m"
+        },
+        {
+          "text": {
+            "en": "Deltapark Neeltje Jans counts 27 closures since 1986.",
+            "de": "Der Deltapark Neeltje Jans zählt 27 Schließungen seit 1986.",
+            "fr": "Le Deltapark Neeltje Jans dénombre 27 fermetures depuis 1986.",
+            "it": "Deltapark Neeltje Jans counts 27 closures since 1986.",
+            "nl": "Deltapark Neeltje Jans telt 27 sluitingen sinds 1986.",
+            "pl": "Deltapark Neeltje Jans counts 27 closures since 1986.",
+            "cs": "Deltapark Neeltje Jans counts 27 closures since 1986.",
+            "sk": "Deltapark Neeltje Jans counts 27 closures since 1986.",
+            "ro": "Deltapark Neeltje Jans counts 27 closures since 1986.",
+            "hu": "Deltapark Neeltje Jans counts 27 closures since 1986.",
+            "da": "Deltapark Neeltje Jans counts 27 closures since 1986."
+          },
+          "title": {
+            "en": "Closures",
+            "de": "Schließungen",
+            "fr": "Fermetures",
+            "it": "Closures",
+            "nl": "Sluitingen",
+            "pl": "Closures",
+            "cs": "Closures",
+            "sk": "Closures",
+            "ro": "Closures",
+            "hu": "Closures",
+            "da": "Closures"
+          },
+          "value": "27"
+        }
+      ]
+    },
+    {
+      "id": "wide",
+      "type": "wide-photo",
+      "image": {
+        "src": "https://assets.stampiq.io/blog/cfa8b4e63ec51cec/oos-wide-vrouwenpolder.jpg",
+        "width": 2400,
+        "credit": "Dietmar Rabich, CC BY-SA 4.0",
+        "height": 1350,
+        "caption": {
+          "en": "The barrier seen from the shore at Vrouwenpolder on 30 October 2022.",
+          "de": "Das Wehr vom Ufer bei Vrouwenpolder aus am 30. Oktober 2022.",
+          "fr": "Le barrage vu depuis la côte à Vrouwenpolder, le 30 octobre 2022.",
+          "it": "The barrier seen from the shore at Vrouwenpolder on 30 October 2022.",
+          "nl": "De kering gezien vanaf de kust bij Vrouwenpolder op 30 oktober 2022.",
+          "pl": "The barrier seen from the shore at Vrouwenpolder on 30 October 2022.",
+          "cs": "The barrier seen from the shore at Vrouwenpolder on 30 October 2022.",
+          "sk": "The barrier seen from the shore at Vrouwenpolder on 30 October 2022.",
+          "ro": "The barrier seen from the shore at Vrouwenpolder on 30 October 2022.",
+          "hu": "The barrier seen from the shore at Vrouwenpolder on 30 October 2022.",
+          "da": "The barrier seen from the shore at Vrouwenpolder on 30 October 2022."
+        },
+        "source_url": "https://commons.wikimedia.org/wiki/File:Vrouwenpolder_(NL),_Oosterscheldekering_--_2022_--_5016.jpg"
+      }
+    },
+    {
+      "id": "visit",
+      "type": "text",
+      "label": {
+        "en": "The visit",
+        "de": "Der Besuch",
+        "fr": "La visite",
+        "it": "The visit",
+        "nl": "Het bezoek",
+        "pl": "The visit",
+        "cs": "The visit",
+        "sk": "The visit",
+        "ro": "The visit",
+        "hu": "The visit",
+        "da": "The visit"
+      },
+      "title": {
+        "en": "At the foot of the barrier",
+        "de": "Am Fuß des Wehrs",
+        "fr": "Au pied du barrage",
+        "it": "At the foot of the barrier",
+        "nl": "Aan de voet van de kering",
+        "pl": "At the foot of the barrier",
+        "cs": "At the foot of the barrier",
+        "sk": "At the foot of the barrier",
+        "ro": "At the foot of the barrier",
+        "hu": "At the foot of the barrier",
+        "da": "At the foot of the barrier"
+      },
+      "visual": {
+        "type": "photo",
+        "image": {
+          "src": "https://assets.stampiq.io/blog/20d3986c2f97103d/oos-road-cylinders.jpg",
+          "width": 2400,
+          "credit": "Raimond Spekking, CC BY-SA 4.0",
+          "height": 1700,
+          "caption": {
+            "en": "The road over the barrier, with the white cylinder towers on the pillars.",
+            "de": "Die Straße über das Wehr, mit den weißen Zylindertürmen auf den Pfeilern.",
+            "fr": "La route qui passe sur le barrage, avec les tours cylindriques blanches sur les piliers.",
+            "it": "The road over the barrier, with the white cylinder towers on the pillars.",
+            "nl": "De weg over de kering, met de witte cilindertorens op de pijlers.",
+            "pl": "The road over the barrier, with the white cylinder towers on the pillars.",
+            "cs": "The road over the barrier, with the white cylinder towers on the pillars.",
+            "sk": "The road over the barrier, with the white cylinder towers on the pillars.",
+            "ro": "The road over the barrier, with the white cylinder towers on the pillars.",
+            "hu": "The road over the barrier, with the white cylinder towers on the pillars.",
+            "da": "The road over the barrier, with the white cylinder towers on the pillars."
+          },
+          "source_url": "https://commons.wikimedia.org/wiki/File:Deltawerke-Oosterschelde-Sturmflutwehr_Stra%C3%9Fe.jpg"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "The guided tour of Deltapark Neeltje Jans starts at the Expo \"Zeeland Veilig\" in Deltaplaza, the main building. From there it goes out to the viewpoint at the foot of the barrier. Here the tide flows in and out under the open gates, twice a day, through the gap the fishermen and the youth club of Yerseke wanted kept open. The inside of the barrier is not open to visitors.",
+          "de": "Die Führung im Deltapark Neeltje Jans beginnt bei der Ausstellung „Zeeland Veilig“ im Deltaplaza, dem Hauptgebäude. Von dort geht es hinaus zum Aussichtspunkt am Fuß des Wehrs. Hier strömt die Tide zweimal am Tag unter den offenen Toren hinein und wieder hinaus, durch die Lücke, die die Fischer und der Jugendclub aus Yerseke offen halten wollten. Das Innere des Wehrs ist für Besucher nicht zugänglich.",
+          "fr": "La visite guidée du Deltapark Neeltje Jans part de l'exposition « Zeeland Veilig », dans le Deltaplaza, le bâtiment principal. De là, elle mène au point de vue situé au pied du barrage. Ici, la marée entre et ressort deux fois par jour sous les vannes ouvertes, par le passage que les pêcheurs et le club de jeunes de Yerseke voulaient garder ouvert. L'intérieur du barrage n'est pas accessible aux visiteurs.",
+          "it": "The guided tour of Deltapark Neeltje Jans starts at the Expo \"Zeeland Veilig\" in Deltaplaza, the main building. From there it goes out to the viewpoint at the foot of the barrier. Here the tide flows in and out under the open gates, twice a day, through the gap the fishermen and the youth club of Yerseke wanted kept open. The inside of the barrier is not open to visitors.",
+          "nl": "De rondleiding van Deltapark Neeltje Jans begint bij de expositie „Zeeland Veilig” in Deltaplaza, het hoofdgebouw. Daarna gaat het naar buiten, naar het uitzichtpunt aan de voet van de kering. Hier stroomt het getij twee keer per dag onder de open schuiven in en uit, door het gat dat de vissers en de jeugdsoos van Yerseke open wilden houden. De binnenkant van de kering is niet te bezichtigen.",
+          "pl": "The guided tour of Deltapark Neeltje Jans starts at the Expo \"Zeeland Veilig\" in Deltaplaza, the main building. From there it goes out to the viewpoint at the foot of the barrier. Here the tide flows in and out under the open gates, twice a day, through the gap the fishermen and the youth club of Yerseke wanted kept open. The inside of the barrier is not open to visitors.",
+          "cs": "The guided tour of Deltapark Neeltje Jans starts at the Expo \"Zeeland Veilig\" in Deltaplaza, the main building. From there it goes out to the viewpoint at the foot of the barrier. Here the tide flows in and out under the open gates, twice a day, through the gap the fishermen and the youth club of Yerseke wanted kept open. The inside of the barrier is not open to visitors.",
+          "sk": "The guided tour of Deltapark Neeltje Jans starts at the Expo \"Zeeland Veilig\" in Deltaplaza, the main building. From there it goes out to the viewpoint at the foot of the barrier. Here the tide flows in and out under the open gates, twice a day, through the gap the fishermen and the youth club of Yerseke wanted kept open. The inside of the barrier is not open to visitors.",
+          "ro": "The guided tour of Deltapark Neeltje Jans starts at the Expo \"Zeeland Veilig\" in Deltaplaza, the main building. From there it goes out to the viewpoint at the foot of the barrier. Here the tide flows in and out under the open gates, twice a day, through the gap the fishermen and the youth club of Yerseke wanted kept open. The inside of the barrier is not open to visitors.",
+          "hu": "The guided tour of Deltapark Neeltje Jans starts at the Expo \"Zeeland Veilig\" in Deltaplaza, the main building. From there it goes out to the viewpoint at the foot of the barrier. Here the tide flows in and out under the open gates, twice a day, through the gap the fishermen and the youth club of Yerseke wanted kept open. The inside of the barrier is not open to visitors.",
+          "da": "The guided tour of Deltapark Neeltje Jans starts at the Expo \"Zeeland Veilig\" in Deltaplaza, the main building. From there it goes out to the viewpoint at the foot of the barrier. Here the tide flows in and out under the open gates, twice a day, through the gap the fishermen and the youth club of Yerseke wanted kept open. The inside of the barrier is not open to visitors."
+        },
+        {
+          "en": "From the viewpoint, look up at the white cylinders on the pillars. They stand at different heights, because the height of each cylinder shows how deep the water is at that point. Read along the row and you follow the channels under the water. The N57 runs over the barrier past the cylinders, with a cycle path beside it.",
+          "de": "Schau vom Aussichtspunkt hinauf zu den weißen Zylindern auf den Pfeilern. Sie stehen unterschiedlich hoch, denn die Höhe jedes Zylinders zeigt, wie tief das Wasser an dieser Stelle ist. Wenn du die Reihe mit den Augen entlanggehst, folgst du den Rinnen unter dem Wasser. Über das Wehr führt die N57 an den Zylindern vorbei, daneben liegt ein Radweg.",
+          "fr": "Depuis le point de vue, lève les yeux vers les cylindres blancs posés sur les piliers. Ils sont à des hauteurs différentes : la hauteur de chaque cylindre indique la profondeur de l'eau à cet endroit. En parcourant la rangée du regard, tu suis les chenaux sous l'eau. La N57 passe sur le barrage le long des cylindres, avec une piste cyclable à côté.",
+          "it": "From the viewpoint, look up at the white cylinders on the pillars. They stand at different heights, because the height of each cylinder shows how deep the water is at that point. Read along the row and you follow the channels under the water. The N57 runs over the barrier past the cylinders, with a cycle path beside it.",
+          "nl": "Kijk vanaf het uitzichtpunt omhoog naar de witte cilinders op de pijlers. Ze staan op verschillende hoogten, want de hoogte van elke cilinder geeft aan hoe diep het water daar is. Kijk je langs de rij, dan zie je waar de geulen onder water lopen. Over de kering loopt de N57 langs de cilinders, met een fietspad ernaast.",
+          "pl": "From the viewpoint, look up at the white cylinders on the pillars. They stand at different heights, because the height of each cylinder shows how deep the water is at that point. Read along the row and you follow the channels under the water. The N57 runs over the barrier past the cylinders, with a cycle path beside it.",
+          "cs": "From the viewpoint, look up at the white cylinders on the pillars. They stand at different heights, because the height of each cylinder shows how deep the water is at that point. Read along the row and you follow the channels under the water. The N57 runs over the barrier past the cylinders, with a cycle path beside it.",
+          "sk": "From the viewpoint, look up at the white cylinders on the pillars. They stand at different heights, because the height of each cylinder shows how deep the water is at that point. Read along the row and you follow the channels under the water. The N57 runs over the barrier past the cylinders, with a cycle path beside it.",
+          "ro": "From the viewpoint, look up at the white cylinders on the pillars. They stand at different heights, because the height of each cylinder shows how deep the water is at that point. Read along the row and you follow the channels under the water. The N57 runs over the barrier past the cylinders, with a cycle path beside it.",
+          "hu": "From the viewpoint, look up at the white cylinders on the pillars. They stand at different heights, because the height of each cylinder shows how deep the water is at that point. Read along the row and you follow the channels under the water. The N57 runs over the barrier past the cylinders, with a cycle path beside it.",
+          "da": "From the viewpoint, look up at the white cylinders on the pillars. They stand at different heights, because the height of each cylinder shows how deep the water is at that point. Read along the row and you follow the channels under the water. The N57 runs over the barrier past the cylinders, with a cycle path beside it."
+        },
+        {
+          "en": "Back in Deltaplaza, the Delta Experience shows the night of 31 January 1953 as a panorama animation, followed by archive film.",
+          "de": "Zurück im Deltaplaza zeigt die Delta Experience die Nacht vom 31. Januar 1953 als Panorama-Animation, danach folgen Archivaufnahmen.",
+          "fr": "De retour au Deltaplaza, la Delta Experience montre la nuit du 31 janvier 1953 en animation panoramique, suivie de films d'archives.",
+          "it": "Back in Deltaplaza, the Delta Experience shows the night of 31 January 1953 as a panorama animation, followed by archive film.",
+          "nl": "Terug in Deltaplaza laat de Delta Experience de nacht van 31 januari 1953 zien als panorama-animatie, gevolgd door archiefbeelden.",
+          "pl": "Back in Deltaplaza, the Delta Experience shows the night of 31 January 1953 as a panorama animation, followed by archive film.",
+          "cs": "Back in Deltaplaza, the Delta Experience shows the night of 31 January 1953 as a panorama animation, followed by archive film.",
+          "sk": "Back in Deltaplaza, the Delta Experience shows the night of 31 January 1953 as a panorama animation, followed by archive film.",
+          "ro": "Back in Deltaplaza, the Delta Experience shows the night of 31 January 1953 as a panorama animation, followed by archive film.",
+          "hu": "Back in Deltaplaza, the Delta Experience shows the night of 31 January 1953 as a panorama animation, followed by archive film.",
+          "da": "Back in Deltaplaza, the Delta Experience shows the night of 31 January 1953 as a panorama animation, followed by archive film."
+        }
+      ]
+    },
+    {
+      "id": "practical",
+      "rows": [
+        {
+          "label": {
+            "en": "Address",
+            "de": "Adresse",
+            "fr": "Adresse",
+            "it": "Address",
+            "nl": "Adres",
+            "pl": "Address",
+            "cs": "Address",
+            "sk": "Address",
+            "ro": "Address",
+            "hu": "Address",
+            "da": "Address"
+          },
+          "value": {
+            "en": "Faelweg 5, 4354 RB Vrouwenpolder",
+            "de": "Faelweg 5, 4354 RB Vrouwenpolder",
+            "fr": "Faelweg 5, 4354 RB Vrouwenpolder",
+            "it": "Faelweg 5, 4354 RB Vrouwenpolder",
+            "nl": "Faelweg 5, 4354 RB Vrouwenpolder",
+            "pl": "Faelweg 5, 4354 RB Vrouwenpolder",
+            "cs": "Faelweg 5, 4354 RB Vrouwenpolder",
+            "sk": "Faelweg 5, 4354 RB Vrouwenpolder",
+            "ro": "Faelweg 5, 4354 RB Vrouwenpolder",
+            "hu": "Faelweg 5, 4354 RB Vrouwenpolder",
+            "da": "Faelweg 5, 4354 RB Vrouwenpolder"
+          }
+        },
+        {
+          "label": {
+            "en": "Open",
+            "de": "Geöffnet",
+            "fr": "Ouverture",
+            "it": "Open",
+            "nl": "Geopend",
+            "pl": "Open",
+            "cs": "Open",
+            "sk": "Open",
+            "ro": "Open",
+            "hu": "Open",
+            "da": "Open"
+          },
+          "value": {
+            "en": "Daily 10:00 to 17:00 until Sunday 1 November 2026; the ticket office closes one hour earlier",
+            "de": "Bis Sonntag, 1. November 2026 täglich 10 bis 17 Uhr; die Kasse schließt eine Stunde früher",
+            "fr": "Tous les jours de 10 h à 17 h jusqu'au dimanche 1er novembre 2026 ; la caisse ferme une heure plus tôt",
+            "it": "Daily 10:00 to 17:00 until Sunday 1 November 2026; the ticket office closes one hour earlier",
+            "nl": "Dagelijks van 10:00 tot 17:00, tot en met zondag 1 november 2026; de kassa sluit een uur eerder",
+            "pl": "Daily 10:00 to 17:00 until Sunday 1 November 2026; the ticket office closes one hour earlier",
+            "cs": "Daily 10:00 to 17:00 until Sunday 1 November 2026; the ticket office closes one hour earlier",
+            "sk": "Daily 10:00 to 17:00 until Sunday 1 November 2026; the ticket office closes one hour earlier",
+            "ro": "Daily 10:00 to 17:00 until Sunday 1 November 2026; the ticket office closes one hour earlier",
+            "hu": "Daily 10:00 to 17:00 until Sunday 1 November 2026; the ticket office closes one hour earlier",
+            "da": "Daily 10:00 to 17:00 until Sunday 1 November 2026; the ticket office closes one hour earlier"
+          }
+        },
+        {
+          "label": {
+            "en": "Adults",
+            "de": "Erwachsene",
+            "fr": "Adultes",
+            "it": "Adults",
+            "nl": "Volwassenen",
+            "pl": "Adults",
+            "cs": "Adults",
+            "sk": "Adults",
+            "ro": "Adults",
+            "hu": "Adults",
+            "da": "Adults"
+          },
+          "value": {
+            "en": "From 12 years €28 at the gate, €26 online",
+            "de": "Ab 12 Jahren 28 € an der Kasse, 26 € online",
+            "fr": "À partir de 12 ans, 28 € sur place, 26 € en ligne",
+            "it": "From 12 years €28 at the gate, €26 online",
+            "nl": "Vanaf 12 jaar € 28 aan de kassa, € 26 online",
+            "pl": "From 12 years €28 at the gate, €26 online",
+            "cs": "From 12 years €28 at the gate, €26 online",
+            "sk": "From 12 years €28 at the gate, €26 online",
+            "ro": "From 12 years €28 at the gate, €26 online",
+            "hu": "From 12 years €28 at the gate, €26 online",
+            "da": "From 12 years €28 at the gate, €26 online"
+          }
+        },
+        {
+          "label": {
+            "en": "Children",
+            "de": "Kinder",
+            "fr": "Enfants",
+            "it": "Children",
+            "nl": "Kinderen",
+            "pl": "Children",
+            "cs": "Children",
+            "sk": "Children",
+            "ro": "Children",
+            "hu": "Children",
+            "da": "Children"
+          },
+          "value": {
+            "en": "3 to 11 years €20 at the gate, €18 online; under 3 free",
+            "de": "3 bis 11 Jahre 20 € an der Kasse, 18 € online; unter 3 Jahren frei",
+            "fr": "De 3 à 11 ans, 20 € sur place, 18 € en ligne ; gratuit pour les moins de 3 ans",
+            "it": "3 to 11 years €20 at the gate, €18 online; under 3 free",
+            "nl": "3 tot 11 jaar € 20 aan de kassa, € 18 online; onder 3 jaar gratis",
+            "pl": "3 to 11 years €20 at the gate, €18 online; under 3 free",
+            "cs": "3 to 11 years €20 at the gate, €18 online; under 3 free",
+            "sk": "3 to 11 years €20 at the gate, €18 online; under 3 free",
+            "ro": "3 to 11 years €20 at the gate, €18 online; under 3 free",
+            "hu": "3 to 11 years €20 at the gate, €18 online; under 3 free",
+            "da": "3 to 11 years €20 at the gate, €18 online; under 3 free"
+          }
+        },
+        {
+          "label": {
+            "en": "Seniors",
+            "de": "Senioren",
+            "fr": "Seniors",
+            "it": "Seniors",
+            "nl": "Senioren",
+            "pl": "Seniors",
+            "cs": "Seniors",
+            "sk": "Seniors",
+            "ro": "Seniors",
+            "hu": "Seniors",
+            "da": "Seniors"
+          },
+          "value": {
+            "en": "From 65 years €24",
+            "de": "Ab 65 Jahren 24 €",
+            "fr": "À partir de 65 ans, 24 €",
+            "it": "From 65 years €24",
+            "nl": "Vanaf 65 jaar € 24",
+            "pl": "From 65 years €24",
+            "cs": "From 65 years €24",
+            "sk": "From 65 years €24",
+            "ro": "From 65 years €24",
+            "hu": "From 65 years €24",
+            "da": "From 65 years €24"
+          }
+        },
+        {
+          "label": {
+            "en": "Guided tour",
+            "de": "Führung",
+            "fr": "Visite guidée",
+            "it": "Guided tour",
+            "nl": "Rondleiding",
+            "pl": "Guided tour",
+            "cs": "Guided tour",
+            "sk": "Guided tour",
+            "ro": "Guided tour",
+            "hu": "Guided tour",
+            "da": "Guided tour"
+          },
+          "value": {
+            "en": "€4 per person, to the viewpoint at the foot of the barrier",
+            "de": "4 € pro Person, zum Aussichtspunkt am Fuß des Wehrs",
+            "fr": "4 € par personne, jusqu'au point de vue au pied du barrage",
+            "it": "€4 per person, to the viewpoint at the foot of the barrier",
+            "nl": "€ 4 per persoon, naar het uitzichtpunt aan de voet van de kering",
+            "pl": "€4 per person, to the viewpoint at the foot of the barrier",
+            "cs": "€4 per person, to the viewpoint at the foot of the barrier",
+            "sk": "€4 per person, to the viewpoint at the foot of the barrier",
+            "ro": "€4 per person, to the viewpoint at the foot of the barrier",
+            "hu": "€4 per person, to the viewpoint at the foot of the barrier",
+            "da": "€4 per person, to the viewpoint at the foot of the barrier"
+          }
+        },
+        {
+          "label": {
+            "en": "Boat trip",
+            "de": "Bootsfahrt",
+            "fr": "Promenade en bateau",
+            "it": "Boat trip",
+            "nl": "Boottocht",
+            "pl": "Boat trip",
+            "cs": "Boat trip",
+            "sk": "Boat trip",
+            "ro": "Boat trip",
+            "hu": "Boat trip",
+            "da": "Boat trip"
+          },
+          "value": {
+            "en": "Included in the ticket, usual departure 13:30, no booking",
+            "de": "Im Ticket enthalten, Abfahrt in der Regel 13.30 Uhr, ohne Anmeldung",
+            "fr": "Comprise dans le billet, départ habituel à 13 h 30, sans réservation",
+            "it": "Included in the ticket, usual departure 13:30, no booking",
+            "nl": "Inbegrepen bij het ticket, vertrek meestal om 13:30, reserveren niet nodig",
+            "pl": "Included in the ticket, usual departure 13:30, no booking",
+            "cs": "Included in the ticket, usual departure 13:30, no booking",
+            "sk": "Included in the ticket, usual departure 13:30, no booking",
+            "ro": "Included in the ticket, usual departure 13:30, no booking",
+            "hu": "Included in the ticket, usual departure 13:30, no booking",
+            "da": "Included in the ticket, usual departure 13:30, no booking"
+          }
+        },
+        {
+          "label": {
+            "en": "Dogs",
+            "de": "Hunde",
+            "fr": "Chiens",
+            "it": "Dogs",
+            "nl": "Honden",
+            "pl": "Dogs",
+            "cs": "Dogs",
+            "sk": "Dogs",
+            "ro": "Dogs",
+            "hu": "Dogs",
+            "da": "Dogs"
+          },
+          "value": {
+            "en": "Not allowed, assistance dogs by arrangement",
+            "de": "Nicht erlaubt, Assistenzhunde nach Absprache",
+            "fr": "Non admis, chiens d'assistance sur demande",
+            "it": "Not allowed, assistance dogs by arrangement",
+            "nl": "Niet toegestaan, hulphonden in overleg",
+            "pl": "Not allowed, assistance dogs by arrangement",
+            "cs": "Not allowed, assistance dogs by arrangement",
+            "sk": "Not allowed, assistance dogs by arrangement",
+            "ro": "Not allowed, assistance dogs by arrangement",
+            "hu": "Not allowed, assistance dogs by arrangement",
+            "da": "Not allowed, assistance dogs by arrangement"
+          }
+        },
+        {
+          "label": {
+            "en": "Contact",
+            "de": "Kontakt",
+            "fr": "Contact",
+            "it": "Contact",
+            "nl": "Contact",
+            "pl": "Contact",
+            "cs": "Contact",
+            "sk": "Contact",
+            "ro": "Contact",
+            "hu": "Contact",
+            "da": "Contact"
+          },
+          "value": {
+            "en": "+31 111 655 655, info@neeltjejans.nl",
+            "de": "+31 111 655 655, info@neeltjejans.nl",
+            "fr": "+31 111 655 655, info@neeltjejans.nl",
+            "it": "+31 111 655 655, info@neeltjejans.nl",
+            "nl": "+31 111 655 655, info@neeltjejans.nl",
+            "pl": "+31 111 655 655, info@neeltjejans.nl",
+            "cs": "+31 111 655 655, info@neeltjejans.nl",
+            "sk": "+31 111 655 655, info@neeltjejans.nl",
+            "ro": "+31 111 655 655, info@neeltjejans.nl",
+            "hu": "+31 111 655 655, info@neeltjejans.nl",
+            "da": "+31 111 655 655, info@neeltjejans.nl"
+          }
+        }
+      ],
+      "type": "specs",
+      "label": {
+        "en": "Practical",
+        "de": "Praktisch",
+        "fr": "Pratique",
+        "it": "Practical",
+        "nl": "Praktisch",
+        "pl": "Practical",
+        "cs": "Practical",
+        "sk": "Practical",
+        "ro": "Practical",
+        "hu": "Practical",
+        "da": "Practical"
+      },
+      "title": {
+        "en": "Deltapark Neeltje Jans",
+        "de": "Deltapark Neeltje Jans",
+        "fr": "Deltapark Neeltje Jans",
+        "it": "Deltapark Neeltje Jans",
+        "nl": "Deltapark Neeltje Jans",
+        "pl": "Deltapark Neeltje Jans",
+        "cs": "Deltapark Neeltje Jans",
+        "sk": "Deltapark Neeltje Jans",
+        "ro": "Deltapark Neeltje Jans",
+        "hu": "Deltapark Neeltje Jans",
+        "da": "Deltapark Neeltje Jans"
+      },
+      "buttons": [
+        {
+          "href": "https://www.neeltjejans.nl/openingstijden/",
+          "label": {
+            "en": "Deltapark Neeltje Jans",
+            "de": "Deltapark Neeltje Jans",
+            "fr": "Deltapark Neeltje Jans",
+            "it": "Deltapark Neeltje Jans",
+            "nl": "Deltapark Neeltje Jans",
+            "pl": "Deltapark Neeltje Jans",
+            "cs": "Deltapark Neeltje Jans",
+            "sk": "Deltapark Neeltje Jans",
+            "ro": "Deltapark Neeltje Jans",
+            "hu": "Deltapark Neeltje Jans",
+            "da": "Deltapark Neeltje Jans"
+          }
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "type": "tiles",
+      "label": {
+        "en": "How to get there",
+        "de": "Anfahrt",
+        "fr": "Comment s'y rendre",
+        "it": "How to get there",
+        "nl": "Bereikbaarheid",
+        "pl": "How to get there",
+        "cs": "How to get there",
+        "sk": "How to get there",
+        "ro": "How to get there",
+        "hu": "How to get there",
+        "da": "How to get there"
+      },
+      "tiles": [
+        {
+          "icon": "pin",
+          "text": {
+            "en": "Bus 133 takes 29 minutes from Middelburg station to the stop \"Neeltje Jans, Deltapark\", five minutes' walk from the entrance.",
+            "de": "Bus 133 braucht vom Bahnhof Middelburg 29 Minuten bis zur Haltestelle „Neeltje Jans, Deltapark“, fünf Gehminuten vom Eingang.",
+            "fr": "Le bus 133 met 29 minutes de la gare de Middelbourg à l'arrêt « Neeltje Jans, Deltapark », à cinq minutes à pied de l'entrée.",
+            "it": "Bus 133 takes 29 minutes from Middelburg station to the stop \"Neeltje Jans, Deltapark\", five minutes' walk from the entrance.",
+            "nl": "Bus 133 rijdt in 29 minuten van station Middelburg naar de halte „Neeltje Jans, Deltapark”, vijf minuten lopen van de ingang.",
+            "pl": "Bus 133 takes 29 minutes from Middelburg station to the stop \"Neeltje Jans, Deltapark\", five minutes' walk from the entrance.",
+            "cs": "Bus 133 takes 29 minutes from Middelburg station to the stop \"Neeltje Jans, Deltapark\", five minutes' walk from the entrance.",
+            "sk": "Bus 133 takes 29 minutes from Middelburg station to the stop \"Neeltje Jans, Deltapark\", five minutes' walk from the entrance.",
+            "ro": "Bus 133 takes 29 minutes from Middelburg station to the stop \"Neeltje Jans, Deltapark\", five minutes' walk from the entrance.",
+            "hu": "Bus 133 takes 29 minutes from Middelburg station to the stop \"Neeltje Jans, Deltapark\", five minutes' walk from the entrance.",
+            "da": "Bus 133 takes 29 minutes from Middelburg station to the stop \"Neeltje Jans, Deltapark\", five minutes' walk from the entrance."
+          },
+          "title": {
+            "en": "Bus 133",
+            "de": "Bus 133",
+            "fr": "Bus 133",
+            "it": "Bus 133",
+            "nl": "Bus 133",
+            "pl": "Bus 133",
+            "cs": "Bus 133",
+            "sk": "Bus 133",
+            "ro": "Bus 133",
+            "hu": "Bus 133",
+            "da": "Bus 133"
+          }
+        },
+        {
+          "icon": "calendar",
+          "text": {
+            "en": "On weekdays the bus runs about every 30 minutes, on Saturdays every hour and on Sundays every two hours.",
+            "de": "Werktags fährt der Bus etwa alle 30 Minuten, samstags stündlich und sonntags alle zwei Stunden.",
+            "fr": "En semaine, le bus passe environ toutes les 30 minutes, le samedi toutes les heures et le dimanche toutes les deux heures.",
+            "it": "On weekdays the bus runs about every 30 minutes, on Saturdays every hour and on Sundays every two hours.",
+            "nl": "Doordeweeks rijdt de bus ongeveer elk half uur, op zaterdag elk uur en op zondag om de twee uur.",
+            "pl": "On weekdays the bus runs about every 30 minutes, on Saturdays every hour and on Sundays every two hours.",
+            "cs": "On weekdays the bus runs about every 30 minutes, on Saturdays every hour and on Sundays every two hours.",
+            "sk": "On weekdays the bus runs about every 30 minutes, on Saturdays every hour and on Sundays every two hours.",
+            "ro": "On weekdays the bus runs about every 30 minutes, on Saturdays every hour and on Sundays every two hours.",
+            "hu": "On weekdays the bus runs about every 30 minutes, on Saturdays every hour and on Sundays every two hours.",
+            "da": "On weekdays the bus runs about every 30 minutes, on Saturdays every hour and on Sundays every two hours."
+          },
+          "title": {
+            "en": "Timetable",
+            "de": "Fahrplan",
+            "fr": "Horaires",
+            "it": "Timetable",
+            "nl": "Dienstregeling",
+            "pl": "Timetable",
+            "cs": "Timetable",
+            "sk": "Timetable",
+            "ro": "Timetable",
+            "hu": "Timetable",
+            "da": "Timetable"
+          }
+        },
+        {
+          "icon": "car",
+          "text": {
+            "en": "The park is on the N57 between Middelburg and Schouwen-Duiveland, with signs to Neeltje Jans and Deltapark.",
+            "de": "Der Park liegt an der N57 zwischen Middelburg und Schouwen-Duiveland, ausgeschildert mit Neeltje Jans und Deltapark.",
+            "fr": "Le parc se trouve sur la N57 entre Middelbourg et Schouwen-Duiveland ; des panneaux indiquent Neeltje Jans et Deltapark.",
+            "it": "The park is on the N57 between Middelburg and Schouwen-Duiveland, with signs to Neeltje Jans and Deltapark.",
+            "nl": "Het park ligt aan de N57 tussen Middelburg en Schouwen-Duiveland, met borden naar Neeltje Jans en Deltapark.",
+            "pl": "The park is on the N57 between Middelburg and Schouwen-Duiveland, with signs to Neeltje Jans and Deltapark.",
+            "cs": "The park is on the N57 between Middelburg and Schouwen-Duiveland, with signs to Neeltje Jans and Deltapark.",
+            "sk": "The park is on the N57 between Middelburg and Schouwen-Duiveland, with signs to Neeltje Jans and Deltapark.",
+            "ro": "The park is on the N57 between Middelburg and Schouwen-Duiveland, with signs to Neeltje Jans and Deltapark.",
+            "hu": "The park is on the N57 between Middelburg and Schouwen-Duiveland, with signs to Neeltje Jans and Deltapark.",
+            "da": "The park is on the N57 between Middelburg and Schouwen-Duiveland, with signs to Neeltje Jans and Deltapark."
+          },
+          "title": {
+            "en": "By car",
+            "de": "Mit dem Auto",
+            "fr": "En voiture",
+            "it": "By car",
+            "nl": "Met de auto",
+            "pl": "By car",
+            "cs": "By car",
+            "sk": "By car",
+            "ro": "By car",
+            "hu": "By car",
+            "da": "By car"
+          }
+        }
+      ],
+      "title": {
+        "en": "By bus or car",
+        "de": "Mit Bus oder Auto",
+        "fr": "En bus ou en voiture",
+        "it": "By bus or car",
+        "nl": "Met de bus of de auto",
+        "pl": "By bus or car",
+        "cs": "By bus or car",
+        "sk": "By bus or car",
+        "ro": "By bus or car",
+        "hu": "By bus or car",
+        "da": "By bus or car"
+      }
+    },
+    {
+      "id": "season",
+      "text": {
+        "en": "The opening days of Deltapark Neeltje Jans after 1 November 2026 are not published yet. From October to April, the storm season, the boat trip may be cancelled.",
+        "de": "Welche Tage der Deltapark Neeltje Jans nach dem 1. November 2026 geöffnet hat, ist noch nicht veröffentlicht. Von Oktober bis April, in der Sturmsaison, kann die Bootsfahrt ausfallen.",
+        "fr": "Les jours d'ouverture du Deltapark Neeltje Jans après le 1er novembre 2026 ne sont pas encore publiés. D'octobre à avril, pendant la saison des tempêtes, la promenade en bateau peut être annulée.",
+        "it": "The opening days of Deltapark Neeltje Jans after 1 November 2026 are not published yet. From October to April, the storm season, the boat trip may be cancelled.",
+        "nl": "De openingsdagen van Deltapark Neeltje Jans na 1 november 2026 zijn nog niet bekendgemaakt. Van oktober tot april, het stormseizoen, kan de boottocht vervallen.",
+        "pl": "The opening days of Deltapark Neeltje Jans after 1 November 2026 are not published yet. From October to April, the storm season, the boat trip may be cancelled.",
+        "cs": "The opening days of Deltapark Neeltje Jans after 1 November 2026 are not published yet. From October to April, the storm season, the boat trip may be cancelled.",
+        "sk": "The opening days of Deltapark Neeltje Jans after 1 November 2026 are not published yet. From October to April, the storm season, the boat trip may be cancelled.",
+        "ro": "The opening days of Deltapark Neeltje Jans after 1 November 2026 are not published yet. From October to April, the storm season, the boat trip may be cancelled.",
+        "hu": "The opening days of Deltapark Neeltje Jans after 1 November 2026 are not published yet. From October to April, the storm season, the boat trip may be cancelled.",
+        "da": "The opening days of Deltapark Neeltje Jans after 1 November 2026 are not published yet. From October to April, the storm season, the boat trip may be cancelled."
+      },
+      "type": "note"
+    },
+    {
+      "id": "afterwards",
+      "type": "text",
+      "label": {
+        "en": "Afterwards",
+        "de": "Danach",
+        "fr": "Ensuite",
+        "it": "Afterwards",
+        "nl": "Daarna",
+        "pl": "Afterwards",
+        "cs": "Afterwards",
+        "sk": "Afterwards",
+        "ro": "Afterwards",
+        "hu": "Afterwards",
+        "da": "Afterwards"
+      },
+      "title": {
+        "en": "Zierikzee and Ouwerkerk",
+        "de": "Zierikzee und Ouwerkerk",
+        "fr": "Zierikzee et Ouwerkerk",
+        "it": "Zierikzee and Ouwerkerk",
+        "nl": "Zierikzee en Ouwerkerk",
+        "pl": "Zierikzee and Ouwerkerk",
+        "cs": "Zierikzee and Ouwerkerk",
+        "sk": "Zierikzee and Ouwerkerk",
+        "ro": "Zierikzee and Ouwerkerk",
+        "hu": "Zierikzee and Ouwerkerk",
+        "da": "Zierikzee and Ouwerkerk"
+      },
+      "visual": {
+        "type": "stamp",
+        "stamp": {
+          "name": {
+            "en": "Zierikzee, City Gate",
+            "de": "Zierikzee, Stadttor",
+            "fr": "Zierikzee, porte de ville",
+            "it": "Zierikzee, City Gate",
+            "nl": "Zierikzee, stadspoort",
+            "pl": "Zierikzee, City Gate",
+            "cs": "Zierikzee, City Gate",
+            "sk": "Zierikzee, City Gate",
+            "ro": "Zierikzee, City Gate",
+            "hu": "Zierikzee, City Gate",
+            "da": "Zierikzee, City Gate"
+          },
+          "year": 2018,
+          "image": {
+            "src": "https://assets.stampiq.io/blog/13487e17fdf3ee3c/oos-stamp-nl_3656.png",
+            "width": 1100,
+            "height": 1351
+          },
+          "country": "NL",
+          "stamp_id": "SIQ-NL-2018-014"
+        }
+      },
+      "paragraphs": [
+        {
+          "en": "Bus 133 goes on from Neeltje Jans to Zierikzee in 47 minutes. In the town of the fishermen's first protest, a stamp of 2018 by Jan Rothuizen and Soeraja Siemons shows the Nobelpoort as a pen drawing, two round towers with tall pointed spires. The stamp's pin on the map is on the gate.",
+          "de": "Bus 133 fährt von Neeltje Jans in 47 Minuten weiter nach Zierikzee. In der Stadt des ersten Fischerprotests zeigt eine Marke von 2018, gestaltet von Jan Rothuizen und Soeraja Siemons, die Nobelpoort als Federzeichnung: zwei runde Türme mit hohen spitzen Helmen. Der Pin der Marke auf der Karte sitzt auf dem Tor.",
+          "fr": "Le bus 133 continue de Neeltje Jans vers Zierikzee en 47 minutes. Dans la ville de la première protestation des pêcheurs, un timbre de 2018 de Jan Rothuizen et Soeraja Siemons montre la Nobelpoort en dessin à la plume, deux tours rondes coiffées de hautes flèches pointues. Sur la carte, l'épingle du timbre se trouve sur la porte.",
+          "it": "Bus 133 goes on from Neeltje Jans to Zierikzee in 47 minutes. In the town of the fishermen's first protest, a stamp of 2018 by Jan Rothuizen and Soeraja Siemons shows the Nobelpoort as a pen drawing, two round towers with tall pointed spires. The stamp's pin on the map is on the gate.",
+          "nl": "Bus 133 rijdt van Neeltje Jans door naar Zierikzee, in 47 minuten. Dat is de stad van het eerste vissersprotest. Op een zegel uit 2018 van Jan Rothuizen en Soeraja Siemons staat de Nobelpoort als pentekening, twee ronde torens met hoge spitsen. De pin van die zegel op de Kaart staat op de poort.",
+          "pl": "Bus 133 goes on from Neeltje Jans to Zierikzee in 47 minutes. In the town of the fishermen's first protest, a stamp of 2018 by Jan Rothuizen and Soeraja Siemons shows the Nobelpoort as a pen drawing, two round towers with tall pointed spires. The stamp's pin on the map is on the gate.",
+          "cs": "Bus 133 goes on from Neeltje Jans to Zierikzee in 47 minutes. In the town of the fishermen's first protest, a stamp of 2018 by Jan Rothuizen and Soeraja Siemons shows the Nobelpoort as a pen drawing, two round towers with tall pointed spires. The stamp's pin on the map is on the gate.",
+          "sk": "Bus 133 goes on from Neeltje Jans to Zierikzee in 47 minutes. In the town of the fishermen's first protest, a stamp of 2018 by Jan Rothuizen and Soeraja Siemons shows the Nobelpoort as a pen drawing, two round towers with tall pointed spires. The stamp's pin on the map is on the gate.",
+          "ro": "Bus 133 goes on from Neeltje Jans to Zierikzee in 47 minutes. In the town of the fishermen's first protest, a stamp of 2018 by Jan Rothuizen and Soeraja Siemons shows the Nobelpoort as a pen drawing, two round towers with tall pointed spires. The stamp's pin on the map is on the gate.",
+          "hu": "Bus 133 goes on from Neeltje Jans to Zierikzee in 47 minutes. In the town of the fishermen's first protest, a stamp of 2018 by Jan Rothuizen and Soeraja Siemons shows the Nobelpoort as a pen drawing, two round towers with tall pointed spires. The stamp's pin on the map is on the gate.",
+          "da": "Bus 133 goes on from Neeltje Jans to Zierikzee in 47 minutes. In the town of the fishermen's first protest, a stamp of 2018 by Jan Rothuizen and Soeraja Siemons shows the Nobelpoort as a pen drawing, two round towers with tall pointed spires. The stamp's pin on the map is on the gate."
+        },
+        {
+          "en": "By car, the next stop is the Watersnoodmuseum in the sea dike at Ouwerkerk. It is housed in four Phoenix caissons, built in Britain for the Allied landings. In the night of 6 to 7 November 1953 they closed the breach at Ouwerkerk, the last of the flood. One in six people in the village had died. The museum is open daily from 10:00 to 17:00, with the ticket desk closing at 16:15. Adults pay €16. The Museumkaart is valid. The museum asks visitors not to drive through the village of Ouwerkerk.",
+          "de": "Mit dem Auto ist das Watersnoodmuseum im Seedeich bei Ouwerkerk die nächste Station. Es steckt in vier Phoenix-Caissons, die in Großbritannien für die Landung der Alliierten gebaut wurden. In der Nacht vom 6. auf den 7. November 1953 schlossen sie den Deichbruch bei Ouwerkerk, den letzten der Flut. Im Dorf war jeder sechste Einwohner gestorben. Das Museum ist täglich von 10 bis 17 Uhr geöffnet, die Kasse schließt um 16.15 Uhr. Erwachsene zahlen 16 €. Die Museumkaart gilt. Das Museum bittet die Besucher, nicht durch das Dorf Ouwerkerk zu fahren.",
+          "fr": "En voiture, l'étape suivante est le Watersnoodmuseum, dans la digue de mer à Ouwerkerk. Il occupe quatre caissons Phoenix, construits en Grande-Bretagne pour le débarquement allié. Dans la nuit du 6 au 7 novembre 1953, ils ont fermé la brèche d'Ouwerkerk, la dernière de l'inondation. Dans le village, une personne sur six était morte. Le musée ouvre tous les jours de 10 h à 17 h, la caisse ferme à 16 h 15. L'entrée adulte coûte 16 €. La Museumkaart est acceptée. Le musée demande aux visiteurs de ne pas traverser le village d'Ouwerkerk en voiture.",
+          "it": "By car, the next stop is the Watersnoodmuseum in the sea dike at Ouwerkerk. It is housed in four Phoenix caissons, built in Britain for the Allied landings. In the night of 6 to 7 November 1953 they closed the breach at Ouwerkerk, the last of the flood. One in six people in the village had died. The museum is open daily from 10:00 to 17:00, with the ticket desk closing at 16:15. Adults pay €16. The Museumkaart is valid. The museum asks visitors not to drive through the village of Ouwerkerk.",
+          "nl": "Met de auto is het Watersnoodmuseum in de zeedijk bij Ouwerkerk de volgende stop. Het museum is ondergebracht in vier Phoenixcaissons, die in Groot-Brittannië werden gebouwd voor de geallieerde landing. In de nacht van 6 op 7 november 1953 sloten ze het gat bij Ouwerkerk, het laatste gat van de ramp. In het dorp was een op de zes inwoners omgekomen. Het museum is dagelijks open van 10:00 tot 17:00, de kassa sluit om 16:15. Volwassenen betalen € 16. De Museumkaart is geldig. Het museum vraagt bezoekers niet door het dorp Ouwerkerk te rijden.",
+          "pl": "By car, the next stop is the Watersnoodmuseum in the sea dike at Ouwerkerk. It is housed in four Phoenix caissons, built in Britain for the Allied landings. In the night of 6 to 7 November 1953 they closed the breach at Ouwerkerk, the last of the flood. One in six people in the village had died. The museum is open daily from 10:00 to 17:00, with the ticket desk closing at 16:15. Adults pay €16. The Museumkaart is valid. The museum asks visitors not to drive through the village of Ouwerkerk.",
+          "cs": "By car, the next stop is the Watersnoodmuseum in the sea dike at Ouwerkerk. It is housed in four Phoenix caissons, built in Britain for the Allied landings. In the night of 6 to 7 November 1953 they closed the breach at Ouwerkerk, the last of the flood. One in six people in the village had died. The museum is open daily from 10:00 to 17:00, with the ticket desk closing at 16:15. Adults pay €16. The Museumkaart is valid. The museum asks visitors not to drive through the village of Ouwerkerk.",
+          "sk": "By car, the next stop is the Watersnoodmuseum in the sea dike at Ouwerkerk. It is housed in four Phoenix caissons, built in Britain for the Allied landings. In the night of 6 to 7 November 1953 they closed the breach at Ouwerkerk, the last of the flood. One in six people in the village had died. The museum is open daily from 10:00 to 17:00, with the ticket desk closing at 16:15. Adults pay €16. The Museumkaart is valid. The museum asks visitors not to drive through the village of Ouwerkerk.",
+          "ro": "By car, the next stop is the Watersnoodmuseum in the sea dike at Ouwerkerk. It is housed in four Phoenix caissons, built in Britain for the Allied landings. In the night of 6 to 7 November 1953 they closed the breach at Ouwerkerk, the last of the flood. One in six people in the village had died. The museum is open daily from 10:00 to 17:00, with the ticket desk closing at 16:15. Adults pay €16. The Museumkaart is valid. The museum asks visitors not to drive through the village of Ouwerkerk.",
+          "hu": "By car, the next stop is the Watersnoodmuseum in the sea dike at Ouwerkerk. It is housed in four Phoenix caissons, built in Britain for the Allied landings. In the night of 6 to 7 November 1953 they closed the breach at Ouwerkerk, the last of the flood. One in six people in the village had died. The museum is open daily from 10:00 to 17:00, with the ticket desk closing at 16:15. Adults pay €16. The Museumkaart is valid. The museum asks visitors not to drive through the village of Ouwerkerk.",
+          "da": "By car, the next stop is the Watersnoodmuseum in the sea dike at Ouwerkerk. It is housed in four Phoenix caissons, built in Britain for the Allied landings. In the night of 6 to 7 November 1953 they closed the breach at Ouwerkerk, the last of the flood. One in six people in the village had died. The museum is open daily from 10:00 to 17:00, with the ticket desk closing at 16:15. Adults pay €16. The Museumkaart is valid. The museum asks visitors not to drive through the village of Ouwerkerk."
+        }
+      ]
+    }
+  ]
+}
