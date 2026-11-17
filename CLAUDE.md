@@ -10,6 +10,7 @@ StampIQ Landing is the static marketing site and legal pages for stampiq.io, bui
 The site is active. The latest work on 2026-11-15 added YouTube ad static pages for Google Ads, excluded from the sitemap. One open issue remains: final pricing and producibility confirmation from DDM for the DBZ 22 insert.
 
 ## Recent activity
+- 2026-11-17: Ad code /p/<CODE> routes wired to App Store and Google Play with platform-specific referrer; desktop shows the code (54c1491)
 - 2026-11-15: YouTube ad code paths served as static 200 pages for Google Ads, excluded from sitemap (1 commit)
 - 2026-10-02: Catalogue issue format number column made optional (addc857)
 - 2026-09-24: Blog card layout fixes, centred text block, button support on steps/checklist/tiles/specs/issue blocks, privacy withdrawal clause and EEA authority wording corrected, German and French copy revised for native-speaker quality (6 commits)
@@ -39,7 +40,6 @@ The site is active. The latest work on 2026-11-15 added YouTube ad static pages 
 - 2026-07-11: Synced CLAUDE.md (3f3d42b)
 - 2026-07-10: Synced CLAUDE.md (74dca1f)
 - 2026-07-09: Sync CLAUDE.md (c686630)
-- 2026-07-08: sync CLAUDE.md (5c6daba)
 
 ## Open issues
 - Obtain final pricing and producibility confirmation from DDM for DBZ 22 insert.
