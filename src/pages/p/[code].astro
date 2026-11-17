@@ -1,12 +1,71 @@
 ---
-// Google Ads rejects a final URL that answers 404, and /p/<CODE> is otherwise
-// served by the 404 page. These codes get the same page as a static file so
-// GitHub Pages answers 200.
-import PromoPage from '../404.astro';
-
+// Ad codes send the visitor straight to the store, like /redirect. The code
+// rides along in the Play referrer so Play Console reports installs per code.
+// With the app installed this page never loads: the universal link opens the
+// app, which redeems the code.
 export function getStaticPaths() {
-  return ['ALBUM36', 'ZAHN36', 'EULE36', 'STEMPEL36'].map((code) => ({ params: { code } }));
+  const sources = { '14': 'instagram', '25': 'facebook', '36': 'youtube' };
+  return ['ALBUM', 'ZAHN', 'EULE', 'STEMPEL'].flatMap((ad) =>
+    Object.entries(sources).map(([n, source]) => ({
+      params: { code: `${ad}${n}` },
+      props: { source },
+    }))
+  );
 }
+
+const { code } = Astro.params;
+const { source } = Astro.props;
+const appStore = 'https://apps.apple.com/app/id6760778035';
+const playStore =
+  'https://play.google.com/store/apps/details?id=io.stampiq.app&referrer=' +
+  encodeURIComponent(`utm_source=${source}&utm_medium=paid&utm_campaign=${code}`);
 ---
 
-<PromoPage />
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="noindex" />
+    <title>StampIQ</title>
+    <script is:inline define:vars={{ appStore, playStore }}>
+      var ua = navigator.userAgent || '';
+      if (/iPad|iPhone|iPod/.test(ua)) location.replace(appStore);
+      else if (/android/i.test(ua)) location.replace(playStore);
+    </script>
+    <style>
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        margin: 0;
+        padding: 0 16px;
+        background-color: #f9f9f9;
+        color: #222222;
+        text-align: center;
+      }
+      .code {
+        font-size: 24px;
+        font-weight: 700;
+        letter-spacing: 1px;
+        margin: 8px 0 24px;
+      }
+      a {
+        display: block;
+        margin: 8px 0;
+        color: #222222;
+        font-weight: 600;
+      }
+    </style>
+  </head>
+  <body>
+    <div>
+      <p>1 Monat Professional gratis mit dem Code</p>
+      <p class="code">{code}</p>
+      <a href={appStore}>Laden im App Store</a>
+      <a href={playStore}>Jetzt bei Google Play</a>
+    </div>
+  </body>
+</html>
