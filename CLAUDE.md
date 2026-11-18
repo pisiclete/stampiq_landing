@@ -7,7 +7,7 @@
 StampIQ Landing is the static marketing site and legal pages for stampiq.io, built with Astro and React and deployed to GitHub Pages. It serves six language versions across marketing pages, privacy/terms/account deletion, and a blog system where content is written externally by the cockpit and committed as JSON. The site uses per-language URLs with hreflang tags for SEO, client-side country detection for pricing currency, and a legacy query-string redirect to handle app store listing URLs that were registered before the migration to slash-based language routing.
 
 ## Current status
-The site is active. The latest work on 2026-11-15 added YouTube ad static pages for Google Ads, excluded from the sitemap. One open issue remains: final pricing and producibility confirmation from DDM for the DBZ 22 insert.
+The site is active. The latest commit on 2026-11-17 wired twelve /p/<CODE> ad routes to App Store and Google Play with platform-specific referrers; desktop shows the code. One open issue remains: final pricing and producibility confirmation from DDM for the DBZ 22 insert.
 
 ## Recent activity
 - 2026-11-17: Ad code /p/<CODE> routes wired to App Store and Google Play with platform-specific referrer; desktop shows the code (54c1491)
@@ -45,5 +45,5 @@ The site is active. The latest work on 2026-11-15 added YouTube ad static pages 
 - Obtain final pricing and producibility confirmation from DDM for DBZ 22 insert.
 
 ## Handoff notes
-The only open item is awaiting DDM's final pricing and producibility confirmation for the DBZ 22 insert (105x210 mm folded, 315x210 mm open). Recent feature work covered YouTube ad code paths, the eleven-language expansion, Turnstile-gated waitlist form, /s/<SCAN_ID> label route, blog addition with mobile layout fixes, Swiss flag newsletter asset, fair-stand privacy policy update, the /subscribe deep-link path, and earlier promo and universal-link paths. Daily CLAUDE.md commits appear automated and carry no functional changes.
+The only open item is awaiting DDM's final pricing and producibility confirmation for the DBZ 22 insert (105x210 mm folded, 315x210 mm open). Recent feature work covered the /p/<CODE> ad routes, YouTube ad code static pages excluded from the sitemap, the eleven-language expansion, Turnstile-gated waitlist form, /s/<SCAN_ID> label route, blog addition with mobile layout fixes, Swiss flag newsletter asset, fair-stand privacy policy update, and the /subscribe deep-link path. Daily CLAUDE.md commits appear automated and carry no functional changes.
 <!-- sigi-end -->
