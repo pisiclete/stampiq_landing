@@ -3,6 +3,8 @@
 // rides along in the Play referrer so Play Console reports installs per code.
 // With the app installed this page never loads: the universal link opens the
 // app, which redeems the code.
+import PromoPage from '../../components/PromoPage.astro';
+
 export function getStaticPaths() {
   const sources = { '14': 'instagram', '25': 'facebook', '36': 'youtube' };
   return ['ALBUM', 'ZAHN', 'EULE', 'STEMPEL'].flatMap((ad) =>
@@ -21,51 +23,10 @@ const playStore =
   encodeURIComponent(`utm_source=${source}&utm_medium=paid&utm_campaign=${code}`);
 ---
 
-<!doctype html>
-<html lang="de">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="robots" content="noindex" />
-    <title>StampIQ</title>
-    <script is:inline define:vars={{ appStore, playStore }}>
-      var ua = navigator.userAgent || '';
-      if (/iPad|iPhone|iPod/.test(ua)) location.replace(appStore);
-      else if (/android/i.test(ua)) location.replace(playStore);
-    </script>
-    <style>
-      body {
-        font-family: -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        min-height: 100vh;
-        margin: 0;
-        padding: 0 16px;
-        background-color: #f9f9f9;
-        color: #222222;
-        text-align: center;
-      }
-      .code {
-        font-size: 24px;
-        font-weight: 700;
-        letter-spacing: 1px;
-        margin: 8px 0 24px;
-      }
-      a {
-        display: block;
-        margin: 8px 0;
-        color: #222222;
-        font-weight: 600;
-      }
-    </style>
-  </head>
-  <body>
-    <div>
-      <p>1 Monat Professional gratis mit dem Code</p>
-      <p class="code">{code}</p>
-      <a href={appStore}>Laden im App Store</a>
-      <a href={playStore}>Jetzt bei Google Play</a>
-    </div>
-  </body>
-</html>
+<PromoPage mode="sub" code={code} titleKey="promoPage.title_month" {appStore} {playStore}>
+  <script slot="head" is:inline define:vars={{ appStore, playStore }}>
+    var ua = navigator.userAgent || '';
+    if (/iPad|iPhone|iPod/.test(ua)) location.replace(appStore);
+    else if (/android/i.test(ua)) location.replace(playStore);
+  </script>
+</PromoPage>

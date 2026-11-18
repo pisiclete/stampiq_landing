@@ -1,0 +1,659 @@
+---
+// Shared layout for the QR and ad code landings, built from the landing hero.
+// `mode` is 'auto' on the 404 page, which reads /p, /r or /s from the path on
+// load; the ad code pages pass 'sub' with the code. The script only swaps text
+// and shows elements. It never navigates: a JS redirect on /p, /r, /s breaks
+// universal-link resolution.
+import '../styles/tokens.css';
+import { Logo, SigiPose, SCREEN_LANGS } from './components.jsx';
+import { tFor } from '../i18n/lookup.js';
+import { PAGE_LANGS } from '../i18n/langs.mjs';
+
+interface Props {
+  mode: 'auto' | 'sub';
+  code?: string;
+  titleKey?: string;
+  appStore?: string;
+  playStore?: string;
+}
+
+const {
+  mode,
+  code = '',
+  titleKey = 'promoPage.title',
+  appStore = 'https://apps.apple.com/app/id6760778035',
+  playStore = 'https://play.google.com/store/apps/details?id=io.stampiq.app',
+} = Astro.props;
+
+const KEYS = [
+  'promo.title',
+  'promo.subtitle',
+  'promo.website',
+  'pageLabel.title',
+  'pageLabel.subtitle',
+  'promoPage.pill',
+  'promoPage.title',
+  'promoPage.title_month',
+  'promoPage.copy',
+  'promoPage.copied',
+  'promoPage.benefit.1',
+  'promoPage.benefit.2',
+  'promoPage.benefit.3',
+  'promoPage.benefit.4',
+  'promoPage.benefit.5',
+  'promoPage.howto',
+  'promoPage.qr',
+  'badge.web.top',
+  'badge.web.bottom',
+];
+const strings = {};
+for (const l of PAGE_LANGS) {
+  strings[l] = {};
+  for (const k of KEYS) strings[l][k] = tFor(l, k);
+}
+const en = strings.en;
+const webApp = import.meta.env.PUBLIC_APP_URL || 'https://app.stampiq.io';
+const check =
+  '<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>';
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="noindex" />
+    <title>StampIQ</title>
+    <link rel="icon" type="image/png" href="/favicon.png?v=2" />
+    <slot name="head" />
+  </head>
+  <body>
+    <header class="bar">
+      <a href="/" aria-label="StampIQ"><Logo height={30} /></a>
+    </header>
+
+    <main class="hero" data-mode={mode} data-code={code}>
+      <div class="split">
+        <div class="text">
+          <span class="pill" data-show="sub" data-key="promoPage.pill">{en['promoPage.pill']}</span>
+          <h1 id="title" data-key={mode === 'sub' ? titleKey : 'promo.title'}>
+            {mode === 'sub' ? en[titleKey] : en['promo.title']}
+          </h1>
+          <p class="lead" id="subtitle" data-hide="sub">{en['promo.subtitle']}</p>
+
+          <div class="code-field" data-show="sub">
+            <span id="code">{code}</span>
+            <button id="copy" type="button">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
+              <span id="copyLabel" data-key="promoPage.copy">{en['promoPage.copy']}</span>
+            </button>
+          </div>
+
+          <ul class="checks" data-show="sub">
+            {[1, 2, 3, 4, 5].map((i) => (
+              <li>
+                <span class="tick" set:html={check} />
+                <span data-key={`promoPage.benefit.${i}`}>{en[`promoPage.benefit.${i}`]}</span>
+              </li>
+            ))}
+          </ul>
+
+          <p class="howto" data-show="sub" data-key="promoPage.howto">{en['promoPage.howto']}</p>
+
+          <div class="get">
+            <div class="badges" id="badges">
+              <a class="badge ios" href={appStore}
+                ><img id="badgeIos" src="/assets/badges/app-store.svg" alt="App Store" /></a
+              >
+              <a class="badge android" href={playStore}
+                ><img id="badgeAndroid" class="flat" src="/assets/badges/play-store.svg?v=2" alt="Google Play" /></a
+              >
+              <a class="badge web" id="webBadge" href={`${webApp}/?lang=en`} data-show="sub">
+                <svg width="25" height="25" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
+                <span>
+                  <small data-key="badge.web.top" set:html={en['badge.web.top']} />
+                  <strong data-key="badge.web.bottom" set:html={en['badge.web.bottom']} />
+                </span>
+              </a>
+            </div>
+            <div class="qr-card" id="qrCard" hidden>
+              <div class="qr" id="qr"></div>
+              <span data-key="promoPage.qr">{en['promoPage.qr']}</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="phone-wrap" aria-hidden="true">
+          <img class="decor d1" src="/assets/decor/stamp-silhouette-white.svg" alt="" />
+          <img class="decor d2" src="/assets/decor/stamp-silhouette-white.svg" alt="" />
+          <img class="decor d3" src="/assets/decor/stamp-silhouette-white.svg" alt="" />
+          <img class="decor d4" src="/assets/decor/stamp-silhouette-white.svg" alt="" />
+          <div class="phone">
+            <div class="screen"><img id="phoneShot" src="/assets/screens/en/home.webp" alt="" /></div>
+          </div>
+          <SigiPose pose="waving" size={220} className="sigi" />
+        </div>
+      </div>
+
+      <a class="website" href="/" data-key="promo.website">{en['promo.website']}</a>
+    </main>
+
+    <script is:inline define:vars={{ strings, PAGE_LANGS, SCREEN_LANGS, webApp }}>
+      (function () {
+        var page = document.querySelector('.hero');
+        var mode = page.dataset.mode;
+        var path = location.pathname || '';
+        var code = page.dataset.code;
+        var title = document.getElementById('title');
+        var subtitle = document.getElementById('subtitle');
+        if (mode === 'auto') {
+          if (/^\/p\//.test(path)) mode = 'sub';
+          else if (/^\/s\//.test(path)) mode = 'label';
+          else if (/^\/r\//.test(path)) mode = 'scan';
+          else {
+            location.replace('/');
+            return;
+          }
+          if (mode === 'sub') {
+            var raw = path.replace(/^\/p\//, '').split('/')[0] || '';
+            try {
+              code = decodeURIComponent(raw).trim();
+            } catch (e) {
+              code = raw.trim();
+            }
+            title.dataset.key = 'promoPage.title';
+          } else if (mode === 'label') {
+            title.dataset.key = 'pageLabel.title';
+            subtitle.dataset.key = 'pageLabel.subtitle';
+          } else {
+            subtitle.dataset.key = 'promo.subtitle';
+          }
+        }
+        if (mode === 'sub' && !code) {
+          mode = 'scan';
+          title.dataset.key = 'promo.title';
+          subtitle.dataset.key = 'promo.subtitle';
+        }
+        page.dataset.mode = mode;
+
+        var lang = 'en';
+        var saved = null;
+        try {
+          saved = localStorage.getItem('language');
+        } catch (e) {}
+        if (saved && PAGE_LANGS.indexOf(saved) >= 0) lang = saved;
+        else {
+          var b = (navigator.language || 'en').split('-')[0].toLowerCase();
+          if (PAGE_LANGS.indexOf(b) >= 0) lang = b;
+        }
+        var s = strings[lang] || strings.en;
+        document.documentElement.lang = lang;
+        document.querySelectorAll('[data-key]').forEach(function (el) {
+          var v = s[el.dataset.key];
+          if (v) el.innerHTML = v;
+        });
+
+        if (lang !== 'en') {
+          document.getElementById('badgeIos').src = '/assets/badges/store/app-store-' + lang + '.svg';
+          var play = document.getElementById('badgeAndroid');
+          play.src = '/assets/badges/store/google-play-' + lang + '.png';
+          play.classList.remove('flat');
+        }
+        document.getElementById('webBadge').href = webApp + '/?lang=' + lang;
+        var shotLang = SCREEN_LANGS.indexOf(lang) >= 0 ? lang : 'en';
+        document.getElementById('phoneShot').src = '/assets/screens/' + shotLang + '/home.webp';
+
+        var ua = navigator.userAgent || '';
+        var isIos = /iPad|iPhone|iPod/.test(ua) || (/Macintosh/.test(ua) && navigator.maxTouchPoints > 1);
+        var isAndroid = /android/i.test(ua);
+        var badges = document.getElementById('badges');
+        if (isIos) badges.dataset.platform = 'ios';
+        else if (isAndroid) badges.dataset.platform = 'android';
+        else {
+          page.dataset.desktop = '';
+          if (mode !== 'label') {
+            document.getElementById('qrCard').hidden = false;
+            document.getElementById('qr').dataset.url = location.origin + path;
+          }
+        }
+
+        if (mode !== 'sub') return;
+        var codeEl = document.getElementById('code');
+        codeEl.textContent = code;
+        if (code.length > 12) codeEl.classList.add('long');
+        var copy = document.getElementById('copy');
+        var label = document.getElementById('copyLabel');
+        copy.addEventListener('click', function () {
+          if (!navigator.clipboard) return;
+          navigator.clipboard.writeText(code).then(function () {
+            label.textContent = s['promoPage.copied'];
+            copy.classList.add('done');
+            setTimeout(function () {
+              label.textContent = s['promoPage.copy'];
+              copy.classList.remove('done');
+            }, 2000);
+          });
+        });
+      })();
+    </script>
+
+    <script>
+      import qrcode from 'qrcode-generator';
+
+      const el = document.getElementById('qr');
+      const url = el?.dataset.url;
+      if (el && url) {
+        const qr = qrcode(0, 'M');
+        qr.addData(url);
+        qr.make();
+        el.innerHTML = qr.createSvgTag({ cellSize: 4, margin: 0, scalable: true });
+      }
+    </script>
+
+    <style is:global>
+      html,
+      body {
+        margin: 0;
+        background: var(--siq-bg);
+        overflow-x: hidden;
+      }
+    </style>
+
+    <style>
+      .bar {
+        background: var(--siq-surface);
+        border-bottom: 1px solid var(--siq-border-soft);
+        box-shadow: var(--siq-shadow-header);
+        padding: 14px 24px;
+        display: flex;
+        justify-content: center;
+      }
+      .bar a {
+        display: block;
+      }
+      .hero {
+        position: relative;
+        padding: 36px 0 40px;
+      }
+      .split {
+        max-width: 1280px;
+        margin: 0 auto;
+        padding: 0 16px;
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 48px;
+        text-align: center;
+      }
+      .pill {
+        display: inline-flex;
+        background: var(--siq-green-tint);
+        color: var(--siq-green-darker);
+        border-radius: var(--siq-radius-lg);
+        padding: 6px 16px;
+        font-size: var(--siq-fs-sm);
+        font-weight: var(--siq-fw-semibold);
+        margin-bottom: 20px;
+      }
+      h1 {
+        font-size: clamp(36px, 9vw, 64px);
+        font-weight: var(--siq-fw-extrabold);
+        line-height: 1.05;
+        letter-spacing: -0.02em;
+        margin: 0 0 24px;
+        text-wrap: balance;
+        background: var(--siq-grad-headline);
+        -webkit-background-clip: text;
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+      }
+      .lead {
+        font-size: var(--siq-fs-lg);
+        color: #555555;
+        line-height: 1.55;
+        margin: 0 auto 28px;
+        max-width: 540px;
+      }
+      .code-field {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        max-width: 420px;
+        height: 64px;
+        margin: 0 auto;
+        padding: 0 8px 0 20px;
+        box-sizing: border-box;
+        background: var(--siq-surface);
+        border: 1px solid var(--siq-border);
+        border-radius: var(--siq-radius-md);
+        box-shadow: var(--siq-shadow-card);
+      }
+      #code {
+        flex: 1;
+        text-align: left;
+        font-size: 24px;
+        font-weight: var(--siq-fw-bold);
+        letter-spacing: 0.08em;
+        color: var(--siq-fg);
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+      #code.long {
+        font-size: 18px;
+        letter-spacing: 0.04em;
+      }
+      #copy {
+        flex: none;
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+        height: 46px;
+        padding: 0 16px;
+        font: inherit;
+        font-size: var(--siq-fs-base);
+        font-weight: var(--siq-fw-semibold);
+        color: #ffffff;
+        background: var(--siq-green-darker);
+        border: 0;
+        border-radius: var(--siq-radius-sm);
+        cursor: pointer;
+        transition: background var(--siq-dur-quick) var(--siq-ease);
+      }
+      #copy:hover,
+      #copy.done {
+        background: var(--siq-green-deep);
+      }
+      .checks {
+        list-style: none;
+        padding: 0;
+        margin: 24px auto 0;
+        display: inline-block;
+        text-align: left;
+      }
+      .checks li {
+        display: flex;
+        gap: 14px;
+        align-items: flex-start;
+        padding: 6px 0;
+        font-size: var(--siq-fs-md);
+        line-height: 1.55;
+        color: var(--siq-fg);
+      }
+      .tick {
+        flex: none;
+        width: 24px;
+        height: 24px;
+        border-radius: 50%;
+        background: var(--siq-green);
+        color: #ffffff;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 1px;
+      }
+      .howto {
+        font-size: var(--siq-fs-md);
+        color: #555555;
+        line-height: 1.55;
+        margin: 18px auto 0;
+        max-width: 460px;
+      }
+      .get {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        gap: 24px;
+        margin-top: 28px;
+      }
+      .badges {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        gap: 14px;
+      }
+      .badge {
+        display: block;
+        height: 54px;
+        overflow: hidden;
+        border-radius: 8px;
+      }
+      .badge img {
+        display: block;
+        height: 70px;
+        margin-top: -8px;
+      }
+      .badge.ios img,
+      .badge img.flat {
+        height: 100%;
+        margin-top: 0;
+      }
+      .badge.web {
+        display: none;
+        align-items: center;
+        gap: 9px;
+        padding: 0 16px;
+        box-sizing: border-box;
+        background: #000000;
+        color: #ffffff;
+        border: 1px solid rgba(255, 255, 255, 0.3);
+        text-decoration: none;
+        text-align: left;
+      }
+      .badge.web span {
+        display: flex;
+        flex-direction: column;
+        line-height: 1.15;
+      }
+      .badge.web small {
+        font-size: 10px;
+      }
+      .badge.web strong {
+        font-size: 16px;
+        font-weight: 600;
+      }
+      .badges[data-platform='ios'] .android,
+      .badges[data-platform='android'] .ios {
+        display: none;
+      }
+      .badges[data-platform] .badge {
+        height: 60px;
+      }
+      .badges[data-platform] .badge img {
+        height: 78px;
+        margin-top: -9px;
+      }
+      .badges[data-platform] .badge.ios img,
+      .badges[data-platform] .badge img.flat {
+        height: 100%;
+        margin-top: 0;
+      }
+      .hero[data-desktop][data-mode='sub'] .badge.web {
+        display: inline-flex;
+      }
+      .qr-card {
+        display: flex;
+        align-items: center;
+        gap: 14px;
+        padding: 10px 16px 10px 10px;
+        background: var(--siq-surface);
+        border-radius: var(--siq-radius-md);
+        box-shadow: var(--siq-shadow-soft);
+        font-size: var(--siq-fs-sm);
+        font-weight: var(--siq-fw-medium);
+        color: var(--siq-fg);
+        max-width: 200px;
+        text-align: left;
+      }
+      .qr-card[hidden] {
+        display: none;
+      }
+      .qr {
+        flex: none;
+        width: 84px;
+        height: 84px;
+      }
+      .qr :global(svg) {
+        display: block;
+        width: 100%;
+        height: 100%;
+      }
+      .phone-wrap {
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 10px 0 20px;
+      }
+      .decor {
+        position: absolute;
+        width: 110px;
+        opacity: 0.7;
+        pointer-events: none;
+        z-index: 0;
+      }
+      .d1 {
+        top: 4%;
+        left: 50%;
+        transform: translateX(-190%) rotate(-18deg);
+      }
+      .d2 {
+        top: 14%;
+        left: 50%;
+        transform: translateX(90%) rotate(15deg);
+      }
+      .d3 {
+        bottom: 8%;
+        left: 50%;
+        transform: translateX(-200%) rotate(22deg);
+      }
+      .d4 {
+        display: none;
+      }
+      .phone {
+        position: relative;
+        z-index: 1;
+        width: 250px;
+        height: 516px;
+        background: #000000;
+        border-radius: 38px;
+        padding: 8px;
+        box-sizing: border-box;
+        box-shadow:
+          0 30px 60px rgba(0, 0, 0, 0.25),
+          0 0 0 2px #1a1a1a;
+      }
+      .screen {
+        width: 100%;
+        height: 100%;
+        border-radius: 30px;
+        overflow: hidden;
+        background: #ffffff;
+      }
+      .screen img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        object-position: top;
+        display: block;
+      }
+      .phone-wrap :global(.sigi) {
+        position: absolute;
+        z-index: 2;
+        width: 150px !important;
+        right: calc(50% - 205px);
+        bottom: -10px;
+      }
+      .website {
+        display: block;
+        text-align: center;
+        margin-top: 24px;
+        color: var(--siq-fg-muted);
+        font-size: var(--siq-fs-base);
+        font-weight: var(--siq-fw-medium);
+        text-decoration: none;
+      }
+      .website:hover {
+        color: var(--siq-fg);
+      }
+
+      .hero:not([data-mode='sub']) [data-show='sub'],
+      .hero[data-mode='sub'] [data-hide='sub'] {
+        display: none !important;
+      }
+
+      @media (min-width: 901px) {
+        .bar {
+          justify-content: flex-start;
+          padding: 16px max(24px, calc((100vw - 1232px) / 2));
+        }
+        .hero {
+          padding: 60px 0;
+        }
+        .split {
+          grid-template-columns: 1.15fr 0.85fr;
+          gap: 60px;
+          align-items: center;
+          padding: 0 24px;
+          text-align: left;
+        }
+        h1 {
+          font-size: clamp(40px, 5vw, 64px);
+        }
+        .lead,
+        .howto {
+          margin-left: 0;
+        }
+        .code-field {
+          margin: 0;
+        }
+        .checks {
+          display: block;
+        }
+        .get,
+        .badges {
+          justify-content: flex-start;
+        }
+        .phone-wrap {
+          min-height: 600px;
+        }
+        .phone {
+          width: 300px;
+          height: 620px;
+        }
+        .decor {
+          width: 170px;
+          opacity: 1;
+        }
+        .d1 {
+          top: 8%;
+          transform: translateX(-130%) rotate(-18deg);
+        }
+        .d2 {
+          top: 20%;
+          transform: translateX(60%) rotate(15deg);
+        }
+        .d3 {
+          bottom: 10%;
+          transform: translateX(-150%) rotate(22deg);
+        }
+        .d4 {
+          display: block;
+          top: 55%;
+          right: -100px;
+          width: 220px;
+          transform: rotate(-8deg);
+        }
+        .phone-wrap :global(.sigi) {
+          width: 220px !important;
+          right: -40px;
+          bottom: -30px;
+        }
+        .website {
+          margin-top: 40px;
+        }
+      }
+    </style>
+  </body>
+</html>

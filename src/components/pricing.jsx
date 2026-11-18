@@ -19,6 +19,27 @@ const PriceFeatureRow = ({ icon, titleKey, descKey, t }) => (
   </div>
 );
 
+const svg = (children) => (
+  <svg width={22} height={22} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">{children}</svg>
+);
+
+const FEATURE_ICONS = {
+  recognition: <Icons.Eye/>,
+  scans: <Icons.Calendar/>,
+  unlimitedScans: <Icons.Infinity/>,
+  bulkScan: <Icons.Grid/>,
+  covers: svg(<><rect x="3" y="11" width="11" height="9" rx="1"/><path d="M3 12l5.5 4L14 12"/><path d="M7 11V5a1 1 0 0 1 1-1h12a1 1 0 0 1 1 1v9a1 1 0 0 1-1 1h-6"/><path d="M15 7h3v3h-3z"/></>),
+  motifs: svg(<><path d="M6.5 3L10 9H3z"/><path d="M17.5 9.5s-3.5-2.2-3.5-4.5a2 2 0 0 1 3.5-1.3A2 2 0 0 1 21 5c0 2.3-3.5 4.5-3.5 4.5z"/><circle cx="6.5" cy="17.5" r="3.5"/><rect x="14" y="14" width="7" height="7" rx="1"/></>),
+  records: svg(<><rect x="3" y="4" width="18" height="4" rx="1"/><path d="M5 8v11a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V8"/><path d="M10 12h4"/></>),
+  discovery: svg(<><circle cx="12" cy="12" r="10"/><path d="M16.2 7.8l-2.1 6.3-6.3 2.1 2.1-6.3z"/></>),
+  catalog: svg(<><path d="M4 22h14a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-2 2zm0 0a2 2 0 0 1-2-2v-9c0-1.1.9-2 2-2h2"/><path d="M10 6h6M10 10h6M10 14h4"/></>),
+  catalogPurchase: svg(<><path d="M6 2L3 6v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6l-3-4z"/><path d="M3 6h18"/><path d="M16 10a4 4 0 0 1-8 0"/></>),
+  sigi: svg(<path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/>),
+  support: svg(<><rect x="2" y="4" width="20" height="16" rx="2"/><path d="M22 7l-10 6L2 7"/></>),
+  help: svg(<><circle cx="12" cy="12" r="10"/><path d="M9.1 9a3 3 0 0 1 5.8 1c0 2-3 3-3 3"/><path d="M12 17h.01"/></>),
+  priority: <Icons.Medal/>,
+};
+
 const SAVE_TMPL = {
   en: (n) => `Save ${n}%`,
   de: (n) => `Spare ${n} %`,
@@ -26,6 +47,12 @@ const SAVE_TMPL = {
   it: (n) => `Risparmia il ${n}%`,
   nl: (n) => `Bespaar ${n}%`,
   pl: (n) => `Zaoszczędź ${n}%`,
+};
+
+const iconFor = (tier, feature) => {
+  if (feature !== 'support') return feature;
+  if (tier === 'free') return 'help';
+  return tier === 'pro' ? 'priority' : 'support';
 };
 
 export const Pricing = () => {
@@ -43,8 +70,8 @@ export const Pricing = () => {
   const savePct = Math.round((1 - num(cdata.premium_yearly) / (12 * num(cdata.premium_monthly))) * 100);
   const saveLabel = (SAVE_TMPL[lang] || SAVE_TMPL.en)(savePct);
   const prices = {
-    monthly: { premium: fmt(cdata.premium_monthly), pro: fmt(cdata.pro_monthly), unit: '/month' },
-    yearly:  { premium: fmt(cdata.premium_yearly),  pro: fmt(cdata.pro_yearly),  unit: '/year' },
+    monthly: { premium: fmt(cdata.premium_monthly), pro: fmt(cdata.pro_monthly), unit: t('pricing.unit.month') },
+    yearly:  { premium: fmt(cdata.premium_yearly),  pro: fmt(cdata.pro_yearly),  unit: t('pricing.unit.year') },
   };
   const p = prices[billing];
 
@@ -53,7 +80,7 @@ export const Pricing = () => {
       key: 'free',
       headerKind: 'free',
       priceLabel: 'Free',
-      featureCount: 4,
+      features: ['recognition', 'scans', 'covers', 'motifs', 'records', 'discovery', 'sigi', 'support'],
     },
     {
       key: 'premium',
@@ -61,27 +88,19 @@ export const Pricing = () => {
       popular: true,
       priceMain: p.premium,
       priceUnit: p.unit,
-      featureCount: 5,
+      features: ['catalog', 'unlimitedScans', 'bulkScan', 'covers', 'motifs', 'catalogPurchase', 'sigi', 'support'],
     },
     {
       key: 'pro',
       headerKind: 'free',
       priceMain: p.pro,
       priceUnit: p.unit,
-      includesEverything: true,
-      featureCount: 3,
+      features: ['catalog', 'bulkScan', 'covers', 'sigi', 'support'],
     },
   ];
 
-  const featureIconsByTier = {
-    free:    [<Icons.Eye/>, <Icons.Calendar/>, <Icons.Info/>, <Icons.NoEntry/>],
-    premium: [<Icons.Eye/>, <Icons.Infinity/>, <Icons.Grid/>, <Icons.History/>, <Icons.Stars/>],
-    pro:     [<Icons.Eye/>, <Icons.Grid/>, <Icons.Medal/>],
-  };
-
   const renderCard = (tier) => {
     const isGreen = tier.headerKind === 'green';
-    const icons = featureIconsByTier[tier.key];
     return (
       <div key={tier.key} style={{
         position: 'relative',
@@ -119,13 +138,11 @@ export const Pricing = () => {
               </>
             )}
           </div>
-          {tier.key === 'free' && (
-            <div style={{ marginTop: 10, fontSize: 13.5, color: isGreen ? 'rgba(255,255,255,0.92)' : SIQ.fgSubtle, lineHeight: 1.5 }} dangerouslySetInnerHTML={{ __html: t(`pricing.tier.${tier.key}.sub`) }}/>
-          )}
+          <div style={{ marginTop: 10, fontSize: 13.5, color: isGreen ? 'rgba(255,255,255,0.92)' : SIQ.fgSubtle, lineHeight: 1.5 }} dangerouslySetInnerHTML={{ __html: t(`pricing.plan.${tier.key}.summary`) }}/>
         </div>
 
         <div style={{ padding: '20px 24px 26px', display: 'flex', flexDirection: 'column', flex: 1 }}>
-          {tier.includesEverything && (
+          {tier.key !== 'free' && (
             <div style={{
               display: 'flex', alignItems: 'center', gap: 10,
               background: SIQ.greenTint, color: SIQ.greenDarker,
@@ -136,15 +153,15 @@ export const Pricing = () => {
                 width: 20, height: 20, borderRadius: '50%', background: SIQ.green, color: 'white',
                 display: 'inline-flex', alignItems: 'center', justifyContent: 'center', flexShrink: 0,
               }}><Icons.Check size={12}/></span>
-              <span dangerouslySetInnerHTML={{ __html: t(`pricing.tier.${tier.key}.includes_everything`) }}/>
+              <span dangerouslySetInnerHTML={{ __html: t(`pricing.plan.${tier.key}.inherits`) }}/>
             </div>
           )}
           <div style={{ flex: 1 }}>
-            {Array.from({ length: tier.featureCount }, (_, i) => (
-              <PriceFeatureRow key={i}
-                icon={icons[i]}
-                titleKey={`pricing.tier.${tier.key}.feature.${i + 1}.title`}
-                descKey={`pricing.tier.${tier.key}.feature.${i + 1}.desc`}
+            {tier.features.map((f) => (
+              <PriceFeatureRow key={f}
+                icon={FEATURE_ICONS[iconFor(tier.key, f)]}
+                titleKey={`pricing.plan.${tier.key}.${f}.title`}
+                descKey={`pricing.plan.${tier.key}.${f}.desc`}
                 t={t}
               />
             ))}
